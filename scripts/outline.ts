@@ -1,6 +1,6 @@
-import { loadNotes, splitNotes, config } from "./split-notes.ts";
+import { loadNotes, splitAll, config } from "./split-notes.ts";
 
-const books = splitNotes(loadNotes());
+const books = splitAll(loadNotes());
 for (const b of books) {
   console.log(`BOOK ${b.id}  "${b.title}"`);
   for (const c of b.chapters) {

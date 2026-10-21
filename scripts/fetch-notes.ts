@@ -27,21 +27,26 @@ function blk(rm: RecordMap, id: string): Block | undefined {
 
 const root = resolve(import.meta.dirname, "..");
 const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8"));
-const url: string = config.notionUrl;
-if (!url) {
-  console.error("quiz.config.json: notionUrl is empty");
+const urls: string[] = config.sources ?? (config.notionUrl ? [config.notionUrl] : []);
+if (!urls.length) {
+  console.error("quiz.config.json: `sources` is empty");
   process.exit(1);
 }
-const m = url.replace(/-/g, "").match(/([0-9a-f]{32})(?:[?#].*)?$/i);
-if (!m) {
-  console.error("Could not find a 32-hex page id in notionUrl");
-  process.exit(1);
+
+function pageIdFromUrl(url: string): string {
+  const m = url.replace(/-/g, "").match(/([0-9a-f]{32})(?:[?#].*)?$/i);
+  if (!m) throw new Error(`Could not find a 32-hex page id in ${url}`);
+  return m[1];
 }
-const pageId = m[1];
+
+function slugify(s: string): string {
+  const map: Record<string, string> = { ą: "a", ć: "c", ę: "e", ł: "l", ń: "n", ó: "o", ś: "s", ź: "z", ż: "z" };
+  return s.toLowerCase().replace(/[ąćęłńóśźż]/g, (c) => map[c]).normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+}
 
 const api = new NotionAPI();
 const visitedPages = new Set<string>();
-const out: string[] = [];
+let out: string[] = [];
 let headings = 0;
 
 function richText(rt?: RichText): string {
@@ -215,11 +220,17 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
   }
 }
 
-await renderPage(withDashes(pageId), 0, false);
-
-const md = out.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
 mkdirSync(resolve(root, "source"), { recursive: true });
-const dest = resolve(root, "source/notes.md");
-writeFileSync(dest, md);
-const words = md.split(/\s+/).filter(Boolean).length;
-console.log(`Wrote ${dest}: ${headings} headings, ${words} words`);
+for (const url of urls) {
+  const pageId = pageIdFromUrl(url);
+  out = [];
+  headings = 0;
+  visitedPages.clear();
+  await renderPage(withDashes(pageId), 0, false);
+  const md = out.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
+  const title = md.split("\n")[0].replace(/^#\s*/, "");
+  const dest = resolve(root, `source/${slugify(title) || pageId}.md`);
+  writeFileSync(dest, md);
+  const words = md.split(/\s+/).filter(Boolean).length;
+  console.log(`Wrote ${dest}: ${headings} headings, ${words} words`);
+}

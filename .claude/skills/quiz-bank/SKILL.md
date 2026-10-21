@@ -15,10 +15,10 @@ Builds the A–D quiz question bank from published Notion notes, calibrated on t
 - `all`: regenerate everything. Ask for confirmation first.
 
 ## Step 1: Get the notes
-1. Run `npm run fetch-notes`. It downloads the public link in `notionUrl` to `source/notes.md`. If `notionUrl` is empty, ask the user for the published link.
+1. Run `npm run fetch-notes`. It downloads every public link in `sources` (quiz.config.json) to `source/<page-title-slug>.md`, one file per page. If `sources` is empty, ask the user for the published link(s). To add a page, append its URL to `sources` and re-run.
 2. If the script fails, try WebFetch on the link.
 3. If that also returns too little, ask the user to export the page as Markdown into `source/`.
-4. Split into books/chapters using `bookHeading` / `chapterHeading`.
+4. Split into books/chapters with `npm run outline` (uses `chapterPattern`; see Project notes).
 5. Make ids from slugified titles: lowercase ASCII, strip Polish diacritics. Never use positions.
 
 ## Step 2: Example questions (required)
@@ -52,16 +52,19 @@ Re-read each question against the notes and STYLE.md as a sceptical examiner:
 - If fewer than 3 distractors or 0 correct phrasings remain, fix the question or set `status: "flagged"`.
 
 ## Step 5: Write + check
-1. Write `app/public/data/bank/<bookId>/<chapterId>.json` with `sourceHash`, then update `app/public/data/index.json`.
+1. Write `app/public/data/bank/<bookId>/<chapterId>.json` with `sourceHash`, then run `npm run build-index` to regenerate `app/public/data/index.json`.
 2. Run `npm run check-bank` and fix any errors.
 3. Report per chapter: number of questions created and flagged, plus 2 sample questions rendered as A–D.
 4. Ask before `git commit && git push`.
 
 ## Project notes (learned on first run, 2026-10-21)
 - The published page is **one Notion page** where each `# Rozdział N` is a *toggleable heading* holding the chapter's blocks as children. `fetch-notes` renders those children one heading level deeper, so sub-sections inside a chapter come out as `##`/`###`.
-- Therefore `quiz.config.json` uses `bookHeading: "h1"`, `chapterHeading: "h1"` and `chapterPattern: "^Rozdzia[łl]\\s+\\d+"`: an h1 that matches the pattern is a chapter; any other h1 (e.g. the book title) is a book. The page title itself is skipped.
+- Splitting (`scripts/split-notes.ts`, `splitAll`): every source file is split separately and books with the same id are merged. Any heading h1–h4 matching `chapterPattern` starts a chapter. The pattern has two groups: an optional book prefix and the chapter title, so both layouts work:
+  - page 1 (psychologia społeczna): `# “Psychologia Społeczna” Grzyb, Wojciszke` (h1 → book), then `# Rozdział 5` (toggle h1 → chapter);
+  - page 2 (historia i współczesność): `## “Psychologia i życie”, Zimbardo. Rozdział 1` (one h2 → book *and* chapter).
+  Any other h1 is a book heading. The first heading of each file (page title) is skipped. Headings that don't match (e.g. `## Ocenianie ludzi` inside Rozdział 5) are plain chapter text.
 - `npm run outline` prints books → chapters with word counts, target question counts and the full `sourceHash`. `npm run outline -- --dump <bookId>/<chapterId>` prints one chapter's text. Use these instead of splitting by hand.
 - The first bank (rozdzial-5) was written at roughly 25 questions per 1000 words because the notes are dense and the chapter is short; keep new chapters in the same range so the bank stays useful, not at the literal `questionsPer1000Words` default.
-- The user's 5 real exam questions (see `examples/`) are also stored in the bank as questions 01–05 of rozdzial-5, with extra stem/answer phrasings. Keep them when regenerating that chapter.
+- The user's 5 real exam questions (see `examples/`) are also stored in the bank as questions 01–05 of psychologia-spoleczna-grzyb-wojciszke/rozdzial-5, with extra stem/answer phrasings. Keep them when regenerating that chapter. They are the only examples so far, so STYLE.md applies to every book (including Zimbardo and Tavris) until the user adds examples from those classes.
 - `npm run check-bank` also warns about *length tells* (correct options on average >1.6× or <0.6× the distractor length). Fix warnings, not only errors.
 - **The notes are the only source of truth for facts, but the question text must not mention them.** Every stem, correct answer, distractor and explanation is grounded in `source/notes.md` (`sourceExcerpt` proves it). Still, never write „według notatek” / „zgodnie z notatkami” or any similar phrase in a stem or option: the exam doesn't know the notes exist, so phrase the question as a plain statement of fact. The user asked for this explicitly.

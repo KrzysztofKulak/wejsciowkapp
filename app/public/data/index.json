@@ -1,8 +1,30 @@
 {
   "books": [
     {
+      "id": "psychologia-i-zycie-zimbardo",
+      "title": "“Psychologia i życie”, Zimbardo",
+      "chapters": [
+        {
+          "id": "rozdzial-1",
+          "title": "Rozdział 1",
+          "questionCount": 25
+        }
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "title": "“Psychologia. Podejścia oraz Koncepcje”, Tavris",
+      "chapters": [
+        {
+          "id": "rozdzial-2",
+          "title": "Rozdział 2",
+          "questionCount": 21
+        }
+      ]
+    },
+    {
       "id": "psychologia-spoleczna-grzyb-wojciszke",
-      "title": "„Psychologia Społeczna” Grzyb, Wojciszke",
+      "title": "“Psychologia Społeczna” Grzyb, Wojciszke",
       "chapters": [
         {
           "id": "rozdzial-5",

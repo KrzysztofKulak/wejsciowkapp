@@ -1,0 +1,514 @@
+{
+  "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+  "chapterId": "rozdzial-2",
+  "chapterTitle": "Rozdział 2",
+  "sourceHash": "fa3440dc3f115065993d3fc32580bd899d32a426",
+  "questions": [
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-01",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Uporządkowany system twierdzeń i zasad, które służą wyjaśnieniu pewnych wydarzeń i zależności między nimi, to:"
+      ],
+      "correct": [
+        "teoria"
+      ],
+      "distractors": [
+        "hipoteza",
+        "definicja operacyjna",
+        "norma",
+        "korelacja",
+        "paradygmat",
+        "model",
+        "zmienna"
+      ],
+      "explanation": "Teoria to uporządkowany system twierdzeń i zasad; hipoteza to pojedyncze stwierdzenie, od którego zaczyna się praca naukowca.",
+      "sourceExcerpt": "Teoria - uporządkowany system twierdzeń i zasad, które służą wyjaśnieniu pewnych wydarzeń i zależności między nimi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-02",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Stwierdzenie zbudowane na podstawie innych odkryć, obserwacji lub istniejącej teorii, od którego zaczyna się praca naukowca, to:"
+      ],
+      "correct": [
+        "hipoteza"
+      ],
+      "distractors": [
+        "teoria",
+        "definicja operacyjna",
+        "norma",
+        "korelacja",
+        "zmienna zależna",
+        "sondaż",
+        "studium przypadku"
+      ],
+      "explanation": "Praca naukowca zaczyna się od hipotezy; definicje operacyjne określają potem, jak ją badać i mierzyć.",
+      "sourceExcerpt": "Praca naukowca zaczyna się od hipotezy: stwierdzenia zbudowanego na podstawie innych odkryć, obserwacji lub istniejącej teorii.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-03",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Określenie, jak badamy i mierzymy badane zachowania lub sytuacje, nosi nazwę:"
+      ],
+      "correct": [
+        "definicji operacyjnej"
+      ],
+      "distractors": [
+        "hipotezy badawczej",
+        "teorii naukowej",
+        "normy testowej",
+        "trafności kryterialnej",
+        "procedury standaryzacji",
+        "korelacji statystycznej",
+        "zmiennej niezależnej"
+      ],
+      "explanation": "Definicje operacyjne są potrzebne, by określić, o czym mówi hipoteza: jak badamy i mierzymy badane zachowania lub sytuacje.",
+      "sourceExcerpt": "Potrzebne są definicje operacyjne, które określają jak badamy i mierzymy badane zachowania lub sytuacje.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-04",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zasada, zgodnie z którą teoria naukowa musi przewidywać nie tylko, co się stanie, ale też co się nie stanie, to zasada:"
+      ],
+      "correct": [
+        "falsyfikacji"
+      ],
+      "distractors": [
+        "empiryzmu",
+        "standaryzacji",
+        "rzetelności",
+        "trafności",
+        "jawności źródeł",
+        "reprezentatywności",
+        "operacjonalizacji"
+      ],
+      "explanation": "Zasada falsyfikacji: teoria musi formułować założenia na tyle szczegółowe, aby możliwe było jej zaprzeczenie.",
+      "sourceExcerpt": "Zasada falsyfikacji: teoria naukowa musi formułować założenia na tyle szczegółowe, aby możliwe było jej zaprzeczenie, czyli musi przewidywać nie tylko, co się stanie, ale też co się nie stanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-05",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Prawdziwość koncepcji naukowej musi być stwierdzona:"
+      ],
+      "correct": [
+        "empirycznie"
+      ],
+      "distractors": [
+        "autorytetem",
+        "anegdotycznie",
+        "dedukcyjnie",
+        "konsensusem",
+        "intuicyjnie",
+        "kazuistycznie",
+        "subiektywnie"
+      ],
+      "explanation": "Prawdziwość musi opierać się na dokładnej i systematycznej obserwacji; nie jest dowodem zbiór prywatnych poglądów, anegdot ani odwołanie do autorytetu.",
+      "sourceExcerpt": "Prawdziwość koncepcji naukowej musi być stwierdzona empirycznie - musi się opierać na dokładnej i systematycznej obserwacji. Nie jest dowodem zbiór prywatnych poglądów lub anegdot ani odwołanie się do autorytetu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-06",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Studium przypadku jest raczej:"
+      ],
+      "correct": [
+        "źródłem hipotez niż ich weryfikacją"
+      ],
+      "distractors": [
+        "weryfikacją hipotez niż ich źródłem",
+        "metodą eksperymentalną niż opisową",
+        "badaniem korelacji niż opisem",
+        "testem standaryzowanym niż obserwacją",
+        "sondażem niż obserwacją",
+        "metodą ilościową niż jakościową"
+      ],
+      "explanation": "Studium przypadku (historia przypadku) to szczegółowy opis konkretnej jednostki; bywa bogatym źródłem hipotez dla przyszłych badań.",
+      "sourceExcerpt": "Studium przypadku: jest raczej źródłem hipotez niż ich weryfikacją.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-07",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zaletą studium przypadku jest to, że:"
+      ],
+      "correct": [
+        "ilustruje twierdzenia w sposób niedostępny uogólnieniom"
+      ],
+      "distractors": [
+        "nie zależy od ludzkiej pamięci i interpretacji",
+        "pozwala na pewne uogólnienia na całą populację",
+        "wskazuje przyczyny zachowania",
+        "daje wyniki powtarzalne w różnych miejscach i czasie",
+        "eliminuje błąd dobrowolności",
+        "pozwala manipulować zmienną niezależną",
+        "jest reprezentatywne dla większości osób"
+      ],
+      "explanation": "Plusy studium przypadku: ilustruje twierdzenia w sposób niedostępny uogólnieniom i jest łatwiejsze do uzyskania praktycznie i etycznie.",
+      "sourceExcerpt": "Plus: ilustrują twierdzenia w sposób niedostępny uogólnieniom; są łatwiejsze do uzyskania pod względem praktycznym i etycznym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-08",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Wadą studium przypadku jest to, że:"
+      ],
+      "correct": [
+        "zależy od ludzkiej pamięci i interpretacji"
+      ],
+      "distractors": [
+        "jest trudne do uzyskania ze względów etycznych",
+        "nie dostarcza hipotez do dalszych badań",
+        "wymaga dużej, reprezentatywnej grupy",
+        "nie pozwala ilustrować twierdzeń",
+        "jest zawsze przeprowadzane w laboratorium",
+        "wymaga manipulowania zmiennymi",
+        "daje jedynie liczbowy opis zależności"
+      ],
+      "explanation": "Minusy: zależy od ludzkiej pamięci i interpretacji, a obiekt badania nie musi przypominać innych osób, więc uogólnienia bywają fałszywe.",
+      "sourceExcerpt": "Minusy: zależą od ludzkiej pamięci i interpretacji; obiekt badania nie musi przypominać większości innych osób → uogólnienia są wówczas fałszywe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-09",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Metoda, która daje prawdziwy obraz badanych w ich normalnym otoczeniu społecznym, ale nie mówi, co powoduje dane zachowania, to:",
+        "Metoda, w której badacz dokładnie i systematycznie rejestruje zachowanie w naturalnym środowisku, niczego nie narzucając badanym, to:"
+      ],
+      "correct": [
+        "obserwacja",
+        "obserwacja naturalna"
+      ],
+      "distractors": [
+        "studium przypadku",
+        "sondaż",
+        "eksperyment",
+        "badanie korelacji",
+        "test standaryzowany",
+        "introspekcja",
+        "wywiad"
+      ],
+      "explanation": "Obserwacja umożliwia prawidłowy opis zachowania przed próbą jego wyjaśnienia; jej celem jest opis zachowania w naturalnym środowisku.",
+      "sourceExcerpt": "Obserwacja: daje prawdziwy obraz badanych w ich normalnym otoczeniu społecznym. Nie mówi jednak, co powoduje dane zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-10",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Problem obserwacji laboratoryjnej polega na tym, że:"
+      ],
+      "correct": [
+        "ludzie zachowują się inaczej w obcym miejscu i gdy są obserwowani"
+      ],
+      "distractors": [
+        "badacz nie może rejestrować zachowania systematycznie",
+        "nie da się jej przeprowadzić ze względów praktycznych",
+        "badani zgłaszają się dobrowolnie i mają odmienne opinie",
+        "nie pozwala opisać zachowania przed jego wyjaśnieniem",
+        "wymaga manipulowania zmienną niezależną",
+        "jej wyniki zależą od pamięci badanych",
+        "obiekt badania nie przypomina innych osób"
+      ],
+      "explanation": "Obserwacje laboratoryjne prowadzi się ze względów praktycznych, ale ludzie zachowują się inaczej w obcym miejscu i pod obserwacją.",
+      "sourceExcerpt": "Istnieją jednak obserwacje laboratoryjne. Problem: ludzie zachowują się inaczej w obcym miejscu i gdy wiedzą, że są obserwowani.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-11",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Test, który zapewnia spójne wyniki badań przeprowadzanych w różnych miejscach i w różnym czasie, nazywamy:"
+      ],
+      "correct": [
+        "rzetelnym"
+      ],
+      "distractors": [
+        "trafnym",
+        "standaryzowanym",
+        "znormalizowanym",
+        "reprezentatywnym",
+        "falsyfikowalnym",
+        "obiektywnym",
+        "operacyjnym"
+      ],
+      "explanation": "Dobry test jest standaryzowany, rzetelny (spójne wyniki) i trafny (mierzy to, co ma mierzyć).",
+      "sourceExcerpt": "Rzetelny - zapewnia spójne wyniki badań przeprowadzanych w różnych miejscach i różnym czasie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-12",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Test, który sprawdza to, co zgodnie z założeniami ma sprawdzać, jest:"
+      ],
+      "correct": [
+        "trafny"
+      ],
+      "distractors": [
+        "rzetelny",
+        "spójny",
+        "obiektywny",
+        "znormalizowany",
+        "jednolity",
+        "czuły",
+        "stabilny"
+      ],
+      "explanation": "Trafność: test sprawdza to, co zgodnie z założeniami przewidziane jest do sprawdzenia.",
+      "sourceExcerpt": "Trafny - sprawdza to, co zgodnie z założeniami przewidziane jest do sprawdzenia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-13",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Jednolite zasady przeprowadzania i interpretacji testu to jego:"
+      ],
+      "correct": [
+        "standaryzacja"
+      ],
+      "distractors": [
+        "rzetelność",
+        "trafność",
+        "normy",
+        "trafność kryterialna",
+        "reprezentatywność",
+        "operacjonalizacja",
+        "falsyfikowalność"
+      ],
+      "explanation": "Standaryzowany test ma jednolite zasady przy przeprowadzaniu i interpretacji.",
+      "sourceExcerpt": "Standaryzowany - obowiązują jednolite zasady przy jego przeprowadzaniu i interpretacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-14",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Ustalone standardy wykonania testu, określane zwykle przez przeprowadzenie go na dużej grupie osób podobnych do tych, dla których test jest przeznaczony, to:"
+      ],
+      "correct": [
+        "normy"
+      ],
+      "distractors": [
+        "kryteria",
+        "wskaźniki",
+        "hipotezy",
+        "korelacje",
+        "zmienne",
+        "skale",
+        "progi"
+      ],
+      "explanation": "Normy to ustalone standardy wykonania, określane na dużej grupie osób o cechach podobnych do adresatów testu.",
+      "sourceExcerpt": "Normy to ustalone standardy wykonania. Normy określa się na ogół, przeprowadzając test na dużej grupie osób mających podobne cechy jak osoby, dla których test jest przeznaczony.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-15",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Potwierdzenie wyniku testu za pomocą innych, niezależnych metod lub kryteriów w odniesieniu do badanej cechy to:"
+      ],
+      "correct": [
+        "trafność kryterialna"
+      ],
+      "distractors": [
+        "rzetelność",
+        "standaryzacja",
+        "normalizacja",
+        "falsyfikacja",
+        "trafność teoretyczna",
+        "korelacja",
+        "definicja operacyjna"
+      ],
+      "explanation": "Trafność kryterialna: potwierdzenie wyniku innymi niezależnymi metodami lub kryteriami.",
+      "sourceExcerpt": "Trafność kryterialna - potwierdzenie wyniku za pomocą innych niezależnych metod lub kryteriów w odniesieniu do analizowanej cechy.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-16",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "W sondażu wielkość grupy jest mniej istotna niż:"
+      ],
+      "correct": [
+        "jej reprezentatywność"
+      ],
+      "distractors": [
+        "jej jednorodność",
+        "czas trwania badania",
+        "liczba pytań",
+        "dobrowolność udziału",
+        "anonimowość odpowiedzi",
+        "standaryzacja pytań",
+        "rzetelność kwestionariusza"
+      ],
+      "explanation": "Sondaż to kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy; liczy się reprezentatywność, nie wielkość grupy.",
+      "sourceExcerpt": "Sondaż - kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy. Wielkość grupy jest mniej istotna niż reprezentatywność.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-17",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zjawisko polegające na tym, że osoby zgłaszające się do badania ochotniczo mają prawdopodobnie inne opinie niż te, które się nie wypowiadają, to:"
+      ],
+      "correct": [
+        "błąd dobrowolności"
+      ],
+      "distractors": [
+        "błąd reprezentatywności",
+        "efekt obserwatora",
+        "błąd pomiaru",
+        "błąd standaryzacji",
+        "efekt oczekiwań",
+        "błąd interpretacji",
+        "błąd losowania"
+      ],
+      "explanation": "Błąd dobrowolności: ochotnicy prawdopodobnie różnią się opiniami od osób, które się nie wypowiadają.",
+      "sourceExcerpt": "Błąd dobrowolności - zgłaszający się ochotniczo prawdopodobnie mają różną opinię od tych, którzy się nie wypowiadają.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-18",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Liczbowa miara stopnia zależności pomiędzy dwoma czynnikami to:"
+      ],
+      "correct": [
+        "korelacja"
+      ],
+      "distractors": [
+        "hipoteza",
+        "norma",
+        "zmienna zależna",
+        "definicja operacyjna",
+        "trafność",
+        "rzetelność",
+        "falsyfikacja"
+      ],
+      "explanation": "Korelacja to miara liczbowa stopnia zależności pomiędzy dwoma czynnikami.",
+      "sourceExcerpt": "Korelacja - miara liczbowa stopnia zależności pomiędzy dwoma czynnikami.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-19",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych, aby określić jej wpływ na inną zmienną, to:"
+      ],
+      "correct": [
+        "eksperyment",
+        "badanie eksperymentalne"
+      ],
+      "distractors": [
+        "obserwacja",
+        "badanie korelacji",
+        "sondaż",
+        "studium przypadku",
+        "test",
+        "wywiad",
+        "obserwacja laboratoryjna"
+      ],
+      "explanation": "Badanie eksperymentalne: manipulacja zmienną niezależną w celu określenia jej wpływu na zmienną zależną.",
+      "sourceExcerpt": "Badania eksperymentalne: kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych, aby określić jej wpływ na inną zmienną.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-20",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zmienna poddawana manipulacji przez badacza to zmienna:"
+      ],
+      "correct": [
+        "niezależna"
+      ],
+      "distractors": [
+        "zależna",
+        "kontrolna",
+        "pośrednicząca",
+        "zakłócająca",
+        "losowa",
+        "operacyjna",
+        "kryterialna"
+      ],
+      "explanation": "Zmienna niezależna jest manipulowana; zmienna zależna ma ulegać wpływom tej manipulacji.",
+      "sourceExcerpt": "Zmienna niezależna - zmienna poddawana manipulacji przez badającego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-21",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zmienna, która według badacza ma ulegać wpływom manipulacji, to zmienna:"
+      ],
+      "correct": [
+        "zależna"
+      ],
+      "distractors": [
+        "niezależna",
+        "kontrolna",
+        "pośrednicząca",
+        "zakłócająca",
+        "losowa",
+        "operacyjna",
+        "kryterialna"
+      ],
+      "explanation": "Zmienna zależna to ta, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
+      "sourceExcerpt": "Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

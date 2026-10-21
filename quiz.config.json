@@ -1,9 +1,11 @@
 {
-  "notionUrl": "https://spectacled-bookcase-f5d.notion.site/Wprowadzenie-do-psychologii-spo-ecznej-Czytanie-40075c03f28a808fafd5ea4c3d71124b",
+  "sources": [
+    "https://spectacled-bookcase-f5d.notion.site/Wprowadzenie-do-psychologii-spo-ecznej-Czytanie-40075c03f28a808fafd5ea4c3d71124b",
+    "https://app.notion.com/p/Wprowadzenie-do-psychologii-Historia-i-Wsp-czesno-Czytanie-40075c03f28a8091ba1ef78c5678c3c9"
+  ],
+  "chapterPattern": "^(?:(.+?)[.:]\\s*)?(Rozdzia[łl]\\s+\\d+)\\s*$",
   "bookHeading": "h1",
-  "chapterHeading": "h1",
   "language": "pl",
-  "questionsPer1000Words": 5,
-  "optionsShown": 4,
-  "chapterPattern": "^Rozdzia[łl]\\s+\\d+"
+  "questionsPer1000Words": 25,
+  "optionsShown": 4
 }

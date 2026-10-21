@@ -1,0 +1,614 @@
+{
+  "bookId": "psychologia-i-zycie-zimbardo",
+  "chapterId": "rozdzial-1",
+  "chapterTitle": "Rozdział 1",
+  "sourceHash": "c5644f5ec47aa707904865d3b07d002e5fed181f",
+  "questions": [
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-01",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Stanowisko natywistów w sporze o naturę umysłu, zakładające wrodzone struktury umysłowe, wywodzi się od:"
+      ],
+      "correct": [
+        "Platona"
+      ],
+      "distractors": [
+        "Arystotelesa",
+        "Locke'a",
+        "Wundta",
+        "Jamesa",
+        "Deweya",
+        "Titchenera",
+        "Freuda"
+      ],
+      "explanation": "Platon zapoczątkował tradycję natywistów (Kant: struktury umysłowe ograniczające sposób doświadczania świata), Arystoteles – empirystów (Locke: tabula rasa).",
+      "sourceExcerpt": "Arystoteles - empiryści: John Locke, tabula rasa. Platon - natywiści: Immanuel Kant, struktury umysłowe nakładające ograniczenia na sposób doświadczania świata.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-02",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Koncepcja tabula rasa, zgodnie z którą umysł jest czystą kartą zapisywaną przez doświadczenie, wiązana jest w tradycji empirystów z:"
+      ],
+      "correct": [
+        "Johnem Lockiem",
+        "Johnem Locke'em"
+      ],
+      "distractors": [
+        "Immanuelem Kantem",
+        "Platonem",
+        "Wilhelmem Wundtem",
+        "Williamem Jamesem",
+        "Zygmuntem Freudem",
+        "Carlem Rogersem",
+        "Edwardem Titchenerem"
+      ],
+      "explanation": "John Locke (tabula rasa) należy do tradycji empirystów wywodzącej się od Arystotelesa.",
+      "sourceExcerpt": "Arystoteles - empiryści. John Locke, tabula rasa.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-03",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Pierwsze laboratorium psychologii eksperymentalnej założył w Lipsku:"
+      ],
+      "correct": [
+        "Wilhelm Wundt"
+      ],
+      "distractors": [
+        "William James",
+        "Edward Titchener",
+        "John Dewey",
+        "Max Wertheimer",
+        "Zygmunt Freud",
+        "John Watson",
+        "Mary Whiton Calkins"
+      ],
+      "explanation": "Fizjolog Wilhelm Wundt założył w 1879 roku w Lipsku pierwsze laboratorium psychologii eksperymentalnej.",
+      "sourceExcerpt": "Fizjolog Wilhelm Wundt - 1879 - Lipsk, pierwsze laboratorium psychologii eksperymentalnej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-04",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Autorem „The Principles of Psychology”, filozofem i studentem medycyny z Harvardu, był:"
+      ],
+      "correct": [
+        "William James"
+      ],
+      "distractors": [
+        "Wilhelm Wundt",
+        "Edward Titchener",
+        "John Dewey",
+        "Burrhus F. Skinner",
+        "Jean Piaget",
+        "John Locke",
+        "Abraham Maslow"
+      ],
+      "explanation": "William James opublikował „The Principles of Psychology” w 1890 roku na Harvardzie.",
+      "sourceExcerpt": "Filozof i student medycyny William James - 1890 - „The principles of psychology” na Harvardzie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-05",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Systematyczne obserwowanie przez jednostkę własnych myśli i uczuć dotyczących określonych doznań sensorycznych to:"
+      ],
+      "correct": [
+        "introspekcja"
+      ],
+      "distractors": [
+        "obserwacja naturalna",
+        "fenomenologia",
+        "antecedencja",
+        "samorealizacja",
+        "studium przypadku",
+        "analiza funkcjonalna",
+        "asocjacja"
+      ],
+      "explanation": "Introspekcja to metoda strukturalizmu Titchenera; stawia pytanie „co”, a nie „dlaczego” i „jak”.",
+      "sourceExcerpt": "Introspekcja - systematyczne obserwowanie przez jednostkę własnych myśli i uczuć dotyczących określonych doznań sensorycznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-06",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Kierunek, który za pomocą introspekcji badał wewnętrzne przeżycia, traktując doznania psychiczne jako kombinację składników podstawowych (Titchener), to:",
+        "Podejście stawiające pytanie „co” zamiast „dlaczego” i „jak”, którego celem było ujawnienie zasadniczej struktury psychiki, to:"
+      ],
+      "correct": [
+        "strukturalizm"
+      ],
+      "distractors": [
+        "funkcjonalizm",
+        "behawioryzm",
+        "psychologia postaci",
+        "psychoanaliza",
+        "kognitywizm",
+        "psychologia humanistyczna",
+        "ewolucjonizm"
+      ],
+      "explanation": "Strukturalizm Titchenera zastosował laboratoryjne podejście Wundta; cel: ujawnić zasadniczą strukturę psychiki przez analizę wrażeń i doświadczeń.",
+      "sourceExcerpt": "Strukturalizm: Titchener zastosował laboratoryjne podejście Wundta do badania wewnętrznych przeżyć człowieka. Wszelkie doznania psychiczne = kombinacja składników podstawowych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-07",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Zarzuty stawiane strukturalizmowi to redukcjonizm, atomizm oraz:"
+      ],
+      "correct": [
+        "mentalizm"
+      ],
+      "distractors": [
+        "determinizm",
+        "subiektywizm",
+        "natywizm",
+        "behawioryzm",
+        "relatywizm",
+        "holizm",
+        "empiryzm"
+      ],
+      "explanation": "Mentalizm: strukturalizm dotyczył tylko jednostek umiejących opisać swoje doznania.",
+      "sourceExcerpt": "Zarzuty: redukcjonizm, atomizm, mentalizm (dotyczył tylko jednostek umiejących opisać swoje doznania).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-08",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Pogląd, że świadomość jest strumieniem – właściwością psychiki w nieustannej interakcji ze środowiskiem, ułatwiającą przystosowanie – to podstawa:",
+        "Kierunek pytający „jaka jest funkcja lub cel danego aktu behawioralnego” i badający funkcje procesów psychicznych, a nie treści psychiki, to:"
+      ],
+      "correct": [
+        "funkcjonalizm"
+      ],
+      "distractors": [
+        "strukturalizm",
+        "behawioryzm",
+        "psychologia postaci",
+        "psychoanaliza",
+        "kierunek biologiczny",
+        "kierunek humanistyczny",
+        "natywizm"
+      ],
+      "explanation": "Funkcjonalizm (James, Dewey) bada funkcje procesów psychicznych i wyuczone nawyki w efektywnym funkcjonowaniu w środowisku.",
+      "sourceExcerpt": "Funkcjonalizm. Wg William James: Świadomość jako strumień = właściwość psychiki w nieustannej interakcji ze środowiskiem. Funkcje procesów psychicznych, a nie treści psychiki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-09",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Założycielem funkcjonalizmu, kładącego nacisk na wyuczone nawyki i ich funkcje w środowisku, był filozof:"
+      ],
+      "correct": [
+        "John Dewey"
+      ],
+      "distractors": [
+        "Edward Titchener",
+        "Wilhelm Wundt",
+        "Max Wertheimer",
+        "Immanuel Kant",
+        "John Locke",
+        "Carl Rogers",
+        "Noam Chomsky"
+      ],
+      "explanation": "Założycielem funkcjonalizmu był filozof John Dewey; podstawę dał pogląd Williama Jamesa o świadomości jako strumieniu.",
+      "sourceExcerpt": "Założyciel filozof John Dewey. Nacisk na wyuczone nawyki i ich funkcje w efektywnym funkcjonowaniu w środowisku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-10",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Kierunek traktujący doświadczenie jako zorganizowaną, całościową postać, a nie sumę prostych części (Max Wertheimer), to:"
+      ],
+      "correct": [
+        "psychologia postaci",
+        "gestaltyzm"
+      ],
+      "distractors": [
+        "strukturalizm",
+        "funkcjonalizm",
+        "behawioryzm",
+        "fenomenologia",
+        "kognitywizm",
+        "psychoanaliza",
+        "natywizm"
+      ],
+      "explanation": "Gestalt (postać) – alternatywa dla strukturalizmu i funkcjonalizmu: doświadczenie jako zorganizowana całość, nie suma części.",
+      "sourceExcerpt": "Gestalt (postać) - alternatywa dla powyższych. Max Wertheimer. Doświadczenia jako zorganizowana całościowa postać, a nie suma prostych części.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-11",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Pierwszą prezeską APA, która studiowała z Williamem Jamesem i założyła jedno z pierwszych laboratoriów psychologicznych w USA, była:"
+      ],
+      "correct": [
+        "Mary Whiton Calkins"
+      ],
+      "distractors": [
+        "Margaret Floy Washburn",
+        "Helen Thompson Woolley",
+        "Leta Stetter Hollingworth",
+        "Anna Freud",
+        "Karen Horney",
+        "Mary Ainsworth",
+        "Elizabeth Loftus"
+      ],
+      "explanation": "Mary Whiton Calkins została w 1905 roku pierwszą prezeską APA.",
+      "sourceExcerpt": "Mary Whiton Calkins: studiowała z Williamem Jamesem, jedno z pierwszych laboratoriów psychologicznych w USA, w 1905 pierwsza prezeska APA.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-12",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Pierwsza kobieta z doktoratem z psychologii, autorka „The Animal Mind” i druga prezeska APA, to:"
+      ],
+      "correct": [
+        "Margaret Floy Washburn"
+      ],
+      "distractors": [
+        "Mary Whiton Calkins",
+        "Helen Thompson Woolley",
+        "Leta Stetter Hollingworth",
+        "Anna Freud",
+        "Karen Horney",
+        "Mary Ainsworth",
+        "Melanie Klein"
+      ],
+      "explanation": "Margaret Floy Washburn: pierwsza doktorka filozofii w dziedzinie psychologii, „The Animal Mind” (1908), druga prezeska APA (1921).",
+      "sourceExcerpt": "Margaret Floy Washburn: Pierwsza doktorka filozofii w dziedzinie psychologii. „The animal mind” o psychologii zwierząt w 1908. W 1921 druga prezeska APA.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-13",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Badaczka, która jako jedna z pierwszych badała różnice płciowe i zwracała uwagę na wpływ społeczeństwa na te różnice, to:"
+      ],
+      "correct": [
+        "Helen Thompson Woolley"
+      ],
+      "distractors": [
+        "Mary Whiton Calkins",
+        "Margaret Floy Washburn",
+        "Mary Salter Ainsworth",
+        "Karen Danielsen Horney",
+        "Eleanor Jack Gibson",
+        "Christine Ladd-Franklin",
+        "Mamie Phipps Clark"
+      ],
+      "explanation": "Helen Thompson Woolley prowadziła jedne z pierwszych badań o różnicach płciowych, podkreślając rolę społeczeństwa.",
+      "sourceExcerpt": "Helen Thompson Woolley: Jedne z pierwszych badań o różnicach płciowych, zwracała uwagę na wpływ społeczeństwa na te różnice.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-14",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Badania nad różnicami w inteligencji i talentach kobiet i mężczyzn oraz nad dziećmi upośledzonymi i uzdolnionymi prowadziła:"
+      ],
+      "correct": [
+        "Leta Stetter Hollingworth"
+      ],
+      "distractors": [
+        "Mary Whiton Calkins",
+        "Margaret Floy Washburn",
+        "Mary Salter Ainsworth",
+        "Karen Danielsen Horney",
+        "Eleanor Jack Gibson",
+        "Christine Ladd-Franklin",
+        "Mamie Phipps Clark"
+      ],
+      "explanation": "Leta Stetter Hollingworth badała różnice w inteligencji i talentach kobiet i mężczyzn oraz dzieci upośledzone i uzdolnione.",
+      "sourceExcerpt": "Leta Stetter Hollingworth: Badania o różnicy w inteligencji i talentach kobiet i mężczyzn, oraz badania dzieci upośledzonych i uzdolnionych.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-15",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Model, według którego zachowanie napędzają siły wewnętrzne – wrodzone popędy biologiczne i konflikt między potrzebami a wymaganiami społeczeństwa – to kierunek:",
+        "Pierwszym modelem, który przyznał, że natura człowieka nie zawsze jest racjonalna, a zachowaniem kierują nieświadome motywy, był kierunek:"
+      ],
+      "correct": [
+        "psychodynamiczny"
+      ],
+      "distractors": [
+        "behawiorystyczny",
+        "humanistyczny",
+        "poznawczy",
+        "biologiczny",
+        "ewolucjonistyczny",
+        "społeczno-kulturowy",
+        "funkcjonalistyczny"
+      ],
+      "explanation": "Kierunek psychodynamiczny (Freud, przełom XIX/XX w.): deprywacja, pobudzenie fizjologiczne i konflikty dają energię zachowaniom.",
+      "sourceExcerpt": "Psychodynamiczny. Freud. Zachowanie napędzane przez siły wewnętrzne. Pierwszy model, który przyznawał, że natura człowieka nie zawsze jest racjonalna i nieświadome motywy kierują zachowaniem.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-16",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Analizowanie antecedencji (okoliczności poprzedzającej zachowanie) i obserwowalnych, obiektywnie rejestrowanych zachowań to cecha kierunku:"
+      ],
+      "correct": [
+        "behawiorystycznego"
+      ],
+      "distractors": [
+        "psychodynamicznego",
+        "humanistycznego",
+        "poznawczego",
+        "biologicznego",
+        "ewolucjonistycznego",
+        "społeczno-kulturowego",
+        "strukturalistycznego"
+      ],
+      "explanation": "Behawioryzm (Watson, Skinner) koncentruje się na zachowaniach, które można obiektywnie rejestrować: antecedencja → zachowanie.",
+      "sourceExcerpt": "Behawiorystyczny. John Watson, Burrhus Frederic Skinner. Koncentracja na obserwowalnych zachowaniach, które można rejestrować obiektywnie. Antecedencja (okoliczność poprzedzająca zachowanie) → zachowanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-17",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Przedstawicielami kierunku behawiorystycznego są:"
+      ],
+      "correct": [
+        "John Watson i Burrhus F. Skinner"
+      ],
+      "distractors": [
+        "Carl Rogers i Abraham Maslow",
+        "Noam Chomsky i Jean Piaget",
+        "Wilhelm Wundt i Edward Titchener",
+        "William James i John Dewey",
+        "Zygmunt Freud i Bronisław Malinowski",
+        "Max Wertheimer i Immanuel Kant",
+        "Platon i Arystoteles"
+      ],
+      "explanation": "Behawioryzm: John Watson i B. F. Skinner. Humanizm: Rogers i Maslow. Kognitywizm: Chomsky i Piaget.",
+      "sourceExcerpt": "Behawiorystyczny. John Watson, Burrhus Frederic Skinner.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-18",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Kierunek, w którym wewnętrzne przeżycie człowieka rozpatruje się fenomenologicznie, a głównym zadaniem człowieka jest pozytywny rozwój (samorealizacja), to kierunek:"
+      ],
+      "correct": [
+        "humanistyczny"
+      ],
+      "distractors": [
+        "psychodynamiczny",
+        "poznawczy",
+        "behawiorystyczny",
+        "biologiczny",
+        "ewolucjonistyczny",
+        "społeczno-kulturowy",
+        "funkcjonalistyczny"
+      ],
+      "explanation": "Kierunek humanistyczny (Rogers, Maslow): doświadczenie wewnętrzne „po prostu jest” i „jest prawdziwe” na potrzeby analizy.",
+      "sourceExcerpt": "Humanistyczny. Carl Rogers, Abraham Maslow. Wewnętrzne przeżycie człowieka rozpatrywane fenomenologicznie. Głównym zadaniem każdego człowieka jest pozytywny rozwój (samorealizacja).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-19",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Termin „samorealizacja” wprowadził przedstawiciel kierunku humanistycznego:"
+      ],
+      "correct": [
+        "Abraham Maslow"
+      ],
+      "distractors": [
+        "Carl Rogers",
+        "Zygmunt Freud",
+        "William James",
+        "Jean Piaget",
+        "Noam Chomsky",
+        "John Dewey",
+        "Carl Jung"
+      ],
+      "explanation": "Przedstawiciele kierunku humanistycznego to Carl Rogers i Abraham Maslow, autor terminu „samorealizacja”.",
+      "sourceExcerpt": "Humanistyczny. Carl Rogers, Abraham Maslow (termin „samorealizacja”).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-20",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Teza, że dzieci uczą się języka w sposób niewyjaśnialny prostą reakcją na bodźce i naśladownictwem, oraz pogląd, że myśl jest zarówno skutkiem, jak i przyczyną działań, należą do kierunku:",
+        "Pogląd, że zachowanie jest reakcją nie na obiektywne zdarzenie, lecz na jego kształt w subiektywnym przeżyciu, jest charakterystyczny dla kierunku:"
+      ],
+      "correct": [
+        "poznawczego"
+      ],
+      "distractors": [
+        "behawiorystycznego",
+        "psychodynamicznego",
+        "humanistycznego",
+        "biologicznego",
+        "ewolucjonistycznego",
+        "społeczno-kulturowego",
+        "strukturalistycznego"
+      ],
+      "explanation": "Kierunek poznawczy (Chomsky, Piaget): zachowanie częściowo zdeterminowane przez bodźce i doświadczenie, a częściowo emergentne.",
+      "sourceExcerpt": "Poznawczy. Noam Chomsky, Jean Piaget. Myśl to zarówno skutek, jak i przyczyna działań. Zachowanie to reakcja nie na obiektywne zdarzenie, a na jego kształt w subiektywnym przeżyciu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-21",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Kierunkiem uważanym współcześnie często za dominujący w psychologii jest kierunek:"
+      ],
+      "correct": [
+        "poznawczy"
+      ],
+      "distractors": [
+        "biologiczny",
+        "humanistyczny",
+        "behawiorystyczny",
+        "psychodynamiczny",
+        "gestaltowski",
+        "ewolucyjny",
+        "społeczny"
+      ],
+      "explanation": "Podejście poznawcze uważane jest współcześnie często za dominujące.",
+      "sourceExcerpt": "Poznawczy. Podejście uważane współcześnie często za dominujące.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-22",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Interdyscyplinarne podejście badające, jak funkcjonuje układ nerwowy oraz jak geny i hormony wpływają na zachowanie i myśli, to kierunek:"
+      ],
+      "correct": [
+        "biologiczny"
+      ],
+      "distractors": [
+        "ewolucjonistyczny",
+        "poznawczy",
+        "behawiorystyczny",
+        "psychodynamiczny",
+        "humanistyczny",
+        "społeczno-kulturowy",
+        "funkcjonalistyczny"
+      ],
+      "explanation": "Kierunek biologiczny; istotne dziedziny: behawioralna nauka o układzie poznawczym i neuropsychologia poznawcza.",
+      "sourceExcerpt": "Biologiczny. Interdyscyplinarne podejście, badające, jak funkcjonuje układ nerwowy, jak geny czy hormony wpływają na zachowanie i myśli.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-23",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Badanie, jak wyzwania przystosowawcze epoki plejstoceńskiej (życie w grupie łowców-zbieraczy, unikanie drapieżników i pasożytów) ukształtowały psychikę człowieka, to domena kierunku:"
+      ],
+      "correct": [
+        "ewolucjonistycznego"
+      ],
+      "distractors": [
+        "biologicznego",
+        "społeczno-kulturowego",
+        "behawiorystycznego",
+        "psychodynamicznego",
+        "poznawczego",
+        "humanistycznego",
+        "funkcjonalistycznego"
+      ],
+      "explanation": "Kierunek ewolucjonistyczny: zdolności umysłowe ewoluowały przez miliony lat, służąc celom przystosowawczym, tak jak umiejętności fizyczne.",
+      "sourceExcerpt": "Ewolucjonistyczny. Badanie jak wyzwania przystosowawcze podczas 2 mln lat epoki plejstoceńskiej wpływają na zachowania i psychikę człowieka.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-24",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Antropolog, który podważał założenia Freuda, obserwując kultury matriarchalne, to:"
+      ],
+      "correct": [
+        "Bronisław Malinowski"
+      ],
+      "distractors": [
+        "Margaret Mead",
+        "Claude Lévi-Strauss",
+        "Franz Boas",
+        "Ruth Benedict",
+        "Carl Jung",
+        "Alfred Adler",
+        "Erik Erikson"
+      ],
+      "explanation": "Bronisław Malinowski w 1927 roku podważał założenia Freuda na podstawie obserwacji kultur matriarchalnych; to tradycja kierunku społeczno-kulturowego.",
+      "sourceExcerpt": "Bronisław Malinowski - antropolog, który w 1927 roku podważał założenia Freuda obserwując kultury matriarchalne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-1-25",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-1",
+      "stems": [
+        "Sprawdzanie, czy przekonania o „naturze człowieka” nie są w istocie przekonaniami o wpływie kultury na jednostkę, oraz badanie, czy teorie stosują się do wszystkich ludzi, to zadanie kierunku:"
+      ],
+      "correct": [
+        "społeczno-kulturowego"
+      ],
+      "distractors": [
+        "ewolucjonistycznego",
+        "biologicznego",
+        "humanistycznego",
+        "poznawczego",
+        "behawiorystycznego",
+        "psychodynamicznego",
+        "funkcjonalistycznego"
+      ],
+      "explanation": "Kierunek społeczno-kulturowy bada uniwersalne i specyficzne kulturowo aspekty doświadczenia oraz różnice międzykulturowe w przyczynach i konsekwencjach zachowania.",
+      "sourceExcerpt": "Społeczno-kulturowy. Pozwala ocenić, czy pewne przekonania na temat „natury człowieka” nie są tak naprawdę przekonaniami na temat wpływu kultury na jednostkę.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

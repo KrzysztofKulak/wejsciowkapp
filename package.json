@@ -10,7 +10,8 @@
     "test": "vitest run",
     "fetch-notes": "tsx scripts/fetch-notes.ts",
     "check-bank": "tsx scripts/check-bank.ts",
-    "outline": "tsx scripts/outline.ts"
+    "outline": "tsx scripts/outline.ts",
+    "build-index": "tsx scripts/build-index.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.5",

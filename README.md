@@ -5,10 +5,10 @@ Statyczna apka quizowa (Vite + TypeScript) hostowana na GitHub Pages. Bank pyta�
 **Apka:** https://krzysztofkulak.github.io/wejsciowkapp/
 
 ## Jak to działa
-1. `npm run fetch-notes` pobiera publiczną stronę Notion (`notionUrl` w `quiz.config.json`) do `source/notes.md`.
+1. `npm run fetch-notes` pobiera każdą publiczną stronę Notion z listy `sources` w `quiz.config.json` do `source/<tytuł-strony>.md`.
 2. `npm run outline` pokazuje podział na książki i rozdziały (liczba słów, hash).
 3. W Claude Code: `/quiz-bank update` (albo „wygeneruj pytania do rozdziału X”). Skill czyta notatki i `examples/`, pisze `app/public/data/bank/<książka>/<rozdział>.json` i `index.json`.
-4. `npm run check-bank` waliduje bank. `git push` na `main` buduje i publikuje stronę przez GitHub Actions.
+4. `npm run build-index` odświeża `index.json`, `npm run check-bank` waliduje bank. `git push` na `main` buduje i publikuje stronę przez GitHub Actions.
 
 Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej odpowiedzi i 6–12 dystraktorów. Apka losuje 1 poprawną + 3 błędne i tasuje je do A–D, więc nie da się nauczyć „na pamięć pozycji”.
 
@@ -20,6 +20,7 @@ Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej od
 | `npm test` | testy (vitest) |
 | `npm run fetch-notes` | pobiera notatki z Notion |
 | `npm run outline` | podział notatek na rozdziały |
+| `npm run build-index` | odbudowa `index.json` z plików banku |
 | `npm run check-bank` | walidacja banku pytań |
 
 ## Apka
@@ -32,9 +33,9 @@ Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej od
 ## Układ repo
 ```
 .claude/skills/quiz-bank/SKILL.md   skill generujący pytania
-quiz.config.json                    link Notion + reguły podziału
+quiz.config.json                    linki Notion + reguła podziału na rozdziały
 examples/                           prawdziwe pytania + STYLE.md
-source/notes.md                     pobrane notatki (commitowane)
+source/*.md                         pobrane notatki, plik na stronę (commitowane)
 scripts/                            fetch-notes, outline, check-bank
 app/                                Vite; app/public/data = bank pytań
 .github/workflows/deploy.yml        GitHub Pages

@@ -3,15 +3,14 @@
  * and hash chapter text. Used by `npm run outline` and by the quiz-bank skill.
  */
 import { createHash } from "node:crypto";
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync } from "node:fs";
 import { resolve } from "node:path";
 
 export const root = resolve(import.meta.dirname, "..");
 export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8")) as {
-  notionUrl: string;
-  bookHeading: string;
-  chapterHeading: string;
-  chapterPattern?: string;
+  sources: string[];
+  chapterPattern: string;
+  bookHeading?: string;
   language: string;
   questionsPer1000Words: number;
   optionsShown: number;
@@ -38,26 +37,34 @@ export function sha1(s: string): string {
   return createHash("sha1").update(s).digest("hex");
 }
 
-const level = (h: string) => parseInt(h.replace(/^h/, ""), 10);
+const level = (h?: string) => parseInt((h ?? "h1").replace(/^h/, ""), 10);
 
 /**
  * Splits markdown into books and chapters.
- * - A heading at `bookHeading` level starts a book, unless it matches `chapterPattern`.
- * - A heading at `chapterHeading` level starts a chapter. If `chapterPattern` is set,
- *   only headings matching it start chapters; other headings become part of the chapter text.
- * - The very first heading (the page title) is ignored.
+ * - Any heading (h1–h4) matching `chapterPattern` starts a chapter. If the pattern's
+ *   first capture group is non-empty, it is the book title (e.g. "“Book”, Author. Rozdział 2");
+ *   the chapter title is the second group (or the whole heading if there is no second group).
+ * - A heading at `bookHeading` level (default h1) that does not match the pattern starts a book.
+ * - The very first heading (the page title) is ignored; chapters without a book fall back to it.
+ * - Everything else, including deeper headings, is chapter text.
  */
 export function splitNotes(md: string): Book[] {
   const bookLvl = level(config.bookHeading);
-  const chapLvl = level(config.chapterHeading);
-  const pattern = config.chapterPattern ? new RegExp(config.chapterPattern, "i") : null;
+  const pattern = new RegExp(config.chapterPattern, "i");
   const lines = md.split("\n");
   const books: Book[] = [];
+  let pageTitle = "Notatki";
   let book: Book | null = null;
   let chapter: Chapter | null = null;
   let buf: string[] = [];
   let seenTitle = false;
 
+  const getBook = (title: string) => {
+    const id = slugify(title);
+    let b = books.find((x) => x.id === id);
+    if (!b) { b = { id, title, chapters: [] }; books.push(b); }
+    return b;
+  };
   const flush = () => {
     if (chapter) {
       const text = buf.join("\n").trim();
@@ -69,25 +76,26 @@ export function splitNotes(md: string): Book[] {
   };
 
   for (const line of lines) {
-    const m = line.match(/^(#{1,6})\s+(.*)$/);
+    const m = line.match(/^(#{1,4})\s+(.*)$/);
     if (m) {
       const lvl = m[1].length;
       const title = m[2].trim();
-      if (!seenTitle) { seenTitle = true; continue; }
-      const isChapter = lvl === chapLvl && (!pattern || pattern.test(title));
-      const isBook = lvl === bookLvl && !isChapter && !(pattern && pattern.test(title));
-      if (isBook && (bookLvl !== chapLvl || !pattern || !pattern.test(title))) {
+      if (!seenTitle) { seenTitle = true; pageTitle = title; continue; }
+      const cm = title.match(pattern);
+      if (cm) {
         flush();
-        chapter = null;
-        book = { id: slugify(title), title, chapters: [] };
-        books.push(book);
+        const bookTitle = cm[1]?.trim();
+        const chapterTitle = (cm[2] ?? title).trim();
+        if (bookTitle) book = getBook(bookTitle);
+        if (!book) book = getBook(pageTitle);
+        chapter = { id: slugify(chapterTitle), title: chapterTitle, text: "", words: 0, hash: "" };
+        book.chapters.push(chapter);
         continue;
       }
-      if (isChapter) {
+      if (lvl === bookLvl) {
         flush();
-        if (!book) { book = { id: "notatki", title: "Notatki", chapters: [] }; books.push(book); }
-        chapter = { id: slugify(title), title, text: "", words: 0, hash: "" };
-        book.chapters.push(chapter);
+        chapter = null;
+        book = getBook(title);
         continue;
       }
     }
@@ -97,6 +105,21 @@ export function splitNotes(md: string): Book[] {
   return books;
 }
 
-export function loadNotes(): string {
-  return readFileSync(resolve(root, "source/notes.md"), "utf8");
+/** Splits every source file separately and merges books with the same id. */
+export function splitAll(files: string[]): Book[] {
+  const books: Book[] = [];
+  for (const md of files)
+    for (const b of splitNotes(md)) {
+      if (!b.chapters.length) continue;
+      const existing = books.find((x) => x.id === b.id);
+      if (existing) existing.chapters.push(...b.chapters);
+      else books.push(b);
+    }
+  return books;
+}
+
+/** Loads every markdown file in source/ (sorted by name), one string per file. */
+export function loadNotes(): string[] {
+  const dir = resolve(root, "source");
+  return readdirSync(dir).filter((f) => f.endsWith(".md")).sort().map((f) => readFileSync(resolve(dir, f), "utf8"));
 }
