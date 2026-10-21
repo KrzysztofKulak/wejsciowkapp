@@ -256,7 +256,7 @@ function quizView(questions: Question[], rng: () => number, seed: number) {
     render(
       h("div", { class: "topbar" }, h("span", { class: "muted" }, `Pytanie ${i + 1} / ${questions.length}`), h("span", { class: "muted" }, `${answers.filter((a) => a.correctAnswer).length} ✓`)),
       h("div", { class: "progress" }, h("div", { style: `width:${(i / questions.length) * 100}%` })),
-      h("div", { class: "card" }, h("p", { class: "muted", style: "margin-top:0" }, t?.chapter ?? q.chapterId), h("p", { class: "stem" }, r.stem), h("div", { class: "options" }, ...buttons), feedback, nextBtn),
+      h("div", { class: "card" }, h("p", { class: "muted", style: "margin-top:0" }, t ? `${t.book} · ${t.chapter}` : q.chapterId), h("p", { class: "stem" }, r.stem), h("div", { class: "options" }, ...buttons), feedback, nextBtn),
       h("footer", {}, h("button", { class: "ghost muted", onClick: () => { if (confirm("Przerwać quiz?")) setupView(); } }, "Przerwij")),
     );
   }
