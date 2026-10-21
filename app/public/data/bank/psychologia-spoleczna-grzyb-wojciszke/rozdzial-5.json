@@ -81,7 +81,7 @@
         "efektem negatywności",
         "inklinacją pozytywną"
       ],
-      "explanation": "Asymetria aktor-obserwator łączy podstawowy błąd atrybucji (cudze zachowania → cechy) z tendencją do tłumaczenia własnych zachowań sytuacją. Termin pada na wykładzie; w notatkach opisane są oba składniki.",
+      "explanation": "Asymetria aktor-obserwator łączy podstawowy błąd atrybucji (cudze zachowania → cechy) z tendencją do tłumaczenia własnych zachowań sytuacją. Termin pada na wykładzie; oba składniki opisane są osobno w rozdziale.",
       "sourceExcerpt": "Podstawowy błąd atrybucji: skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy niedocenianiu czynników zewnętrznych. [...] Egotyzm atrybucyjny: tendencja do wyjaśniania własnych zachowań w pochlebny dla siebie sposób.",
       "difficulty": 2,
       "status": "ok"
@@ -220,7 +220,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z notatkami sprawność oceniamy według skuteczności, a moralność według:"
+        "Sprawność oceniamy według skuteczności, a moralność według:"
       ],
       "correct": [
         "intencji",
@@ -245,7 +245,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zależność między ocenami sprawności i moralności jest asymetryczna. Według notatek:"
+        "Zależność między ocenami sprawności i moralności jest asymetryczna, to znaczy:"
       ],
       "correct": [
         "ocena sprawności zależy od oceny moralności, ale nie odwrotnie",
@@ -269,7 +269,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z cytowaną w notatkach zasadą, w spostrzeganiu własnych działań dominują treści sprawcze, natomiast w spostrzeganiu działań innych ludzi:"
+        "W spostrzeganiu własnych działań dominują treści sprawcze, natomiast w spostrzeganiu działań innych ludzi:"
       ],
       "correct": [
         "treści wspólnotowe (moralne)",
@@ -344,7 +344,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Cechą, którą na podstawie krótkich plastrów zachowania ocenia się najtrafniej, jest według notatek:"
+        "Cechą, którą na podstawie krótkich plastrów zachowania ocenia się najtrafniej, jest:"
       ],
       "correct": [
         "orientacja seksualna"
@@ -741,7 +741,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z notatkami podstawowy błąd atrybucji jest słabszy między innymi wtedy, gdy:"
+        "Podstawowy błąd atrybucji jest słabszy między innymi wtedy, gdy:"
       ],
       "correct": [
         "obserwator wie, że będzie musiał uzasadnić swoje sądy",
@@ -815,7 +815,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z notatkami o egotyzmie atrybucyjnym porażkę przypisujemy sobie chętniej, gdy:"
+        "W ramach egotyzmu atrybucyjnego porażkę przypisujemy sobie chętniej, gdy:"
       ],
       "correct": [
         "spodziewaliśmy się jej",
@@ -865,7 +865,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Jedną z przyczyn fałszywej powszechności wymienianych w notatkach jest:"
+        "Jedną z przyczyn zjawiska fałszywej powszechności jest:"
       ],
       "correct": [
         "dostępność umysłowa własnych poglądów"
@@ -1087,7 +1087,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Według notatek efekt negatywności dominuje, gdy mowa o faktach, natomiast inklinacja pozytywna, gdy mowa o:"
+        "Efekt negatywności dominuje, gdy mowa o faktach, natomiast inklinacja pozytywna, gdy mowa o:"
       ],
       "correct": [
         "nadziejach i oczekiwaniach",
@@ -1136,7 +1136,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Według notatek niepowodzenie w zadaniu (negatywne zachowanie sprawnościowe) świadczy o cechach osoby:"
+        "Niepowodzenie w zadaniu (negatywne zachowanie sprawnościowe) świadczy o cechach osoby:"
       ],
       "correct": [
         "mniej niż powodzenie",
@@ -1210,7 +1210,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z notatkami siła samospełniającej się przepowiedni w szkole jest taka, że:"
+        "Siła samospełniającej się przepowiedni w relacji nauczyciel–uczeń jest taka, że:"
       ],
       "correct": [
         "zdolności uczniów wpływają na ich oceny bardziej niż oczekiwania nauczycieli",
@@ -1308,7 +1308,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Zgodnie z notatkami neurony lustrzane przetwarzają zachowanie:"
+        "Neurony lustrzane przetwarzają zachowanie:"
       ],
       "correct": [
         "na niskim poziomie ruchów, ale nie interpretacji zachowań",
