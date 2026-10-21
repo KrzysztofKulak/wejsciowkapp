@@ -1,0 +1,41 @@
+# Wejściówka — quiz A–D z notatek
+
+Statyczna apka quizowa (Vite + TypeScript) hostowana na GitHub Pages. Bank pytań jest generowany w Claude Code przez skill `quiz-bank` z opublikowanych notatek Notion i kalibrowany na prawdziwych pytaniach z wejściówek.
+
+**Apka:** https://krzysztofkulak.github.io/wejsciowkapp/
+
+## Jak to działa
+1. `npm run fetch-notes` pobiera publiczną stronę Notion (`notionUrl` w `quiz.config.json`) do `source/notes.md`.
+2. `npm run outline` pokazuje podział na książki i rozdziały (liczba słów, hash).
+3. W Claude Code: `/quiz-bank update` (albo „wygeneruj pytania do rozdziału X”). Skill czyta notatki i `examples/`, pisze `app/public/data/bank/<książka>/<rozdział>.json` i `index.json`.
+4. `npm run check-bank` waliduje bank. `git push` na `main` buduje i publikuje stronę przez GitHub Actions.
+
+Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej odpowiedzi i 6–12 dystraktorów. Apka losuje 1 poprawną + 3 błędne i tasuje je do A–D, więc nie da się nauczyć „na pamięć pozycji”.
+
+## Skrypty
+| polecenie | co robi |
+| --- | --- |
+| `npm run dev` | serwer deweloperski |
+| `npm run build` | build do `dist/` |
+| `npm test` | testy (vitest) |
+| `npm run fetch-notes` | pobiera notatki z Notion |
+| `npm run outline` | podział notatek na rozdziały |
+| `npm run check-bank` | walidacja banku pytań |
+
+## Apka
+- Wybór rozdziałów, liczba pytań, zapamiętany ostatni wybór.
+- Klawisze 1–4 / A–D, Enter = dalej. Tryb ciemny wg systemu.
+- Podsumowanie z podziałem na rozdziały, lista pomyłek, „powtórz pomyłki”.
+- „Skup się na słabych”: częściej losuje pytania, które mylisz (statystyki w `localStorage`).
+- `?seed=123` w adresie daje powtarzalny zestaw.
+
+## Układ repo
+```
+.claude/skills/quiz-bank/SKILL.md   skill generujący pytania
+quiz.config.json                    link Notion + reguły podziału
+examples/                           prawdziwe pytania + STYLE.md
+source/notes.md                     pobrane notatki (commitowane)
+scripts/                            fetch-notes, outline, check-bank
+app/                                Vite; app/public/data = bank pytań
+.github/workflows/deploy.yml        GitHub Pages
+```

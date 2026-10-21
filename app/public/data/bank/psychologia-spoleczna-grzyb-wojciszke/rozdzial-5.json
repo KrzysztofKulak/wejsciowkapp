@@ -1,0 +1,1381 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-5",
+  "chapterTitle": "Rozdział 5",
+  "sourceHash": "d6139a0161d1d3efe6365b4d42a481b498835168",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zjawisko polegające na trafnym wnioskowaniu o cechach innych ludzi (np. o jakości pracy wykładowcy) na podstawie bardzo krótkich, wycinkowych obserwacji ich ekspresji czy zachowania to:",
+        "Trafna ocena cech człowieka na podstawie 10–30-sekundowego fragmentu nagrania jego zwykłego zachowania (np. rozmowy o pracę) to:"
+      ],
+      "correct": [
+        "zjawisko „cienkich plastrów zachowania”",
+        "ocena na podstawie plastrów zachowania"
+      ],
+      "distractors": [
+        "podstawowy błąd atrybucji",
+        "egocentryzm atrybucyjny",
+        "efekt czystej ekspozycji",
+        "spontaniczne wnioskowanie cech",
+        "efekt pierwszeństwa",
+        "strategia diagnostyczności",
+        "przenoszenie ocen ze schematów",
+        "heurystyka dostępności"
+      ],
+      "explanation": "Oceny krótkich (10–30 s) „plastrów” zwykłego zachowania bardzo silnie pokrywają się z ogólną oceną danej osoby, np. ocena plastra zachowania nauczyciela a ocena studentów po całym semestrze.",
+      "sourceExcerpt": "Oceny plastrów zachowania (krótkich 10-30 sekundowych fragmentów z dłuższych nagrań normalnych zachowań, np. rozmowy o pracę) pokrywają się bardzo silnie z ogólną oceną danej osoby.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z badaniami (m.in. Oscar Ybarra, 2008) ludzi ocenia się często na dwóch podstawowych wymiarach. Są to:",
+        "Dwie podstawowe treści, wokół których organizuje się ocenianie siebie i innych ludzi (wg Ybarry i Wojciszke), to:"
+      ],
+      "correct": [
+        "wspólnotowość (moralność) i sprawczość (kompetencje)",
+        "moralność i sprawczość",
+        "wspólnotowość i sprawczość"
+      ],
+      "distractors": [
+        "ekstrawersja i neurotyzm",
+        "inteligencja i atrakcyjność fizyczna",
+        "władza i uległość",
+        "dominacja i zaufanie",
+        "sumienność i ugodowość",
+        "stałość i kontrolowalność",
+        "spójność i wybiórczość",
+        "intencjonalność i skuteczność"
+      ],
+      "explanation": "Według Ybarry 2/3 niezmienników kulturowych dotyczy sprawczości lub wspólnotowości, a według Wojciszke 75% zachowań wpływających na ocenę siebie lub innych wiąże się z moralnością lub sprawczością.",
+      "sourceExcerpt": "2/3 z nich dotyczą (klasyfikacja wg Ybarra et al, 2008): sprawczości, wspólnotowości, obu tych cech. [...] Wspólnotowość = moralność.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Mechanizm, zgodnie z którym własne potknięcia tłumaczymy czynnikami zewnętrznymi, a identyczne potknięcia innych ludzi - ich cechami charakteru, nazywa się:",
+        "Skłonność do wyjaśniania własnych niepowodzeń sytuacją, a takich samych niepowodzeń innych osób ich cechami osobowości, nazywa się:"
+      ],
+      "correct": [
+        "asymetrią aktor-obserwator",
+        "asymetrią aktora i obserwatora"
+      ],
+      "distractors": [
+        "atrybucją obronną",
+        "heurystyką dostępności",
+        "błędem konfirmacji",
+        "egocentryzmem atrybucyjnym",
+        "efektem fałszywej powszechności",
+        "strategią konfirmacji",
+        "efektem negatywności",
+        "inklinacją pozytywną"
+      ],
+      "explanation": "Asymetria aktor-obserwator łączy podstawowy błąd atrybucji (cudze zachowania → cechy) z tendencją do tłumaczenia własnych zachowań sytuacją. Termin pada na wykładzie; w notatkach opisane są oba składniki.",
+      "sourceExcerpt": "Podstawowy błąd atrybucji: skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy niedocenianiu czynników zewnętrznych. [...] Egotyzm atrybucyjny: tendencja do wyjaśniania własnych zachowań w pochlebny dla siebie sposób.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Małżonkowie zapytani o to, jaki procent obowiązków domowych jest wykonywany przez nich, a jaki przez partnera, w badaniach istotnie przeceniali wkład własny (Ross, Sicoly, 1979). Zjawisko potencjalnie tłumaczące te wyniki to:",
+        "Każdy z członków zespołu, pytany osobno, twierdzi, że wykonał większość wspólnej pracy, tak że suma deklarowanych udziałów znacznie przekracza 100%. Zjawisko tłumaczące ten wynik to:"
+      ],
+      "correct": [
+        "egocentryzm atrybucyjny"
+      ],
+      "distractors": [
+        "efekt fałszywej powszechności",
+        "efekt negatywności",
+        "strategia konfirmacji",
+        "podstawowy błąd atrybucji",
+        "inklinacja pozytywna",
+        "efekt pierwszeństwa",
+        "samospełniająca się przepowiednia",
+        "wniosek korespondentny"
+      ],
+      "explanation": "Egocentryzm atrybucyjny to przecenianie własnego wpływu na wynik osiągany wspólnie z innymi; dotyczy także wyników negatywnych.",
+      "sourceExcerpt": "Egocentryzm atrybucyjny: przecenianie własnego wpływu na wynik osiągany wspólnie z innymi. Wpływa także na negatywne wyniki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Podstawowy błąd atrybucji to zjawisko najbardziej trafne do sytuacji gdzie:",
+        "O podstawowym błędzie atrybucji mówimy wtedy, gdy:"
+      ],
+      "correct": [
+        "osoba przypisuje cudze zachowania czynnikom osobowościowym",
+        "osoba tłumaczy cudze zachowanie cechami aktora, nie doceniając okoliczności",
+        "obserwator przypisuje zachowanie innej osoby czynnikom wewnętrznym, a nie sytuacji"
+      ],
+      "distractors": [
+        "osoba przecenia powszechność swojego światopoglądu",
+        "osoba przypisuje cudze zachowania czynnikom zewnętrznym",
+        "osoba uzasadnia swoje sukcesy czynnikami wewnętrznymi, a porażki - zewnętrznymi",
+        "osoba przecenia własny wkład we wspólnie osiągnięty wynik",
+        "osoba ocenia innych głównie przez pryzmat ich cech negatywnych",
+        "osoba zbiera tylko informacje potwierdzające swoją hipotezę",
+        "osoba przypisuje własne zachowania cechom swojego charakteru",
+        "osoba wyjaśnia własne porażki czynnikami stałymi i niekontrolowalnymi"
+      ],
+      "explanation": "Podstawowy błąd atrybucji to skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy niedocenianiu czynników zewnętrznych (okoliczności).",
+      "sourceExcerpt": "Podstawowy błąd atrybucji: skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy niedocenianiu czynników zewnętrznych (okoliczności).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W trójpoziomowej hierarchii opisowych znaczeń zachowania (Wojciszke, 2010) opis „wbijanie gwoździ” (w odróżnieniu od „uderzanie młotkiem” i „pracowitość”) należy do warstwy:"
+      ],
+      "correct": [
+        "związanej z celem"
+      ],
+      "distractors": [
+        "podstawowej",
+        "personalnej",
+        "abstrakcyjnej",
+        "sprawczej",
+        "wspólnotowej",
+        "opisowej",
+        "wartościującej"
+      ],
+      "explanation": "Trzy warstwy znaczeń tego samego zachowania: podstawowa (uderzanie młotkiem), związana z celem (wbijanie gwoździ, remont) i personalna (pracowitość, sumienność).",
+      "sourceExcerpt": "Trójpoziomowa hierarchia opisowych znaczeń tego samego zachowania: uderzanie młotkiem – podstawowa; wbijanie gwoździ / remont – związana z celem; pracowitość – personalna.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Teoria identyfikacji (Vallacher i Wegner, 1987) głosi, że działania trudne, nieznane i dopiero uczone interpretujemy:"
+      ],
+      "correct": [
+        "bardziej konkretnie niż działania zautomatyzowane",
+        "na niższym poziomie abstrakcji niż działania wyuczone"
+      ],
+      "distractors": [
+        "bardziej abstrakcyjnie niż działania zautomatyzowane",
+        "w kategoriach cech osobowości wykonawcy",
+        "w kategoriach celu, a nie samego ruchu",
+        "tak samo jak działania wyuczone",
+        "przez pryzmat intencji, a nie skutków",
+        "w warstwie personalnej, a nie podstawowej",
+        "jako bardziej intencjonalne niż wyuczone"
+      ],
+      "explanation": "Działania trudne, nieznane, złożone i dopiero uczone interpretujemy w bardziej konkretny sposób niż wyuczone (zautomatyzowane).",
+      "sourceExcerpt": "Vallacher i Wegner (1987) - Teoria identyfikacji. Działania trudne, nieznane, złożone i dopiero uczone interpretujemy w bardziej konkretny sposób, niż wyuczone (zautomatyzowane).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z teorią poziomów abstrakcji (Trope i Liberman, 2003) zdarzenia odległe w czasie:",
+        "Według Trope'a i Libermana (2003) zdarzenia, które miały miejsce dawno temu lub daleko od nas:"
+      ],
+      "correct": [
+        "opisujemy bardziej abstrakcyjnie niż niedawne i bliskie",
+        "ujmujemy w kategoriach cech, a nie konkretów"
+      ],
+      "distractors": [
+        "opisujemy bardziej konkretnie niż niedawne i bliskie",
+        "pamiętamy dokładniej niż niedawne i bliskie",
+        "przypisujemy częściej czynnikom zewnętrznym",
+        "oceniamy bardziej negatywnie niż niedawne",
+        "opisujemy w podstawowej warstwie znaczeń",
+        "interpretujemy jako mniej intencjonalne",
+        "oceniamy wyłącznie przez pryzmat moralności"
+      ],
+      "explanation": "Zdarzenia odległe w czasie (i, jak dowiedziono, także fizycznie) opisujemy abstrakcyjnymi cechami, zdarzenia niedawne i bliskie – konkretniej.",
+      "sourceExcerpt": "Trope i Liberman (2003) - Teoria poziomów abstrakcji. Zdarzenia odległe w czasie opisujemy abstrakcyjnymi cechami, zdarzenie niedawne opisujemy konkretniej. Dowiedziono, że działa też w przypadku odległości fizycznej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z notatkami sprawność oceniamy według skuteczności, a moralność według:"
+      ],
+      "correct": [
+        "intencji",
+        "zamiarów osoby"
+      ],
+      "distractors": [
+        "skutków działania",
+        "norm społecznych",
+        "spójności w czasie",
+        "powszechności",
+        "stałości przyczyn",
+        "skutków dla innych",
+        "wyników innych osób"
+      ],
+      "explanation": "Sprawność oceniamy wg skuteczności, moralność wg intencji.",
+      "sourceExcerpt": "Sprawność oceniamy wg skuteczności, moralność wg intencji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zależność między ocenami sprawności i moralności jest asymetryczna. Według notatek:"
+      ],
+      "correct": [
+        "ocena sprawności zależy od oceny moralności, ale nie odwrotnie",
+        "sprawność oceniana jest przez pryzmat moralności, moralność zaś bardziej niezależnie"
+      ],
+      "distractors": [
+        "ocena moralności zależy od oceny sprawności, a sprawność oceniana jest niezależnie",
+        "obie oceny są od siebie całkowicie niezależne",
+        "obie oceny wpływają na siebie w równym stopniu",
+        "osoba niemoralna, ale sprawna, oceniana jest ogólnie pozytywnie",
+        "osoba moralna, ale niesprawna, oceniana jest ogólnie negatywnie",
+        "sprawność ma większą wagę w ocenie globalnej niż moralność"
+      ],
+      "explanation": "Ktoś sprawny w czymś będzie nadal oceniany źle, jeśli zostanie odebrany jako niemoralny; ocena na podstawie moralności jest bardziej niezależna od sprawności.",
+      "sourceExcerpt": "Ocena na podstawie sprawności jest zależna od oceny moralności (ktoś sprawny w czymś, będzie nadal oceniany źle, jeśli będzie jednocześnie odebrany jako niemoralny), tymczasem ocena na podstawie moralności jest bardziej niezależna.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z cytowaną w notatkach zasadą, w spostrzeganiu własnych działań dominują treści sprawcze, natomiast w spostrzeganiu działań innych ludzi:"
+      ],
+      "correct": [
+        "treści wspólnotowe (moralne)",
+        "treści wspólnotowe"
+      ],
+      "distractors": [
+        "również treści sprawcze",
+        "treści dotyczące kompetencji",
+        "treści sytuacyjne",
+        "treści dotyczące intencji",
+        "treści negatywne",
+        "treści dotyczące atrakcyjności",
+        "treści związane z celem"
+      ],
+      "explanation": "W spostrzeganiu własnych działań (i działań własnej grupy) dominują treści sprawcze, w spostrzeganiu działań innych – wspólnotowe. U osób bliskich ocenie podlegają często oba aspekty.",
+      "sourceExcerpt": "„W spostrzeganiu własnych działań dominują treści sprawcze, natomiast w spostrzeganiu działań innych ludzi - treści wspólnotowe.”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W badaniu Borkenaua i Anette (1992) oceny cech na podstawie krótkich nagrań były trafniejsze niż losowe, z wyjątkiem przede wszystkim:"
+      ],
+      "correct": [
+        "neurotyzmu",
+        "neurotyczności"
+      ],
+      "distractors": [
+        "ekstrawersji",
+        "sumienności",
+        "ugodowości",
+        "inteligencji",
+        "orientacji seksualnej",
+        "dominacji",
+        "uczciwości"
+      ],
+      "explanation": "Nawet przy bardzo krótkich fragmentach nagrań oceny były trafniejsze niż losowe – z wyjątkiem neurotyzmu (przede wszystkim) i otwartości na doświadczenie (w mniejszym stopniu).",
+      "sourceExcerpt": "Nawet przy bardzo krótkich fragmentach oceny były trafniejsze niż losowe z wyjątkiem neurotyzmu (przede wszystkim) i otwartości na doświadczenie (w mniejszym stopniu).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Gdy czas ekspozycji twarzy wydłuża się ponad 50–100 ms, w ocenie cech tej osoby zmienia się jedynie:"
+      ],
+      "correct": [
+        "pewność oceny",
+        "stopień pewności oceniającego"
+      ],
+      "distractors": [
+        "treść oceny",
+        "kierunek oceny (pozytywna–negatywna)",
+        "ocena neurotyzmu",
+        "ocena dominacji",
+        "zgodność ocen między badanymi",
+        "trafność oceny",
+        "ocena atrakcyjności"
+      ],
+      "explanation": "Ocena cech na podstawie twarzy nie zmienia się, jeśli ktoś widział twarz przez 50–100 ms; przy dłuższym czasie rośnie tylko pewność oceny.",
+      "sourceExcerpt": "Ocena nie zmienia się jeśli ktoś widział twarz przez 50-100 ms, przy dłuższym czasie rośnie tylko pewność w ocenę, ale sama ocena się nie zmienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Cechą, którą na podstawie krótkich plastrów zachowania ocenia się najtrafniej, jest według notatek:"
+      ],
+      "correct": [
+        "orientacja seksualna"
+      ],
+      "distractors": [
+        "poziom ekstrawersji",
+        "sumienność w pracy",
+        "poziom neurotyzmu",
+        "inteligencja ogólna",
+        "otwartość na doświadczenie",
+        "uczciwość w relacjach",
+        "ugodowość wobec innych"
+      ],
+      "explanation": "Nie wszystkie cechy są tak samo skutecznie generalizowane z plastrów zachowania: najlepiej orientacja seksualna, dużo gorzej cechy Wielkiej Piątki.",
+      "sourceExcerpt": "Nie wszystkie cechy są tak samo skutecznie generalizowane. Najlepiej - orientacja seksualna, dużo gorzej - cechy Wielkiej Piątki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Badani czytali zdanie „Sekretarka domyśliła się, kto jest mordercą w połowie czytania kryminału”, a później lepiej przypominali sobie tę osobę po usłyszeniu słowa „bystra”. Badanie to ilustruje:"
+      ],
+      "correct": [
+        "spontaniczne wnioskowanie cech",
+        "spontaniczne przypisywanie cech na podstawie opisu zachowania"
+      ],
+      "distractors": [
+        "efekt czystej ekspozycji",
+        "efekt pierwszeństwa",
+        "zjawisko cienkich plastrów zachowania",
+        "strategię konfirmacji",
+        "heurystykę dostępności",
+        "automatyczne połączenie spostrzegania z działaniem",
+        "przenoszenie ocen ze schematów"
+      ],
+      "explanation": "Seria eksperymentów Ulemana, Newmana i Moskowitza (1996) dowiodła, że czytając opisy zachowań, ludzie spontanicznie przypisują do nich cechy.",
+      "sourceExcerpt": "Spontaniczne wnioskowanie cech (Uleman, Newman, Moskovitz, 1996) - seria eksperymentów dowiodła, że przy czytaniu opisów zachowań, ludzie spontanicznie przypisują do nich cechy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zdroworozsądkowy wniosek o przyczynie zachowania lub zdarzenia to:"
+      ],
+      "correct": [
+        "atrybucja"
+      ],
+      "distractors": [
+        "identyfikacja działania",
+        "wniosek korespondentny",
+        "schemat",
+        "hipoteza",
+        "heurystyka",
+        "inklinacja",
+        "stereotyp"
+      ],
+      "explanation": "Atrybucja to zdroworozsądkowy wniosek o przyczynie zachowania lub zdarzenia.",
+      "sourceExcerpt": "Atrybucja - zdroworozsądkowy wniosek o przyczynie zachowania lub zdarzenia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-17",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Za twórcę teorii atrybucji, zakładającej, że zachowanie jest łączną konsekwencją sił tkwiących w jednostce i w otoczeniu, uważa się:",
+        "Autorem klasycznej teorii atrybucji, w której czynniki wewnętrzne i zewnętrzne nakładają się addytywnie, jest:"
+      ],
+      "correct": [
+        "Fritz Heider"
+      ],
+      "distractors": [
+        "Harold Kelley",
+        "Bernard Weiner",
+        "Martin Seligman",
+        "Edward Jones",
+        "Daniel Gilbert",
+        "Bogdan Wojciszke",
+        "Alexander Todorov",
+        "Susan Fiske"
+      ],
+      "explanation": "Fritz Heider jest twórcą teorii atrybucji: zachowanie to łączna konsekwencja sił w jednostce (czynniki wewnętrzne) i w otoczeniu (zewnętrzne), które nakładają się addytywnie.",
+      "sourceExcerpt": "Fritz Heider - twórca teorii atrybucji. Zakłada, że zachowanie to łączna konsekwencja sił tkwiących w jednostce działającej (czynniki wewnętrzne) i otoczeniu (czynniki zewnętrzne).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-18",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Bernard Weiner uzupełnił opis przyczyn sukcesów i porażek o dwa wymiary. Obok umiejscowienia (wewnętrzne–zewnętrzne) są to:"
+      ],
+      "correct": [
+        "stałość–zmienność i kontrolowalność"
+      ],
+      "distractors": [
+        "spójność i wybiórczość zachowania",
+        "intencjonalność i swoboda działania",
+        "sprawczość i wspólnotowość",
+        "globalność i specyficzność przyczyn",
+        "powszechność i spójność zachowania",
+        "diagnostyczność i konfirmacja",
+        "dominacja i zaufanie do aktora",
+        "pozytywność i negatywność ocen"
+      ],
+      "explanation": "Weiner dodał wymiary stałe–zmienne oraz kontrolowalność; wszystkie osiem kombinacji przyczyn jest branych pod uwagę.",
+      "sourceExcerpt": "Bernard Weiner do opisu przyczyn sukcesów i porażek dodał wymiary czynników: stałe-zmienne i kontrolowalność. Wszystkie możliwe typy przyczyn (osiem kombinacji) są brane pod uwagę.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-19",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W modelu Weinera o tym, czy przyczynę uznamy za wewnętrzną czy zewnętrzną (umiejscowienie), decyduje przede wszystkim:"
+      ],
+      "correct": [
+        "porównanie z wynikami innych osób",
+        "to, jak w tym samym zadaniu wypadli inni ludzie"
+      ],
+      "distractors": [
+        "porównanie z wynikami tej samej osoby w innym czasie",
+        "to, czy osoba mogła kontrolować przyczynę",
+        "to, czy zachowanie było intencjonalne",
+        "stopień spójności zachowania w czasie",
+        "ocena intencji aktora",
+        "zgodność wyniku z oczekiwaniami społecznymi",
+        "liczba nietożsamych efektów działania"
+      ],
+      "explanation": "O umiejscowieniu decyduje porównanie z wynikami innych; o stałości/zmienności – porównanie z wynikami tej samej osoby w innym czasie.",
+      "sourceExcerpt": "Umiejscowienie - decyduje porównanie z wynikami innych. Stałość/zmienność - porównanie z wynikami tej samej osoby w innym czasie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-20",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Pesymistyczny styl wyjaśniania (Seligman, 1993), będący czynnikiem ryzyka depresji, polega na przypisywaniu porażek przyczynom:"
+      ],
+      "correct": [
+        "wewnętrznym, stałym i niekontrolowalnym",
+        "wewnętrznym, stałym i pozostającym poza kontrolą"
+      ],
+      "distractors": [
+        "zewnętrznym, zmiennym i kontrolowalnym",
+        "wewnętrznym, zmiennym i kontrolowalnym",
+        "zewnętrznym, stałym i niekontrolowalnym",
+        "wewnętrznym, zmiennym i niekontrolowalnym",
+        "zewnętrznym, zmiennym i niekontrolowalnym",
+        "zewnętrznym, stałym i kontrolowalnym",
+        "wewnętrznym, stałym i kontrolowalnym"
+      ],
+      "explanation": "Pesymistyczny styl wyjaśniania to atrybucja porażek wewnętrzna, stała i niekontrolowana – czynnik ryzyka depresji.",
+      "sourceExcerpt": "Pesymistyczny styl wyjaśniania (Martin Seligman, 1993) - atrybucja porażek wewnętrzna, stała i niekontrolowana to czynnik ryzyka depresji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-21",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Teoria, według której wyjaśnianie zachowania polega na poszukiwaniu związku między zaobserwowanym działaniem, intencją aktora i jego dyspozycjami (Jones i Davis, 1965), to:"
+      ],
+      "correct": [
+        "teoria wniosków korespondentnych"
+      ],
+      "distractors": [
+        "model współzmienności",
+        "teoria identyfikacji działania",
+        "teoria poziomów abstrakcji",
+        "trójetapowy model atrybucji",
+        "teoria asymetrii pozytywno-negatywnej",
+        "model oddolnej integracji danych",
+        "model schematopochodności ocen",
+        "teoria niezmienników kulturowych"
+      ],
+      "explanation": "Teoria wniosków korespondentnych: wyjaśnianie zachowania to poszukiwanie korespondencji między działaniem, intencją aktora i jego predyspozycjami (cechami).",
+      "sourceExcerpt": "Teoria wniosków korespondentnych (Jones i Davis, 1965). Wyjaśnianie ludzkiego zachowania = poszukiwanie korespondencji między zaobserwowanym działaniem, intencją aktora i jego predyspozycjami (cechami osobowości).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-22",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z teorią wniosków korespondentnych obserwatorzy uznają działanie za intencjonalne, jeśli aktor:"
+      ],
+      "correct": [
+        "wiedział o skutkach działania i miał swobodę ich wywołania",
+        "znał konsekwencje działania i mógł swobodnie do nich doprowadzić"
+      ],
+      "distractors": [
+        "zachował się niezgodnie z oczekiwaniami społecznymi",
+        "zachowuje się tak samo przy każdej okazji",
+        "osiągnął skutek korzystny dla samego siebie",
+        "działał w sposób, który wpłynął na obserwatora",
+        "wybrał działanie o wielu nietożsamych efektach",
+        "zachował się tak, jak większość ludzi w tej sytuacji",
+        "zachował się tak jak zwykle, niezależnie od bodźca"
+      ],
+      "explanation": "Działanie uznawane jest za intencjonalne, jeśli aktor wiedział o jego skutkach oraz miał swobodę działania i mógł do tych skutków doprowadzić.",
+      "sourceExcerpt": "Obserwatorzy uważają działanie za intencjonalne, jeśli: aktor wiedział o skutkach działania, miał swobodę działania i mógł do tych skutków doprowadzić.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-23",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Według Jonesa i Davisa o treści intencji aktora wnioskujemy na podstawie nietożsamych efektów jego wyborów. Im więcej takich efektów, tym:"
+      ],
+      "correct": [
+        "trudniej ocenić intencję aktora",
+        "mniej pewny jest wniosek o intencji"
+      ],
+      "distractors": [
+        "łatwiej ocenić intencję aktora",
+        "silniejszy jest wniosek korespondentny",
+        "większa skłonność do przypisania cechy aktorowi",
+        "bardziej zachowanie uznawane jest za intencjonalne",
+        "mniejszy wpływ oczekiwań społecznych na ocenę",
+        "chętniej przypisujemy zachowanie sytuacji",
+        "słabszy jest podstawowy błąd atrybucji"
+      ],
+      "explanation": "Jeżeli tylko jeden wybór skutkował X i aktor go dokonał, to zależało mu na X. Im więcej nietożsamych efektów, tym trudniej ocenić intencję.",
+      "sourceExcerpt": "Wnioskowanie o treści intencji na podstawie nietożsamych efektów działań. Im więcej nietożsamych efektów → tym trudniej ocenić intencję.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-24",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z teorią wniosków korespondentnych najsilniej wnioskujemy o cechach aktora na podstawie zachowań:"
+      ],
+      "correct": [
+        "sprzecznych z oczekiwaniami społecznymi",
+        "niezgodnych z tym, czego oczekuje się w danej sytuacji",
+        "nieoczekiwanych w danej roli lub sytuacji"
+      ],
+      "distractors": [
+        "zgodnych z oczekiwaniami społecznymi",
+        "powtarzanych przy każdej okazji",
+        "typowych dla większości ludzi",
+        "nieintencjonalnych i przypadkowych",
+        "obserwowanych z dużej odległości czasowej",
+        "wykonywanych pod wpływem silnych emocji",
+        "korzystnych dla samego aktora"
+      ],
+      "explanation": "Mocno oceniamy na podstawie zachowań sprzecznych z oczekiwaniami, słabo na podstawie zachowań oczekiwanych.",
+      "sourceExcerpt": "Istotnym w wyciągnięciu wniosku korespondencyjnego jest oczekiwanie społeczne (mocno oceniamy na podstawie zachowań sprzecznych z oczekiwaniami, słabo na podstawie zachowań oczekiwanych).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-25",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W eksperymencie z konkursem „wiem wszystko” osoba zadająca pytania była oceniana jako bardziej kompetentna zarówno przez siebie, jak i przez publiczność, choć o przewadze decydowała rola. Ilustruje to:"
+      ],
+      "correct": [
+        "podstawowy błąd atrybucji",
+        "niedocenianie wpływu sytuacji na zachowanie"
+      ],
+      "distractors": [
+        "egocentryzm atrybucyjny",
+        "efekt fałszywej powszechności",
+        "efekt pierwszeństwa",
+        "strategię diagnostyczności",
+        "teorię poziomów abstrakcji",
+        "zjawisko cienkich plastrów zachowania",
+        "przenoszenie ocen z bieżących stanów"
+      ],
+      "explanation": "Ludzie często nie doceniają, jak mocno zachowania wynikają z sytuacji, i oceniają je tak, jakby z niej nie wynikały – to istota podstawowego błędu atrybucji.",
+      "sourceExcerpt": "Ludzie jednak często nie doceniają, jak mocno zachowania wynikają z sytuacji i oceniają je, jakby nie wynikały (konkurs „wiem wszystko”, pytający lepiej oceniany przez siebie i publikę).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-26",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Trzy rodzaje informacji rozpatrywane w modelu współzmienności Kelleya to:"
+      ],
+      "correct": [
+        "spójność, wybiórczość i powszechność zachowania",
+        "spójność, wybiórczość i powszechność"
+      ],
+      "distractors": [
+        "umiejscowienie, stałość i kontrolowalność",
+        "intencjonalność, swoboda i skutki działania",
+        "identyfikacja, wniosek o cesze i poprawka na sytuację",
+        "dostępność, reprezentatywność i zakotwiczenie",
+        "sprawczość, wspólnotowość i moralność",
+        "diagnostyczność, konfirmacja i samospełnienie",
+        "inklinacja pozytywna, efekt negatywności i efekt pierwszeństwa"
+      ],
+      "explanation": "Model współzmienności opiera atrybucję na trzech informacjach: spójności, wybiórczości i powszechności zachowania.",
+      "sourceExcerpt": "Model współzmienności Kelleya (Kelley, 1967, 1972). Rozpatrywane są trzy informacje: spójność zachowania, wybiórczość zachowania, powszechność zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-27",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W modelu Kelleya pytanie „Czy Janek śmieje się ze wszystkich komików, czy tylko z tego jednego?” sprawdza informację, którą nazywa się:",
+        "Informację o tym, że osoba reaguje w dany sposób tylko na ten jeden bodziec, a nie na inne bodźce podobnego rodzaju, Kelley nazywa:"
+      ],
+      "correct": [
+        "wybiórczością zachowania"
+      ],
+      "distractors": [
+        "spójnością zachowania",
+        "powszechnością zachowania",
+        "stałością przyczyny",
+        "kontrolowalnością zachowania",
+        "umiejscowieniem przyczyny",
+        "intencjonalnością działania",
+        "diagnostycznością informacji"
+      ],
+      "explanation": "Wybiórczość: osoba zachowuje się tak tylko wobec tego bodźca, nie wobec innych podobnych. Spójność dotyczy tej samej osoby w różnych okazjach, powszechność – innych ludzi.",
+      "sourceExcerpt": "Wybiórczość zachowania - zachowuje się w taki sposób tylko do tego bodźca, ale nie do innych bodźców podobnego rodzaju. (Janek śmieje się ze wszystkich komików, czy tylko tego jednego?)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-28",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z modelem Kelleya, jeśli zachowanie jest wysoce spójne, wybiórcze i powszechne, jego przyczynę przypisujemy:"
+      ],
+      "correct": [
+        "bodźcowi"
+      ],
+      "distractors": [
+        "aktorowi",
+        "okolicznościom",
+        "cechom aktora",
+        "przypadkowi",
+        "intencji",
+        "obserwatorowi",
+        "sytuacji"
+      ],
+      "explanation": "Spójne, wybiórcze i powszechne zachowanie → przyczyna w bodźcu. Spójne, niewybiórcze i niepowszechne → przyczyna w aktorze.",
+      "sourceExcerpt": "Jeśli zachowanie jest wysoce spójne, wybiórcze i powszechne, przyczyna zachowania przypisywana jest bodźcowi. Jeżeli zachowanie jest wysoce spójne, niewybiórcze i niepowszechne → aktorowi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-29",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Z trzech informacji w modelu Kelleya ludzie w praktyce najchętniej opierają atrybucję na:"
+      ],
+      "correct": [
+        "spójności zachowania"
+      ],
+      "distractors": [
+        "powszechności zachowania",
+        "wybiórczości zachowania",
+        "kontrolowalności przyczyny",
+        "intencji aktora",
+        "stałości przyczyny",
+        "oczekiwaniach społecznych"
+      ],
+      "explanation": "Ludzie najchętniej opierają atrybucję na spójności, a najmniej chętnie na powszechności.",
+      "sourceExcerpt": "Ludzie najchętniej opierają atrybucję na spójności, a najmniej chętnie na powszechności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-30",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z notatkami podstawowy błąd atrybucji jest słabszy między innymi wtedy, gdy:"
+      ],
+      "correct": [
+        "obserwator wie, że będzie musiał uzasadnić swoje sądy",
+        "obserwator spodziewa się, że będzie musiał wyjaśnić swoją ocenę"
+      ],
+      "distractors": [
+        "obserwator pochodzi z kultury indywidualistycznej",
+        "obserwator ocenia osobę dorosłą, a nie dziecko",
+        "obserwator ma mało czasu na ocenę",
+        "zachowanie aktora było zgodne z oczekiwaniami",
+        "obserwator jest w dobrym nastroju",
+        "oceniany należy do grupy własnej obserwatora",
+        "obserwator widział tylko krótki fragment zachowania"
+      ],
+      "explanation": "Efekt jest mniejszy w kulturach kolektywistycznych, dzieci zaczynają go przejawiać dopiero z czasem, a słabnie, gdy obserwator wie, że będzie musiał wyjaśnić swoje sądy.",
+      "sourceExcerpt": "Dzieci zaczynają to robić dopiero z czasem. Efekt ten jest mniejszy w kulturach kolektywistycznych. Efekt słabnie, gdy obserwator wie, że będzie musiał wyjaśnić swoje sądy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-31",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "W trójetapowym modelu atrybucji Gilberta (1995) etapem, który wymaga zasobów poznawczych i dlatego bywa pomijany, jest:"
+      ],
+      "correct": [
+        "kontrolowana poprawka na sytuację",
+        "świadome uwzględnienie wpływu sytuacji"
+      ],
+      "distractors": [
+        "identyfikacja działania aktora",
+        "automatyczny wniosek o cesze",
+        "porównanie z zachowaniem innych ludzi",
+        "ocena intencjonalności działania",
+        "sprawdzenie spójności zachowania w czasie",
+        "wybór między atrybucją stałą i zmienną",
+        "ocena moralności aktora"
+      ],
+      "explanation": "Trzy etapy: identyfikacja akcji, automatyczny wniosek o cesze, kontrolowana poprawka na sytuację – ta ostatnia wymaga zasobów, więc łatwo ją pominąć.",
+      "sourceExcerpt": "Trójetapowy model atrybucji (Gilbert, 1995): 1. Identyfikacja [akcji] 2. Automatyczny wniosek o cesze 3. Kontrolowana poprawka na sytuację (etap wymaga zasobów, więc może zostać łatwo pominięty).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-32",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Tendencja do wyjaśniania własnych zachowań w pochlebny dla siebie sposób, np. przypisywanie sobie zasług za sukcesy, to:"
+      ],
+      "correct": [
+        "egotyzm atrybucyjny"
+      ],
+      "distractors": [
+        "egocentryzm atrybucyjny",
+        "podstawowy błąd atrybucji",
+        "efekt fałszywej powszechności",
+        "efekt pozytywności",
+        "strategia konfirmacji",
+        "efekt pierwszeństwa",
+        "wniosek korespondentny"
+      ],
+      "explanation": "Egotyzm atrybucyjny: zwykle przypisujemy sobie zasługi za sukcesy; z porażkami bywa różnie.",
+      "sourceExcerpt": "Egotyzm atrybucyjny: tendencja do wyjaśniania własnych zachowań w pochlebny dla siebie sposób. Zwykle przypisujemy sobie zasługi za sukcesy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-33",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z notatkami o egotyzmie atrybucyjnym porażkę przypisujemy sobie chętniej, gdy:"
+      ],
+      "correct": [
+        "spodziewaliśmy się jej",
+        "była przez nas oczekiwana"
+      ],
+      "distractors": [
+        "była całkowicie nieoczekiwana",
+        "dotyczy sprawności, a nie moralności",
+        "towarzyszył nam dobry nastrój",
+        "obserwowali ją inni ludzie",
+        "wynik osiągnęliśmy wspólnie z innymi",
+        "jej przyczyna była zmienna i kontrolowalna",
+        "była niewielka i mało istotna"
+      ],
+      "explanation": "Porażkom przypisywane są zarówno czynniki wewnętrzne, jak i zewnętrzne; sobie przypisujemy je chętniej, gdy się ich spodziewaliśmy.",
+      "sourceExcerpt": "Z porażkami bywa różnie (przypisywane są zarówno wewnętrzne jak i zewnętrzne czynniki). Porażki przypisujemy sobie chętniej, gdy się ich spodziewaliśmy.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-34",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zjawisko fałszywej powszechności obejmuje własne poglądy, zachowania i cechy, z wyjątkiem:"
+      ],
+      "correct": [
+        "cech najbardziej pozytywnych",
+        "swoich najbardziej pozytywnych cech"
+      ],
+      "distractors": [
+        "cech negatywnych",
+        "preferencji konsumenckich",
+        "poglądów politycznych",
+        "zachowań rutynowych",
+        "cech związanych ze sprawnością",
+        "poglądów podzielanych przez bliskich",
+        "cech ocenianych przez innych ludzi"
+      ],
+      "explanation": "Fałszywa powszechność dotyczy także cech negatywnych, ale nie najbardziej pozytywnych – wolimy myśleć, że jesteśmy wyjątkowi.",
+      "sourceExcerpt": "Dotyczy to także cech negatywnych, ale nie najbardziej pozytywnych (wolimy myśleć, że jesteśmy wyjątkowi).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-35",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Jedną z przyczyn fałszywej powszechności wymienianych w notatkach jest:"
+      ],
+      "correct": [
+        "dostępność umysłowa własnych poglądów"
+      ],
+      "distractors": [
+        "efekt czystej ekspozycji na własne poglądy",
+        "pesymistyczny styl wyjaśniania porażek",
+        "niedocenianie wpływu sytuacji na zachowanie",
+        "automatyczny wniosek o cesze aktora",
+        "uśrednianie ocen cząstkowych o innych",
+        "wysoka spójność własnych zachowań w czasie",
+        "przewaga treści sprawczych w spostrzeganiu siebie"
+      ],
+      "explanation": "Przyczyny: dostępność umysłowa (częściej myślimy o swoich poglądach i otaczamy się podobnie myślącymi) oraz to, że utwierdza nas to w poczuciu słuszności.",
+      "sourceExcerpt": "Przyczyny: 1. Dostępność umysłowa (częściej myślimy o swoich poglądach niż o innych możliwych i otaczamy się osobami myślącymi podobnie) 2. Utwierdza nas w poczuciu słuszności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-36",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z modelem Fiske i Pavelchaka rola schematu w ocenie człowieka rośnie między innymi wtedy, gdy:"
+      ],
+      "correct": [
+        "los oceniającego nie zależy od ocenianego",
+        "oceniający nie jest zależny od osoby ocenianej"
+      ],
+      "distractors": [
+        "schemat jest złożony i wielowymiarowy",
+        "schemat nie był ostatnio używany",
+        "ocena dokonywana jest bez pośpiechu",
+        "oceniający jest silnie zainteresowany ocenianym",
+        "dane o cechach są sprzeczne z kategorią",
+        "oceniający jest w złym nastroju",
+        "oceniany należy do grupy własnej oceniającego"
+      ],
+      "explanation": "Rola schematu rośnie, gdy: był niedawno używany, jest prosty, ocena jest w pośpiechu, los oceniającego nie zależy od ocenianego.",
+      "sourceExcerpt": "Rola schematu rośnie, gdy: 1. schemat był niedawno używany do oceniania 2. schemat jest prosty 3. ocena jest w pośpiechu 4. los oceniającego nie zależy od ocenianego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-37",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Według Fiske i Pavelchaka, gdy wśród danych o człowieku jest identyfikator kategorii, a jego cechy indywidualne są z nią zgodne lub niezwiązane, to:"
+      ],
+      "correct": [
+        "reagujemy na niego jak na członka kategorii",
+        "ocena jest schematopochodna"
+      ],
+      "distractors": [
+        "przechodzimy do oddolnej integracji danych",
+        "uśredniamy oceny jego cech",
+        "nasilamy poszukiwanie informacji diagnostycznych",
+        "oceniamy go według bieżącego nastroju",
+        "stosujemy strategię konfirmacji",
+        "ocena opiera się na efekcie pierwszeństwa",
+        "przypisujemy mu cechy sprzeczne z kategorią"
+      ],
+      "explanation": "W takich przypadkach przestajemy interesować się dalszymi cechami indywidualnymi i reagujemy na osobę jako na członka grupy; w przeciwnym razie oceniamy przez oddolną integrację danych.",
+      "sourceExcerpt": "W tych przypadkach przestajemy interesować się dalszymi cechami indywidualnymi ocenianej osoby i reagujemy na nią jako na członka grupy. W przeciwnym przypadku ocena na podstawie oddolnej integracji danych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-38",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Gdy oceniamy nieznaną osobę pozytywnie tylko dlatego, że sami akurat czujemy się dobrze, mamy do czynienia z:"
+      ],
+      "correct": [
+        "przenoszeniem ocen z bieżących stanów",
+        "przeniesieniem nastroju na ocenę"
+      ],
+      "distractors": [
+        "przenoszeniem ocen ze schematów",
+        "oddolną integracją danych o osobie",
+        "efektem pierwszeństwa informacji",
+        "samospełniającą się przepowiednią",
+        "efektem czystej ekspozycji",
+        "egotyzmem atrybucyjnym oceniającego",
+        "strategią konfirmacji hipotezy"
+      ],
+      "explanation": "Przenoszenie ocen z bieżących stanów: jeśli czujemy się dobrze, oceniamy nieznaną osobę pozytywnie, jeśli źle – negatywnie.",
+      "sourceExcerpt": "Przenoszenie ocen z bieżących stanów oceniającego człowieka. Jeśli czujemy się dobrze - oceniamy nieznaną osobę pozytywnie, jeśli źle - negatywnie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-39",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Ocena człowieka przestaje być automatyczna i przechodzi w oddolną integrację danych, gdy:"
+      ],
+      "correct": [
+        "jesteśmy mocniej zainteresowani ocenianą osobą",
+        "oceniana osoba ma dla nas większe znaczenie"
+      ],
+      "distractors": [
+        "schemat był niedawno używany do oceniania",
+        "oceniamy w pośpiechu, bez namysłu",
+        "schemat kategorii jest bardzo prosty",
+        "dane o osobie są zgodne z jej kategorią",
+        "jesteśmy w wyjątkowo dobrym nastroju",
+        "oceniana osoba jest nam zupełnie obca",
+        "oceniamy wyłącznie sprawność tej osoby"
+      ],
+      "explanation": "Gdy jesteśmy mocniej zainteresowani osobą ocenianą, ocena przestaje być automatyczna.",
+      "sourceExcerpt": "Gdy jesteśmy mocniej zainteresowani osobą ocenianą, ocena przestaje być automatyczna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-40",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z modelem uśredniania kolejna pozytywna cecha podniesie ogólną ocenę osoby tylko wtedy, gdy:"
+      ],
+      "correct": [
+        "jest oceniana wyżej niż cała osoba dotychczas",
+        "przewyższa dotychczasowe ogólne wrażenie o osobie"
+      ],
+      "distractors": [
+        "jest jakąkolwiek cechą ocenianą pozytywnie",
+        "została podana jako pierwsza informacja",
+        "dotyczy moralności, a nie sprawności osoby",
+        "jest zgodna ze schematem kategorii osoby",
+        "jest spójna z wcześniej poznanymi cechami",
+        "potwierdza wcześniejszą hipotezę oceniającego",
+        "jest cechą kontrolowalną przez tę osobę"
+      ],
+      "explanation": "W modelu uśredniania odczucia o osobie są średnią odczuć o jej cechach, w odróżnieniu od modelu addytywnego, gdzie każda pozytywna cecha podnosiłaby ocenę.",
+      "sourceExcerpt": "Kolejna cecha wpłynie pozytywnie na generalne odczucie, tylko jeśli ocenimy ją jeszcze pozytywniej, niż postrzegamy całą osobę obecnie (w przeciwieństwie do modelu addytywnego).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-41",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zjawisko, w którym informacje otrzymane jako pierwsze służą za kontekst dla informacji późniejszych i mają większą wagę w ocenie, to:"
+      ],
+      "correct": [
+        "efekt pierwszeństwa"
+      ],
+      "distractors": [
+        "efekt świeżości",
+        "efekt negatywności",
+        "inklinacja pozytywna",
+        "efekt czystej ekspozycji",
+        "efekt pozytywności",
+        "strategia konfirmacji",
+        "samospełniająca się przepowiednia"
+      ],
+      "explanation": "Efekt pierwszeństwa: mocniej bierzemy pod uwagę początkowe informacje, bo służą za kontekst dla otrzymanych później.",
+      "sourceExcerpt": "Mocniej bierzemy pod uwagę początkowe informacje (efekt pierwszeństwa - informacje otrzymane jako pierwsze służą za kontekst informacji otrzymanych później).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-42",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Asymetria pozytywno-negatywna (Czapiński, 1985, 1988) składa się z dwóch elementów:"
+      ],
+      "correct": [
+        "inklinacji pozytywnej i efektu negatywności",
+        "efektu negatywności i inklinacji pozytywnej"
+      ],
+      "distractors": [
+        "efektu pierwszeństwa i efektu świeżości",
+        "egotyzmu i egocentryzmu atrybucyjnego",
+        "strategii diagnostyczności i strategii konfirmacji",
+        "inklinacji pozytywnej i efektu pozytywności",
+        "efektu negatywności i pesymistycznego stylu wyjaśniania",
+        "uśredniania i modelu addytywnego",
+        "sprawczości i wspólnotowości"
+      ],
+      "explanation": "Inklinacja pozytywna to skłonność do raczej pozytywnych ocen siebie, innych i zdarzeń; efekt negatywności to większy wpływ cech negatywnych na ocenę globalną.",
+      "sourceExcerpt": "Asymetria pozytywno-negatywna składa się z dwóch elementów: 1. Inklinacja pozytywna 2. Efekt negatywności.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-43",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Większy wpływ cech negatywnych niż pozytywnych na ocenę globalną człowieka to:"
+      ],
+      "correct": [
+        "efekt negatywności"
+      ],
+      "distractors": [
+        "inklinacja pozytywna",
+        "efekt pierwszeństwa",
+        "efekt pozytywności",
+        "pesymistyczny styl wyjaśniania",
+        "asymetria aktor-obserwator",
+        "strategia konfirmacji",
+        "egotyzm atrybucyjny"
+      ],
+      "explanation": "Efekt negatywności: cechy negatywne mają większy wpływ na ocenę globalną niż pozytywne; negatywne komunikaty niosą więcej informacji.",
+      "sourceExcerpt": "Efekt negatywności - cechy negatywne mają większy wpływ na ocenę globalną niż cechy pozytywne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-44",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Według notatek efekt negatywności dominuje, gdy mowa o faktach, natomiast inklinacja pozytywna, gdy mowa o:"
+      ],
+      "correct": [
+        "nadziejach i oczekiwaniach",
+        "oczekiwaniach wobec przyszłości"
+      ],
+      "distractors": [
+        "cechach moralnych",
+        "własnych porażkach",
+        "zachowaniach innych ludzi",
+        "informacjach z pewnego źródła",
+        "zachowaniach rutynowych",
+        "zdarzeniach odległych w czasie",
+        "osobach z własnej grupy"
+      ],
+      "explanation": "To, który element asymetrii wystąpi, zależy od tego, czy mowa o faktach (efekt negatywności), czy o nadziejach i oczekiwaniach (inklinacja pozytywna).",
+      "sourceExcerpt": "To, który element wystąpi zależy czy mowa o faktach (efekt negatywności), czy o nadziejach i oczekiwaniach (inklinacja pozytywna).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-45",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Efekt negatywności jest szczególnie silny przy przetwarzaniu informacji dotyczących:"
+      ],
+      "correct": [
+        "moralności"
+      ],
+      "distractors": [
+        "sprawności",
+        "inteligencji",
+        "atrakcyjności fizycznej",
+        "ekstrawersji",
+        "kompetencji zawodowych",
+        "dominacji",
+        "intencjonalności działania"
+      ],
+      "explanation": "Efekt negatywności występuje przy informacjach o moralności, silnie nasyconych wartościowaniem; efekt pozytywności – przy sprzecznych informacjach o sprawności, słabo nasyconych wartościowaniem.",
+      "sourceExcerpt": "Efekt pozytywności: przy integrowaniu sprzecznych informacji dotyczących sprawności i słabo nasyconych wartościowaniem. Efekt negatywności: przy przetwarzaniu informacji dotyczących moralności i silnie nasyconych wartościowaniem.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-46",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Według notatek niepowodzenie w zadaniu (negatywne zachowanie sprawnościowe) świadczy o cechach osoby:"
+      ],
+      "correct": [
+        "mniej niż powodzenie",
+        "słabiej niż sukces w tym samym zadaniu"
+      ],
+      "distractors": [
+        "bardziej niż powodzenie",
+        "tak samo jak powodzenie",
+        "bardziej niż nieuczciwy postępek",
+        "tak samo jak nieuczciwy postępek",
+        "wcale, jeśli było oczekiwane",
+        "tylko wtedy, gdy było intencjonalne",
+        "tylko w kulturach indywidualistycznych"
+      ],
+      "explanation": "Negatywne zachowania moralne są bardziej diagnostyczne niż pozytywne, ale negatywne zachowania sprawnościowe są mniej diagnostyczne niż pozytywne: niepowodzenie świadczy o osobie mniej niż powodzenie.",
+      "sourceExcerpt": "Negatywne zachowania sprawnościowe są mniej ważne diagnostycznie dla cech niż pozytywne - niepowodzenie świadczy o osobie mniej, niż powodzenie.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-47",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Szukanie wyłącznie danych związanych z hipotezą (np. przy hipotezie „on jest dobrym muzykiem” nie sprawdzamy, czy dobrze gra w piłkę) to:"
+      ],
+      "correct": [
+        "strategia diagnostyczności"
+      ],
+      "distractors": [
+        "strategia konfirmacji",
+        "samospełniająca się przepowiednia",
+        "efekt pierwszeństwa",
+        "wniosek korespondentny",
+        "przenoszenie ocen ze schematów",
+        "heurystyka dostępności",
+        "oddolna integracja danych"
+      ],
+      "explanation": "Strategia diagnostyczności: szukamy tylko danych związanych z hipotezą. Strategia konfirmacji: bardziej interesują nas dane ją potwierdzające.",
+      "sourceExcerpt": "Strategia diagnostyczności - szukamy tylko danych związanych z hipotezą (jeśli hipoteza brzmi „on jest dobrym muzykiem” to nie sprawdzamy, czy dobrze gra w piłkę).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-48",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Aby samospełniająca się przepowiednia zadziałała, konieczne jest, by:"
+      ],
+      "correct": [
+        "obserwator miał kontakt z ocenianą osobą i wpływ na nią",
+        "między stronami był kontakt, a obserwator mógł wpływać na obserwowanego"
+      ],
+      "distractors": [
+        "hipoteza obserwatora była od początku prawdziwa",
+        "oceniana osoba znała hipotezę obserwatora",
+        "obserwator pochodził z kultury indywidualistycznej",
+        "oceniana osoba miała wpływ na obserwatora",
+        "hipoteza dotyczyła cech moralnych, a nie sprawności",
+        "obserwator stosował strategię diagnostyczności",
+        "oceniana osoba była dzieckiem"
+      ],
+      "explanation": "Musi być kontakt między stronami, a obserwator musi mieć wpływ na obserwowanego (nauczyciel łatwiej wpłynie na ucznia niż odwrotnie).",
+      "sourceExcerpt": "By efekt ten zadziałał, musi być kontakt między dwoma stronami i obserwator musi mieć wpływ na obserwowanego (łatwiej nauczyciel wpłynie na ucznia, niż na odwrót).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-49",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z notatkami siła samospełniającej się przepowiedni w szkole jest taka, że:"
+      ],
+      "correct": [
+        "zdolności uczniów wpływają na ich oceny bardziej niż oczekiwania nauczycieli",
+        "oczekiwania nauczycieli mają mniejszy wpływ na wyniki niż zdolności uczniów"
+      ],
+      "distractors": [
+        "oczekiwania nauczycieli wpływają na oceny bardziej niż zdolności uczniów",
+        "oczekiwania nauczycieli i zdolności uczniów mają równy wpływ na oceny",
+        "oczekiwania rodziców wpływają na oceny bardziej niż oczekiwania nauczycieli",
+        "uczniowie mogą wpływać na nauczyciela łatwiej niż nauczyciel na uczniów",
+        "efekt występuje tylko u uczniów o wysokim potencjale",
+        "efekt całkowicie znika, gdy nauczyciel zna wyniki testów"
+      ],
+      "explanation": "Efekt nie jest bardzo silny: zdolności uczniów mają większy wpływ na oceny niż oczekiwania nauczycieli i rodziców.",
+      "sourceExcerpt": "Efekt nie jest bardzo silny → zdolności uczniów mają większy wpływ na oceny niż oczekiwania nauczycieli i rodziców.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-50",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Dwie cechy, które Todorov (2011) wydestylował z intuicyjnych ocen twarzy, to:"
+      ],
+      "correct": [
+        "dominacja i zaufanie"
+      ],
+      "distractors": [
+        "sprawczość i wspólnotowość",
+        "ekstrawersja i neurotyzm",
+        "atrakcyjność i inteligencja",
+        "moralność i kompetencja",
+        "męskość i kobiecość",
+        "szczęście i smutek",
+        "uczciwość i sumienność"
+      ],
+      "explanation": "Todorov wydestylował z ocen twarzy dominację (korelującą z osią męskie–damskie) i zaufanie (pokrywające się z oceną, że ktoś jest szczęśliwy).",
+      "sourceExcerpt": "Morfy - Todorov 2011. Wydestylował dwie cechy z intuicyjnych ocen twarzy: dominacja i zaufanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-51",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Według Todorova wysoka ocena zaufania do twarzy pokrywa się z oceną, że osoba jest:"
+      ],
+      "correct": [
+        "szczęśliwa",
+        "w szczęśliwym nastroju"
+      ],
+      "distractors": [
+        "dominująca",
+        "męska",
+        "inteligentna",
+        "zagrażająca",
+        "atrakcyjna",
+        "sumienna",
+        "ekstrawertywna"
+      ],
+      "explanation": "Wysokie zaufanie pokrywa się z oceną, że ktoś jest szczęśliwy; dominacja koreluje z osią cech męskich–damskich.",
+      "sourceExcerpt": "Dominacja koreluje z osią cech męskich-damskich. Wysokie zaufanie pokrywa się z oceną, że ktoś jest szczęśliwy.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-52",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Przy badaniu trafności ocen ludzi, gdy brak wprost dostępnego kryterium prawdziwości, korzysta się z opisów innych ludzi, samoopisów oraz:"
+      ],
+      "correct": [
+        "przewidywania zachowań",
+        "trafności przewidywań zachowania ocenianej osoby"
+      ],
+      "distractors": [
+        "testów inteligencji",
+        "oceny atrakcyjności twarzy",
+        "zgodności ocen między obserwatorami",
+        "czasu reakcji obserwatora",
+        "analizy mimiki podczas kłamstwa",
+        "długości znajomości z ocenianym",
+        "pomiaru aktywności neuronów lustrzanych"
+      ],
+      "explanation": "Zwykle trzeba skorzystać z opisów innych ludzi, samoopisów i przewidywania zachowań.",
+      "sourceExcerpt": "Zwykle trzeba skorzystać z: 1. Opisów innych ludzi 2. Samoopisów 3. Przewidywania zachowań.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-53",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Zgodnie z notatkami neurony lustrzane przetwarzają zachowanie:"
+      ],
+      "correct": [
+        "na niskim poziomie ruchów, ale nie interpretacji zachowań",
+        "na poziomie prostych ruchów, nie znaczenia zachowań"
+      ],
+      "distractors": [
+        "na poziomie interpretacji zachowań, ale nie prostych ruchów",
+        "zarówno na poziomie ruchów, jak i interpretacji zachowań",
+        "wyłącznie podczas obserwacji twarzy innych ludzi",
+        "tylko wtedy, gdy obserwowane działanie jest intencjonalne",
+        "tylko u osób o wysokiej empatii i wrażliwości",
+        "na poziomie oceny moralności obserwowanego działania"
+      ],
+      "explanation": "Neurony lustrzane przetwarzają zachowanie na niskim poziomie (naśladowanie obserwowanego ruchu dłonią), ale nie na wysokim (interpretacja zachowań).",
+      "sourceExcerpt": "Neurony lustrzane przetwarzają zachowanie na niskim poziomie (naśladowanie obserwowanego ruchu dłonią) ale nie na wysokim poziomie (interpretacja zachowań).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-54",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Prymowanie pojęciem „profesor” zwiększa wiedzę ogólną badanych, natomiast prymowanie zbyt konkretne („Albert Einstein”) powoduje:"
+      ],
+      "correct": [
+        "zachowania kontrastowe (badani wypadają gorzej)",
+        "efekt kontrastu, czyli gorsze wyniki"
+      ],
+      "distractors": [
+        "jeszcze silniejszy wzrost wiedzy ogólnej",
+        "brak jakiegokolwiek efektu",
+        "wzrost wiedzy tylko u osób z silnym autoschematem",
+        "poprawę nastroju, ale nie wyników",
+        "wzrost zachowań życzliwych",
+        "spadek pewności własnych odpowiedzi",
+        "wzrost poczucia dominacji"
+      ],
+      "explanation": "Prymowanie musi być ogólne; zbyt konkretne może wywołać zachowania kontrastowe („profesor” → ktoś zachowuje się mądrzej, „Albert Einstein” → głupiej).",
+      "sourceExcerpt": "Prymowanie w kierunku zbyt konkretnym może wywołać zachowania kontrastowe („profesor” → ktoś zachowuje się mądrzej, „Albert Einstein” → ktoś zachowuje się „głupiej”).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-55",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-5",
+      "stems": [
+        "Automatyczny wpływ aktywizacji pojęć na działanie (np. ekspozycja na koncept życzliwości) zachodzi pod warunkiem, że aktywizacja:"
+      ],
+      "correct": [
+        "może wpłynąć na postrzeganie własnego ja",
+        "ma szansę zmienić autoschematy osoby"
+      ],
+      "distractors": [
+        "jest w pełni świadoma i zamierzona przez osobę",
+        "dotyczy konkretnej, dobrze znanej osoby",
+        "odbywa się w obecności innych ludzi",
+        "dotyczy cech negatywnych, a nie pozytywnych",
+        "jest powtarzana wielokrotnie w krótkim czasie",
+        "wiąże się z nagrodą za pożądane zachowanie",
+        "dotyczy osoby z własnej grupy społecznej"
+      ],
+      "explanation": "Aktywizacja pojęć przyczynia się do działań z nimi związanych automatycznie, ale tylko pod warunkiem, że ma szansę wpłynąć na autoschematy.",
+      "sourceExcerpt": "Dzieje się to automatycznie, ale tylko pod warunkiem, że ma szansę wpłynąć na postrzeganie własnego ja (autoschematów).",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ]
+}

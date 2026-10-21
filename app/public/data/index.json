@@ -1,0 +1,15 @@
+{
+  "books": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke",
+      "title": "„Psychologia Społeczna” Grzyb, Wojciszke",
+      "chapters": [
+        {
+          "id": "rozdzial-5",
+          "title": "Rozdział 5",
+          "questionCount": 55
+        }
+      ]
+    }
+  ]
+}
