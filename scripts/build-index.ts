@@ -24,7 +24,7 @@ for (const b of outline) {
     const e = entries.find((x) => x.bookId === b.id && x.chapterId === c.id);
     if (!e || e.count === 0) continue;
     used.add(e);
-    chapters.push({ id: c.id, title: e.chapterTitle || c.title, questionCount: e.count });
+    chapters.push({ id: c.id, title: c.title, questionCount: e.count }); // outline title wins: it carries notes like "str. 12-19"
   }
   if (chapters.length) books.push({ id: b.id, title: b.title, chapters });
 }

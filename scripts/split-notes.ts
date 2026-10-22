@@ -85,10 +85,13 @@ export function splitNotes(md: string): Book[] {
       if (cm) {
         flush();
         const bookTitle = cm[1]?.trim();
-        const chapterTitle = (cm[2] ?? title).trim();
+        // id from the "Rozdział N" group only; title keeps the whole heading minus the book prefix,
+        // so a partial-chapter note like "Rozdział 1, str. 12-19" stays visible in the app.
+        const chapterKey = (cm[2] ?? title).trim();
+        const chapterTitle = (bookTitle ? title.slice(title.indexOf(chapterKey)) : title).replace(/[\s.:;,-]+$/, "").trim();
         if (bookTitle) book = getBook(bookTitle);
         if (!book) book = getBook(pageTitle);
-        chapter = { id: slugify(chapterTitle), title: chapterTitle, text: "", words: 0, hash: "" };
+        chapter = { id: slugify(chapterKey), title: chapterTitle, text: "", words: 0, hash: "" };
         book.chapters.push(chapter);
         continue;
       }
