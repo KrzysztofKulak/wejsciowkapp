@@ -282,6 +282,181 @@ Efekt nie jest bardzo silny → zdolności uczniów mają większy wpływ na oc
 
 # Rozdział 6
 
-Czytanie bez notatek 30 minut + 30 minut + 20 minut + 15 minut 
+> Czytanie bez notatek 30 minut + 30 minut + 20 minut + 15 minut
+Sporządzanie notatek: 15 minut + 70 minut 
 
-Sporządzanie notatek:
+Ja - luźna struktura różnych ról i tożsamości społecznych, przekonań na własny temat i samoocen oraz wartości i celów uznawanych za własne. Zmieniające się konteksty społeczne ujawniają coraz to inne obszary ja.
+
+**Efekt odniesienia do ja** - polega na lepszym zapamiętywaniu informacji odnoszonych do własnej osoby niż przetwarzanych w inny sposób. (Przykład: Jeżeli ludzie dostaną listę cech z prośbą o zdecydowanie, w jakimś stopniu się do nich odnoszą, lepiej potrafią ją potem odtworzyć, niż gdy odnosili listę do innych osób). 
+
+Przyczyna efektu odniesienia do ja - im bogatsza jest struktura wiedzy, do której odnosimy odebraną informację, tym więcej powstaje skojarzeń w momencie jej przetwarzania, co ułatwia przypominanie sobie.
+
+Efekt cocktail-party - informacje nas dotyczące łatwiej do nas docierają, nawet w warunkach pochłonięcia uwagi czymś innym.
+
+#### Autoschemat
+
+obszar ja, w zakresie którego człowiek ma dobrze sprecyzowane poglądy i bogatą wiedzę o sobie, wykształcane w dziedzinach, które są dla nas ważne, odróżniają nas od innych ludzi, definiują wartość naszej osoby i dotyczy ich wiele podejmowanych przez nas aktywności.
+
+Osoby posiadające auto schemat w jakiejś dziedzinie:
+
+1. częściej oceniają nadchodzące informacje z uwagi na ich istotność dla tej dziedziny
+2. łatwiej przetwarzają informacje o sobie w tej dziedzinie
+3. lepiej zapamiętują informacje o sobie z tej dziedziny
+4. częściej dokonują przewidywań własnych zachowań w tej dziedzinie
+5. przejawiają większy opór wobec informacji niezgodnych z już posiadanymi na własny temat w danej dziedzinie
+Aktywizacja autoschematu - przenoszenie autoschematu z pamięci długotrwałej do pamięci operacyjnej. Efekt wywołany przez bieżący kontekst (np. myślisz o sobie jako o Polaku, gdy otaczają Cię obcokrajowcy). Aktywizacja jest możliwa tylko jeśli coś jest elementem ja - jeśli coś jest dla kogoś uniwersalnie nieważne, nie stanie się ważne przez aktywizację.
+
+Ja robocze - część struktury ja, która jest w danej chwili aktywna.
+
+Ja:
+
+- realne - rzeczywiste informacje na własny temat 
+- idealne - to, jaki człowiek chciałby być
+- powinnościowe - to, jaki człowiek swoim zdaniem powinien być (przekonanie o własnych obowiązkach, powinnościach i obligacjach.
+Rozbieżności między ja realnym a ja:
+
+- powinnościowym (transgresja) - syndrom pobudzenia: niepokój, strach, poczucie winy i wstyd.
+- idealnym (porażka)  - emocje depresyjne: smutek, rozczarowanie, apatia
+Złudzenie introspekcji (Emily Pronin, 2009) - wnioskując o sobie opieramy się bardziej na przeżywanych stanach wewnętrznych, a wnioskując o innych bardziej na obserwowalnym zachowaniu. Niedostrzegany też deformacji we własnym przetwarzaniu informacji, a widzimy je u innych.
+
+## Skąd bierze się ja
+
+### Wnioski z własnego zachowania
+
+Teoria autopercepcji (Datyl Bema, 1972) - ludzie formułują sądy na własny temat podobnie jak na temat innych - na podstawie własnego zachowania i warunków, w jakich ono przebiega. W szczególności na podstawie zachowania, gdy mamy wybór, bez nacisków zewnętrznych. Własne zachowanie jest jednak mniej istotne przy ocenie własnej, niż zachowanie innych ludzi przy ocenie ich.  
+
+### Porównanie społeczne
+
+Człowiek może wypadać lepiej lub gorzej od innych, co ma bezpośredni wpływ na treść i wysokość samoocen.
+
+Klasyczna teoria porównań społecznych (Festinger, 1954) - ludzie mogą zorientować się, jacy są albo na podstawie dowodów obiektywnych, albo przez porównanie z innymi.
+
+Preferowane porównania - wg. metaanalizy Gerber, Wheeler i Suls, 2018, ludzie zasadniczo chcą porównywać się z osobami w jakiś sposób ich przewyższającymi, mimo że prowokuje to pogorszenie nastroju i obniżenie oceny własnych osiągnieć. Efekt wzrasta gdy porównanie jest z osobą w bliskości (kolega z pracy) lub gdy dotyczy nowych dla jednostki wymiarów (niedawno przyswojona umiejętność).
+
+### Kultura
+
+| Kultury | Nacisk | Ja | Definiowanie siebie | Cele życiowe jednostki | Występowanie |
+| --- | --- | --- | --- | --- | --- |
+| Indywidualistyczne | jednostka i jej osiągnięcia, wartości służące interesom jednostki | niezależne | Co odróżnia mnie od innych? | Ekspresja własnego ja, maksymalizacja własnych interesów.  | Europa, USA |
+| Kolektywistyczne | przynależność grupowa, harmonia społeczna, wartości służące interesom kolektywu | współzależne | Poprzez kontekstowo zmienne relacje z innymi i pełnione role społeczne. | przynależność do społeczności i znalezienie swojego w niej miejsca. Realizacja interesów grupy, dopasowanie się do innych i utrzymanie harmonijnych relacji społecznych | Azja, większość Afryki |
+
+Sposoby aktywizacja ja:
+
+  - niezależnego: wypisywanie, co różni nas od innych, opowiadania o sprawczych działaniach, wyszukiwanie zaimków pierwszej osoby liczby pojedynczej w tekście, słowa o treści sprawczej
+  - współzależnego: wypisywanie, co łączy nas z innymi, opowiadania o wspólnotowych działaniach, wyszukiwanie zaimków pierwszej osoby liczby mnogiej w tekście, słowa o treści wspólnotowej
+Efekt aktywizacji ja:
+
+- niezależnego: rośnie ważność wartości indywidualistycznych (sukces życiowy, ambicja, zdolności, władza). Spada preferencja wartości kolektywistycznych. Dobrostan psychiczny staje się uzależniony od osobistego szczęścia, samospełnienia i własnego sukcesu. Rośnie rola treści sprawczych, prywatnych i indywidualistycznych w bieżącej strukturze ja. 
+**Przetwarzanie informacji pomija kontekst, staje się analityczne, kontrastujące, różnicujące.**
+- współzależnego - rośnie ważność wartości kolektywistycznych (uczynność, uczciwość, odpowiedzialność). Spada preferencja wartości indywidualistycznych. Dobrostan psychiczny staje się uzależniony od wypełniania zobowiązań wobec grupy, pławienie się w chwale innych członków grupy. Rośnie rola treści wspólnotowych, kolektywistycznych, odgrywanych ról, przynależności do grup społecznych w bieżącej strukturze ja.
+**Przetwarzanie informacji uwzględnia kontekst, staje się holistyczne i asymilatywne (nacisk na podobieństwa).** 
+## Funkcje ja:
+
+## Funkcje interpersonalne - społeczne:
+
+### Negocjowanie tożsamości
+
+Wiedza o sobie i pamięć własnej biografii są podstawowymi wyznacznikami poczucia własnej tożsamości. Ja pozwala także rozpoznawać naszą tożsamość przez innych. 
+
+Możliwość skupiania się na innych aspektach tożsamości (negocjowanie jej) pozwala uchronić się przed niekorzystnym porównaniem lub skojarzeniem. 
+
+### Symulacja psychiki innych
+
+Ułatwia skuteczne kontakty społeczne
+
+Efekt projekcji społecznej (przykład - efekt fałszywej powszechności) - skłonność do zakładania, że inni ludzie mają podobne poglądy, cechy i że będą podejmować decyzje podobne do nas. Jest silniejszy w odniesieniu do osób należących do grup własnych 
+
+### Samokontrola
+
+Zamierzona i dowolna zmiana własnych reakcji.
+
+Wysoka samokontrola ma pozytywny wpływ na życie: mniej uzależnień, lepsze radzenie sobie ze stresem, lepsze stopnie w szkole (znacznie większy wpływ niż iloraz inteligencji), mniej czasu przed telewizorem itp.
+
+Może być wyuczona.
+
+Załamanie samokontroli jest przyczyną wielu przestępstw, ale także ruminacji, nałogów, itp. 
+
+Paradoksalny efekt kontroli umysłowej (Daniel Wegner, 1994) - próba zahamowania myśli na jakiś temat skutkuje zwiększeniem częstotliwości myślenia tej myśli przez jej “hiperdostępność”.
+
+Mechanizmy kontroli umysłowej:
+
+  1. Automatyczne monitorowanie - śledzenie własnych myśli, w poszukiwaniu niepożądanej treści - stała, słaba aktywizacja niepożądanego pojęcia.
+  2. Kontrolowana interwencja - modyfikowanie myśli przez aktywne, świadome zastępowanie niepożądanych myśli innymi.
+Wyczerpanie woli - kolejne wykorzystania samokontroli są słabsze - samokontrola jest zasobem, który się zużywa. Dodatkowo samokontrola realnie zużywa glukozę w mózgu. Odstępy między wykorzystaniem samokontroli zwiększają szanse na sukces, ale nie jest zbadane, jak szybko samokontrola się “regeneruje”. 
+
+## Funkcje intrapersonalne - psychiczne:
+
+### Regulacja zachowania celowego
+
+Czyli dokonywanie wyborów.
+
+Teoria przedmiotowej samoświadomości (Duval i Wicklund, 1972) - uwaga człowieka może być w danym momencie skoncentrowana albo na jakimś fragmencie świata zewnętrznego, albo na sobie. Gdy jest skupiona na sobie → jest to przedmiotowa samoświadomość czyli stan autokoncentracji. Aktywizuje to własne wartości i przekonania, zwiększa dyskomfort wynikający z rozbieżności zachowania z tymi przekonaniami, tym samym zmniejszając tę rozbieżność.
+
+Autokoncentracja vs ruminacje - ruminacje to rozpamiętywanie przeszłości i myślenie o własnych niepowodzeniach i dużo silniej wiąże się z negatywnymi emocjami.
+
+Samoświadomość vs autokocentracja - autokoncentracja jest pewnym stanem psychicznym, a samoświadomość odpowiadającą temu stanowi cechą dyspozycyjną.
+
+Samoświadomość ma dwa rodzaje:
+
+- prywatna - nawykowa skłonność do skupiania uwagi na własnych odczuciach (”jestem wrażliwy na zmiany własnego nastroju”, “dużo nad sobą rozmyślam”)  
+- publiczna - nawykowa skłonność do myślenia o sobie jako o “obiekcie społecznym” - jak widzą nas inni (”zwykle jestem świadomy swojego wyglądu”)
+Samoświadomość a depresja - wysoka samoświadomość koreluje bardzo silnie z depresją.
+
+## Taktyki autoprezentacji
+
+Autoprezentacja jest istotna, ponieważ kształtowanie własnego wizerunku, służy:
+
+1. osiąganiu materialnych i społecznych korzyści, których pozyskanie jest zależne od innych ludzi
+2. dowartościowaniu (utrzymywaniu i/lub podwyższaniu poczucia własnej wartości)
+3. kształtowaniu pożądanej tożsamości osobistej
+### Taktyki obronne
+
+Zachowania ukierunkowane na ochronę, utrzymanie lub obronę zaatakowanej lub zagrożonej tożsamości i wartości naszej osoby. Charakterystyczne raczej dla osób o samoocenie niskiej.
+
+Samoutrudnianie - angażowanie się w działania, które obniżają szanse sukcesu, ale zwalniają z osobistej odpowiedzialności za porażkę (dodatkowo zwiększajac osobistą chwałę w przypadku sukcesu)
+
+Szczególne przypadki samoutrudniania:
+
+  - Lęk przedegzaminacyjny
+  - Hipochondria
+Suplikacja - prezentowanie własnej bezradności, w celu uzyskania pomocy od innych. (Stosowane najczęściej przez kobiety wobec mężczyzn i w kontekście zdolności intelektualnych, i przez mężczyzn wobec swoich przełożonych).
+
+Wymówki - zaprzeczanie intencji wyrządzenia szkody i/lub przekonywanie, że nie miało się kontroli nad przebiegiem szkodliwego zachowania, by pomniejszyć odpowiedzialność za nie. Mała skuteczność zarówno u poszkodowanych (często pogarsza ocenę) jak i u obserwatorów, ale wysoka w samoocenie. Wpływa na ocenę sprawnościową i moralną.
+
+Usprawiedliwienia - akceptowanie własnej odpowiedzialności przy jednoczesnych próbach redefinicji czynu Jao mało szkodliwego, lub dotyczącego w istocie czegoś innego niż szkoda. “Długoterminowe korzyści będą wyższe niż szkoda”, “szkoda była pozorna”, “ofiara jest sama sobie winna”, “wszyscy tak robią”, “spełniałem tylko rozkazy”. Mniej skuteczny w oczach obserwatorów niż wymówki.
+
+Przeprosiny - akceptowanie własnej odpowiedzialności za szkodę i okazanie żalu osobie poszkodowanej. Niewymuszone poprawiają ocenę osoby w oczach poszkodowanych i obserwatorów (bardziej, niż poszkodowanych). Wymuszone poprawiają w tym samym stopniu ocenę w oczach poszkodowanych co niewymuszone, ale w oczach obserwatora nie poprawiają jej wcale.
+
+### Takty zdobywczo-asertywne
+
+Zachowania ukierunkowane na zbudowanie, pozyskanie, utrwalanie jakiejś nowej tożsamości naszej osoby. Charakterystyczne raczej dla osób o samoocenie wysokiej.
+
+Ingracjacja - wkradanie się w cudze łaski/pozyskiwanie sympatii przez: prezentowanie własnych (niekoniecznie prawdziwych) cech wzbudzających sympatię, schlebianie innym, konformizm (prezentowanie podobnych opinii i poglądów), wyrządzanie przysług. Jest zupełnie nieskuteczne na obserwatorów, ale działa na odbiorców.
+
+  dylemat lizusa - im ważniejsze pozostaje dla nas pozyskanie sympatii, tym większa szansa, że ta osoba zda sobie sprawę i zacznie wątpić w szczerość.
+
+Autopromocja - przedstawianie siebie jako osoby kompetentnej, przekonywanie, że nasze dokonania są większe, niż się wydaje, rzadko osiągane, osiągane mimo przeszkód itp. Taktyka używana przez osoby o wysokiej samoocenie.
+
+  dylemat skromności - więcej sympatii zaskarbia umniejszanie znaczenia własnych sukcesów, niż chwalenie się nimi, ale jeśli ktoś uwierzy umniejszaniu, stracimy w jego oczach.
+
+  dylemat autentyczności - im bardziej pożądany jest w oczach innych obraz naszej osoby, tym bardziej odbiega od naszych przekonań na swój temat. Rozwiązania: bycie autentycznym, omijanie niebezpiecznych tematów, kłamanie.
+
+Autopromocja przez skojarzenie - odpowiedni autopromocji dla osób o niskiej samoocenie. Polega na łączeniu własnej osoby z pozytywnymi zdarzeniami lub osobami. Skłonność rośnie w warunkach zagrożenia poczucia własnej wartości, zanika w warunkach podbudowania samooceny.
+
+Świecenie przykładem - przedstawianie siebie jako osoby moralnej.
+
+  hipokryzja moralna - pragnienie uchodzenia za osobę moralną przez ponoszenia jakichkolwiek kosztów moralnego postępowania.
+
+Zastraszanie - przedstawianie siebie jako “twardego faceta”, osoby agresywnej, nieprzyjemnej, groźnej, która może zrobić problemy i od której nic nie można uzyskać. Może być robione przez osoby wyżej w hierarchii, jak i niżej (tzw. “robienie sceny”, np. przez dzieci).
+
+## Skutki autoprezentacji
+
+Większość autoreprbezentacji nie odbiega daleko od przekonań osoby na własny temat, z wyjątkiem przedstawiania siebie jako osoby moralnej. 
+
+> “Autoreprezentacja jest raczej miną, niż maską”
+
+## Hierarchia trzech poziomów ja (Sedikides i zespół, 2013)
+
+1. Indywidualne
+2. Relacyjne
+3. Wspólnotowe (bardzo daleko za dwoma górnymi)

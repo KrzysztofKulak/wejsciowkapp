@@ -1,0 +1,1228 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-6",
+  "chapterTitle": "Rozdział 6",
+  "sourceHash": "047f32736ec3b95182c9232601e7963bef4fad4a",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Lepsze zapamiętywanie informacji odnoszonych do własnej osoby niż przetwarzanych w inny sposób to:",
+        "Badani, którzy oceniali, w jakim stopniu lista cech odnosi się do nich samych, odtwarzali ją potem lepiej niż ci, którzy odnosili ją do innych osób. Zjawisko to nazywa się:"
+      ],
+      "correct": [
+        "efekt odniesienia do ja",
+        "efektem odniesienia do ja"
+      ],
+      "distractors": [
+        "efekt cocktail-party",
+        "efekt projekcji społecznej",
+        "efekt pierwszeństwa",
+        "złudzenie introspekcji",
+        "efekt aktywizacji autoschematu",
+        "paradoksalny efekt kontroli umysłowej",
+        "efekt czystej ekspozycji",
+        "efekt fałszywej powszechności"
+      ],
+      "explanation": "Efekt odniesienia do ja: im bogatsza struktura wiedzy, do której odnosimy informację, tym więcej skojarzeń powstaje przy jej przetwarzaniu, co ułatwia przypominanie.",
+      "sourceExcerpt": "Efekt odniesienia do ja - polega na lepszym zapamiętywaniu informacji odnoszonych do własnej osoby niż przetwarzanych w inny sposób.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Przyczyną efektu odniesienia do ja jest to, że:"
+      ],
+      "correct": [
+        "bogata struktura wiedzy o sobie tworzy wiele skojarzeń ułatwiających przypominanie",
+        "informacja odniesiona do bogatej struktury wiedzy zyskuje więcej skojarzeń"
+      ],
+      "distractors": [
+        "informacje o sobie są przetwarzane bez udziału uwagi",
+        "ludzie są silniej motywowani do zapamiętywania pochlebnych informacji",
+        "informacje o sobie docierają do nas mimo pochłonięcia uwagi czymś innym",
+        "własne cechy są mniej liczne, więc łatwiej je zapamiętać",
+        "autoschematy chronią przed informacjami niezgodnymi z ja",
+        "ja robocze jest stale aktywne w pamięci operacyjnej",
+        "porównania społeczne wzmacniają ślad pamięciowy"
+      ],
+      "explanation": "Im bogatsza jest struktura wiedzy, do której odnosimy odebraną informację, tym więcej powstaje skojarzeń w momencie jej przetwarzania.",
+      "sourceExcerpt": "Przyczyna efektu odniesienia do ja - im bogatsza jest struktura wiedzy, do której odnosimy odebraną informację, tym więcej powstaje skojarzeń w momencie jej przetwarzania, co ułatwia przypominanie sobie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Zjawisko polegające na tym, że informacje nas dotyczące łatwiej do nas docierają, nawet gdy uwaga jest pochłonięta czymś innym, to:"
+      ],
+      "correct": [
+        "efekt cocktail-party"
+      ],
+      "distractors": [
+        "efekt odniesienia do ja",
+        "efekt projekcji społecznej",
+        "aktywizacja autoschematu",
+        "złudzenie introspekcji",
+        "efekt pierwszeństwa",
+        "przedmiotowa samoświadomość",
+        "efekt czystej ekspozycji"
+      ],
+      "explanation": "Efekt cocktail-party: informacje nas dotyczące (np. własne imię) przebijają się przez pochłonięcie uwagi.",
+      "sourceExcerpt": "Efekt cocktail-party - informacje nas dotyczące łatwiej do nas docierają, nawet w warunkach pochłonięcia uwagi czymś innym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Obszar ja, w zakresie którego człowiek ma dobrze sprecyzowane poglądy i bogatą wiedzę o sobie, wykształcany w dziedzinach ważnych i odróżniających nas od innych, to:"
+      ],
+      "correct": [
+        "autoschemat"
+      ],
+      "distractors": [
+        "ja robocze",
+        "ja idealne",
+        "ja powinnościowe",
+        "ja współzależne",
+        "autokoncentracja",
+        "samoświadomość prywatna",
+        "tożsamość relacyjna"
+      ],
+      "explanation": "Autoschematy powstają w dziedzinach, które są dla nas ważne, odróżniają nas od innych, definiują naszą wartość i dotyczą wielu naszych aktywności.",
+      "sourceExcerpt": "Autoschemat: obszar ja, w zakresie którego człowiek ma dobrze sprecyzowane poglądy i bogatą wiedzę o sobie, wykształcane w dziedzinach, które są dla nas ważne, odróżniają nas od innych ludzi, definiują wartość naszej osoby.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Osoby posiadające autoschemat w jakiejś dziedzinie między innymi:"
+      ],
+      "correct": [
+        "przejawiają większy opór wobec informacji niezgodnych z posiadanymi na swój temat",
+        "trudniej przyjmują informacje o sobie niezgodne z tym, co już wiedzą"
+      ],
+      "distractors": [
+        "wolniej przetwarzają informacje o sobie w tej dziedzinie",
+        "gorzej zapamiętują informacje o sobie z tej dziedziny",
+        "rzadziej przewidują własne zachowania w tej dziedzinie",
+        "łatwiej przyjmują informacje niezgodne z posiadanymi na swój temat",
+        "unikają oceniania informacji pod kątem tej dziedziny",
+        "przestają traktować tę dziedzinę jako ważną",
+        "częściej porównują się z osobami gorszymi w tej dziedzinie"
+      ],
+      "explanation": "Osoby z autoschematem częściej oceniają informacje pod kątem istotności dla dziedziny, łatwiej je przetwarzają, lepiej zapamiętują, częściej przewidują własne zachowania i silniej opierają się informacjom niezgodnym.",
+      "sourceExcerpt": "Osoby posiadające autoschemat w jakiejś dziedzinie: [...] przejawiają większy opór wobec informacji niezgodnych z już posiadanymi na własny temat w danej dziedzinie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Przenoszenie autoschematu z pamięci długotrwałej do pamięci operacyjnej pod wpływem bieżącego kontekstu (np. myślenie o sobie jako o Polaku wśród obcokrajowców) to:"
+      ],
+      "correct": [
+        "aktywizacja autoschematu"
+      ],
+      "distractors": [
+        "efekt odniesienia do ja",
+        "autokoncentracja",
+        "negocjowanie tożsamości",
+        "efekt cocktail-party",
+        "porównanie społeczne",
+        "ruminacja",
+        "samokontrola"
+      ],
+      "explanation": "Aktywizacja autoschematu jest możliwa tylko wtedy, gdy coś jest elementem ja; to, co uniwersalnie nieważne, nie stanie się ważne przez aktywizację.",
+      "sourceExcerpt": "Aktywizacja autoschematu - przenoszenie autoschematu z pamięci długotrwałej do pamięci operacyjnej. Efekt wywołany przez bieżący kontekst.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Część struktury ja, która jest w danej chwili aktywna, to:"
+      ],
+      "correct": [
+        "ja robocze"
+      ],
+      "distractors": [
+        "ja realne",
+        "ja idealne",
+        "ja powinnościowe",
+        "autoschemat",
+        "ja niezależne",
+        "ja relacyjne",
+        "ja publiczne"
+      ],
+      "explanation": "Ja robocze to aktywna w danej chwili część struktury ja, ujawniana przez zmieniające się konteksty społeczne.",
+      "sourceExcerpt": "Ja robocze - część struktury ja, która jest w danej chwili aktywna.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Przekonanie człowieka o tym, jaki powinien być – o własnych obowiązkach, powinnościach i obligacjach – to:"
+      ],
+      "correct": [
+        "ja powinnościowe"
+      ],
+      "distractors": [
+        "ja idealne",
+        "ja realne",
+        "ja robocze",
+        "ja współzależne",
+        "autoschemat",
+        "ja publiczne",
+        "ja relacyjne"
+      ],
+      "explanation": "Ja realne to rzeczywiste informacje o sobie, ja idealne – jaki człowiek chciałby być, ja powinnościowe – jaki jego zdaniem powinien być.",
+      "sourceExcerpt": "Ja: realne - rzeczywiste informacje na własny temat; idealne - to, jaki człowiek chciałby być; powinnościowe - to, jaki człowiek swoim zdaniem powinien być.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Niepokój, strach, poczucie winy i wstyd (syndrom pobudzenia) są skutkiem rozbieżności między ja realnym a:"
+      ],
+      "correct": [
+        "ja powinnościowym"
+      ],
+      "distractors": [
+        "ja idealnym",
+        "ja roboczym",
+        "ja współzależnym",
+        "ja niezależnym",
+        "autoschematem",
+        "ja publicznym",
+        "ja relacyjnym"
+      ],
+      "explanation": "Rozbieżność realne–powinnościowe (transgresja) daje syndrom pobudzenia: niepokój, strach, winę i wstyd; rozbieżność realne–idealne (porażka) daje emocje depresyjne.",
+      "sourceExcerpt": "Rozbieżności między ja realnym a ja: powinnościowym (transgresja) - syndrom pobudzenia: niepokój, strach, poczucie winy i wstyd. idealnym (porażka) - emocje depresyjne: smutek, rozczarowanie, apatia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Rozbieżność między ja realnym a ja idealnym (porażka) wywołuje:"
+      ],
+      "correct": [
+        "emocje depresyjne: smutek, rozczarowanie, apatię",
+        "smutek, rozczarowanie i apatię"
+      ],
+      "distractors": [
+        "syndrom pobudzenia: niepokój, strach i wstyd",
+        "poczucie winy i wstyd",
+        "wzrost samokontroli i autokoncentrację",
+        "ruminacje i gniew na innych",
+        "wzrost samoświadomości publicznej",
+        "hiperdostępność niepożądanych myśli",
+        "lęk i poczucie winy"
+      ],
+      "explanation": "Rozbieżność realne–idealne to porażka, która wywołuje emocje depresyjne; rozbieżność realne–powinnościowe to transgresja, która wywołuje pobudzenie (niepokój, strach, wina, wstyd).",
+      "sourceExcerpt": "idealnym (porażka) - emocje depresyjne: smutek, rozczarowanie, apatia",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Wnioskując o sobie opieramy się bardziej na przeżywanych stanach wewnętrznych, a wnioskując o innych – na obserwowalnym zachowaniu; nie dostrzegamy też deformacji we własnym przetwarzaniu informacji, choć widzimy je u innych. Zjawisko to (Pronin, 2009) nazywa się:"
+      ],
+      "correct": [
+        "złudzeniem introspekcji"
+      ],
+      "distractors": [
+        "efektem projekcji społecznej",
+        "teorią autopercepcji",
+        "asymetrią aktor-obserwator",
+        "efektem odniesienia do ja",
+        "przedmiotową samoświadomością",
+        "egotyzmem atrybucyjnym",
+        "efektem fałszywej powszechności"
+      ],
+      "explanation": "Złudzenie introspekcji (Emily Pronin, 2009): o sobie wnioskujemy ze stanów wewnętrznych, o innych z zachowania.",
+      "sourceExcerpt": "Złudzenie introspekcji (Emily Pronin, 2009) - wnioskując o sobie opieramy się bardziej na przeżywanych stanach wewnętrznych, a wnioskując o innych bardziej na obserwowalnym zachowaniu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Teoria, według której ludzie formułują sądy na własny temat podobnie jak o innych – na podstawie własnego zachowania i warunków, w jakich przebiega (Bem, 1972) – to:"
+      ],
+      "correct": [
+        "teoria autopercepcji"
+      ],
+      "distractors": [
+        "teoria porównań społecznych",
+        "teoria przedmiotowej samoświadomości",
+        "teoria wniosków korespondentnych",
+        "teoria rozbieżności ja",
+        "złudzenie introspekcji",
+        "model współzmienności",
+        "teoria identyfikacji działania"
+      ],
+      "explanation": "Teoria autopercepcji Daryla Bema: szczególnie informatywne jest zachowanie, gdy mamy wybór bez nacisków zewnętrznych.",
+      "sourceExcerpt": "Teoria autopercepcji (Daryl Bem, 1972) - ludzie formułują sądy na własny temat podobnie jak na temat innych - na podstawie własnego zachowania i warunków, w jakich ono przebiega.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Zgodnie z teorią autopercepcji najbardziej informatywne dla sądów o sobie jest własne zachowanie wtedy, gdy:"
+      ],
+      "correct": [
+        "mamy wybór i nie działają naciski zewnętrzne",
+        "zachowanie było dobrowolne, bez presji z zewnątrz"
+      ],
+      "distractors": [
+        "było wymuszone przez okoliczności",
+        "obserwowały je inne osoby",
+        "było zgodne z naszym ja idealnym",
+        "dotyczyło dziedziny bez autoschematu",
+        "zostało nagrodzone przez otoczenie",
+        "było porównywane z zachowaniem innych",
+        "wywołało silne pobudzenie emocjonalne"
+      ],
+      "explanation": "Sądy o sobie wyciągamy zwłaszcza z zachowania, gdy mamy wybór, bez nacisków zewnętrznych; własne zachowanie jest jednak mniej istotne przy ocenie siebie niż cudze przy ocenie innych.",
+      "sourceExcerpt": "W szczególności na podstawie zachowania, gdy mamy wybór, bez nacisków zewnętrznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Klasyczna teoria porównań społecznych (Festinger, 1954) zakłada, że ludzie mogą zorientować się, jacy są, na podstawie dowodów obiektywnych albo:"
+      ],
+      "correct": [
+        "przez porównanie z innymi ludźmi",
+        "porównując się z innymi"
+      ],
+      "distractors": [
+        "przez obserwację własnego zachowania",
+        "przez introspekcję własnych stanów",
+        "przez aktywizację autoschematów",
+        "na podstawie opinii autorytetów",
+        "przez analizę własnej biografii",
+        "na podstawie reakcji grupy własnej",
+        "przez symulację psychiki innych"
+      ],
+      "explanation": "Festinger: samowiedza pochodzi z dowodów obiektywnych albo z porównania z innymi; to, czy wypadamy lepiej czy gorzej, wpływa na treść i wysokość samoocen.",
+      "sourceExcerpt": "Klasyczna teoria porównań społecznych (Festinger, 1954) - ludzie mogą zorientować się, jacy są albo na podstawie dowodów obiektywnych, albo przez porównanie z innymi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Według metaanalizy Gerber, Wheeler i Suls (2018) ludzie zasadniczo wolą porównywać się z osobami:"
+      ],
+      "correct": [
+        "w jakiś sposób ich przewyższającymi",
+        "lepszymi od siebie"
+      ],
+      "distractors": [
+        "w jakiś sposób od nich gorszymi",
+        "bardzo do nich podobnymi",
+        "obcymi, a nie bliskimi",
+        "z innych kultur",
+        "o niskiej samoocenie",
+        "z grup obcych",
+        "których nigdy nie spotkali"
+      ],
+      "explanation": "Preferowane są porównania w górę, mimo że pogarszają nastrój i obniżają ocenę własnych osiągnięć; efekt rośnie przy bliskości osoby i nowych wymiarach.",
+      "sourceExcerpt": "Ludzie zasadniczo chcą porównywać się z osobami w jakiś sposób ich przewyższającymi, mimo że prowokuje to pogorszenie nastroju i obniżenie oceny własnych osiągnięć.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Skłonność do porównywania się z osobami przewyższającymi nas wzrasta, gdy:"
+      ],
+      "correct": [
+        "dotyczy osoby bliskiej lub nowej dla nas umiejętności",
+        "osoba jest blisko nas albo wymiar jest dla nas nowy"
+      ],
+      "distractors": [
+        "porównanie dotyczy osoby obcej lub dawno opanowanej umiejętności",
+        "mamy wysoką samoocenę w tej dziedzinie",
+        "jesteśmy w dobrym nastroju",
+        "porównanie odbywa się publicznie",
+        "aktywne jest ja współzależne",
+        "dziedzina nie jest objęta autoschematem",
+        "porównanie dotyczy cech moralnych"
+      ],
+      "explanation": "Efekt wzrasta, gdy porównanie jest z osobą bliską (kolega z pracy) lub dotyczy nowych dla jednostki wymiarów (niedawno przyswojona umiejętność).",
+      "sourceExcerpt": "Efekt wzrasta gdy porównanie jest z osobą w bliskości (kolega z pracy) lub gdy dotyczy nowych dla jednostki wymiarów (niedawno przyswojona umiejętność).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-17",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Ja współzależne, definiowanie siebie przez relacje i role społeczne oraz cel życiowy w postaci przynależności do społeczności są typowe dla kultur:"
+      ],
+      "correct": [
+        "kolektywistycznych"
+      ],
+      "distractors": [
+        "indywidualistycznych",
+        "zachodnich",
+        "europejskich",
+        "północnoamerykańskich",
+        "postindustrialnych",
+        "miejskich",
+        "protestanckich"
+      ],
+      "explanation": "Kultury kolektywistyczne (Azja, większość Afryki) kładą nacisk na przynależność grupową i harmonię; ja jest współzależne.",
+      "sourceExcerpt": "Kolektywistyczne: przynależność grupowa, harmonia społeczna; ja współzależne; definiowanie siebie poprzez kontekstowo zmienne relacje z innymi i pełnione role społeczne; Azja, większość Afryki.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-18",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Pytanie „Co odróżnia mnie od innych?” jako sposób definiowania siebie oraz ja niezależne są charakterystyczne dla kultur:"
+      ],
+      "correct": [
+        "indywidualistycznych"
+      ],
+      "distractors": [
+        "kolektywistycznych",
+        "azjatyckich",
+        "afrykańskich",
+        "tradycyjnych",
+        "rolniczych",
+        "wspólnotowych",
+        "hierarchicznych"
+      ],
+      "explanation": "Kultury indywidualistyczne (Europa, USA): nacisk na jednostkę i jej osiągnięcia, ja niezależne, cel: ekspresja własnego ja i maksymalizacja własnych interesów.",
+      "sourceExcerpt": "Indywidualistyczne: jednostka i jej osiągnięcia; ja niezależne; Co odróżnia mnie od innych?; Ekspresja własnego ja, maksymalizacja własnych interesów; Europa, USA.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-19",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Wyszukiwanie w tekście zaimków pierwszej osoby liczby mnogiej, wypisywanie tego, co łączy nas z innymi, i opowiadanie o wspólnotowych działaniach to sposoby aktywizacji:"
+      ],
+      "correct": [
+        "ja współzależnego"
+      ],
+      "distractors": [
+        "ja niezależnego",
+        "ja idealnego",
+        "ja powinnościowego",
+        "ja roboczego",
+        "autoschematu sprawczego",
+        "samoświadomości publicznej",
+        "przedmiotowej samoświadomości"
+      ],
+      "explanation": "Ja niezależne aktywizują różnice, działania sprawcze i zaimki „ja”; ja współzależne – podobieństwa, działania wspólnotowe i zaimki „my”.",
+      "sourceExcerpt": "Współzależnego: wypisywanie, co łączy nas z innymi, opowiadania o wspólnotowych działaniach, wyszukiwanie zaimków pierwszej osoby liczby mnogiej w tekście, słowa o treści wspólnotowej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-20",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Po aktywizacji ja niezależnego przetwarzanie informacji staje się:"
+      ],
+      "correct": [
+        "analityczne, kontrastujące i pomijające kontekst",
+        "analityczne i różnicujące, bez uwzględniania kontekstu"
+      ],
+      "distractors": [
+        "holistyczne, asymilatywne i uwzględniające kontekst",
+        "wolniejsze i bardziej ostrożne",
+        "nastawione na podobieństwa między obiektami",
+        "zależne od zobowiązań wobec grupy",
+        "skupione na treściach wspólnotowych",
+        "bardziej podatne na efekt projekcji społecznej",
+        "skoncentrowane na rolach społecznych"
+      ],
+      "explanation": "Aktywizacja ja niezależnego: rośnie ważność wartości indywidualistycznych (sukces, ambicja, zdolności, władza), a przetwarzanie pomija kontekst i staje się analityczne, kontrastujące, różnicujące.",
+      "sourceExcerpt": "Niezależnego: [...] Przetwarzanie informacji pomija kontekst, staje się analityczne, kontrastujące, różnicujące.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-21",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Po aktywizacji ja współzależnego rośnie ważność wartości takich jak:"
+      ],
+      "correct": [
+        "uczynność, uczciwość i odpowiedzialność",
+        "uczynność i uczciwość"
+      ],
+      "distractors": [
+        "sukces życiowy, ambicja i władza",
+        "zdolności i osobiste osiągnięcia",
+        "ekspresja własnego ja i samospełnienie",
+        "niezależność i autonomia",
+        "rywalizacja i dominacja",
+        "osobiste szczęście i własny sukces",
+        "oryginalność i odrębność od innych"
+      ],
+      "explanation": "Ja współzależne: rośnie ważność wartości kolektywistycznych (uczynność, uczciwość, odpowiedzialność), a dobrostan zależy od wypełniania zobowiązań wobec grupy.",
+      "sourceExcerpt": "Współzależnego - rośnie ważność wartości kolektywistycznych (uczynność, uczciwość, odpowiedzialność). Spada preferencja wartości indywidualistycznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-22",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Skłonność do zakładania, że inni ludzie mają podobne do naszych poglądy i cechy oraz będą podejmować podobne decyzje, silniejsza wobec członków grup własnych, to:"
+      ],
+      "correct": [
+        "efekt projekcji społecznej"
+      ],
+      "distractors": [
+        "efekt odniesienia do ja",
+        "złudzenie introspekcji",
+        "efekt cocktail-party",
+        "ingracjacja",
+        "negocjowanie tożsamości",
+        "efekt pierwszeństwa",
+        "autopromocja przez skojarzenie"
+      ],
+      "explanation": "Efekt projekcji społecznej (np. fałszywa powszechność) wspiera symulację psychiki innych, jedną z interpersonalnych funkcji ja.",
+      "sourceExcerpt": "Efekt projekcji społecznej (przykład - efekt fałszywej powszechności) - skłonność do zakładania, że inni ludzie mają podobne poglądy, cechy i że będą podejmować decyzje podobne do nas. Jest silniejszy w odniesieniu do osób należących do grup własnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-23",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Możliwość skupiania się na innych aspektach własnej tożsamości, chroniąca przed niekorzystnym porównaniem lub skojarzeniem, to funkcja ja zwana:"
+      ],
+      "correct": [
+        "negocjowaniem tożsamości"
+      ],
+      "distractors": [
+        "symulacją psychiki innych",
+        "samokontrolą",
+        "regulacją zachowania celowego",
+        "autopromocją przez skojarzenie",
+        "samoutrudnianiem",
+        "aktywizacją autoschematu",
+        "autokoncentracją"
+      ],
+      "explanation": "Negocjowanie tożsamości to interpersonalna funkcja ja: wiedza o sobie i pamięć biografii wyznaczają tożsamość, a przełączanie jej aspektów chroni przed niekorzystnym porównaniem.",
+      "sourceExcerpt": "Możliwość skupiania się na innych aspektach tożsamości (negocjowanie jej) pozwala uchronić się przed niekorzystnym porównaniem lub skojarzeniem.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-24",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Zamierzona i dowolna zmiana własnych reakcji to:"
+      ],
+      "correct": [
+        "samokontrola"
+      ],
+      "distractors": [
+        "autokoncentracja",
+        "samoświadomość",
+        "autopercepcja",
+        "negocjowanie tożsamości",
+        "ruminacja",
+        "suplikacja",
+        "samoutrudnianie"
+      ],
+      "explanation": "Wysoka samokontrola wiąże się z mniejszą liczbą uzależnień, lepszym radzeniem sobie ze stresem i lepszymi stopniami (silniej niż iloraz inteligencji); może być wyuczona.",
+      "sourceExcerpt": "Samokontrola: zamierzona i dowolna zmiana własnych reakcji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-25",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Na stopnie w szkole samokontrola ma wpływ:"
+      ],
+      "correct": [
+        "znacznie większy niż iloraz inteligencji"
+      ],
+      "distractors": [
+        "znacznie mniejszy niż iloraz inteligencji",
+        "taki sam jak iloraz inteligencji",
+        "wyłącznie pośredni, przez nastrój ucznia",
+        "widoczny tylko u dzieci z wysokim IQ",
+        "ujemny, bo odbiera czas na naukę",
+        "widoczny tylko w kulturach kolektywistycznych",
+        "zależny od samoświadomości publicznej"
+      ],
+      "explanation": "Wysoka samokontrola: mniej uzależnień, lepsze radzenie sobie ze stresem, lepsze stopnie (znacznie większy wpływ niż iloraz inteligencji), mniej czasu przed telewizorem.",
+      "sourceExcerpt": "Wysoka samokontrola ma pozytywny wpływ na życie: mniej uzależnień, lepsze radzenie sobie ze stresem, lepsze stopnie w szkole (znacznie większy wpływ niż iloraz inteligencji).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-26",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Próba zahamowania myśli na jakiś temat skutkuje częstszym jej pojawianiem się z powodu „hiperdostępności”. Zjawisko to (Wegner, 1994) nazywa się:"
+      ],
+      "correct": [
+        "paradoksalnym efektem kontroli umysłowej"
+      ],
+      "distractors": [
+        "wyczerpaniem zasobów woli",
+        "kontrolowaną interwencją",
+        "efektem cocktail-party",
+        "złudzeniem introspekcji",
+        "przedmiotową samoświadomością",
+        "efektem odniesienia do ja",
+        "automatycznym monitorowaniem myśli"
+      ],
+      "explanation": "Paradoksalny efekt kontroli umysłowej Daniela Wegnera: tłumiona myśl staje się hiperdostępna.",
+      "sourceExcerpt": "Paradoksalny efekt kontroli umysłowej (Daniel Wegner, 1994) - próba zahamowania myśli na jakiś temat skutkuje zwiększeniem częstotliwości myślenia tej myśli przez jej „hiperdostępność”.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-27",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Mechanizm kontroli umysłowej polegający na śledzeniu własnych myśli w poszukiwaniu niepożądanej treści, związany ze stałą, słabą aktywizacją niepożądanego pojęcia, to:"
+      ],
+      "correct": [
+        "automatyczne monitorowanie"
+      ],
+      "distractors": [
+        "kontrolowana interwencja",
+        "autokoncentracja",
+        "ruminacja",
+        "wyczerpanie woli",
+        "samoświadomość prywatna",
+        "aktywizacja autoschematu",
+        "kontrolowana poprawka"
+      ],
+      "explanation": "Dwa mechanizmy kontroli umysłowej: automatyczne monitorowanie (stała słaba aktywizacja niepożądanego pojęcia) i kontrolowana interwencja (świadome zastępowanie myśli innymi).",
+      "sourceExcerpt": "Automatyczne monitorowanie - śledzenie własnych myśli, w poszukiwaniu niepożądanej treści - stała, słaba aktywizacja niepożądanego pojęcia.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-28",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Zjawisko, w którym kolejne wykorzystania samokontroli są coraz słabsze, bo samokontrola jest zużywającym się zasobem, to:"
+      ],
+      "correct": [
+        "wyczerpanie woli"
+      ],
+      "distractors": [
+        "paradoksalny efekt kontroli umysłowej",
+        "ruminacja",
+        "załamanie tożsamości",
+        "hiperdostępność",
+        "autokoncentracja",
+        "wyuczona bezradność",
+        "samoutrudnianie"
+      ],
+      "explanation": "Wyczerpanie woli: samokontrola realnie zużywa glukozę w mózgu; odstępy między jej użyciami zwiększają szanse na sukces, ale tempo regeneracji nie jest zbadane.",
+      "sourceExcerpt": "Wyczerpanie woli - kolejne wykorzystania samokontroli są słabsze - samokontrola jest zasobem, który się zużywa. Dodatkowo samokontrola realnie zużywa glukozę w mózgu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-29",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Stan skupienia uwagi na sobie, który aktywizuje własne wartości i przekonania oraz zwiększa dyskomfort wynikający z rozbieżności zachowania z nimi (Duval i Wicklund, 1972), to:"
+      ],
+      "correct": [
+        "autokoncentracja",
+        "przedmiotowa samoświadomość"
+      ],
+      "distractors": [
+        "ruminacja",
+        "samoświadomość publiczna",
+        "złudzenie introspekcji",
+        "samokontrola",
+        "aktywizacja autoschematu",
+        "efekt odniesienia do ja",
+        "ja robocze"
+      ],
+      "explanation": "Teoria przedmiotowej samoświadomości: uwaga jest skupiona albo na świecie zewnętrznym, albo na sobie; autokoncentracja zmniejsza rozbieżność między zachowaniem a przekonaniami.",
+      "sourceExcerpt": "Gdy jest skupiona na sobie → jest to przedmiotowa samoświadomość czyli stan autokoncentracji. Aktywizuje to własne wartości i przekonania, zwiększa dyskomfort wynikający z rozbieżności zachowania z tymi przekonaniami.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-30",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Rozpamiętywanie przeszłości i myślenie o własnych niepowodzeniach, dużo silniej niż autokoncentracja związane z negatywnymi emocjami, to:"
+      ],
+      "correct": [
+        "ruminacje"
+      ],
+      "distractors": [
+        "autokoncentracja",
+        "refleksja",
+        "introspekcja",
+        "apatia",
+        "transgresja",
+        "samoutrudnianie",
+        "suplikacja"
+      ],
+      "explanation": "Ruminacje różnią się od autokoncentracji: to rozpamiętywanie przeszłości i niepowodzeń, silnie powiązane z negatywnymi emocjami.",
+      "sourceExcerpt": "Autokoncentracja vs ruminacje - ruminacje to rozpamiętywanie przeszłości i myślenie o własnych niepowodzeniach i dużo silniej wiąże się z negatywnymi emocjami.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-31",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Różnica między autokoncentracją a samoświadomością polega na tym, że:"
+      ],
+      "correct": [
+        "autokoncentracja jest stanem, a samoświadomość odpowiadającą mu cechą dyspozycyjną",
+        "autokoncentracja to chwilowy stan, a samoświadomość to trwała cecha"
+      ],
+      "distractors": [
+        "samoświadomość jest stanem, a autokoncentracja cechą dyspozycyjną",
+        "autokoncentracja dotyczy innych ludzi, a samoświadomość siebie",
+        "samoświadomość jest zawsze prywatna, a autokoncentracja publiczna",
+        "autokoncentracja wiąże się z depresją, a samoświadomość nie",
+        "samoświadomość jest automatyczna, a autokoncentracja kontrolowana",
+        "autokoncentracja dotyczy przeszłości, a samoświadomość teraźniejszości",
+        "to dwa określenia tego samego zjawiska"
+      ],
+      "explanation": "Autokoncentracja jest stanem psychicznym, a samoświadomość odpowiadającą temu stanowi cechą dyspozycyjną.",
+      "sourceExcerpt": "Samoświadomość vs autokoncentracja - autokoncentracja jest pewnym stanem psychicznym, a samoświadomość odpowiadającą temu stanowi cechą dyspozycyjną.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-32",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Nawykowa skłonność do myślenia o sobie jako o „obiekcie społecznym”, czyli o tym, jak widzą nas inni („zwykle jestem świadomy swojego wyglądu”), to samoświadomość:"
+      ],
+      "correct": [
+        "publiczna"
+      ],
+      "distractors": [
+        "prywatna",
+        "przedmiotowa",
+        "relacyjna",
+        "kolektywna",
+        "zewnętrzna",
+        "refleksyjna",
+        "sytuacyjna"
+      ],
+      "explanation": "Samoświadomość prywatna to skupianie uwagi na własnych odczuciach; publiczna – na sobie jako obiekcie społecznym.",
+      "sourceExcerpt": "Publiczna - nawykowa skłonność do myślenia o sobie jako o „obiekcie społecznym” - jak widzą nas inni („zwykle jestem świadomy swojego wyglądu”).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-33",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Wysoka samoświadomość koreluje bardzo silnie z:"
+      ],
+      "correct": [
+        "depresją"
+      ],
+      "distractors": [
+        "optymizmem",
+        "samokontrolą",
+        "ekstrawersją",
+        "empatią",
+        "ingracjacją",
+        "inteligencją",
+        "sumiennością"
+      ],
+      "explanation": "Samoświadomość a depresja: wysoka samoświadomość koreluje bardzo silnie z depresją.",
+      "sourceExcerpt": "Samoświadomość a depresja - wysoka samoświadomość koreluje bardzo silnie z depresją.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-34",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Taktyki autoprezentacji ukierunkowane na ochronę lub obronę zaatakowanej tożsamości, charakterystyczne raczej dla osób o niskiej samoocenie, to taktyki:"
+      ],
+      "correct": [
+        "obronne"
+      ],
+      "distractors": [
+        "zdobywcze",
+        "asertywne",
+        "sprawcze",
+        "wspólnotowe",
+        "ofensywne",
+        "relacyjne",
+        "publiczne"
+      ],
+      "explanation": "Taktyki obronne (samoutrudnianie, suplikacja, wymówki, usprawiedliwienia, przeprosiny) są typowe dla niskiej samooceny; taktyki zdobywczo-asertywne – dla wysokiej.",
+      "sourceExcerpt": "Taktyki obronne: zachowania ukierunkowane na ochronę, utrzymanie lub obronę zaatakowanej lub zagrożonej tożsamości i wartości naszej osoby. Charakterystyczne raczej dla osób o samoocenie niskiej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-35",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Angażowanie się w działania, które obniżają szanse sukcesu, ale zwalniają z osobistej odpowiedzialności za porażkę (np. lęk przedegzaminacyjny, hipochondria), to:",
+        "Student, który w noc przed egzaminem idzie na imprezę, by w razie oblania móc zrzucić winę na zmęczenie, stosuje taktykę zwaną:"
+      ],
+      "correct": [
+        "samoutrudnianie"
+      ],
+      "distractors": [
+        "suplikacja",
+        "wymówka",
+        "usprawiedliwienie",
+        "ingracjacja",
+        "autopromocja przez skojarzenie",
+        "zastraszanie",
+        "świecenie przykładem"
+      ],
+      "explanation": "Samoutrudnianie zwalnia z odpowiedzialności za porażkę i dodatkowo zwiększa osobistą chwałę w razie sukcesu; szczególne przypadki to lęk przedegzaminacyjny i hipochondria.",
+      "sourceExcerpt": "Samoutrudnianie - angażowanie się w działania, które obniżają szanse sukcesu, ale zwalniają z osobistej odpowiedzialności za porażkę.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-36",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Prezentowanie własnej bezradności w celu uzyskania pomocy od innych to:"
+      ],
+      "correct": [
+        "suplikacja"
+      ],
+      "distractors": [
+        "samoutrudnianie",
+        "ingracjacja",
+        "wymówka",
+        "usprawiedliwienie",
+        "autopromocja",
+        "zastraszanie",
+        "świecenie przykładem"
+      ],
+      "explanation": "Suplikacja stosowana jest najczęściej przez kobiety wobec mężczyzn w kontekście zdolności intelektualnych i przez mężczyzn wobec przełożonych.",
+      "sourceExcerpt": "Suplikacja - prezentowanie własnej bezradności, w celu uzyskania pomocy od innych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-37",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Zaprzeczanie intencji wyrządzenia szkody lub przekonywanie, że nie miało się kontroli nad szkodliwym zachowaniem, by pomniejszyć odpowiedzialność, to:"
+      ],
+      "correct": [
+        "wymówki"
+      ],
+      "distractors": [
+        "usprawiedliwienia",
+        "przeprosiny",
+        "suplikacja",
+        "ingracjacja",
+        "projekcja",
+        "wyparcie",
+        "apologia"
+      ],
+      "explanation": "Wymówki mają małą skuteczność u poszkodowanych (często pogarszają ocenę) i obserwatorów, ale wysoką w samoocenie; wpływają na ocenę sprawnościową i moralną.",
+      "sourceExcerpt": "Wymówki - zaprzeczanie intencji wyrządzenia szkody i/lub przekonywanie, że nie miało się kontroli nad przebiegiem szkodliwego zachowania, by pomniejszyć odpowiedzialność za nie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-38",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Akceptowanie własnej odpowiedzialności przy jednoczesnej redefinicji czynu jako mało szkodliwego („wszyscy tak robią”, „ofiara jest sama sobie winna”, „spełniałem tylko rozkazy”) to:"
+      ],
+      "correct": [
+        "usprawiedliwienia"
+      ],
+      "distractors": [
+        "wymówki",
+        "przeprosiny",
+        "suplikacja",
+        "samoutrudnianie",
+        "ingracjacja",
+        "autopromocja przez skojarzenie",
+        "zastraszanie"
+      ],
+      "explanation": "Usprawiedliwienia (akceptacja odpowiedzialności + redefinicja czynu) są w oczach obserwatorów mniej skuteczne niż wymówki.",
+      "sourceExcerpt": "Usprawiedliwienia - akceptowanie własnej odpowiedzialności przy jednoczesnych próbach redefinicji czynu jako mało szkodliwego, lub dotyczącego w istocie czegoś innego niż szkoda.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-39",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Wymuszone przeprosiny w porównaniu z niewymuszonymi:"
+      ],
+      "correct": [
+        "poprawiają ocenę w oczach poszkodowanych tak samo, ale w oczach obserwatorów wcale",
+        "działają na poszkodowanych równie dobrze, lecz na obserwatorów w ogóle"
+      ],
+      "distractors": [
+        "nie poprawiają oceny ani u poszkodowanych, ani u obserwatorów",
+        "poprawiają ocenę tylko w oczach obserwatorów",
+        "poprawiają ocenę w oczach obu grup w tym samym stopniu",
+        "pogarszają ocenę w oczach poszkodowanych",
+        "działają na obserwatorów silniej niż na poszkodowanych",
+        "są skuteczniejsze od niewymuszonych u poszkodowanych",
+        "poprawiają jedynie samoocenę przepraszającego"
+      ],
+      "explanation": "Niewymuszone przeprosiny poprawiają ocenę u poszkodowanych i obserwatorów; wymuszone działają na poszkodowanych tak samo, ale na obserwatorów wcale.",
+      "sourceExcerpt": "Wymuszone poprawiają w tym samym stopniu ocenę w oczach poszkodowanych co niewymuszone, ale w oczach obserwatora nie poprawiają jej wcale.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-40",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Pozyskiwanie sympatii przez prezentowanie cech wzbudzających sympatię, schlebianie, konformizm i wyrządzanie przysług to:"
+      ],
+      "correct": [
+        "ingracjacja"
+      ],
+      "distractors": [
+        "autopromocja",
+        "suplikacja",
+        "świecenie przykładem",
+        "autopromocja przez skojarzenie",
+        "zastraszanie",
+        "negocjowanie tożsamości",
+        "usprawiedliwienie"
+      ],
+      "explanation": "Ingracjacja działa na odbiorców, ale jest zupełnie nieskuteczna wobec obserwatorów; towarzyszy jej dylemat lizusa.",
+      "sourceExcerpt": "Ingracjacja - wkradanie się w cudze łaski/pozyskiwanie sympatii przez: prezentowanie własnych (niekoniecznie prawdziwych) cech wzbudzających sympatię, schlebianie innym, konformizm, wyrządzanie przysług.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-41",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Dylemat lizusa polega na tym, że:"
+      ],
+      "correct": [
+        "im ważniejsza jest czyjaś sympatia, tym większe ryzyko, że osoba ta zwątpi w naszą szczerość",
+        "im bardziej zależy nam na sympatii, tym łatwiej adresat domyśli się naszych intencji"
+      ],
+      "distractors": [
+        "umniejszanie własnych sukcesów budzi sympatię, ale uwierzenie w nie obniża naszą ocenę",
+        "im bardziej pożądany wizerunek, tym bardziej odbiega on od naszych przekonań o sobie",
+        "ingracjacja skutecznie działa na obserwatorów, ale nie na bezpośrednich odbiorców",
+        "schlebianie skutkuje jedynie wobec osób o niskiej samoocenie i małej samoświadomości",
+        "pozyskana w ten sposób sympatia szybko zamienia się w uciążliwą zależność",
+        "konformizm w poglądach obniża ocenę kompetencji osoby, która schlebia",
+        "wyświadczane przysługi zobowiązują do odwzajemnienia i rodzą niechęć"
+      ],
+      "explanation": "Dylemat lizusa: im ważniejsze pozyskanie sympatii, tym większe ryzyko, że adresat zda sobie z tego sprawę i zwątpi w szczerość.",
+      "sourceExcerpt": "Dylemat lizusa - im ważniejsze pozostaje dla nas pozyskanie sympatii, tym większa szansa, że ta osoba zda sobie sprawę i zacznie wątpić w szczerość.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-42",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Przedstawianie siebie jako osoby kompetentnej i przekonywanie, że własne dokonania są większe, niż się wydaje, rzadko osiągane lub osiągnięte mimo przeszkód, to:"
+      ],
+      "correct": [
+        "autopromocja"
+      ],
+      "distractors": [
+        "ingracjacja",
+        "świecenie przykładem",
+        "autopromocja przez skojarzenie",
+        "zastraszanie",
+        "suplikacja",
+        "samoutrudnianie",
+        "negocjowanie tożsamości"
+      ],
+      "explanation": "Autopromocja to taktyka zdobywczo-asertywna używana przez osoby o wysokiej samoocenie; towarzyszą jej dylemat skromności i dylemat autentyczności.",
+      "sourceExcerpt": "Autopromocja - przedstawianie siebie jako osoby kompetentnej, przekonywanie, że nasze dokonania są większe, niż się wydaje, rzadko osiągane, osiągane mimo przeszkód itp.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-43",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Dylemat skromności polega na tym, że:"
+      ],
+      "correct": [
+        "umniejszanie własnych sukcesów zyskuje więcej sympatii, ale jeśli ktoś w nie uwierzy, stracimy w jego oczach",
+        "skromność budzi sympatię, lecz wzięta dosłownie obniża naszą ocenę"
+      ],
+      "distractors": [
+        "im ważniejsza sympatia, tym większe podejrzenie o nieszczerość",
+        "im bardziej pożądany wizerunek, tym dalszy od przekonań o sobie",
+        "chwalenie się zyskuje sympatię, ale obniża ocenę kompetencji",
+        "skromność działa na obserwatorów, ale nie na odbiorców",
+        "umniejszanie sukcesów zwalnia z odpowiedzialności za porażkę",
+        "skromność obniża samoocenę w dłuższym okresie",
+        "skromność jest odbierana jako zastraszanie"
+      ],
+      "explanation": "Dylemat skromności: więcej sympatii zaskarbia umniejszanie znaczenia własnych sukcesów niż chwalenie się, ale uwierzenie w umniejszanie obniża ocenę.",
+      "sourceExcerpt": "Dylemat skromności - więcej sympatii zaskarbia umniejszanie znaczenia własnych sukcesów, niż chwalenie się nimi, ale jeśli ktoś uwierzy umniejszaniu, stracimy w jego oczach.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-44",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Dylemat autentyczności w autopromocji polega na tym, że:"
+      ],
+      "correct": [
+        "im bardziej pożądany obraz naszej osoby, tym bardziej odbiega od naszych przekonań o sobie",
+        "najbardziej pożądany wizerunek najbardziej rozmija się z tym, co o sobie myślimy"
+      ],
+      "distractors": [
+        "im ważniejsza jest dla nas czyjaś sympatia, tym większe ryzyko zdemaskowania",
+        "umniejszanie własnych sukcesów budzi sympatię, ale obniża ocenę kompetencji",
+        "autentyczne zachowanie jest przez obserwatorów zawsze oceniane gorzej niż gra",
+        "kłamstwo w autoprezentacji jest niemal zawsze wykrywane przez odbiorców",
+        "autopromocja działa wyłącznie na osoby o niskiej samoocenie i wysokiej samoświadomości",
+        "pożądany wizerunek można utrzymać tylko przez zastraszanie otoczenia",
+        "obserwatorzy ufają wyłącznie osobom, które konsekwentnie okazują skromność"
+      ],
+      "explanation": "Rozwiązania dylematu autentyczności: bycie autentycznym, omijanie niebezpiecznych tematów albo kłamanie.",
+      "sourceExcerpt": "Dylemat autentyczności - im bardziej pożądany jest w oczach innych obraz naszej osoby, tym bardziej odbiega od naszych przekonań na swój temat. Rozwiązania: bycie autentycznym, omijanie niebezpiecznych tematów, kłamanie.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-45",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Łączenie własnej osoby z pozytywnymi zdarzeniami lub osobami, nasilające się w warunkach zagrożenia poczucia własnej wartości, typowe dla osób o niskiej samoocenie, to:"
+      ],
+      "correct": [
+        "autopromocja przez skojarzenie"
+      ],
+      "distractors": [
+        "autopromocja bezpośrednia",
+        "ingracjacja przez konformizm",
+        "świecenie przykładem",
+        "suplikacja wobec przełożonych",
+        "samoutrudnianie strategiczne",
+        "negocjowanie tożsamości",
+        "efekt projekcji społecznej"
+      ],
+      "explanation": "Autopromocja przez skojarzenie to odpowiednik autopromocji dla osób o niskiej samoocenie; zanika w warunkach podbudowania samooceny.",
+      "sourceExcerpt": "Autopromocja przez skojarzenie - odpowiednik autopromocji dla osób o niskiej samoocenie. Polega na łączeniu własnej osoby z pozytywnymi zdarzeniami lub osobami. Skłonność rośnie w warunkach zagrożenia poczucia własnej wartości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-46",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Pragnienie uchodzenia za osobę moralną bez ponoszenia jakichkolwiek kosztów moralnego postępowania to:"
+      ],
+      "correct": [
+        "hipokryzja moralna"
+      ],
+      "distractors": [
+        "świecenie przykładem",
+        "dylemat autentyczności",
+        "usprawiedliwienie",
+        "ingracjacja",
+        "autopromocja",
+        "transgresja",
+        "suplikacja"
+      ],
+      "explanation": "Świecenie przykładem to przedstawianie siebie jako osoby moralnej; jego patologią jest hipokryzja moralna.",
+      "sourceExcerpt": "Hipokryzja moralna - pragnienie uchodzenia za osobę moralną bez ponoszenia jakichkolwiek kosztów moralnego postępowania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-47",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Przedstawianie siebie jako osoby agresywnej, groźnej, „twardego faceta”, od której nic nie można uzyskać (także „robienie sceny” przez dzieci), to:"
+      ],
+      "correct": [
+        "zastraszanie"
+      ],
+      "distractors": [
+        "autopromocja",
+        "ingracjacja",
+        "suplikacja",
+        "świecenie przykładem",
+        "samoutrudnianie",
+        "wymówka",
+        "autopromocja przez skojarzenie"
+      ],
+      "explanation": "Zastraszanie może być stosowane zarówno przez osoby wyżej, jak i niżej w hierarchii.",
+      "sourceExcerpt": "Zastraszanie - przedstawianie siebie jako „twardego faceta”, osoby agresywnej, nieprzyjemnej, groźnej, która może zrobić problemy i od której nic nie można uzyskać.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-48",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Większość autoprezentacji nie odbiega daleko od przekonań osoby na własny temat, z wyjątkiem przedstawiania siebie jako osoby:"
+      ],
+      "correct": [
+        "moralnej"
+      ],
+      "distractors": [
+        "kompetentnej",
+        "sympatycznej",
+        "bezradnej",
+        "groźnej",
+        "skromnej",
+        "niezależnej",
+        "szczęśliwej"
+      ],
+      "explanation": "„Autoprezentacja jest raczej miną niż maską” – wyjątkiem jest prezentowanie się jako osoba moralna.",
+      "sourceExcerpt": "Większość autoprezentacji nie odbiega daleko od przekonań osoby na własny temat, z wyjątkiem przedstawiania siebie jako osoby moralnej. „Autoprezentacja jest raczej miną, niż maską”.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-49",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "W hierarchii trzech poziomów ja (Sedikides i zespół, 2013) poziomem najmniej ważnym, daleko za dwoma pozostałymi, jest ja:"
+      ],
+      "correct": [
+        "wspólnotowe"
+      ],
+      "distractors": [
+        "indywidualne",
+        "relacyjne",
+        "robocze",
+        "idealne",
+        "powinnościowe",
+        "publiczne",
+        "niezależne"
+      ],
+      "explanation": "Hierarchia: 1) ja indywidualne, 2) ja relacyjne, 3) ja wspólnotowe – bardzo daleko za dwoma górnymi.",
+      "sourceExcerpt": "Hierarchia trzech poziomów ja (Sedikides i zespół, 2013): 1. Indywidualne 2. Relacyjne 3. Wspólnotowe (bardzo daleko za dwoma górnymi).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-6-50",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-6",
+      "stems": [
+        "Kształtowanie własnego wizerunku (autoprezentacja) służy osiąganiu korzyści zależnych od innych ludzi, kształtowaniu pożądanej tożsamości oraz:"
+      ],
+      "correct": [
+        "dowartościowaniu, czyli podnoszeniu poczucia własnej wartości",
+        "podnoszeniu poczucia własnej wartości"
+      ],
+      "distractors": [
+        "zmniejszaniu rozbieżności między ja realnym a idealnym",
+        "odbudowie wyczerpanych zasobów samokontroli",
+        "obniżaniu samoświadomości publicznej w kontaktach",
+        "aktywizacji ja współzależnego w nowych grupach",
+        "unikaniu porównań społecznych w górę",
+        "wzmacnianiu efektu odniesienia do ja",
+        "ograniczaniu efektu projekcji społecznej"
+      ],
+      "explanation": "Trzy funkcje autoprezentacji: korzyści materialne i społeczne zależne od innych, dowartościowanie, kształtowanie pożądanej tożsamości osobistej.",
+      "sourceExcerpt": "Kształtowanie własnego wizerunku służy: 1. osiąganiu materialnych i społecznych korzyści, których pozyskanie jest zależne od innych ludzi 2. dowartościowaniu 3. kształtowaniu pożądanej tożsamości osobistej.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

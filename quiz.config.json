@@ -3,7 +3,7 @@
     "https://spectacled-bookcase-f5d.notion.site/Wprowadzenie-do-psychologii-spo-ecznej-Czytanie-40075c03f28a808fafd5ea4c3d71124b",
     "https://app.notion.com/p/Wprowadzenie-do-psychologii-Historia-i-Wsp-czesno-Czytanie-40075c03f28a8091ba1ef78c5678c3c9"
   ],
-  "chapterPattern": "^(?:(.+?)[.:]\\s*)?(Rozdzia[łl]\\s+\\d+)\\s*$",
+  "chapterPattern": "^(?:(.+?)[.:]\\s*)?(Rozdzia[łl]\\s+\\d+)\\b.*$",
   "bookHeading": "h1",
   "language": "pl",
   "questionsPer1000Words": 25,

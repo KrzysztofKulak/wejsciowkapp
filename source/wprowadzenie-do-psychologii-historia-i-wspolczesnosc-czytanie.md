@@ -1,6 +1,6 @@
 # Wprowadzenie do psychologii: Historia i Współczesność. Czytanie
 
-## “Psychologia i życie”, Zimbardo. Rozdział 1
+## “Psychologia i życie”, Zimbardo. Rozdział 1, str. 12-19
 
 > Czytanie 75 minut
 
