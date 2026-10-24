@@ -86,7 +86,8 @@ for (const bookId of readdirSync(bankDir)) {
       if (new Set(stems).size !== stems.length) errors.push(`${w}: duplicate stems`);
       const avg = (a: string[]) => a.reduce((s, x) => s + x.length, 0) / a.length;
       const ratio = avg(q.correct) / avg(q.distractors);
-      if (q.status === "ok" && (ratio > 1.6 || ratio < 0.6))
+      // very short answers ("id", "ego") make the ratio meaningless, so skip them
+      if (q.status === "ok" && avg(q.correct) >= 6 && (ratio > 1.6 || ratio < 0.6))
         warnings.push(`${w}: length tell (correct avg ${avg(q.correct).toFixed(0)} vs distractors ${avg(q.distractors).toFixed(0)})`);
       if (q.status === "ok") ok++;
     }

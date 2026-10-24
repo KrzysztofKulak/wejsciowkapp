@@ -232,3 +232,151 @@ Każdy eksperyment ma co najmniej jedną z nich.
 #### Warunki kontrolne
 
 …
+
+# “Psychologia i życie Freud”, Rozdz. 13 – Teorie psychodynamiczne (Freud), s. 578–584
+
+20 minut
+
+### Teorie psychodynamiczne
+
+Wspólne założenie: **potężne siły wewnętrzne kształtują osobowość i motywują zachowanie**.
+
+- **Psychodynamiczna teoria osobowości** – osobowość jest kształtowana, a zachowanie motywowane przez siły wewnętrzne.
+- Twórca podejścia: **Zygmunt Freud** – biograf Ernest Jones nazwał go „Karolem Darwinem psychiki” (1953).
+- Teoria Freuda wyjaśnia: źródła i przebieg rozwoju osobowości, naturę psychiki, osobowość zaburzoną, zmiany osobowości w psychoterapii.
+- W tym fragmencie: tylko osobowość prawidłowa (psychopatologia i terapia → rozdz. 14 i 15).
+### Psychoanaliza Freudowska – założenia
+
+Trzon osobowości to **zdarzenia intrapsychiczne** – wydarzenia w psychice, które motywują zachowanie.
+
+- Motywacje bywają świadome, ale część działa na poziomie **nieświadomym**.
+- „Psychodynamiczna” = nacisk na wewnętrzne źródła zachowania i ich wzajemne ścieranie się.
+- **Każde zachowanie jest motywowane** – nic nie dzieje się przez przypadek; każde działanie ma **przyczynę i cel**.
+- Motywy odkrywa się przez analizę: **wolnych skojarzeń, snów, czynności omyłkowych** i innych wskaźników zachowania.
+- Źródło danych Freuda: obserwacje kliniczne i studia przypadków pacjentów w terapii (osób z zaburzeniami) – na tej podstawie zbudował teorię osobowości prawidłowej.
+### Popędy i rozwój psychoseksualny
+
+Źródłem motywacji jest **energia psychiczna**, właściwa każdemu człowiekowi; wrodzone popędy tworzą system napięć wytwarzany przez narządy ciała.
+
+**Dwa podstawowe popędy:**
+
+- **Samozachowawczy** – zaspokaja potrzeby takie jak głód i pragnienie.
+- **Eros** – popęd związany z pragnieniami seksualnymi i zachowaniem gatunku; Freud rozumiał go szeroko: każda próba osiągania przyjemności i kontaktu fizycznego.
+**Libido** – energia psychiczna popychająca do wszelkich przyjemności zmysłowych, szczególnie seksualnych. Pragnienia seksualne domagają się **natychmiastowego zaspokojenia** – wprost albo pośrednio (fantazje, sny).
+
+- Eros działa **od chwili narodzin**, nie dopiero w okresie dojrzewania (np. przyjemność niemowląt z fizycznej stymulacji).
+- **Strefy erogenne** – wrażliwe obszary ciała; ich rola zmienia się z wiekiem w stałej kolejności.
+**Tabela 13.2 – Freudowskie stadia rozwoju psychoseksualnego**
+
+| Stadium | Wiek (lata) | Strefy erogenne | Główne zadanie (źródło konfliktu) | Cechy dorosłych zafiksowanych na stadium |
+| --- | --- | --- | --- | --- |
+| Oralne | 0–1 | Język, usta, wargi | Odstawienie od piersi | Zachowania oralne (palenie, objadanie się); bierność, naiwność |
+| Analne | 2–3 | Odbyt | Trening czystości | Zamiłowanie do porządku, skąpstwo, upór – lub cechy przeciwne |
+| Falliczne | 4–5 | Narządy płciowe | Kompleks Edypa | Próżność, lekkomyślność – lub cechy przeciwne |
+| Okres latencji | 6–12 | Brak szczególnej strefy | Rozwój mechanizmów obronnych | Brak – fiksacja zwykle tu nie występuje |
+| Genitalne | 13–18 | Narządy płciowe | Dojrzała seksualność, intymność | Po udanym przejściu stadiów: szczere zainteresowanie innymi, dojrzała seksualność |
+
+**Kompleks Edypa** (stadium falliczne, chłopcy 4–5 lat):
+
+- Nazwa od mitycznego Edypa, który nieświadomie zabił ojca i poślubił matkę.
+- Chłopiec postrzega ojca jako **seksualnego rywala** w zabieganiu o uwagę matki.
+- Nie może pozbyć się ojca → rozwiązanie: **identyfikuje się z ojcem** i jego mocą.
+- Freud był niekonsekwentny w wyjaśnianiu doświadczeń dziewczynek.
+**Fiksacja** – nadmierna gratyfikacja lub nadmierna frustracja na jednym etapie → jednostka pozostaje przywiązana do obiektów/aktywności wcześniejszego stadium i nie przechodzi prawidłowo do kolejnego.
+
+- Fiksacja w różnych fazach → różne cechy osobowości w dorosłości (patrz tabela).
+- Wyjaśnia, czemu Freud tak akcentował **wczesne dzieciństwo** dla ciągłości osobowości.
+### Determinizm psychiczny i nieświadomość
+
+**Determinizm psychiczny** – wszelkie reakcje psychiczne i behawioralne (objawy) wynikają z **wcześniejszych doświadczeń**; objawy nie są przypadkowe, lecz powiązane z ważnymi wydarzeniami życiowymi.
+
+**Nieświadomość** – składnica informacji niedostępnych świadomości; przechowuje **wyparte pragnienia i prymitywne impulsy**.
+
+- Zachowanie może być motywowane popędami, z których istnienia człowiek nie zdaje sobie sprawy – działasz, nie wiedząc dlaczego.
+- **Treść jawna** – to, co mówisz, robisz i spostrzegasz świadomie.
+- **Treść ukryta (utajona)** – znaczenie objawów nerwicowych (lękowych), snów i czynności omyłkowych leży na poziomie nieświadomym.
+- Wielu współczesnych psychologów uważa pojęcie nieświadomości za **najważniejszy wkład Freuda** w psychologię naukową.
+**Model góry lodowej** (ryc. 13.6): widoczny wierzchołek = **świadomość**; wielokrotnie większa bryła pod wodą = **nieświadomość**.
+
+**Czynność omyłkowa (pomyłka freudowska)** – nieakceptowane impulsy dążą do ujawnienia; nieświadome pragnienie przedostaje się do wypowiedzi lub zachowania.
+
+- Przykład z książki: autor chciał napisać „spend a **chunk** of time together” (szmat czasu), a napisał „**junk**” (szmatławy czas) po nieudanym weekendzie u znajomych.
+- Przykład z pytania w ramce: jedzenie wg Freuda zaspokaja nie tylko głód (popęd samozachowawczy), ale też „erotyczną” potrzebę gratyfikacji oralnej.
+### Struktura osobowości: id, ego, superego
+
+Różnice osobowościowe wynikają z różnych sposobów radzenia sobie z popędami – z **nieustannej walki id i superego**, w której pośredniczy **ego**. To odmienne **procesy psychiczne**, nie odrębne obszary mózgu.
+
+| Aspekt | Czym jest | Zasada | Cechy |
+| --- | --- | --- | --- |
+| **Id** | Magazyn podstawowych popędów; prymitywna, podświadoma część osobowości | **Zasada przyjemności** | Irracjonalne, impulsywne; chce natychmiastowego zaspokojenia (seksualnego, fizycznego, emocjonalnego) bez względu na realia, moralność i konsekwencje |
+| **Superego** | Wartości jednostki, w tym wyuczone postawy moralne; ≈ **sumienie** | Nakazy i zakazy | Powstaje, gdy dziecko przyjmuje jako własne zakazy rodziców i dorosłych; zawiera **ideał ego** (kim powinienem się stać); często w konflikcie z id |
+| **Ego** | Aspekt jaźni osadzony w rzeczywistości; mediator | **Zasada realności** | Świadome przekonania o przyczynach i skutkach; wybiera działania zaspokajające id bez negatywnych konsekwencji; szuka kompromisu id–superego |
+
+- Skrót: id chce robić, co fajne; superego – co należy; ego szuka rozsądnego wyjścia.
+- Przykład ego: blokuje impuls ściągania na egzaminie (ryzyko przyłapania) i zastępuje go postanowieniem lepszego przygotowania.
+- Im silniejsze naciski id i superego, tym trudniej ego o optymalny kompromis.
+### Wyparcie, lęk i mechanizmy obronne ego
+
+**Wyparcie** – skrajne pragnienia są wypychane ze świadomości do nieświadomości („zakneblowanie id”); chroni przed skrajnym lękiem lub poczuciem winy. Uznawane za **najbardziej podstawowy mechanizm obronny**.
+
+- Ego pozostaje nieświadome zarówno wypartej treści, jak i samego procesu wyparcia.
+- Przykład: dziecko czuje silną nienawiść do ojca → wyparcie → impuls nie jest już spostrzegany, ale **wciąż istnieje**i wpływa na osobowość (np. silna identyfikacja z ojcem podnosi samoocenę i obniża lęk przed zdemaskowaniem).
+**Mechanizmy obronne ego** – strategie psychiczne (świadome lub nie), którymi ego chroni się w konflikcie id (impulsy chcą do świadomości) vs superego (chce im zaprzeczyć). Pozwalają utrzymać korzystną samoocenę i akceptowany społecznie obraz siebie.
+
+**Lęk** – intensywna reakcja emocjonalna, gdy **wyparty konflikt chce przedrzeć się do świadomości**. Sygnał alarmowy: wyparcie nie działa → uruchamia się druga linia obrony (dodatkowe mechanizmy).
+
+- Przykład reakcji upozorowanej: matka, która nie kocha syna, przekształca to w „Kocham moje dziecko, widzisz, jaką miłością je otaczam?”.
+**Tabela 13.3 – Główne mechanizmy obronne ego**
+
+| Mechanizm | Na czym polega |
+| --- | --- |
+| Zaprzeczanie rzeczywistości | Ochrona Ja przed nieprzyjemną rzeczywistością przez odmowę jej spostrzegania |
+| Przemieszczenie | Rozładowanie stłumionych uczuć (zwykle wrogości) na obiektach bezpieczniejszych niż te, które je wywołały |
+| Fantazjowanie | Zaspokajanie niezaspokojonych pragnień w wyobraźni (np. marzenia na jawie) |
+| Identyfikacja | Podnoszenie poczucia wartości przez utożsamianie się z inną, często wybitną osobą lub instytucją |
+| Izolacja (segmentacja) | Oddzielenie ładunku emocjonalnego od bolesnych sytuacji lub trzymanie sprzecznych postaw w osobnych „przegródkach” |
+| Projekcja | Przerzucanie winy za własne trudności na innych lub przypisywanie innym własnych „zakazanych” pragnień |
+| Racjonalizacja | Wykazywanie, że własne zachowania są „racjonalne” i uzasadnione |
+| Reakcja upozorowana | Przyjęcie postaw przeciwnych do zagrażających pragnień, jako „zapora” |
+| Regresja | Cofnięcie się do wcześniejszych faz rozwoju – bardziej dziecinne reakcje, niższe aspiracje |
+| Wyparcie | Usuwanie bolesnych lub zagrażających myśli ze świadomości; najbardziej podstawowy mechanizm |
+| Sublimacja | Przepracowanie niezaspokojonych pragnień seksualnych w nieseksualnych czynnościach akceptowanych kulturowo |
+
+**Dlaczego mogą szkodzić?** W gruncie rzeczy to **oszukiwanie samego siebie**.
+
+- Energia zużyta na maskowanie i przekierowywanie pragnień → mniej energii na produktywne życie i relacje.
+- Nadmierne poleganie na mechanizmach obronnych → źródło niektórych **chorób psychicznych** (rozdz. 14).
+### Ocena teorii Freuda
+
+Teoria miała ogromny wpływ, ale **krytyków jest więcej niż zwolenników**.
+
+**Zarzuty:**
+
+1. **Pojęcia niejasne, bez definicji operacyjnych** – trudno je zbadać naukowo; części hipotez **nie da się obalić** (jak zmierzyć „libido” czy „wyparcie dziecięcych pragnień”?).
+2. **Dobra historia, kiepska nauka** – działa **retrospektywnie** (wyjaśnia to, co już się stało), nie pozwala **przewidywać**.
+3. Nadmierny nacisk na przeszłość odwraca uwagę od **obecnych bodźców** podtrzymujących zachowanie.
+4. Teoria rozwojowa, która **nigdy nie objęła badań dzieci**.
+5. **Umniejsza traumy** (np. wykorzystywanie seksualne dzieci), reinterpretując wspomnienia jako fantazje.
+6. Perspektywa **androcentryczna** – model męski jako norma, bez badania różnic u kobiet.
+**Co się potwierdziło (po modyfikacjach):**
+
+- **Procesy nieświadome** są dziś systematycznie badane (McGovern i Baars, 2007) – wiele codziennych doświadczeń kształtują procesy poza świadomością. Ale związek nieświadomości z psychopatologią jest wątpliwy.
+- **Mechanizmy obronne** istnieją i częściej pojawiają się przy lęku – badanie **Sandstrom i Cramer (2003)**: 50 dziewczynek 9–11 lat; po odrzuceniu przez rówieśniczkę dziewczynki **niepopularne** częściej używały zaprzeczania i projekcji (analiza historyjek z Testu Apercepcji Tematycznej) niż popularne.
+- Blokowanie myśli i uczuć związanych z traumą, winą lub wstydem szkodzi zdrowiu psychicznemu i fizycznemu (Pennebaker, 1997; Petrie i in., 2004) → potwierdza, że **wyparte treści mogą prowadzić do cierpienia**.
+**Wniosek:** najbardziej złożone i całościowe spojrzenie na osobowość, nawet jeśli założenia okazały się błędne. Teorię najlepiej weryfikować **element po elemencie**. Pierwsze rewizje wyszły od uczniów Freuda (teorie postfreudowskie – Adler, Horney, Jung).
+
+### Słowniczek pojęć
+
+| Pojęcie (ang.) | Definicja |
+| --- | --- |
+| Psychodynamiczna teoria osobowości (psychodynamic personality theory) | Osobowość kształtowana, a zachowanie motywowane przez siły wewnętrzne |
+| Libido (libido) | Energia psychiczna popychająca ku przyjemnościom zmysłowym, zwłaszcza seksualnym |
+| Fiksacja (fixation) | Pozostawanie przywiązanym do obiektów/aktywności wcześniejszego stadium psychoseksualnego |
+| Determinizm psychiczny (psychic determinism) | Wszelkie reakcje umysłowe i behawioralne są zdeterminowane wcześniejszymi doświadczeniami |
+| Nieświadomość (unconscious) | Część psychiki przechowująca wyparte pragnienia i prymitywne impulsy |
+| Id (id) | Prymitywna, podświadoma część osobowości, działająca irracjonalnie i impulsywnie |
+| Superego (superego) | Zinternalizowane wartości, standardy i moralność społeczeństwa |
+| Ego (ego) | Działania samozachowawcze i przekierowywanie popędów do właściwych kanałów |
+| Wyparcie (repression) | Podstawowy mechanizm obronny usuwający bolesne myśli, uczucia i wspomnienia ze świadomości |
+| Mechanizm obronny ego (ego defense mechanism) | Strategia (świadoma lub nie) obrony ego przed konfliktami w codziennym życiu |
+| Lęk (anxiety) | Intensywna reakcja emocjonalna na przedświadome rozpoznanie, że wyparty konflikt chce przedrzeć się do świadomości |

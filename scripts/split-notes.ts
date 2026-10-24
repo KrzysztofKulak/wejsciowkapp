@@ -10,6 +10,7 @@ export const root = resolve(import.meta.dirname, "..");
 export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8")) as {
   sources: string[];
   chapterPattern: string;
+  bookAliases?: Record<string, string>;
   bookHeading?: string;
   language: string;
   questionsPer1000Words: number;
@@ -60,7 +61,7 @@ export function splitNotes(md: string): Book[] {
   let seenTitle = false;
 
   const getBook = (title: string) => {
-    const id = slugify(title);
+    const id = config.bookAliases?.[slugify(title)] ?? slugify(title);
     let b = books.find((x) => x.id === id);
     if (!b) { b = { id, title, chapters: [] }; books.push(b); }
     return b;
@@ -91,7 +92,8 @@ export function splitNotes(md: string): Book[] {
         const chapterTitle = (bookTitle ? title.slice(title.indexOf(chapterKey)) : title).replace(/[\s.:;,-]+$/, "").trim();
         if (bookTitle) book = getBook(bookTitle);
         if (!book) book = getBook(pageTitle);
-        chapter = { id: slugify(chapterKey), title: chapterTitle, text: "", words: 0, hash: "" };
+        const chapterId = slugify(chapterKey.replace(/^Rozdz\.?\s+/i, "Rozdział "));
+        chapter = { id: chapterId, title: chapterTitle, text: "", words: 0, hash: "" };
         book.chapters.push(chapter);
         continue;
       }

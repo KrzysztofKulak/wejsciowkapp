@@ -1,0 +1,1281 @@
+{
+  "bookId": "psychologia-i-zycie-zimbardo",
+  "chapterId": "rozdzial-13",
+  "chapterTitle": "Rozdz. 13 – Teorie psychodynamiczne (Freud), s. 578–584",
+  "sourceHash": "ff9a3e970dd3af043c374d438ddd2f3a3c97a504",
+  "questions": [
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-01",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Wspólnym założeniem teorii psychodynamicznych jest to, że:"
+      ],
+      "correct": [
+        "potężne siły wewnętrzne kształtują osobowość i motywują zachowanie",
+        "osobowość i zachowanie są wynikiem działania sił wewnętrznych"
+      ],
+      "distractors": [
+        "osobowość jest sumą wyuczonych nawyków i reakcji na bodźce",
+        "zachowanie jest reakcją na obiektywne cechy sytuacji",
+        "człowiek dąży przede wszystkim do samorealizacji",
+        "osobowość wynika z cech wrodzonych o podłożu genetycznym",
+        "zachowanie kształtują wyłącznie świadome decyzje",
+        "osobowość jest odbiciem ról społecznych jednostki",
+        "zachowanie wyjaśnia się funkcją, jaką pełni w środowisku"
+      ],
+      "explanation": "Psychodynamiczna teoria osobowości: osobowość jest kształtowana, a zachowanie motywowane przez siły wewnętrzne; „psychodynamiczna” oznacza nacisk na wewnętrzne źródła zachowania i ich ścieranie się.",
+      "sourceExcerpt": "Wspólne założenie: potężne siły wewnętrzne kształtują osobowość i motywują zachowanie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-02",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Biograf, który nazwał Freuda „Karolem Darwinem psychiki”, to:"
+      ],
+      "correct": [
+        "Ernest Jones"
+      ],
+      "distractors": [
+        "Carl Jung",
+        "Alfred Adler",
+        "Karen Horney",
+        "Anna Freud",
+        "Erik Erikson",
+        "Josef Breuer",
+        "Wilhelm Reich"
+      ],
+      "explanation": "Ernest Jones, biograf Freuda, nazwał go w 1953 roku „Karolem Darwinem psychiki”.",
+      "sourceExcerpt": "Twórca podejścia: Zygmunt Freud – biograf Ernest Jones nazwał go „Karolem Darwinem psychiki” (1953).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-03",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Trzonem osobowości w psychoanalizie Freuda są:"
+      ],
+      "correct": [
+        "zdarzenia intrapsychiczne",
+        "wydarzenia zachodzące w psychice, które motywują zachowanie"
+      ],
+      "distractors": [
+        "wyuczone nawyki i schematy reakcji",
+        "role społeczne i oczekiwania otoczenia",
+        "świadome postanowienia i cele",
+        "cechy temperamentu o podłożu biologicznym",
+        "wzorce zachowań przejęte przez naśladowanie",
+        "obiektywne cechy sytuacji zewnętrznej",
+        "zasoby poznawcze i inteligencja"
+      ],
+      "explanation": "Trzon osobowości to zdarzenia intrapsychiczne; motywacje bywają świadome, ale część działa na poziomie nieświadomym.",
+      "sourceExcerpt": "Trzon osobowości to zdarzenia intrapsychiczne – wydarzenia w psychice, które motywują zachowanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-04",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Freudowska teza „każde zachowanie jest motywowane” oznacza, że:"
+      ],
+      "correct": [
+        "nic nie dzieje się przez przypadek, każde działanie ma przyczynę i cel",
+        "każde działanie, nawet omyłkowe, ma swoją przyczynę i cel"
+      ],
+      "distractors": [
+        "każde zachowanie jest świadomie zaplanowane",
+        "zachowanie zawsze służy zaspokojeniu głodu lub pragnienia",
+        "motywy człowieka są zawsze racjonalne",
+        "zachowanie zawsze wynika z nacisków otoczenia",
+        "każde zachowanie da się wyjaśnić nagrodą lub karą",
+        "człowiek zawsze zna powody swoich działań",
+        "zachowanie wynika z wolnego wyboru jednostki"
+      ],
+      "explanation": "Każde zachowanie jest motywowane: nic nie dzieje się przez przypadek, każde działanie ma przyczynę i cel; motywy odkrywa się przez analizę wolnych skojarzeń, snów i czynności omyłkowych.",
+      "sourceExcerpt": "Każde zachowanie jest motywowane – nic nie dzieje się przez przypadek; każde działanie ma przyczynę i cel.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-05",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Freud odkrywał ukryte motywy, analizując:"
+      ],
+      "correct": [
+        "wolne skojarzenia, sny i czynności omyłkowe",
+        "swobodne skojarzenia, marzenia senne i pomyłki"
+      ],
+      "distractors": [
+        "kwestionariusze osobowości i testy standaryzowane",
+        "obserwowalne zachowania w warunkach laboratoryjnych",
+        "wyniki eksperymentów z manipulacją zmiennych",
+        "zapisy aktywności układu nerwowego",
+        "porównania międzykulturowe",
+        "sondaże i wywiady z dużymi grupami",
+        "obserwacje rozwoju dzieci w naturalnym otoczeniu"
+      ],
+      "explanation": "Motywy odkrywa się przez analizę wolnych skojarzeń, snów, czynności omyłkowych i innych wskaźników zachowania.",
+      "sourceExcerpt": "Motywy odkrywa się przez analizę: wolnych skojarzeń, snów, czynności omyłkowych i innych wskaźników zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-06",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Źródłem danych, na podstawie których Freud zbudował teorię osobowości prawidłowej, były:"
+      ],
+      "correct": [
+        "obserwacje kliniczne i studia przypadków pacjentów z zaburzeniami",
+        "studia przypadków osób leczonych w terapii"
+      ],
+      "distractors": [
+        "eksperymenty laboratoryjne na zdrowych ochotnikach",
+        "systematyczne obserwacje rozwoju dzieci",
+        "sondaże przeprowadzone na reprezentatywnych grupach",
+        "badania korelacyjne cech osobowości",
+        "obserwacje kultur pozaeuropejskich",
+        "testy standaryzowane z ustalonymi normami",
+        "badania bliźniąt i rodzin adopcyjnych"
+      ],
+      "explanation": "Freud opierał się na obserwacjach klinicznych i studiach przypadków pacjentów w terapii, czyli osób z zaburzeniami, i na tej podstawie opisał osobowość prawidłową.",
+      "sourceExcerpt": "Źródło danych Freuda: obserwacje kliniczne i studia przypadków pacjentów w terapii (osób z zaburzeniami) – na tej podstawie zbudował teorię osobowości prawidłowej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-07",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Dwa podstawowe popędy w teorii Freuda to:"
+      ],
+      "correct": [
+        "samozachowawczy i Eros",
+        "popęd samozachowawczy i Eros"
+      ],
+      "distractors": [
+        "id i superego",
+        "libido i lęk",
+        "Eros i Tanatos",
+        "głód i agresja",
+        "przyjemności i realności",
+        "seksualny i społeczny",
+        "wyparcie i sublimacja"
+      ],
+      "explanation": "Popęd samozachowawczy zaspokaja potrzeby takie jak głód i pragnienie; Eros wiąże się z pragnieniami seksualnymi i zachowaniem gatunku, rozumiany szeroko jako dążenie do przyjemności i kontaktu fizycznego.",
+      "sourceExcerpt": "Dwa podstawowe popędy: Samozachowawczy – zaspokaja potrzeby takie jak głód i pragnienie. Eros – popęd związany z pragnieniami seksualnymi i zachowaniem gatunku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-08",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Energia psychiczna popychająca do wszelkich przyjemności zmysłowych, szczególnie seksualnych, to:"
+      ],
+      "correct": [
+        "libido"
+      ],
+      "distractors": [
+        "Eros",
+        "id",
+        "fiksacja",
+        "ego",
+        "sublimacja",
+        "determinizm psychiczny",
+        "strefa erogenna"
+      ],
+      "explanation": "Libido to energia psychiczna popychająca ku przyjemnościom zmysłowym, zwłaszcza seksualnym; pragnienia seksualne domagają się natychmiastowego zaspokojenia, wprost lub pośrednio (fantazje, sny).",
+      "sourceExcerpt": "Libido – energia psychiczna popychająca do wszelkich przyjemności zmysłowych, szczególnie seksualnych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-09",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zdaniem Freuda popęd Eros działa:"
+      ],
+      "correct": [
+        "od chwili narodzin",
+        "już u niemowląt"
+      ],
+      "distractors": [
+        "od okresu dojrzewania",
+        "od stadium fallicznego",
+        "po okresie latencji",
+        "po powstaniu superego",
+        "dopiero w dorosłości",
+        "po kompleksie Edypa",
+        "od odstawienia od piersi"
+      ],
+      "explanation": "Eros działa od chwili narodzin, nie dopiero w okresie dojrzewania, czego przykładem jest przyjemność niemowląt z fizycznej stymulacji.",
+      "sourceExcerpt": "Eros działa od chwili narodzin, nie dopiero w okresie dojrzewania (np. przyjemność niemowląt z fizycznej stymulacji).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-10",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Wrażliwe obszary ciała, których rola zmienia się z wiekiem w stałej kolejności, to:"
+      ],
+      "correct": [
+        "strefy erogenne"
+      ],
+      "distractors": [
+        "obiekty fiksacji",
+        "ośrodki libido",
+        "strefy latencji",
+        "punkty gratyfikacji",
+        "receptory id",
+        "obszary wyparcia",
+        "ideały ego"
+      ],
+      "explanation": "Kolejność stref erogennych wyznacza stadia rozwoju psychoseksualnego: oralne, analne, falliczne, latencji, genitalne.",
+      "sourceExcerpt": "Strefy erogenne – wrażliwe obszary ciała; ich rola zmienia się z wiekiem w stałej kolejności.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-11",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Stadium rozwoju psychoseksualnego, w którym głównym zadaniem jest odstawienie od piersi, a fiksacja prowadzi do palenia, objadania się, bierności i naiwności, to stadium:"
+      ],
+      "correct": [
+        "oralne"
+      ],
+      "distractors": [
+        "analne",
+        "falliczne",
+        "latencji",
+        "genitalne",
+        "edypalne",
+        "narcystyczne",
+        "prenatalne"
+      ],
+      "explanation": "Stadium oralne (0–1 rok): strefy erogenne to język, usta i wargi; zadanie: odstawienie od piersi.",
+      "sourceExcerpt": "Oralne | 0–1 | Język, usta, wargi | Odstawienie od piersi | Zachowania oralne (palenie, objadanie się); bierność, naiwność",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-12",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zamiłowanie do porządku, skąpstwo i upór (lub cechy przeciwne) u dorosłego świadczą według Freuda o fiksacji na stadium:"
+      ],
+      "correct": [
+        "analnym"
+      ],
+      "distractors": [
+        "oralnym",
+        "fallicznym",
+        "latencji",
+        "genitalnym",
+        "edypalnym",
+        "narcystycznym",
+        "prenatalnym"
+      ],
+      "explanation": "Stadium analne (2–3 lata): źródłem konfliktu jest trening czystości.",
+      "sourceExcerpt": "Analne | 2–3 | Odbyt | Trening czystości | Zamiłowanie do porządku, skąpstwo, upór – lub cechy przeciwne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-13",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Kompleks Edypa jest głównym źródłem konfliktu w stadium:"
+      ],
+      "correct": [
+        "fallicznym"
+      ],
+      "distractors": [
+        "oralnym",
+        "analnym",
+        "latencji",
+        "genitalnym",
+        "narcystycznym",
+        "prenatalnym",
+        "preedypalnym"
+      ],
+      "explanation": "Stadium falliczne (4–5 lat): strefą erogenną są narządy płciowe, a fiksacja daje próżność i lekkomyślność lub cechy przeciwne.",
+      "sourceExcerpt": "Falliczne | 4–5 | Narządy płciowe | Kompleks Edypa | Próżność, lekkomyślność – lub cechy przeciwne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-14",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Stadium, w którym nie ma szczególnej strefy erogennej, rozwijają się mechanizmy obronne, a fiksacja zwykle nie występuje, to:"
+      ],
+      "correct": [
+        "okres latencji"
+      ],
+      "distractors": [
+        "stadium oralne",
+        "stadium analne",
+        "stadium falliczne",
+        "stadium genitalne",
+        "stadium edypalne",
+        "okres dojrzewania",
+        "stadium narcystyczne"
+      ],
+      "explanation": "Okres latencji (6–12 lat): brak szczególnej strefy erogennej, zadaniem jest rozwój mechanizmów obronnych.",
+      "sourceExcerpt": "Okres latencji | 6–12 | Brak szczególnej strefy | Rozwój mechanizmów obronnych | Brak – fiksacja zwykle tu nie występuje",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-15",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Dojrzała seksualność i intymność oraz szczere zainteresowanie innymi po udanym przejściu wcześniejszych stadiów charakteryzują stadium:"
+      ],
+      "correct": [
+        "genitalne"
+      ],
+      "distractors": [
+        "falliczne",
+        "oralne",
+        "analne",
+        "latencji",
+        "edypalne",
+        "narcystyczne",
+        "preedypalne"
+      ],
+      "explanation": "Stadium genitalne (13–18 lat): strefą erogenną są narządy płciowe, zadaniem dojrzała seksualność i intymność.",
+      "sourceExcerpt": "Genitalne | 13–18 | Narządy płciowe | Dojrzała seksualność, intymność | Po udanym przejściu stadiów: szczere zainteresowanie innymi, dojrzała seksualność",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-16",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Według Freuda chłopiec rozwiązuje kompleks Edypa przez:"
+      ],
+      "correct": [
+        "identyfikację z ojcem i jego mocą",
+        "utożsamienie się z ojcem"
+      ],
+      "distractors": [
+        "wyparcie uczuć wobec matki do okresu dojrzewania",
+        "przemieszczenie wrogości na rodzeństwo",
+        "sublimację pragnień w nauce i zabawie",
+        "regresję do stadium oralnego",
+        "zaprzeczenie istnieniu rywalizacji z ojcem",
+        "projekcję własnych pragnień na ojca",
+        "racjonalizację przywiązania do matki"
+      ],
+      "explanation": "Chłopiec postrzega ojca jako seksualnego rywala w zabieganiu o uwagę matki; nie mogąc się go pozbyć, identyfikuje się z ojcem i jego mocą. Freud był niekonsekwentny w wyjaśnianiu doświadczeń dziewczynek.",
+      "sourceExcerpt": "Chłopiec postrzega ojca jako seksualnego rywala w zabieganiu o uwagę matki. Nie może pozbyć się ojca → rozwiązanie: identyfikuje się z ojcem i jego mocą.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-17",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Nadmierna gratyfikacja lub nadmierna frustracja na jednym etapie rozwoju, przez którą jednostka pozostaje przywiązana do obiektów i aktywności tego stadium, to:"
+      ],
+      "correct": [
+        "fiksacja"
+      ],
+      "distractors": [
+        "regresja",
+        "wyparcie",
+        "sublimacja",
+        "determinizm psychiczny",
+        "identyfikacja",
+        "kompleks Edypa",
+        "przemieszczenie"
+      ],
+      "explanation": "Fiksacja w różnych fazach daje różne cechy osobowości w dorosłości; tłumaczy, czemu Freud tak akcentował wczesne dzieciństwo.",
+      "sourceExcerpt": "Fiksacja – nadmierna gratyfikacja lub nadmierna frustracja na jednym etapie → jednostka pozostaje przywiązana do obiektów/aktywności wcześniejszego stadium i nie przechodzi prawidłowo do kolejnego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-18",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Pogląd, że wszelkie reakcje psychiczne i behawioralne, w tym objawy, wynikają z wcześniejszych doświadczeń i nie są przypadkowe, to:"
+      ],
+      "correct": [
+        "determinizm psychiczny"
+      ],
+      "distractors": [
+        "nieświadomość zbiorowa",
+        "fiksacja rozwojowa",
+        "zasada realności",
+        "treść ukryta",
+        "libido seksualne",
+        "zasada przyjemności",
+        "model góry lodowej"
+      ],
+      "explanation": "Determinizm psychiczny: objawy nie są przypadkowe, lecz powiązane z ważnymi wydarzeniami życiowymi.",
+      "sourceExcerpt": "Determinizm psychiczny – wszelkie reakcje psychiczne i behawioralne (objawy) wynikają z wcześniejszych doświadczeń; objawy nie są przypadkowe, lecz powiązane z ważnymi wydarzeniami życiowymi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-19",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Składnica informacji niedostępnych świadomości, przechowująca wyparte pragnienia i prymitywne impulsy, to:"
+      ],
+      "correct": [
+        "nieświadomość"
+      ],
+      "distractors": [
+        "superego",
+        "treść ukryta",
+        "przedświadomość",
+        "libido",
+        "ideał ego",
+        "zasada realności",
+        "popęd samozachowawczy"
+      ],
+      "explanation": "Zachowanie może być motywowane popędami, z których istnienia człowiek nie zdaje sobie sprawy; wielu psychologów uważa pojęcie nieświadomości za najważniejszy wkład Freuda.",
+      "sourceExcerpt": "Nieświadomość – składnica informacji niedostępnych świadomości; przechowuje wyparte pragnienia i prymitywne impulsy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-20",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Za najważniejszy wkład Freuda w psychologię naukową wielu współczesnych psychologów uważa pojęcie:"
+      ],
+      "correct": [
+        "nieświadomości"
+      ],
+      "distractors": [
+        "libido",
+        "kompleksu Edypa",
+        "stadiów psychoseksualnych",
+        "superego",
+        "fiksacji",
+        "sublimacji",
+        "popędu samozachowawczego"
+      ],
+      "explanation": "Procesy nieświadome są dziś systematycznie badane; wiele codziennych doświadczeń kształtują procesy poza świadomością.",
+      "sourceExcerpt": "Wielu współczesnych psychologów uważa pojęcie nieświadomości za najważniejszy wkład Freuda w psychologię naukową.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-21",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Znaczenie objawów nerwicowych, snów i czynności omyłkowych, leżące na poziomie nieświadomym, Freud nazywa:"
+      ],
+      "correct": [
+        "treścią ukrytą (utajoną)",
+        "treścią utajoną"
+      ],
+      "distractors": [
+        "treścią jawną",
+        "determinizmem psychicznym",
+        "ideałem ego",
+        "libido",
+        "treścią przedświadomą",
+        "symbolem pierwotnym",
+        "fiksacją"
+      ],
+      "explanation": "Treść jawna to to, co mówisz, robisz i spostrzegasz świadomie; treść ukryta to nieświadome znaczenie objawów, snów i pomyłek.",
+      "sourceExcerpt": "Treść jawna – to, co mówisz, robisz i spostrzegasz świadomie. Treść ukryta (utajona) – znaczenie objawów nerwicowych (lękowych), snów i czynności omyłkowych leży na poziomie nieświadomym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-22",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "W modelu góry lodowej widoczny wierzchołek odpowiada:"
+      ],
+      "correct": [
+        "świadomości"
+      ],
+      "distractors": [
+        "nieświadomości",
+        "id",
+        "superego",
+        "libido",
+        "treści ukrytej",
+        "wypartym pragnieniom",
+        "ego"
+      ],
+      "explanation": "Model góry lodowej: widoczny wierzchołek to świadomość, a wielokrotnie większa bryła pod wodą to nieświadomość.",
+      "sourceExcerpt": "Model góry lodowej: widoczny wierzchołek = świadomość; wielokrotnie większa bryła pod wodą = nieświadomość.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-23",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Autor chciał napisać „spend a chunk of time together”, a po nieudanym weekendzie u znajomych napisał „junk”. To przykład:",
+        "Sytuacja, w której nieświadome pragnienie przedostaje się do wypowiedzi lub zachowania, to:"
+      ],
+      "correct": [
+        "pomyłki freudowskiej",
+        "czynności omyłkowej"
+      ],
+      "distractors": [
+        "przemieszczenia",
+        "reakcji upozorowanej",
+        "sublimacji popędu",
+        "projekcji pragnień",
+        "racjonalizacji",
+        "regresji rozwojowej",
+        "treści jawnej",
+        "fiksacji oralnej"
+      ],
+      "explanation": "Czynność omyłkowa: nieakceptowane impulsy dążą do ujawnienia, a nieświadome pragnienie przedostaje się do wypowiedzi lub zachowania.",
+      "sourceExcerpt": "Czynność omyłkowa (pomyłka freudowska) – nieakceptowane impulsy dążą do ujawnienia; nieświadome pragnienie przedostaje się do wypowiedzi lub zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-24",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Magazyn podstawowych popędów, prymitywna i podświadoma część osobowości, działająca według zasady przyjemności, to:"
+      ],
+      "correct": [
+        "id"
+      ],
+      "distractors": [
+        "ego",
+        "superego",
+        "libido",
+        "ideał ego",
+        "nieświadomość",
+        "Eros",
+        "sumienie"
+      ],
+      "explanation": "Id jest irracjonalne i impulsywne; chce natychmiastowego zaspokojenia bez względu na realia, moralność i konsekwencje.",
+      "sourceExcerpt": "Id | Magazyn podstawowych popędów; prymitywna, podświadoma część osobowości | Zasada przyjemności | Irracjonalne, impulsywne; chce natychmiastowego zaspokojenia",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-25",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Aspekt osobowości zawierający wartości jednostki i wyuczone postawy moralne, zbliżony do sumienia i obejmujący ideał ego, to:"
+      ],
+      "correct": [
+        "superego"
+      ],
+      "distractors": [
+        "id",
+        "ego",
+        "libido",
+        "nieświadomość",
+        "treść jawna",
+        "Eros",
+        "ja idealne"
+      ],
+      "explanation": "Superego powstaje, gdy dziecko przyjmuje jako własne zakazy rodziców i dorosłych; zawiera ideał ego (kim powinienem się stać) i często jest w konflikcie z id.",
+      "sourceExcerpt": "Superego | Wartości jednostki, w tym wyuczone postawy moralne; ≈ sumienie | Nakazy i zakazy | zawiera ideał ego (kim powinienem się stać); często w konflikcie z id",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-26",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Aspekt jaźni osadzony w rzeczywistości, działający według zasady realności i szukający kompromisu między id a superego, to:"
+      ],
+      "correct": [
+        "ego"
+      ],
+      "distractors": [
+        "id",
+        "superego",
+        "libido",
+        "ideał ego",
+        "sumienie",
+        "nieświadomość",
+        "Eros"
+      ],
+      "explanation": "Ego ma świadome przekonania o przyczynach i skutkach, wybiera działania zaspokajające id bez negatywnych konsekwencji i pośredniczy w walce id z superego.",
+      "sourceExcerpt": "Ego | Aspekt jaźni osadzony w rzeczywistości; mediator | Zasada realności | wybiera działania zaspokajające id bez negatywnych konsekwencji; szuka kompromisu id–superego",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-27",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Id, ego i superego są według Freuda:"
+      ],
+      "correct": [
+        "odmiennymi procesami psychicznymi, nie obszarami mózgu",
+        "różnymi procesami psychicznymi, nie strukturami mózgu"
+      ],
+      "distractors": [
+        "odrębnymi obszarami mózgu o różnej lokalizacji",
+        "kolejnymi stadiami rozwoju psychoseksualnego",
+        "trzema rodzajami popędów działających w id",
+        "trzema poziomami świadomości w modelu góry lodowej",
+        "mechanizmami obronnymi uruchamianymi przez lęk",
+        "trzema rodzajami libido o różnej sile",
+        "warstwami nieświadomości o różnej głębokości"
+      ],
+      "explanation": "Różnice osobowościowe wynikają z różnych sposobów radzenia sobie z popędami, z nieustannej walki id i superego, w której pośredniczy ego; to procesy psychiczne, nie obszary mózgu.",
+      "sourceExcerpt": "To odmienne procesy psychiczne, nie odrębne obszary mózgu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-28",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zasada, według której działa id, to zasada:"
+      ],
+      "correct": [
+        "przyjemności"
+      ],
+      "distractors": [
+        "realności",
+        "moralności",
+        "falsyfikacji",
+        "determinizmu",
+        "równowagi",
+        "redukcji napięcia",
+        "sumienia"
+      ],
+      "explanation": "Id działa według zasady przyjemności, ego według zasady realności, a superego kieruje się nakazami i zakazami.",
+      "sourceExcerpt": "Id | Zasada przyjemności. Ego | Zasada realności.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-29",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Intensywna reakcja emocjonalna na przedświadome rozpoznanie, że wyparty konflikt chce przedrzeć się do świadomości, to w teorii Freuda:"
+      ],
+      "correct": [
+        "lęk"
+      ],
+      "distractors": [
+        "fiksacja",
+        "regresja",
+        "libido",
+        "determinizm psychiczny",
+        "treść ukryta",
+        "czynność omyłkowa",
+        "sublimacja"
+      ],
+      "explanation": "Lęk sygnalizuje, że wyparty konflikt zbliża się do świadomości; w odpowiedzi ego uruchamia mechanizmy obronne.",
+      "sourceExcerpt": "Lęk (anxiety) | Intensywna reakcja emocjonalna na przedświadome rozpoznanie, że wyparty konflikt chce przedrzeć się do świadomości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-30",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Strategia (świadoma lub nie) obrony ego przed konfliktami w codziennym życiu to:"
+      ],
+      "correct": [
+        "mechanizm obronny ego"
+      ],
+      "distractors": [
+        "zasada realności",
+        "determinizm psychiczny",
+        "fiksacja",
+        "kompleks Edypa",
+        "treść jawna",
+        "ideał ego",
+        "popęd samozachowawczy"
+      ],
+      "explanation": "Mechanizmy obronne ego to strategie obrony przed konfliktami; nadmierne poleganie na nich bywa źródłem chorób psychicznych.",
+      "sourceExcerpt": "Mechanizm obronny ego (ego defense mechanism) | Strategia (świadoma lub nie) obrony ego przed konfliktami w codziennym życiu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-31",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Najbardziej podstawowym mechanizmem obronnym, usuwającym bolesne lub zagrażające myśli ze świadomości, jest:"
+      ],
+      "correct": [
+        "wyparcie"
+      ],
+      "distractors": [
+        "zaprzeczanie",
+        "projekcja",
+        "sublimacja",
+        "regresja",
+        "racjonalizacja",
+        "przemieszczenie",
+        "izolacja"
+      ],
+      "explanation": "Wyparcie usuwa bolesne myśli, uczucia i wspomnienia ze świadomości; Freud uznawał je za najbardziej podstawowy mechanizm.",
+      "sourceExcerpt": "Wyparcie | Usuwanie bolesnych lub zagrażających myśli ze świadomości; najbardziej podstawowy mechanizm",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-32",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Rozładowanie stłumionych uczuć (zwykle wrogości) na obiektach bezpieczniejszych niż te, które je wywołały, to:",
+        "Pracownik skrzyczany przez szefa wraca do domu i wyładowuje złość na psie. Stosuje mechanizm zwany:"
+      ],
+      "correct": [
+        "przemieszczenie"
+      ],
+      "distractors": [
+        "projekcja",
+        "reakcja upozorowana",
+        "sublimacja",
+        "regresja",
+        "racjonalizacja",
+        "izolacja",
+        "zaprzeczanie"
+      ],
+      "explanation": "Przemieszczenie przenosi uczucia na bezpieczniejszy obiekt; projekcja przypisuje własne pragnienia innym, a sublimacja przekierowuje je w czynności akceptowane kulturowo.",
+      "sourceExcerpt": "Przemieszczenie | Rozładowanie stłumionych uczuć (zwykle wrogości) na obiektach bezpieczniejszych niż te, które je wywołały",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-33",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Przerzucanie winy za własne trudności na innych lub przypisywanie innym własnych „zakazanych” pragnień to:"
+      ],
+      "correct": [
+        "projekcja"
+      ],
+      "distractors": [
+        "przemieszczenie",
+        "racjonalizacja",
+        "reakcja upozorowana",
+        "identyfikacja",
+        "zaprzeczanie",
+        "izolacja",
+        "sublimacja"
+      ],
+      "explanation": "Projekcja przypisuje innym własne nieakceptowane pragnienia lub winę za własne trudności.",
+      "sourceExcerpt": "Projekcja | Przerzucanie winy za własne trudności na innych lub przypisywanie innym własnych „zakazanych” pragnień",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-34",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Przyjęcie postaw przeciwnych do zagrażających pragnień, pełniących rolę „zapory”, to:",
+        "Osoba, którą nieświadomie pociąga ryzyko, demonstracyjnie potępia wszelką lekkomyślność. To przykład mechanizmu zwanego:",
+        "Matka, która nie kocha syna, przekształca to w „Kocham moje dziecko, widzisz, jaką miłością je otaczam?”. To przykład mechanizmu zwanego:"
+      ],
+      "correct": [
+        "reakcja upozorowana"
+      ],
+      "distractors": [
+        "przemieszczenie",
+        "racjonalizacja",
+        "zaprzeczanie rzeczywistości",
+        "izolacja (segmentacja)",
+        "fantazjowanie",
+        "identyfikacja",
+        "sublimacja"
+      ],
+      "explanation": "Reakcja upozorowana: zagrażające pragnienie jest maskowane postawą dokładnie przeciwną.",
+      "sourceExcerpt": "Reakcja upozorowana | Przyjęcie postaw przeciwnych do zagrażających pragnień, jako „zapora”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-35",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Przepracowanie niezaspokojonych pragnień seksualnych w nieseksualnych czynnościach akceptowanych kulturowo to:"
+      ],
+      "correct": [
+        "sublimacja"
+      ],
+      "distractors": [
+        "przemieszczenie",
+        "projekcja",
+        "fantazjowanie",
+        "regresja",
+        "reakcja upozorowana",
+        "racjonalizacja",
+        "identyfikacja"
+      ],
+      "explanation": "Sublimacja kieruje energię niezaspokojonych pragnień seksualnych w działania nieseksualne i społecznie cenione.",
+      "sourceExcerpt": "Sublimacja | Przepracowanie niezaspokojonych pragnień seksualnych w nieseksualnych czynnościach akceptowanych kulturowo",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-36",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Cofnięcie się do wcześniejszych faz rozwoju, czyli bardziej dziecinne reakcje i niższe aspiracje, to:"
+      ],
+      "correct": [
+        "regresja"
+      ],
+      "distractors": [
+        "fiksacja",
+        "wyparcie",
+        "izolacja",
+        "zaprzeczanie",
+        "identyfikacja",
+        "fantazjowanie",
+        "przemieszczenie"
+      ],
+      "explanation": "Regresja to cofnięcie do wcześniejszych faz rozwoju; fiksacja to pozostanie przywiązanym do wcześniejszego stadium.",
+      "sourceExcerpt": "Regresja | Cofnięcie się do wcześniejszych faz rozwoju – bardziej dziecinne reakcje, niższe aspiracje",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-37",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Wykazywanie, że własne zachowania są „racjonalne” i uzasadnione, to mechanizm obronny zwany:"
+      ],
+      "correct": [
+        "racjonalizacją"
+      ],
+      "distractors": [
+        "projekcją",
+        "reakcją upozorowaną",
+        "zaprzeczaniem",
+        "izolacją",
+        "identyfikacją",
+        "sublimacją",
+        "przemieszczeniem"
+      ],
+      "explanation": "Racjonalizacja dostarcza pozornie rozsądnych uzasadnień dla zachowań motywowanych nieakceptowanymi pragnieniami.",
+      "sourceExcerpt": "Racjonalizacja | Wykazywanie, że własne zachowania są „racjonalne” i uzasadnione",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-38",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Oddzielenie ładunku emocjonalnego od bolesnych sytuacji lub trzymanie sprzecznych postaw w osobnych „przegródkach” to:"
+      ],
+      "correct": [
+        "izolacja (segmentacja)",
+        "izolacja"
+      ],
+      "distractors": [
+        "zaprzeczanie",
+        "wyparcie",
+        "projekcja",
+        "fantazjowanie",
+        "racjonalizacja",
+        "regresja",
+        "identyfikacja"
+      ],
+      "explanation": "Izolacja (segmentacja) odcina emocje od bolesnej sytuacji lub rozdziela sprzeczne postawy.",
+      "sourceExcerpt": "Izolacja (segmentacja) | Oddzielenie ładunku emocjonalnego od bolesnych sytuacji lub trzymanie sprzecznych postaw w osobnych „przegródkach”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-39",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Podnoszenie poczucia własnej wartości przez utożsamianie się z inną, często wybitną osobą lub instytucją to mechanizm obronny zwany:"
+      ],
+      "correct": [
+        "identyfikacją"
+      ],
+      "distractors": [
+        "projekcją",
+        "fantazjowaniem",
+        "sublimacją",
+        "racjonalizacją",
+        "reakcją upozorowaną",
+        "izolacją",
+        "przemieszczeniem"
+      ],
+      "explanation": "Identyfikacja jako mechanizm obronny: utożsamienie się z wybitną osobą lub instytucją podnosi poczucie własnej wartości.",
+      "sourceExcerpt": "Identyfikacja | Podnoszenie poczucia wartości przez utożsamianie się z inną, często wybitną osobą lub instytucją",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-40",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Ochrona Ja przed nieprzyjemną rzeczywistością przez odmowę jej spostrzegania to:"
+      ],
+      "correct": [
+        "zaprzeczanie"
+      ],
+      "distractors": [
+        "wyparcie",
+        "izolacja",
+        "projekcja",
+        "racjonalizacja",
+        "fantazjowanie",
+        "regresja",
+        "reakcja upozorowana"
+      ],
+      "explanation": "Zaprzeczanie to odmowa spostrzegania nieprzyjemnej rzeczywistości; wyparcie usuwa ze świadomości myśli już spostrzeżone.",
+      "sourceExcerpt": "Zaprzeczanie rzeczywistości | Ochrona Ja przed nieprzyjemną rzeczywistością przez odmowę jej spostrzegania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-41",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zaspokajanie niezaspokojonych pragnień w wyobraźni, np. w marzeniach na jawie, to:"
+      ],
+      "correct": [
+        "fantazjowanie"
+      ],
+      "distractors": [
+        "sublimacja",
+        "projekcja",
+        "regresja",
+        "identyfikacja",
+        "izolacja",
+        "przemieszczenie",
+        "zaprzeczanie"
+      ],
+      "explanation": "Fantazjowanie zaspokaja pragnienia w wyobraźni zamiast w rzeczywistości.",
+      "sourceExcerpt": "Fantazjowanie | Zaspokajanie niezaspokojonych pragnień w wyobraźni (np. marzenia na jawie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-42",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Mechanizmy obronne mogą szkodzić, ponieważ:"
+      ],
+      "correct": [
+        "są oszukiwaniem samego siebie i zużywają energię potrzebną do życia",
+        "maskowanie pragnień pochłania energię na życie i relacje"
+      ],
+      "distractors": [
+        "całkowicie i trwale usuwają popędy z psychiki jednostki",
+        "powodują trwałe uszkodzenia układu nerwowego",
+        "uniemożliwiają rozwój superego i sumienia",
+        "zawsze prowadzą do fiksacji na stadium oralnym",
+        "wzmacniają id kosztem ego i superego",
+        "działają wyłącznie w okresie latencji",
+        "są zawsze w pełni świadome, celowe i racjonalne"
+      ],
+      "explanation": "Energia zużyta na maskowanie i przekierowywanie pragnień to mniej energii na produktywne życie i relacje; nadmierne poleganie na mechanizmach obronnych bywa źródłem chorób psychicznych.",
+      "sourceExcerpt": "Dlaczego mogą szkodzić? W gruncie rzeczy to oszukiwanie samego siebie. Energia zużyta na maskowanie i przekierowywanie pragnień → mniej energii na produktywne życie i relacje.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-43",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Jednym z głównych zarzutów wobec teorii Freuda jest to, że jej pojęcia:"
+      ],
+      "correct": [
+        "są niejasne i bez definicji operacyjnych, więc trudno je zbadać",
+        "nie mają definicji operacyjnych i części hipotez nie da się obalić"
+      ],
+      "distractors": [
+        "są zbyt wąskie, by objąć całość osobowości człowieka",
+        "opierają się wyłącznie na eksperymentach laboratoryjnych",
+        "pomijają rolę nieświadomości w motywacji",
+        "są zbyt silnie oparte na badaniach małych dzieci",
+        "dotyczą wyłącznie psychopatologii, a nie normy",
+        "przewidują zachowanie zbyt precyzyjnie, by je testować",
+        "ignorują znaczenie wczesnego dzieciństwa"
+      ],
+      "explanation": "Zarzut: jak zmierzyć „libido” czy „wyparcie dziecięcych pragnień”? Pojęcia bez definicji operacyjnych trudno zbadać, a części hipotez nie da się sfalsyfikować.",
+      "sourceExcerpt": "Pojęcia niejasne, bez definicji operacyjnych – trudno je zbadać naukowo; części hipotez nie da się obalić.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-44",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zarzut „dobra historia, kiepska nauka” wobec teorii Freuda oznacza, że teoria:"
+      ],
+      "correct": [
+        "działa retrospektywnie: wyjaśnia przeszłość, ale nie pozwala przewidywać",
+        "tłumaczy to, co już się stało, lecz nie przewiduje"
+      ],
+      "distractors": [
+        "opiera się na zbyt małej liczbie przypadków klinicznych",
+        "jest zbyt prosta, by opisać złożoność osobowości",
+        "przewiduje zachowanie, ale nie potrafi go wyjaśnić",
+        "pomija wpływ nieświadomości na zachowanie",
+        "jest oparta wyłącznie na obserwacji małych dzieci",
+        "ignoruje rolę wczesnego dzieciństwa w rozwoju",
+        "nie uwzględnia mechanizmów obronnych ego"
+      ],
+      "explanation": "Teoria działa retrospektywnie: wyjaśnia to, co już się stało, nie pozwala przewidywać; dodatkowo nadmierny nacisk na przeszłość odwraca uwagę od obecnych bodźców podtrzymujących zachowanie.",
+      "sourceExcerpt": "Dobra historia, kiepska nauka – działa retrospektywnie (wyjaśnia to, co już się stało), nie pozwala przewidywać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-45",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Paradoks teorii rozwojowej Freuda polega na tym, że:"
+      ],
+      "correct": [
+        "nigdy nie objęła badań dzieci",
+        "powstała bez badania samych dzieci"
+      ],
+      "distractors": [
+        "badała wyłącznie dzieci, a nie dorosłych",
+        "pomijała okres dorosłości",
+        "nie uwzględniała wczesnego dzieciństwa",
+        "opierała się tylko na obserwacji niemowląt",
+        "badała jedynie dziewczynki",
+        "powstała na podstawie eksperymentów z dziećmi",
+        "zakładała, że rozwój kończy się w stadium oralnym"
+      ],
+      "explanation": "Zarzut czwarty: teoria rozwojowa, która nigdy nie objęła badań dzieci; Freud opierał się na pacjentach dorosłych.",
+      "sourceExcerpt": "Teoria rozwojowa, która nigdy nie objęła badań dzieci.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-46",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zarzut, że teoria Freuda przyjmuje model męski jako normę i nie bada różnic u kobiet, dotyczy jej perspektywy:"
+      ],
+      "correct": [
+        "androcentrycznej"
+      ],
+      "distractors": [
+        "retrospektywnej",
+        "redukcjonistycznej",
+        "deterministycznej",
+        "biologicznej",
+        "kolektywistycznej",
+        "behawiorystycznej",
+        "introspekcyjnej"
+      ],
+      "explanation": "Perspektywa androcentryczna: model męski jako norma, bez badania różnic u kobiet; Freud był też niekonsekwentny w opisie doświadczeń dziewczynek.",
+      "sourceExcerpt": "Perspektywa androcentryczna – model męski jako norma, bez badania różnic u kobiet.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-47",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Teorii Freuda zarzuca się umniejszanie traum (np. wykorzystywania seksualnego dzieci) przez:"
+      ],
+      "correct": [
+        "reinterpretowanie wspomnień jako fantazji",
+        "traktowanie wspomnień o traumie jako fantazji"
+      ],
+      "distractors": [
+        "przypisywanie traum wyłącznie okresowi latencji",
+        "sprowadzanie ich do fiksacji analnej",
+        "uznawanie ich za przejaw superego",
+        "przenoszenie odpowiedzialności na matkę",
+        "tłumaczenie ich popędem samozachowawczym",
+        "ignorowanie roli nieświadomości",
+        "wyjaśnianie ich regresją"
+      ],
+      "explanation": "Zarzut piąty: teoria umniejsza traumy, reinterpretując wspomnienia jako fantazje.",
+      "sourceExcerpt": "Umniejsza traumy (np. wykorzystywanie seksualne dzieci), reinterpretując wspomnienia jako fantazje.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-48",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "W badaniu Sandstrom i Cramer (2003) po odrzuceniu przez rówieśniczkę dziewczynki niepopularne częściej niż popularne używały:"
+      ],
+      "correct": [
+        "zaprzeczania i projekcji"
+      ],
+      "distractors": [
+        "wyparcia i sublimacji",
+        "regresji i fantazjowania",
+        "racjonalizacji i izolacji",
+        "przemieszczenia i identyfikacji",
+        "reakcji upozorowanej i wyparcia",
+        "sublimacji i racjonalizacji",
+        "izolacji i regresji"
+      ],
+      "explanation": "Badanie 50 dziewczynek w wieku 9–11 lat (analiza historyjek z Testu Apercepcji Tematycznej) potwierdziło, że mechanizmy obronne istnieją i częściej pojawiają się przy lęku.",
+      "sourceExcerpt": "Badanie Sandstrom i Cramer (2003): 50 dziewczynek 9–11 lat; po odrzuceniu przez rówieśniczkę dziewczynki niepopularne częściej używały zaprzeczania i projekcji niż popularne.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-49",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Badania Pennebakera (1997) nad blokowaniem myśli i uczuć związanych z traumą, winą lub wstydem potwierdzają freudowską tezę, że:"
+      ],
+      "correct": [
+        "wyparte treści mogą prowadzić do cierpienia",
+        "tłumienie bolesnych treści szkodzi zdrowiu"
+      ],
+      "distractors": [
+        "nieświadomość jest źródłem psychopatologii",
+        "libido działa od chwili narodzin",
+        "fiksacja oralna prowadzi do nałogów",
+        "kompleks Edypa jest uniwersalny",
+        "mechanizmy obronne są zawsze szkodliwe",
+        "sny mają treść ukrytą",
+        "superego powstaje w stadium fallicznym"
+      ],
+      "explanation": "Blokowanie myśli i uczuć związanych z traumą szkodzi zdrowiu psychicznemu i fizycznemu (Pennebaker, 1997; Petrie i in., 2004), co potwierdza, że wyparte treści mogą prowadzić do cierpienia.",
+      "sourceExcerpt": "Blokowanie myśli i uczuć związanych z traumą, winą lub wstydem szkodzi zdrowiu psychicznemu i fizycznemu (Pennebaker, 1997) → potwierdza, że wyparte treści mogą prowadzić do cierpienia.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-50",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Co do związku nieświadomości z psychopatologią współczesne badania wskazują, że jest on:"
+      ],
+      "correct": [
+        "wątpliwy"
+      ],
+      "distractors": [
+        "bardzo silny",
+        "potwierdzony",
+        "przyczynowy",
+        "bezsporny",
+        "oczywisty",
+        "udowodniony",
+        "jednoznaczny"
+      ],
+      "explanation": "Procesy nieświadome są dziś systematycznie badane (McGovern i Baars, 2007), ale związek nieświadomości z psychopatologią jest wątpliwy.",
+      "sourceExcerpt": "Procesy nieświadome są dziś systematycznie badane (McGovern i Baars, 2007). Ale związek nieświadomości z psychopatologią jest wątpliwy.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-51",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Pierwsze rewizje teorii Freuda, czyli teorie postfreudowskie, wyszły od jego uczniów:"
+      ],
+      "correct": [
+        "Adlera, Horney i Junga",
+        "Alfreda Adlera, Karen Horney i Carla Junga"
+      ],
+      "distractors": [
+        "Watsona, Skinnera i Pawłowa",
+        "Rogersa, Maslowa i Allporta",
+        "Wundta, Titchenera i Jamesa",
+        "Piageta, Chomsky'ego i Bandury",
+        "Eriksona, Bowlby'ego i Ainsworth",
+        "Pennebakera, Baarsa i Cramer",
+        "Zimbardo, Milgrama i Ascha"
+      ],
+      "explanation": "Teorię najlepiej weryfikować element po elemencie; pierwsze rewizje wyszły od uczniów Freuda: Adlera, Horney i Junga.",
+      "sourceExcerpt": "Pierwsze rewizje wyszły od uczniów Freuda (teorie postfreudowskie – Adler, Horney, Jung).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-52",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Ogólna ocena teorii Freuda w podręczniku brzmi: najbardziej złożone i całościowe spojrzenie na osobowość, które najlepiej weryfikować:"
+      ],
+      "correct": [
+        "element po elemencie",
+        "fragment po fragmencie"
+      ],
+      "distractors": [
+        "jako całość, w jednym eksperymencie",
+        "wyłącznie metodą studium przypadku",
+        "przez introspekcję pacjentów",
+        "tylko w badaniach dzieci",
+        "przez porównania międzykulturowe",
+        "za pomocą jednej definicji operacyjnej",
+        "przez analizę snów"
+      ],
+      "explanation": "Teoria miała ogromny wpływ, choć krytyków jest więcej niż zwolenników; mimo błędnych założeń pozostaje najbardziej całościowym spojrzeniem na osobowość.",
+      "sourceExcerpt": "Wniosek: najbardziej złożone i całościowe spojrzenie na osobowość, nawet jeśli założenia okazały się błędne. Teorię najlepiej weryfikować element po elemencie.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}
