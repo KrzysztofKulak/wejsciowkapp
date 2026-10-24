@@ -88,6 +88,15 @@ label.chk .count { margin-left: auto; color: var(--muted); font-size: 0.85rem; }
 .opt.wrong { border-color: var(--bad); background: var(--bad-bg); }
 .opt.wrong .lbl { background: var(--bad); color: #fff; }
 .feedback { margin-top: 14px; }
+.feedback-row { display: flex; gap: 14px; align-items: flex-start; }
+.feedback-text { flex: 1 1 auto; min-width: 0; }
+.feedback-text p:first-child { margin-top: 0; }
+.reaction { flex: 0 0 auto; width: 132px; }
+.reaction img, .reaction video { display: block; width: 132px; height: 132px; object-fit: cover; border-radius: 12px; background: var(--bg); }
+@media (max-width: 480px) {
+  .feedback-row { flex-wrap: wrap; }
+  .reaction { width: 100%; display: flex; justify-content: center; }
+}
 .feedback .verdict { font-weight: 700; }
 .feedback .verdict.ok { color: var(--ok); }
 .feedback .verdict.bad { color: var(--bad); }

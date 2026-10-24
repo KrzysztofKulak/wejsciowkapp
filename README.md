@@ -28,6 +28,7 @@ Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej od
 - Klawisze 1–4 / A–D, Enter = dalej. Tryb ciemny wg systemu.
 - Podsumowanie z podziałem na rozdziały, lista pomyłek, „powtórz pomyłki”.
 - „Skup się na słabych”: częściej losuje pytania, które mylisz (statystyki w `localStorage`).
+- „Wzmocnione metody nauki” (domyślnie włączone): po każdej odpowiedzi obok wyjaśnienia pojawia się kot, smutny przy błędzie, wesoły przy trafieniu.
 - `?seed=123` w adresie daje powtarzalny zestaw.
 
 ## Układ repo

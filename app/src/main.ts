@@ -8,7 +8,32 @@ const app = document.getElementById("app")!;
 // ---------- persistence (localStorage, always guarded) ----------
 const LS_SEL = "wejsciowka.selection";
 const LS_MISS = "wejsciowka.misses";
-type Selection = { chapters: string[]; count: number; weak: boolean };
+type Selection = { chapters: string[]; count: number; weak: boolean; fun?: boolean };
+
+// "Wzmocnione metody nauki": reaction media shown after each answer.
+const SAD_MEDIA = [
+  "https://media1.tenor.com/m/JSsbgbr81NIAAAAd/disappointed-cat.gif",
+  "https://media1.tenor.com/m/f74SroHPjVEAAAAC/sad-cat-cat-with-hat.gif",
+  "https://media1.tenor.com/m/t9PLz06a24wAAAAC/sad-cat.gif",
+  "https://media1.tenor.com/m/WFVIGNx9dxIAAAAC/crying.gif",
+  "https://media1.tenor.com/m/sQf0cT8G5soAAAAC/cat.gif",
+];
+const HAPPY_MEDIA = [
+  "https://media.tenor.com/WsWej1C3ePYAAAP1/yippee-cat-kitty.mp4",
+  "https://media.tenor.com/28qJp9li1WQAAAP1/lumedoallumenaria-dancing-cat-ai.mp4",
+  "https://media.tenor.com/i_rMKdLlNlYAAAP1/cat-smiling-cat-cute.mp4",
+  "https://media.tenor.com/ECATiSXWwm8AAAAm/dancing-cat-cat.webp",
+];
+function reactionMedia(ok: boolean): HTMLElement {
+  const list = ok ? HAPPY_MEDIA : SAD_MEDIA;
+  const url = list[Math.floor(Math.random() * list.length)];
+  const el = url.endsWith(".mp4")
+    ? h("video", { src: url, autoplay: true, muted: true, loop: true, playsInline: true, "aria-hidden": "true" })
+    : h("img", { src: url, alt: "", "aria-hidden": "true" });
+  const wrap = h("div", { class: "reaction" }, el);
+  el.addEventListener("error", () => wrap.remove());
+  return wrap;
+}
 type MissStats = Record<string, { seen: number; missed: number }>;
 
 function lsGet<T>(key: string, fallback: T): T {
@@ -84,7 +109,7 @@ const titles = new Map<string, { book: string; chapter: string }>();
 // ---------- views ----------
 function setupView(error?: string) {
   setKeys(null);
-  const saved = lsGet<Selection>(LS_SEL, { chapters: [], count: 10, weak: false });
+  const saved = lsGet<Selection>(LS_SEL, { chapters: [], count: 10, weak: false, fun: true });
   const available = new Set(index.books.flatMap((b) => b.chapters.map((c) => `${b.id}/${c.id}`)));
   const selected = new Set(saved.chapters.filter((k) => available.has(k)));
   const misses = lsGet<MissStats>(LS_MISS, {});
@@ -94,6 +119,7 @@ function setupView(error?: string) {
   const range = h("input", { type: "range", min: 1, max: 1, value: saved.count }) as HTMLInputElement;
   const startBtn = h("button", { class: "primary", onClick: () => start() }, "Start") as HTMLButtonElement;
   const weakChk = h("input", { type: "checkbox", checked: saved.weak && hasStats, disabled: !hasStats }) as HTMLInputElement;
+  const funChk = h("input", { type: "checkbox", checked: saved.fun !== false }) as HTMLInputElement;
 
   const chapterInputs = new Map<string, HTMLInputElement>();
   const bookInputs = new Map<string, HTMLInputElement>();
@@ -157,7 +183,7 @@ function setupView(error?: string) {
 
   async function start() {
     const chapters = [...selected];
-    const sel: Selection = { chapters, count: Number(range.value), weak: weakChk.checked };
+    const sel: Selection = { chapters, count: Number(range.value), weak: weakChk.checked, fun: funChk.checked };
     lsSet(LS_SEL, sel);
     startBtn.disabled = true;
     startBtn.textContent = "Ładowanie…";
@@ -167,7 +193,7 @@ function setupView(error?: string) {
       const { seed, rng } = makeRng();
       const weight = sel.weak ? (q: Question) => 1 + 3 * (misses[q.id]?.missed ?? 0) + (misses[q.id] ? 0 : 1) : undefined;
       const qs = sampleQuestions(pool, sel.count, rng, weight);
-      quizView(qs, rng, seed);
+      quizView(qs, rng, seed, sel.fun);
     } catch (e) {
       setupView(`Nie udało się wczytać pytań: ${(e as Error).message}`);
     }
@@ -183,6 +209,7 @@ function setupView(error?: string) {
       h("h2", { style: "margin-top:0" }, "Liczba pytań"),
       h("div", { class: "count-picker" }, range, countOut),
       h("label", { class: "chk", style: "margin-top:8px" }, weakChk, h("span", {}, "Skup się na słabych", h("span", { class: "muted" }, hasStats ? " (częściej pytania, które mylisz)" : " (brak statystyk, zagraj najpierw)"))),
+      h("label", { class: "chk" }, funChk, h("span", {}, "Wzmocnione metody nauki", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
     ),
     startBtn,
     h("footer", { class: "muted" }, "Klawisze: 1–4 / A–D wybierają odpowiedź, Enter idzie dalej."),
@@ -190,7 +217,7 @@ function setupView(error?: string) {
   refresh();
 }
 
-function quizView(questions: Question[], rng: () => number, seed: number) {
+function quizView(questions: Question[], rng: () => number, seed: number, fun = true) {
   const answers: Answered[] = [];
   let i = 0;
 
@@ -222,8 +249,13 @@ function quizView(questions: Question[], rng: () => number, seed: number) {
         else if (j === idx) b.classList.add("wrong");
       });
       feedback.replaceChildren(
-        h("p", { class: `verdict ${ok ? "ok" : "bad"}` }, ok ? "✓ Dobrze" : `✗ Źle — prawidłowa: ${LABELS[r.correctIndex]}`),
-        h("p", {}, q.explanation),
+        h("div", { class: "feedback-row" },
+          h("div", { class: "feedback-text" },
+            h("p", { class: `verdict ${ok ? "ok" : "bad"}` }, ok ? "✓ Dobrze" : `✗ Źle — prawidłowa: ${LABELS[r.correctIndex]}`),
+            h("p", {}, q.explanation),
+          ),
+          fun ? reactionMedia(ok) : "",
+        ),
         h(
           "details",
           { class: "source" },
@@ -238,7 +270,7 @@ function quizView(questions: Question[], rng: () => number, seed: number) {
     function next() {
       i++;
       if (i < questions.length) showQuestion();
-      else summaryView(questions, answers, seed);
+      else summaryView(questions, answers, seed, fun);
     }
     setKeys((e) => {
       if (e.metaKey || e.ctrlKey || e.altKey) return;
@@ -263,7 +295,7 @@ function quizView(questions: Question[], rng: () => number, seed: number) {
   showQuestion();
 }
 
-function summaryView(questions: Question[], answers: Answered[], seed: number) {
+function summaryView(questions: Question[], answers: Answered[], seed: number, fun = true) {
   setKeys(null);
   const correct = answers.filter((a) => a.correctAnswer).length;
   const pct = answers.length ? Math.round((100 * correct) / answers.length) : 0;
@@ -302,7 +334,7 @@ function summaryView(questions: Question[], answers: Answered[], seed: number) {
       : h("div", { class: "card" }, h("p", { style: "margin:0" }, "Bezbłędnie! 🎉")),
     h("div", { class: "actions" },
       missed.length ? h("button", { class: "primary", onClick: () => retryMissed() }, `Powtórz pomyłki (${missed.length})`) : "",
-      h("button", { onClick: () => { const { rng, seed: s } = makeRng(); quizView(sampleQuestions(questions, questions.length, rng), rng, s); } }, "Jeszcze raz ten sam zestaw"),
+      h("button", { onClick: () => { const { rng, seed: s } = makeRng(); quizView(sampleQuestions(questions, questions.length, rng), rng, s, fun); } }, "Jeszcze raz ten sam zestaw"),
       h("button", { onClick: () => setupView() }, "Nowy quiz"),
     ),
     h("footer", { class: "muted" }, `seed: ${seed}`),
@@ -311,7 +343,7 @@ function summaryView(questions: Question[], answers: Answered[], seed: number) {
   function retryMissed() {
     const { rng, seed: s } = makeRng();
     const qs = sampleQuestions(missed.map((a) => a.question), missed.length, rng);
-    quizView(qs, rng, s);
+    quizView(qs, rng, s, fun);
   }
 }
 
