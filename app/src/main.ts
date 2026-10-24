@@ -209,7 +209,7 @@ function setupView(error?: string) {
       h("h2", { style: "margin-top:0" }, "Liczba pytań"),
       h("div", { class: "count-picker" }, range, countOut),
       h("label", { class: "chk", style: "margin-top:8px" }, weakChk, h("span", {}, "Skup się na słabych", h("span", { class: "muted" }, hasStats ? " (częściej pytania, które mylisz)" : " (brak statystyk, zagraj najpierw)"))),
-      h("label", { class: "chk" }, funChk, h("span", {}, "Wzmocnione metody nauki", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
+      h("label", { class: "chk" }, funChk, h("span", {}, "Enhanced learning methods", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
     ),
     startBtn,
     h("footer", { class: "muted" }, "Klawisze: 1–4 / A–D wybierają odpowiedź, Enter idzie dalej."),
