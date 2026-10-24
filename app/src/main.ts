@@ -17,12 +17,33 @@ const SAD_MEDIA = [
   "https://media1.tenor.com/m/t9PLz06a24wAAAAC/sad-cat.gif",
   "https://media1.tenor.com/m/WFVIGNx9dxIAAAAC/crying.gif",
   "https://media1.tenor.com/m/sQf0cT8G5soAAAAC/cat.gif",
+  "https://media.tenor.com/IpBYhJKqym4AAAP1/high-cat.mp4",
+  "https://media.tenor.com/vB-w7iKKQsMAAAAM/ohno.gif",
+  "https://media.tenor.com/zmtGT15b_5sAAAP1/middle-finger-flip-off.mp4",
+  "https://media.tenor.com/6IKOpbGWD_QAAAP1/cat-with-wiered-and-cute-reactions-cat.mp4",
+  "https://media.tenor.com/xqghrtvGNC8AAAP1/cat-cat-meme.mp4",
+  "https://media.tenor.com/va65e03ETmYAAAP1/orange-cat-cat-hitting-cat.mp4",
+  "https://media.tenor.com/kWkFDCo5zWYAAAP1/cat-rollin-cat.mp4",
+  "https://media.tenor.com/vtafMdD8sMsAAAP1/cat-kitty.mp4",
+  "https://media.tenor.com/SXySZvYzlPUAAAAM/cat.gif",
+  "https://media.tenor.com/YlWsJmNCxAMAAAP1/scoobert-mad-cat.mp4",
 ];
 const HAPPY_MEDIA = [
   "https://media.tenor.com/WsWej1C3ePYAAAP1/yippee-cat-kitty.mp4",
   "https://media.tenor.com/28qJp9li1WQAAAP1/lumedoallumenaria-dancing-cat-ai.mp4",
   "https://media.tenor.com/i_rMKdLlNlYAAAP1/cat-smiling-cat-cute.mp4",
   "https://media.tenor.com/ECATiSXWwm8AAAAm/dancing-cat-cat.webp",
+  "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd6ejhtbGx1NzJjc3kxd3B3cjd2bG02dWwzeXE5bmYxNTk3amFzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TbRkubcqlgBksEqMv4/200w.webp",
+  "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd6ejhtbGx1NzJjc3kxd3B3cjd2bG02dWwzeXE5bmYxNTk3amFzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/E98InhHHr5LfgU5KkU/giphy.webp",
+  "https://media.tenor.com/LzESVERU1OAAAAAm/chat-pouce.webp",
+  "https://media.tenor.com/aNKgtdT5ymEAAAP1/cat-dance-cat.mp4",
+  "https://media.tenor.com/8dTA0WCA99AAAAP1/cats-cat.mp4",
+  "https://media.tenor.com/ZXPCRT8wKXgAAAP1/cat-scuba-cat.mp4",
+  "https://media.tenor.com/Km11GYbvYY0AAAP1/good-morning.mp4",
+  "https://media.tenor.com/Cbgs3WHCq_AAAAAm/kitty-dance.webp",
+  "https://media.tenor.com/DimrKSoVMfoAAAP1/cat-cat-memes.mp4",
+  "https://media.tenor.com/3gE520j0eiwAAAAm/meow-zhe.webp",
+  "https://media.tenor.com/E1E7Sv8n-kAAAAAm/cat-dance.webp",
 ];
 function reactionMedia(ok: boolean): HTMLElement {
   const list = ok ? HAPPY_MEDIA : SAD_MEDIA;
