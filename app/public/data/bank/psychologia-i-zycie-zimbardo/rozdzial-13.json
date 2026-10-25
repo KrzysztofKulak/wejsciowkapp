@@ -1276,6 +1276,497 @@
       "sourceExcerpt": "Wniosek: najbardziej złożone i całościowe spojrzenie na osobowość, nawet jeśli założenia okazały się błędne. Teorię najlepiej weryfikować element po elemencie.",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-53",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Student ma ochotę ściągać na egzaminie, ale blokuje ten impuls z obawy przed przyłapaniem i postanawia lepiej się przygotować. Działa tu przede wszystkim:"
+      ],
+      "correct": [
+        "ego"
+      ],
+      "distractors": [
+        "id",
+        "superego",
+        "libido",
+        "ideał ego",
+        "nieświadomość",
+        "popęd samozachowawczy",
+        "Eros"
+      ],
+      "explanation": "Ego, kierując się zasadą realności, blokuje impuls id (ryzyko przyłapania) i zastępuje go działaniem bez negatywnych konsekwencji.",
+      "sourceExcerpt": "Przykład ego: blokuje impuls ściągania na egzaminie (ryzyko przyłapania) i zastępuje go postanowieniem lepszego przygotowania.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-54",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Chęć natychmiastowego zjedzenia całego tortu bez względu na dietę i konsekwencje to głos:"
+      ],
+      "correct": [
+        "id"
+      ],
+      "distractors": [
+        "ego",
+        "superego",
+        "ideału ego",
+        "sumienia",
+        "zasady realności",
+        "przedświadomości",
+        "mechanizmu obronnego"
+      ],
+      "explanation": "Id działa według zasady przyjemności: chce natychmiastowego zaspokojenia bez względu na realia, moralność i konsekwencje.",
+      "sourceExcerpt": "Id | Zasada przyjemności | Irracjonalne, impulsywne; chce natychmiastowego zaspokojenia (seksualnego, fizycznego, emocjonalnego) bez względu na realia, moralność i konsekwencje.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-55",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Poczucie winy po skłamaniu, nawet gdy nikt się o kłamstwie nie dowiedział, pochodzi od:"
+      ],
+      "correct": [
+        "superego"
+      ],
+      "distractors": [
+        "id",
+        "ego",
+        "libido",
+        "Erosa",
+        "popędu samozachowawczego",
+        "zasady realności",
+        "przedświadomości"
+      ],
+      "explanation": "Superego to zinternalizowane wartości i postawy moralne, zbliżone do sumienia; karze poczuciem winy niezależnie od obecności innych.",
+      "sourceExcerpt": "Superego | Wartości jednostki, w tym wyuczone postawy moralne; ≈ sumienie | Nakazy i zakazy.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-56",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Superego kształtuje się, gdy:"
+      ],
+      "correct": [
+        "dziecko przyjmuje jako własne zakazy rodziców i dorosłych",
+        "dziecko internalizuje nakazy i zakazy rodziców"
+      ],
+      "distractors": [
+        "niemowlę zostaje odstawione od piersi",
+        "dziecko kończy trening czystości",
+        "pojawiają się pierwsze popędy seksualne",
+        "człowiek osiąga dojrzałość płciową",
+        "ego zaczyna działać według zasady realności",
+        "dziecko po raz pierwszy doświadcza lęku",
+        "jednostka przechodzi stadium genitalne"
+      ],
+      "explanation": "Superego powstaje, gdy dziecko przyjmuje jako własne zakazy rodziców i dorosłych; zawiera ideał ego.",
+      "sourceExcerpt": "Superego: Powstaje, gdy dziecko przyjmuje jako własne zakazy rodziców i dorosłych; zawiera ideał ego (kim powinienem się stać).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-57",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Składnik superego określający, kim człowiek powinien się stać, to:"
+      ],
+      "correct": [
+        "ideał ego"
+      ],
+      "distractors": [
+        "sumienie",
+        "id",
+        "ego",
+        "libido",
+        "treść ukryta",
+        "zasada realności",
+        "autoschemat"
+      ],
+      "explanation": "Superego zawiera ideał ego: obraz tego, kim powinienem się stać.",
+      "sourceExcerpt": "zawiera ideał ego (kim powinienem się stać); często w konflikcie z id",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-58",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Zasada realności, według której działa ego, polega na:"
+      ],
+      "correct": [
+        "zaspokajaniu id tak, by uniknąć negatywnych konsekwencji",
+        "godzeniu id z superego z uwzględnieniem rzeczywistości"
+      ],
+      "distractors": [
+        "natychmiastowym zaspokajaniu wszystkich popędów id",
+        "bezwzględnym przestrzeganiu nakazów moralnych superego",
+        "wypieraniu wszystkich pragnień do nieświadomości",
+        "unikaniu wszelkich kontaktów z zewnętrzną rzeczywistością",
+        "całkowitym podporządkowaniu id nakazom superego",
+        "maksymalizowaniu przyjemności za wszelką cenę",
+        "trwałym tłumieniu libido i popędu samozachowawczego"
+      ],
+      "explanation": "Ego ma świadome przekonania o przyczynach i skutkach; wybiera działania zaspokajające id bez negatywnych konsekwencji i szuka kompromisu id–superego.",
+      "sourceExcerpt": "Ego | Zasada realności | Świadome przekonania o przyczynach i skutkach; wybiera działania zaspokajające id bez negatywnych konsekwencji; szuka kompromisu id–superego.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-59",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Im silniejsze są naciski id i superego, tym ego:"
+      ],
+      "correct": [
+        "trudniej znaleźć optymalny kompromis",
+        "ma trudniejsze zadanie mediacji"
+      ],
+      "distractors": [
+        "łatwiej zaspokaja oba naraz",
+        "staje się silniejsze i stabilniejsze",
+        "szybciej przechodzi na zasadę przyjemności",
+        "rzadziej używa mechanizmów obronnych",
+        "mniej odczuwa lęk",
+        "łatwiej ignoruje rzeczywistość",
+        "przejmuje funkcje superego"
+      ],
+      "explanation": "Im silniejsze naciski id i superego, tym trudniej ego o optymalny kompromis.",
+      "sourceExcerpt": "Im silniejsze naciski id i superego, tym trudniej ego o optymalny kompromis.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-60",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Różnice osobowościowe między ludźmi wynikają według Freuda z:"
+      ],
+      "correct": [
+        "różnych sposobów radzenia sobie z popędami w walce id z superego",
+        "tego, jak ego godzi id z superego"
+      ],
+      "distractors": [
+        "różnej budowy ciała i konstytucji fizycznej",
+        "różnic w inteligencji i zdolnościach",
+        "wyłącznie z wychowania w okresie latencji",
+        "liczby i rozmieszczenia stref erogennych",
+        "siły samego id, niezależnie od ego",
+        "różnic w budowie i wielkości mózgu",
+        "jakości relacji z rówieśnikami w dzieciństwie"
+      ],
+      "explanation": "Różnice osobowościowe wynikają z różnych sposobów radzenia sobie z popędami – z nieustannej walki id i superego, w której pośredniczy ego.",
+      "sourceExcerpt": "Różnice osobowościowe wynikają z różnych sposobów radzenia sobie z popędami – z nieustannej walki id i superego, w której pośredniczy ego.",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-61",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Osoba, która po utracie pracy zaczyna zachowywać się dziecinnie i oczekuje, że rodzice będą ją wyręczać, stosuje:"
+      ],
+      "correct": [
+        "regresję"
+      ],
+      "distractors": [
+        "wyparcie",
+        "projekcję",
+        "sublimację",
+        "przemieszczenie",
+        "racjonalizację",
+        "zaprzeczanie",
+        "reakcję upozorowaną"
+      ],
+      "explanation": "Regresja: cofnięcie się do wcześniejszych faz rozwoju – bardziej dziecinne reakcje, niższe aspiracje.",
+      "sourceExcerpt": "Regresja | Cofnięcie się do wcześniejszych faz rozwoju – bardziej dziecinne reakcje, niższe aspiracje",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-62",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Student, który oblał egzamin, tłumaczy, że ten przedmiot i tak nie ma znaczenia dla jego kariery. To:"
+      ],
+      "correct": [
+        "racjonalizacja"
+      ],
+      "distractors": [
+        "projekcja",
+        "wyparcie",
+        "zaprzeczanie",
+        "sublimacja",
+        "przemieszczenie",
+        "regresja",
+        "izolacja"
+      ],
+      "explanation": "Racjonalizacja: wykazywanie, że własne zachowania (lub porażki) są „racjonalne” i uzasadnione.",
+      "sourceExcerpt": "Racjonalizacja | Wykazywanie, że własne zachowania są „racjonalne” i uzasadnione",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-63",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Osoba przekształca niezaspokojone pragnienia seksualne w intensywną, cenioną społecznie pracę artystyczną. To:"
+      ],
+      "correct": [
+        "sublimacja"
+      ],
+      "distractors": [
+        "przemieszczenie",
+        "projekcja",
+        "fantazjowanie",
+        "reakcja upozorowana",
+        "regresja",
+        "racjonalizacja",
+        "identyfikacja"
+      ],
+      "explanation": "Sublimacja: przepracowanie niezaspokojonych pragnień seksualnych w nieseksualnych czynnościach akceptowanych kulturowo.",
+      "sourceExcerpt": "Sublimacja | Przepracowanie niezaspokojonych pragnień seksualnych w nieseksualnych czynnościach akceptowanych kulturowo",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-64",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Ktoś, kto sam odczuwa niechęć do kolegi, jest przekonany, że to kolega go nie lubi. To:"
+      ],
+      "correct": [
+        "projekcja"
+      ],
+      "distractors": [
+        "przemieszczenie",
+        "reakcja upozorowana",
+        "racjonalizacja",
+        "zaprzeczanie",
+        "wyparcie",
+        "izolacja",
+        "identyfikacja"
+      ],
+      "explanation": "Projekcja: przypisywanie innym własnych „zakazanych” uczuć lub pragnień.",
+      "sourceExcerpt": "Projekcja | Przerzucanie winy za własne trudności na innych lub przypisywanie innym własnych „zakazanych” pragnień",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-65",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Pacjent, który usłyszał poważną diagnozę, zachowuje się, jakby choroba nie istniała, i nie podejmuje leczenia. To:"
+      ],
+      "correct": [
+        "zaprzeczanie"
+      ],
+      "distractors": [
+        "izolacja",
+        "racjonalizacja",
+        "regresja",
+        "projekcja",
+        "fantazjowanie",
+        "sublimacja",
+        "przemieszczenie"
+      ],
+      "explanation": "Zaprzeczanie rzeczywistości: ochrona Ja przed nieprzyjemną rzeczywistością przez odmowę jej spostrzegania.",
+      "sourceExcerpt": "Zaprzeczanie rzeczywistości | Ochrona Ja przed nieprzyjemną rzeczywistością przez odmowę jej spostrzegania",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-66",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Lekarz, który mówi o śmierci pacjenta beznamiętnie, oddzielając emocje od faktów, stosuje:"
+      ],
+      "correct": [
+        "izolację (segmentację)",
+        "izolację"
+      ],
+      "distractors": [
+        "zaprzeczanie",
+        "wyparcie",
+        "racjonalizację",
+        "projekcję",
+        "sublimację",
+        "regresję",
+        "przemieszczenie"
+      ],
+      "explanation": "Izolacja (segmentacja): oddzielenie ładunku emocjonalnego od bolesnych sytuacji.",
+      "sourceExcerpt": "Izolacja (segmentacja) | Oddzielenie ładunku emocjonalnego od bolesnych sytuacji lub trzymanie sprzecznych postaw w osobnych „przegródkach”",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-67",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Osoba, która nie dostała się na wymarzone studia, godzinami wyobraża sobie siebie jako sławnego lekarza. To:"
+      ],
+      "correct": [
+        "fantazjowanie"
+      ],
+      "distractors": [
+        "sublimacja",
+        "identyfikacja",
+        "projekcja",
+        "regresja",
+        "racjonalizacja",
+        "zaprzeczanie",
+        "reakcja upozorowana"
+      ],
+      "explanation": "Fantazjowanie: zaspokajanie niezaspokojonych pragnień w wyobraźni (marzenia na jawie).",
+      "sourceExcerpt": "Fantazjowanie | Zaspokajanie niezaspokojonych pragnień w wyobraźni (np. marzenia na jawie)",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-68",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Kibic, który czuje się wartościowszy dzięki sukcesom swojego klubu i mówi o nich „my wygraliśmy”, stosuje:"
+      ],
+      "correct": [
+        "identyfikację"
+      ],
+      "distractors": [
+        "projekcję",
+        "fantazjowanie",
+        "sublimację",
+        "przemieszczenie",
+        "racjonalizację",
+        "izolację",
+        "regresję"
+      ],
+      "explanation": "Identyfikacja: podnoszenie poczucia wartości przez utożsamianie się z inną, często wybitną osobą lub instytucją.",
+      "sourceExcerpt": "Identyfikacja | Podnoszenie poczucia wartości przez utożsamianie się z inną, często wybitną osobą lub instytucją",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-69",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Mężczyzna nie jest w stanie przypomnieć sobie traumatycznego wypadku z dzieciństwa, choć był wtedy przytomny. Przejawia:"
+      ],
+      "correct": [
+        "wyparcie"
+      ],
+      "distractors": [
+        "zaprzeczanie",
+        "izolację",
+        "regresję",
+        "projekcję",
+        "racjonalizację",
+        "sublimację",
+        "fantazjowanie"
+      ],
+      "explanation": "Wyparcie usuwa bolesne lub zagrażające myśli i wspomnienia ze świadomości; ego nie jest świadome ani treści, ani samego procesu.",
+      "sourceExcerpt": "Wyparcie – skrajne pragnienia są wypychane ze świadomości do nieświadomości; chroni przed skrajnym lękiem lub poczuciem winy. Ego pozostaje nieświadome zarówno wypartej treści, jak i samego procesu wyparcia.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-70",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "rozdzial-13",
+      "stems": [
+        "Sygnałem alarmowym, że wyparcie przestało działać i uruchamia się druga linia obrony (dodatkowe mechanizmy), jest:"
+      ],
+      "correct": [
+        "lęk"
+      ],
+      "distractors": [
+        "regresja",
+        "fiksacja",
+        "pomyłka freudowska",
+        "sen",
+        "sublimacja",
+        "treść jawna",
+        "libido"
+      ],
+      "explanation": "Lęk to intensywna reakcja na to, że wyparty konflikt chce przedrzeć się do świadomości; sygnalizuje, że wyparcie nie działa.",
+      "sourceExcerpt": "Lęk – intensywna reakcja emocjonalna, gdy wyparty konflikt chce przedrzeć się do świadomości. Sygnał alarmowy: wyparcie nie działa → uruchamia się druga linia obrony (dodatkowe mechanizmy).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     }
   ]
 }

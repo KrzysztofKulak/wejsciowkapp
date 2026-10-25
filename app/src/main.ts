@@ -1,5 +1,5 @@
 import "./style.css";
-import type { Answered, ChapterFile, Index, IndexBook, Question, Rendered } from "./types";
+import type { Answered, ChapterFile, Index, IndexBook, IndexExam, Question, Rendered } from "./types";
 import { LABELS, assembleOptions, mulberry32, randomSeed, sampleQuestions } from "./quiz";
 
 const BASE = import.meta.env.BASE_URL;
@@ -8,7 +8,7 @@ const app = document.getElementById("app")!;
 // ---------- persistence (localStorage, always guarded) ----------
 const LS_SEL = "wejsciowka.selection";
 const LS_MISS = "wejsciowka.misses";
-type Selection = { chapters: string[]; count: number; weak: boolean; fun?: boolean };
+type Selection = { chapters: string[]; exams?: string[]; count: number; weak: boolean; fun?: boolean };
 
 // "Wzmocnione metody nauki": reaction media shown after each answer.
 const SAD_MEDIA = [
@@ -133,6 +133,8 @@ function setupView(error?: string) {
   const saved = lsGet<Selection>(LS_SEL, { chapters: [], count: 10, weak: false, fun: true });
   const available = new Set(index.books.flatMap((b) => b.chapters.map((c) => `${b.id}/${c.id}`)));
   const selected = new Set(saved.chapters.filter((k) => available.has(k)));
+  const exams: IndexExam[] = index.exams ?? [];
+  const selectedExams = new Set((saved.exams ?? []).filter((id) => exams.some((e) => e.id === id)));
   const misses = lsGet<MissStats>(LS_MISS, {});
   const hasStats = Object.keys(misses).length > 0;
 
@@ -148,7 +150,8 @@ function setupView(error?: string) {
   function availableCount() {
     let n = 0;
     for (const b of index.books) for (const c of b.chapters) if (selected.has(`${b.id}/${c.id}`)) n += c.questionCount;
-    return n;
+    for (const e of exams) if (selectedExams.has(e.id)) n += e.questionCount;
+    return n; // upper bound: a tagged question also in a selected chapter is deduplicated at start
   }
   function refresh() {
     const max = availableCount();
@@ -204,13 +207,21 @@ function setupView(error?: string) {
 
   async function start() {
     const chapters = [...selected];
-    const sel: Selection = { chapters, count: Number(range.value), weak: weakChk.checked, fun: funChk.checked };
+    const chosenExams = exams.filter((e) => selectedExams.has(e.id));
+    const sel: Selection = { chapters, exams: chosenExams.map((e) => e.id), count: Number(range.value), weak: weakChk.checked, fun: funChk.checked };
     lsSet(LS_SEL, sel);
     startBtn.disabled = true;
     startBtn.textContent = "Ładowanie…";
     try {
       const files = await Promise.all(chapters.map((k) => loadChapter(...(k.split("/") as [string, string]))));
-      const pool = files.flatMap((f) => f.questions.filter((q) => q.status === "ok"));
+      const poolMap = new Map<string, Question>();
+      for (const q of files.flatMap((f) => f.questions)) if (q.status === "ok") poolMap.set(q.id, q);
+      // "Zaliczenia": questions grouped by tag across sources
+      for (const e of chosenExams) {
+        const srcFiles = await Promise.all(e.sources.map((src) => loadChapter(src.bookId, src.chapterId)));
+        for (const q of srcFiles.flatMap((f) => f.questions)) if (q.status === "ok" && q.tags?.includes(e.tag)) poolMap.set(q.id, q);
+      }
+      const pool = [...poolMap.values()];
       const { seed, rng } = makeRng();
       const weight = sel.weak ? (q: Question) => 1 + 3 * (misses[q.id]?.missed ?? 0) + (misses[q.id] ? 0 : 1) : undefined;
       const qs = sampleQuestions(pool, sel.count, rng, weight);
@@ -220,10 +231,23 @@ function setupView(error?: string) {
     }
   }
 
+  function examNode(e: IndexExam) {
+    const inp = h("input", { type: "checkbox", checked: selectedExams.has(e.id) }) as HTMLInputElement;
+    inp.addEventListener("change", () => {
+      if (inp.checked) selectedExams.add(e.id);
+      else selectedExams.delete(e.id);
+      refresh();
+    });
+    return h("label", { class: "chk" }, inp, h("span", {}, e.title), h("span", { class: "count" }, `${e.questionCount} pyt.`));
+  }
+
   render(
     h("div", { class: "topbar" }, h("span", { class: "title" }, "🧠 Wejściówka"), h("span", { class: "muted" }, `${index.books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} pytań w bazie`)),
     error ? h("p", { class: "error" }, error) : "",
     h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zakres"), ...index.books.map(bookNode)),
+    exams.length
+      ? h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zaliczenia"), h("p", { class: "muted", style: "margin-top:-4px" }, "Pytania zebrane pod kątem konkretnego zaliczenia, niezależnie od źródła."), ...exams.map(examNode))
+      : "",
     h(
       "div",
       { class: "card" },

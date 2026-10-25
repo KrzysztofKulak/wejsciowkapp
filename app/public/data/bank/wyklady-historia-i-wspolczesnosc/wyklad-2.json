@@ -1,0 +1,252 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-2",
+  "chapterTitle": "Wykład 2: Pytania, jakie stawia psychologia",
+  "sourceHash": "1a08dc3e87befb1de2b3e48a7376cbdbc51d215f",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Autorka „The Nurture Assumption”, nagrodzona przez APA za wykazanie, że wpływ rodziców na dzieci jest de facto pomijalny, to:"
+      ],
+      "correct": [
+        "Judith Rich Harris"
+      ],
+      "distractors": [
+        "Rosalind Franklin",
+        "Patricia Cohen",
+        "Ellen Langer",
+        "Anna Freud",
+        "Mary Ainsworth",
+        "Carol Dweck",
+        "Elizabeth Loftus"
+      ],
+      "explanation": "Judith Rich Harris otrzymała nagrodę APA za „The Nurture Assumption”.",
+      "sourceExcerpt": "Judith Rich Harris - nagroda APA za udowodnienie, że wpływ rodziców na dzieci jest de facto pomijalny. „The Nurture Assumption”.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Badania nad bliźniętami rozdzielonymi na wiele lat pokazały, że były one:"
+      ],
+      "correct": [
+        "bardziej podobne do siebie nawzajem niż do osób, z którymi się wychowały",
+        "podobniejsze do siebie niż do rodzin, które je wychowały"
+      ],
+      "distractors": [
+        "bardziej podobne do rodzin, w których dorastały, niż do siebie",
+        "zupełnie niepodobne ani do siebie, ani do swoich rodzin",
+        "podobne tylko pod względem wyglądu, nie cech psychicznych",
+        "podobne wyłącznie, jeśli rozdzielono je po okresie dojrzewania",
+        "tak samo podobne do siebie, jak do przybranych rodzin",
+        "podobne do siebie wyłącznie pod względem inteligencji",
+        "mniej podobne do siebie niż losowo dobrane osoby"
+      ],
+      "explanation": "Badania na bliźniętach wskazują na większy wpływ genów niż środowiska: bliźnięta rozdzielone na 78 lat były bardziej podobne do siebie niż do ludzi, z którymi się wychowały.",
+      "sourceExcerpt": "Badania na bliźniętach: generalnie większy wpływ genów niż środowiska. Bliźnięta rozdzielone na 78 lat były bardziej podobne do siebie, niż do ludzi, z którymi się wychowały.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Polski badacz odziedziczalności cech temperamentu to:"
+      ],
+      "correct": [
+        "Jan Strelau"
+      ],
+      "distractors": [
+        "Kazimierz Twardowski",
+        "Bogdan Wojciszke",
+        "Dariusz Doliński",
+        "Władysław Witwicki",
+        "Tadeusz Tomaszewski",
+        "Jerzy Brzeziński",
+        "Janusz Reykowski"
+      ],
+      "explanation": "Jan Strelau badał odziedziczalność cech temperamentu; udaje się już wskazywać fragmenty genomu odpowiedzialne za poszczególne cechy.",
+      "sourceExcerpt": "Jan Strelau - badania nad odziedziczalnością cech temperamentu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W porównaniu z osobowością temperament jest:"
+      ],
+      "correct": [
+        "bardziej stały"
+      ],
+      "distractors": [
+        "mniej stały",
+        "w pełni środowiskowy",
+        "kształtowany dopiero w dorosłości",
+        "niezależny od genów",
+        "łatwiejszy do zmiany",
+        "trudniejszy do zmierzenia",
+        "mniej dziedziczny"
+      ],
+      "explanation": "Temperament jest bardziej stały niż osobowość; w dużej części jest dziedziczny.",
+      "sourceExcerpt": "Temperament jest bardziej stały niż osobowość.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Psychiatra, który w pracy „Budowa ciała i charakter” wiązał typy budowy ciała (asteniczny, atletyczny, pykniczny, dysplastyczny) ze skłonnością do zaburzeń, to:"
+      ],
+      "correct": [
+        "Ernst Kretschmer"
+      ],
+      "distractors": [
+        "Kurt Lewin",
+        "Jan Strelau",
+        "Hans Eysenck",
+        "William Sheldon",
+        "Emil Kraepelin",
+        "Carl Jung",
+        "Hipokrates"
+      ],
+      "explanation": "Kretschmer wierzył, że budowa ciała przewiduje charakter; był też eugenikiem.",
+      "sourceExcerpt": "Ernst Kretschmer - pionierskie badania z dziedziny psychiatrii („Budowa ciała i charakter”), wierzył, że budowa ciała przewiduje charakter. Definiował cztery typy: asteniczny, atletyczny, pykniczny, dysplastyczny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Według Kretschmera skłonność do choroby dwubiegunowej miał typ:"
+      ],
+      "correct": [
+        "pykniczny"
+      ],
+      "distractors": [
+        "asteniczny",
+        "atletyczny",
+        "dysplastyczny",
+        "leptosomiczny",
+        "ektomorficzny",
+        "mezomorficzny",
+        "choleryczny"
+      ],
+      "explanation": "Kretschmer przypisywał typowi pyknicznemu chorobę dwubiegunową, a pozostałym typom schizofrenię.",
+      "sourceExcerpt": "Przypisywał im skłonności do zaburzeń: pykniczny - choroba dwubiegunowa, pozostałe - schizofrenia.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Główny błąd metodologiczny Kretschmera polegał na tym, że:"
+      ],
+      "correct": [
+        "nie uwzględnił wieku badanych, który wiąże się z budową ciała i zachorowaniem",
+        "pominął wiek: młodsi są szczuplejsi i częściej zapadają na schizofrenię"
+      ],
+      "distractors": [
+        "badał wyłącznie kobiety, pomijając zupełnie mężczyzn",
+        "oparł się na zbyt dużej i zróżnicowanej próbie",
+        "nie opublikował wyników swoich badań w czasopismach",
+        "mierzył budowę ciała dopiero po zakończeniu leczenia",
+        "badał wyłącznie osoby zdrowe psychicznie, bez pacjentów",
+        "pominął w klasyfikacji typ dysplastyczny i atletyczny",
+        "nie rozróżniał schizofrenii od choroby dwubiegunowej"
+      ],
+      "explanation": "Ludzie młodsi są zwykle szczuplejsi, a schizofrenia pojawia się u osób młodszych, więc związek budowy ciała z chorobą był zapośredniczony przez wiek.",
+      "sourceExcerpt": "Nie uwzględnił wieku osób badanych, a ludzie młodsi są zwykle szczuplejsi, a schizofrenia pojawia się u osób młodszych.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Równanie Kurta Lewina B = f(p, e) głosi, że zachowanie jest funkcją:"
+      ],
+      "correct": [
+        "osoby i środowiska",
+        "cech osoby i jej otoczenia"
+      ],
+      "distractors": [
+        "genów i temperamentu",
+        "bodźca i reakcji",
+        "popędu i hamowania",
+        "przeszłości i przyszłości",
+        "osobowości i inteligencji",
+        "percepcji i emocji",
+        "nagrody i kary"
+      ],
+      "explanation": "Kurt Lewin badał, skąd bierze się zachowanie człowieka: B = f(p, e), zachowanie jako funkcja osoby i środowiska.",
+      "sourceExcerpt": "Kurt Lewin - badał skąd bierze się zachowanie człowieka. Równanie Lewina: B = f(p, e).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Eksperyment „uliczny” Johna Voyevodsky'ego (San Francisco, 1974) pokazał, że dodatkowy znak stopu:"
+      ],
+      "correct": [
+        "zmniejszył liczbę wypadków, obrażenia kierowców i koszty napraw",
+        "wyraźnie ograniczył wypadki i ich skutki"
+      ],
+      "distractors": [
+        "nie miał wpływu na liczbę wypadków",
+        "zwiększył liczbę wypadków przez dezorientację kierowców",
+        "zmniejszył wypadki, ale zwiększył koszty napraw",
+        "działał wyłącznie w godzinach nocnych",
+        "zwiększył prędkość przejazdu przez skrzyżowanie",
+        "skrócił czas reakcji kierowców bez wpływu na wypadki",
+        "pogorszył płynność ruchu bez zmiany bezpieczeństwa"
+      ],
+      "explanation": "Dodatkowy stop zmniejszył częstotliwość wypadków, obrażenia kierowców i koszty napraw o około 60%.",
+      "sourceExcerpt": "John Voyevodsky - eksperyment „uliczny” w 1974 San Francisco - dodatkowy stop zmniejszył częstotliwość wypadków, obrażenia kierowców i koszty napraw o 60%.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Badaczka, której zdjęcia rentgenowskie umożliwiły odkrycie podwójnej helisy DNA, pominięta przy Nagrodzie Nobla, to:"
+      ],
+      "correct": [
+        "Rosalind Franklin"
+      ],
+      "distractors": [
+        "Judith Rich Harris",
+        "Marie Curie",
+        "Barbara McClintock",
+        "Lise Meitner",
+        "Dorothy Hodgkin",
+        "Patricia Cohen",
+        "Jocelyn Bell"
+      ],
+      "explanation": "Rosalind Franklin zrobiła i opisała zdjęcia, które umożliwiły odkrycie; zmarła na raka przez ekspozycję na promieniowanie i została pominięta przy Noblu.",
+      "sourceExcerpt": "Rosalind Franklin - Pracowała nad odkryciem podwójnej helisy DNA (zrobiła i opisała zdjęcia, które umożliwiły odkrycie), ale umarła na raka przez ekspozycje na rentgena w trakcie pracy. Została pominięta przy nagrodzie Nobla.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

@@ -27,7 +27,11 @@ function blk(rm: RecordMap, id: string): Block | undefined {
 
 const root = resolve(import.meta.dirname, "..");
 const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8"));
-const urls: string[] = config.sources ?? (config.notionUrl ? [config.notionUrl] : []);
+type Source = { url: string; title?: string; id?: string };
+/** `sources` entries are URLs or { url, title?, id? }. `title` replaces the page title (used as the
+ *  fallback book title) and `id` names the output file; both are needed when two pages share a title. */
+const sources: Source[] = (config.sources ?? (config.notionUrl ? [config.notionUrl] : [])).map((x: string | Source) => (typeof x === "string" ? { url: x } : x));
+const urls = sources.map((s) => s.url);
 if (!urls.length) {
   console.error("quiz.config.json: `sources` is empty");
   process.exit(1);
@@ -226,15 +230,16 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
 }
 
 mkdirSync(resolve(root, "source"), { recursive: true });
-for (const url of urls) {
-  const pageId = pageIdFromUrl(url);
+for (const src of sources) {
+  const pageId = pageIdFromUrl(src.url);
   out = [];
   headings = 0;
   visitedPages.clear();
   await renderPage(withDashes(pageId), 0, false);
+  if (src.title) out[0] = `# ${src.title}`;
   const md = out.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
   const title = md.split("\n")[0].replace(/^#\s*/, "");
-  const dest = resolve(root, `source/${slugify(title) || pageId}.md`);
+  const dest = resolve(root, `source/${src.id ?? slugify(title) ?? pageId}.md`);
   writeFileSync(dest, md);
   const words = md.split(/\s+/).filter(Boolean).length;
   console.log(`Wrote ${dest}: ${headings} headings, ${words} words`);

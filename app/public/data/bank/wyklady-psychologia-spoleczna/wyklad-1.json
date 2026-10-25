@@ -1,12 +1,12 @@
 {
-  "bookId": "wyklady",
+  "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-1",
   "chapterTitle": "Wykład 1 – Czym jest psychologia społeczna",
   "sourceHash": "6283e3f7d038f0c1119643cc127a202b52ed32b4",
   "questions": [
     {
-      "id": "wyklady-wyklad-1-01",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-01",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Nauka o tym, jak ludzie wpływają na myśli, emocje i zachowania innych ludzi, to:"
@@ -29,8 +29,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-02",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-02",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Dwie funkcje nauki omawiane w kontekście psychologii społecznej to funkcja:"
@@ -53,8 +53,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-03",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-03",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Funkcja predykcyjna psychologii jest niedeterministyczna, ponieważ psychologia jest nauką:"
@@ -77,8 +77,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-04",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-04",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Perspektywa teoretyczna pytająca „co pomagało przetrwać?” i korzystająca z obserwacji zwierząt (np. hipoteza kompromisu poznawczego) to perspektywa:"
@@ -101,8 +101,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-05",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-05",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Perspektywa pytająca, jak rozumieć zachowania wynikające z kultury, to perspektywa:"
@@ -125,8 +125,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-06",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-06",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Nurt zakładający, że trzeba zrozumieć, jak człowiek poznaje, rozumie i zapamiętuje, to:"
@@ -150,8 +150,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-07",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-07",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Głównym problemem badań korelacyjnych jest to, że:"
@@ -175,8 +175,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-08",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-08",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Zjawisko statystyczne polegające na tym, że po ekstremalnym wyniku pomiaru kolejny pomiar jest zazwyczaj bliższy średniej, to:"
@@ -199,8 +199,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-09",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-09",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Metoda badawcza, w której osoby badane nie wiedzą, że są badane, to:"
@@ -223,8 +223,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-10",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-10",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Za główne źródło wiedzy psychologicznej uznaje się:"
@@ -247,8 +247,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-11",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-11",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Metoda, w której badacz sam uczestniczy w obserwowanym zjawisku, to:"
@@ -271,8 +271,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-12",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-12",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Stanfordzki eksperyment więzienny Philipa Zimbardo określa się raczej jako:"
@@ -295,8 +295,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-13",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-13",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Organizacja naszych uprzednich doświadczeń z określonym rodzajem zdarzeń, osób lub obiektów to:"
@@ -319,8 +319,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-14",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-14",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Standardowa, odruchowo podawana reprezentacja pojęcia (drozd jest „bardziej ptakiem” niż kura, a kura bardziej niż struś) to:"
@@ -344,8 +344,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-15",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-15",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Umysłowa reprezentacja zdarzeń, działań lub ich ciągów, która zniekształca pamięć przez fałszywe alarmy i pominięcia, to:"
@@ -368,8 +368,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-16",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-16",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Badani układający słowa kojarzące się ze starością szli potem wolniej niż ci, którym przypominano o młodości. To przykład:"
@@ -392,8 +392,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-17",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-17",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Czytanie książki ekonomicznej przed oceną polityka sprawia, że skupiamy się na jego programie gospodarczym. To przykład:"
@@ -416,8 +416,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-1-18",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-18",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1",
       "stems": [
         "Zgodnie z nurtem social cognition zachowanie ludzi dyktują nie tyle cechy osobowości, ile:"

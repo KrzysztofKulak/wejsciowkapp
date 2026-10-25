@@ -1,8 +1,21 @@
 {
   "sources": [
-    "https://spectacled-bookcase-f5d.notion.site/Wprowadzenie-do-psychologii-spo-ecznej-Czytanie-40075c03f28a808fafd5ea4c3d71124b",
-    "https://app.notion.com/p/Wprowadzenie-do-psychologii-Historia-i-Wsp-czesno-Czytanie-40075c03f28a8091ba1ef78c5678c3c9",
-    "https://spectacled-bookcase-f5d.notion.site/Wyk-ady-3ef75c03f28a801c8f2fedaa86d117ea"
+    {
+      "url": "https://spectacled-bookcase-f5d.notion.site/Wprowadzenie-do-psychologii-spo-ecznej-Czytanie-40075c03f28a808fafd5ea4c3d71124b"
+    },
+    {
+      "url": "https://app.notion.com/p/Wprowadzenie-do-psychologii-Historia-i-Wsp-czesno-Czytanie-40075c03f28a8091ba1ef78c5678c3c9"
+    },
+    {
+      "url": "https://spectacled-bookcase-f5d.notion.site/Wyk-ady-3ef75c03f28a801c8f2fedaa86d117ea",
+      "title": "Wykłady – Wprowadzenie do psychologii społecznej",
+      "id": "wyklady-psychologia-spoleczna"
+    },
+    {
+      "url": "https://spectacled-bookcase-f5d.notion.site/Wyk-ady-3ee75c03f28a804ea7beca7c0e99dd55",
+      "title": "Wykłady – Wprowadzenie do psychologii: Historia i współczesność",
+      "id": "wyklady-historia-i-wspolczesnosc"
+    }
   ],
   "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+)",
   "bookHeading": "h1",
@@ -10,6 +23,8 @@
   "questionsPer1000Words": 25,
   "optionsShown": 4,
   "bookAliases": {
-    "psychologia-i-zycie-freud": "psychologia-i-zycie-zimbardo"
+    "psychologia-i-zycie-freud": "psychologia-i-zycie-zimbardo",
+    "wyklady-wprowadzenie-do-psychologii-spolecznej": "wyklady-psychologia-spoleczna",
+    "wyklady-wprowadzenie-do-psychologii-historia-i-wspolczesnosc": "wyklady-historia-i-wspolczesnosc"
   }
 }

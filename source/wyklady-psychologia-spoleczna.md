@@ -1,4 +1,4 @@
-# Wykłady
+# Wykłady – Wprowadzenie do psychologii społecznej
 
 # Wykład 1 – Czym jest psychologia społeczna
 

@@ -9,6 +9,8 @@ export type Question = {
   sourceExcerpt: string;
   difficulty: 1 | 2 | 3;
   status: "ok" | "flagged";
+  /** Free-form tags, e.g. "wejściówka 1: historia i współczesność". Exams in index.json group by tag. */
+  tags?: string[];
 };
 
 export type ChapterFile = {
@@ -21,7 +23,9 @@ export type ChapterFile = {
 
 export type IndexChapter = { id: string; title: string; questionCount: number };
 export type IndexBook = { id: string; title: string; chapters: IndexChapter[] };
-export type Index = { books: IndexBook[] };
+export type IndexExamSource = { bookId: string; chapterId: string; questionCount: number };
+export type IndexExam = { id: string; title: string; tag: string; questionCount: number; sources: IndexExamSource[] };
+export type Index = { books: IndexBook[]; exams?: IndexExam[] };
 
 export type Rng = () => number;
 

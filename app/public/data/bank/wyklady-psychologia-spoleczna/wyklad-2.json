@@ -1,12 +1,12 @@
 {
-  "bookId": "wyklady",
+  "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-2",
   "chapterTitle": "Wykład 2",
   "sourceHash": "909b11d82444b15151bd80022cd0e59e81722566",
   "questions": [
     {
-      "id": "wyklady-wyklad-2-01",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-01",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Koncepcja motywacji kompetencji, według której rozwój polega na poszerzaniu sfer wpływu w środowisku, a skuteczność jest esencją rozwoju osobowości, pochodzi od:"
@@ -29,8 +29,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-02",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-02",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Koncepcja, według której człowiek może być w danej sytuacji „źródłem” (to od niego zależy, co się dzieje) albo „pionkiem” (inni wyznaczają jego drogę), to koncepcja:"
@@ -53,8 +53,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-03",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-03",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W koncepcji źródła i pionka poczucie bycia źródłem lub pionkiem:"
@@ -78,8 +78,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-04",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-04",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Przekonanie o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień to pojęcie wprowadzone przez:"
@@ -102,8 +102,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-05",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-05",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Przekonanie „nic ode mnie nie zależy” odpowiada:"
@@ -127,8 +127,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-06",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-06",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W badaniu Langer i Rodin w domu starców grupa, która mogła wpływać na swój los (wybór mebli, opieka nad rośliną, wybór filmów):"
@@ -152,8 +152,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-07",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-07",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W badaniu Langer i Rodin grupa otoczona pełnym komfortem, ale pozbawiona wpływu na swój los, w porównaniu z grupą kontrolną:"
@@ -177,8 +177,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-08",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-08",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Zarówno tendencja do osiągania sukcesu (Ts), jak i tendencja do unikania porażek (Tp) osiągają maksimum przy zadaniach:"
@@ -202,8 +202,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-09",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-09",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W modelu motywacji osiągnięć wartość sukcesu (Ws) jest:"
@@ -227,8 +227,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-10",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-10",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W modelu tendencji do unikania porażek poczucie klęski po niepowodzeniu jest tym większe, im:"
@@ -252,8 +252,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-11",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-11",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Zjawisko, w którym ludzie rzucają kostką z większą siłą, gdy chcą wyrzucić wyższą liczbę, to:"
@@ -276,8 +276,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-12",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-12",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Tendencja do postrzegania zdarzeń losowych jako nie w pełni losowych i zakładania własnego wpływu na wynik gier losowych to:"
@@ -300,8 +300,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-13",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-13",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Zgodnie z rozumowaniem analogicznym do zakładu Pascala Ellen Langer twierdzi, że ludzie:"
@@ -325,8 +325,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-14",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-14",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Poczucie sprawstwa kształtuje się przez doświadczanie własnej skuteczności oraz:"
@@ -349,8 +349,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-15",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-15",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W pierwotnym paradygmacie wyuczonej bezradności Seligmana faza testowa polega na umieszczeniu psa w:"
@@ -373,8 +373,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-16",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-16",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W eksperymencie z 24 psami grupa bez możliwości ucieczki otrzymywała wstrząsy:"
@@ -398,8 +398,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-17",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-17",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Trzy rodzaje deficytów bezradnościowych to deficyty:"
@@ -422,8 +422,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-18",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-18",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Deficyt bezradnościowy polegający na niezdolności dostrzeżenia związku między reakcją a wzmocnieniem to deficyt:"
@@ -446,8 +446,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-19",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-19",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Zmniejszenie motywacji do emitowania nowych reakcji dowolnych to deficyt bezradnościowy:"
@@ -470,8 +470,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-20",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-20",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Emocjonalny deficyt bezradnościowy przebiega jako:"
@@ -494,8 +494,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-21",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-21",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W badaniu Finkelsteina i Ramey niemowlęta, których „mobile” poruszały się losowo, niezależnie od ruchów głowy:"
@@ -519,8 +519,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-22",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-22",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Według Chorpity i Barlowa wczesne doświadczenie ograniczonej kontroli sprzyja:"
@@ -544,8 +544,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-23",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-23",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Atrybucyjne ujęcie bezradności zakładało, że bezradność nie wyucza się, gdy porażkę przypisujemy pechowi. Badania empiryczne pokazały, że:"
@@ -569,8 +569,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-24",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-24",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Kofta i Sędek wyjaśniają wyuczoną bezradność przez:"
@@ -594,8 +594,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-25",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-25",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "W eksperymencie Kofty i Sędka grupa, której pokazywano zestaw symboli bez wspólnej cechy definiującej „klipca”, w kolejnym zadaniu:"
@@ -619,8 +619,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-26",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-26",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Gdy pies najpierw mógł wpływać na rażenie prądem, a dopiero potem tego nie mógł, nie przestawał próbować. Zjawisko to (Seligman i Maier) nazywa się:"
@@ -643,8 +643,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-27",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-27",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Zdolność działającego podmiotu do wywołania lub wstrzymania jakiegoś zdarzenia to w modelu Rothbauma:"
@@ -667,8 +667,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-28",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-28",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Brak wystarczalności u innych ludzi (nikt inny nie może zareagować) to w modelu Rothbauma:"
@@ -691,8 +691,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-29",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-29",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Informacja o własnej wystarczalności (np. „mam koło ratunkowe”) wpływa bardziej na sąd o:"
@@ -715,8 +715,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-30",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-30",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Rozproszenie odpowiedzialności (gdy wiele osób może zareagować, często nikt nie reaguje) wiąże się ze spostrzeganiem:"
@@ -739,8 +739,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-31",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-31",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Osoby w depresji, według modelu Rothbauma, odczuwają:"
@@ -764,8 +764,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-32",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-32",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Hipoteza, według której główną motywacją człowieka jest zminimalizowanie prawdopodobieństwa najgorszych zdarzeń, co bywa osiągane przez rezygnację z kontroli, to:"
@@ -789,8 +789,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-33",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-33",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Różnice indywidualne w nasileniu potrzeby sprawowania kontroli jako perspektywa wyjaśniająca rezygnację z kontroli wiążą się z nazwiskiem:"
@@ -813,8 +813,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-2-34",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-34",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
         "Egotystyczne podstawy rezygnacji ze sprawowania kontroli polegają na tym, że ludzie:"

@@ -12,7 +12,7 @@
         {
           "id": "rozdzial-13",
           "title": "Rozdz. 13 – Teorie psychodynamiczne (Freud), s. 578–584",
-          "questionCount": 52
+          "questionCount": 70
         }
       ]
     },
@@ -23,7 +23,7 @@
         {
           "id": "rozdzial-2",
           "title": "Rozdział 2",
-          "questionCount": 21
+          "questionCount": 31
         }
       ]
     },
@@ -44,8 +44,34 @@
       ]
     },
     {
-      "id": "wyklady",
-      "title": "Wykłady",
+      "id": "wyklady-historia-i-wspolczesnosc",
+      "title": "Wykłady – Wprowadzenie do psychologii: Historia i współczesność",
+      "chapters": [
+        {
+          "id": "wyklad-1",
+          "title": "Wykład 1: Wprowadzenie do wprowadzenia",
+          "questionCount": 4
+        },
+        {
+          "id": "wyklad-2",
+          "title": "Wykład 2: Pytania, jakie stawia psychologia",
+          "questionCount": 10
+        },
+        {
+          "id": "wyklad-3",
+          "title": "Wykład 3. Myślenie naukowe i myślenie potoczne",
+          "questionCount": 13
+        },
+        {
+          "id": "wyklad-4",
+          "title": "Wykład 4. Jak prowadzi się badania w psychologii?",
+          "questionCount": 32
+        }
+      ]
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna",
+      "title": "Wykłady – Wprowadzenie do psychologii społecznej",
       "chapters": [
         {
           "id": "wyklad-1",
@@ -66,6 +92,26 @@
           "id": "wyklad-4",
           "title": "Wykład 4 – Ja i inni. Atrybucja",
           "questionCount": 9
+        }
+      ]
+    }
+  ],
+  "exams": [
+    {
+      "id": "wejsciowka-1-historia-i-wspolczesnosc",
+      "title": "wejściówka 1: historia i współczesność",
+      "tag": "wejściówka 1: historia i współczesność",
+      "questionCount": 28,
+      "sources": [
+        {
+          "bookId": "psychologia-i-zycie-zimbardo",
+          "chapterId": "rozdzial-13",
+          "questionCount": 18
+        },
+        {
+          "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+          "chapterId": "rozdzial-2",
+          "questionCount": 10
         }
       ]
     }

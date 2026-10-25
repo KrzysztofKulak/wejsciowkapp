@@ -1,12 +1,12 @@
 {
-  "bookId": "wyklady",
+  "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-3",
   "chapterTitle": "Wykład 3 – Grupy i ich funkcjonowanie",
   "sourceHash": "c2eb319a40ec4c8c4c695a82dfb2bfd729f261e4",
   "questions": [
     {
-      "id": "wyklady-wyklad-3-01",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-01",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Co najmniej dwie osoby, które mają poczucie wzajemnej przynależności („MY”), wspólny cel oraz komunikują się i wzajemnie na siebie wpływają, to:"
@@ -29,8 +29,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-02",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-02",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Dwie osoby jadące windą nie są grupą, ale gdy winda utknie, mogą się nią stać, ponieważ:"
@@ -54,8 +54,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-03",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-03",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Partia polityczna jest przykładem grupy:"
@@ -78,8 +78,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-04",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-04",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W badaniach Newcomba z lat 30. studenci starszych lat byli znacznie bardziej liberalni niż pierwszoroczni (ulegający wpływowi rodziny), co ilustruje:"
@@ -103,8 +103,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-05",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-05",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Zdecydowana większość ludzi powiela religię:"
@@ -127,8 +127,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-06",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-06",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Osoby, które zmieniają religię, robią to głównie pod wpływem:"
@@ -151,8 +151,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-07",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-07",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Suma sił skłaniających jednostki do pozostania w grupie to:"
@@ -175,8 +175,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-08",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-08",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Spójność grupy zwiększa między innymi:"
@@ -200,8 +200,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-09",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-09",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W badaniach Turnera (chłopcy na lekcjach WF) po porażkach wyższą spójność miały grupy:"
@@ -225,8 +225,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-10",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-10",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W eksperymencie Doosje badani odczuwali wstyd i poczucie winy, gdy:"
@@ -250,8 +250,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-11",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-11",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Dla związku spójności grupy z poziomem wykonania zadań ważniejsza jest:"
@@ -275,8 +275,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-12",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-12",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W sieciach komunikacyjnych w grupie o skuteczności bardziej decyduje:"
@@ -300,8 +300,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-13",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-13",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Sieć komunikacyjna, w której jedna uprzywilejowana osoba pośredniczy w kontaktach między pozostałymi, to:"
@@ -324,8 +324,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-14",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-14",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W eksperymencie Leavitta przy zadaniach niekreatywnych najskuteczniejszą strukturą sieci była:"
@@ -348,8 +348,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-15",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-15",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W eksperymencie Leavitta struktura „pełne koło” dawała największe zadowolenie uczestników i przewagę przy zadaniach:"
@@ -372,8 +372,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-16",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-16",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Zjawisko, w którym pamięć grupy jest czymś więcej niż pamięć każdego z jej członków, a członkowie uzgadniają między sobą rzeczywistość (np. Indianie Tupi uzgadniający treść snów), to:"
@@ -396,8 +396,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-17",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-17",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Podstawowym czynnikiem decydującym, czy ktoś doświadczy PTSD po klęsce żywiołowej, jest to, czy:"
@@ -421,8 +421,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-18",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-18",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Socjobiologiczny motyw przynależności do grup polega na tym, że:"
@@ -446,8 +446,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-19",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-19",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Zadanie, w którym o wyniku grupy decyduje poziom najlepszego członka (np. wygenerowanie najlepszego pomysłu), to zadanie:"
@@ -470,8 +470,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-20",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-20",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Praca na taśmie produkcyjnej, gdzie o efektywności decyduje najsłabszy członek, to przykład zadania:"
@@ -494,8 +494,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-21",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-21",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Zadanie, którego wynik jest sumą pracy wszystkich członków grupy (np. skręcanie długopisów), to zadanie:"
@@ -518,8 +518,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-22",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-22",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Zróżnicowanie kompetencji i umiejętności członków grupy ma największe znaczenie przy zadaniach:"
@@ -542,8 +542,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-23",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-23",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Styl przywództwa, w którym przywódca nie wtrąca się w działania grupy („anty-przywództwo”), to styl:"
@@ -566,8 +566,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-24",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-24",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Przywódca poszukujący konsensusu z członkami grupy reprezentuje styl:"
@@ -590,8 +590,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-25",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-25",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "„Wybitni przywódcy” według badań wyróżniają się przede wszystkim:"
@@ -615,8 +615,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-26",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-26",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Przywództwo dostarczające grupie wizji, formułujące cele cząstkowe i motywujące do przekraczania codziennych celów to przywództwo:"
@@ -639,8 +639,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-27",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-27",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Przywództwo polegające na reagowaniu na potrzeby i interweniowaniu, gdy pojawiają się (lub są przewidywane) problemy, to przywództwo:"
@@ -663,8 +663,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-28",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-28",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Podstawę władzy dodaną później przez Ravena do klasyfikacji Frencha i Ravena stanowi:"
@@ -687,8 +687,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-29",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-29",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Władza oparta na przymusie (zdolności używania kar) powoduje u podwładnych:"
@@ -712,8 +712,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-30",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-30",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Władza oparta na nagradzaniu zwiększa produktywność podwładnych, ale:"
@@ -737,8 +737,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-31",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-31",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Podstawa władzy, która jest ograniczona do pewnych sfer i wiąże się ze wzrostem zadowolenia oraz sprawstwa u podwładnych, to:"
@@ -761,8 +761,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-32",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-32",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Władza dentysty nad pacjentem jest przykładem władzy opartej na:"
@@ -785,8 +785,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-33",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-33",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Podstawa władzy dająca pozytywne relacje między władzą a podwładnym, ale mogąca obniżać jakość zadaniowego funkcjonowania podwładnych, to:"
@@ -809,8 +809,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-34",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-34",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Władza oparta na dostępie do informacji (np. szantaż) skutkuje:"
@@ -834,8 +834,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-35",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-35",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W eksperymencie Galinsky'ego osoby, które przypominały sobie posiadanie władzy, w porównaniu z przypominającymi sobie podleganie władzy:"
@@ -859,8 +859,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-36",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-36",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "W eksperymencie z rysowaniem litery E na czole osoby w warunkach władzy częściej rysowały ją:"
@@ -884,8 +884,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-37",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-37",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Im większe dysproporcje władzy, tym strona dominująca:"
@@ -909,8 +909,8 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-wyklad-3-38",
-      "bookId": "wyklady",
+      "id": "wyklady-psychologia-spoleczna-wyklad-3-38",
+      "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
         "Eksperyment Stricklanda pokazuje, że gdy zaczynamy sprawdzać (kontrolować) ludzi, to:"

@@ -8,7 +8,7 @@ import { resolve } from "node:path";
 
 export const root = resolve(import.meta.dirname, "..");
 export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8")) as {
-  sources: string[];
+  sources: (string | { url: string; title?: string; id?: string })[];
   chapterPattern: string;
   bookAliases?: Record<string, string>;
   bookHeading?: string;

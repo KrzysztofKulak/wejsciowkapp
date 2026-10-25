@@ -1,0 +1,787 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-4",
+  "chapterTitle": "Wykład 4. Jak prowadzi się badania w psychologii?",
+  "sourceHash": "008e160764782611fef79ee3de7d106314ff43bf",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Do założeń leżących u podstaw badań psychologicznych należy przekonanie, że:"
+      ],
+      "correct": [
+        "nic nie jest dowiedzione samo w sobie (a priori)",
+        "żadna wiedza nie jest oczywista sama przez się"
+      ],
+      "distractors": [
+        "część zjawisk ma przyczyny nadnaturalne",
+        "niektóre prawdy są oczywiste bez badania",
+        "wiedza pochodzi głównie z intuicji badacza",
+        "natura jest zasadniczo chaotyczna",
+        "ignorancja bywa bezpieczniejsza niż wiedza",
+        "natura jest w istocie niepoznawalna",
+        "doświadczenie zniekształca prawdziwą wiedzę"
+      ],
+      "explanation": "Założenia: natura jest uporządkowana i poznawalna, zjawiska mają naturalne przyczyny, nic nie jest dowiedzione a priori, wiedza pochodzi z doświadczenia i przewyższa ignorancję.",
+      "sourceExcerpt": "Założenia dotyczące badań psychologicznych: natura jest uporządkowana; natura jest poznawalna; wszystkie naturalne zjawiska mają naturalne przyczyny; nic nie jest dowiedzione samo w sobie (a priori); wiedza jest wyprowadzana z nabywanego doświadczenia; wiedza przewyższa ignorancję.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Badanie Wisemana, Smitha i Miltona (1998) sprawdzało, czy:"
+      ],
+      "correct": [
+        "zwierzęta wyczuwają, kiedy ich właściciele wracają do domu",
+        "psy przeczuwają powrót właściciela"
+      ],
+      "distractors": [
+        "psy rozpoznają emocje na twarzach ludzi",
+        "koty uczą się rutyny karmienia",
+        "zwierzęta reagują na pełnię księżyca",
+        "właściciele rozpoznają szczekanie własnego psa",
+        "psy odróżniają kłamstwo od prawdy",
+        "zwierzęta mają poczucie upływu czasu",
+        "psy naśladują zachowanie właścicieli"
+      ],
+      "explanation": "Przykład naukowego obalania powszechnego przekonania: pytanie, hipotezy, eksperyment eliminujący alternatywne wyjaśnienia, wyniki, dalsze badania.",
+      "sourceExcerpt": "Czy zwierzęta mają dar wyczuwania, kiedy ich właściciele wracają do domu? Wiseman, Smith, Milton (1998).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Jednym z alternatywnych wyjaśnień „daru” psa wyczuwającego powrót właściciela było:"
+      ],
+      "correct": [
+        "subtelne sygnały od domowników",
+        "sygnały od innych osób obecnych w domu"
+      ],
+      "distractors": [
+        "telepatia między psem a właścicielem",
+        "wyjątkowy słuch psów rasowych",
+        "wpływ pogody na zachowanie psa",
+        "zapach właściciela niesiony wiatrem",
+        "zazdrość psa o domowników",
+        "głód psa przed porą karmienia",
+        "sugestia ze strony badaczy"
+      ],
+      "explanation": "Hipotezy: rutyna, subtelne sygnały, selektywna pamięć, błędna interpretacja zachowania zwierzęcia.",
+      "sourceExcerpt": "Szukanie możliwych rozwiązań: 1. Rutyna 2. Subtelne sygnały (np. domownik odbiera telefon od wracającego i mówi w charakterystyczny sposób) 3. Selektywna pamięć 4. Błędna interpretacja.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Celem konstruowania eksperymentu w schemacie naukowego obalania przekonań jest:"
+      ],
+      "correct": [
+        "falsyfikacja (obalanie) hipotez",
+        "obalenie hipotez alternatywnych"
+      ],
+      "distractors": [
+        "potwierdzenie przekonania badacza",
+        "zebranie jak największej liczby anegdot",
+        "zwiększenie reprezentatywności próby",
+        "uogólnienie wyników na populację",
+        "opis jednostkowego przypadku",
+        "pomiar korelacji między zmiennymi",
+        "wyeliminowanie wnioskowania statystycznego"
+      ],
+      "explanation": "Eksperyment konstruuje się tak, by wykluczyć alternatywne wyjaśnienia; jego celem jest falsyfikacja hipotez.",
+      "sourceExcerpt": "Część 3 - Konstruowanie eksperymentu. Cel: falsyfikacja (obalanie) hipotez. Skonstruowano taki model eksperymentu, by wykluczyć alternatywne wyjaśnienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "By wykluczyć hipotezę rutyny w badaniu nad psem wyczuwającym powrót właściciela, zastosowano:"
+      ],
+      "correct": [
+        "powroty właściciela o losowych porach",
+        "losowy czas powrotu właściciela"
+      ],
+      "distractors": [
+        "pozostawienie psa samego w domu",
+        "ocenę zachowania psa przez niezależne osoby",
+        "nagrywanie psa ukrytą kamerą",
+        "zastąpienie właściciela obcą osobą",
+        "podawanie psu placebo",
+        "badanie kilku psów jednocześnie",
+        "wydłużenie czasu nieobecności właściciela"
+      ],
+      "explanation": "Losowe pory powrotu wykluczają rutynę; samotność psa wyklucza sygnały od domowników; niezależni obserwatorzy wykluczają błędną interpretację.",
+      "sourceExcerpt": "1. właściciel wraca w losowych porach 2. zwierzę jest samo (by nie dostało sygnałów od innych osób) 3. rejestrowane zachowanie psa jest interpretowane przez niezależne osoby.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Ogół ludzi, do których odnoszą się wnioski z badania, to:"
+      ],
+      "correct": [
+        "populacja"
+      ],
+      "distractors": [
+        "próba",
+        "grupa kontrolna",
+        "grupa eksperymentalna",
+        "kohorta",
+        "panel badawczy",
+        "zbiorowość badana",
+        "kwota"
+      ],
+      "explanation": "Populacja: wszyscy, do których odnoszą się wnioski; próba: osoby rzeczywiście przebadane. Wyniki z próby generalizuje się na populację.",
+      "sourceExcerpt": "Populacja: ogół ludzi, do których odnoszą się wnioski z naszego badania. Próba: grupa osób rzeczywiście przebadanych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Grupa osób rzeczywiście przebadanych to:"
+      ],
+      "correct": [
+        "próba"
+      ],
+      "distractors": [
+        "populacja",
+        "grupa kontrolna",
+        "kohorta",
+        "kwota",
+        "panel badawczy",
+        "operat losowania",
+        "zbiór odniesienia"
+      ],
+      "explanation": "Próba to grupa rzeczywiście przebadana; rzadko badamy całą populację.",
+      "sourceExcerpt": "Próba: grupa osób rzeczywiście przebadanych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Odzwierciedlanie przez próbę charakteru populacji to jej:"
+      ],
+      "correct": [
+        "reprezentatywność"
+      ],
+      "distractors": [
+        "rzetelność pomiaru",
+        "trafność pomiaru",
+        "randomizacja",
+        "liczebność próby",
+        "losowość doboru",
+        "standaryzacja",
+        "ortogonalność"
+      ],
+      "explanation": "Na reprezentatywność wpływają wielkość próby i sposób jej doboru.",
+      "sourceExcerpt": "Reprezentatywność - odzwierciedlanie charakteru populacji. Czynniki wpływające na reprezentatywność: wielkość, sposób doboru.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Twierdzenie, że rozkład średnich z prób zbliża się do rozkładu w populacji w miarę wzrostu liczebności prób, to:"
+      ],
+      "correct": [
+        "centralne twierdzenie graniczne"
+      ],
+      "distractors": [
+        "prawo wielkich liczb",
+        "prawo regresji do średniej",
+        "twierdzenie Bayesa",
+        "zasada falsyfikacji",
+        "prawo Webera-Fechnera",
+        "twierdzenie o próbie losowej",
+        "zasada ortogonalności"
+      ],
+      "explanation": "Centralne twierdzenie graniczne dotyczy rozkładu średnich z prób; prawo wielkich liczb dotyczy serii doświadczeń losowych.",
+      "sourceExcerpt": "Centralne Twierdzenie Graniczne - rozkład średnich z prób zbliża się do rozkładu średnich w populacji w miarę, jak rośnie liczebność tych prób.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Zasada, że rzeczywisty rozkład wyników serii doświadczeń losowych jest tym bliższy teoretycznemu, im dłuższa jest seria, to:"
+      ],
+      "correct": [
+        "prawo wielkich liczb"
+      ],
+      "distractors": [
+        "centralne twierdzenie graniczne",
+        "regresja do średniej",
+        "twierdzenie Bayesa",
+        "zasada falsyfikacji",
+        "efekt Barnuma",
+        "prawo Webera",
+        "zasada reprezentatywności"
+      ],
+      "explanation": "Prawo wielkich liczb: im dłuższa seria, tym rozkład bliższy teoretycznemu; stąd anomalie są bardziej prawdopodobne w małych próbach.",
+      "sourceExcerpt": "Prawo Wielkich Liczb - rzeczywisty rozkład wyników serii doświadczeń losowych jest tym bliższy idealnemu teoretycznemu, im dłuższa jest seria.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Wynik anormalny, odbiegający od populacji, jest bardziej prawdopodobny w próbie:"
+      ],
+      "correct": [
+        "małej"
+      ],
+      "distractors": [
+        "dużej",
+        "bardzo dużej",
+        "losowej",
+        "reprezentatywnej",
+        "liczącej tysiące osób",
+        "ogólnopolskiej",
+        "wielokrotnie powtórzonej"
+      ],
+      "explanation": "Z prawa wielkich liczb wynika, że anomalia jest bardziej prawdopodobna w małej próbie.",
+      "sourceExcerpt": "Więc: anomalia bardziej prawdopodobna w małej próbie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Sondaż Literary Digest przewidujący zwycięstwo Alfa Landona nad Rooseveltem zawiódł, ponieważ:"
+      ],
+      "correct": [
+        "próbę dobrano ze spisów samochodów i książek telefonicznych (bogaci, biali)",
+        "mimo ogromnej liczebności próba była niereprezentatywna"
+      ],
+      "distractors": [
+        "próba była zdecydowanie zbyt mała, by cokolwiek przewidzieć",
+        "pytania były niejasno i tendencyjnie sformułowane",
+        "ankieterzy fałszowali część zebranych odpowiedzi",
+        "badanie przeprowadzono zbyt wcześnie przed wyborami",
+        "wyborcy masowo zmienili zdanie w ostatniej chwili",
+        "zastosowano dobór kwotowy zamiast prostego losowego",
+        "pominięto randomizację drugiego stopnia w analizie"
+      ],
+      "explanation": "Dziesięć milionów kart rozesłano do osób ze spisu rejestracji samochodów i książki telefonicznej; próba była wielka, ale stronnicza.",
+      "sourceExcerpt": "Alf Landon miał wygrać z Rooseveltem wg sondażu przedwyborczego Literary Digest. Zapytano 10 milionów kart do głosowania osobom wybranym ze spisu rejestracji samochodów oraz książki telefonicznej → próba składała się z bogatych, białych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Próba złożona z ochotników zgłaszających się na ogłoszenie jest:"
+      ],
+      "correct": [
+        "zawsze stronnicza, a więc niereprezentatywna",
+        "z zasady obciążona i nie gwarantuje reprezentatywności"
+      ],
+      "distractors": [
+        "reprezentatywna, jeśli jest dostatecznie duża",
+        "najlepszą formą doboru probabilistycznego",
+        "równoważna prostemu doborowi losowemu",
+        "dopuszczalna tylko w badaniach klinicznych",
+        "reprezentatywna przy randomizacji drugiego stopnia",
+        "mniej stronnicza niż dobór kwotowy",
+        "wolna od błędu próby"
+      ],
+      "explanation": "Próba złożona z ochotników zawsze jest próbą stronniczą; dobór oparty na dostępności (np. studenci) też nie gwarantuje reprezentatywności.",
+      "sourceExcerpt": "Ogłoszenie - próba złożona z ochotników zawsze jest próbą stronniczą → brak reprezentatywności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-14",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Dobór polegający na nadaniu numeru każdemu elementowi populacji i wylosowaniu z nich próby to:"
+      ],
+      "correct": [
+        "prosty dobór losowy"
+      ],
+      "distractors": [
+        "dobór kwotowy",
+        "dobór celowy",
+        "metoda kuli śnieżnej",
+        "dobór oparty na dostępności",
+        "dobór przez ogłoszenie",
+        "dobór warstwowy",
+        "dobór panelowy"
+      ],
+      "explanation": "W praktyce losuje się np. według numeru telefonu lub PESEL z baz typu karty lojalnościowe.",
+      "sourceExcerpt": "Prosty dobór losowy - polega na nadaniu numeru każdemu elementowi populacji, potem losujemy. W praktyce losuje się np. wg numeru telefonu, PESEL z baz typu bazy kart lojalnościowych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-15",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Metoda doboru, w której jedna osoba z trudno dostępnej grupy (np. bezdomnych) daje namiary na kolejne, to:"
+      ],
+      "correct": [
+        "metoda kuli śnieżnej"
+      ],
+      "distractors": [
+        "dobór kwotowy",
+        "dobór celowy",
+        "prosty dobór losowy",
+        "dobór oparty na dostępności",
+        "dobór warstwowy",
+        "dobór przez ogłoszenie",
+        "dobór systematyczny"
+      ],
+      "explanation": "Metoda kuli śnieżnej to nieprobabilistyczny dobór stosowany, gdy trudno znaleźć członków specyficznej grupy.",
+      "sourceExcerpt": "Metoda kuli śnieżnej - gdy trudno znaleźć członków jakiejś specyficznej grupy (np. bezdomnych) → jedna osoba daje namiary na kolejną.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-16",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Dobór, w którym najpierw ustala się odsetki cech w populacji, a potem dobiera próbę o tych samych odsetkach, to:"
+      ],
+      "correct": [
+        "dobór kwotowy"
+      ],
+      "distractors": [
+        "prosty dobór losowy",
+        "dobór celowy",
+        "metoda kuli śnieżnej",
+        "dobór oparty na dostępności",
+        "dobór warstwowy losowy",
+        "dobór przez ogłoszenie",
+        "dobór systematyczny"
+      ],
+      "explanation": "Dobór kwotowy: wskaźniki procentowe cech w próbie takie same jak w populacji; metoda nieprobabilistyczna.",
+      "sourceExcerpt": "Dobór kwotowy - rozpoczynamy od ustalenia pewnych wskaźników procentowych cech populacji → dobieramy próbę tak, aby wskaźniki procentowe tych samych cech były w niej takie same, jak w populacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-17",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Dobór celowy (arbitralny), metoda kuli śnieżnej i dobór kwotowy to metody doboru:"
+      ],
+      "correct": [
+        "nieprobabilistycznego"
+      ],
+      "distractors": [
+        "probabilistycznego",
+        "losowego",
+        "warstwowego",
+        "systematycznego",
+        "eksperymentalnego",
+        "panelowego",
+        "randomizowanego"
+      ],
+      "explanation": "Dobór nieprobabilistyczny: celowy, kula śnieżna, kwotowy. Probabilistyczny: m.in. prosty dobór losowy.",
+      "sourceExcerpt": "Nieprobabilistyczny: dobór celowy (arbitralny), metoda kuli śnieżnej, dobór kwotowy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-18",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Przydzielanie osób biorących udział w badaniu do poszczególnych grup badawczych to randomizacja:"
+      ],
+      "correct": [
+        "drugiego stopnia"
+      ],
+      "distractors": [
+        "pierwszego stopnia",
+        "trzeciego stopnia",
+        "pierwotna",
+        "populacyjna",
+        "kwotowa",
+        "celowa",
+        "zerowa"
+      ],
+      "explanation": "Randomizacja I stopnia: losowy dobór osób z populacji do próby; II stopnia: przydział uczestników do grup badawczych.",
+      "sourceExcerpt": "Randomizacje. I stopnia - losowy dobór osób z populacji do próby. II stopnia - przydzielanie osób biorących udział w badaniu do poszczególnych grup badawczych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-19",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Metody polegające na formułowaniu ogólnych praw naukowych i szukaniu tego, co w ludziach podobne, to metody:"
+      ],
+      "correct": [
+        "nomotetyczne"
+      ],
+      "distractors": [
+        "idiograficzne",
+        "korelacyjne",
+        "jakościowe",
+        "kliniczne",
+        "opisowe",
+        "fenomenologiczne",
+        "projekcyjne"
+      ],
+      "explanation": "Metody nomotetyczne szukają ogólnych praw; idiograficzne opisują to, co szczególne i wyjątkowe.",
+      "sourceExcerpt": "Metody nomotetyczne. Formułowanie ogólnych praw naukowych → Szukanie tego, co w ludziach podobne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-20",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Metody opisujące to, co szczególne i wyjątkowe, w których celem nie jest uogólnienie, to metody:"
+      ],
+      "correct": [
+        "idiograficzne"
+      ],
+      "distractors": [
+        "nomotetyczne",
+        "eksperymentalne",
+        "statystyczne",
+        "sondażowe",
+        "ilościowe",
+        "normatywne",
+        "nomologiczne"
+      ],
+      "explanation": "Metody idiograficzne (np. studium przypadku) prowadzą do wiedzy naukowej, ale ich celem nie jest uogólnienie.",
+      "sourceExcerpt": "Metody Idiograficzne. Opis tego, co szczególne i wyjątkowe → doprowadza do zyskania wiedzy naukowej, ale celem nie jest uogólnienie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-21",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Eksperyment, w którym zmienna niezależna pojawia się samoistnie, warunki są naturalne dla badanych, a dużą rolę odgrywa obserwacja, to eksperyment:"
+      ],
+      "correct": [
+        "naturalny"
+      ],
+      "distractors": [
+        "laboratoryjny",
+        "polowy",
+        "kontrolowany",
+        "kliniczny",
+        "myślowy",
+        "pilotażowy",
+        "quasi-laboratoryjny"
+      ],
+      "explanation": "Laboratoryjny: ścisła kontrola zmiennych; polowy: rzeczywisty świat, manipuluje eksperymentator; naturalny: zmienna niezależna pojawia się samoistnie.",
+      "sourceExcerpt": "Naturalny. Warunki są naturalne dla badanych. Zmienna niezależna pojawia się samoistnie. Duża rola obserwacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-22",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Eksperyment prowadzony w rzeczywistym świecie, w którym zmienną niezależną manipuluje eksperymentator, to eksperyment:"
+      ],
+      "correct": [
+        "polowy"
+      ],
+      "distractors": [
+        "naturalny",
+        "kliniczny",
+        "myślowy",
+        "ślepy",
+        "domowy",
+        "szkolny",
+        "losowy"
+      ],
+      "explanation": "Eksperyment polowy łączy rzeczywiste warunki z manipulacją eksperymentatora.",
+      "sourceExcerpt": "Polowy. prowadzony w rzeczywistym świecie. zmienną niezależną manipuluje eksperymentator.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-23",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Do zalet eksperymentu należą kontrola przyczyn i skutków, obiektywność oraz:"
+      ],
+      "correct": [
+        "replikowalność"
+      ],
+      "distractors": [
+        "niski koszt",
+        "naturalność warunków",
+        "brak błędu próby",
+        "reprezentatywność",
+        "brak oczekiwań badacza",
+        "pełna generalizowalność",
+        "brak statystyki"
+      ],
+      "explanation": "Zalety eksperymentu: kontrola przyczyn i skutków, obiektywność, replikowalność.",
+      "sourceExcerpt": "Zalety: kontrola przyczyn i skutków, obiektywność, replikowalność.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-24",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Do wad eksperymentu zalicza się między innymi:"
+      ],
+      "correct": [
+        "oczekiwania eksperymentatora"
+      ],
+      "distractors": [
+        "brak kontroli przyczyn i skutków",
+        "niemożność replikacji",
+        "subiektywność pomiaru",
+        "brak obiektywności",
+        "niemożność manipulowania zmienną",
+        "brak grupy kontrolnej",
+        "nadmierną naturalność warunków"
+      ],
+      "explanation": "Wady: dehumanizacja, zniekształcenie zachowania przez warunki, nastawienie uczestnika, oczekiwania eksperymentatora, błąd próby, wnioskowanie statystyczne.",
+      "sourceExcerpt": "Wady: dehumanizacja, zniekształcenie zachowania (przez warunki), nastawienie uczestnika, oczekiwania eksperymentatora, błąd próby, wnioskowanie statystyczne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-25",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "W eksperymencie Solomona Ascha z ocenianiem długości linii większość badanych:"
+      ],
+      "correct": [
+        "zgadzała się z błędną odpowiedzią grupy",
+        "ulegała fałszywej ocenie pozostałych uczestników"
+      ],
+      "distractors": [
+        "trwała przy własnej poprawnej odpowiedzi",
+        "odmawiała udziału w głosowaniu",
+        "nie zauważała różnic między liniami",
+        "oceniała linie trafniej niż grupa",
+        "zmieniała zdanie dopiero po nagrodzie",
+        "zgadzała się tylko z eksperymentatorem",
+        "udzielała losowych odpowiedzi"
+      ],
+      "explanation": "Pozorni badani zgadzali się z nieprawdziwym wynikiem, a prawdziwy badany w większości przypadków przyłączał się do grupy.",
+      "sourceExcerpt": "Solomon Asch „badania nad percepcją” → głosowanie, która linia jest równej długości z przykładem, inni niby-badani zgadzają się z nieprawdziwym wynikiem, i badany 67% zgadza się z grupą.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-26",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Doliński, Nawrat i Rudak sprzedawali kadzidełka po krótkiej rozmowie o pogodzie albo po monologu. Zjawisko, że rozmowa ułatwiała perswazję, to:"
+      ],
+      "correct": [
+        "efekt dialogu"
+      ],
+      "distractors": [
+        "efekt Barnuma",
+        "efekt Ascha",
+        "efekt szuflady lubelskiej",
+        "efekt pierwszeństwa",
+        "efekt kontrastu",
+        "reguła wzajemności",
+        "efekt stopy w drzwiach"
+      ],
+      "explanation": "Efekt dialogu: krótka rozmowa (dialog) ułatwia perswazję w porównaniu z monologiem.",
+      "sourceExcerpt": "Doliński, Nawrat i Rudak → efekt dialogu → sprzedawali kadzidełka w warunkach dialogu (rozmowy o pogodzie) i monologu. Dialog ułatwiał sprzedaż (perswazję).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-27",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Obserwacja prowadzona zazwyczaj w laboratorium, w dobrze kontrolowanych warunkach, to obserwacja:"
+      ],
+      "correct": [
+        "kontrolowana"
+      ],
+      "distractors": [
+        "naturalna",
+        "uczestnicząca",
+        "ukryta",
+        "jawna",
+        "systematyczna",
+        "swobodna",
+        "terenowa"
+      ],
+      "explanation": "Rodzaje obserwacji: kontrolowana (laboratorium), naturalna (rzeczywisty świat), uczestnicząca (badacz częścią środowiska).",
+      "sourceExcerpt": "Obserwacja: Kontrolowana - W dobrze kontrolowanych warunkach, zazwyczaj w laboratorium. Naturalna - Prowadzona w rzeczywistym świecie. Uczestnicząca - Badacz staje się częścią środowiska.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-28",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Problem sondaży polegający na tym, że gdy koreluje się wszystko ze wszystkim, zawsze coś wyjdzie, określono jako efekt:"
+      ],
+      "correct": [
+        "szuflady lubelskiej"
+      ],
+      "distractors": [
+        "regresji do średniej",
+        "horoskopowy",
+        "selektywnej pamięci",
+        "kuli śnieżnej",
+        "dużej próby",
+        "fałszywej powszechności",
+        "małych liczb"
+      ],
+      "explanation": "Sondaż to szeroki zestaw pytań dla sporej grupy; ryzykiem jest efekt „szuflady lubelskiej”.",
+      "sourceExcerpt": "Sondaż. Problem - ryzyko efektu „szuflady lubelskiej” → gdy korelujesz wszystko ze wszystkim zawsze coś Ci wyjdzie.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-29",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Wadą studium przypadku jest:"
+      ],
+      "correct": [
+        "niemożność generalizowania",
+        "brak możliwości uogólnienia wyników"
+      ],
+      "distractors": [
+        "powierzchowność analizy problemu",
+        "mała liczba analizowanych zachowań",
+        "pełna obiektywność oceny",
+        "konieczność zbadania dużej próby",
+        "brak wartości naukowej",
+        "wysoki koszt randomizacji",
+        "sztuczność warunków laboratoryjnych"
+      ],
+      "explanation": "Studium przypadku: plus – dokładne zgłębienie problemu i analiza wielu zachowań; minus – niemożność generalizowania i subiektywność oceny.",
+      "sourceExcerpt": "Studium przypadku: ➕dokładne zgłębienie problemu ➕analiza większej ilości zachowań ➖niemożność generalizowania ➖subiektywność oceny zachowań.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-30",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Współczynnik korelacji równy 0 oznacza:"
+      ],
+      "correct": [
+        "ortogonalność, czyli zupełny brak korelacji",
+        "ortogonalność"
+      ],
+      "distractors": [
+        "korelację pozytywną",
+        "korelację negatywną",
+        "zależność przyczynowo-skutkową",
+        "pełną współzmienność",
+        "błąd pomiaru",
+        "brak danych",
+        "niereprezentatywną próbę"
+      ],
+      "explanation": "Korelacja jest miarą współzmienności od −1 do 1; 0 to ortogonalność, zupełny brak korelacji.",
+      "sourceExcerpt": "Korelacja jest miarą współzmienności. od -1 do 1, 0 → ortogonalność, zupełny brak korelacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-31",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Gdy jedna zmienna rośnie, a druga maleje, mówimy o korelacji:"
+      ],
+      "correct": [
+        "negatywnej (ujemnej)",
+        "ujemnej"
+      ],
+      "distractors": [
+        "pozytywnej",
+        "ortogonalnej",
+        "zerowej",
+        "pozornej",
+        "przyczynowej",
+        "dodatniej",
+        "rangowej"
+      ],
+      "explanation": "Korelacja pozytywna: obie zmienne rosną razem; negatywna: jedna rośnie, druga maleje.",
+      "sourceExcerpt": "Jeśli poziom dwóch zmiennych rośnie (korelacja pozytywna). Jeśli jedna zmienna rośnie a druga maleje (korelacja negatywna).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-4-32",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Jako narzędzie zbierania danych w przyszłości (np. szacowanie liczby Ukraińców w Polsce po ustawieniach i sieciach telefonów) wskazano:"
+      ],
+      "correct": [
+        "smartfon"
+      ],
+      "distractors": [
+        "ankietę",
+        "wywiad",
+        "spis powszechny",
+        "obserwację",
+        "dziennik",
+        "test",
+        "sondaż"
+      ],
+      "explanation": "Hipotezy o przyszłości: smartfon jako narzędzie zbierania danych oraz „duże eksperymenty społeczne” na użytkownikach mediów społecznościowych.",
+      "sourceExcerpt": "Hipotezy o przyszłości: smartfon jako narzędzie do zbierania danych - np. sprawdzanie liczby Ukraińców w Polsce przez sprawdzanie ustawień i używanych sieci przez telefony komórkowe.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

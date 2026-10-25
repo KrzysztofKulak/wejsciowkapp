@@ -1,0 +1,104 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-1",
+  "chapterTitle": "Wykład 1: Wprowadzenie do wprowadzenia",
+  "sourceHash": "847b56d2f24bc263e36955c95e9b99705406ca9e",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-1-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Interpretowanie dawnych zjawisk (zwłaszcza w ocenie etycznej) z perspektywy tego, co wiemy dzisiaj, to:"
+      ],
+      "correct": [
+        "prezentyzm"
+      ],
+      "distractors": [
+        "historyzm",
+        "relatywizm",
+        "anachronizm",
+        "etnocentryzm",
+        "eugenika",
+        "determinizm",
+        "retrospektywizm"
+      ],
+      "explanation": "Prezentyzm to ocenianie przeszłości przez pryzmat dzisiejszej wiedzy i norm.",
+      "sourceExcerpt": "Prezentyzm - interpretowanie zjawisk (z perspektywy etycznej) z perspektywy tego, co wiemy dzisiaj.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-1-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Ze względu na charakter swoich przewidywań psychologia jest nauką:"
+      ],
+      "correct": [
+        "probabilistyczną"
+      ],
+      "distractors": [
+        "deterministyczną",
+        "normatywną",
+        "dedukcyjną",
+        "aksjomatyczną",
+        "formalną",
+        "spekulatywną",
+        "idiograficzną"
+      ],
+      "explanation": "Psychologia formułuje przewidywania probabilistyczne, nie deterministyczne.",
+      "sourceExcerpt": "Psychologia - nauka probabilistyczna.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-1-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Sytuacja, w której wykonywanie jakiejś czynności (np. picie alkoholu) jest elementem tożsamości społecznej danej grupy, to:"
+      ],
+      "correct": [
+        "uzależnienie społeczne"
+      ],
+      "distractors": [
+        "uzależnienie fizyczne",
+        "uzależnienie psychiczne",
+        "konformizm normatywny",
+        "tożsamość społeczna",
+        "norma grupowa",
+        "nałóg behawioralny",
+        "presja rówieśnicza"
+      ],
+      "explanation": "Uzależnienie społeczne: czynność jest elementem tożsamości społecznej grupy, niezależnie od zależności fizycznej czy psychicznej.",
+      "sourceExcerpt": "Uzależnienie społeczne - gdy wykonywanie akcji (np. picie) jest elementem tożsamości społecznej danej grupy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-1-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Za ojca polskiej psychologii uważa się:"
+      ],
+      "correct": [
+        "Kazimierza Twardowskiego"
+      ],
+      "distractors": [
+        "Jana Strelaua",
+        "Władysława Witwickiego",
+        "Stefana Baleya",
+        "Juliana Ochorowicza",
+        "Kurta Lewina",
+        "Bogdana Wojciszke",
+        "Tadeusza Tomaszewskiego"
+      ],
+      "explanation": "Kazimierz Twardowski – ojciec polskiej psychologii.",
+      "sourceExcerpt": "Kazimierz Twardowski - ojciec polskiej psychologii.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

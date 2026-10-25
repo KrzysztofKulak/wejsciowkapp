@@ -1,0 +1,324 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-3",
+  "chapterTitle": "Wykład 3. Myślenie naukowe i myślenie potoczne",
+  "sourceHash": "19cbb71db049d55a66de4647dd61c41369d59fe7",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Uznawanie za niezwykle trafne opisów rzekomo dotyczących wyłącznie nas samych, które w rzeczywistości pasują do większości ludzi, to:"
+      ],
+      "correct": [
+        "efekt Barnuma",
+        "efekt Forera",
+        "efekt horoskopowy"
+      ],
+      "distractors": [
+        "efekt placebo",
+        "złudzenie klinicysty",
+        "heurystyka reprezentatywności",
+        "efekt aureoli",
+        "błąd post hoc",
+        "efekt potwierdzenia",
+        "złudzenie korelacji"
+      ],
+      "explanation": "Efekt Barnuma (horoskopowy, Forera): ogólnikowe opisy odbierane jako trafne i osobiste.",
+      "sourceExcerpt": "Efekt Barnuma (efekt horoskopowy/efekt Forera). Ludzie uznają za niezwykle trafne opisy rzekomo dotyczące wyłącznie ich samych, a w rzeczywistości odnoszące się do znacznej grupy ludzi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Podejście „mamy coś dla każdego”, od którego nazwano efekt Barnuma, pochodzi od:"
+      ],
+      "correct": [
+        "P.T. Barnuma"
+      ],
+      "distractors": [
+        "Bertrama Forera",
+        "Scotta Lilienfelda",
+        "Gerda Gigerenzera",
+        "Juliana Rottera",
+        "Patricii Cohen",
+        "wróżki Sylvii",
+        "Johna Olivera"
+      ],
+      "explanation": "P.T. Barnum, poniekąd twórca współczesnego marketingu, planował występy cyrkowe tak, by każdy znalazł coś dla siebie.",
+      "sourceExcerpt": "P.T. Barnum - poniekąd twórca współczesnego marketingu, podejście „mamy coś dla każdego” przy planowaniu występu w cyrku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "W eksperymencie Forera studenci ocenili swoje „indywidualne” profile osobowości jako bardzo trafne, mimo że:"
+      ],
+      "correct": [
+        "wszyscy dostali identyczny opis",
+        "każdy otrzymał dokładnie ten sam tekst"
+      ],
+      "distractors": [
+        "profile były losowo pomieszane między studentami",
+        "opisy były celowo nieprzychylne",
+        "nie wypełniali wcześniej żadnych testów",
+        "opisy sporządzono na podstawie horoskopów",
+        "profile zawierały wyłącznie fakty z ich życia",
+        "oceny zbierano dopiero po kilku miesiącach",
+        "profile napisali ich koledzy z roku"
+      ],
+      "explanation": "Forer rozdał wszystkim ten sam opis „na podstawie testów”; średnia ocena trafności wyniosła 4,26 w skali 1–5.",
+      "sourceExcerpt": "Eksperyment Forera - rozdał studentom profile zrobione niby na podstawie wypełnionych przez nich testów i kazał ocenić trafność profilu w skali 1-5. Dał wszystkim taki sam opis i trafność była wg studentów 4.26.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Autorem listy dziesięciu powodów wiary w mity psychologiczne (2011) jest:"
+      ],
+      "correct": [
+        "Scott Lilienfeld"
+      ],
+      "distractors": [
+        "Bertram Forer",
+        "Gerd Gigerenzer",
+        "Daniel Kahneman",
+        "Richard Wiseman",
+        "Robert Cialdini",
+        "Patricia Cohen",
+        "Julian Rotter"
+      ],
+      "explanation": "Lilienfeld (2011): wiara w przekaz ustny, potrzeba łatwych odpowiedzi, selektywność pamięci i percepcji, wnioskowanie po korelacji, post hoc, niereprezentatywna próba, wnioskowanie z podobieństwa, fałszywy obraz w mediach, wyolbrzymianie, zamęt terminologiczny.",
+      "sourceExcerpt": "10 powodów wiary w mity (Lilienfeld, 2011)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Powód wiary w mity polegający na tym, że powszechność przekonania traktujemy jako dowód jego prawdziwości (Gigerenzer, 2007), to:"
+      ],
+      "correct": [
+        "wiara w przekaz ustny"
+      ],
+      "distractors": [
+        "potrzeba łatwych odpowiedzi",
+        "selektywność pamięci i percepcji",
+        "wnioskowanie po korelacji",
+        "post hoc, ergo propter hoc",
+        "niereprezentatywna próba",
+        "wnioskowanie z podobieństwa",
+        "zamęt terminologiczny"
+      ],
+      "explanation": "Wiara w przekaz ustny: powszechność przekonań jest źródłem wiary w ich prawdziwość.",
+      "sourceExcerpt": "Wiara w przekaz ustny: Powszechność przekonań jest źródłem wiary w ich prawdziwość (Gigerenzer, 2007).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "W tabeli 2×2 (czynnik A obecny/nieobecny × czynnik B obecny/nieobecny) ludzie radykalnie przeceniają przypadki, gdy:"
+      ],
+      "correct": [
+        "oba czynniki są obecne (komórka 1)",
+        "oba czynniki występują jednocześnie"
+      ],
+      "distractors": [
+        "oba czynniki są nieobecne",
+        "obecny jest tylko czynnik A",
+        "obecny jest tylko czynnik B",
+        "czynniki występują naprzemiennie",
+        "żaden z czynników nie jest obserwowalny",
+        "czynnik B poprzedza czynnik A",
+        "czynniki są skorelowane ujemnie"
+      ],
+      "explanation": "Selektywność pamięci i percepcji: zapamiętujemy współwystąpienia (pełnia i więcej przyjęć do szpitali), ignorując pozostałe trzy komórki tabeli.",
+      "sourceExcerpt": "Selektywność pamięci i percepcji. Czynnik A obecny / Czynnik B obecny: 1 ← radykalnie przeceniane.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Quick (1999) wykazał brak związku między bólem stawów a:"
+      ],
+      "correct": [
+        "pogodą"
+      ],
+      "distractors": [
+        "wiekiem",
+        "dietą",
+        "snem",
+        "aktywnością fizyczną",
+        "fazą księżyca",
+        "stresem",
+        "porą dnia"
+      ],
+      "explanation": "Powszechne przekonanie o związku pogody z bólem stawów to efekt selektywności pamięci; Quick (1999) wykazał brak takiego związku.",
+      "sourceExcerpt": "Quick (1999) udowodnił brak związku pogody i bólu stawów.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Teoria Flensmarka (2004) wiążąca noszenie butów ze schizofrenią (oba zjawiska pojawiły się w Europie ok. 1000 lat temu) jest przykładem błędu:"
+      ],
+      "correct": [
+        "post hoc, ergo propter hoc"
+      ],
+      "distractors": [
+        "efektu Barnuma",
+        "złudzenia klinicysty",
+        "heurystyki reprezentatywności",
+        "selektywności pamięci",
+        "zamętu terminologicznego",
+        "wyolbrzymiania",
+        "wiary w przekaz ustny"
+      ],
+      "explanation": "Post hoc, ergo propter hoc: z następstwa w czasie wnioskuje się o przyczynie.",
+      "sourceExcerpt": "Post hoc, ergo propter hoc. Flensmark (2004) - teoria o związku pomiędzy noszeniem butów a skłonnością do schizofrenii (buty i pierwsze przypadki schizofrenii, pojawiły się w zachodniej Europie ok. 1000 lat temu).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Terapeuci przeceniają trudność rzucenia nałogu, bo trafiają do nich osoby, które same nie dały rady; policjanci przeceniają, jak wielu ludzi to przestępcy. To przykłady:"
+      ],
+      "correct": [
+        "złudzenia klinicysty"
+      ],
+      "distractors": [
+        "efektu Barnuma",
+        "heurystyki reprezentatywności",
+        "błędu post hoc",
+        "selektywności pamięci",
+        "wiary w przekaz ustny",
+        "wyolbrzymiania",
+        "zamętu terminologicznego"
+      ],
+      "explanation": "Złudzenie klinicysty wynika z niereprezentatywnej próby: specjaliści widzą tylko wycinek populacji.",
+      "sourceExcerpt": "Niereprezentatywna próba. Złudzenie klinicysty (Patricia & Jacob Cohen). Terapeuci przeceniają trudność rzucenia nałogów. Policjanci przeceniają szansę na to, że ktoś jest przestępcą. Wojskowi przeceniają szansę na konflikt zbrojny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Powód wiary w mity nazwany „wnioskowaniem z podobieństwa” odpowiada heurystyce:"
+      ],
+      "correct": [
+        "reprezentatywności"
+      ],
+      "distractors": [
+        "dostępności",
+        "zakotwiczenia i dostosowania",
+        "afektu (emocjonalnej)",
+        "rozpoznania",
+        "symulacji umysłowej",
+        "wysiłku poznawczego",
+        "autorytetu społecznego"
+      ],
+      "explanation": "Wnioskowanie z podobieństwa to heurystyka reprezentatywności.",
+      "sourceExcerpt": "Wnioskowanie z podobieństwa: Heurystyka reprezentatywności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Nadrzędnym powodem (metapowodem) wiary w mity, wróżby i horoskopy, powiązanym z koncepcją umiejscowienia kontroli Rottera, jest potrzeba:"
+      ],
+      "correct": [
+        "poczucia kontroli nad światem"
+      ],
+      "distractors": [
+        "aprobaty społecznej",
+        "poznawczego domknięcia",
+        "przynależności do grupy",
+        "unikania wysiłku poznawczego",
+        "potwierdzenia własnej wartości",
+        "redukcji dysonansu",
+        "nowości i stymulacji"
+      ],
+      "explanation": "Metapowód: potrzeba poczucia kontroli nad światem (Rotter – umiejscowienie poczucia kontroli).",
+      "sourceExcerpt": "Dlaczego ludziom jest to potrzebne? Metapowód - potrzeba poczucia kontroli nad światem (Rotter - umiejscowienie poczucia kontroli).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Strona Tylera Vigena ze „spurious correlations” ilustruje powód wiary w mity zwany:"
+      ],
+      "correct": [
+        "wnioskowaniem po korelacji"
+      ],
+      "distractors": [
+        "post hoc, ergo propter hoc",
+        "selektywnością pamięci",
+        "wiarą w przekaz ustny",
+        "niereprezentatywną próbą",
+        "wnioskowaniem z podobieństwa",
+        "wyolbrzymianiem",
+        "fałszywym obrazem w mediach"
+      ],
+      "explanation": "Korelacja nie oznacza przyczynowości, a nawet rzeczywistego związku.",
+      "sourceExcerpt": "Wnioskowanie po korelacji. tylervigen.com/spurious-correlations. Korelacja =/= przyczynowość ani nawet związku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-3-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-3",
+      "stems": [
+        "Potoczne, niepoprawne używanie pojęć psychologicznych jako źródło mitów to:"
+      ],
+      "correct": [
+        "zamęt terminologiczny"
+      ],
+      "distractors": [
+        "wyolbrzymianie",
+        "fałszywy obraz w mediach",
+        "wiara w przekaz ustny",
+        "potrzeba łatwych odpowiedzi",
+        "wnioskowanie z podobieństwa",
+        "selektywność percepcji",
+        "niereprezentatywna próba"
+      ],
+      "explanation": "Zamęt terminologiczny: pojęcia psychologii używane są potocznie zupełnie niepoprawnie.",
+      "sourceExcerpt": "Zamęt terminologiczny. Pojęcia psychologii używane są potocznie zupełnie niepoprawne.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

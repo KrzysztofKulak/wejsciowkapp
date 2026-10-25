@@ -21,6 +21,7 @@ const Question = z.object({
   sourceExcerpt: z.string().min(1),
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]),
   status: z.enum(["ok", "flagged"]),
+  tags: z.array(z.string().min(1)).optional(),
 });
 const ChapterFile = z.object({
   bookId: z.string(),
@@ -30,6 +31,17 @@ const ChapterFile = z.object({
   questions: z.array(Question),
 });
 const Index = z.object({
+  exams: z
+    .array(
+      z.object({
+        id: z.string(),
+        title: z.string(),
+        tag: z.string(),
+        questionCount: z.number().int(),
+        sources: z.array(z.object({ bookId: z.string(), chapterId: z.string(), questionCount: z.number().int() })),
+      }),
+    )
+    .optional(),
   books: z.array(
     z.object({
       id: z.string(),
@@ -44,6 +56,7 @@ const warnings: string[] = [];
 const norm = (s: string) => s.trim().toLowerCase().replace(/\s+/g, " ").replace(/[.。]$/, "");
 const seenIds = new Set<string>();
 const counts = new Map<string, number>(); // `${bookId}/${chapterId}` -> ok questions
+const tagCounts = new Map<string, number>(); // tag -> ok questions
 
 if (!existsSync(bankDir)) {
   console.error("No bank directory:", bankDir);
@@ -90,6 +103,7 @@ for (const bookId of readdirSync(bankDir)) {
       if (q.status === "ok" && avg(q.correct) >= 6 && (ratio > 1.6 || ratio < 0.6))
         warnings.push(`${w}: length tell (correct avg ${avg(q.correct).toFixed(0)} vs distractors ${avg(q.distractors).toFixed(0)})`);
       if (q.status === "ok") ok++;
+      if (q.status === "ok") for (const t of q.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
     }
     counts.set(`${bookId}/${file.chapterId}`, ok);
   }
@@ -110,11 +124,17 @@ else {
         else if (counts.get(key) !== c.questionCount) errors.push(`index.json ${key}: questionCount ${c.questionCount} != ${counts.get(key)} ok questions`);
       }
     for (const key of counts.keys()) if (!listed.has(key)) errors.push(`bank file ${key} not listed in index.json`);
+    const listedTags = new Set<string>();
+    for (const e of parsed.data.exams ?? []) {
+      listedTags.add(e.tag);
+      if (tagCounts.get(e.tag) !== e.questionCount) errors.push(`index.json exam "${e.tag}": questionCount ${e.questionCount} != ${tagCounts.get(e.tag) ?? 0} tagged ok questions`);
+    }
+    for (const t of tagCounts.keys()) if (!listedTags.has(t)) errors.push(`tag "${t}" has questions but no exam entry in index.json (run build-index)`);
   }
 }
 
 for (const w of warnings) console.warn("WARN", w);
 for (const e of errors) console.error("ERROR", e);
 const total = [...counts.values()].reduce((a, b) => a + b, 0);
-console.log(`${counts.size} chapter file(s), ${total} ok question(s), ${seenIds.size} total, ${warnings.length} warning(s), ${errors.length} error(s)`);
+console.log(`${counts.size} chapter file(s), ${total} ok question(s), ${seenIds.size} total, ${tagCounts.size} tag(s), ${warnings.length} warning(s), ${errors.length} error(s)`);
 process.exit(errors.length ? 1 : 0);

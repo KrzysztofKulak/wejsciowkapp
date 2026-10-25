@@ -509,6 +509,281 @@
       "sourceExcerpt": "Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
       "difficulty": 1,
       "status": "ok"
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-22",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Badacz losowo przydziela studentów do nauki w ciszy albo przy muzyce, a potem mierzy ich wynik na teście. Zmienną niezależną jest tu:"
+      ],
+      "correct": [
+        "warunki nauki (cisza lub muzyka)",
+        "obecność muzyki podczas nauki"
+      ],
+      "distractors": [
+        "wynik uzyskany na teście",
+        "liczba badanych studentów",
+        "czas trwania nauki przed testem",
+        "płeć badanych studentów",
+        "trudność pytań testowych",
+        "motywacja studentów do nauki",
+        "pora dnia przeprowadzenia badania"
+      ],
+      "explanation": "Zmienna niezależna to ta, którą badacz manipuluje (tu: cisza vs muzyka); zmienna zależna to ta, która ma ulegać wpływom manipulacji (wynik testu).",
+      "sourceExcerpt": "Zmienna niezależna - zmienna poddawana manipulacji przez badającego. Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-23",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "W badaniu, w którym studenci uczą się w ciszy albo przy muzyce, a potem piszą test, zmienną zależną jest:"
+      ],
+      "correct": [
+        "wynik na teście"
+      ],
+      "distractors": [
+        "obecność muzyki",
+        "losowy przydział do grup",
+        "liczba studentów",
+        "czas nauki",
+        "rodzaj muzyki",
+        "poziom hałasu",
+        "wiek studentów"
+      ],
+      "explanation": "Wynik testu ma ulegać wpływowi manipulacji warunkami nauki, więc jest zmienną zależną.",
+      "sourceExcerpt": "Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-24",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "W eksperymencie sprawdzającym wpływ dawki kofeiny na czas reakcji zmienną niezależną jest:"
+      ],
+      "correct": [
+        "dawka kofeiny",
+        "ilość podanej kofeiny"
+      ],
+      "distractors": [
+        "czas reakcji",
+        "liczba badanych",
+        "wiek badanych",
+        "trafność pomiaru",
+        "poziom zmęczenia badanych",
+        "pora dnia",
+        "rzetelność testu"
+      ],
+      "explanation": "Badacz manipuluje dawką kofeiny (zmienna niezależna) i mierzy czas reakcji (zmienna zależna).",
+      "sourceExcerpt": "Zmienna niezależna - zmienna poddawana manipulacji przez badającego.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-25",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "W eksperymencie sprawdzającym wpływ dawki kofeiny na czas reakcji zmienną zależną jest:"
+      ],
+      "correct": [
+        "czas reakcji"
+      ],
+      "distractors": [
+        "dawka kofeiny",
+        "rodzaj napoju",
+        "liczba badanych",
+        "pora podania kofeiny",
+        "wiek badanych",
+        "grupa kontrolna",
+        "hipoteza badacza"
+      ],
+      "explanation": "Czas reakcji ma ulegać wpływowi manipulacji dawką kofeiny, więc jest zmienną zależną.",
+      "sourceExcerpt": "Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-26",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Badanie, w którym mierzy się, czy osoby śpiące krócej mają gorsze oceny, bez jakiejkolwiek ingerencji w ich sen, to:"
+      ],
+      "correct": [
+        "badanie korelacyjne"
+      ],
+      "distractors": [
+        "eksperyment",
+        "studium przypadku",
+        "obserwacja laboratoryjna",
+        "test standaryzowany",
+        "sondaż",
+        "wywiad",
+        "eksperyment terenowy"
+      ],
+      "explanation": "Bez manipulacji zmienną nie ma eksperymentu; mierzenie zależności między dwoma czynnikami to badanie korelacyjne.",
+      "sourceExcerpt": "Korelacja - miara liczbowa stopnia zależności pomiędzy dwoma czynnikami. Badania eksperymentalne: kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-27",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Badanie, w którym manipuluje się temperaturą w pokoju i mierzy agresję uczestników, to:"
+      ],
+      "correct": [
+        "eksperyment",
+        "badanie eksperymentalne"
+      ],
+      "distractors": [
+        "badanie korelacyjne",
+        "obserwacja naturalna",
+        "studium przypadku",
+        "sondaż",
+        "test standaryzowany",
+        "wywiad",
+        "obserwacja uczestnicząca"
+      ],
+      "explanation": "Manipulacja jedną zmienną (temperatura) w celu określenia jej wpływu na inną (agresja) to definicja eksperymentu.",
+      "sourceExcerpt": "Badania eksperymentalne: kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych, aby określić jej wpływ na inną zmienną.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-28",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Zgodnie z definicją eksperymentu badanie, w którym nie manipuluje się żadną zmienną:"
+      ],
+      "correct": [
+        "nie jest eksperymentem",
+        "nie spełnia definicji eksperymentu"
+      ],
+      "distractors": [
+        "jest eksperymentem laboratoryjnym",
+        "jest eksperymentem, jeśli ma grupę kontrolną",
+        "jest eksperymentem, jeśli mierzy dwie zmienne",
+        "jest eksperymentem opisowym",
+        "jest eksperymentem, jeśli jest kontrolowane",
+        "jest eksperymentem terenowym",
+        "jest eksperymentem, jeśli stawia hipotezę"
+      ],
+      "explanation": "Eksperyment wymaga manipulacji co najmniej jedną zmienną; samo mierzenie zmiennych to metoda opisowa lub korelacyjna.",
+      "sourceExcerpt": "Badania eksperymentalne: kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych. Zmienna niezależna - zmienna poddawana manipulacji przez badającego.",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-29",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Psycholog chce opisać, jak dzieci bawią się na placu zabaw, niczego im nie narzucając. Najwłaściwszą metodą jest:"
+      ],
+      "correct": [
+        "obserwacja",
+        "obserwacja naturalna"
+      ],
+      "distractors": [
+        "eksperyment",
+        "sondaż",
+        "studium przypadku",
+        "test standaryzowany",
+        "badanie korelacyjne",
+        "wywiad",
+        "obserwacja laboratoryjna"
+      ],
+      "explanation": "Obserwacja: badacz systematycznie rejestruje zachowanie w naturalnym środowisku, niczego nie narzucając badanym.",
+      "sourceExcerpt": "Obserwacja: Badacz dokładnie i systematycznie obserwuje i rejestruje zachowanie, niczego nie narzucając badanym osobom. Głównym celem obserwacji jest opis zachowania zachodzącego w naturalnym środowisku.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-30",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Szczegółowy opis jednego pacjenta z rzadkim zaburzeniem pamięci, oparty na obserwacji i testach psychologicznych, to:"
+      ],
+      "correct": [
+        "studium przypadku"
+      ],
+      "distractors": [
+        "eksperyment",
+        "sondaż",
+        "obserwacja laboratoryjna",
+        "badanie korelacyjne",
+        "test standaryzowany",
+        "wywiad fokusowy",
+        "eksperyment terenowy"
+      ],
+      "explanation": "Studium przypadku to szczegółowy opis konkretnej jednostki, oparty na obserwacji lub formalnych testach.",
+      "sourceExcerpt": "Studium przypadku (inaczej historia przypadku) to szczegółowy opis konkretnej jednostki. Może opierać się na wnikliwej obserwacji lub na formalnych testach psychologicznych.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-31",
+      "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
+      "chapterId": "rozdzial-2",
+      "stems": [
+        "Kwestionariusz pytający wprost tysiąc osób o ich postawy wobec szczepień to:"
+      ],
+      "correct": [
+        "sondaż"
+      ],
+      "distractors": [
+        "eksperyment",
+        "obserwacja",
+        "test",
+        "korelacja",
+        "panel",
+        "quiz",
+        "spis"
+      ],
+      "explanation": "Sondaż to kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy.",
+      "sourceExcerpt": "Sondaż - kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     }
   ]
 }
