@@ -101,17 +101,17 @@
       "id": "wejsciowka-1-historia-i-wspolczesnosc",
       "title": "wejściówka 1: historia i współczesność",
       "tag": "wejściówka 1: historia i współczesność",
-      "questionCount": 28,
+      "questionCount": 69,
       "sources": [
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "rozdzial-13",
-          "questionCount": 18
+          "questionCount": 38
         },
         {
           "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
           "chapterId": "rozdzial-2",
-          "questionCount": 10
+          "questionCount": 31
         }
       ]
     }

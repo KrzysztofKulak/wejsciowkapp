@@ -26,7 +26,10 @@
       "explanation": "Teoria to uporządkowany system twierdzeń i zasad; hipoteza to pojedyncze stwierdzenie, od którego zaczyna się praca naukowca.",
       "sourceExcerpt": "Teoria - uporządkowany system twierdzeń i zasad, które służą wyjaśnieniu pewnych wydarzeń i zależności między nimi.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-02",
@@ -50,7 +53,10 @@
       "explanation": "Praca naukowca zaczyna się od hipotezy; definicje operacyjne określają potem, jak ją badać i mierzyć.",
       "sourceExcerpt": "Praca naukowca zaczyna się od hipotezy: stwierdzenia zbudowanego na podstawie innych odkryć, obserwacji lub istniejącej teorii.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-03",
@@ -74,7 +80,10 @@
       "explanation": "Definicje operacyjne są potrzebne, by określić, o czym mówi hipoteza: jak badamy i mierzymy badane zachowania lub sytuacje.",
       "sourceExcerpt": "Potrzebne są definicje operacyjne, które określają jak badamy i mierzymy badane zachowania lub sytuacje.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-04",
@@ -98,7 +107,10 @@
       "explanation": "Zasada falsyfikacji: teoria musi formułować założenia na tyle szczegółowe, aby możliwe było jej zaprzeczenie.",
       "sourceExcerpt": "Zasada falsyfikacji: teoria naukowa musi formułować założenia na tyle szczegółowe, aby możliwe było jej zaprzeczenie, czyli musi przewidywać nie tylko, co się stanie, ale też co się nie stanie.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-05",
@@ -122,7 +134,10 @@
       "explanation": "Prawdziwość musi opierać się na dokładnej i systematycznej obserwacji; nie jest dowodem zbiór prywatnych poglądów, anegdot ani odwołanie do autorytetu.",
       "sourceExcerpt": "Prawdziwość koncepcji naukowej musi być stwierdzona empirycznie - musi się opierać na dokładnej i systematycznej obserwacji. Nie jest dowodem zbiór prywatnych poglądów lub anegdot ani odwołanie się do autorytetu.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-06",
@@ -145,7 +160,10 @@
       "explanation": "Studium przypadku (historia przypadku) to szczegółowy opis konkretnej jednostki; bywa bogatym źródłem hipotez dla przyszłych badań.",
       "sourceExcerpt": "Studium przypadku: jest raczej źródłem hipotez niż ich weryfikacją.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-07",
@@ -169,7 +187,10 @@
       "explanation": "Plusy studium przypadku: ilustruje twierdzenia w sposób niedostępny uogólnieniom i jest łatwiejsze do uzyskania praktycznie i etycznie.",
       "sourceExcerpt": "Plus: ilustrują twierdzenia w sposób niedostępny uogólnieniom; są łatwiejsze do uzyskania pod względem praktycznym i etycznym.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-08",
@@ -193,7 +214,10 @@
       "explanation": "Minusy: zależy od ludzkiej pamięci i interpretacji, a obiekt badania nie musi przypominać innych osób, więc uogólnienia bywają fałszywe.",
       "sourceExcerpt": "Minusy: zależą od ludzkiej pamięci i interpretacji; obiekt badania nie musi przypominać większości innych osób → uogólnienia są wówczas fałszywe.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-09",
@@ -219,7 +243,10 @@
       "explanation": "Obserwacja umożliwia prawidłowy opis zachowania przed próbą jego wyjaśnienia; jej celem jest opis zachowania w naturalnym środowisku.",
       "sourceExcerpt": "Obserwacja: daje prawdziwy obraz badanych w ich normalnym otoczeniu społecznym. Nie mówi jednak, co powoduje dane zachowania.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-10",
@@ -243,7 +270,10 @@
       "explanation": "Obserwacje laboratoryjne prowadzi się ze względów praktycznych, ale ludzie zachowują się inaczej w obcym miejscu i pod obserwacją.",
       "sourceExcerpt": "Istnieją jednak obserwacje laboratoryjne. Problem: ludzie zachowują się inaczej w obcym miejscu i gdy wiedzą, że są obserwowani.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-11",
@@ -267,7 +297,10 @@
       "explanation": "Dobry test jest standaryzowany, rzetelny (spójne wyniki) i trafny (mierzy to, co ma mierzyć).",
       "sourceExcerpt": "Rzetelny - zapewnia spójne wyniki badań przeprowadzanych w różnych miejscach i różnym czasie.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-12",
@@ -291,7 +324,10 @@
       "explanation": "Trafność: test sprawdza to, co zgodnie z założeniami przewidziane jest do sprawdzenia.",
       "sourceExcerpt": "Trafny - sprawdza to, co zgodnie z założeniami przewidziane jest do sprawdzenia.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-13",
@@ -315,7 +351,10 @@
       "explanation": "Standaryzowany test ma jednolite zasady przy przeprowadzaniu i interpretacji.",
       "sourceExcerpt": "Standaryzowany - obowiązują jednolite zasady przy jego przeprowadzaniu i interpretacji.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-14",
@@ -339,7 +378,10 @@
       "explanation": "Normy to ustalone standardy wykonania, określane na dużej grupie osób o cechach podobnych do adresatów testu.",
       "sourceExcerpt": "Normy to ustalone standardy wykonania. Normy określa się na ogół, przeprowadzając test na dużej grupie osób mających podobne cechy jak osoby, dla których test jest przeznaczony.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-15",
@@ -363,7 +405,10 @@
       "explanation": "Trafność kryterialna: potwierdzenie wyniku innymi niezależnymi metodami lub kryteriami.",
       "sourceExcerpt": "Trafność kryterialna - potwierdzenie wyniku za pomocą innych niezależnych metod lub kryteriów w odniesieniu do analizowanej cechy.",
       "difficulty": 3,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-16",
@@ -387,7 +432,10 @@
       "explanation": "Sondaż to kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy; liczy się reprezentatywność, nie wielkość grupy.",
       "sourceExcerpt": "Sondaż - kwestionariusz lub wywiad pytający wprost o doświadczenia, opinie i postawy. Wielkość grupy jest mniej istotna niż reprezentatywność.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-17",
@@ -411,7 +459,10 @@
       "explanation": "Błąd dobrowolności: ochotnicy prawdopodobnie różnią się opiniami od osób, które się nie wypowiadają.",
       "sourceExcerpt": "Błąd dobrowolności - zgłaszający się ochotniczo prawdopodobnie mają różną opinię od tych, którzy się nie wypowiadają.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-18",
@@ -435,7 +486,10 @@
       "explanation": "Korelacja to miara liczbowa stopnia zależności pomiędzy dwoma czynnikami.",
       "sourceExcerpt": "Korelacja - miara liczbowa stopnia zależności pomiędzy dwoma czynnikami.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-19",
@@ -460,7 +514,10 @@
       "explanation": "Badanie eksperymentalne: manipulacja zmienną niezależną w celu określenia jej wpływu na zmienną zależną.",
       "sourceExcerpt": "Badania eksperymentalne: kontrolowane sprawdzenie hipotezy, w którym manipuluje się jedną ze zmiennych, aby określić jej wpływ na inną zmienną.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-20",
@@ -484,7 +541,10 @@
       "explanation": "Zmienna niezależna jest manipulowana; zmienna zależna ma ulegać wpływom tej manipulacji.",
       "sourceExcerpt": "Zmienna niezależna - zmienna poddawana manipulacji przez badającego.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-21",
@@ -508,7 +568,10 @@
       "explanation": "Zmienna zależna to ta, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
       "sourceExcerpt": "Zmienna zależna - zmienna, która według badającego ma ulegać wpływom manipulacji zmienną niezależną.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "psychologia-podejscia-oraz-koncepcje-tavris-rozdzial-2-22",
