@@ -1,0 +1,841 @@
+{
+  "bookId": "wyklady",
+  "chapterId": "wyklad-2",
+  "chapterTitle": "Wykład 2",
+  "sourceHash": "909b11d82444b15151bd80022cd0e59e81722566",
+  "questions": [
+    {
+      "id": "wyklady-wyklad-2-01",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Koncepcja motywacji kompetencji, według której rozwój polega na poszerzaniu sfer wpływu w środowisku, a skuteczność jest esencją rozwoju osobowości, pochodzi od:"
+      ],
+      "correct": [
+        "White'a"
+      ],
+      "distractors": [
+        "deCharmsa",
+        "Rottera",
+        "Seligmana",
+        "Rothbauma",
+        "Burgera",
+        "Millera",
+        "Heidera"
+      ],
+      "explanation": "White: motywacja kompetencji – zmiany w kolejnych stadiach rozwoju polegają na poszerzaniu sfer wpływu; skuteczność to esencja rozwoju osobowości.",
+      "sourceExcerpt": "White: motywacja kompetencji. Zmiany następujące w kolejnych stadiach rozwoju człowieka polegają na poszerzaniu sfer wpływu w środowisku fizycznym i społecznym. Skuteczność - esencja rozwoju osobowości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-02",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Koncepcja, według której człowiek może być w danej sytuacji „źródłem” (to od niego zależy, co się dzieje) albo „pionkiem” (inni wyznaczają jego drogę), to koncepcja:"
+      ],
+      "correct": [
+        "deCharmsa"
+      ],
+      "distractors": [
+        "White'a",
+        "Rottera",
+        "Seligmana",
+        "Rothbauma",
+        "Langer",
+        "Heidera",
+        "Millera"
+      ],
+      "explanation": "deCharms: koncepcja źródła i pionka; bycie źródłem lub pionkiem jest subiektywne i może nie odpowiadać rzeczywistości.",
+      "sourceExcerpt": "deCharms - koncepcja źródła i pionka. Człowiek może być w poszczególnych sytuacjach źródłem (od niego zależy to, co się dzieje) lub pionkiem (nic od niego nie zależy).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-03",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W koncepcji źródła i pionka poczucie bycia źródłem lub pionkiem:"
+      ],
+      "correct": [
+        "jest subiektywne i może nie odpowiadać rzeczywistemu wpływowi",
+        "nie musi pokrywać się z realnym wpływem na sytuację"
+      ],
+      "distractors": [
+        "zawsze odpowiada rzeczywistemu wpływowi na sytuację",
+        "jest stałą cechą osobowości niezależną od sytuacji",
+        "zależy wyłącznie od pozycji w hierarchii grupy",
+        "kształtuje się dopiero w dorosłości",
+        "dotyczy tylko zdarzeń losowych",
+        "jest zawsze zgodne z oceną innych ludzi",
+        "wynika z liczby posiadanych zasobów"
+      ],
+      "explanation": "Człowiekowi może się wydawać, że nie ma wpływu, gdy realnie go ma, i na odwrót.",
+      "sourceExcerpt": "Subiektywnie można być jednym lub drugim niezależnie od tego jak w rzeczywistości jest (człowiekowi się wydaje, że nie ma wpływu, gdy realnie go ma lub na odwrót).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-04",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Przekonanie o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień to pojęcie wprowadzone przez:"
+      ],
+      "correct": [
+        "Rottera"
+      ],
+      "distractors": [
+        "White'a",
+        "deCharmsa",
+        "Seligmana",
+        "Langer",
+        "Rothbauma",
+        "Heidera",
+        "Burgera"
+      ],
+      "explanation": "Julian Rotter zauważył podczas terapii desensytyzacji, że część pacjentów konsekwentnie robi kroki ku zagrożeniu, a część nie; zależy to od umiejscowienia kontroli wzmocnień.",
+      "sourceExcerpt": "Julian Rotter: przekonania o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień. zewnętrzny - nic ode mnie nie zależy; wewnętrzny - to ja kontroluję wszystko.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-05",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Przekonanie „nic ode mnie nie zależy” odpowiada:"
+      ],
+      "correct": [
+        "zewnętrznemu umiejscowieniu kontroli",
+        "zewnętrznemu poczuciu kontroli"
+      ],
+      "distractors": [
+        "wewnętrznemu umiejscowieniu kontroli",
+        "motywacji kompetencji",
+        "wyuczonej zaradności",
+        "iluzji kontroli",
+        "tendencji do osiągania sukcesu",
+        "wysokiej wystarczalności",
+        "hipotezie minimaksowej"
+      ],
+      "explanation": "Zewnętrzne umiejscowienie: nic ode mnie nie zależy; wewnętrzne: to ja kontroluję wszystko. To skrajności, ludzie plasują się zwykle między nimi.",
+      "sourceExcerpt": "zewnętrzny - nic ode mnie nie zależy. wewnętrzny - to ja kontroluję wszystko. Są to skrajności - człowiek plasuje się zwykle gdzieś między nimi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-06",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W badaniu Langer i Rodin w domu starców grupa, która mogła wpływać na swój los (wybór mebli, opieka nad rośliną, wybór filmów):"
+      ],
+      "correct": [
+        "zgłaszała większe zadowolenie, aktywność i sprawność intelektualną",
+        "poprawiła się w zadowoleniu, aktywności i funkcjonowaniu umysłowym"
+      ],
+      "distractors": [
+        "nie różniła się od grupy kontrolnej w żadnym parametrze",
+        "miała gorsze wyniki niż grupa z pełnym komfortem",
+        "częściej skarżyła się personelowi na swoje problemy",
+        "wykazała wyraźny spadek aktywności fizycznej",
+        "poprawiła tylko nastrój, bez zmian w funkcjonowaniu",
+        "pogorszyła swoje relacje z personelem domu",
+        "wykazała wzrost lęku i objawów depresyjnych"
+      ],
+      "explanation": "Grupa z kontrolą zgłaszała zadowolenie, lepszą aktywność fizyczną i funkcjonowanie intelektualne; w ocenach personelu różnice były jeszcze większe.",
+      "sourceExcerpt": "Grupa z kontrolą: zgłaszali zadowolenie (+0.28), lepszą aktywność fizyczną (+0.20) i funkcjonowanie intelektualnie (+0.29). Grupa bez: -0.12, -1.28, -0,37 względem grupy kontrolnej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-07",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W badaniu Langer i Rodin grupa otoczona pełnym komfortem, ale pozbawiona wpływu na swój los, w porównaniu z grupą kontrolną:"
+      ],
+      "correct": [
+        "wypadła gorzej w zadowoleniu, aktywności i funkcjonowaniu intelektualnym",
+        "pogorszyła się we wszystkich badanych parametrach"
+      ],
+      "distractors": [
+        "wypadła lepiej dzięki opiece personelu",
+        "nie różniła się od niej w żadnym parametrze",
+        "poprawiła funkcjonowanie intelektualne, ale nie aktywność",
+        "miała wyższe zadowolenie przy niższej aktywności",
+        "wypadła lepiej niż grupa z wpływem na swój los",
+        "poprawiła się wyłącznie w ocenach personelu",
+        "wykazała większą samodzielność w codziennych czynnościach"
+      ],
+      "explanation": "Grupa komfortowa bez wpływu miała wyniki poniżej grupy kontrolnej; jedyne, w czym „przodowała”, to częstsze rozmowy z personelem – skargi na problemy.",
+      "sourceExcerpt": "Grupa bez: -0.12, -1.28, -0,37 względem grupy kontrolnej. (poza tym, że grupa komfortowa więcej od grupy kontrolnej rozmawiała z nimi - skarżąc się na problemy).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-08",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Zarówno tendencja do osiągania sukcesu (Ts), jak i tendencja do unikania porażek (Tp) osiągają maksimum przy zadaniach:"
+      ],
+      "correct": [
+        "średnio trudnych",
+        "o średniej trudności"
+      ],
+      "distractors": [
+        "najłatwiejszych",
+        "najtrudniejszych",
+        "czysto losowych",
+        "czysto sprawnościowych",
+        "o pewnym sukcesie",
+        "o pewnej porażce",
+        "zupełnie nowych"
+      ],
+      "explanation": "Ts = Ps × (1 − Ps) i Tp = Pp × −(1 − Pp) osiągają maksimum przy Ps = 0,5, czyli przy zadaniach średnio trudnych.",
+      "sourceExcerpt": "Ts = Ps x (1-Ps). Ts osiąga wartość maksymalną (0.25) przy Ps = 0,5. Tp osiąga maksimum przy Ps=0,5 (a więc przy zadaniach średnio trudnych).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-09",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W modelu motywacji osiągnięć wartość sukcesu (Ws) jest:"
+      ],
+      "correct": [
+        "tym większa, im mniejsze prawdopodobieństwo sukcesu",
+        "odwrotnie związana z prawdopodobieństwem sukcesu"
+      ],
+      "distractors": [
+        "tym większa, im większe prawdopodobieństwo sukcesu",
+        "stała i niezależna od trudności zadania",
+        "równa prawdopodobieństwu sukcesu",
+        "największa przy zadaniach bardzo łatwych",
+        "zależna wyłącznie od nagrody zewnętrznej",
+        "równa ujemnej wartości porażki",
+        "maksymalna przy pewnym sukcesie"
+      ],
+      "explanation": "Ws = 1 − Ps: im mniej prawdopodobny sukces, tym jest cenniejszy. Stąd uwaga: „trzeba zmniejszać prawdopodobieństwo sukcesu”.",
+      "sourceExcerpt": "Ts = Ps (prawdop. sukcesu) x Ws (jego wartość). Ws = (1-Ps).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-10",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W modelu tendencji do unikania porażek poczucie klęski po niepowodzeniu jest tym większe, im:"
+      ],
+      "correct": [
+        "łatwiejsze było zadanie (pewniejszy sukces)",
+        "pewniejszy wydawał się sukces"
+      ],
+      "distractors": [
+        "trudniejsze było zadanie",
+        "mniej wysiłku włożono w zadanie",
+        "mniej osób obserwowało porażkę",
+        "niższa była wartość sukcesu",
+        "bardziej losowe było zadanie",
+        "mniejsza była motywacja osiągnięć",
+        "dłużej trwało zadanie"
+      ],
+      "explanation": "Im pewniejszy sukces (łatwiejsze zadanie), tym większe poczucie klęski w przypadku porażki: Wp = −Ps.",
+      "sourceExcerpt": "„Im pewniejszy sukces (łatwiejsze zadanie), tym większe poczucie klęski w przypadku porażki: Wp = - Ps”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-11",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Zjawisko, w którym ludzie rzucają kostką z większą siłą, gdy chcą wyrzucić wyższą liczbę, to:"
+      ],
+      "correct": [
+        "efekt Henslina"
+      ],
+      "distractors": [
+        "efekt regresji do średniej",
+        "paradoks Pascala",
+        "hipoteza minimaksowa",
+        "efekt Langer",
+        "wyuczona bezradność",
+        "rozproszenie odpowiedzialności",
+        "efekt Rottera"
+      ],
+      "explanation": "Efekt Henslina to przejaw iluzji kontroli: więcej fizycznej energii przy próbie uzyskania trudniejszego losowego wyniku.",
+      "sourceExcerpt": "Henslin effect - the psychological phenomenon where people act with more physical force or energy when trying to achieve a higher, more difficult random outcome (like a higher number on a rolled die).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-12",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Tendencja do postrzegania zdarzeń losowych jako nie w pełni losowych i zakładania własnego wpływu na wynik gier losowych to:"
+      ],
+      "correct": [
+        "iluzja kontroli"
+      ],
+      "distractors": [
+        "wyuczona bezradność",
+        "umiejscowienie kontroli",
+        "motywacja kompetencji",
+        "efekt regresji do średniej",
+        "wyuczona zaradność",
+        "rozproszenie odpowiedzialności",
+        "hipoteza minimaksowa"
+      ],
+      "explanation": "Większość zadań nie jest ani w pełni losowa, ani w pełni sprawnościowa; ludzie postrzegają zdarzenia losowe jako nie w pełni losowe.",
+      "sourceExcerpt": "Iluzja kontroli. Ludzie mają tendencję do postrzegania zdarzeń losowych jako nie w pełni losowych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-13",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Zgodnie z rozumowaniem analogicznym do zakładu Pascala Ellen Langer twierdzi, że ludzie:"
+      ],
+      "correct": [
+        "wolą zakładać, że zdarzenie jest sprawnościowe, bo to się bardziej opłaca",
+        "przyjmują, że mają wpływ, bo założenie sprawnościowe jest korzystniejsze"
+      ],
+      "distractors": [
+        "wolą zakładać, że zdarzenie jest losowe, by uniknąć odpowiedzialności",
+        "rezygnują z kontroli, gdy ryzyko jest duże",
+        "trafnie rozróżniają zdarzenia losowe i sprawnościowe",
+        "unikają gier losowych jako nieopłacalnych",
+        "przeceniają losowość zdarzeń sprawnościowych",
+        "wybierają zadania o najmniejszej trudności",
+        "uczą się bezradności w grach losowych"
+      ],
+      "explanation": "Myślenie jak w zakładzie Pascala: lepiej przyjąć, że coś jest sprawnościowe – dlatego ludzie zakładają, że mają wpływ na wynik gier losowych.",
+      "sourceExcerpt": "Podobne myślenie co w zakładzie Pascala można przyłożyć do tego, czy zdarzenie jest losowe, czy sprawnościowe. W świetle tego Ellen Langer mówi, że lepiej przyjąć, że coś jest sprawnościowe, dlatego zakładają, że mają wpływ na wynik gier losowych.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-14",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Poczucie sprawstwa kształtuje się przez doświadczanie własnej skuteczności oraz:"
+      ],
+      "correct": [
+        "komunikaty werbalne"
+      ],
+      "distractors": [
+        "trening bezradności",
+        "obserwację zdarzeń losowych",
+        "nagrody materialne",
+        "porównania społeczne w górę",
+        "rozproszenie odpowiedzialności",
+        "unikanie porażek",
+        "zwiększanie trudności zadań"
+      ],
+      "explanation": "Kształtowanie poczucia sprawstwa: doświadczanie własnej skuteczności i komunikaty werbalne.",
+      "sourceExcerpt": "Kształtowanie poczucia sprawstwa: Doświadczanie własnej skuteczności. Komunikaty werbalne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-15",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W pierwotnym paradygmacie wyuczonej bezradności Seligmana faza testowa polega na umieszczeniu psa w:"
+      ],
+      "correct": [
+        "skrzynce wahadłowej"
+      ],
+      "distractors": [
+        "uprzęży z płytami",
+        "klatce Skinnera",
+        "labiryncie",
+        "otwartym polu",
+        "basenie wodnym",
+        "komorze deprywacyjnej",
+        "pokoju z lustrem"
+      ],
+      "explanation": "Faza treningowa: wstrząsy, których nie można uniknąć; faza testowa: skrzynka wahadłowa – pudło przedzielone przegrodą na dwie połowy.",
+      "sourceExcerpt": "Faza testowa - pies umieszczany jest w skrzynce wahadłowej (pudło przedzielone przegrodą na dwie połowy).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-16",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W eksperymencie z 24 psami grupa bez możliwości ucieczki otrzymywała wstrząsy:"
+      ],
+      "correct": [
+        "sprzężone z grupą ucieczki, bez możliwości ich wyłączenia",
+        "takie same jak grupa ucieczki, ale bez kontroli nad nimi"
+      ],
+      "distractors": [
+        "znacznie silniejsze niż psy z grupy ucieczki",
+        "losowe i nieprzewidywalne co do siły",
+        "które mogła wyłączyć dotknięciem płyty głową",
+        "wyłącznie w fazie testowej, nie treningowej",
+        "słabsze, ale znacznie częstsze niż grupa ucieczki",
+        "poprzedzane sygnałem ostrzegawczym (światłem)",
+        "podawane wyłącznie w skrzynce wahadłowej"
+      ],
+      "explanation": "Grupa 1 wyłączała prąd dotknięciem płyty głową; grupa 2 była z nią sprzężona (te same wstrząsy), ale nie miała możliwości ich wyłączenia; grupa 3 kontrolna.",
+      "sourceExcerpt": "Dotknięcie głowa płyty w grupie 1 – wyłączenie prądu. Psy w grupie 2 nie mają możliwości wyłączania prądu, ale są sprzężone z psami z grupy 1.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-17",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Trzy rodzaje deficytów bezradnościowych to deficyty:"
+      ],
+      "correct": [
+        "poznawcze, motywacyjne i emocjonalne"
+      ],
+      "distractors": [
+        "behawioralne, społeczne i fizjologiczne",
+        "pamięciowe, uwagowe i językowe",
+        "atrybucyjne, kontrolne i wykonawcze",
+        "lękowe, depresyjne i somatyczne",
+        "sensoryczne, motoryczne i poznawcze",
+        "wewnętrzne, zewnętrzne i mieszane",
+        "krótkotrwałe, długotrwałe i chroniczne"
+      ],
+      "explanation": "Poznawczy: niezrozumienie asocjacji reakcja–wzmocnienie; motywacyjny: mniej nowych reakcji dowolnych; emocjonalny: lęk, a potem depresja.",
+      "sourceExcerpt": "Deficyty bezradnościowe: Poznawcze, Motywacyjne, Emocjonalne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-18",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Deficyt bezradnościowy polegający na niezdolności dostrzeżenia związku między reakcją a wzmocnieniem to deficyt:"
+      ],
+      "correct": [
+        "poznawczy"
+      ],
+      "distractors": [
+        "motywacyjny",
+        "emocjonalny",
+        "behawioralny",
+        "atrybucyjny",
+        "społeczny",
+        "fizjologiczny",
+        "wykonawczy"
+      ],
+      "explanation": "Deficyt poznawczy: nie potrafi zrozumieć asocjacji reakcja–wzmocnienie.",
+      "sourceExcerpt": "Poznawcze: nie potrafi zrozumieć asocjacji reakcja-wzmocnienie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-19",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Zmniejszenie motywacji do emitowania nowych reakcji dowolnych to deficyt bezradnościowy:"
+      ],
+      "correct": [
+        "motywacyjny"
+      ],
+      "distractors": [
+        "poznawczy",
+        "emocjonalny",
+        "behawioralny",
+        "atrybucyjny",
+        "społeczny",
+        "fizjologiczny",
+        "wykonawczy"
+      ],
+      "explanation": "Deficyt motywacyjny: zmniejszenie motywacji do emitowania nowych reakcji dowolnych.",
+      "sourceExcerpt": "Motywacyjne: zmniejszenie motywacji do emitowania nowych reakcji dowolnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-20",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Emocjonalny deficyt bezradnościowy przebiega jako:"
+      ],
+      "correct": [
+        "lęk, a potem depresja"
+      ],
+      "distractors": [
+        "gniew, a potem agresja",
+        "depresja, a potem lęk",
+        "apatia, a potem euforia",
+        "wstyd, a potem poczucie winy",
+        "smutek, a potem gniew",
+        "lęk, a potem wyuczona zaradność",
+        "pobudzenie, a potem obojętność"
+      ],
+      "explanation": "Deficyt emocjonalny: najpierw lęk, potem depresja; dotyczy także bodźców pozytywnych.",
+      "sourceExcerpt": "Emocjonalne: lęk a potem depresja. Dotyczy to także pozytywnych bodźców.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-21",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W badaniu Finkelsteina i Ramey niemowlęta, których „mobile” poruszały się losowo, niezależnie od ruchów głowy:"
+      ],
+      "correct": [
+        "nie potrafiły później nauczyć się sterowania mobilem",
+        "nie uczyły się później kontroli nad mobilem"
+      ],
+      "distractors": [
+        "uczyły się sterowania szybciej niż grupa kontrolna",
+        "wykazywały większą aktywność ruchową",
+        "nie różniły się od niemowląt sterujących mobilem",
+        "rozwinęły silniejszą motywację kompetencji",
+        "płakały rzadziej niż pozostałe",
+        "szybciej traciły zainteresowanie mobilem",
+        "preferowały mobile nieruchome"
+      ],
+      "explanation": "Niemowlęta, u których mobile ruszały się losowo, nie mogły się później nauczyć sterowania nimi – wczesny brak kontroli wyucza bezradność.",
+      "sourceExcerpt": "Filkenstein & Ramey (1977) - niektóre niemowlaki sterowały „mobilami” ruchem głowy - te, u których mobile ruszały się losowo, nie mogły się tego nauczyć później.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-22",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Według Chorpity i Barlowa wczesne doświadczenie ograniczonej kontroli sprzyja:"
+      ],
+      "correct": [
+        "interpretowaniu zdarzeń jako zagrożenia i podatności na lęki",
+        "widzeniu w zdarzeniach zagrożenia (nie wyzwania) oraz lękliwości"
+      ],
+      "distractors": [
+        "interpretowaniu zdarzeń jako wyzwania i odporności na stres",
+        "wzrostowi motywacji osiągnięć w późniejszym życiu",
+        "wykształceniu wewnętrznego umiejscowienia kontroli",
+        "wyuczonej zaradności w sytuacjach stresowych",
+        "rozwojowi iluzji kontroli nad zdarzeniami losowymi",
+        "większej skłonności do podejmowania ryzyka",
+        "obniżeniu poczucia odpowiedzialności za innych"
+      ],
+      "explanation": "Chorpita i Barlow (1998): wczesne doświadczenie ograniczonej kontroli może sprzyjać stylowi poznawczemu interpretującemu zdarzenia jako zagrożenie oraz podatności na lęki.",
+      "sourceExcerpt": "„Wczesne doświadczenie ograniczonej kontroli może sprzyjać stylowi poznawczemu sprzyjającemu interpretowaniu zdarzeń w kategoriach zagrożenia (vs. wyzwania) oraz podatności na lęki”",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-23",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Atrybucyjne ujęcie bezradności zakładało, że bezradność nie wyucza się, gdy porażkę przypisujemy pechowi. Badania empiryczne pokazały, że:"
+      ],
+      "correct": [
+        "przyczyna przypisywana porażce nie ma znaczenia dla wyuczenia bezradności",
+        "rodzaj atrybucji porażki nie wpływa na powstanie bezradności"
+      ],
+      "distractors": [
+        "bezradność wyucza się tylko przy atrybucji wewnętrznej",
+        "atrybucja do pecha całkowicie chroni przed bezradnością",
+        "bezradność powstaje wyłącznie przy atrybucji stałej",
+        "atrybucja zewnętrzna nasila bezradność",
+        "ujęcie atrybucyjne w pełni się potwierdziło",
+        "bezradność zależy od umiejscowienia kontroli",
+        "atrybucja ma znaczenie tylko u zwierząt"
+      ],
+      "explanation": "Ujęcie atrybucyjne okazało się nieprawdziwe: badania empiryczne mówią, że przyczyna przypisywana niepowodzeniu nie ma znaczenia.",
+      "sourceExcerpt": "Ujęcie atrybucyjne - zakładało, że istotne jest jaka jest przyczyna niepowodzenia: Jeśli uważam, że to pech, to bezradność się nie wyucza. Jest to jednak nieprawda ← badania empiryczne mówią, że nie ma to znaczenia.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-24",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Kofta i Sędek wyjaśniają wyuczoną bezradność przez:"
+      ],
+      "correct": [
+        "zmęczenie (wyczerpanie) poznawcze",
+        "wyczerpanie poznawcze"
+      ],
+      "distractors": [
+        "atrybucję porażek do pecha",
+        "zewnętrzne umiejscowienie kontroli",
+        "deficyt motywacji kompetencji",
+        "rozproszenie odpowiedzialności",
+        "hipotezę minimaksową",
+        "iluzję kontroli",
+        "wyparcie porażek"
+      ],
+      "explanation": "Kofta i Sędek: bezradność jako zmęczenie/wyczerpanie poznawcze, badane w eksperymencie z „klipcem”.",
+      "sourceExcerpt": "Zmęczenie/wyczerpanie poznawcze - Kofta & Sędek.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-25",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W eksperymencie Kofty i Sędka grupa, której pokazywano zestaw symboli bez wspólnej cechy definiującej „klipca”, w kolejnym zadaniu:"
+      ],
+      "correct": [
+        "wolniej odkrywała wzorzec (była „zmęczona poznawczo”)",
+        "gorzej odkrywała, który guzik wyłącza dźwięk"
+      ],
+      "distractors": [
+        "szybciej odkrywała wzorzec dzięki wcześniejszemu treningowi",
+        "nie różniła się od grupy z jedną cechą wspólną",
+        "odmawiała dalszego udziału w zadaniu",
+        "naciskała guziki przypadkowo, ale równie skutecznie",
+        "wykazywała silniejszą iluzję kontroli",
+        "lepiej znosiła drażniące dźwięki",
+        "zapamiętała więcej symboli"
+      ],
+      "explanation": "Grupa „zmęczona poznawczo” (brak wspólnej cechy „klipca”) nie odkrywała równie szybko, który guzik wyłącza drażniący dźwięk.",
+      "sourceExcerpt": "Druga grupa była „zmęczona poznawczo”. W następnej fazie obu grupom kazano nacisnąć jeden z guzików na podstawie świecących się lampek, by wyłączyć drażniące dźwięki. Pierwsza grupa rozpoznawała szybko, jaki guzik na jakie światełka, druga grupa nie odkrywała wzorca równie szybko.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-26",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Gdy pies najpierw mógł wpływać na rażenie prądem, a dopiero potem tego nie mógł, nie przestawał próbować. Zjawisko to (Seligman i Maier) nazywa się:"
+      ],
+      "correct": [
+        "wyuczoną zaradnością"
+      ],
+      "distractors": [
+        "wyuczoną bezradnością",
+        "iluzją kontroli",
+        "motywacją kompetencji",
+        "wewnętrznym umiejscowieniem kontroli",
+        "efektem Henslina",
+        "zmęczeniem poznawczym",
+        "regresją do średniej"
+      ],
+      "explanation": "Wyuczona zaradność: odwrócona kolejność treningu bezradności uodparnia na późniejszy brak kontroli.",
+      "sourceExcerpt": "Wyuczona zaradność. Seligman & Maier. Gdy odwrócono kolejność treningu bezradności (najpierw pies mógł wpływać na rażenie prądem, potem nie mógł, ale nie przestawał próbować).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-27",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Zdolność działającego podmiotu do wywołania lub wstrzymania jakiegoś zdarzenia to w modelu Rothbauma:"
+      ],
+      "correct": [
+        "wystarczalność"
+      ],
+      "distractors": [
+        "konieczność",
+        "kontrola",
+        "odpowiedzialność",
+        "sprawstwo",
+        "skuteczność",
+        "umiejscowienie kontroli",
+        "zaradność"
+      ],
+      "explanation": "Wystarczalność: zdolność podmiotu do wywołania lub wstrzymania zdarzenia; konieczność: brak takiej wystarczalności u innych.",
+      "sourceExcerpt": "WYSTARCZALNOŚĆ to zdolność działającego podmiotu do wywołania lub wstrzymania jakiegoś zdarzenia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-28",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Brak wystarczalności u innych ludzi (nikt inny nie może zareagować) to w modelu Rothbauma:"
+      ],
+      "correct": [
+        "konieczność"
+      ],
+      "distractors": [
+        "wystarczalność",
+        "kontrola",
+        "odpowiedzialność",
+        "rozproszenie",
+        "sprawstwo",
+        "bezradność",
+        "zaradność"
+      ],
+      "explanation": "Konieczność to brak wystarczalności u innych ludzi.",
+      "sourceExcerpt": "KONIECZNOŚĆ to brak takiej wystarczalności u innych ludzi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-29",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Informacja o własnej wystarczalności (np. „mam koło ratunkowe”) wpływa bardziej na sąd o:"
+      ],
+      "correct": [
+        "kontroli niż o odpowiedzialności"
+      ],
+      "distractors": [
+        "odpowiedzialności niż o kontroli",
+        "winie niż o kontroli",
+        "kompetencji niż o kontroli",
+        "odpowiedzialności niż o skuteczności",
+        "ryzyku niż o odpowiedzialności",
+        "losowości niż o kontroli",
+        "sprawczości innych niż o własnej"
+      ],
+      "explanation": "Wystarczalność wpływa bardziej na sąd o kontroli; konieczność (np. „inny ratownik już płynie”) bardziej na sąd o odpowiedzialności.",
+      "sourceExcerpt": "Informacja o wielkości wystarczalności (mam koło ratunkowe) ma większy wpływ na sąd o kontroli niż odpowiedzialności. Informacja o wielkości konieczności (inny ratownik już do niego płynie) ma większy wpływ na sąd o odpowiedzialności niż kontroli.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-30",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Rozproszenie odpowiedzialności (gdy wiele osób może zareagować, często nikt nie reaguje) wiąże się ze spostrzeganiem:"
+      ],
+      "correct": [
+        "wysokiej wystarczalności innych ludzi"
+      ],
+      "distractors": [
+        "niskiej wystarczalności innych ludzi",
+        "własnej wysokiej konieczności",
+        "własnej niskiej wystarczalności",
+        "wysokiego ryzyka osobistego",
+        "zewnętrznego umiejscowienia kontroli",
+        "niskiej spójności grupy",
+        "wysokiej odpowiedzialności własnej"
+      ],
+      "explanation": "Rozproszenie odpowiedzialności to jeden z dwóch wyjątków od związku kontroli z odpowiedzialnością; wiąże się z postrzeganiem wysokiej wystarczalności innych.",
+      "sourceExcerpt": "Rozproszenie odpowiedzialności - jeśli wiele osób może zareagować, często nikt nie reaguje. Rozproszenie odpowiedzialności wiąże się ze spostrzeganiem wysokiej wystarczalności innych ludzi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-31",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Osoby w depresji, według modelu Rothbauma, odczuwają:"
+      ],
+      "correct": [
+        "ogromną odpowiedzialność mimo braku poczucia kontroli",
+        "wysoką odpowiedzialność przy niskiej kontroli"
+      ],
+      "distractors": [
+        "wysoką kontrolę przy braku odpowiedzialności",
+        "niską odpowiedzialność i niską kontrolę",
+        "wysoką kontrolę i wysoką odpowiedzialność",
+        "rozproszenie odpowiedzialności na innych",
+        "wysoką wystarczalność innych ludzi",
+        "brak zarówno konieczności, jak i odpowiedzialności",
+        "iluzję kontroli nad zdarzeniami losowymi"
+      ],
+      "explanation": "Depresja to drugi wyjątek: spostrzeganie niskiej wystarczalności innych implikuje spostrzeganie własnej wysokiej konieczności, a więc odpowiedzialności mimo braku kontroli.",
+      "sourceExcerpt": "Depresja - ludzie w depresji czują ogromną odpowiedzialność, mimo braku poczucia kontroli. W depresji spostrzeganie niskiej wystarczalności innych implikuje spostrzeganie własnej wysokiej konieczności.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-32",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Hipoteza, według której główną motywacją człowieka jest zminimalizowanie prawdopodobieństwa najgorszych zdarzeń, co bywa osiągane przez rezygnację z kontroli, to:"
+      ],
+      "correct": [
+        "hipoteza minimaksowa (Miller)",
+        "hipoteza minimaksowa"
+      ],
+      "distractors": [
+        "koncepcja źródła i pionka",
+        "model Rothbauma",
+        "motywacja kompetencji",
+        "paradoks Pascala",
+        "koncepcja Burgera",
+        "teoria umiejscowienia kontroli",
+        "wyuczona bezradność"
+      ],
+      "explanation": "Miller: hipoteza minimaksowa – rezygnacja z kontroli pozwala zminimalizować ryzyko najgorszego scenariusza.",
+      "sourceExcerpt": "Miller – hipoteza minimaksowa - główna motywacja człowieka to zminimalizowanie prawdopodobieństwa wydarzenia się najgorszych rzeczy - można osiągnąć ten scenariusz rezygnując z kontroli.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-33",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Różnice indywidualne w nasileniu potrzeby sprawowania kontroli jako perspektywa wyjaśniająca rezygnację z kontroli wiążą się z nazwiskiem:"
+      ],
+      "correct": [
+        "Burgera"
+      ],
+      "distractors": [
+        "Millera",
+        "Rothbauma",
+        "Rottera",
+        "Seligmana",
+        "deCharmsa",
+        "White'a",
+        "Langer"
+      ],
+      "explanation": "Burger: różnice indywidualne w potrzebie kontroli; Miller: hipoteza minimaksowa; dodatkowo egotystyczne podstawy rezygnacji z kontroli (mały zysk, duże ryzyko).",
+      "sourceExcerpt": "Burger – różnice indywidualne w nasileniu potrzeby sprawowania kontroli.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-2-34",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Egotystyczne podstawy rezygnacji ze sprawowania kontroli polegają na tym, że ludzie:"
+      ],
+      "correct": [
+        "nie chcą brać na siebie spraw o małym zysku i dużym ryzyku",
+        "unikają spraw mało zyskownych, a ryzykownych"
+      ],
+      "distractors": [
+        "przeceniają własny wpływ na zdarzenia losowe",
+        "odczuwają zbyt silną potrzebę sprawowania kontroli",
+        "ulegają zmęczeniu poznawczemu po porażkach",
+        "przypisują swoje porażki pechowi i przypadkowi",
+        "dążą do maksymalizacji własnej wystarczalności",
+        "czują odpowiedzialność mimo braku kontroli",
+        "preferują zadania o średniej trudności"
+      ],
+      "explanation": "Egotystyczne podstawy rezygnacji z kontroli: ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.",
+      "sourceExcerpt": "Egotystyczne podstawy rezygnacji ze sprawowania kontroli: np. ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

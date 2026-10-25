@@ -42,11 +42,12 @@ const level = (h?: string) => parseInt((h ?? "h1").replace(/^h/, ""), 10);
 
 /**
  * Splits markdown into books and chapters.
- * - Any heading (h1–h4) matching `chapterPattern` starts a chapter. If the pattern's
- *   first capture group is non-empty, it is the book title (e.g. "“Book”, Author. Rozdział 2");
- *   the chapter title is the second group (or the whole heading if there is no second group).
- * - A heading at `bookHeading` level (default h1) that does not match the pattern starts a book.
- * - The very first heading (the page title) is ignored; chapters without a book fall back to it.
+ * - Any heading (h1–h4) containing `chapterPattern` (e.g. "Rozdział 5", "Rozdz. 13", "Wykład 2") starts a chapter.
+ *   Text before the match that ends with `.`, `:` or `,` is the book title ("“Book”, Author. Rozdział 2");
+ *   other leading text (dates, bullets) is dropped. The chapter title is the heading from the match onward,
+ *   so notes like "Rozdział 1, str. 12-19" or "Wykład 3 – Grupy" stay visible. The id comes from the match only.
+ * - A heading at `bookHeading` level (default h1) without a match starts a book.
+ * - The first heading of a file (page title) is skipped; chapters without a book fall back to it.
  * - Everything else, including deeper headings, is chapter text.
  */
 export function splitNotes(md: string): Book[] {
@@ -83,13 +84,12 @@ export function splitNotes(md: string): Book[] {
       const title = m[2].trim();
       if (!seenTitle) { seenTitle = true; pageTitle = title; continue; }
       const cm = title.match(pattern);
-      if (cm) {
+      if (cm && cm.index !== undefined) {
         flush();
-        const bookTitle = cm[1]?.trim();
-        // id from the "Rozdział N" group only; title keeps the whole heading minus the book prefix,
-        // so a partial-chapter note like "Rozdział 1, str. 12-19" stays visible in the app.
-        const chapterKey = (cm[2] ?? title).trim();
-        const chapterTitle = (bookTitle ? title.slice(title.indexOf(chapterKey)) : title).replace(/[\s.:;,-]+$/, "").trim();
+        const before = title.slice(0, cm.index).trim();
+        const bookTitle = /[.:,]$/.test(before) ? before.replace(/[.:,]+$/, "").trim() : "";
+        const chapterKey = cm[1];
+        const chapterTitle = title.slice(cm.index).replace(/[\s.:;,–-]+$/, "").trim();
         if (bookTitle) book = getBook(bookTitle);
         if (!book) book = getBook(pageTitle);
         const chapterId = slugify(chapterKey.replace(/^Rozdz\.?\s+/i, "Rozdział "));

@@ -10,6 +10,8 @@ Statyczna apka quizowa (Vite + TypeScript) hostowana na GitHub Pages. Bank pyta�
 3. W Claude Code: `/quiz-bank update` (albo „wygeneruj pytania do rozdziału X”). Skill czyta notatki i `examples/`, pisze `app/public/data/bank/<książka>/<rozdział>.json` i `index.json`.
 4. `npm run build-index` odświeża `index.json`, `npm run check-bank` waliduje bank. `git push` na `main` buduje i publikuje stronę przez GitHub Actions.
 
+Źródła to trzy publiczne strony Notion: dwie z notatkami z książek (podział na książki i rozdziały) i jedna z wykładami (przedmiot jako „książka”, wykład jako „rozdział”).
+
 Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej odpowiedzi i 6–12 dystraktorów. Apka losuje 1 poprawną + 3 błędne i tasuje je do A–D, więc nie da się nauczyć „na pamięć pozycji”.
 
 ## Skrypty

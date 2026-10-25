@@ -46,7 +46,7 @@ Nacisk na wyuczone nawyki i ich funkcje w efektywnym funkcjonowaniu w środowisk
 
 > Gestalt (postać) - alternatywa dla powyższych. Max Wertheimer. Doświadczenia jako zorganizowana całościowa postać, a nie suma prostych części
 
-#### Ważne Babki 
+#### Ważne Babki
 
 ###### Mary Whiton Calkins
 

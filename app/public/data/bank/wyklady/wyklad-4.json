@@ -1,0 +1,226 @@
+{
+  "bookId": "wyklady",
+  "chapterId": "wyklad-4",
+  "chapterTitle": "Wykład 4 – Ja i inni. Atrybucja",
+  "sourceHash": "4158e53b912fdffee2c414b7559f11afdf7bb8cf",
+  "questions": [
+    {
+      "id": "wyklady-wyklad-4-01",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Autorem teorii atrybucji, według którego wysiłek jest funkcją trudności zadania i zdolności, jest:"
+      ],
+      "correct": [
+        "Fritz Heider"
+      ],
+      "distractors": [
+        "Harold Kelley",
+        "Edward Jones",
+        "Richard Nisbett",
+        "Keith Davis",
+        "Bernard Weiner",
+        "Daryl Bem",
+        "Leon Festinger"
+      ],
+      "explanation": "Heider: Wysiłek = f(Trudność/Zdolności); do wyniku trzeba i talentu, i wysiłku.",
+      "sourceExcerpt": "Fritz Heider - autor teorii atrybucji. Wysiłek = f(Trudność/Zdolności).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-02",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Według Heidera potoczna intuicja o przyczynach wyniku zwykle zakłada:"
+      ],
+      "correct": [
+        "albo talent, albo wysiłek, podczas gdy potrzebne są oba",
+        "jedno z dwojga: talent lub wysiłek"
+      ],
+      "distractors": [
+        "że liczy się wyłącznie sytuacja",
+        "że talent i wysiłek zawsze współwystępują",
+        "że wysiłek nie ma znaczenia",
+        "że talent jest nieistotny",
+        "że decyduje przypadek",
+        "że wynik zależy od obserwatora",
+        "że trudność zadania nie ma znaczenia"
+      ],
+      "explanation": "Heider: trzeba i talentu, i wysiłku; intuicja jest zwykle „albo talent, albo wysiłek”.",
+      "sourceExcerpt": "F. Heider mówi: Trzeba i talentu i wysiłku. Intuicja jest zwykle albo talent, albo wysiłek.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-03",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Wnioskowanie „piękny ogród → zdolny ogrodnik”, czyli od obserwowanego wyniku przez zakładaną intencję do dyspozycji, ilustruje koncepcję:"
+      ],
+      "correct": [
+        "Jonesa i Davisa"
+      ],
+      "distractors": [
+        "Harolda Kelleya",
+        "Jonesa i Nisbetta",
+        "Fritza Heidera",
+        "Bernarda Weinera",
+        "Daryla Bema",
+        "Leona Festingera",
+        "Juliana Rottera"
+      ],
+      "explanation": "Jones i Davis: obserwowany wynik → wiedza? zdolność? → zakładamy intencję → zakładamy dyspozycję.",
+      "sourceExcerpt": "Koncepcja Jonesa i Davisa. Obserwowany wynik → Wiedza? Zdolność? → Zakładamy, że były intencje → Zakładamy dyspozycję. przykład: piękny ogród → zdolny ogrodnik.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-04",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Kontrprzykład „wypadek samochodowy → samobójca” pokazuje słabość koncepcji Jonesa i Davisa, która polega na:"
+      ],
+      "correct": [
+        "zakładaniu intencji za każdym obserwowanym wynikiem",
+        "automatycznym dopisywaniu intencji do wyniku"
+      ],
+      "distractors": [
+        "pomijaniu roli zdolności i wiedzy aktora",
+        "nadmiernym uwzględnianiu wpływu sytuacji",
+        "ignorowaniu powszechności reakcji innych ludzi",
+        "braku rozróżnienia aktora i obserwatora",
+        "przecenianiu roli przypadku w wynikach",
+        "zakładaniu, że wysiłek zastępuje talent",
+        "pomijaniu spójności zachowania w czasie"
+      ],
+      "explanation": "Schemat wynik → intencja → dyspozycja prowadzi do absurdu, gdy wynik nie był zamierzony (wypadek → „samobójca”).",
+      "sourceExcerpt": "kontrprzykład: wypadek samochodowy → samobójca",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-05",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Trzy wymiary sześcianu atrybucyjnego Kelleya to:"
+      ],
+      "correct": [
+        "dystynktywność, powszechność i spójność"
+      ],
+      "distractors": [
+        "intencja, zdolność i wiedza",
+        "talent, wysiłek i trudność",
+        "aktor, obserwator i sytuacja",
+        "stałość, kontrolowalność i umiejscowienie",
+        "wystarczalność, konieczność i kontrola",
+        "przymus, nagradzanie i prawomocność",
+        "dyspozycja, intencja i wynik"
+      ],
+      "explanation": "Sześcian Kelleya: dystynktywność reakcji wobec bodźca, powszechność reakcji innych wobec bodźca, spójność.",
+      "sourceExcerpt": "Sześcian atrybucyjny Kelleya. Dystynktywność reakcji wobec bodźca. Powszechność reakcji innych wobec tego bodźca. Spójność.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-06",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Jeśli Z uśmiecha się tylko do K, a nie do innych kobiet, to zgodnie z sześcianem Kelleya przyczyna leży:"
+      ],
+      "correct": [
+        "w K (bodźcu)"
+      ],
+      "distractors": [
+        "w Z (aktorze)",
+        "w sytuacji",
+        "w obserwatorze",
+        "w normach grupy",
+        "w przypadku",
+        "w innych kobietach",
+        "w innych mężczyznach"
+      ],
+      "explanation": "Dystynktywność: jeśli Z uśmiecha się do wielu kobiet, cecha jest w Z; jeśli tylko do K, cecha jest w K.",
+      "sourceExcerpt": "Jeśli Z uśmiecha się do K, ale uśmiecha się do innych kobiet ← cecha jest w Z, jeśli tylko do K ← cecha jest w K.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-07",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Pytanie „czy wszyscy mężczyźni uśmiechają się do K?” dotyczy w sześcianie Kelleya wymiaru:"
+      ],
+      "correct": [
+        "powszechności"
+      ],
+      "distractors": [
+        "dystynktywności",
+        "spójności",
+        "intencji",
+        "dyspozycji",
+        "kontrolowalności",
+        "stałości",
+        "wystarczalności"
+      ],
+      "explanation": "Powszechność: czy tylko Z uśmiecha się do K (cecha w Z), czy wszyscy mężczyźni (cecha w K).",
+      "sourceExcerpt": "Powszechność reakcji innych wobec tego bodźca. Czy tylko Z uśmiecha się do K? ← cecha w Z. Czy wszyscy mężczyźni się uśmiechają do niej? ← w K.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-08",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Koncepcja, według której aktor szuka przyczyn swoich zachowań w sytuacji zewnętrznej, a obserwator w cechach aktora, to koncepcja:"
+      ],
+      "correct": [
+        "Jonesa i Nisbetta"
+      ],
+      "distractors": [
+        "Jonesa i Davisa",
+        "Harolda Kelleya",
+        "Fritza Heidera",
+        "Bernarda Weinera",
+        "Daryla Bema",
+        "Leona Festingera",
+        "Juliana Rottera"
+      ],
+      "explanation": "Jones i Nisbett: różnica aktor–obserwator.",
+      "sourceExcerpt": "Koncepcja Jonesa i Nisbetta. Różnica aktor - obserwator. aktor ← szuka przyczyn swoich zachowań w zewnętrznej sytuacji. obserwator ← szuka przyczyn zachowań aktora w cechach aktora.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-4-09",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Zgodnie z koncepcją Jonesa i Nisbetta wpływ czynników zewnętrznych na zachowanie łatwiej dostrzega:"
+      ],
+      "correct": [
+        "aktor"
+      ],
+      "distractors": [
+        "obserwator",
+        "badacz",
+        "grupa",
+        "ofiara",
+        "przywódca",
+        "świadek",
+        "ekspert"
+      ],
+      "explanation": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie niż obserwator.",
+      "sourceExcerpt": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

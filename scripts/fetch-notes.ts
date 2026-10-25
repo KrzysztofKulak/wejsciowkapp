@@ -71,6 +71,11 @@ function title(b: Block): string {
   return richText(b.properties?.title);
 }
 
+/** Heading text on one line: Notion allows soft line breaks inside headings. */
+function headingTitle(b: Block): string {
+  return title(b).replace(/\s*\n\s*/g, " – ").replace(/\s{2,}/g, " ").trim();
+}
+
 async function renderPage(id: string, depth: number, asHeading: boolean) {
   const norm = id.replace(/-/g, "");
   if (visitedPages.has(norm)) return;
@@ -118,25 +123,25 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
     }
     case "header":
       var HDEPTH = 1;
-      out.push(`${pad}${"#".repeat(pageDepth + 1)} ${t}`, "");
+      out.push(`${pad}${"#".repeat(pageDepth + 1)} ${headingTitle(b)}`, "");
       headings++;
       await renderChildren(rm, b, indent, pageDepth + HDEPTH); // toggleable headings hold their section
       return;
     case "header_4":
       var HDEPTH = 4;
-      out.push(`${pad}${"#".repeat(pageDepth + 4)} ${t}`, "");
+      out.push(`${pad}${"#".repeat(pageDepth + 4)} ${headingTitle(b)}`, "");
       headings++;
       await renderChildren(rm, b, indent, pageDepth + HDEPTH); // toggleable headings hold their section
       return;
     case "sub_header":
       var HDEPTH = 2;
-      out.push(`${pad}${"#".repeat(pageDepth + 2)} ${t}`, "");
+      out.push(`${pad}${"#".repeat(pageDepth + 2)} ${headingTitle(b)}`, "");
       headings++;
       await renderChildren(rm, b, indent, pageDepth + HDEPTH); // toggleable headings hold their section
       return;
     case "sub_sub_header":
       var HDEPTH = 3;
-      out.push(`${pad}${"#".repeat(pageDepth + 3)} ${t}`, "");
+      out.push(`${pad}${"#".repeat(pageDepth + 3)} ${headingTitle(b)}`, "");
       headings++;
       await renderChildren(rm, b, indent, pageDepth + HDEPTH); // toggleable headings hold their section
       return;

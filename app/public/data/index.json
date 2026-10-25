@@ -42,6 +42,32 @@
           "questionCount": 50
         }
       ]
+    },
+    {
+      "id": "wyklady",
+      "title": "Wykłady",
+      "chapters": [
+        {
+          "id": "wyklad-1",
+          "title": "Wykład 1 – Czym jest psychologia społeczna",
+          "questionCount": 18
+        },
+        {
+          "id": "wyklad-2",
+          "title": "Wykład 2",
+          "questionCount": 34
+        },
+        {
+          "id": "wyklad-3",
+          "title": "Wykład 3 – Grupy i ich funkcjonowanie",
+          "questionCount": 38
+        },
+        {
+          "id": "wyklad-4",
+          "title": "Wykład 4 – Ja i inni. Atrybucja",
+          "questionCount": 9
+        }
+      ]
     }
   ]
 }

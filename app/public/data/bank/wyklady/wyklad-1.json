@@ -1,0 +1,444 @@
+{
+  "bookId": "wyklady",
+  "chapterId": "wyklad-1",
+  "chapterTitle": "Wykład 1 – Czym jest psychologia społeczna",
+  "sourceHash": "6283e3f7d038f0c1119643cc127a202b52ed32b4",
+  "questions": [
+    {
+      "id": "wyklady-wyklad-1-01",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Nauka o tym, jak ludzie wpływają na myśli, emocje i zachowania innych ludzi, to:"
+      ],
+      "correct": [
+        "psychologia społeczna"
+      ],
+      "distractors": [
+        "psychologia poznawcza",
+        "socjologia",
+        "psychologia osobowości",
+        "antropologia kulturowa",
+        "psychologia ewolucyjna",
+        "psychologia rozwojowa",
+        "psychologia kliniczna"
+      ],
+      "explanation": "Psychologia społeczna bada wzajemny wpływ ludzi na myśli, emocje i zachowania.",
+      "sourceExcerpt": "Psychologia społeczna - nauka o tym, jak ludzie wpływają na myśli, emocje i zachowania innych ludzi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-02",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Dwie funkcje nauki omawiane w kontekście psychologii społecznej to funkcja:"
+      ],
+      "correct": [
+        "predykcyjna i eksplanacyjna"
+      ],
+      "distractors": [
+        "opisowa i normatywna",
+        "diagnostyczna i terapeutyczna",
+        "deskryptywna i preskryptywna",
+        "korelacyjna i eksperymentalna",
+        "teoretyczna i praktyczna",
+        "heurystyczna i weryfikacyjna",
+        "ilościowa i jakościowa"
+      ],
+      "explanation": "Funkcja predykcyjna (przewidywanie) i eksplanacyjna („dlaczego X”, a więc także „co było przed Y”).",
+      "sourceExcerpt": "Funkcje nauki: predykcyjna; eksplanacyjna - „Dlaczego X”, więc także „Co było przed Y?”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-03",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Funkcja predykcyjna psychologii jest niedeterministyczna, ponieważ psychologia jest nauką:"
+      ],
+      "correct": [
+        "probabilistyczną"
+      ],
+      "distractors": [
+        "opisową",
+        "humanistyczną",
+        "idiograficzną",
+        "normatywną",
+        "fenomenologiczną",
+        "stosowaną",
+        "dedukcyjną"
+      ],
+      "explanation": "Przewidywania w psychologii mają charakter probabilistyczny, a nie deterministyczny.",
+      "sourceExcerpt": "Predykcyjna - w psychologii jest niedeterministyczna - bo to nauka probabilistyczna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-04",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Perspektywa teoretyczna pytająca „co pomagało przetrwać?” i korzystająca z obserwacji zwierząt (np. hipoteza kompromisu poznawczego) to perspektywa:"
+      ],
+      "correct": [
+        "ewolucyjna"
+      ],
+      "distractors": [
+        "kulturowa",
+        "behawioralna",
+        "fenomenologiczna",
+        "poznawcza",
+        "psychodynamiczna",
+        "biologiczna",
+        "humanistyczna"
+      ],
+      "explanation": "Główne perspektywy: społeczno-kulturowa, ewolucyjna, społecznego uczenia się, fenomenologiczna i nurt social cognition.",
+      "sourceExcerpt": "Ewolucyjna: Co pomagało przetrwać? Pomagają obserwacje zwierząt, np. Hipoteza kompromisu poznawczego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-05",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Perspektywa pytająca, jak rozumieć zachowania wynikające z kultury, to perspektywa:"
+      ],
+      "correct": [
+        "społeczno-kulturowa"
+      ],
+      "distractors": [
+        "ewolucyjna",
+        "społecznego uczenia się",
+        "fenomenologiczna",
+        "poznania społecznego",
+        "psychodynamiczna",
+        "biologiczna",
+        "humanistyczna"
+      ],
+      "explanation": "Perspektywa społeczno-kulturowa skupia się na zachowaniach wynikających z kultury.",
+      "sourceExcerpt": "Społeczno-kulturowa: Jak rozumieć zachowania wynikające z kultury?",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-06",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Nurt zakładający, że trzeba zrozumieć, jak człowiek poznaje, rozumie i zapamiętuje, to:"
+      ],
+      "correct": [
+        "social cognition (poznanie społeczne)",
+        "nurt społecznego poznania"
+      ],
+      "distractors": [
+        "perspektywa ewolucyjna",
+        "perspektywa społeczno-kulturowa",
+        "perspektywa społecznego uczenia się",
+        "perspektywa fenomenologiczna",
+        "behawioryzm społeczny",
+        "psychoanaliza kulturowa",
+        "interakcjonizm symboliczny"
+      ],
+      "explanation": "Nurt social cognition koncentruje się na poznawaniu, rozumieniu i zapamiętywaniu świata społecznego (schematy, skrypty, prototypy).",
+      "sourceExcerpt": "Nurt social cognition (społecznego poznania): Trzeba zrozumieć to jak człowiek poznaje, rozumie, zapamiętuje.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-07",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Głównym problemem badań korelacyjnych jest to, że:"
+      ],
+      "correct": [
+        "zależności korelacyjne nie uprawniają do wnioskowania przyczynowego",
+        "korelacja nie pozwala orzekać o przyczynie i skutku"
+      ],
+      "distractors": [
+        "ludzie zachowują się inaczej, gdy wiedzą, że są badani",
+        "badani nie wiedzą, że uczestniczą w badaniu",
+        "wymagają manipulacji zmienną niezależną",
+        "nie da się ich prowadzić na dużych próbach",
+        "badacz sam uczestniczy w badanym zjawisku",
+        "mierzą wyłącznie czas reakcji",
+        "ich wyników nie da się powtórzyć"
+      ],
+      "explanation": "Problemy badań korelacyjnych: kierunek zależności, przypadkowość korelacji; „zależności korelacyjne nie uprawniają nas do myślenia przyczynowego”.",
+      "sourceExcerpt": "Badania korelacyjne: Problemy: zależności przyczynowe, zależności skutkowe itp., przypadkowość korelacji. „Zależności korelacyjne nie uprawniają nas do myślenia przyczynowego.”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-08",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Zjawisko statystyczne polegające na tym, że po ekstremalnym wyniku pomiaru kolejny pomiar jest zazwyczaj bliższy średniej, to:"
+      ],
+      "correct": [
+        "efekt regresji do średniej"
+      ],
+      "distractors": [
+        "efekt eksperymentatora",
+        "błąd dobrowolności",
+        "efekt Henslina",
+        "aktywizacja schematu",
+        "korelacja pozorna",
+        "efekt obserwatora",
+        "iluzja kontroli"
+      ],
+      "explanation": "Regresja do średniej: po bardzo wysokim lub bardzo niskim wyniku następny jest zwykle bliższy średniej (eksperyment z monetą i kartkami).",
+      "sourceExcerpt": "Efekt regresji do średniej - to zjawisko statystyczne polegające na tym, że po ekstremalnym wyniku pomiaru (bardzo wysokim lub bardzo niskim) kolejny pomiar jest zazwyczaj bliższy średniej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-09",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Metoda badawcza, w której osoby badane nie wiedzą, że są badane, to:"
+      ],
+      "correct": [
+        "eksperyment terenowy"
+      ],
+      "distractors": [
+        "eksperyment laboratoryjny",
+        "badanie kwestionariuszowe",
+        "badanie korelacyjne",
+        "wywiad fokusowy (FGI)",
+        "symulacja komputerowa",
+        "badanie czasu reakcji",
+        "wywiad indywidualny"
+      ],
+      "explanation": "Eksperyment laboratoryjny ma ten problem, że ludzie zachowują się inaczej, gdy wiedzą, że są obserwowani; w eksperymencie terenowym badani o tym nie wiedzą.",
+      "sourceExcerpt": "Eksperyment terenowy: Ludzie badani nie wiedzą, że są badani.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-10",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Za główne źródło wiedzy psychologicznej uznaje się:"
+      ],
+      "correct": [
+        "eksperyment"
+      ],
+      "distractors": [
+        "obserwację",
+        "badania korelacyjne",
+        "wywiad",
+        "studium przypadku",
+        "symulacje komputerowe",
+        "introspekcję",
+        "sondaż"
+      ],
+      "explanation": "Głównym źródłem wiedzy psychologicznej jest eksperyment.",
+      "sourceExcerpt": "Głównym źródłem wiedzy psychologicznej jest eksperyment.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-11",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Metoda, w której badacz sam uczestniczy w obserwowanym zjawisku, to:"
+      ],
+      "correct": [
+        "obserwacja uczestnicząca"
+      ],
+      "distractors": [
+        "obserwacja",
+        "eksperyment terenowy",
+        "eksperyment laboratoryjny",
+        "wywiad",
+        "badanie korelacyjne",
+        "symulacja komputerowa",
+        "wywiad fokusowy"
+      ],
+      "explanation": "Obserwacja: patrzysz, co się dzieje; obserwacja uczestnicząca: partycypujesz w obserwowanym zjawisku.",
+      "sourceExcerpt": "Obserwacja uczestnicząca: Partycypujesz w obserwowanym zjawisku.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-12",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Stanfordzki eksperyment więzienny Philipa Zimbardo określa się raczej jako:"
+      ],
+      "correct": [
+        "performance, a nie eksperyment"
+      ],
+      "distractors": [
+        "wzorcowy eksperyment laboratoryjny",
+        "eksperyment terenowy",
+        "obserwację uczestniczącą",
+        "badanie korelacyjne",
+        "symulację komputerową",
+        "studium przypadku",
+        "wywiad fokusowy"
+      ],
+      "explanation": "Eksperyment Zimbardo: performance ≠ eksperyment.",
+      "sourceExcerpt": "Eksperyment Ph. Zimbardo: Performance =/= eksperyment.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-13",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Organizacja naszych uprzednich doświadczeń z określonym rodzajem zdarzeń, osób lub obiektów to:"
+      ],
+      "correct": [
+        "schemat poznawczy"
+      ],
+      "distractors": [
+        "skrypt poznawczy",
+        "prototyp pojęcia",
+        "stereotyp społeczny",
+        "heurystyka oceny",
+        "atrybucja przyczynowa",
+        "norma grupowa",
+        "postawa społeczna"
+      ],
+      "explanation": "Schemat poznawczy organizuje wcześniejsze doświadczenia; skrypt to reprezentacja zdarzeń lub ich ciągów, prototyp – standardowa reprezentacja pojęcia.",
+      "sourceExcerpt": "Schemat poznawczy - Organizacja naszych uprzednich doświadczeń z określonym rodzajem zdarzeń, osób lub obiektów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-14",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Standardowa, odruchowo podawana reprezentacja pojęcia (drozd jest „bardziej ptakiem” niż kura, a kura bardziej niż struś) to:"
+      ],
+      "correct": [
+        "rdzeń (prototyp) pojęcia",
+        "prototyp pojęcia"
+      ],
+      "distractors": [
+        "skrypt",
+        "schemat poznawczy",
+        "egzemplarz pojęcia",
+        "stereotyp",
+        "kategoria nadrzędna",
+        "heurystyka dostępności",
+        "skojarzenie"
+      ],
+      "explanation": "Rdzeń/prototyp pojęcia bierze się z uogólnienia różnych doświadczeń życiowych.",
+      "sourceExcerpt": "Rdzeń/prototyp pojęcia - standardowa, odruchowo podawana reprezentacja danego pojęcia (drozd jest bardziej ptakiem niż kura, kura bardziej niż struś itp.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-15",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Umysłowa reprezentacja zdarzeń, działań lub ich ciągów, która zniekształca pamięć przez fałszywe alarmy i pominięcia, to:"
+      ],
+      "correct": [
+        "skrypt"
+      ],
+      "distractors": [
+        "schemat",
+        "prototyp",
+        "stereotyp",
+        "rdzeń",
+        "norma",
+        "postawa",
+        "cecha"
+      ],
+      "explanation": "Skrypty zniekształcają pamięć (fałszywe alarmy, pominięcia), co ma znaczenie dla psychologii zeznań świadków.",
+      "sourceExcerpt": "Skrypt - umysłowa reprezentacja zdarzeń, działań, lub ich ciągów. Skrypty zniekształcają pamięć: fałszywe alarmy, pominięcia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-16",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Badani układający słowa kojarzące się ze starością szli potem wolniej niż ci, którym przypominano o młodości. To przykład:"
+      ],
+      "correct": [
+        "automatycznej aktywizacji schematu"
+      ],
+      "distractors": [
+        "świadomej aktywizacji schematu",
+        "efektu regresji do średniej",
+        "wyuczonej bezradności",
+        "iluzji kontroli",
+        "efektu Henslina",
+        "zniekształcenia pamięci przez skrypt",
+        "obserwacji uczestniczącej"
+      ],
+      "explanation": "Automatyczna aktywizacja schematu: wzbudzone elementy wiedzy wpływają na zachowanie niezależnie od cech osobowości.",
+      "sourceExcerpt": "Automatyczne aktywizacje schematu: W eksperymencie ludzie którzy robili aktywności (układanie liter w słowa) przypominające im o myśleniu o starości, szli wolniej niż ci, którzy robili aktywności przypominające o młodości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-17",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Czytanie książki ekonomicznej przed oceną polityka sprawia, że skupiamy się na jego programie gospodarczym. To przykład:"
+      ],
+      "correct": [
+        "świadomej aktywizacji schematu"
+      ],
+      "distractors": [
+        "automatycznej aktywizacji schematu",
+        "efektu regresji do średniej",
+        "zniekształcenia pamięci przez skrypt",
+        "iluzji kontroli",
+        "efektu Henslina",
+        "obserwacji uczestniczącej",
+        "motywacji kompetencji"
+      ],
+      "explanation": "Aktywizacja schematu: przyjęta perspektywa wpływa na ocenę sytuacji przez pryzmat danego schematu; może być świadoma lub automatyczna.",
+      "sourceExcerpt": "Świadome aktywizacje schematu: Czytanie książki ekonomicznej przy tworzeniu oceny polityka zwiększa focus na jego policies ekonomiczne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-wyklad-1-18",
+      "bookId": "wyklady",
+      "chapterId": "wyklad-1",
+      "stems": [
+        "Zgodnie z nurtem social cognition zachowanie ludzi dyktują nie tyle cechy osobowości, ile:"
+      ],
+      "correct": [
+        "to, jakie elementy ich wiedzy zostaną wzbudzone",
+        "aktualnie zaktywizowane schematy"
+      ],
+      "distractors": [
+        "wrodzone popędy biologiczne",
+        "normy obowiązujące w grupie odniesienia",
+        "oczekiwania otaczających ich obserwatorów",
+        "nagrody i kary płynące z otoczenia",
+        "poziom inteligencji ogólnej",
+        "umiejscowienie kontroli wzmocnień",
+        "trafność ich własnej introspekcji"
+      ],
+      "explanation": "Niekoniecznie cechy osobowości dyktują zachowanie; wpływ ma to, jakie elementy naszej wiedzy zostaną wzbudzone.",
+      "sourceExcerpt": "Niekoniecznie cechy osobowości dyktują zachowanie ludzi - wpływ ma jakie elementy naszej wiedzy zostaną wzbudzone.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

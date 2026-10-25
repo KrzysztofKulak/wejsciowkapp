@@ -126,6 +126,13 @@ Stałość/zmienność - porównanie z wynikami tej samej osoby w innym czasie
 
 ### Deformacje procesu atrybucji:
 
+> 
+
+  **Trójetapowy model atrybucji (Gilbert, 1995)**
+
+  1. Identyfikacja [akcji] (*Co aktor robi?*)
+  2. Automatyczny wniosek o cesze
+  3. Kontrolowana poprawka na sytuację (etap wymaga zasobów, więc może zostać łatwo pominięty; eksperymenty Gilber, Pelham, Krall, 1988)
 #### Podstawowy błąd atrybucji
 
 Skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy niedocenianiu czynników zewnętrznych (okoliczności). 
@@ -135,13 +142,6 @@ Skłonność do przypisywania cudzych zachowań czynnikom wewnętrznym przy nied
 - Efekt ten jest mniejszy w kulturach kolektywistycznych.
 - Efekt słabnie, gdy obserwator wie, że będzie musiał wyjaśnić swoje sądy. 
 
-> 
-
-  **Trójetapowy model atrybucji (Gilbert, 1995)**
-
-  1. Identyfikacja [akcji] (*Co aktor robi?*)
-  2. Automatyczny wniosek o cesze
-  3. Kontrolowana poprawka na sytuację (etap wymaga zasobów, więc może zostać łatwo pominięty; eksperymenty Gilber, Pelham, Krall, 1988)
 #### Egotyzm atrybucyjny
 
 Tendencja do wyjaśniania własnych zachowań w pochlebny dla siebie sposób.
@@ -166,7 +166,7 @@ Przyczyny:
 
 1. Dostępność umysłowa (częściej myślimy o swoich poglądach niż o innych możliwych i otaczamy się osobami myślącymi podobnie)
 2. Utwierdza nas w poczuciu słuszności.
-## Ocenianie ludzi 
+## Ocenianie ludzi
 
 > Oceny automatyczne, oddolna integracja danych, tendencyjne sprawdzanie hipotez
 
