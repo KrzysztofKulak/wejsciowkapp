@@ -9,21 +9,21 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-2",
       "stems": [
-        "Autorka „The Nurture Assumption”, nagrodzona przez APA za wykazanie, że wpływ rodziców na dzieci jest de facto pomijalny, to:"
+        "Judith Rich Harris w nagrodzonej przez APA książce „The Nurture Assumption” wykazała, że wpływ rodziców na dzieci jest:"
       ],
       "correct": [
-        "Judith Rich Harris"
+        "de facto pomijalny",
+        "w praktyce znikomy"
       ],
       "distractors": [
-        "Rosalind Franklin",
-        "Patricia Cohen",
-        "Ellen Langer",
-        "Anna Freud",
-        "Mary Ainsworth",
-        "Carol Dweck",
-        "Elizabeth Loftus"
+        "decydujący dla osobowości",
+        "większy niż wpływ genów",
+        "kluczowy dla temperamentu",
+        "najsilniejszy w dzieciństwie",
+        "jedynym źródłem różnic",
+        "silniejszy od dziedziczności"
       ],
-      "explanation": "Judith Rich Harris otrzymała nagrodę APA za „The Nurture Assumption”.",
+      "explanation": "Harris dostała nagrodę APA za wykazanie, że wpływ rodziców na dzieci jest de facto pomijalny.",
       "sourceExcerpt": "Judith Rich Harris - nagroda APA za udowodnienie, że wpływ rodziców na dzieci jest de facto pomijalny. „The Nurture Assumption”.",
       "difficulty": 2,
       "status": "ok"
@@ -58,21 +58,21 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-2",
       "stems": [
-        "Polski badacz odziedziczalności cech temperamentu to:"
+        "Jan Strelau, badając odziedziczalność temperamentu, wskazał, że cechy temperamentu są:"
       ],
       "correct": [
-        "Jan Strelau"
+        "w około 40% dziedziczne, a w 50–60% środowiskowe",
+        "dziedziczne w ok. 40%, środowiskowe w 50–60%"
       ],
       "distractors": [
-        "Kazimierz Twardowski",
-        "Bogdan Wojciszke",
-        "Dariusz Doliński",
-        "Władysław Witwicki",
-        "Tadeusz Tomaszewski",
-        "Jerzy Brzeziński",
-        "Janusz Reykowski"
+        "w około 90% dziedziczne, a w 10% środowiskowe",
+        "w całości środowiskowe, bez udziału genów",
+        "w całości dziedziczne, bez udziału środowiska",
+        "w 50–60% dziedziczne, a w 40% środowiskowe",
+        "dziedziczne wyłącznie u osób z rodzin bliźniaczych",
+        "niezależne zarówno od genów, jak i środowiska"
       ],
-      "explanation": "Jan Strelau badał odziedziczalność cech temperamentu; udaje się już wskazywać fragmenty genomu odpowiedzialne za poszczególne cechy.",
+      "explanation": "Strelau: cechy temperamentu są w ok. 40% genetyczne, a w 50–60% środowiskowe; da się już wskazywać fragmenty genomu za nie odpowiedzialne.",
       "sourceExcerpt": "Jan Strelau - badania nad odziedziczalnością cech temperamentu.",
       "difficulty": 1,
       "status": "ok"
@@ -106,21 +106,21 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-2",
       "stems": [
-        "Psychiatra, który w pracy „Budowa ciała i charakter” wiązał typy budowy ciała (asteniczny, atletyczny, pykniczny, dysplastyczny) ze skłonnością do zaburzeń, to:"
+        "Ernst Kretschmer w pracy „Budowa ciała i charakter” twierdził, że:"
       ],
       "correct": [
-        "Ernst Kretschmer"
+        "typ budowy ciała pozwala przewidywać charakter",
+        "budowa ciała przewiduje charakter i skłonność do zaburzeń"
       ],
       "distractors": [
-        "Kurt Lewin",
-        "Jan Strelau",
-        "Hans Eysenck",
-        "William Sheldon",
-        "Emil Kraepelin",
-        "Carl Jung",
-        "Hipokrates"
+        "charakter kształtuje w pełni środowisko",
+        "zachowanie jest funkcją osoby i środowiska",
+        "budowa ciała nie wiąże się z psychiką",
+        "charakter zależy od fazy psychoseksualnej",
+        "temperament jest w 40% dziedziczny",
+        "budowa ciała wynika z charakteru"
       ],
-      "explanation": "Kretschmer wierzył, że budowa ciała przewiduje charakter; był też eugenikiem.",
+      "explanation": "Kretschmer wierzył, że budowa ciała przewiduje charakter (typy: asteniczny, atletyczny, pykniczny, dysplastyczny), ale pominął wiek badanych.",
       "sourceExcerpt": "Ernst Kretschmer - pionierskie badania z dziedziny psychiatrii („Budowa ciała i charakter”), wierzył, że budowa ciała przewiduje charakter. Definiował cztery typy: asteniczny, atletyczny, pykniczny, dysplastyczny.",
       "difficulty": 2,
       "status": "ok"
@@ -229,21 +229,21 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-2",
       "stems": [
-        "Badaczka, której zdjęcia rentgenowskie umożliwiły odkrycie podwójnej helisy DNA, pominięta przy Nagrodzie Nobla, to:"
+        "Rosalind Franklin, której zdjęcia rentgenowskie umożliwiły odkrycie podwójnej helisy DNA, została pominięta przy Nagrodzie Nobla, ponieważ:"
       ],
       "correct": [
-        "Rosalind Franklin"
+        "w chwili przyznawania nagrody już nie żyła",
+        "zmarła wcześniej na raka"
       ],
       "distractors": [
-        "Judith Rich Harris",
-        "Marie Curie",
-        "Barbara McClintock",
-        "Lise Meitner",
-        "Dorothy Hodgkin",
-        "Patricia Cohen",
-        "Jocelyn Bell"
+        "odmówiła przyjęcia nagrody",
+        "nie opublikowała swoich zdjęć",
+        "jej zdjęcia okazały się błędne",
+        "nie miała stopnia doktora",
+        "pracowała w innej dziedzinie nauki",
+        "nie należała do zespołu badawczego"
       ],
-      "explanation": "Rosalind Franklin zrobiła i opisała zdjęcia, które umożliwiły odkrycie; zmarła na raka przez ekspozycję na promieniowanie i została pominięta przy Noblu.",
+      "explanation": "Franklin zmarła na raka (ekspozycja na promieniowanie w pracy) i została pominięta przy Noblu, bo już nie żyła (choć możliwe, że i tak by ją pominięto).",
       "sourceExcerpt": "Rosalind Franklin - Pracowała nad odkryciem podwójnej helisy DNA (zrobiła i opisała zdjęcia, które umożliwiły odkrycie), ale umarła na raka przez ekspozycje na rentgena w trakcie pracy. Została pominięta przy nagrodzie Nobla.",
       "difficulty": 2,
       "status": "ok"

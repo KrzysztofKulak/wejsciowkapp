@@ -133,21 +133,22 @@
       "bookId": "prezentacja-psychologia-jako-nauka",
       "chapterId": "slajdy-1-20",
       "stems": [
-        "Metodę odejmowania, rozwiniętą przez Wundta do pomiaru czasów reakcji, opracował holenderski fizjolog:"
+        "Metoda odejmowania Franciscusa Dondersa, rozwinięta przez Wundta, pozwalała ustalić czas trwania procesów psychicznych przez:"
       ],
       "correct": [
-        "Franciscus Donders"
+        "porównywanie czasów reakcji w zadaniach o różnej złożoności",
+        "odejmowanie czasu prostszej reakcji od czasu reakcji złożonej"
       ],
       "distractors": [
-        "Hermann Helmholtz",
-        "Gustav Fechner",
-        "Ernst Weber",
-        "Hermann Ebbinghaus",
-        "Edward Titchener",
-        "Iwan Pawłow",
-        "Wilhelm Wundt"
+        "pytanie badanych o odczucia po wykonaniu zadania",
+        "pomiar aktywności elektrycznej mózgu w trakcie zadania",
+        "liczenie błędów popełnionych w kolejnych próbach",
+        "porównywanie wyników różnych osób w tym samym zadaniu",
+        "obserwację zachowania badanych w warunkach naturalnych",
+        "analizę swobodnych skojarzeń wypowiadanych przez badanego",
+        "pomiar siły nacisku przy reakcji ruchowej"
       ],
-      "explanation": "Wundt przejął i rozwinął metodę odejmowania Dondersa.",
+      "explanation": "Donders zakładał, że procesy psychiczne trwają w czasie; porównując (odejmując) czasy reakcji prostej, dyskryminacyjnej i z wyborem, można oszacować czas poszczególnych etapów.",
       "sourceExcerpt": "Wundt przejął i rozwinął metodę odejmowania holenderskiego fizjologa Franciscusa Dondersa.",
       "difficulty": 2,
       "status": "ok"
@@ -276,21 +277,21 @@
       "bookId": "prezentacja-psychologia-jako-nauka",
       "chapterId": "slajdy-1-20",
       "stems": [
-        "Pojęcie „strumienia świadomości”, wynikające z założenia, że mózg i umysł stale się zmieniają, wiąże się z:"
+        "William James mówił o „strumieniu świadomości”, ponieważ zakładał, że:"
       ],
       "correct": [
-        "Williamem Jamesem"
+        "mózg i umysł nieustannie się zmieniają",
+        "umysł stale się zmienia"
       ],
       "distractors": [
-        "Wilhelmem Wundtem",
-        "Franciscusem Dondersem",
-        "Zygmuntem Freudem",
-        "Edwardem Titchenerem",
-        "Johnem Watsonem",
-        "Karolem Darwinem",
-        "Maxem Wertheimerem"
+        "umysł składa się z niezmiennych elementów prostych",
+        "świadomość da się rozłożyć na pojedyncze wrażenia",
+        "procesy psychiczne w ogóle nie trwają w czasie",
+        "umysł działa niezależnie od środowiska",
+        "doznania są stałą sumą tych samych składników",
+        "świadomość można badać tylko przez introspekcję"
       ],
-      "explanation": "William James w 1890 r. wydał „The Principles of Psychology”; mózg i umysł stale się zmieniają, stąd strumień świadomości.",
+      "explanation": "Funkcjonalizm Jamesa: mózg i umysł stale się zmieniają, stąd strumień świadomości; w przeciwieństwie do strukturalizmu, który rozkładał doznania na elementy proste.",
       "sourceExcerpt": "1890 r. – William James wydaje The principles of psychology. Mózg i umysł stale się zmieniają → strumień świadomości.",
       "difficulty": 1,
       "status": "ok"

@@ -9,21 +9,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1-cz-2",
       "stems": [
-        "Koncepcja motywacji kompetencji, według której rozwój polega na poszerzaniu sfer wpływu w środowisku, a skuteczność jest esencją rozwoju osobowości, pochodzi od:"
+        "Według White'a, autora koncepcji motywacji kompetencji, rozwój człowieka polega na:"
       ],
       "correct": [
-        "White'a"
+        "poszerzaniu sfer wpływu w środowisku fizycznym i społecznym",
+        "poszerzaniu zakresu swojego wpływu na otoczenie"
       ],
       "distractors": [
-        "deCharmsa",
-        "Rottera",
-        "Seligmana",
-        "Rothbauma",
-        "Burgera",
-        "Millera",
-        "Heidera"
+        "przechodzeniu przez kolejne fazy rozwoju psychoseksualnego",
+        "stopniowym podporządkowywaniu się normom swojej grupy",
+        "zmniejszaniu potrzeby sprawowania kontroli nad otoczeniem",
+        "rozwijaniu iluzji kontroli nad zdarzeniami losowymi",
+        "redukcji napięć wywoływanych przez wrodzone popędy",
+        "uczeniu się bezradności w sytuacjach bez wyjścia"
       ],
-      "explanation": "White: motywacja kompetencji – zmiany w kolejnych stadiach rozwoju polegają na poszerzaniu sfer wpływu; skuteczność to esencja rozwoju osobowości.",
+      "explanation": "White: motywacja kompetencji; kolejne stadia rozwoju to poszerzanie sfer wpływu, a skuteczność jest esencją rozwoju osobowości.",
       "sourceExcerpt": "White: motywacja kompetencji. Zmiany następujące w kolejnych stadiach rozwoju człowieka polegają na poszerzaniu sfer wpływu w środowisku fizycznym i społecznym. Skuteczność - esencja rozwoju osobowości.",
       "difficulty": 2,
       "status": "ok"
@@ -82,21 +82,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1-cz-2",
       "stems": [
-        "Przekonanie o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień to pojęcie wprowadzone przez:"
+        "Julian Rotter zauważył w terapii desensytyzacji, że jedni pacjenci konsekwentnie robią kroki ku zagrożeniu, a inni nie. Wyjaśnił to:"
       ],
       "correct": [
-        "Rottera"
+        "umiejscowieniem kontroli wzmocnień",
+        "wewnętrznym lub zewnętrznym umiejscowieniem kontroli"
       ],
       "distractors": [
-        "White'a",
-        "deCharmsa",
-        "Seligmana",
-        "Langer",
-        "Rothbauma",
-        "Heidera",
-        "Burgera"
+        "siłą lęku kastracyjnego u pacjentów",
+        "nasileniem motywacji kompetencji",
+        "poziomem wyuczonej bezradności",
+        "iluzją kontroli nad przebiegiem terapii",
+        "tendencją do unikania porażek",
+        "stopniem zmęczenia poznawczego"
       ],
-      "explanation": "Julian Rotter zauważył podczas terapii desensytyzacji, że część pacjentów konsekwentnie robi kroki ku zagrożeniu, a część nie; zależy to od umiejscowienia kontroli wzmocnień.",
+      "explanation": "Rotter: przekonanie o wewnętrznym („to ja kontroluję”) lub zewnętrznym („nic ode mnie nie zależy”) umiejscowieniu kontroli wzmocnień; ludzie plasują się między skrajnościami.",
       "sourceExcerpt": "Julian Rotter: przekonania o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień. zewnętrzny - nic ode mnie nie zależy; wewnętrzny - to ja kontroluję wszystko.",
       "difficulty": 1,
       "status": "ok"
@@ -793,21 +793,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-1-cz-2",
       "stems": [
-        "Różnice indywidualne w nasileniu potrzeby sprawowania kontroli jako perspektywa wyjaśniająca rezygnację z kontroli wiążą się z nazwiskiem:"
+        "W perspektywie Burgera rezygnację z kontroli osobistej wyjaśniają:"
       ],
       "correct": [
-        "Burgera"
+        "różnice indywidualne w nasileniu potrzeby kontroli",
+        "indywidualne różnice w potrzebie sprawowania kontroli"
       ],
       "distractors": [
-        "Millera",
-        "Rothbauma",
-        "Rottera",
-        "Seligmana",
-        "deCharmsa",
-        "White'a",
-        "Langer"
+        "dążenie do zminimalizowania najgorszych scenariuszy",
+        "niechęć do zadań o małym zysku i dużym ryzyku",
+        "wyuczona bezradność po niekontrolowanych wstrząsach",
+        "zewnętrzne umiejscowienie kontroli wzmocnień",
+        "rozproszenie odpowiedzialności w dużej grupie",
+        "zmęczenie poznawcze po nierozwiązywalnych zadaniach"
       ],
-      "explanation": "Burger: różnice indywidualne w potrzebie kontroli; Miller: hipoteza minimaksowa; dodatkowo egotystyczne podstawy rezygnacji z kontroli (mały zysk, duże ryzyko).",
+      "explanation": "Burger: różnice indywidualne w potrzebie kontroli. Miller: hipoteza minimaksowa. Do tego egotystyczne podstawy rezygnacji (mały zysk, duże ryzyko).",
       "sourceExcerpt": "Burger – różnice indywidualne w nasileniu potrzeby sprawowania kontroli.",
       "difficulty": 3,
       "status": "ok"

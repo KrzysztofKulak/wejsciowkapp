@@ -9,21 +9,22 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Stanowisko natywistów w sporze o naturę umysłu, zakładające wrodzone struktury umysłowe, wywodzi się od:"
+        "Natywiści (tradycja wywodząca się od Platona, m.in. Kant) zakładają, że:"
       ],
       "correct": [
-        "Platona"
+        "umysł ma wrodzone struktury ograniczające sposób doświadczania świata",
+        "doświadczanie świata ograniczają wrodzone struktury umysłu"
       ],
       "distractors": [
-        "Arystotelesa",
-        "Locke'a",
-        "Wundta",
-        "Jamesa",
-        "Deweya",
-        "Titchenera",
-        "Freuda"
+        "umysł jest czystą kartą zapisywaną przez doświadczenie",
+        "cała wiedza pochodzi wyłącznie z doświadczenia zmysłowego",
+        "zachowanie jest sumą wyuczonych nawyków i reakcji",
+        "świadomość jest strumieniem w interakcji ze środowiskiem",
+        "doznania to kombinacje elementów prostych",
+        "o zachowaniu decydują nieświadome popędy i konflikty",
+        "osobowość kształtuje wyłącznie kultura i wychowanie"
       ],
-      "explanation": "Platon zapoczątkował tradycję natywistów (Kant: struktury umysłowe ograniczające sposób doświadczania świata), Arystoteles – empirystów (Locke: tabula rasa).",
+      "explanation": "Natywiści (Platon, Kant): wrodzone struktury umysłowe nakładają ograniczenia na doświadczanie świata. Empiryści (Arystoteles, Locke): umysł jako tabula rasa.",
       "sourceExcerpt": "Arystoteles - empiryści: John Locke, tabula rasa. Platon - natywiści: Immanuel Kant, struktury umysłowe nakładające ograniczenia na sposób doświadczania świata.",
       "difficulty": 1,
       "status": "ok"
@@ -33,22 +34,22 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Koncepcja tabula rasa, zgodnie z którą umysł jest czystą kartą zapisywaną przez doświadczenie, wiązana jest w tradycji empirystów z:"
+        "Koncepcja tabula rasa Johna Locke'a, należąca do tradycji empirystów, głosi, że:"
       ],
       "correct": [
-        "Johnem Lockiem",
-        "Johnem Locke'em"
+        "umysł jest czystą kartą zapisywaną przez doświadczenie",
+        "treść umysłu pochodzi z doświadczenia, a nie z wrodzonych struktur"
       ],
       "distractors": [
-        "Immanuelem Kantem",
-        "Platonem",
-        "Wilhelmem Wundtem",
-        "Williamem Jamesem",
-        "Zygmuntem Freudem",
-        "Carlem Rogersem",
-        "Edwardem Titchenerem"
+        "umysł ma wrodzone struktury ograniczające doświadczenie",
+        "większość wiedzy o świecie jest wrodzona",
+        "zachowaniem kierują głównie nieświadome popędy",
+        "doświadczenie organizuje wrodzona całościowa postać",
+        "osobowość jest w całości zdeterminowana przez geny",
+        "świadomość jest strumieniem stałych zmian",
+        "umysł działa niezależnie od danych zmysłowych"
       ],
-      "explanation": "John Locke (tabula rasa) należy do tradycji empirystów wywodzącej się od Arystotelesa.",
+      "explanation": "Empiryści (od Arystotelesa, m.in. Locke): umysł jako czysta karta zapisywana przez doświadczenie. Natywiści (Platon, Kant): wrodzone struktury.",
       "sourceExcerpt": "Arystoteles - empiryści. John Locke, tabula rasa.",
       "difficulty": 1,
       "status": "ok"
@@ -58,21 +59,20 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Pierwsze laboratorium psychologii eksperymentalnej założył w Lipsku:"
+        "W 1879 roku w Lipsku Wilhelm Wundt założył:"
       ],
       "correct": [
-        "Wilhelm Wundt"
+        "pierwsze laboratorium psychologii eksperymentalnej"
       ],
       "distractors": [
-        "William James",
-        "Edward Titchener",
-        "John Dewey",
-        "Max Wertheimer",
-        "Zygmunt Freud",
-        "John Watson",
-        "Mary Whiton Calkins"
+        "pierwszą klinikę leczenia psychoanalizą",
+        "pierwsze towarzystwo psychologów w Europie",
+        "pierwszy wydział psychologii klinicznej",
+        "pierwszą poradnię psychologiczną dla dzieci",
+        "pierwszą szkołę psychologii behawioralnej",
+        "pierwszy ośrodek badań nad hipnozą"
       ],
-      "explanation": "Fizjolog Wilhelm Wundt założył w 1879 roku w Lipsku pierwsze laboratorium psychologii eksperymentalnej.",
+      "explanation": "Fizjolog Wilhelm Wundt założył w 1879 r. w Lipsku pierwsze laboratorium psychologii eksperymentalnej.",
       "sourceExcerpt": "Fizjolog Wilhelm Wundt - 1879 - Lipsk, pierwsze laboratorium psychologii eksperymentalnej.",
       "difficulty": 1,
       "status": "ok"
@@ -82,21 +82,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Autorem „The Principles of Psychology”, filozofem i studentem medycyny z Harvardu, był:"
+        "William James, autor „The Principles of Psychology” (1890), jest kojarzony z kierunkiem, który badał:"
       ],
       "correct": [
-        "William James"
+        "funkcje procesów psychicznych, a nie ich treść",
+        "funkcję zachowania w przystosowaniu do środowiska"
       ],
       "distractors": [
-        "Wilhelm Wundt",
-        "Edward Titchener",
-        "John Dewey",
-        "Burrhus F. Skinner",
-        "Jean Piaget",
-        "John Locke",
-        "Abraham Maslow"
+        "strukturę psychiki rozłożoną na elementy proste",
+        "wyłącznie obserwowalne reakcje na bodźce",
+        "nieświadome popędy i konflikty wewnętrzne",
+        "doświadczenie jako zorganizowaną całość (postać)",
+        "wrodzone struktury umysłowe człowieka",
+        "wpływ budowy ciała na charakter"
       ],
-      "explanation": "William James opublikował „The Principles of Psychology” w 1890 roku na Harvardzie.",
+      "explanation": "James to funkcjonalizm: świadomość jako strumień w nieustannej interakcji ze środowiskiem; badanie funkcji procesów psychicznych, a nie treści.",
       "sourceExcerpt": "Filozof i student medycyny William James - 1890 - „The principles of psychology” na Harvardzie.",
       "difficulty": 1,
       "status": "ok"
@@ -204,21 +204,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Założycielem funkcjonalizmu, kładącego nacisk na wyuczone nawyki i ich funkcje w środowisku, był filozof:"
+        "John Dewey, założyciel funkcjonalizmu, kładł nacisk na:"
       ],
       "correct": [
-        "John Dewey"
+        "wyuczone nawyki i ich funkcję w przystosowaniu do środowiska",
+        "funkcje nawyków w efektywnym funkcjonowaniu w środowisku"
       ],
       "distractors": [
-        "Edward Titchener",
-        "Wilhelm Wundt",
-        "Max Wertheimer",
-        "Immanuel Kant",
-        "John Locke",
-        "Carl Rogers",
-        "Noam Chomsky"
+        "introspekcyjną analizę elementów prostych doznań",
+        "nieświadome konflikty między popędami a normami",
+        "doświadczenie jako zorganizowaną całościową postać",
+        "wrodzone struktury umysłu ograniczające doświadczenie",
+        "samorealizację i pozytywny rozwój każdego człowieka",
+        "wpływ kultury na przekonania o naturze człowieka"
       ],
-      "explanation": "Założycielem funkcjonalizmu był filozof John Dewey; podstawę dał pogląd Williama Jamesa o świadomości jako strumieniu.",
+      "explanation": "Funkcjonalizm (Dewey, James): nacisk na wyuczone nawyki i ich funkcje w efektywnym funkcjonowaniu w środowisku.",
       "sourceExcerpt": "Założyciel filozof John Dewey. Nacisk na wyuczone nawyki i ich funkcje w efektywnym funkcjonowaniu w środowisku.",
       "difficulty": 2,
       "status": "ok"
@@ -253,21 +253,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Pierwszą prezeską APA, która studiowała z Williamem Jamesem i założyła jedno z pierwszych laboratoriów psychologicznych w USA, była:"
+        "Mary Whiton Calkins, uczennica Williama Jamesa, zapisała się w historii psychologii jako:"
       ],
       "correct": [
-        "Mary Whiton Calkins"
+        "pierwsza prezeska APA",
+        "pierwsza kobieta na czele APA"
       ],
       "distractors": [
-        "Margaret Floy Washburn",
-        "Helen Thompson Woolley",
-        "Leta Stetter Hollingworth",
-        "Anna Freud",
-        "Karen Horney",
-        "Mary Ainsworth",
-        "Elizabeth Loftus"
+        "pierwsza doktorka psychologii",
+        "autorka „The Animal Mind”",
+        "pionierka badań różnic płciowych",
+        "badaczka dzieci uzdolnionych",
+        "twórczyni psychologii postaci",
+        "autorka pierwszego testu IQ"
       ],
-      "explanation": "Mary Whiton Calkins została w 1905 roku pierwszą prezeską APA.",
+      "explanation": "Calkins studiowała z Jamesem, założyła jedno z pierwszych laboratoriów w USA i w 1905 r. została pierwszą prezeską APA.",
       "sourceExcerpt": "Mary Whiton Calkins: studiowała z Williamem Jamesem, jedno z pierwszych laboratoriów psychologicznych w USA, w 1905 pierwsza prezeska APA.",
       "difficulty": 2,
       "status": "ok"
@@ -277,21 +277,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Pierwsza kobieta z doktoratem z psychologii, autorka „The Animal Mind” i druga prezeska APA, to:"
+        "Margaret Floy Washburn, autorka „The Animal Mind”, była pierwszą kobietą, która:"
       ],
       "correct": [
-        "Margaret Floy Washburn"
+        "uzyskała doktorat z psychologii",
+        "zdobyła stopień doktora z psychologii"
       ],
       "distractors": [
-        "Mary Whiton Calkins",
-        "Helen Thompson Woolley",
-        "Leta Stetter Hollingworth",
-        "Anna Freud",
-        "Karen Horney",
-        "Mary Ainsworth",
-        "Melanie Klein"
+        "została prezeską APA",
+        "opisała typy budowy ciała",
+        "zbadała dzieci uzdolnione",
+        "zbadała różnice płciowe",
+        "założyła psychologię postaci",
+        "opisała metodę introspekcji"
       ],
-      "explanation": "Margaret Floy Washburn: pierwsza doktorka filozofii w dziedzinie psychologii, „The Animal Mind” (1908), druga prezeska APA (1921).",
+      "explanation": "Washburn była pierwszą doktorką w dziedzinie psychologii; w 1921 r. została drugą (nie pierwszą) prezeską APA.",
       "sourceExcerpt": "Margaret Floy Washburn: Pierwsza doktorka filozofii w dziedzinie psychologii. „The animal mind” o psychologii zwierząt w 1908. W 1921 druga prezeska APA.",
       "difficulty": 2,
       "status": "ok"
@@ -301,21 +301,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Badaczka, która jako jedna z pierwszych badała różnice płciowe i zwracała uwagę na wpływ społeczeństwa na te różnice, to:"
+        "Helen Thompson Woolley w swoich pionierskich badaniach nad różnicami płciowymi zwracała uwagę na:"
       ],
       "correct": [
-        "Helen Thompson Woolley"
+        "wpływ społeczeństwa na te różnice",
+        "społeczne źródła tych różnic"
       ],
       "distractors": [
-        "Mary Whiton Calkins",
-        "Margaret Floy Washburn",
-        "Mary Salter Ainsworth",
-        "Karen Danielsen Horney",
-        "Eleanor Jack Gibson",
-        "Christine Ladd-Franklin",
-        "Mamie Phipps Clark"
+        "wrodzony charakter tych różnic",
+        "wpływ budowy ciała na różnice",
+        "rolę hormonów w inteligencji",
+        "dziedziczność temperamentu",
+        "rolę nieświadomych popędów",
+        "znaczenie kompleksu Edypa"
       ],
-      "explanation": "Helen Thompson Woolley prowadziła jedne z pierwszych badań o różnicach płciowych, podkreślając rolę społeczeństwa.",
+      "explanation": "Woolley prowadziła jedne z pierwszych badań różnic płciowych i podkreślała wpływ społeczeństwa na te różnice.",
       "sourceExcerpt": "Helen Thompson Woolley: Jedne z pierwszych badań o różnicach płciowych, zwracała uwagę na wpływ społeczeństwa na te różnice.",
       "difficulty": 3,
       "status": "ok"
@@ -325,21 +325,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Badania nad różnicami w inteligencji i talentach kobiet i mężczyzn oraz nad dziećmi upośledzonymi i uzdolnionymi prowadziła:"
+        "Leta Stetter Hollingworth prowadziła badania nad:"
       ],
       "correct": [
-        "Leta Stetter Hollingworth"
+        "różnicami inteligencji płci i dziećmi uzdolnionymi",
+        "inteligencją kobiet i mężczyzn oraz dziećmi uzdolnionymi"
       ],
       "distractors": [
-        "Mary Whiton Calkins",
-        "Margaret Floy Washburn",
-        "Mary Salter Ainsworth",
-        "Karen Danielsen Horney",
-        "Eleanor Jack Gibson",
-        "Christine Ladd-Franklin",
-        "Mamie Phipps Clark"
+        "psychologią zwierząt i świadomością u zwierząt",
+        "introspekcją wrażeń zmysłowych w laboratorium",
+        "typami budowy ciała i skłonnością do zaburzeń",
+        "odziedziczalnością temperamentu u bliźniąt",
+        "nieświadomymi popędami w rozwoju dziecka",
+        "wpływem kultury matriarchalnej na rodzinę"
       ],
-      "explanation": "Leta Stetter Hollingworth badała różnice w inteligencji i talentach kobiet i mężczyzn oraz dzieci upośledzone i uzdolnione.",
+      "explanation": "Hollingworth badała różnice w inteligencji i talentach kobiet i mężczyzn oraz dzieci upośledzone i uzdolnione.",
       "sourceExcerpt": "Leta Stetter Hollingworth: Badania o różnicy w inteligencji i talentach kobiet i mężczyzn, oraz badania dzieci upośledzonych i uzdolnionych.",
       "difficulty": 3,
       "status": "ok"
@@ -446,21 +446,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Termin „samorealizacja” wprowadził przedstawiciel kierunku humanistycznego:"
+        "Abraham Maslow wprowadził termin „samorealizacja”, który w podejściu humanistycznym oznacza:"
       ],
       "correct": [
-        "Abraham Maslow"
+        "pozytywny rozwój jako główne zadanie człowieka",
+        "dążenie do pozytywnego rozwoju"
       ],
       "distractors": [
-        "Carl Rogers",
-        "Zygmunt Freud",
-        "William James",
-        "Jean Piaget",
-        "Noam Chomsky",
-        "John Dewey",
-        "Carl Jung"
+        "zaspokajanie popędów według zasady przyjemności",
+        "przystosowanie się do środowiska przez nawyki",
+        "rozładowanie stłumionej energii libido",
+        "dopasowanie się do wzorców grupy",
+        "wyparcie konfliktów z dzieciństwa",
+        "realizację ról narzuconych przez innych"
       ],
-      "explanation": "Przedstawiciele kierunku humanistycznego to Carl Rogers i Abraham Maslow, autor terminu „samorealizacja”.",
+      "explanation": "Podejście humanistyczne (Rogers, Maslow): głównym zadaniem człowieka jest pozytywny rozwój, czyli samorealizacja.",
       "sourceExcerpt": "Humanistyczny. Carl Rogers, Abraham Maslow (termin „samorealizacja”).",
       "difficulty": 2,
       "status": "ok"
@@ -567,21 +567,20 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-1",
       "stems": [
-        "Antropolog, który podważał założenia Freuda, obserwując kultury matriarchalne, to:"
+        "Bronisław Malinowski, antropolog, podważał w 1927 roku założenia Freuda na podstawie:"
       ],
       "correct": [
-        "Bronisław Malinowski"
+        "obserwacji kultur matriarchalnych"
       ],
       "distractors": [
-        "Margaret Mead",
-        "Claude Lévi-Strauss",
-        "Franz Boas",
-        "Ruth Benedict",
-        "Carl Jung",
-        "Alfred Adler",
-        "Erik Erikson"
+        "badań bliźniąt rozdzielonych po urodzeniu",
+        "eksperymentów laboratoryjnych z dziećmi",
+        "analizy marzeń sennych pacjentów",
+        "badań nad zachowaniem zwierząt",
+        "sondaży w społeczeństwach zachodnich",
+        "obserwacji pacjentów psychiatrycznych"
       ],
-      "explanation": "Bronisław Malinowski w 1927 roku podważał założenia Freuda na podstawie obserwacji kultur matriarchalnych; to tradycja kierunku społeczno-kulturowego.",
+      "explanation": "Malinowski obserwował kultury matriarchalne i na tej podstawie podważał założenia Freuda; to tradycja kierunku społeczno-kulturowego.",
       "sourceExcerpt": "Bronisław Malinowski - antropolog, który w 1927 roku podważał założenia Freuda obserwując kultury matriarchalne.",
       "difficulty": 2,
       "status": "ok"

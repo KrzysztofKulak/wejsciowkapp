@@ -78,21 +78,20 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-5",
       "stems": [
-        "Teorię procesów porównań społecznych, według której częścią poznania siebie jest porównywanie się z innymi, sformułował:"
+        "Zgodnie z teorią porównań społecznych Leona Festingera częścią poznania siebie jest:"
       ],
       "correct": [
-        "Leon Festinger"
+        "porównywanie się z innymi ludźmi"
       ],
       "distractors": [
-        "Neil Weinstein",
-        "Solomon Asch",
-        "Fritz Heider",
-        "Harold Kelley",
-        "Mark Snyder",
-        "Bernard Weiner",
-        "Norman Anderson"
+        "unikanie kontaktu z innymi",
+        "ignorowanie opinii otoczenia",
+        "wyłącznie samotna introspekcja",
+        "zbieżność ja realnego i idealnego",
+        "nierealistyczny optymizm",
+        "zapominanie własnych porażek"
       ],
-      "explanation": "Procesy porównań społecznych opisuje teoria Leona Festingera.",
+      "explanation": "Festinger: w pewnych aspektach poznajemy siebie przez porównanie z innymi.",
       "sourceExcerpt": "Procesy porównań społecznych (teoria Leona Festingera). Częścią poznania siebie w pewnych aspektach jest porównanie z innymi.",
       "difficulty": 1,
       "status": "ok"
@@ -224,21 +223,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-5",
       "stems": [
-        "Badacz nierealistycznego optymizmu, który porównywał oceny prawdopodobieństwa zdarzeń dla siebie i dla własnej grupy, to:"
+        "Neil Weinstein badał nierealistyczny optymizm, prosząc ludzi o oszacowanie prawdopodobieństwa zdarzeń:"
       ],
       "correct": [
-        "Neil Weinstein"
+        "dla siebie i dla własnej grupy",
+        "w odniesieniu do siebie oraz swojej grupy"
       ],
       "distractors": [
-        "Leon Festinger",
-        "Solomon Asch",
-        "Norman Anderson",
-        "Mark Snyder",
-        "Kelly Shaver",
-        "Elaine Walster",
-        "Fritz Heider"
+        "wyłącznie dla obcych osób",
+        "dla siebie w przeszłości i przyszłości",
+        "wyłącznie dla swoich rodziców",
+        "tylko dla zdarzeń czysto losowych",
+        "dla grupy obcej i grupy własnej",
+        "wyłącznie dla zdarzeń pozytywnych"
       ],
-      "explanation": "Weinstein: myślimy, że złe rzeczy częściej przytrafią się innym w naszej grupie niż nam, a dobre – odwrotnie.",
+      "explanation": "Weinstein: oceniamy, że złe rzeczy częściej przytrafią się innym w naszej grupie niż nam, a dobre – odwrotnie.",
       "sourceExcerpt": "Nierealistyczny optymizm - N. Weinstein. Oszacuj prawdopodobieństwo że coś złego zdarzy się tobie, a oszacuj, że zdarzy się Twojej grupie.",
       "difficulty": 2,
       "status": "ok"

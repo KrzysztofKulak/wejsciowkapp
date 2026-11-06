@@ -82,21 +82,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Badacz, który wykazał, że niektóre cechy (np. ciepły–zimny) definiują osobę szerzej niż powinny, w przeciwieństwie do innych (np. zręczny–niezręczny), to:"
+        "Solomon Asch opisał cechy centralne, czyli cechy, które:"
       ],
       "correct": [
-        "Asch"
+        "wpływają na ocenę wielu innych cech osoby",
+        "definiują osobę szerzej, niż powinny"
       ],
       "distractors": [
-        "Walster",
-        "Anderson",
-        "Kelley",
-        "Heider",
-        "Weiner",
-        "Snyder",
-        "Festinger"
+        "są najczęściej wymieniane w samoopisach",
+        "dotyczą wyłącznie wyglądu zewnętrznego",
+        "są dziedziczne w około 40 procentach",
+        "nie wpływają na ogólną ocenę osoby",
+        "występują jednakowo we wszystkich kulturach",
+        "ujawniają się tylko w sytuacjach stresu"
       ],
-      "explanation": "Asch: cechy centralne, takie jak ciepły–zimny, wpływają na ocenę wielu innych cech.",
+      "explanation": "Asch: cechy centralne (np. ciepły–zimny) zmieniają ocenę wielu innych cech; zręczny–niezręczny nie ma takiej siły.",
       "sourceExcerpt": "Asch - cechy centralne. Niektóre cechy zdają się definiować osobę w szerszym stopniu, niż ta cecha powinna. ciepły - zimny → świadczy od razu o innych cechach osoby. Zręczny - niezręczny już nie.",
       "difficulty": 2,
       "status": "ok"

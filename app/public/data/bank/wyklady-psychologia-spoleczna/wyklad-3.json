@@ -9,21 +9,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Autorem teorii atrybucji, według którego wysiłek jest funkcją trudności zadania i zdolności, jest:"
+        "Fritz Heider, autor teorii atrybucji, ujmował wysiłek jako funkcję:"
       ],
       "correct": [
-        "Fritz Heider"
+        "trudności zadania i zdolności",
+        "trudności zadania w relacji do zdolności"
       ],
       "distractors": [
-        "Harold Kelley",
-        "Edward Jones",
-        "Richard Nisbett",
-        "Keith Davis",
-        "Bernard Weiner",
-        "Daryl Bem",
-        "Leon Festinger"
+        "intencji i swobody działania",
+        "spójności i powszechności zachowania",
+        "wystarczalności i konieczności",
+        "prawdopodobieństwa i wartości sukcesu",
+        "umiejscowienia i kontrolowalności",
+        "nagród i kar z otoczenia"
       ],
-      "explanation": "Heider: Wysiłek = f(Trudność/Zdolności); do wyniku trzeba i talentu, i wysiłku.",
+      "explanation": "Heider: Wysiłek = f(Trudność/Zdolności); do wyniku trzeba i talentu, i wysiłku, choć intuicja podpowiada „albo–albo”.",
       "sourceExcerpt": "Fritz Heider - autor teorii atrybucji. Wysiłek = f(Trudność/Zdolności).",
       "difficulty": 1,
       "status": "ok"
@@ -58,21 +58,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Wnioskowanie „piękny ogród → zdolny ogrodnik”, czyli od obserwowanego wyniku przez zakładaną intencję do dyspozycji, ilustruje koncepcję:"
+        "W koncepcji Jonesa i Davisa („piękny ogród → zdolny ogrodnik”) obserwator przechodzi od wyniku, przez wiedzę i zdolności aktora, do:"
       ],
       "correct": [
-        "Jonesa i Davisa"
+        "założenia intencji, a następnie dyspozycji",
+        "przypisania intencji, a potem cechy aktora"
       ],
       "distractors": [
-        "Harolda Kelleya",
-        "Jonesa i Nisbetta",
-        "Fritza Heidera",
-        "Bernarda Weinera",
-        "Daryla Bema",
-        "Leona Festingera",
-        "Juliana Rottera"
+        "oceny okoliczności zewnętrznych sytuacji",
+        "porównania z zachowaniem innych ludzi",
+        "sprawdzenia spójności zachowania w czasie",
+        "oceny dystynktywności reakcji na bodziec",
+        "uznania wyniku za czysto przypadkowy",
+        "przypisania przyczyny wyłącznie bodźcowi"
       ],
-      "explanation": "Jones i Davis: obserwowany wynik → wiedza? zdolność? → zakładamy intencję → zakładamy dyspozycję.",
+      "explanation": "Jones i Davis: wynik → wiedza? zdolność? → zakładamy intencję → zakładamy dyspozycję; kontrprzykład: wypadek samochodowy → „samobójca”.",
       "sourceExcerpt": "Koncepcja Jonesa i Davisa. Obserwowany wynik → Wiedza? Zdolność? → Zakładamy, że były intencje → Zakładamy dyspozycję. przykład: piękny ogród → zdolny ogrodnik.",
       "difficulty": 2,
       "status": "ok"
@@ -179,21 +179,20 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Koncepcja, według której aktor szuka przyczyn swoich zachowań w sytuacji zewnętrznej, a obserwator w cechach aktora, to koncepcja:"
+        "Według koncepcji Jonesa i Nisbetta obserwator szuka przyczyn zachowania aktora:"
       ],
       "correct": [
-        "Jonesa i Nisbetta"
+        "w cechach aktora"
       ],
       "distractors": [
-        "Jonesa i Davisa",
-        "Harolda Kelleya",
-        "Fritza Heidera",
-        "Bernarda Weinera",
-        "Daryla Bema",
-        "Leona Festingera",
-        "Juliana Rottera"
+        "w sytuacji zewnętrznej",
+        "w czystym przypadku",
+        "w zachowaniu innych",
+        "w intencjach grupy",
+        "w nagrodach i karach",
+        "we własnym nastroju"
       ],
-      "explanation": "Jones i Nisbett: różnica aktor–obserwator.",
+      "explanation": "Różnica aktor–obserwator: aktor szuka przyczyn swoich zachowań w sytuacji, obserwator – w cechach aktora.",
       "sourceExcerpt": "Koncepcja Jonesa i Nisbetta. Różnica aktor - obserwator. aktor ← szuka przyczyn swoich zachowań w zewnętrznej sytuacji. obserwator ← szuka przyczyn zachowań aktora w cechach aktora.",
       "difficulty": 1,
       "status": "ok"
@@ -252,21 +251,20 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Skłonność do przeceniania w retrospekcji tego, co się stało, wiąże się z nazwiskiem:"
+        "Fischhoff opisał skłonność do:"
       ],
       "correct": [
-        "Fischhoffa"
+        "przeceniania w retrospekcji tego, co się stało"
       ],
       "distractors": [
-        "Heidera",
-        "Kelleya",
-        "Weinera",
-        "Snydera",
-        "Shavera",
-        "Walster",
-        "Nisbetta"
+        "upatrywania sukcesów w sobie, a porażek na zewnątrz",
+        "umniejszania innych przyczyn, gdy znamy jedną",
+        "przypisywania cudzych zachowań cechom osoby",
+        "przeceniania powszechności własnych poglądów",
+        "obwiniania ofiar za ich własne nieszczęścia",
+        "surowszego oceniania czynów o cięższych skutkach"
       ],
-      "explanation": "Wśród biasów atrybucyjnych wymieniono skłonność do przeceniania w retrospekcji tego, co się stało (Fischhoff).",
+      "explanation": "Wśród biasów atrybucyjnych: skłonność do przeceniania w retrospekcji tego, co się stało (Fischhoff).",
       "sourceExcerpt": "Skłonność do przeceniania w retrospekcji tego, co się stało (Fischof).",
       "difficulty": 3,
       "status": "ok"

@@ -81,19 +81,18 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-1",
       "stems": [
-        "Za ojca polskiej psychologii uważa się:"
+        "Kazimierz Twardowski zapisał się w historii jako:"
       ],
       "correct": [
-        "Kazimierza Twardowskiego"
+        "ojciec polskiej psychologii"
       ],
       "distractors": [
-        "Jana Strelaua",
-        "Władysława Witwickiego",
-        "Stefana Baleya",
-        "Juliana Ochorowicza",
-        "Kurta Lewina",
-        "Bogdana Wojciszke",
-        "Tadeusza Tomaszewskiego"
+        "twórca psychoanalizy",
+        "twórca behawioryzmu",
+        "założyciel laboratorium w Lipsku",
+        "badacz dziedziczenia temperamentu",
+        "twórca psychologii postaci",
+        "autor koncepcji tabula rasa"
       ],
       "explanation": "Kazimierz Twardowski – ojciec polskiej psychologii.",
       "sourceExcerpt": "Kazimierz Twardowski - ojciec polskiej psychologii.",

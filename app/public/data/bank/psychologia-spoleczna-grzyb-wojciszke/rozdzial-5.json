@@ -417,23 +417,22 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "Za twórcę teorii atrybucji, zakładającej, że zachowanie jest łączną konsekwencją sił tkwiących w jednostce i w otoczeniu, uważa się:",
-        "Autorem klasycznej teorii atrybucji, w której czynniki wewnętrzne i zewnętrzne nakładają się addytywnie, jest:"
+        "Fritz Heider, twórca teorii atrybucji, zakładał, że zachowanie jest:",
+        "W teorii atrybucji Fritza Heidera zachowanie to:"
       ],
       "correct": [
-        "Fritz Heider"
+        "łączną konsekwencją sił tkwiących w jednostce i w otoczeniu",
+        "wynikiem sił wewnętrznych i zewnętrznych, które się sumują"
       ],
       "distractors": [
-        "Harold Kelley",
-        "Bernard Weiner",
-        "Martin Seligman",
-        "Edward Jones",
-        "Daniel Gilbert",
-        "Bogdan Wojciszke",
-        "Alexander Todorov",
-        "Susan Fiske"
+        "wyłącznie skutkiem cech osobowości działającego",
+        "wyłącznie skutkiem nacisków sytuacji zewnętrznej",
+        "efektem nieświadomych popędów działającej osoby",
+        "wynikiem warunkowania przez nagrody i kary",
+        "zawsze intencjonalnym działaniem świadomego aktora",
+        "efektem porównywania się z innymi ludźmi"
       ],
-      "explanation": "Fritz Heider jest twórcą teorii atrybucji: zachowanie to łączna konsekwencja sił w jednostce (czynniki wewnętrzne) i w otoczeniu (zewnętrzne), które nakładają się addytywnie.",
+      "explanation": "Heider: zachowanie to łączna konsekwencja sił w jednostce (czynniki wewnętrzne) i w otoczeniu (zewnętrzne); siły nakładają się addytywnie, mogą być zerowe lub ujemne.",
       "sourceExcerpt": "Fritz Heider - twórca teorii atrybucji. Zakłada, że zachowanie to łączna konsekwencja sił tkwiących w jednostce działającej (czynniki wewnętrzne) i otoczeniu (czynniki zewnętrzne).",
       "difficulty": 1,
       "status": "ok"

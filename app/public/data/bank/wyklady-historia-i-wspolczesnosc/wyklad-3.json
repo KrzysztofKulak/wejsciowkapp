@@ -35,21 +35,20 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-3",
       "stems": [
-        "Podejście „mamy coś dla każdego”, od którego nazwano efekt Barnuma, pochodzi od:"
+        "Efekt Barnuma nazwano od P.T. Barnuma, poniekąd twórcy współczesnego marketingu, ze względu na jego podejście:"
       ],
       "correct": [
-        "P.T. Barnuma"
+        "„mamy coś dla każdego”"
       ],
       "distractors": [
-        "Bertrama Forera",
-        "Scotta Lilienfelda",
-        "Gerda Gigerenzera",
-        "Juliana Rottera",
-        "Patricii Cohen",
-        "wróżki Sylvii",
-        "Johna Olivera"
+        "„klient ma zawsze rację”",
+        "„mniej znaczy więcej”",
+        "„tylko dla wybranych”",
+        "„szczerość ponad wszystko”",
+        "„najpierw płać, potem patrz”",
+        "„jakość, nie ilość”"
       ],
-      "explanation": "P.T. Barnum, poniekąd twórca współczesnego marketingu, planował występy cyrkowe tak, by każdy znalazł coś dla siebie.",
+      "explanation": "Barnum planował występy cyrkowe tak, by każdy znalazł coś dla siebie; stąd nazwa efektu, w którym ogólnikowe opisy pasują do każdego.",
       "sourceExcerpt": "P.T. Barnum - poniekąd twórca współczesnego marketingu, podejście „mamy coś dla każdego” przy planowaniu występu w cyrku.",
       "difficulty": 2,
       "status": "ok"
@@ -84,21 +83,20 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-3",
       "stems": [
-        "Autorem listy dziesięciu powodów wiary w mity psychologiczne (2011) jest:"
+        "Scott Lilienfeld (2011) wymienił dziesięć powodów wiary w mity psychologiczne. Jednym z nich jest:"
       ],
       "correct": [
-        "Scott Lilienfeld"
+        "potrzeba łatwych odpowiedzi"
       ],
       "distractors": [
-        "Bertram Forer",
-        "Gerd Gigerenzer",
-        "Daniel Kahneman",
-        "Richard Wiseman",
-        "Robert Cialdini",
-        "Patricia Cohen",
-        "Julian Rotter"
+        "efekt aureoli",
+        "dysonans poznawczy",
+        "efekt czystej ekspozycji",
+        "wyuczona bezradność",
+        "efekt pierwszeństwa",
+        "efekt placebo"
       ],
-      "explanation": "Lilienfeld (2011): wiara w przekaz ustny, potrzeba łatwych odpowiedzi, selektywność pamięci i percepcji, wnioskowanie po korelacji, post hoc, niereprezentatywna próba, wnioskowanie z podobieństwa, fałszywy obraz w mediach, wyolbrzymianie, zamęt terminologiczny.",
+      "explanation": "Lilienfeld: przekaz ustny, potrzeba łatwych odpowiedzi, selektywność pamięci, wnioskowanie po korelacji, post hoc, niereprezentatywna próba, wnioskowanie z podobieństwa, media, wyolbrzymianie, zamęt terminologiczny.",
       "sourceExcerpt": "10 powodów wiary w mity (Lilienfeld, 2011)",
       "difficulty": 2,
       "status": "ok"
