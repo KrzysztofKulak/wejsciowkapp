@@ -9,23 +9,25 @@
       "bookId": "podrecznik-pomagania",
       "chapterId": "str-33-44",
       "stems": [
-        "„Głębokie słyszenie” – słów, uczuć, a także tego, czego rozmówca boi się powiedzieć – to pojęcie wprowadzone przez:"
+        "Carl Rogers mówił w pomaganiu o „głębokim słyszeniu”. Oznacza ono słyszenie:",
+        "Według Rogersa „głębokie słyszenie” rozmówcy polega na słyszeniu:"
       ],
       "correct": [
-        "Rogersa"
+        "słów, uczuć, a także tego, czego rozmówca boi się powiedzieć",
+        "nie tylko słów, ale też uczuć i tego, czego rozmówca boi się wyrazić"
       ],
       "distractors": [
-        "Satir",
-        "Halla",
-        "Mellody",
-        "Gordona",
-        "Freuda",
-        "Maslowa",
-        "Gerstmanna"
+        "wyłącznie dosłownej treści wypowiedzi, bez żadnej interpretacji",
+        "słów rozmówcy i równoczesne przygotowywanie trafnej odpowiedzi",
+        "sygnałów niewerbalnych, z pominięciem treści samych słów",
+        "tego, co rozmówca mówi wprost, okazywane kiwaniem głową i „mhm”",
+        "własnych uczuć słuchającego, które budzi w nim rozmówca",
+        "treści wypowiedzi i oceny, na ile jest ona prawdziwa",
+        "słów rozmówcy powtarzanych dosłownie, by okazać zainteresowanie"
       ],
-      "explanation": "Słuchanie w pomaganiu jest świadome, celowe i aktywne; Rogers mówił o „głębokim słyszeniu”.",
+      "explanation": "Słuchanie w pomaganiu jest świadome, celowe i aktywne; „głębokie słyszenie” (Rogers) obejmuje słowa, uczucia i to, czego rozmówca boi się powiedzieć, a nie tylko potakiwanie czy dosłowną treść.",
       "sourceExcerpt": "Rogers - „głębokie słyszenie”: słowa, uczucia, także to, czego rozmówca boi się powiedzieć.",
-      "difficulty": 1,
+      "difficulty": 2,
       "status": "ok"
     },
     {

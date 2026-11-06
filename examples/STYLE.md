@@ -9,7 +9,7 @@
 
 ## Poziom szczegółowości
 - Testowane są **nazwy pojęć i ich definicje** oraz **rozpoznanie zjawiska w opisanej sytuacji**. Nie ma pytań o liczby, daty ani dokładne brzmienie definicji.
-- Nazwiska badaczy pojawiają się w trzonie jako podpowiedź kontekstu, nie jako odpowiedź.
+- Nazwiska badaczy pojawiają się w trzonie jako podpowiedź kontekstu, nie jako odpowiedź. **Nie pytamy „kto jest autorem X” / „z kim wiąże się pojęcie X”** – prowadzący o to nie pytają (uwaga użytkownika, 2026-11-06). Zamiast tego pytamy o treść: co autor rozumiał przez pojęcie, co wykazało badanie, do czego służy technika (np. „Rogers mówił o »głębokim słyszeniu«. Oznacza ono słyszenie: …”).
 
 ## Typy pytań (udział w próbce)
 - Definicja → nazwa pojęcia: 2/5 („zjawisko polegające na… to:”, „mechanizm, zgodnie z którym… nazywa się:”).
