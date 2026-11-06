@@ -4,3 +4,6 @@ dist
 
 # Slide text extracted from third-party PDFs (public repo): keep local only
 source/prezentacja-*.md
+
+# Printable cheat sheets (contain slide-derived content)
+druk/
