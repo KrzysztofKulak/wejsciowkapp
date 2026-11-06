@@ -3,7 +3,8 @@
  * Markdown to source/notes.md. Uses the unofficial `notion-client`.
  */
 import { NotionAPI } from "notion-client";
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
+import { execFileSync } from "node:child_process";
 import { resolve } from "node:path";
 
 type Decoration = [string, any[]?];
@@ -27,12 +28,11 @@ function blk(rm: RecordMap, id: string): Block | undefined {
 
 const root = resolve(import.meta.dirname, "..");
 const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8"));
-type Source = { url: string; title?: string; id?: string };
+type Source = { url?: string; pdf?: string; title?: string; id?: string; chapter?: string };
 /** `sources` entries are URLs or { url, title?, id? }. `title` replaces the page title (used as the
  *  fallback book title) and `id` names the output file; both are needed when two pages share a title. */
 const sources: Source[] = (config.sources ?? (config.notionUrl ? [config.notionUrl] : [])).map((x: string | Source) => (typeof x === "string" ? { url: x } : x));
-const urls = sources.map((s) => s.url);
-if (!urls.length) {
+if (!sources.length) {
   console.error("quiz.config.json: `sources` is empty");
   process.exit(1);
 }
@@ -230,8 +230,33 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
 }
 
 mkdirSync(resolve(root, "source"), { recursive: true });
+/**
+ * PDF source (e.g. lecture slides): text via `pdftotext -layout` (poppler). Written as one chapter:
+ * "# <title>" (page title) + "## <chapter>" so the normal splitter picks it up.
+ * These files are git-ignored (source/prezentacja-*.md): the repo is public and slides are third-party material.
+ */
+function renderPdf(src: Source): string {
+  if (!existsSync(src.pdf!)) throw new Error(`PDF not found: ${src.pdf}`);
+  const text = execFileSync("pdftotext", ["-layout", src.pdf!, "-"], { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 })
+    .replace(/\f/g, "\n\n")
+    .split("\n")
+    .map((l) => l.replace(/\s+$/, "").replace(/^(\s*)#/, "$1\\#"))
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+  return `# ${src.title}\n\n## ${src.chapter ?? "slajdy"}\n\n${text}\n`;
+}
+
 for (const src of sources) {
-  const pageId = pageIdFromUrl(src.url);
+  if (src.pdf) {
+    if (!src.id || !src.title) throw new Error("PDF sources need `id` and `title`");
+    const md = renderPdf(src);
+    const dest = resolve(root, `source/${src.id}.md`);
+    writeFileSync(dest, md);
+    console.log(`Wrote ${dest} (from PDF): ${md.split(/\s+/).filter(Boolean).length} words`);
+    continue;
+  }
+  const pageId = pageIdFromUrl(src.url!);
   out = [];
   headings = 0;
   visitedPages.clear();

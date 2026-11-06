@@ -7,7 +7,7 @@ import { resolve, join } from "node:path";
 import { loadNotes, splitAll, root, slugify } from "./split-notes.ts";
 
 const bankDir = resolve(root, "app/public/data/bank");
-type Entry = { bookId: string; chapterId: string; chapterTitle: string; count: number; tags: Map<string, number> };
+type Entry = { bookId: string; bookTitle?: string; chapterId: string; chapterTitle: string; count: number; tags: Map<string, number> };
 const entries: Entry[] = [];
 for (const bookId of readdirSync(bankDir))
   for (const f of readdirSync(join(bankDir, bookId)).filter((f) => f.endsWith(".json"))) {
@@ -15,7 +15,7 @@ for (const bookId of readdirSync(bankDir))
     const ok = file.questions.filter((q: any) => q.status === "ok");
     const tags = new Map<string, number>();
     for (const q of ok) for (const t of q.tags ?? []) tags.set(t, (tags.get(t) ?? 0) + 1);
-    entries.push({ bookId, chapterId: file.chapterId, chapterTitle: file.chapterTitle, count: ok.length, tags });
+    entries.push({ bookId, bookTitle: file.bookTitle, chapterId: file.chapterId, chapterTitle: file.chapterTitle, count: ok.length, tags });
   }
 
 const outline = splitAll(loadNotes());
@@ -34,9 +34,13 @@ for (const b of outline) {
 for (const e of entries) {
   if (used.has(e) || e.count === 0) continue;
   let b = books.find((x) => x.id === e.bookId);
-  if (!b) { b = { id: e.bookId, title: e.bookId, chapters: [] }; books.push(b); }
+  if (!b) { b = { id: e.bookId, title: e.bookTitle ?? e.bookId, chapters: [] }; books.push(b); }
   b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count });
 }
+// Display order: books from notes, then slide presentations, then lectures (stable within each group).
+const group = (id: string) => (id.startsWith("wyklady") ? 2 : id.startsWith("prezentacja") ? 1 : 0);
+books.sort((a, b) => group(a.id) - group(b.id));
+
 // "Zaliczenia": questions grouped by tag across all sources.
 const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[] }[] = [];
 for (const e of entries)

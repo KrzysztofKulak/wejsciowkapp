@@ -2,7 +2,7 @@
   "bookId": "psychologia-spoleczna-grzyb-wojciszke",
   "chapterId": "rozdzial-5",
   "chapterTitle": "Rozdział 5",
-  "sourceHash": "5f035a18d3b3e4c179bffe727ede575af63e193f",
+  "sourceHash": "75d989df5dd6bb806762a94f540bdb136067099b",
   "questions": [
     {
       "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-5-01",
@@ -294,7 +294,7 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-5",
       "stems": [
-        "W badaniu Borkenaua i Anette (1992) oceny cech na podstawie krótkich nagrań były trafniejsze niż losowe, z wyjątkiem przede wszystkim:"
+        "W badaniu Borkenaua i Lieblera (1992) oceny cech na podstawie krótkich nagrań były trafniejsze niż losowe, z wyjątkiem przede wszystkim:"
       ],
       "correct": [
         "neurotyzmu",

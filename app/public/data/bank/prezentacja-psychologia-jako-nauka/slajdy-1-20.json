@@ -1,0 +1,889 @@
+{
+  "bookId": "prezentacja-psychologia-jako-nauka",
+  "chapterId": "slajdy-1-20",
+  "chapterTitle": "slajdy 1–20",
+  "sourceHash": "63978e6ddfaad775bd412cb6db6879da6befd834",
+  "bookTitle": "Prezentacja: Historia psychologii. Psychologia jako nauka",
+  "questions": [
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-01",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Za datę narodzin psychologii jako nauki eksperymentalnej uznaje się rok 1879, kiedy:"
+      ],
+      "correct": [
+        "Wilhelm Wundt założył w Lipsku pierwsze laboratorium psychologiczne",
+        "Wundt otworzył w Lipsku pierwsze laboratorium psychologii"
+      ],
+      "distractors": [
+        "William James wydał „The Principles of Psychology”",
+        "Franciscus Donders opisał metodę odejmowania",
+        "Zygmunt Freud wydał „Objaśnienie marzeń sennych”",
+        "Edward Titchener założył strukturalizm w USA",
+        "John Dewey ogłosił program funkcjonalizmu",
+        "Max Wertheimer opisał zjawisko postaci",
+        "powstało Amerykańskie Towarzystwo Psychologiczne"
+      ],
+      "explanation": "1879 r. Wundt zakłada w Lipsku pierwsze laboratorium; umysł bada się jak zjawisko naturalne, obiektywnymi i systematycznymi procedurami.",
+      "sourceExcerpt": "1879r. - data narodzin psychologii jako nauki eksperymentalnej (laboratoryjnej) - Wilhelm Wundt zakłada w Lipsku pierwsze laboratorium psychologiczne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-02",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Obiektywne, systematyczne procedury zbierania danych w laboratorium Wundta umożliwiały przede wszystkim:"
+      ],
+      "correct": [
+        "replikację eksperymentów"
+      ],
+      "distractors": [
+        "analizę marzeń sennych",
+        "badanie nieświadomości",
+        "obserwację w warunkach naturalnych",
+        "opis pojedynczych przypadków",
+        "badania korelacyjne",
+        "terapię zaburzeń",
+        "badanie zwierząt"
+      ],
+      "explanation": "Laboratorium Wundta badało reakcje na bodźce wzrokowe i słuchowe obiektywnymi procedurami, co umożliwiało powtarzanie eksperymentów.",
+      "sourceExcerpt": "Obiektywne systematyczne procedury zbierania danych → możliwość replikacji eksperymentów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-03",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Niekontrolowane, subiektywne rozmyślanie nad własnymi stanami ex post (Inner Wahrnehmung), które Wundt odrzucał jako nienaukowe, to:"
+      ],
+      "correct": [
+        "samoobserwacja potoczna",
+        "samoobserwacja nienaukowa"
+      ],
+      "distractors": [
+        "introspekcja eksperymentalna",
+        "metoda odejmowania",
+        "pomiar czasu reakcji",
+        "obserwacja naturalna",
+        "metoda wolnych skojarzeń",
+        "obserwacja uczestnicząca",
+        "analiza czynności omyłkowych"
+      ],
+      "explanation": "Wundt odróżniał samoobserwację potoczną (Inner Wahrnehmung), którą odrzucał, od introspekcji eksperymentalnej (Experimentelle Selbstbeobachtung).",
+      "sourceExcerpt": "Samoobserwacja nienaukowa / potoczna (Inner Wahrnehmung): Niekontrolowane, subiektywne rozmyślanie nad własnymi stanami emocjonalnymi lub myślami ex post. Wundt odrzucał tę metodę jako całkowicie nienaukową.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-04",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Ściśle kontrolowana obserwacja własnych bezpośrednich wrażeń sensorycznych w warunkach laboratoryjnych to u Wundta:"
+      ],
+      "correct": [
+        "introspekcja eksperymentalna"
+      ],
+      "distractors": [
+        "samoobserwacja potoczna (Inner Wahrnehmung)",
+        "metoda odejmowania Dondersa",
+        "obserwacja naturalna",
+        "metoda wolnych skojarzeń",
+        "studium przypadku",
+        "obserwacja uczestnicząca",
+        "reakcja dyskryminacyjna"
+      ],
+      "explanation": "Introspekcja eksperymentalna jest kontrolowana i prowadzona w laboratorium, w przeciwieństwie do potocznej samoobserwacji.",
+      "sourceExcerpt": "Introspekcja eksperymentalna (Experimentelle Selbstbeobachtung): Ściśle kontrolowana obserwacja własnych bezpośrednich wrażeń sensorycznych, prowadzona w warunkach laboratoryjnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-05",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Jedną z czterech zasad naukowej introspekcji według Wundta jest to, że:"
+      ],
+      "correct": [
+        "obserwator musi być w stanie natężonej uwagi (Spannung)",
+        "warunki eksperymentu muszą poddawać się manipulacji"
+      ],
+      "distractors": [
+        "obserwator opisuje stany ex post, po zakończeniu badania",
+        "obserwator sam wybiera moment rozpoczęcia bez kontroli",
+        "badanie nie musi być powtarzalne",
+        "warunki muszą być naturalne i niezmienne",
+        "obserwator nie może znać celu badania",
+        "obserwacja dotyczy wspomnień z dzieciństwa",
+        "obserwator swobodnie mówi, co przychodzi mu na myśl"
+      ],
+      "explanation": "Cztery zasady: znany moment rozpoczęcia, stan natężonej uwagi, pełna powtarzalność, możliwość manipulowania warunkami.",
+      "sourceExcerpt": "1. Obserwator musi być w stanie dokładnie określić moment rozpoczęcia. 2. Obserwator musi znajdować się w stanie natężonej uwagi (Spannung). 3. Badanie musi być w pełni powtarzalne. 4. Warunki eksperymentalne muszą poddawać się manipulacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-06",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Metodę odejmowania, rozwiniętą przez Wundta do pomiaru czasów reakcji, opracował holenderski fizjolog:"
+      ],
+      "correct": [
+        "Franciscus Donders"
+      ],
+      "distractors": [
+        "Hermann Helmholtz",
+        "Gustav Fechner",
+        "Ernst Weber",
+        "Hermann Ebbinghaus",
+        "Edward Titchener",
+        "Iwan Pawłow",
+        "Wilhelm Wundt"
+      ],
+      "explanation": "Wundt przejął i rozwinął metodę odejmowania Dondersa.",
+      "sourceExcerpt": "Wundt przejął i rozwinął metodę odejmowania holenderskiego fizjologa Franciscusa Dondersa.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-07",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Znaczenie pomiaru czasów reakcji dla psychologii polegało na tym, że:"
+      ],
+      "correct": [
+        "dał pierwszy dowód obiektywnej mierzalności procesów psychicznych"
+      ],
+      "distractors": [
+        "potwierdził istnienie nieświadomości",
+        "zastąpił całkowicie eksperyment laboratoryjny",
+        "umożliwił badanie marzeń sennych",
+        "oparł psychologię wyłącznie na opisie słownym badanych",
+        "wykazał, że procesy psychiczne nie trwają w czasie",
+        "pozwolił mierzyć inteligencję"
+      ],
+      "explanation": "Pomiar RT był pierwszym dowodem, że ukryte procesy psychiczne można mierzyć obiektywnie, ilościowo i powtarzalnie, bez polegania wyłącznie na opisie słownym; to podwaliny psychologii poznawczej i neuronauki.",
+      "sourceExcerpt": "Pomiar czasów reakcji był pierwszym dowodem na to, że ukryte procesy psychiczne można mierzyć w sposób obiektywny, ilościowy i powtarzalny, bez konieczności polegania wyłącznie na opisie słownym badanej osoby.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-08",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "W schemacie Dondersa reakcja, w której jest kilka bodźców, a reaguje się tylko na jeden określony, to reakcja:"
+      ],
+      "correct": [
+        "dyskryminacyjna (C)"
+      ],
+      "distractors": [
+        "prosta (A)",
+        "ze złożonym wyborem (B)",
+        "warunkowa",
+        "odruchowa",
+        "antycypacyjna",
+        "z wyborem reakcji (B)",
+        "wielokrotna (D)"
+      ],
+      "explanation": "A – prosta (jeden bodziec, jedna reakcja), C – z wyborem bodźca, B – złożony wybór (każdy bodziec ma inny ruch).",
+      "sourceExcerpt": "Reakcja z wyborem bodźca / Reakcja dyskryminacyjna (C): Kilka bodźców, reakcja tylko na jeden określony.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-09",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Czas reakcji ze złożonym wyborem (B) według Dondersa obejmuje detekcję bodźca, jego rozpoznanie, wykonanie ruchu oraz:"
+      ],
+      "correct": [
+        "wybór odpowiedniej reakcji"
+      ],
+      "distractors": [
+        "ocenę emocjonalną bodźca",
+        "zapamiętanie bodźca",
+        "porównanie z poprzednim bodźcem",
+        "introspekcję wrażeń",
+        "odpoczynek po reakcji",
+        "kontrolę błędów",
+        "przewidywanie kolejnego bodźca"
+      ],
+      "explanation": "Czas B = detekcja + rozpoznanie + wybór odpowiedniej reakcji + wykonanie ruchu; odejmując czasy prostszych zadań, wyodrębnia się czas poszczególnych procesów.",
+      "sourceExcerpt": "Czas B = detekcja + rozpoznanie + wybór odpowiedniej reakcji + wykonanie ruchu.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-10",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Nurt pytający „co?”, zakładający, że doznania psychiczne są kombinacją elementów prostych, to:"
+      ],
+      "correct": [
+        "strukturalizm"
+      ],
+      "distractors": [
+        "funkcjonalizm",
+        "behawioryzm",
+        "psychoanaliza",
+        "psychologia postaci",
+        "kognitywizm",
+        "humanizm",
+        "ewolucjonizm"
+      ],
+      "explanation": "Strukturalizm szukał zasadniczej struktury psychiki przez analizę składników podstawowych: doznań i innych doświadczeń.",
+      "sourceExcerpt": "Strukturalizm – pytania „co?”. Nurt oparty na założeniu, że wszelkie doznania psychiczne jednostki można pojmować jako kombinację elementów prostych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-11",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Nurt pytający „jak?” i „dlaczego?”, korzystający z teorii ewolucji Darwina i badający cele oraz funkcję zachowania w interakcji ze środowiskiem, to:"
+      ],
+      "correct": [
+        "funkcjonalizm"
+      ],
+      "distractors": [
+        "strukturalizm",
+        "behawioryzm",
+        "psychoanaliza",
+        "psychologia postaci",
+        "kognitywizm",
+        "humanizm",
+        "introspekcjonizm"
+      ],
+      "explanation": "Funkcjonalizm (James, 1890, strumień świadomości) badał cele i funkcje zachowania.",
+      "sourceExcerpt": "Funkcjonalizm – pytania „jak?” „dlaczego?”. Funkcjonaliści zastanawiali się nad celami i funkcją danego zachowania podczas interakcji organizmu ze środowiskiem. Wykorzystanie założeń teorii ewolucji Darwina.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-12",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Pojęcie „strumienia świadomości”, wynikające z założenia, że mózg i umysł stale się zmieniają, wiąże się z:"
+      ],
+      "correct": [
+        "Williamem Jamesem"
+      ],
+      "distractors": [
+        "Wilhelmem Wundtem",
+        "Franciscusem Dondersem",
+        "Zygmuntem Freudem",
+        "Edwardem Titchenerem",
+        "Johnem Watsonem",
+        "Karolem Darwinem",
+        "Maxem Wertheimerem"
+      ],
+      "explanation": "William James w 1890 r. wydał „The Principles of Psychology”; mózg i umysł stale się zmieniają, stąd strumień świadomości.",
+      "sourceExcerpt": "1890 r. – William James wydaje The principles of psychology. Mózg i umysł stale się zmieniają → strumień świadomości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-13",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Współcześni psychologowie, w odniesieniu do sporu strukturalizmu z funkcjonalizmem:"
+      ],
+      "correct": [
+        "badają zarówno strukturę, jak i funkcję zachowania"
+      ],
+      "distractors": [
+        "badają wyłącznie strukturę psychiki",
+        "badają wyłącznie funkcję zachowania",
+        "odrzucają dorobek obu nurtów",
+        "uznają spór za nierozstrzygnięty i go unikają",
+        "wracają do introspekcji potocznej",
+        "zastąpili oba nurty psychoanalizą",
+        "badają tylko zachowania zwierząt"
+      ],
+      "explanation": "Dorobek obu nurtów dał kontekst rozwoju psychologii współczesnej, która bada i strukturę, i funkcję.",
+      "sourceExcerpt": "Psychologowie aktualnie badają zarówno strukturę jak i funkcję zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-14",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Psychologia to nauka zajmująca się opisem, wyjaśnianiem, przewidywaniem i kontrolowaniem ludzkiego zachowania. Przedmiotem zainteresowania wszystkich psychologów jest:"
+      ],
+      "correct": [
+        "zachowanie"
+      ],
+      "distractors": [
+        "świadomość",
+        "nieświadomość",
+        "mózg",
+        "osobowość",
+        "dusza",
+        "emocje",
+        "inteligencja"
+      ],
+      "explanation": "Psychologia opisuje, wyjaśnia, przewiduje i kontroluje zachowanie, które jest przedmiotem zainteresowania wszystkich psychologów.",
+      "sourceExcerpt": "Psychologia: Nauka zajmująca się opisem, wyjaśnianiem, przewidywaniem i kontrolowaniem ludzkiego zachowania. Przedmiotem zainteresowania wszystkich psychologów jest zachowanie.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-15",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Cel badań psychologicznych osiągany, gdy badacze identyfikują korelacje między zmiennymi, to:"
+      ],
+      "correct": [
+        "przewidywanie"
+      ],
+      "distractors": [
+        "opisywanie",
+        "wyjaśnianie",
+        "kontrolowanie",
+        "kategoryzowanie",
+        "replikowanie",
+        "operacjonalizowanie",
+        "standaryzowanie"
+      ],
+      "explanation": "Korelacje pozwalają przewidywać (np. im większa depresja, tym więcej objawów bezradności); wyjaśnianie wymaga identyfikacji przyczyny.",
+      "sourceExcerpt": "Przewidywanie: Kiedy badacze identyfikują korelacje między zmiennymi, są w stanie przewidzieć procesy psychiczne i zachowania.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-16",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Cel badań osiągany, gdy badacze potrafią zidentyfikować przyczynę zjawiska (np. nierozwiązywalne problemy wywołują bezradność), to:"
+      ],
+      "correct": [
+        "wyjaśnianie"
+      ],
+      "distractors": [
+        "opisywanie",
+        "przewidywanie",
+        "kontrolowanie",
+        "kategoryzowanie",
+        "replikowanie",
+        "operacjonalizowanie",
+        "standaryzowanie"
+      ],
+      "explanation": "Opisywanie: definiowanie i klasyfikowanie; przewidywanie: korelacje; wyjaśnianie: przyczyny; kontrolowanie: zmiana życia ludzi na lepsze.",
+      "sourceExcerpt": "Wyjaśnianie: Badacze rozumieją zjawisko, gdy mogą zidentyfikować jego przyczynę (przyczyny).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-17",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Terapia zachęcająca osoby z depresją do wykonywania łatwych do opanowania zadań, która zmniejsza ich bezradność, ilustruje cel badań zwany:"
+      ],
+      "correct": [
+        "kontrolowaniem (zastosowaniem)",
+        "kontrolowaniem"
+      ],
+      "distractors": [
+        "opisywaniem",
+        "przewidywaniem",
+        "wyjaśnianiem",
+        "kategoryzowaniem",
+        "replikowaniem",
+        "operacjonalizowaniem",
+        "standaryzowaniem"
+      ],
+      "explanation": "Kontrolowanie (kierowanie, zastosowanie) to wykorzystanie wiedzy i metod, by zmieniać życie ludzi na lepsze.",
+      "sourceExcerpt": "Kontrolowanie = Kierowanie = Zastosowanie: Psychologowie stosują swoją wiedzę i metody badawcze, aby zmieniać życie ludzi na lepsze. Terapia, która zachęca osoby cierpiące na depresję do podejmowania prób wykonania zadań, które można opanować.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-18",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "W porównaniu naukowego i nienaukowego podejścia do wiedzy podejście naukowe cechuje się obserwacją:"
+      ],
+      "correct": [
+        "systematyczną i kontrolowaną"
+      ],
+      "distractors": [
+        "przypadkową i niekontrolowaną",
+        "intuicyjną i bezkrytyczną",
+        "swobodną i spontaniczną",
+        "subiektywną i nieprecyzyjną",
+        "jednorazową i niepowtarzalną",
+        "okazjonalną i anegdotyczną",
+        "uczestniczącą i nieustrukturyzowaną"
+      ],
+      "explanation": "Nauka: podejście empiryczne, obserwacja systematyczna i kontrolowana, definicje operacyjne, precyzyjne narzędzia, hipotezy weryfikowalne, postawa krytyczna i sceptyczna.",
+      "sourceExcerpt": "Nienaukowe: obserwacja przypadkowa, niekontrolowana. Naukowe: systematyczna, kontrolowana.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-19",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "W podejściu nienaukowym hipotezy są:"
+      ],
+      "correct": [
+        "nieweryfikowalne"
+      ],
+      "distractors": [
+        "możliwe do weryfikacji",
+        "operacyjnie zdefiniowane",
+        "precyzyjnie sformułowane",
+        "sprawdzane eksperymentalnie",
+        "oparte na systematycznej obserwacji",
+        "formułowane sceptycznie",
+        "zawsze fałszywe"
+      ],
+      "explanation": "Podejście nienaukowe: intuicyjne, obserwacja przypadkowa, pojęcia niejednoznaczne, narzędzia nieprecyzyjne, hipotezy nieweryfikowalne, postawa bezkrytyczna.",
+      "sourceExcerpt": "Hipotezy: nieweryfikowalne (nienaukowe) / możliwe do weryfikacji (naukowe).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-20",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Wstępne wyjaśnienie zjawiska, często podawane w formie przewidywania wyniku wraz z wyjaśnieniem, to:"
+      ],
+      "correct": [
+        "hipoteza"
+      ],
+      "distractors": [
+        "teoria",
+        "zmienna zależna",
+        "pytanie badawcze",
+        "korelacja",
+        "operacjonalizacja",
+        "standaryzacja"
+      ],
+      "explanation": "Hipoteza to wstępne wyjaśnienie zjawiska, zwykle w formie przewidywania.",
+      "sourceExcerpt": "Hipoteza - jest wstępnym wyjaśnieniem zjawiska. Często hipoteza jest podawana w formie przewidywania jakiegoś wyniku, wraz z wyjaśnieniem tego przewidywania.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-21",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Błąd spowodowany oczekiwaniami obserwatora to:"
+      ],
+      "correct": [
+        "tendencyjność obserwatora"
+      ],
+      "distractors": [
+        "błąd dobrowolności",
+        "efekt regresji do średniej",
+        "korelacja pozorna",
+        "błąd próby",
+        "efekt Barnuma",
+        "operacjonalizacja",
+        "standaryzacja"
+      ],
+      "explanation": "Tendencyjność obserwatora ogranicza się przez standaryzację, operacjonalizację i definicje operacyjne.",
+      "sourceExcerpt": "Tendencyjność obserwatora czyli błąd spowodowany oczekiwaniami obserwatora.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-22",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Jednakowe, stałe procedury na wszystkich etapach zbierania danych, ograniczające tendencyjność obserwatora, to:"
+      ],
+      "correct": [
+        "standaryzacja"
+      ],
+      "distractors": [
+        "operacjonalizacja",
+        "randomizacja",
+        "replikacja",
+        "falsyfikacja",
+        "korelacja",
+        "introspekcja",
+        "generalizacja"
+      ],
+      "explanation": "Standaryzacja: te same procedury wobec wszystkich; operacjonalizacja: standaryzowanie znaczenia pojęć.",
+      "sourceExcerpt": "Aby zredukować go do minimum → standaryzacja – jednakowe, stałe procedury na wszystkich etapach zbierania danych.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-23",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Strategia standaryzowania znaczenia pojęć to:"
+      ],
+      "correct": [
+        "operacjonalizacja"
+      ],
+      "distractors": [
+        "standaryzacja procedur",
+        "randomizacja",
+        "replikacja",
+        "falsyfikacja",
+        "generalizacja",
+        "introspekcja",
+        "kategoryzacja"
+      ],
+      "explanation": "Operacjonalizacja standaryzuje znaczenie pojęć przez definicje operacyjne.",
+      "sourceExcerpt": "Operacjonalizacja – strategia standaryzowania znaczenia pojęć.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-24",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Obiektywne opisy pojęć przez przedstawienie operacji, które doprowadziły do ich sformułowania i pomiaru, to:"
+      ],
+      "correct": [
+        "definicje operacyjne"
+      ],
+      "distractors": [
+        "hipotezy badawcze",
+        "teorie naukowe",
+        "zmienne zależne",
+        "pytania badawcze",
+        "normy testowe",
+        "skale pomiarowe",
+        "wskaźniki korelacji"
+      ],
+      "explanation": "Definicje operacyjne mówią, jak dane pojęcie mierzymy; to element operacjonalizacji.",
+      "sourceExcerpt": "Definicje operacyjne – obiektywne opisy pojęć poprzez przedstawienie operacji, które doprowadziły do ich formułowania i mierzenia.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-25",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Czynnik, który badacz dobiera lub którym manipuluje na co najmniej dwóch poziomach, by sprawdzić jego wpływ na zachowanie, to:"
+      ],
+      "correct": [
+        "zmienna niezależna"
+      ],
+      "distractors": [
+        "zmienna zależna",
+        "zmienna kontrolna",
+        "zmienna zakłócająca",
+        "współczynnik korelacji",
+        "definicja operacyjna",
+        "hipoteza",
+        "grupa kontrolna"
+      ],
+      "explanation": "Zmienna niezależna ma co najmniej dwa poziomy (np. z kofeiną i bez); zmienna zależna to to, co badacz mierzy.",
+      "sourceExcerpt": "Zmienna niezależna – każdy czynnik, który badacz dobiera lub którym manipuluje na co najmniej dwóch poziomach w celu sprawdzenia jego wpływu na zachowanie.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-26",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "To, co badacz mierzy, czyli zachowanie będące efektem wpływu zmiennej niezależnej (o ile ten wpływ nastąpi), to:"
+      ],
+      "correct": [
+        "zmienna zależna"
+      ],
+      "distractors": [
+        "zmienna niezależna",
+        "zmienna kontrolna",
+        "zmienna zakłócająca",
+        "definicja operacyjna",
+        "hipoteza",
+        "poziom zmiennej",
+        "grupa eksperymentalna"
+      ],
+      "explanation": "Zmienna zależna jest mierzona; zmienna niezależna jest manipulowana lub dobierana.",
+      "sourceExcerpt": "Zmienna zależna – jest tym co badacz mierzy, inaczej to zachowanie będące efektem wpływu zmiennej niezależnej (o ile ten wpływ nastąpi).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-27",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Minimalna liczba poziomów, na których badacz musi ustawić zmienną niezależną, wynosi:"
+      ],
+      "correct": [
+        "dwa"
+      ],
+      "distractors": [
+        "jeden",
+        "trzy",
+        "cztery",
+        "pięć",
+        "dziesięć",
+        "zależy od liczby badanych",
+        "tyle, ile jest zmiennych zależnych"
+      ],
+      "explanation": "Bez co najmniej dwóch poziomów nie ma z czym porównać wpływu zmiennej niezależnej.",
+      "sourceExcerpt": "Zmienna niezależna – każdy czynnik, który badacz dobiera lub którym manipuluje na co najmniej dwóch poziomach.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-28",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Rodzaj badania, w którym badacz kontroluje wszystkie warunki, w tym zmienną niezależną, i nimi manipuluje, to:"
+      ],
+      "correct": [
+        "eksperyment"
+      ],
+      "distractors": [
+        "badanie korelacyjne",
+        "sondaż",
+        "obserwacja naturalna",
+        "studium przypadku",
+        "wywiad",
+        "obserwacja uczestnicząca",
+        "badanie opisowe"
+      ],
+      "explanation": "Tylko eksperyment manipuluje zmienną niezależną i kontroluje warunki, więc pozwala wnioskować o przyczynach.",
+      "sourceExcerpt": "Eksperyment – rodzaj badania, w którym badacz kontroluje wszystkie warunki, w tym zmienną niezależną oraz nimi manipuluje.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-29",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Badania korelacyjne nie pozwalają określić związku przyczynowo-skutkowego, ponieważ:"
+      ],
+      "correct": [
+        "nie manipuluje się w nich zmienną niezależną",
+        "sprawdza się w nich związki bez manipulacji zmiennymi"
+      ],
+      "distractors": [
+        "korelacja zawsze jest ujemna",
+        "dotyczą wyłącznie jednej zmiennej",
+        "prowadzi się je tylko w laboratorium",
+        "współczynnik korelacji nie może być ujemny",
+        "badają pojedyncze przypadki",
+        "opierają się na introspekcji",
+        "nie używa się w nich liczb"
+      ],
+      "explanation": "Badania korelacyjne sprawdzają związki między zmiennymi bez manipulacji zmienną niezależną, więc nie rozstrzygają o przyczynie.",
+      "sourceExcerpt": "Badania korelacyjne – metoda w której sprawdza się związki między zmiennymi, bez manipulacji zmienną niezależną. ! Nie ma możliwości określenia związku przyczynowo-skutkowego.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-30",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Współczynnik korelacji przyjmuje wartości z przedziału:"
+      ],
+      "correct": [
+        "od −1 do 1"
+      ],
+      "distractors": [
+        "od 0 do 1",
+        "od 0 do 100",
+        "od −100 do 100",
+        "od 1 do 10",
+        "od −1 do 0",
+        "od 0 do ∞",
+        "od −10 do 10"
+      ],
+      "explanation": "Miarą korelacji jest współczynnik od −1 do 1; korelacja może być dodatnia lub ujemna.",
+      "sourceExcerpt": "Miarą jest współczynnik korelacji od -1 do 1. Korelacja może być dodatnia lub ujemna.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-31",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Badacz stwierdza, że im więcej godzin uczniowie spędzają przy grach, tym niższe mają oceny. Jest to korelacja:"
+      ],
+      "correct": [
+        "ujemna"
+      ],
+      "distractors": [
+        "dodatnia",
+        "zerowa",
+        "doskonała",
+        "przyczynowa",
+        "losowa",
+        "neutralna"
+      ],
+      "explanation": "Gdy wzrost jednej zmiennej idzie w parze ze spadkiem drugiej, korelacja jest ujemna; nie dowodzi to, że gry obniżają oceny.",
+      "sourceExcerpt": "Miarą jest współczynnik korelacji od -1 do 1. Korelacja może być dodatnia lub ujemna.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-32",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Technika badań opisowych polegająca na zbieraniu odpowiedzi ludzi na zestaw przygotowanych wcześniej pytań to:"
+      ],
+      "correct": [
+        "sondaż"
+      ],
+      "distractors": [
+        "eksperyment",
+        "obserwacja",
+        "korelacja",
+        "pomiar RT",
+        "analiza",
+        "introspekcja"
+      ],
+      "explanation": "Sondaż, obserwacja naturalna i studium przypadku to metody opisowe.",
+      "sourceExcerpt": "Sondaż – technika badań opisowych, polegająca na zbieraniu odpowiedzi ludzi na zestaw przygotowanych wcześniej pytań.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-33",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Forma badania opisowego obejmująca obserwację i ocenę zachowań w warunkach naturalnych to:"
+      ],
+      "correct": [
+        "obserwacja naturalna"
+      ],
+      "distractors": [
+        "eksperyment terenowy",
+        "sondaż",
+        "studium przypadku",
+        "badanie korelacyjne",
+        "eksperyment laboratoryjny",
+        "introspekcja eksperymentalna",
+        "obserwacja kontrolowana"
+      ],
+      "explanation": "Obserwacja naturalna ocenia zachowania występujące w warunkach naturalnych, bez manipulacji.",
+      "sourceExcerpt": "Obserwacja naturalna – forma badania opisowego obejmująca obserwację i ocenę zachowań występujących w warunkach naturalnych.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka-slajdy-1-20-34",
+      "bookId": "prezentacja-psychologia-jako-nauka",
+      "chapterId": "slajdy-1-20",
+      "stems": [
+        "Badanie polegające na intensywnej obserwacji konkretnej jednostki lub małej grupy jednostek to:"
+      ],
+      "correct": [
+        "studium przypadku"
+      ],
+      "distractors": [
+        "sondaż",
+        "obserwacja naturalna",
+        "eksperyment",
+        "badanie korelacyjne",
+        "introspekcja",
+        "badanie panelowe",
+        "metoda kuli śnieżnej"
+      ],
+      "explanation": "Studium przypadku to intensywna obserwacja jednostki lub małej grupy.",
+      "sourceExcerpt": "Studium przypadku – badanie polegające na intensywnej obserwacji konkretnej jednostki lub małej grupy jednostek.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    }
+  ]
+}

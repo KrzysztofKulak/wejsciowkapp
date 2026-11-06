@@ -1,0 +1,847 @@
+{
+  "bookId": "wywiad-psychologiczny-2",
+  "chapterId": "str-152-187",
+  "chapterTitle": "str. 152-187",
+  "sourceHash": "a092fd3fb6e55d621b374ebbb63940e8f88c808e",
+  "questions": [
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-01",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Wszelkie wypowiedzi psychologa w trakcie wywiadu diagnostycznego, wpływające na kierunek myślenia osoby badanej, to:"
+      ],
+      "correct": [
+        "interwencje"
+      ],
+      "distractors": [
+        "pytania diagnostyczne",
+        "parafrazy",
+        "klaryfikacje",
+        "hipotezy",
+        "techniki konwersacyjne",
+        "odzwierciedlenia",
+        "projekcje"
+      ],
+      "explanation": "Interwencje to wszystkie wypowiedzi diagnosty; zadawanie pytań jest podstawowym sposobem realizacji celu wywiadu.",
+      "sourceExcerpt": "Interwencje - wszelkie wypowiedzi psychologa w trakcie wywiadu diagnostycznego (wywierają wpływ na kierunek myślenia osoby badanej).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-02",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Głównym celem wywiadu diagnostycznego jest:"
+      ],
+      "correct": [
+        "zebranie danych do odpowiedzi na pytanie diagnostyczne"
+      ],
+      "distractors": [
+        "udzielenie badanemu wsparcia emocjonalnego w kryzysie",
+        "zbudowanie trwałej relacji terapeutycznej z badanym",
+        "przekazanie badanemu informacji o postawionej diagnozie",
+        "sprawdzenie, na ile badany jest podatny na sugestie",
+        "ocena poziomu inteligencji osoby badanej",
+        "zawarcie kontraktu terapeutycznego z badanym"
+      ],
+      "explanation": "Celem wywiadu diagnostycznego jest zebranie informacji potrzebnych do odpowiedzi na pytanie diagnostyczne; podstawowym sposobem jest zadawanie pytań.",
+      "sourceExcerpt": "Głównym celem wywiadu diagnostycznego jest zebranie od osoby badanej informacji potrzebnych, by odpowiedzieć na postawione pytanie diagnostyczne. Zadawanie pytań to podstawowy sposób spełnienia celu wywiadu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-03",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania zaczynające się od „jak” lub „co”, nieograniczające treści, czasu ani formy odpowiedzi, to pytania:"
+      ],
+      "correct": [
+        "otwarte"
+      ],
+      "distractors": [
+        "zamknięte",
+        "projekcyjne",
+        "tendencyjne",
+        "alternatywne",
+        "sugerujące",
+        "hipotetyczne",
+        "uwikłane"
+      ],
+      "explanation": "Pytania otwarte nie ograniczają odpowiedzi; na odpowiedź wpływa poziom lęku i kompetencje komunikacyjne badanego.",
+      "sourceExcerpt": "Otwarte - „Jak”, „Co”. Nie ograniczają treści, czasu ani formy. Na odpowiedź wpływa poziom lęku i kompetencje komunikacyjne badanego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-04",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie zaczynające się od „dlaczego” bywa problematyczne, ponieważ:"
+      ],
+      "correct": [
+        "brzmi oceniająco i zakłada wgląd badanego"
+      ],
+      "distractors": [
+        "zawsze jest pytaniem zamkniętym typu „czy”",
+        "uniemożliwia badanemu jakąkolwiek odpowiedź",
+        "dotyczy wyłącznie obiektywnych faktów",
+        "jest zawsze pytaniem alternatywnym",
+        "w ogóle nie wpływa na kierunek rozmowy",
+        "nadaje się wyłącznie do pytań uwikłanych"
+      ],
+      "explanation": "„Dlaczego” jest zwykle oceniające, sugerujące, zakłada wgląd i racjonalną przyczynowość; może służyć co najwyżej do doszczegółowiania.",
+      "sourceExcerpt": "„Dlaczego” - zwykle dość oceniające, sugerujące, zakładające wgląd i racjonalną przyczynowość → ew. może być użyte do doszczegółowywania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-05",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Zaletą pytań zamkniętych jest to, że:"
+      ],
+      "correct": [
+        "są mało zagrażające i rzadko wywołują opór",
+        "rzadko budzą opór i nie wymagają wysiłku"
+      ],
+      "distractors": [
+        "są najbardziej użyteczne diagnostycznie",
+        "nie ograniczają zakresu odpowiedzi",
+        "ujawniają funkcjonowanie psychiczne badanego",
+        "pozwalają badanemu samemu wybrać temat",
+        "zmniejszają efekt aprobaty społecznej",
+        "dostarczają najwięcej spontanicznych informacji",
+        "zawsze są neutralne"
+      ],
+      "explanation": "Pytania zamknięte są mniej użyteczne diagnostycznie, ale mało zagrażające, rzadko wywołują opór i nie wymagają wysiłku.",
+      "sourceExcerpt": "Pytania zamknięte: są mniej użyteczne diagnostycznie. Zaleta: są mało zagrażające i rzadko wywołują opór. Nie wymagają wysiłku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-06",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania zamknięte warto stosować między innymi wtedy, gdy:"
+      ],
+      "correct": [
+        "poziom lęku badanego jest wysoki lub motywacja do badania niska",
+        "trzeba przejąć kontrolę nad długością lub tematem wypowiedzi"
+      ],
+      "distractors": [
+        "chcemy poznać funkcjonowanie psychiczne badanego",
+        "zależy nam na spontanicznych wypowiedziach",
+        "badany jest bardzo zmotywowany i rozmowny",
+        "chcemy uniknąć jakiegokolwiek wpływu na odpowiedź",
+        "badamy podatność badanego na sugestie",
+        "temat jest nowy i bardzo ogólny",
+        "zależy nam na kolejności podawanych informacji"
+      ],
+      "explanation": "Zamknięte: przy wysokim lęku lub niskiej motywacji, dla ustalenia faktu, przy braku czasu, przy sprawdzaniu zgodności treści z sytuacją badanego, przy kontroli długości lub tematu.",
+      "sourceExcerpt": "Stosować gdy: poziom lęku wysoki, lub motywacji do badania niski; chodzi o uzyskanie obiektywnego faktu lub doprecyzowanie; czas jest ograniczony; gdy trzeba przejąć kontrolę nad długością lub tematem wypowiedzi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-07",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie zadane wprost może nie być właściwe, gdy:"
+      ],
+      "correct": [
+        "odpowiedź jest silnie związana z aprobatą społeczną"
+      ],
+      "distractors": [
+        "badany ma wysoki poziom lęku przed badaniem",
+        "czas przeznaczony na wywiad jest ograniczony",
+        "chodzi o ustalenie obiektywnego faktu z życia",
+        "temat rozmowy jest zupełnie neutralny",
+        "badany sam wcześniej poruszył ten temat",
+        "trzeba doprecyzować wcześniejszą odpowiedź"
+      ],
+      "explanation": "Pytania wprost bywają niewłaściwe przy zmiennej aprobaty społecznej (badany odpowie społecznie aprobowanie) i przy podejrzeniu świadomej autoprezentacji.",
+      "sourceExcerpt": "Pytania wprost mogą nie być właściwe, gdy: odpowiedź na pytanie jest silnie związana ze zmienną aprobaty społecznej; diagnosta podejrzewa, że osoba badana dokonuje świadomej autoprezentacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-08",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania hipotetyczne, czasem traktowane jako forma pośrednia między pytaniami wprost i projekcyjnymi, mogą dostarczyć przesłanek o:"
+      ],
+      "correct": [
+        "motywach, pragnieniach i dążeniach badanego"
+      ],
+      "distractors": [
+        "obiektywnych faktach z życia badanego",
+        "podatności badanego na sugestie",
+        "poziomie inteligencji badanego",
+        "ścisłej chronologii zdarzeń",
+        "zgodności odpowiedzi z normami społecznymi",
+        "przebiegu wcześniejszych badań"
+      ],
+      "explanation": "Pytania hipotetyczne pomagają formułować hipotezy o motywach, pragnieniach i dążeniach oraz o zbieżności rzeczywistości z marzeniami badanego.",
+      "sourceExcerpt": "Pytania hipotetyczne mogą dostarczyć przesłanek do formułowania hipotez o motywach zachowania, aktualnych pragnieniach i dążeniach, a także rozbieżności bądź zbieżności rzeczywistości marzeń badanego.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-09",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie „Proszę opisać, jak według pani powinien zachowywać się idealny mąż?” to przykład pytania:"
+      ],
+      "correct": [
+        "projekcyjnego"
+      ],
+      "distractors": [
+        "sugerującego",
+        "alternatywnego",
+        "zamkniętego",
+        "uwikłanego",
+        "przejściowego",
+        "hipotetycznego wprost",
+        "odroczonego"
+      ],
+      "explanation": "W pytaniu projekcyjnym diagnosta pyta o inną osobę lub grupę zamiast wprost o badanego.",
+      "sourceExcerpt": "Pytania projekcyjne: Diagnosta prosi rozmówcę o informacje na temat innej osoby lub grupy osób. Np. „Proszę opisać, jak wg pani powinien zachowywać się idealny mąż?”",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-10",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Zaletą pytań projekcyjnych jest to, że:"
+      ],
+      "correct": [
+        "znacząco zmniejszają opory badanego",
+        "wyraźnie obniżają opór przed odpowiedzią"
+      ],
+      "distractors": [
+        "dają pewność, że badany mówi o sobie",
+        "są najpewniejszym źródłem informacji",
+        "pozwalają szybko ustalić obiektywne fakty",
+        "eliminują potrzebę formułowania hipotez",
+        "zawsze są pytaniami neutralnymi",
+        "zastępują inne metody diagnozy",
+        "pozwalają kontrolować długość wypowiedzi"
+      ],
+      "explanation": "Pytania projekcyjne zmniejszają opory, ale nie dają pewności, że badany identyfikuje się z opisywanymi osobami; mogą być źródłem hipotez, nie jedynym źródłem informacji.",
+      "sourceExcerpt": "Zalety: znacząco zmniejsza opory. Wady: nie ma pewności, czy badany identyfikuje się z opisywanymi osobami.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-11",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania niezawierające sugestii, jakiej odpowiedzi oczekuje diagnosta, na ogół najbardziej pożądane, to pytania:"
+      ],
+      "correct": [
+        "neutralne"
+      ],
+      "distractors": [
+        "tendencyjne",
+        "sugerujące",
+        "alternatywne",
+        "projekcyjne",
+        "zamknięte",
+        "uwikłane",
+        "hipotetyczne"
+      ],
+      "explanation": "Pytania neutralne nie sugerują odpowiedzi; tendencyjne (sugerujące i alternatywne) zawierają ukryte sugestie.",
+      "sourceExcerpt": "Pytania neutralne: Pytania, które nie zawierają sugestii dotyczącej tego, jakiej odpowiedzi oczekuje diagnosta. Na ogół najbardziej pożądane.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-12",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie „Jesteś najlepszym uczniem w klasie, bo lubisz się uczyć, prawda?” to pytanie:"
+      ],
+      "correct": [
+        "sugerujące"
+      ],
+      "distractors": [
+        "neutralne",
+        "alternatywne",
+        "projekcyjne",
+        "otwarte",
+        "hipotetyczne",
+        "uwikłane",
+        "przejściowe"
+      ],
+      "explanation": "Pytania sugerujące zawierają wskazówkę oczekiwanej odpowiedzi i odsłaniają intencje diagnosty.",
+      "sourceExcerpt": "Sugerujące: zawierają w konstrukcji wskazówkę, jakiej odpowiedzi oczekuje diagnosta. „Jesteś najlepszym uczniem w klasie, bo lubisz się uczyć, prawda?”",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-13",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie sugerujące bywa przydatne, gdy diagnosta:"
+      ],
+      "correct": [
+        "chce sprawdzić, na ile badany jest podatny na sugestie"
+      ],
+      "distractors": [
+        "chce uzyskać jak najbardziej neutralną odpowiedź",
+        "chce ukryć przed badanym swoje intencje",
+        "zbiera obiektywne fakty",
+        "rozpoczyna nowy temat rozmowy",
+        "chce uniknąć wpływu na odpowiedź",
+        "pyta osobę o wysokim poziomie lęku"
+      ],
+      "explanation": "Dwie sytuacje: badanie podatności na sugestie (siła i stabilność przekonań) oraz ułatwienie odpowiedzi na pytanie nasycone aprobatą społeczną.",
+      "sourceExcerpt": "Bardzo rzadko przydatne, poza dwoma sytuacjami: 1. Diagnostę interesuje, na ile osoba jest podatna na sugestie. 2. Diagnosta chce ułatwić osobie badanej odpowiedź na pytanie nasycone zmienną aprobaty społecznej.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-14",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Wadą pytań alternatywnych („Wolisz X czy Y?”) jest to, że:"
+      ],
+      "correct": [
+        "dają bardzo specyficzne dane, które trudno uogólnić"
+      ],
+      "distractors": [
+        "w ogóle nie ograniczają odpowiedzi badanego",
+        "zawsze są pytaniami projekcyjnymi",
+        "nie pozwalają badanemu na żadną odpowiedź",
+        "są najbardziej neutralnym typem pytań",
+        "dotyczą wyłącznie innych osób niż badany",
+        "wymagają od badanego myślenia abstrakcyjnego"
+      ],
+      "explanation": "Pytania alternatywne dają specyficzne dane i mogą wymuszać wybór między dwiema niepoprawnymi opcjami; bywają przydatne, gdy badany podał sprzeczne informacje.",
+      "sourceExcerpt": "Alternatywne: „Wolisz X czy Y?”. Uzyskuje bardzo specyficzne dane nie pozwalające na uogólnienie wniosków. Odpowiadający może czuć się zobowiązany wybrać między dwoma niepoprawnymi wyborami.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-15",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie „Czy uważa pan, że dla ludzi najważniejsze są pieniądze, czy przyjaźń?” jest jednocześnie:"
+      ],
+      "correct": [
+        "zamknięte, projekcyjne i tendencyjne-alternatywne",
+        "zamknięte, projekcyjne i alternatywne"
+      ],
+      "distractors": [
+        "otwarte, neutralne i hipotetyczne",
+        "otwarte, projekcyjne i sugerujące",
+        "zamknięte, neutralne i wprost",
+        "otwarte, wprost i alternatywne",
+        "zamknięte, sugerujące i uwikłane",
+        "otwarte, hipotetyczne i neutralne",
+        "zamknięte, neutralne i przejściowe"
+      ],
+      "explanation": "Pytania mogą łączyć kilka rodzajów naraz; to pytanie jest zamknięte, dotyczy „ludzi” (projekcyjne) i daje dwie opcje (alternatywne).",
+      "sourceExcerpt": "Pytania mogą mieć kilka rodzajów naraz: np. „Czy uważa pan, że dla ludzi najważniejsze są pieniądze, czy przyjaźń?” → zamknięte, projekcyjne i tendencyjne-alternatywne.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-16",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania wprowadzające nowy temat rozmowy, zwykle przygotowane wcześniej, otwarte i ogólne, to pytania:"
+      ],
+      "correct": [
+        "pierwszoplanowe"
+      ],
+      "distractors": [
+        "drugoplanowe",
+        "przejściowe",
+        "uwikłane",
+        "odroczone",
+        "właściwe",
+        "alternatywne",
+        "projekcyjne"
+      ],
+      "explanation": "Pierwszoplanowe wprowadzają temat; drugoplanowe go uszczegóławiają i pogłębiają, częściej są spontaniczne.",
+      "sourceExcerpt": "Pierwszoplanowe - pytania wprowadzające nowy temat rozmowy. Zwykle przygotowane podczas przygotowania. Otwarte, ogólne. Drugoplanowe - służące jego uszczegółowieniu i pogłębieniu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-17",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytania dotyczące jednocześnie bieżącego tematu i tematu, do którego diagnosta chce przejść, pozwalające uniknąć wrażenia przesłuchania, to pytania:"
+      ],
+      "correct": [
+        "przejściowe"
+      ],
+      "distractors": [
+        "uwikłane",
+        "odroczone",
+        "drugoplanowe",
+        "alternatywne",
+        "sugerujące",
+        "projekcyjne",
+        "lejkowe"
+      ],
+      "explanation": "Pytania przejściowe pozwalają naturalniej zmienić temat.",
+      "sourceExcerpt": "Pytania przejściowe - są to pytania dotyczące bieżącego tematu i tematu, do którego diagnosta chce przejść, pozwalają naturalniej zmienić temat.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-18",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Szereg pytań o agresywne zachowania, wśród których ukryte jest pytanie o bycie sprawcą przemocy, to przykład pytania:"
+      ],
+      "correct": [
+        "uwikłanego"
+      ],
+      "distractors": [
+        "odroczonego",
+        "przejściowego",
+        "sugerującego",
+        "projekcyjnego",
+        "alternatywnego",
+        "drugoplanowego",
+        "hipotetycznego"
+      ],
+      "explanation": "Pytania uwikłane są „schowane” w sekwencji pytań wprowadzających; łagodnie prowadzą do sedna i zmniejszają opór przed prawdziwą odpowiedzią.",
+      "sourceExcerpt": "Pytania uwikłane: pytania „schowane” w sekwencji innych pytań wprowadzających. Szereg pytań o agresywne zachowania, pośród których ukryte jest pytanie o bycie sprawcą przemocy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-19",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Przeniesienie pytania na bardziej odpowiedni moment, gdy np. kontakt jest jeszcze zbyt płytki, to technika pytań:"
+      ],
+      "correct": [
+        "odroczonych"
+      ],
+      "distractors": [
+        "uwikłanych",
+        "przejściowych",
+        "drugoplanowych",
+        "alternatywnych",
+        "projekcyjnych",
+        "sugerujących",
+        "zamkniętych"
+      ],
+      "explanation": "Pytanie odracza się, gdy kontakt jest zbyt płytki, gdy zdradziłoby hipotezy diagnosty albo przerwałoby badanemu opowiadany wątek.",
+      "sourceExcerpt": "Pytania odroczone: przeniesienie pytania, na które nie sprzyja aktualny kontekst rozmowy, na bardziej odpowiedni moment. Gdy poziom kontaktu jest zbyt płytki i zadanie pytania mogłoby wywołać opór.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-20",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Stopniowe przechodzenie od pytań odległych od celu diagnosty do pytań właściwych to:"
+      ],
+      "correct": [
+        "progresja"
+      ],
+      "distractors": [
+        "uwikłanie",
+        "odroczenie",
+        "klaryfikacja",
+        "parafraza",
+        "podsumowanie",
+        "informowanie"
+      ],
+      "explanation": "W progresji przechodzimy stopniowo od pytań odległych do właściwych; w pytaniu uwikłanym otaczamy pytanie właściwe pytaniami mniej zagrażającymi.",
+      "sourceExcerpt": "Progresja: stopniowe przechodzenie od pytań mało związanych z tym, o co chodzi diagnoście, do pytań właściwych. Różnica od pytania uwikłanego → przy uwikłanym umieszczamy pytanie wokół pytań mniej zagrażających.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-21",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Konstrukcja lejka w obrębie tematu polega na przechodzeniu:"
+      ],
+      "correct": [
+        "od pytań otwartych i ogólnych do konkretnych i szczegółowych",
+        "od ogółu do szczegółu"
+      ],
+      "distractors": [
+        "od pytań konkretnych do coraz bardziej ogólnych",
+        "od pytań zamkniętych do alternatywnych",
+        "od pytań projekcyjnych do pytań wprost",
+        "od pytań sugerujących do neutralnych",
+        "od pytań odroczonych do uwikłanych",
+        "od pytań o przyszłość do pytań o przeszłość",
+        "od pytań o innych do pytań o siebie"
+      ],
+      "explanation": "Lejek: od ogólnych i otwartych do szczegółowych; lejek odwrócony: od konkretnych do ogólnych.",
+      "sourceExcerpt": "Lejka: od pytań otwartych i bardzo ogólnych do bardziej konkretnych i szczegółowych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-22",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Zaletą konstrukcji lejka jest to, że:"
+      ],
+      "correct": [
+        "daje badanemu kontrolę i podmiotowość na początku rozmowy",
+        "pozwala uzyskać spontaniczne informacje bez wywierania wpływu"
+      ],
+      "distractors": [
+        "jest najlepsza dla osób o wysokim poziomie lęku",
+        "ogranicza rozgadywanie się osób wielomównych",
+        "pomaga osobom z trudnościami w myśleniu abstrakcyjnym",
+        "zwalnia badanego z konieczności wyboru",
+        "pozwala szybko ustalić fakty obiektywne",
+        "nadaje się dla osób bez sformułowanych poglądów",
+        "zawsze skraca czas wywiadu"
+      ],
+      "explanation": "Lejek daje spontaniczne informacje, unika wpływu i jest bezpieczniejszy, ale dla osób lękowych wybór bywa zagrażający, a wielomówni mogą się rozgadać.",
+      "sourceExcerpt": "Lejek: uzyskujemy bardziej spontaniczne informacje. Unika się wywierania wpływu. Jest bezpieczniejsza dla badanego, bo to on dostaje kontrolę i podmiotowość na początku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-23",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Konstrukcja lejka odwróconego jest szczególnie przydatna u osób:"
+      ],
+      "correct": [
+        "z wysokim poziomem lęku, którym trudno wybierać"
+      ],
+      "distractors": [
+        "bardzo wielomównych i otwartych",
+        "o bogatym słowniku i wysokiej inteligencji",
+        "z dobrze sformułowanymi poglądami",
+        "podatnych na sugestie",
+        "które dokonują świadomej autoprezentacji",
+        "o niskim poziomie lęku",
+        "które same zgłosiły się na badanie"
+      ],
+      "explanation": "Lejek odwrócony (od konkretów do ogółu) pomaga osobom z ubogim słownikiem, trudnościami z abstrakcją, wysokim lękiem lub bez sformułowanych poglądów.",
+      "sourceExcerpt": "Lejek odwrócony: szczególnie przydatne u osób o ubogim słowniku i trudnościach z myśleniem abstrakcyjnym, o wysokim poziomie lęku (nie muszą wybierać).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-24",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Drobne zachęty typu „tak?”, „mhm”, „rozumiem”, dające poczucie bycia słuchanym, to:"
+      ],
+      "correct": [
+        "minimalna reakcja werbalna"
+      ],
+      "distractors": [
+        "prośba o rozwinięcie tematu",
+        "parafraza",
+        "klaryfikacja",
+        "odzwierciedlanie uczuć",
+        "podsumowywanie",
+        "kierowanie bezpośrednie",
+        "informowanie"
+      ],
+      "explanation": "Minimalne reakcje werbalne pojawiają się spontanicznie; nadmierne i powtarzalne mogą sprawiać wrażenie sztuczności.",
+      "sourceExcerpt": "Minimalna reakcja werbalna: drobne zachęty („tak?”, „mhm”, „rozumiem”) pozwalają poczuć się słuchanym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-25",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Oddanie treści wypowiedzi klienta własnymi słowami to w węższym znaczeniu:"
+      ],
+      "correct": [
+        "parafraza"
+      ],
+      "distractors": [
+        "klaryfikacja",
+        "odzwierciedlenie",
+        "milczenie",
+        "informowanie",
+        "interpretacja",
+        "kierowanie"
+      ],
+      "explanation": "Parafraza w węższym znaczeniu to oddanie treści własnymi słowami; nie powinna być dłuższa niż wypowiedź i powinna zostawiać klientowi miejsce na korektę.",
+      "sourceExcerpt": "Parafraza. W węższym znaczeniu: Oddanie treści wypowiedzi klienta własnymi słowami.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-26",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Parafrazę najlepiej formułować tak, aby:"
+      ],
+      "correct": [
+        "klient mógł ją łatwo skorygować, np. dzięki intonacji pytającej"
+      ],
+      "distractors": [
+        "była dłuższa i bardziej szczegółowa niż wypowiedź klienta",
+        "zawierała interpretację ukrytych motywów klienta",
+        "zawierała radę dotyczącą problemu",
+        "dosłownie powtarzała słowa klienta",
+        "była zawsze stwierdzeniem, nie pytaniem",
+        "pomijała elementy ważne dla diagnosty"
+      ],
+      "explanation": "Parafraza: zostawić klientowi przestrzeń na poprawkę (intonacja pytająca), nie dłuższa niż wypowiedź, można akcentować elementy ważne dla diagnosty.",
+      "sourceExcerpt": "Trzeba zostawić klientowi przestrzeń, by mógł poprawić (np. poprzez zachowanie intonacji pytającej). Lepiej, by nie była dłuższa, niż wypowiedź parafrazowana.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-27",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Podstawowa różnica między klaryfikacją a parafrazą dotyczy:"
+      ],
+      "correct": [
+        "intencji: klaryfikacja nie zakłada sensu wypowiedzi",
+        "tego, że klaryfikacja nie zawiera założenia o sensie wypowiedzi"
+      ],
+      "distractors": [
+        "długości wypowiedzi diagnosty",
+        "tego, że klaryfikacja dotyczy wyłącznie uczuć",
+        "tego, że klaryfikacja zawsze jest pytaniem zamkniętym",
+        "momentu wywiadu, w którym się ją stosuje",
+        "tego, że parafraza służy przejęciu kontroli nad rozmową",
+        "tego, że klaryfikacja streszcza dłuższy fragment rozmowy",
+        "języka, którym posługuje się diagnosta"
+      ],
+      "explanation": "Klaryfikacja ma uchwycić podstawowy wątek wypowiedzi i/lub jego zrozumienie, bez zakładania jej sensu; należy unikać wrażenia krytyki.",
+      "sourceExcerpt": "Klaryfikacja: wypowiedzi diagnosty, których celem jest uchwycenie podstawowego wątku wypowiedzi i/lub jego zrozumienie. Podstawowa różnica od parafrazy: intencja. Klaryfikacja nie zawiera w sobie założenia dotyczącego sensu klaryfikowanej wypowiedzi.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-28",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Gdy badany przejawia kilka uczuć naraz, przy odzwierciedlaniu uczuć należy:"
+      ],
+      "correct": [
+        "odzwierciedlić każde z tych uczuć",
+        "nazwać wszystkie te uczucia"
+      ],
+      "distractors": [
+        "wybrać najsilniejsze i pominąć pozostałe",
+        "odzwierciedlić tylko uczucia wyrażone słowami",
+        "poczekać, aż badany sam je nazwie",
+        "nazwać tylko uczucia pozytywne",
+        "przejść do kierowania bezpośredniego",
+        "zastąpić odzwierciedlenie podsumowaniem"
+      ],
+      "explanation": "Odzwierciedlanie uczuć pokazuje empatię; przy kilku uczuciach trzeba odzwierciedlić wszystkie, najlepiej w formie przypuszczenia, uważając na siłę słów.",
+      "sourceExcerpt": "Przy kilku uczuciach naraz → odzwierciedlić wszystkie, inaczej pominięte mogą wydać się nieakceptowane.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-29",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Odzwierciedlanie uczuć najlepiej formułować:"
+      ],
+      "correct": [
+        "w formie przypuszczenia („mam wrażenie, że…”)",
+        "jako przypuszczenie, zostawiając badanemu „furtkę”"
+      ],
+      "distractors": [
+        "jako stanowcze stwierdzenie faktu",
+        "w formie pytania zamkniętego „czy jesteś przerażony?”",
+        "jak najsilniejszymi słowami",
+        "w żargonie psychologicznym",
+        "dopiero na końcu wywiadu",
+        "wyłącznie w odniesieniu do uczuć wyrażonych słowami",
+        "w formie pytania alternatywnego"
+      ],
+      "explanation": "Forma przypuszczenia („mam wrażenie, że…”, „mogę się mylić”) zostawia badanemu furtkę; trzeba uważać na siłę słów.",
+      "sourceExcerpt": "Najlepiej w formie przypuszczenia („mam wrażenie, że…”, „mogę się mylić”) - zostawia badanemu „furtkę”. Uważać na siłę słów (obawiasz się / boisz się / jesteś przerażony).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-30",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Uporządkowanie i streszczenie dotychczasowej rozmowy razem z uczuciami, stosowane m.in. gdy rozmowa „utknęła”, to:"
+      ],
+      "correct": [
+        "podsumowywanie"
+      ],
+      "distractors": [
+        "parafraza",
+        "klaryfikacja",
+        "informowanie",
+        "odzwierciedlanie uczuć",
+        "kierowanie bezpośrednie",
+        "progresja",
+        "minimalna reakcja werbalna"
+      ],
+      "explanation": "Podsumowywanie to jak parafraza, ale dłuższego fragmentu; stosuje się je na koniec lub początek spotkania, gdy rozmowa utknęła lub przy zmianie tematu.",
+      "sourceExcerpt": "Podsumowywanie: Uporządkowanie i streszczenie dotychczasowej rozmowy, razem z uczuciami. Stosować na koniec/początek spotkania, gdy rozmowa „utknęła” lub przy zmianie tematu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-31",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Przekazanie badanemu obiektywnych informacji (np. o przebiegu badania), bez rad i własnych wartości, to technika:"
+      ],
+      "correct": [
+        "informowania"
+      ],
+      "distractors": [
+        "podsumowywania",
+        "klaryfikacji",
+        "kierowania bezpośredniego",
+        "parafrazy",
+        "odzwierciedlania uczuć",
+        "progresji",
+        "minimalnej reakcji werbalnej"
+      ],
+      "explanation": "Informowanie nie służy zbieraniu danych, ale zapobiega nieporozumieniom i poprawia kontakt.",
+      "sourceExcerpt": "Informowanie: Przekazanie obiektywnych informacji (np. o przebiegu badania, kompetencjach diagnosty, gdzie szukać pomocy). Bez rad i własnych wartości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-32",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Prośba o konkretny przykład lub wyjaśnienie znaczenia słowa, gdy badany mówi ogólnikami („w domu nie da się żyć” → „Co pan przez to rozumie?”), to:"
+      ],
+      "correct": [
+        "kierowanie bezpośrednie"
+      ],
+      "distractors": [
+        "klaryfikacja",
+        "parafraza",
+        "prośba o rozwinięcie tematu",
+        "podsumowywanie",
+        "odzwierciedlanie uczuć",
+        "pytanie projekcyjne",
+        "pytanie sugerujące"
+      ],
+      "explanation": "Kierowanie bezpośrednie chroni diagnostę przed przypisywaniem własnych znaczeń (projekcją diagnosty).",
+      "sourceExcerpt": "Kierowanie bezpośrednie: Prośba o konkretny przykład lub o wyjaśnienie znaczenia słowa. Gdy badany mówi ogólnikami. Chroni przed przypisywaniem własnych znaczeń (projekcją diagnosty).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-33",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Zbyt długie milczenie diagnosty w wywiadzie może wywołać:"
+      ],
+      "correct": [
+        "niezręczność i poczucie presji"
+      ],
+      "distractors": [
+        "poczucie bycia wysłuchanym",
+        "lepsze zrozumienie pytania",
+        "większe zaufanie do diagnosty",
+        "spadek poziomu lęku",
+        "wrażenie empatii",
+        "uporządkowanie rozmowy",
+        "chęć do zwierzeń"
+      ],
+      "explanation": "Milczenie daje czas do namysłu i może wyrażać szacunek, ale zbyt długie wywołuje niezręczność i presję; pośpiech z kolei daje wrażenie braku zainteresowania.",
+      "sourceExcerpt": "Milczenie: Może wyrażać szacunek i empatię. Zbyt długie → niezręczność, poczucie presji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-34",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Zgodnie z zasadami formułowania interwencji diagnosta powinien:"
+      ],
+      "correct": [
+        "zadawać jedno pytanie naraz",
+        "dostosować język do rozmówcy, unikając żargonu"
+      ],
+      "distractors": [
+        "przejmować slang badanego, by brzmieć naturalnie",
+        "zadawać kilka pytań naraz, by oszczędzić czas",
+        "nerwowo poprawiać każde potknięcie",
+        "używać żargonu psychologicznego",
+        "pytać o rzeczy, których badany może nie wiedzieć",
+        "kierować się własną ciekawością",
+        "używać słów wieloznacznych, by nie sugerować odpowiedzi"
+      ],
+      "explanation": "Zasady: język dostosowany do rozmówcy (bez żargonu i bez przejmowania slangu), jedno pytanie naraz, jednoznaczność, nie pytać o to, czego badany nie może wiedzieć, pytania wynikają z celu wywiadu, nie z ciekawości.",
+      "sourceExcerpt": "Język wypowiedzi: Dostosować do rozmówcy. Unikać żargonu psychologicznego. Nie przejmować jednak slangu badanego. Stopień złożoności: Jedno pytanie na raz.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wywiad-psychologiczny-2-str-152-187-35",
+      "bookId": "wywiad-psychologiczny-2",
+      "chapterId": "str-152-187",
+      "stems": [
+        "Pytanie „Dlaczego chłopak cię zostawił?” narusza zasadę formułowania interwencji dotyczącą:"
+      ],
+      "correct": [
+        "znajomości zagadnienia"
+      ],
+      "distractors": [
+        "złożoności wypowiedzi",
+        "języka dostosowanego do wieku",
+        "jednoznaczności słów",
+        "długości parafrazy",
+        "kolejności pytań w lejku",
+        "ciekawości diagnosty"
+      ],
+      "explanation": "Nie pytać o to, czego badany może nie wiedzieć; lepiej pytać o jego subiektywny świat.",
+      "sourceExcerpt": "Znajomość zagadnienia: Nie pytać o to, czego badany może nie wiedzieć („Dlaczego chłopak cię zostawił?”). Lepiej pytać o jego subiektywny świat.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

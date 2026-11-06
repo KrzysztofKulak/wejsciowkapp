@@ -15,9 +15,25 @@
       "url": "https://spectacled-bookcase-f5d.notion.site/Wyk-ady-3ee75c03f28a804ea7beca7c0e99dd55",
       "title": "Wykłady – Wprowadzenie do psychologii: Historia i współczesność",
       "id": "wyklady-historia-i-wspolczesnosc"
+    },
+    {
+      "url": "https://spectacled-bookcase-f5d.notion.site/Podstawowe-umiej-tno-ci-psychologiczne-Czytanie-40c75c03f28a8000b46bc34ddb005898",
+      "id": "podstawowe-umiejetnosci-psychologiczne-czytanie"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Documents/Studia - literatura/wprowadzenie - psychologia jako nauka 2026.pdf",
+      "title": "Prezentacja: Historia psychologii. Psychologia jako nauka",
+      "id": "prezentacja-psychologia-jako-nauka",
+      "chapter": "slajdy 1–20"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Documents/Studia - literatura/psychoanaliza Freud'owska.pdf",
+      "title": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
+      "id": "prezentacja-psychoanaliza-freudowska",
+      "chapter": "slajdy 1–34"
     }
   ],
-  "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+)",
+  "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+|str\\.\\s*\\d+(?:\\s*[–-]\\s*\\d+)?|slajdy\\s+\\d+(?:\\s*[–-]\\s*\\d+)?)",
   "bookHeading": "h1",
   "language": "pl",
   "questionsPer1000Words": 25,
@@ -25,6 +41,8 @@
   "bookAliases": {
     "psychologia-i-zycie-freud": "psychologia-i-zycie-zimbardo",
     "wyklady-wprowadzenie-do-psychologii-spolecznej": "wyklady-psychologia-spoleczna",
-    "wyklady-wprowadzenie-do-psychologii-historia-i-wspolczesnosc": "wyklady-historia-i-wspolczesnosc"
+    "wyklady-wprowadzenie-do-psychologii-historia-i-wspolczesnosc": "wyklady-historia-i-wspolczesnosc",
+    "prezentacja-historia-psychologii-psychologia-jako-nauka": "prezentacja-psychologia-jako-nauka",
+    "prezentacja-psychoanaliza-w-wydaniu-freudowskim": "prezentacja-psychoanaliza-freudowska"
   }
 }

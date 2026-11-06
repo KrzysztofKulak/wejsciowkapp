@@ -1,30 +1,30 @@
 {
   "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-3",
-  "chapterTitle": "Wykład 3 – Grupy i ich funkcjonowanie",
-  "sourceHash": "c2eb319a40ec4c8c4c695a82dfb2bfd729f261e4",
+  "chapterTitle": "Wykład 3 – Ja i inni. Atrybucja",
+  "sourceHash": "3ed36c734f3c128fd8ff44c9b7c00f24b6c87167",
   "questions": [
     {
       "id": "wyklady-psychologia-spoleczna-wyklad-3-01",
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Co najmniej dwie osoby, które mają poczucie wzajemnej przynależności („MY”), wspólny cel oraz komunikują się i wzajemnie na siebie wpływają, to:"
+        "Autorem teorii atrybucji, według którego wysiłek jest funkcją trudności zadania i zdolności, jest:"
       ],
       "correct": [
-        "grupa społeczna"
+        "Fritz Heider"
       ],
       "distractors": [
-        "tłum",
-        "zbiorowość",
-        "kategoria społeczna",
-        "publiczność",
-        "sieć społeczna",
-        "agregat społeczny",
-        "audytorium"
+        "Harold Kelley",
+        "Edward Jones",
+        "Richard Nisbett",
+        "Keith Davis",
+        "Bernard Weiner",
+        "Daryl Bem",
+        "Leon Festinger"
       ],
-      "explanation": "Grupa społeczna wymaga poczucia „MY”, wspólnego celu, komunikacji i wzajemnego wpływu; dwie osoby w windzie nią nie są, dopóki winda nie utknie.",
-      "sourceExcerpt": "Grupa społeczna - co najmniej dwie osoby, które mają poczucie wzajemnej przynależności (myślą o sobie „MY”), wspólny cel lub cele oraz komunikują się między sobą i wzajemnie na siebie wpływają.",
+      "explanation": "Heider: Wysiłek = f(Trudność/Zdolności); do wyniku trzeba i talentu, i wysiłku.",
+      "sourceExcerpt": "Fritz Heider - autor teorii atrybucji. Wysiłek = f(Trudność/Zdolności).",
       "difficulty": 1,
       "status": "ok"
     },
@@ -33,23 +33,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Dwie osoby jadące windą nie są grupą, ale gdy winda utknie, mogą się nią stać, ponieważ:"
+        "Według Heidera potoczna intuicja o przyczynach wyniku zwykle zakłada:"
       ],
       "correct": [
-        "pojawia się wspólny cel, komunikacja i wzajemny wpływ",
-        "zaczynają mieć wspólny cel i komunikować się"
+        "albo talent, albo wysiłek, podczas gdy potrzebne są oba",
+        "jedno z dwojga: talent lub wysiłek"
       ],
       "distractors": [
-        "spędzają razem więcej czasu",
-        "znajdują się w tym samym miejscu",
-        "przestają być dla siebie anonimowe",
-        "pojawia się formalna hierarchia",
-        "muszą przejść wspólną inicjację",
-        "zaczynają konkurować o zasoby",
-        "zostają przydzielone do grupy przez innych"
+        "że liczy się wyłącznie sytuacja",
+        "że talent i wysiłek zawsze współwystępują",
+        "że wysiłek nie ma znaczenia",
+        "że talent jest nieistotny",
+        "że decyduje przypadek",
+        "że wynik zależy od obserwatora",
+        "że trudność zadania nie ma znaczenia"
       ],
-      "explanation": "Grupą można się stać przez przypadek, gdy pojawią się elementy definicyjne: wspólny cel, komunikacja, wzajemny wpływ.",
-      "sourceExcerpt": "Grupą można się stać przez przypadek (dwie osoby, które jadą windą - nie, ale jak utknęły w windzie - tak).",
+      "explanation": "Heider: trzeba i talentu, i wysiłku; intuicja jest zwykle „albo talent, albo wysiłek”.",
+      "sourceExcerpt": "F. Heider mówi: Trzeba i talentu i wysiłku. Intuicja jest zwykle albo talent, albo wysiłek.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -58,23 +58,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Partia polityczna jest przykładem grupy:"
+        "Wnioskowanie „piękny ogród → zdolny ogrodnik”, czyli od obserwowanego wyniku przez zakładaną intencję do dyspozycji, ilustruje koncepcję:"
       ],
       "correct": [
-        "formalnej"
+        "Jonesa i Davisa"
       ],
       "distractors": [
-        "nieformalnej",
-        "pierwotnej",
-        "przypadkowej",
-        "dysjunktywnej",
-        "koniunktywnej",
-        "addytywnej",
-        "transakcyjnej"
+        "Harolda Kelleya",
+        "Jonesa i Nisbetta",
+        "Fritza Heidera",
+        "Bernarda Weinera",
+        "Daryla Bema",
+        "Leona Festingera",
+        "Juliana Rottera"
       ],
-      "explanation": "Grupy formalne (np. partia) i nieformalne (np. grupa znajomych).",
-      "sourceExcerpt": "Grupy: formalne - np. partia; nieformalne - ziomeczki.",
-      "difficulty": 1,
+      "explanation": "Jones i Davis: obserwowany wynik → wiedza? zdolność? → zakładamy intencję → zakładamy dyspozycję.",
+      "sourceExcerpt": "Koncepcja Jonesa i Davisa. Obserwowany wynik → Wiedza? Zdolność? → Zakładamy, że były intencje → Zakładamy dyspozycję. przykład: piękny ogród → zdolny ogrodnik.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -82,24 +82,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W badaniach Newcomba z lat 30. studenci starszych lat byli znacznie bardziej liberalni niż pierwszoroczni (ulegający wpływowi rodziny), co ilustruje:"
+        "Kontrprzykład „wypadek samochodowy → samobójca” pokazuje słabość koncepcji Jonesa i Davisa, która polega na:"
       ],
       "correct": [
-        "wpływ norm grupowych uczelni na postawy",
-        "działanie norm grupowych"
+        "zakładaniu intencji za każdym obserwowanym wynikiem",
+        "automatycznym dopisywaniu intencji do wyniku"
       ],
       "distractors": [
-        "spójność grupy",
-        "rozproszenie odpowiedzialności",
-        "pamięć transakcyjną",
-        "efekt dobrowolności wyboru",
-        "władzę opartą na fachowości",
-        "strukturę zadania dysjunktywnego",
-        "liberalny styl przywództwa"
+        "pomijaniu roli zdolności i wiedzy aktora",
+        "nadmiernym uwzględnianiu wpływu sytuacji",
+        "ignorowaniu powszechności reakcji innych ludzi",
+        "braku rozróżnienia aktora i obserwatora",
+        "przecenianiu roli przypadku w wynikach",
+        "zakładaniu, że wysiłek zastępuje talent",
+        "pomijaniu spójności zachowania w czasie"
       ],
-      "explanation": "Newcomb: symulacje wyborów z 1936 r. – I rok wybiera konserwatystę (wpływ rodziny), III i IV rok znacznie bardziej liberalnie (wartości demokratyczne uczelni).",
-      "sourceExcerpt": "Newcomb - lata 30. XX w. symulacje wyborów z 1936r na uczelni. Studenci I roku - konserwatysta wygrywa nad liberałem (wpływ rodziny). Studenci III i IV roku - dużo więcej liberalnych (wartości demokratyczne na uczelni).",
-      "difficulty": 2,
+      "explanation": "Schemat wynik → intencja → dyspozycja prowadzi do absurdu, gdy wynik nie był zamierzony (wypadek → „samobójca”).",
+      "sourceExcerpt": "kontrprzykład: wypadek samochodowy → samobójca",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -107,22 +107,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Zdecydowana większość ludzi powiela religię:"
+        "Trzy wymiary sześcianu atrybucyjnego Kelleya to:"
       ],
       "correct": [
-        "swoich rodziców"
+        "dystynktywność, powszechność i spójność"
       ],
       "distractors": [
-        "współmałżonka",
-        "rówieśników",
-        "dominującą w miejscu zamieszkania",
-        "nauczycieli",
-        "wybraną samodzielnie w dorosłości",
-        "przywódcy charyzmatycznego",
-        "swojej grupy zawodowej"
+        "intencja, zdolność i wiedza",
+        "talent, wysiłek i trudność",
+        "aktor, obserwator i sytuacja",
+        "stałość, kontrolowalność i umiejscowienie",
+        "wystarczalność, konieczność i kontrola",
+        "przymus, nagradzanie i prawomocność",
+        "dyspozycja, intencja i wynik"
       ],
-      "explanation": "Około 91% ludzi powiela religię rodziców, 8% zmienia ją (głównie przez współmałżonka), 1% staje się ateistami lub agnostykami.",
-      "sourceExcerpt": "Religijność: 91% powiela religię swoich rodziców. 8% zmienia religię (głównie przez współmałżonka). 1% staje się ateistami lub agnostykami.",
+      "explanation": "Sześcian Kelleya: dystynktywność reakcji wobec bodźca, powszechność reakcji innych wobec bodźca, spójność.",
+      "sourceExcerpt": "Sześcian atrybucyjny Kelleya. Dystynktywność reakcji wobec bodźca. Powszechność reakcji innych wobec tego bodźca. Spójność.",
       "difficulty": 1,
       "status": "ok"
     },
@@ -131,22 +131,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Osoby, które zmieniają religię, robią to głównie pod wpływem:"
+        "Jeśli Z uśmiecha się tylko do K, a nie do innych kobiet, to zgodnie z sześcianem Kelleya przyczyna leży:"
       ],
       "correct": [
-        "współmałżonka"
+        "w K (bodźcu)"
       ],
       "distractors": [
-        "rodziców",
-        "rówieśników",
-        "uczelni",
-        "mediów",
-        "przywódcy religijnego",
-        "kryzysu życiowego",
-        "przeprowadzki"
+        "w Z (aktorze)",
+        "w sytuacji",
+        "w obserwatorze",
+        "w normach grupy",
+        "w przypadku",
+        "w innych kobietach",
+        "w innych mężczyznach"
       ],
-      "explanation": "Zmiana religii dotyczy około 8% ludzi i następuje głównie przez współmałżonka.",
-      "sourceExcerpt": "8% zmienia religię (głównie przez współmałżonka).",
+      "explanation": "Dystynktywność: jeśli Z uśmiecha się do wielu kobiet, cecha jest w Z; jeśli tylko do K, cecha jest w K.",
+      "sourceExcerpt": "Jeśli Z uśmiecha się do K, ale uśmiecha się do innych kobiet ← cecha jest w Z, jeśli tylko do K ← cecha jest w K.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -155,23 +155,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Suma sił skłaniających jednostki do pozostania w grupie to:"
+        "Pytanie „czy wszyscy mężczyźni uśmiechają się do K?” dotyczy w sześcianie Kelleya wymiaru:"
       ],
       "correct": [
-        "spójność grupy"
+        "powszechności"
       ],
       "distractors": [
-        "norma grupowa",
-        "struktura grupy",
-        "pamięć transakcyjna",
-        "konformizm",
-        "atrakcyjność interpersonalna",
-        "afiliacja",
-        "hierarchia pozycji"
+        "dystynktywności",
+        "spójności",
+        "intencji",
+        "dyspozycji",
+        "kontrolowalności",
+        "stałości",
+        "wystarczalności"
       ],
-      "explanation": "Spójność zwiększają m.in. trudne reguły inicjacyjne, wróg zewnętrzny i realność grupy (częstość kontaktów, cele).",
-      "sourceExcerpt": "Spójność Grupy - suma sił skłaniających jednostki do zostania w grupie.",
-      "difficulty": 1,
+      "explanation": "Powszechność: czy tylko Z uśmiecha się do K (cecha w Z), czy wszyscy mężczyźni (cecha w K).",
+      "sourceExcerpt": "Powszechność reakcji innych wobec tego bodźca. Czy tylko Z uśmiecha się do K? ← cecha w Z. Czy wszyscy mężczyźni się uśmiechają do niej? ← w K.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -179,24 +179,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Spójność grupy zwiększa między innymi:"
+        "Koncepcja, według której aktor szuka przyczyn swoich zachowań w sytuacji zewnętrznej, a obserwator w cechach aktora, to koncepcja:"
       ],
       "correct": [
-        "obecność wroga zewnętrznego",
-        "wspólny wróg zewnętrzny"
+        "Jonesa i Nisbetta"
       ],
       "distractors": [
-        "łatwość dostania się do grupy",
-        "rzadkie kontakty między członkami",
-        "przydzielenie do grupy bez wyboru",
-        "duże zróżnicowanie celów członków",
-        "komunikacja wyłącznie hierarchiczna",
-        "brak reguł inicjacyjnych",
-        "wysoka rotacja członków"
+        "Jonesa i Davisa",
+        "Harolda Kelleya",
+        "Fritza Heidera",
+        "Bernarda Weinera",
+        "Daryla Bema",
+        "Leona Festingera",
+        "Juliana Rottera"
       ],
-      "explanation": "Czynniki spójności: atrakcyjność grupy związana z trudnymi regułami inicjacyjnymi, wróg zewnętrzny, realność grupy.",
-      "sourceExcerpt": "Atrakcyjność grupy a reguły inicjacyjne i trudność z dostaniem się do grupy. Wróg zewnętrzny jako czynnik spajający grupę. Realność grupy (częstość kontaktów, cele, itp.)",
-      "difficulty": 2,
+      "explanation": "Jones i Nisbett: różnica aktor–obserwator.",
+      "sourceExcerpt": "Koncepcja Jonesa i Nisbetta. Różnica aktor - obserwator. aktor ← szuka przyczyn swoich zachowań w zewnętrznej sytuacji. obserwator ← szuka przyczyn zachowań aktora w cechach aktora.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -204,23 +203,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W badaniach Turnera (chłopcy na lekcjach WF) po porażkach wyższą spójność miały grupy:"
+        "Zgodnie z koncepcją Jonesa i Nisbetta wpływ czynników zewnętrznych na zachowanie łatwiej dostrzega:"
       ],
       "correct": [
-        "dobrowolnie wybrane przez członków",
-        "do których chłopcy sami się wybrali"
+        "aktor"
       ],
       "distractors": [
-        "przydzielone przez nauczyciela",
-        "o najwyższym poziomie sportowym",
-        "najliczniejsze",
-        "o najdłuższym stażu",
-        "z wyraźnym liderem",
-        "mieszane wiekowo",
-        "nagradzane za zwycięstwa"
+        "obserwator",
+        "badacz",
+        "grupa",
+        "ofiara",
+        "przywódca",
+        "świadek",
+        "ekspert"
       ],
-      "explanation": "Dobrowolność wyboru grupy: po porażkach spójność grup dobrowolnych była wyższa niż grup przydzielonych.",
-      "sourceExcerpt": "Badania Turnera. Chłopcy na wfie: Część klas wybierało samo, część była przydzielana. Po porażkach spójność grup dobrowolnych była wyższa.",
+      "explanation": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie niż obserwator.",
+      "sourceExcerpt": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -229,23 +227,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W eksperymencie Doosje badani odczuwali wstyd i poczucie winy, gdy:"
+        "Zjawisko, w którym wiedza o jednej przyczynie zachowania powoduje umniejszanie wpływu innych możliwych przyczyn, to:"
       ],
       "correct": [
-        "sami ocenili uczciwie, ale członkowie ich grupy postąpili nieuczciwie",
-        "ich własna grupa była nieuczciwa, choć oni sami byli uczciwi"
+        "reguła pomniejszania Kelleya",
+        "reguła pomniejszania"
       ],
       "distractors": [
-        "sami postąpili nieuczciwie, a grupa uczciwie",
-        "obca grupa postąpiła nieuczciwie",
-        "zostali przydzieleni do grupy losowo",
-        "ich oceny grafik odbiegały od ocen grupy",
-        "dowiedzieli się, że podział na grupy był fikcyjny",
-        "oceniali autorów z własnej grupy surowiej",
-        "nie znali przynależności grupowej autorów"
+        "sześcian atrybucyjny Kelleya",
+        "podstawowy błąd atrybucji",
+        "efekt fałszywej powszechności",
+        "atrybucja defensywna",
+        "reguła wniosków korespondentnych",
+        "efekt wiedzy po fakcie",
+        "asymetria aktor–obserwator"
       ],
-      "explanation": "Emocje są odczuwane w imieniu grupy: wstyd i wina za nieuczciwość własnej grupy mimo własnej uczciwości.",
-      "sourceExcerpt": "Odczuwali wstyd i poczucie winy gdy sami postąpili uczciwie w ocenie, ale członkowie ich własnej grupy postąpili nieuczciwie.",
+      "explanation": "Reguła pomniejszania (i powiększania) Kelleya: znana przyczyna sprawia, że inne możliwe przyczyny wydają się mniej ważne.",
+      "sourceExcerpt": "Wiedza o jednej przyczynie powoduje umniejszanie wpływu innych (reguła pomniejszania/powiększania Kelleya).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -254,24 +252,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Dla związku spójności grupy z poziomem wykonania zadań ważniejsza jest:"
+        "Skłonność do przeceniania w retrospekcji tego, co się stało, wiąże się z nazwiskiem:"
       ],
       "correct": [
-        "wspólna akceptacja celów niż atrakcyjność interpersonalna",
-        "akceptacja wspólnych celów przez członków"
+        "Fischhoffa"
       ],
       "distractors": [
-        "atrakcyjność interpersonalna niż akceptacja celów",
-        "liczebność grupy i jej zasoby",
-        "obecność charyzmatycznego lidera",
-        "częstość kontaktów towarzyskich poza pracą",
-        "jednorodność kompetencji członków",
-        "długość wspólnej historii grupy",
-        "formalny status grupy w organizacji"
+        "Heidera",
+        "Kelleya",
+        "Weinera",
+        "Snydera",
+        "Shavera",
+        "Walster",
+        "Nisbetta"
       ],
-      "explanation": "Korelacje spójności z wykonaniem sięgają od 0,12 w grupach pracowniczych do 0,54 w grach zespołowych; liczy się akceptacja celów, nie sympatia.",
-      "sourceExcerpt": "Spójność a poziom wykonania zadań. Korelacje od 0.12 w grupach pracowniczych do 0.54 w grach zespołowych. Liczy się bardziej wspólna akceptacja celów niż atrakcyjność interpersonalna.",
-      "difficulty": 2,
+      "explanation": "Wśród biasów atrybucyjnych wymieniono skłonność do przeceniania w retrospekcji tego, co się stało (Fischhoff).",
+      "sourceExcerpt": "Skłonność do przeceniania w retrospekcji tego, co się stało (Fischof).",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -279,23 +276,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W sieciach komunikacyjnych w grupie o skuteczności bardziej decyduje:"
+        "Wyjaśnienie „umarł na raka płuc, bo palił” ilustruje skłonność do upatrywania przyczyn w:"
       ],
       "correct": [
-        "liczba ogniw pośrednich niż dystans fizyczny",
-        "liczba pośredników między nadawcą a odbiorcą"
+        "dostępnych zmysłowo, narzucających się cechach sytuacji",
+        "narzucających się, łatwo dostrzegalnych cechach sytuacji"
       ],
       "distractors": [
-        "dystans fizyczny niż liczba ogniw pośrednich",
-        "liczebność całej grupy",
-        "formalny status nadawcy komunikatu",
-        "długość i złożoność komunikatu",
-        "atrakcyjność interpersonalna nadawcy",
-        "spójność grupy i jej normy",
-        "styl przywództwa w grupie"
+        "ukrytych, trudnych do zauważenia cechach sytuacji",
+        "cechach osoby obserwatora, a nie aktora",
+        "przypadku i czynnikach losowych",
+        "intencjach innych uczestników zdarzenia",
+        "cechach grupy, do której należy aktor",
+        "konsekwencjach, które dopiero nastąpią",
+        "wcześniejszych doświadczeniach obserwatora"
       ],
-      "explanation": "Kanały komunikacji są hierarchiczne lub demokratyczne; w sieciach liczba ogniw pośrednich jest ważniejsza niż dystans fizyczny.",
-      "sourceExcerpt": "Kanały: hierarchiczne lub demokratyczne. Sieci: liczba ogniw pośrednich ważniejsza niż dystans fizyczny.",
+      "explanation": "Jeden z biasów: przyczyny szuka się w tym, co dostępne zmysłowo i narzucające się (palenie), z pominięciem innych czynników.",
+      "sourceExcerpt": "Skłonność do upatrywania przyczyn w dostępnych zmysłowo, narzucających się cechach sytuacji (umarł na raka płuc, bo palił).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -304,23 +301,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Sieć komunikacyjna, w której jedna uprzywilejowana osoba pośredniczy w kontaktach między pozostałymi, to:"
+        "Najniższym, pierwszym poziomem wnioskowania o odpowiedzialność według Heidera (np. obarczanie młodych Niemców odpowiedzialnością za II wojnę światową) jest:"
       ],
       "correct": [
-        "gwiazda"
+        "asocjacja"
       ],
       "distractors": [
-        "łańcuch",
-        "pełne koło",
-        "hierarchia",
-        "drzewo",
-        "siatka",
-        "pierścień",
-        "linia"
+        "przyczynowość",
+        "przewidywalność",
+        "intencjonalność",
+        "usprawiedliwialność",
+        "wybiórczość",
+        "powszechność",
+        "kontrolowalność"
       ],
-      "explanation": "Struktury sieci: łańcuch (np. wojsko), gwiazda (jedna osoba pośredniczy), pełne koło (każdy z każdym).",
-      "sourceExcerpt": "Gwiazda: jedna uprzywilejowana osoba pośredniczy w kontakcie z innymi.",
-      "difficulty": 1,
+      "explanation": "Poziomy Heidera: asocjacja, przyczynowość, przewidywalność, intencjonalność, usprawiedliwialność; małe dzieci rozwojowo używają kolejnych poziomów.",
+      "sourceExcerpt": "Poziomy wnioskowania o odpowiedzialność wg Heidera: 1. Asocjacja (młodzi Niemcy odpowiedzialni za drugą wojnę światową) 2. Przyczynowość 3. Przewidywalność 4. Intencjonalność 5. Usprawiedliwialność.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -328,23 +325,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W eksperymencie Leavitta przy zadaniach niekreatywnych najskuteczniejszą strukturą sieci była:"
+        "W modelu poziomów odpowiedzialności Heidera bezpośrednio po przyczynowości następuje poziom:"
       ],
       "correct": [
-        "gwiazda"
+        "przewidywalności"
       ],
       "distractors": [
-        "pełne koło",
-        "łańcuch",
-        "sieć demokratyczna",
-        "hierarchia dwupoziomowa",
-        "pierścień",
-        "siatka",
-        "drzewo"
+        "asocjacji",
+        "intencjonalności",
+        "usprawiedliwialności",
+        "kontrolowalności",
+        "wybiórczości",
+        "spójności",
+        "powszechności"
       ],
-      "explanation": "Skuteczność w zadaniach niekreatywnych: gwiazda > łańcuch > pełne koło; zadowolenie największe w kole.",
-      "sourceExcerpt": "Eksperyment Leavitta. Skuteczność (w zadaniach niekreatywnych): Gwiazda > Łańcuch > Pełne koło. Zadowolenie: największe w kole.",
-      "difficulty": 2,
+      "explanation": "Kolejność: asocjacja → przyczynowość → przewidywalność → intencjonalność → usprawiedliwialność.",
+      "sourceExcerpt": "1. Asocjacja 2. Przyczynowość (przyczynienie się, bez patrzenia na możliwość przewidzenia) 3. Przewidywalność 4. Intencjonalność 5. Usprawiedliwialność.",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -352,22 +349,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "W eksperymencie Leavitta struktura „pełne koło” dawała największe zadowolenie uczestników i przewagę przy zadaniach:"
+        "Według modelu Walster („człowiek jako prawnik”) ten sam czyn oceniamy surowiej, gdy:"
       ],
       "correct": [
-        "kreatywnych"
+        "jego nieprzewidziane konsekwencje były poważniejsze"
       ],
       "distractors": [
-        "niekreatywnych",
-        "addytywnych",
-        "koniunktywnych",
-        "rutynowych",
-        "na czas",
-        "hierarchicznych",
-        "indywidualnych"
+        "sprawca należy do naszej grupy",
+        "sprawca był w złym nastroju",
+        "czyn był zgodny z oczekiwaniami społecznymi",
+        "konsekwencje były łatwe do przewidzenia",
+        "ofiara sama przyczyniła się do szkody",
+        "obserwator był neutralny",
+        "sprawca przeprosił poszkodowanego"
       ],
-      "explanation": "Pełne koło: najniższa skuteczność w zadaniach niekreatywnych, ale największe zadowolenie i przewaga przy zadaniach kreatywnych.",
-      "sourceExcerpt": "Zadowolenie: największe w kole. Przy zadaniach kreatywnych przewagę ma koło.",
+      "explanation": "Walster: oceniamy człowieka w kontekście następstw czynu; poważniejsze nieprzewidziane konsekwencje dają surowszą ocenę nawet przy tym samym czynie.",
+      "sourceExcerpt": "Walster - Człowiek jako prawnik. Oceniamy człowieka w kontekście następstw jego czynów: jeżeli nieprzewidziane konsekwencje były poważniejsze, ocena jest surowsza, nawet przy tym samym czynie.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -376,22 +373,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Zjawisko, w którym pamięć grupy jest czymś więcej niż pamięć każdego z jej członków, a członkowie uzgadniają między sobą rzeczywistość (np. Indianie Tupi uzgadniający treść snów), to:"
+        "Koncepcja, według której podświadomie zmniejszamy lub zwiększamy obwinianie innych za ich nieszczęścia, by chronić własne poczucie bezpieczeństwa i sprawiedliwości świata, to:"
       ],
       "correct": [
-        "pamięć transakcyjna"
+        "atrybucja defensywna (Shaver)",
+        "koncepcja atrybucji defensywnej"
       ],
       "distractors": [
-        "pamięć proceduralna",
-        "spójność grupy",
-        "norma grupowa",
-        "myślenie grupowe",
-        "konformizm informacyjny",
-        "efekt fałszywej powszechności",
-        "polaryzacja grupowa"
+        "model „człowieka jako prawnika” (Walster)",
+        "reguła pomniejszania (Kelley)",
+        "teoria wniosków korespondentnych",
+        "sześcian atrybucyjny (Kelley)",
+        "koncepcja aktor–obserwator (Jones i Nisbett)",
+        "model poziomów odpowiedzialności (Heider)",
+        "koncepcja pryncypializmu (Snyder)"
       ],
-      "explanation": "Pamięć transakcyjna: pamięć grupy przekracza sumę pamięci członków, którzy uzgadniają rzeczywistość.",
-      "sourceExcerpt": "Pamięć transakcyjna: Pamięć grupy czymś więcej niż pamięć każdego z jej członków. Członkowie uzgadniają rzeczywistość (Indianie Tupi z Amazonii i uzgadnianie treści snów).",
+      "explanation": "Shaver: atrybucja defensywna chroni poczucie bezpieczeństwa i sprawiedliwości świata obserwatora.",
+      "sourceExcerpt": "Shaver - koncepcja atrybucji defensywnej. Podświadomie zmniejszamy lub zwiększamy obwinianie innych ludzi za ich nieszczęścia, aby ochronić własne poczucie bezpieczeństwa i sprawiedliwości świata.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -400,24 +398,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Podstawowym czynnikiem decydującym, czy ktoś doświadczy PTSD po klęsce żywiołowej, jest to, czy:"
+        "Badania Bernarda Weinera nad altruizmem pokazały, że chętniej pomagamy, gdy przyczyna problemu jest:"
       ],
       "correct": [
-        "był sam w trakcie zdarzenia",
-        "przeżywał zdarzenie samotnie czy w grupie"
+        "zewnętrzna"
       ],
       "distractors": [
-        "miał wcześniej podobne doświadczenia",
-        "był przywódcą grupy",
-        "należał do grupy formalnej",
-        "miał wewnętrzne umiejscowienie kontroli",
-        "stracił mienie",
-        "był młody",
-        "znał procedury bezpieczeństwa"
+        "wewnętrzna",
+        "stała",
+        "kontrolowalna przez potrzebującego",
+        "intencjonalna",
+        "nieznana",
+        "powszechna",
+        "dystynktywna"
       ],
-      "explanation": "Wsparcie emocjonalne jako motyw przynależności do grup: w przypadku lęku, klęsk żywiołowych i PTSD podstawowym czynnikiem jest to, czy człowiek był sam.",
-      "sourceExcerpt": "Wsparcie emocjonalne (casus lęku, klęsk żywiołowych, PTSD - podstawowy czynnik, czy ktoś tego doświadczy, jest czy byli sami w trakcie doświadczenia).",
-      "difficulty": 3,
+      "explanation": "Kluczowym wymiarem atrybucyjnym dla pomagania jest umiejscowienie: chętniej pomagamy, gdy problem ma przyczynę zewnętrzną.",
+      "sourceExcerpt": "Badania Bernarda Weinera o altruizmie. Bardzo ważnym wymiarem atrybucyjnym jest umiejscowienie - zewnętrzne/wewnętrzne. Chętniej pomagamy, jak problem jest zewnętrzny.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -425,23 +422,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Socjobiologiczny motyw przynależności do grup polega na tym, że:"
+        "W koncepcji pragmatyzmu–pryncypializmu (kwestionariusz Nisbetta, eksperymenty Snydera) pryncypialista to osoba, która:"
       ],
       "correct": [
-        "osoba poza grupą prawdopodobnie nie przekazała swoich genów",
-        "życie poza grupą obniżało szansę przekazania genów"
+        "zachowuje się zgodnie z przekonaniami i opisuje się wieloma cechami",
+        "kieruje się własnymi przekonaniami, a nie sytuacją"
       ],
       "distractors": [
-        "grupa zapewnia prestiż i aprobatę społeczną",
-        "grupa pozwala dzielić pracę i zmniejszać obciążenia",
-        "grupa potwierdza własną wartość przez konsensus",
-        "w grupie łatwiej skutecznie przekazywać informacje",
-        "grupa redukuje lęk i daje poczucie bezpieczeństwa",
-        "grupa zaspokaja potrzebę afiliacji i aprobaty",
-        "grupa zwiększa szansę na sukces w zadaniu"
+        "dostosowuje zachowanie do sytuacji",
+        "najczęściej wybiera „w zależności od sytuacji”",
+        "przypisuje swoje zachowanie czynnikom zewnętrznym",
+        "unika jakichkolwiek ocen innych ludzi",
+        "kieruje się wyłącznie skutkami czynów",
+        "zmienia przekonania pod wpływem grupy",
+        "nie potrafi opisać własnych cech"
       ],
-      "explanation": "Motywy przynależności: realizacja zadań, przekazywanie informacji, wsparcie emocjonalne, zaspokojenie potrzeb, potwierdzenie własnej wartości, motywy socjobiologiczne.",
-      "sourceExcerpt": "Motywy socjobiologiczne (człowiek, który nie był w grupie prawdopodobnie nie przekazał swoich genów).",
+      "explanation": "Pryncypialista zachowuje się zgodnie z przekonaniami i zaznacza dwa razy więcej cech; pragmatyk dostosowuje się do sytuacji.",
+      "sourceExcerpt": "Koncepcja Pragmatyzmu-pryncypializmu. Pryncypalista (zachowuje się zgodnie z przekonaniami, zaznacza dwa razy więcej cech), a pragmatyk (dostosuje się do sytuacji).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -450,23 +447,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Zadanie, w którym o wyniku grupy decyduje poziom najlepszego członka (np. wygenerowanie najlepszego pomysłu), to zadanie:"
+        "W eksperymencie z soleniem potraw w restauracji pragmatyk wyjaśniał, że posolił jedzenie, bo:"
       ],
       "correct": [
-        "dysjunktywne"
+        "było niesłone"
       ],
       "distractors": [
-        "koniunktywne",
-        "addytywne",
-        "kompensacyjne",
-        "konkurencyjne",
-        "hierarchiczne",
-        "dyskrecjonalne",
-        "rutynowe"
+        "lubi słone jedzenie",
+        "zawsze tak robi",
+        "tak został wychowany",
+        "inni też solili",
+        "kelner mu to zasugerował",
+        "był bardzo głodny",
+        "taki ma charakter"
       ],
-      "explanation": "Struktury zadań: addytywne (suma pracy), dysjunktywne (najlepszy członek), koniunktywne (najsłabszy członek).",
-      "sourceExcerpt": "Dysjunktywne (np. wygenerowanie najlepszego pomysłu) Kluczowy jest poziom najlepszego członka grupy.",
-      "difficulty": 1,
+      "explanation": "Pragmatyk podaje przyczynę sytuacyjną (jedzenie niesłone), pryncypialista – dyspozycyjną (lubi słone).",
+      "sourceExcerpt": "Pryncypalista soli, bo lubi słone. Pragmatyk mówi, że soli bo jest niesłone.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -474,22 +471,21 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Praca na taśmie produkcyjnej, gdzie o efektywności decyduje najsłabszy członek, to przykład zadania:"
+        "Doświadczanie negatywnych skutków leku tylko dlatego, że się ich spodziewamy, mimo że lek w ogóle nie działał, to:"
       ],
       "correct": [
-        "koniunktywnego"
+        "efekt nocebo"
       ],
       "distractors": [
-        "dysjunktywnego",
-        "addytywnego",
-        "kompensacyjnego",
-        "dyskrecjonalnego",
-        "konkurencyjnego",
-        "hierarchicznego",
-        "rutynowego"
+        "efekt placebo",
+        "efekt Pollyanny",
+        "efekt aureoli",
+        "atrybucja defensywna",
+        "reguła pomniejszania",
+        "efekt pierwszeństwa"
       ],
-      "explanation": "Zadanie koniunktywne: kluczowa jest efektywność najsłabszego członka grupy.",
-      "sourceExcerpt": "Koniunktywne (np. praca na taśmie) Kluczowa efektywność najsłabszego członka grupy.",
+      "explanation": "Nocebo: negatywne skutki wynikające z oczekiwań, a nie z działania substancji.",
+      "sourceExcerpt": "Nocebo - doświadczanie negatywnych efektów, bo się tego spodziewają, mimo że lek nie działał w ogóle.",
       "difficulty": 1,
       "status": "ok"
     },
@@ -498,23 +494,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Zadanie, którego wynik jest sumą pracy wszystkich członków grupy (np. skręcanie długopisów), to zadanie:"
+        "W badaniu studentów z bezsennością najlepiej spała grupa odwróconego placebo (pigułka miała rzekomo zwiększać napięcie), ponieważ:"
       ],
       "correct": [
-        "addytywne"
+        "mogła przypisać swoje napięcie tabletkom, a nie sobie"
       ],
       "distractors": [
-        "dysjunktywne",
-        "koniunktywne",
-        "kompensacyjne",
-        "dyskrecjonalne",
-        "konkurencyjne",
-        "hierarchiczne",
-        "rutynowe"
+        "tabletki zawierały środek nasenny",
+        "wierzyła, że tabletki pomagają zasnąć",
+        "nie wiedziała, że bierze udział w badaniu",
+        "dostała dodatkową terapię behawioralną",
+        "spała w laboratorium pod nadzorem",
+        "przestała wypełniać dzienniczek snu",
+        "otrzymała mniejszą dawkę tabletek"
       ],
-      "explanation": "Zadanie addytywne: wynik to suma pracy członków grupy.",
-      "sourceExcerpt": "Addytywne (np. skręcanie długopisów) Suma pracy członków grupy.",
-      "difficulty": 1,
+      "explanation": "Błędna atrybucja: studenci przypisali istniejący stres tabletkom, więc mniej się nim martwili i lepiej spali.",
+      "sourceExcerpt": "Grupa odwróconego placebo: mówią, że tabletki mogą zwiększać stres i napięcie. Najlepiej spali z odwróconym placebo, bo mogli przypisać swój istniejący stres tabletkom.",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -522,414 +518,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-3",
       "stems": [
-        "Zróżnicowanie kompetencji i umiejętności członków grupy ma największe znaczenie przy zadaniach:"
+        "Lista biasów atrybucyjnych omawianych na wykładzie obejmuje skłonność do upatrywania:"
       ],
       "correct": [
-        "dysjunktywnych"
+        "sukcesów w sobie, a porażek na zewnątrz",
+        "przyczyn sukcesów w sobie, a porażek w okolicznościach"
       ],
       "distractors": [
-        "koniunktywnych",
-        "addytywnych",
-        "rutynowych",
-        "kompensacyjnych",
-        "hierarchicznych",
-        "konkurencyjnych",
-        "sekwencyjnych"
+        "sukcesów na zewnątrz, a porażek w sobie",
+        "przyczyn cudzych zachowań w sytuacji",
+        "zarówno sukcesów, jak i porażek w przypadku",
+        "porażek innych w ich pechu",
+        "sukcesów innych w ich cechach",
+        "własnych porażek w cechach charakteru",
+        "przyczyn wyłącznie w intencjach innych"
       ],
-      "explanation": "Przy zadaniach dysjunktywnych liczy się najlepszy członek w danej dziedzinie, więc zróżnicowanie kompetencji jest najważniejsze.",
-      "sourceExcerpt": "Zróżnicowanie kompetencji i umiejętności najważniejsze przy dysjunktywnych (np. quiz z wielu dyscyplin).",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-23",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Styl przywództwa, w którym przywódca nie wtrąca się w działania grupy („anty-przywództwo”), to styl:"
-      ],
-      "correct": [
-        "liberalny"
-      ],
-      "distractors": [
-        "demokratyczny",
-        "autokratyczny",
-        "transakcyjny",
-        "transformacyjny",
-        "charyzmatyczny",
-        "zadaniowy",
-        "paternalistyczny"
-      ],
-      "explanation": "Trzy klasyczne style: demokratyczny (konsensus), autokratyczny (rozkazy bez konsultacji), liberalny (nie wtrąca się).",
-      "sourceExcerpt": "Liberalny (anty-przywództwo - przywódca się nie wtrąca w działania grupy).",
+      "explanation": "Biasy: podstawowy błąd atrybucji, sukcesy w sobie a porażki na zewnątrz, reguła pomniejszania, przecenianie w retrospekcji, narzucające się cechy sytuacji, fałszywa powszechność.",
+      "sourceExcerpt": "Biasy: podstawowy błąd atrybucji; skłonność do upatrywania sukcesów w sobie, porażek na zewnątrz.",
       "difficulty": 1,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-24",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Przywódca poszukujący konsensusu z członkami grupy reprezentuje styl:"
-      ],
-      "correct": [
-        "demokratyczny"
-      ],
-      "distractors": [
-        "autokratyczny",
-        "liberalny",
-        "transakcyjny",
-        "zadaniowy",
-        "charyzmatyczny",
-        "autorytarny",
-        "paternalistyczny"
-      ],
-      "explanation": "Styl demokratyczny: przywódca poszukuje konsensusu; autokratyczny: rozkazy bez konsultacji.",
-      "sourceExcerpt": "Demokratyczny (przywódca poszukuje konsensusu z członkami grupy), autokratyczny (rozkazy bez konsultacji).",
-      "difficulty": 1,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-25",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "„Wybitni przywódcy” według badań wyróżniają się przede wszystkim:"
-      ],
-      "correct": [
-        "większą pewnością siebie",
-        "pewnością siebie"
-      ],
-      "distractors": [
-        "znacznie wyższą inteligencją",
-        "większą ugodowością",
-        "wyższą empatią",
-        "większym doświadczeniem zawodowym",
-        "wyższym wzrostem",
-        "większą ekstrawersją",
-        "silniejszą potrzebą afiliacji"
-      ],
-      "explanation": "Wybitni przywódcy są zwykle nieco bardziej inteligentni (różnica zaniedbywalna), ale wyraźnie bardziej pewni siebie.",
-      "sourceExcerpt": "„Wybitni przywódcy” wg badań są zwykle nieco bardziej inteligentni (zaniedbywalnie), ale bardziej pewni siebie.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-26",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Przywództwo dostarczające grupie wizji, formułujące cele cząstkowe i motywujące do przekraczania codziennych celów to przywództwo:"
-      ],
-      "correct": [
-        "transformacyjne"
-      ],
-      "distractors": [
-        "transakcyjne",
-        "liberalne",
-        "autokratyczne",
-        "demokratyczne",
-        "zadaniowe",
-        "prawomocne",
-        "fachowe"
-      ],
-      "explanation": "Przywództwo charyzmatyczne/transformacyjne: długodystansowe aspiracje, cele cząstkowe, wizja; transakcyjne: reagowanie na potrzeby i problemy.",
-      "sourceExcerpt": "Charyzmatyczne: transformacyjne. Długodystansowe aspiracje, formułuje cele cząstkowe, dostarcza grupie wizji, motywuje do przekraczania codziennych celów.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-27",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Przywództwo polegające na reagowaniu na potrzeby i interweniowaniu, gdy pojawiają się (lub są przewidywane) problemy, to przywództwo:"
-      ],
-      "correct": [
-        "transakcyjne"
-      ],
-      "distractors": [
-        "transformacyjne",
-        "liberalne",
-        "autokratyczne",
-        "demokratyczne",
-        "charyzmatyczne",
-        "zadaniowe",
-        "prawomocne"
-      ],
-      "explanation": "Przywództwo transakcyjne: reagowanie na potrzeby, interwencja przy problemach.",
-      "sourceExcerpt": "Transakcyjne: Reagowanie na potrzeby, interweniujący, gdy pojawiają się problemy (lub gdy je przewiduje).",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-28",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Podstawę władzy dodaną później przez Ravena do klasyfikacji Frencha i Ravena stanowi:"
-      ],
-      "correct": [
-        "dostęp do informacji"
-      ],
-      "distractors": [
-        "przymus i kary",
-        "nagradzanie",
-        "prawomocność",
-        "fachowość (ekspercka)",
-        "akceptacja grupy",
-        "charyzma osobista",
-        "tradycja i zwyczaj"
-      ],
-      "explanation": "Podstawy władzy (French i Raven): przymus, nagradzanie, prawomocność, fachowość, akceptacja grupy oraz dodany później dostęp do informacji.",
-      "sourceExcerpt": "Dostęp do informacji (Raven dodał tę podstawę później).",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-29",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Władza oparta na przymusie (zdolności używania kar) powoduje u podwładnych:"
-      ],
-      "correct": [
-        "obniżenie poczucia własnej wartości, niską satysfakcję i brak poczucia kontroli",
-        "spadek samooceny i satysfakcji oraz utratę poczucia kontroli"
-      ],
-      "distractors": [
-        "wzrost poczucia własnej wartości i produktywności",
-        "wzrost zadowolenia i poczucia sprawstwa",
-        "wzrost produktywności bez zmian w poczuciu kontroli",
-        "pozytywne relacje z osobą sprawującą władzę",
-        "brak zaufania przy wysokiej satysfakcji",
-        "wzrost poczucia sprawstwa przy spadku produktywności",
-        "wzrost samooceny przy spadku satysfakcji"
-      ],
-      "explanation": "Przymus: u władcy wzrost poczucia własnej wartości, u podwładnego jego obniżenie, niska satysfakcja i brak poczucia kontroli.",
-      "sourceExcerpt": "Przymus - zdolność używania kar. władca - wzrost poczucia własnej wartości. podwładny - obniżenie poczucia własnej wartości, niska satysfakcja, brak poczucia kontroli.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-30",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Władza oparta na nagradzaniu zwiększa produktywność podwładnych, ale:"
-      ],
-      "correct": [
-        "bez wzrostu poczucia sprawstwa i wewnętrznej kontroli",
-        "nie podnosi ich poczucia sprawstwa"
-      ],
-      "distractors": [
-        "obniża ich poczucie własnej wartości",
-        "obniża poczucie własnej wartości władcy",
-        "prowadzi do braku zaufania interpersonalnego",
-        "ogranicza się do bardzo wąskiej sfery",
-        "obniża jakość funkcjonowania zadaniowego",
-        "zwiększa skłonność władcy do kompromisu",
-        "zwiększa zadowolenie wyłącznie u władcy"
-      ],
-      "explanation": "Nagradzanie: wzrost poczucia własnej wartości u obu stron, wzrost produktywności podwładnych, ale bez wzrostu sprawstwa i wewnętrznej kontroli.",
-      "sourceExcerpt": "Nagradzanie. Wzrost poczucia własnej wartości u obu. Wzrost produktywności u podwładnych, ale bez wzrostu poczucia sprawstwa i wewnętrznej kontroli.",
-      "difficulty": 3,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-31",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Podstawa władzy, która jest ograniczona do pewnych sfer i wiąże się ze wzrostem zadowolenia oraz sprawstwa u podwładnych, to:"
-      ],
-      "correct": [
-        "prawomocność"
-      ],
-      "distractors": [
-        "przymus",
-        "nagradzanie",
-        "fachowość",
-        "akceptacja grupy",
-        "dostęp do informacji",
-        "charyzma",
-        "tradycja"
-      ],
-      "explanation": "Prawomocność: władza ograniczona do pewnych sfer; wzrost zadowolenia i sprawstwa u podwładnych.",
-      "sourceExcerpt": "Prawomocność. Władza ograniczona do pewnych sfer. Wzrost zadowolenia i sprawstwa u podwładnych.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-32",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Władza dentysty nad pacjentem jest przykładem władzy opartej na:"
-      ],
-      "correct": [
-        "fachowości"
-      ],
-      "distractors": [
-        "przymusie",
-        "nagradzaniu",
-        "prawomocności",
-        "akceptacji grupy",
-        "dostępie do informacji",
-        "charyzmie",
-        "tradycji"
-      ],
-      "explanation": "Fachowość: sfera władzy bardzo ograniczona, np. władza dentysty nad pacjentem.",
-      "sourceExcerpt": "Fachowość. Sfera bardzo ograniczona (np. władza dentysty nad pacjentem).",
-      "difficulty": 1,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-33",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Podstawa władzy dająca pozytywne relacje między władzą a podwładnym, ale mogąca obniżać jakość zadaniowego funkcjonowania podwładnych, to:"
-      ],
-      "correct": [
-        "akceptacja grupy"
-      ],
-      "distractors": [
-        "przymus",
-        "nagradzanie",
-        "prawomocność",
-        "fachowość",
-        "dostęp do informacji",
-        "charyzma",
-        "tradycja"
-      ],
-      "explanation": "Akceptacja grupy: pozytywne relacje, ale możliwe obniżenie jakości funkcjonowania zadaniowego.",
-      "sourceExcerpt": "Akceptacja grupy. Pozytywne relacje między władzą a podwładnym, może obniżać jakość zadaniowego funkcjonowania podwładnych.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-34",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Władza oparta na dostępie do informacji (np. szantaż) skutkuje:"
-      ],
-      "correct": [
-        "brakiem zaufania i bardzo niską satysfakcją podwładnych",
-        "utratą zaufania oraz bardzo niską satysfakcją"
-      ],
-      "distractors": [
-        "wzrostem zadowolenia i sprawstwa u podwładnych",
-        "wzrostem poczucia własnej wartości u obu stron",
-        "wzrostem produktywności bez wzrostu sprawstwa",
-        "pozytywnymi relacjami między obiema stronami",
-        "ograniczeniem władzy do bardzo wąskiej sfery",
-        "wzrostem spójności całej grupy",
-        "większą skłonnością władcy do kompromisu"
-      ],
-      "explanation": "Dostęp do informacji (np. szantaż): brak zaufania interpersonalnego i bardzo niska satysfakcja podwładnych.",
-      "sourceExcerpt": "Dostęp do informacji (Np. szantaż) Brak zaufania interpersonalnego i bardzo niska satysfakcja podwładnych.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-35",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "W eksperymencie Galinsky'ego osoby, które przypominały sobie posiadanie władzy, w porównaniu z przypominającymi sobie podleganie władzy:"
-      ],
-      "correct": [
-        "częściej wyłączały przeszkadzający wentylator",
-        "częściej usuwały przeszkadzający im bodziec"
-      ],
-      "distractors": [
-        "rzadziej wyłączały przeszkadzający wentylator",
-        "osiągały gorsze wyniki w teście",
-        "częściej prosiły eksperymentatora o pomoc",
-        "rysowały literę E w perspektywie innych",
-        "częściej szły na kompromis",
-        "wykazywały większe zaufanie do innych",
-        "nie różniły się zachowaniem"
-      ],
-      "explanation": "70% osób przypominających sobie posiadanie władzy wyłączyło przeszkadzający wentylator wobec 40% w grupie przypominającej sobie podleganie władzy.",
-      "sourceExcerpt": "70% osób, które przypominały sobie posiadanie władzy wyłączyło wentylator. 40% osób, które przypominały sobie podleganie władzy wyłączyło wentylator.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-36",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "W eksperymencie z rysowaniem litery E na czole osoby w warunkach władzy częściej rysowały ją:"
-      ],
-      "correct": [
-        "w perspektywie widocznej dla siebie (dla innych lustrzanie)",
-        "tak, by sami mogli ją odczytać"
-      ],
-      "distractors": [
-        "w perspektywie czytelnej dla obserwatora",
-        "wyraźnie mniejszą niż pozostali badani",
-        "z zamkniętymi oczami, bez namysłu",
-        "na czole innego uczestnika badania",
-        "dwukrotnie, dla pewności odczytu",
-        "lustrzanie względem własnej perspektywy",
-        "z wyraźnym opóźnieniem po namyśle"
-      ],
-      "explanation": "Władza zmniejsza przyjmowanie perspektywy innych: w warunkach władzy trzykrotnie częściej odmawiano i trzykrotnie częściej rysowano E „dla siebie”.",
-      "sourceExcerpt": "Kazano narysować sobie na czole literę E. 3 x odmowa grupy w warunkach władzy, wśród rysujących 3 x rysowali w perspektywie „widocznej dla siebie” - odbicie lustrzane.",
-      "difficulty": 3,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-37",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Im większe dysproporcje władzy, tym strona dominująca:"
-      ],
-      "correct": [
-        "rzadziej idzie na kompromis i stereotypizuje podwładnych",
-        "jest mniej skłonna do kompromisu i widzi podwładnych stereotypowo"
-      ],
-      "distractors": [
-        "bardziej skłonna jest do kompromisu z podwładnymi",
-        "bardziej ufa podwładnym i ich ocenom",
-        "częściej deleguje kontrolę na podwładnych",
-        "dokładniej indywidualizuje ocenę podwładnych",
-        "częściej dobrowolnie rezygnuje z władzy",
-        "bardziej obawia się utraty swojej pozycji",
-        "rzadziej sięga po przymus i kary"
-      ],
-      "explanation": "Im większe dysproporcje władzy, tym mniejsza skłonność strony dominującej do kompromisu i większa do postrzegania podwładnych jako zewnątrzsterownych stereotypów.",
-      "sourceExcerpt": "Im większe dysproporcje władzy, tym mniejsza skłonność strony dominującej do kompromisu. Większa do postrzegania podwładnych jako zewnątrzsterownych stereotypów.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-psychologia-spoleczna-wyklad-3-38",
-      "bookId": "wyklady-psychologia-spoleczna",
-      "chapterId": "wyklad-3",
-      "stems": [
-        "Eksperyment Stricklanda pokazuje, że gdy zaczynamy sprawdzać (kontrolować) ludzi, to:"
-      ],
-      "correct": [
-        "tracimy do nich zaufanie"
-      ],
-      "distractors": [
-        "zaczynają pracować wydajniej",
-        "rośnie ich poczucie sprawstwa",
-        "zaczynamy im bardziej ufać",
-        "rośnie spójność grupy",
-        "zmniejsza się dystans władzy",
-        "częściej idą na kompromis",
-        "rośnie ich satysfakcja"
-      ],
-      "explanation": "Strickland: kontrolowanie ludzi prowadzi do utraty zaufania do nich.",
-      "sourceExcerpt": "Eksperyment Stricklanda: Jeśli zaczynamy sprawdzać (kontrolować) ludzi, to tracimy do nich zaufanie.",
-      "difficulty": 2,
       "status": "ok"
     }
   ]

@@ -1,0 +1,299 @@
+{
+  "bookId": "podrecznik-pomagania",
+  "chapterId": "str-33-44",
+  "chapterTitle": "str. 33-44",
+  "sourceHash": "5824822c6d578db8afb0f50f3d4f46fec0aecbe5",
+  "questions": [
+    {
+      "id": "podrecznik-pomagania-str-33-44-01",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "„Głębokie słyszenie” – słów, uczuć, a także tego, czego rozmówca boi się powiedzieć – to pojęcie wprowadzone przez:"
+      ],
+      "correct": [
+        "Rogersa"
+      ],
+      "distractors": [
+        "Satir",
+        "Halla",
+        "Mellody",
+        "Gordona",
+        "Freuda",
+        "Maslowa",
+        "Gerstmanna"
+      ],
+      "explanation": "Słuchanie w pomaganiu jest świadome, celowe i aktywne; Rogers mówił o „głębokim słyszeniu”.",
+      "sourceExcerpt": "Rogers - „głębokie słyszenie”: słowa, uczucia, także to, czego rozmówca boi się powiedzieć.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-02",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Pytania zamknięte w rozmowie pomagającej:"
+      ],
+      "correct": [
+        "szybko testują hipotezy, ale zawężają rozmowę",
+        "pozwalają sprawdzić hipotezę, lecz ograniczają to, czego się dowiemy"
+      ],
+      "distractors": [
+        "pozwalają rozmówcy samemu wybrać, co istotne",
+        "są tym, do czego nie mamy naturalnej tendencji",
+        "najlepiej oddają uczucia rozmówcy",
+        "pozwalają dowiedzieć się rzeczy, o których nie pomyśleliśmy",
+        "są najbardziej pomocnym rodzajem wypowiedzi",
+        "zawsze wywołują postawę obronną",
+        "zastępują parafrazę"
+      ],
+      "explanation": "Pytania zamknięte zawężają rozmowę; mamy do nich naturalną tendencję, której trzeba świadomie przeciwdziałać. W otwartych rozmówca sam wybiera, co istotne.",
+      "sourceExcerpt": "Zamknięte - szybko testują hipotezy, ale zawężają → nie dowiemy się tego, o czym nie pomyśleliśmy. Mamy naturalną tendencję do nich - świadomie jej przeciwdziałać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-03",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Błędem w parafrazie jest:"
+      ],
+      "correct": [
+        "powtarzanie wypowiedzi dosłownie",
+        "parafrazowanie oczywistości"
+      ],
+      "distractors": [
+        "używanie własnych słów",
+        "unikanie rad i ocen",
+        "unikanie nadinterpretacji",
+        "oddawanie sensu wypowiedzi",
+        "zostawianie rozmówcy miejsca na korektę",
+        "skupienie na treści wypowiedzi",
+        "sprawdzanie własnego rozumienia"
+      ],
+      "explanation": "Parafraza: własnymi słowami, bez rad, ocen i nadinterpretacji; błędy to powtarzanie dosłowne i parafrazowanie oczywistości.",
+      "sourceExcerpt": "Parafraza: własnymi słowami, jak rozumiemy wypowiedź. Bez rad, ocen i nadinterpretacji. Błędy: powtarzanie dosłowne i parafrazowanie oczywistości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-04",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Najczęstszym rodzajem wypowiedzi wśród pięciu wyróżnionych przez Rogersa, wywołującym postawę obronną i spór, jest wypowiedź:"
+      ],
+      "correct": [
+        "oceniająca"
+      ],
+      "distractors": [
+        "rozumiejąca",
+        "interpretująca",
+        "wspierająca",
+        "badająca",
+        "parafrazująca",
+        "informująca",
+        "odzwierciedlająca"
+      ],
+      "explanation": "Kolejność od najczęstszej: oceniająca, interpretująca, wspierająca, badająca, rozumiejąca.",
+      "sourceExcerpt": "5 rodzajów wypowiedzi (Rogers), od najczęstszej: 1. Oceniająca - wywołuje postawę obronną i spór.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-05",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Najbardziej pomocnym rodzajem wypowiedzi według Rogersa jest wypowiedź:"
+      ],
+      "correct": [
+        "rozumiejąca (parafraza)",
+        "rozumiejąca"
+      ],
+      "distractors": [
+        "oceniająca",
+        "interpretująca",
+        "wspierająca",
+        "badająca",
+        "doradzająca",
+        "informująca",
+        "pocieszająca"
+      ],
+      "explanation": "Wypowiedź rozumiejąca (parafraza) jest najrzadsza, ale najbardziej pomocna.",
+      "sourceExcerpt": "5. Rozumiejąca - parafraza; najbardziej pomocna.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-06",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Wypowiedź wspierająca w pomaganiu niesie ryzyko, że:"
+      ],
+      "correct": [
+        "zamieni się w dawanie rad i umniejszanie problemu"
+      ],
+      "distractors": [
+        "zmieni się w przesłuchanie",
+        "wywoła postawę obronną i spór",
+        "da rozmówcy wgląd bez empatii",
+        "będzie dosłownym powtórzeniem wypowiedzi",
+        "zawęzi rozmowę do testowania hipotez",
+        "naruszy strefę intymną rozmówcy"
+      ],
+      "explanation": "Wspierająca wzmacnia, ale łatwo przechodzi w rady i bagatelizowanie; badająca grozi przesłuchaniem; oceniająca – sporem.",
+      "sourceExcerpt": "3. Wspierająca - wzmacnia, ale łatwo ześlizgnąć się w dobre rady i bagatelizowanie. 4. Badająca - pytania; pomocne, o ile nie zmienia się w przesłuchanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-07",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "„Słowa pułapki” według Satir to:"
+      ],
+      "correct": [
+        "ty, to, oni, powinieneś, zawsze, ale"
+      ],
+      "distractors": [
+        "ja, my, czasem, może, chyba, dlaczego",
+        "proszę, dziękuję, przepraszam, wybacz, pozwól, dobrze",
+        "co, jak, kiedy, gdzie, kto, ile",
+        "tak, mhm, rozumiem, aha, dobrze, no",
+        "nigdy, nikt, nic, nigdzie, żaden, wcale",
+        "czuję, myślę, uważam, sądzę, wierzę, wiem",
+        "musisz, trzeba, należy, wolno, można, warto"
+      ],
+      "explanation": "Słowa pułapki (Satir) niosą ukryte oceny, mglistość i nieprawdziwe uogólnienia.",
+      "sourceExcerpt": "Słowa pułapki (Satir): ty, to, oni, powinieneś, zawsze, ale → ukryte oceny, mglistość, nieprawdziwe uogólnienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-08",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Strefa osobista według Halla obejmuje dystans:"
+      ],
+      "correct": [
+        "45–120 cm"
+      ],
+      "distractors": [
+        "0–45 cm",
+        "120–360 cm",
+        "360–600 cm",
+        "20–60 cm",
+        "60–150 cm",
+        "150–300 cm",
+        "100–200 cm"
+      ],
+      "explanation": "Strefy Halla: intymna 0–45 cm, osobista 45–120 cm, społeczna 120–360 cm, publiczna 360–600 cm.",
+      "sourceExcerpt": "Strefy Halla: intymna (0-45 cm), osobista (45-120), społeczna (120-360), publiczna (360-600).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-09",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Trudność z odmówieniem konkretnej osobie to według Mellody przykład granic:"
+      ],
+      "correct": [
+        "uszkodzonych"
+      ],
+      "distractors": [
+        "brakujących",
+        "w postaci murów",
+        "zmiennych",
+        "zdrowych",
+        "zewnętrznych",
+        "elastycznych",
+        "sztywnych"
+      ],
+      "explanation": "Zaburzenia granic (Mellody): brak granic, granice uszkodzone, mury, zmienność (brak granic na przemian z murami).",
+      "sourceExcerpt": "Zaburzenia (Mellody): brak granic, granice uszkodzone (np. nie umiemy odmówić konkretnej osobie), mury, zmienność (brak granic na przemian z murami).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-10",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Zdrowe granice psychologiczne są:"
+      ],
+      "correct": [
+        "mocne i elastyczne"
+      ],
+      "distractors": [
+        "sztywne i nieprzepuszczalne",
+        "słabe i elastyczne",
+        "mocne i sztywne",
+        "zmienne i nieprzewidywalne",
+        "całkowicie otwarte",
+        "zależne od rozmówcy",
+        "ukryte przed innymi"
+      ],
+      "explanation": "Zdrowe granice są mocne i elastyczne; mury to zaburzenie granic.",
+      "sourceExcerpt": "Zdrowe granice są mocne i elastyczne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-11",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Umowa zawierana na początku terapii, określająca stały czas i długość sesji, miejsce, honorarium i przerwy, to:"
+      ],
+      "correct": [
+        "setting"
+      ],
+      "distractors": [
+        "superwizja",
+        "diagnoza",
+        "protokół",
+        "wywiad",
+        "regulamin",
+        "katharsis",
+        "klaryfikacja"
+      ],
+      "explanation": "Setting daje pacjentowi poczucie bezpieczeństwa i odróżnia terapię od zwykłej rozmowy; pacjenci często go testują.",
+      "sourceExcerpt": "Setting - umowa na początku terapii: stały czas i długość sesji, miejsce, honorarium, przerwy. Daje pacjentowi poczucie bezpieczeństwa i odróżnia terapię od zwykłej rozmowy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "podrecznik-pomagania-str-33-44-12",
+      "bookId": "podrecznik-pomagania",
+      "chapterId": "str-33-44",
+      "stems": [
+        "Gdy pacjent testuje ramy terapii (spóźnia się, zmienia terminy), terapeuta powinien:"
+      ],
+      "correct": [
+        "zrozumieć, dlaczego pacjent atakuje ramy",
+        "starać się zrozumieć powody ataku na setting"
+      ],
+      "distractors": [
+        "ustępować dla świętego spokoju",
+        "natychmiast zakończyć terapię",
+        "zmienić setting na bardziej elastyczny",
+        "ignorować spóźnienia",
+        "podnieść honorarium",
+        "skrócić sesje",
+        "przekazać pacjenta innemu terapeucie"
+      ],
+      "explanation": "Ustępowanie „dla świętego spokoju” szkodzi terapii; trzeba rozumieć, dlaczego pacjent atakuje ramy.",
+      "sourceExcerpt": "Pacjenci często go testują (spóźnienia, zmiany terminów). Ustępowanie „dla świętego spokoju” szkodzi terapii → trzeba rozumieć, dlaczego pacjent atakuje ramy.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

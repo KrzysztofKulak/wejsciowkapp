@@ -1,0 +1,272 @@
+{
+  "bookId": "wyklady-psychologia-spoleczna",
+  "chapterId": "wyklad-5",
+  "chapterTitle": "Wykład 5. Ja i inni",
+  "sourceHash": "44fa611ab35f4c46b69326785d8d72783ed37d97",
+  "questions": [
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-01",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Ja realne to przekonania na temat tego:"
+      ],
+      "correct": [
+        "jaki człowiek jest w swoim mniemaniu"
+      ],
+      "distractors": [
+        "jaki człowiek jest naprawdę, obiektywnie",
+        "jakim człowiek chciałby kiedyś być",
+        "jakim człowiek powinien być zdaniem innych",
+        "jak widzą go inni ludzie z otoczenia",
+        "jaką rolę pełni w swojej grupie",
+        "jak oceniają go najbliżsi"
+      ],
+      "explanation": "Ja realne to przekonania o tym, jaki jestem (subiektywnie), a ja idealne – jakim chciałbym być.",
+      "sourceExcerpt": "Ja realne - przekonania na temat, jaki jestem (jak o sobie myśli, nie jaki jest obiektywnie). Ja idealne - przekonania na temat, jakim chciałby być.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-02",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Dla neurotyków charakterystyczne jest:"
+      ],
+      "correct": [
+        "bardzo wysokie ja idealne, odległe od ja realnego"
+      ],
+      "distractors": [
+        "zbieżność ja realnego i ja idealnego",
+        "bardzo niskie ja idealne przy wysokim realnym",
+        "ja realne wyraźnie wyższe niż ja idealne",
+        "brak rozbieżności przy niskiej samoocenie",
+        "wyłącznie orientacja egotystyczna w samopoznaniu",
+        "silny nierealistyczny optymizm co do siebie"
+      ],
+      "explanation": "Neurotycy mają bardzo wysokie ja idealne; nawet przy wysokim ja realnym rozbieżność pozostaje duża. U psychopaty ja realne i idealne są zbieżne.",
+      "sourceExcerpt": "Neurotycy mają bardzo wysokie ja idealne. Może mieć wysokie ja realne, ale rozbieżność wciąż będzie duża.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-03",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Zbieżność ja realnego i ja idealnego jest charakterystyczna dla:"
+      ],
+      "correct": [
+        "psychopaty"
+      ],
+      "distractors": [
+        "neurotyka",
+        "melancholika",
+        "dziecka",
+        "pragmatyka",
+        "pryncypialisty",
+        "introwertyka"
+      ],
+      "explanation": "Psychopata ma zbieżność ja realnego i ja idealnego, neurotyk – dużą rozbieżność.",
+      "sourceExcerpt": "Psychopata ma zbieżność ja realnego i ja idealnego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-04",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Teorię procesów porównań społecznych, według której częścią poznania siebie jest porównywanie się z innymi, sformułował:"
+      ],
+      "correct": [
+        "Leon Festinger"
+      ],
+      "distractors": [
+        "Neil Weinstein",
+        "Solomon Asch",
+        "Fritz Heider",
+        "Harold Kelley",
+        "Mark Snyder",
+        "Bernard Weiner",
+        "Norman Anderson"
+      ],
+      "explanation": "Procesy porównań społecznych opisuje teoria Leona Festingera.",
+      "sourceExcerpt": "Procesy porównań społecznych (teoria Leona Festingera). Częścią poznania siebie w pewnych aspektach jest porównanie z innymi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-05",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Styl regulacji samopoznania nastawiony na trafne i dokładne samooszacowanie to orientacja:"
+      ],
+      "correct": [
+        "walidacyjna"
+      ],
+      "distractors": [
+        "konserwatywna",
+        "egotystyczna",
+        "pragmatyczna",
+        "pryncypialna",
+        "defensywna",
+        "kompensacyjna",
+        "porównawcza"
+      ],
+      "explanation": "Trzy style: walidacyjny (trafność), konserwatywny (podtrzymywanie przekonań o sobie), egotystyczny (pozytywne wartościowanie siebie).",
+      "sourceExcerpt": "3 style regulacji samopoznania: trafne i dokładne samooszacowanie (orientacja walidacyjna); podtrzymywanie i strukturalizacja przekonań o sobie (orientacja konserwatywna); pozytywne wartościowanie siebie (orientacja egotystyczna).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-06",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Styl regulacji samopoznania polegający na podtrzymywaniu i strukturalizacji przekonań o sobie to orientacja:"
+      ],
+      "correct": [
+        "konserwatywna"
+      ],
+      "distractors": [
+        "walidacyjna",
+        "egotystyczna",
+        "pragmatyczna",
+        "pryncypialna",
+        "defensywna",
+        "kompensacyjna",
+        "porównawcza"
+      ],
+      "explanation": "Orientacja konserwatywna podtrzymuje istniejące przekonania o sobie.",
+      "sourceExcerpt": "Podtrzymywanie i strukturalizacja przekonań o sobie (orientacja konserwatywna).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-07",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Jedną z najczęstszych orientacji w regulacji samopoznania jest orientacja:"
+      ],
+      "correct": [
+        "egotystyczna"
+      ],
+      "distractors": [
+        "walidacyjna",
+        "konserwatywna",
+        "pragmatyczna",
+        "pryncypialna",
+        "realistyczna",
+        "depresyjna",
+        "neutralna"
+      ],
+      "explanation": "W różnych sferach ludzie przyjmują różne orientacje, ale jedną z najczęstszych jest egotystyczna (pozytywne wartościowanie siebie).",
+      "sourceExcerpt": "W różnych sferach człowiek przyjmuje różne orientacje, ale jedną z najczęstszych jest generalnie orientacja egotystyczna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-08",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Realistyczniej oceniają sytuację osoby, które:"
+      ],
+      "correct": [
+        "mają lekkie cechy depresyjne",
+        "przejawiają łagodne objawy depresyjne"
+      ],
+      "distractors": [
+        "są dobrze przystosowane i zdrowe psychicznie",
+        "mają bardzo wysokie ja idealne",
+        "przejawiają nierealistyczny optymizm",
+        "mają orientację egotystyczną",
+        "mają zbieżne ja realne i idealne",
+        "często porównują się z innymi",
+        "są pryncypialistami"
+      ],
+      "explanation": "Około 3% populacji z lekkimi cechami depresyjnymi ocenia rzeczywistość realistyczniej; negatywne emocje zwiększają tendencję do racjonalizmu.",
+      "sourceExcerpt": "Około 3 procent populacji ma lekkie cechy depresyjne i te osoby są „mądrzejsze” → mają realistyczniejszą ocenę sytuacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-09",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Do pozytywnych złudzeń na temat własnej osoby, typowych dla ludzi dobrze przystosowanych, należy:"
+      ],
+      "correct": [
+        "przecenianie swojego wpływu na bieg zdarzeń",
+        "nierealistyczny optymizm co do własnej przyszłości"
+      ],
+      "distractors": [
+        "niedocenianie własnych osiągnięć",
+        "realistyczna ocena swoich szans",
+        "przecenianie negatywnych cech własnych",
+        "trafne szacowanie ryzyka",
+        "pesymizm co do własnej przyszłości",
+        "niedocenianie wpływu na zdarzenia",
+        "zbieżność ja realnego i idealnego"
+      ],
+      "explanation": "Pozytywne złudzenia: przecenianie pozytywnych cech i osiągnięć, przecenianie wpływu na zdarzenia, nierealistyczny optymizm.",
+      "sourceExcerpt": "Generalnie populacja ma tendencję do: przeceniania swoich pozytywnych cech i osiągnięć, przeceniania swojego wpływu na bieg zdarzeń, nierealistycznego optymizmu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-10",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Badacz nierealistycznego optymizmu, który porównywał oceny prawdopodobieństwa zdarzeń dla siebie i dla własnej grupy, to:"
+      ],
+      "correct": [
+        "Neil Weinstein"
+      ],
+      "distractors": [
+        "Leon Festinger",
+        "Solomon Asch",
+        "Norman Anderson",
+        "Mark Snyder",
+        "Kelly Shaver",
+        "Elaine Walster",
+        "Fritz Heider"
+      ],
+      "explanation": "Weinstein: myślimy, że złe rzeczy częściej przytrafią się innym w naszej grupie niż nam, a dobre – odwrotnie.",
+      "sourceExcerpt": "Nierealistyczny optymizm - N. Weinstein. Oszacuj prawdopodobieństwo że coś złego zdarzy się tobie, a oszacuj, że zdarzy się Twojej grupie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-11",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Według badań nad nierealistycznym optymizmem ludzie uważają, że negatywne zdarzenia (np. rozwód) są bardziej prawdopodobne:"
+      ],
+      "correct": [
+        "u innych w ich grupie niż u nich samych",
+        "w ich grupie niż w ich własnym życiu"
+      ],
+      "distractors": [
+        "u nich samych niż u innych w grupie",
+        "tak samo u nich i u innych",
+        "tylko u osób z innych grup",
+        "wyłącznie u osób starszych",
+        "u nich samych, a pozytywne u innych",
+        "tylko u osób o niskiej samoocenie",
+        "u bliskich, ale nie u obcych"
+      ],
+      "explanation": "Negatywne rzeczy przypisujemy bardziej grupie niż sobie, a pozytywne odwrotnie; u Polaków ten efekt jest słabszy.",
+      "sourceExcerpt": "Myślimy, że negatywne rzeczy bardziej prawdopodobnie zdarzą się w naszej grupie, niż nam konkretnie, a pozytywne odwrotnie. Polacy mają słabszy ten efekt pozytywny.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

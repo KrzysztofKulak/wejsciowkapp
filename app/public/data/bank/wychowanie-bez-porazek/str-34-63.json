@@ -1,0 +1,323 @@
+{
+  "bookId": "wychowanie-bez-porazek",
+  "chapterId": "str-34-63",
+  "chapterTitle": "str. 34-63",
+  "sourceHash": "606a0cadd18a543aa95a6428e3c25ec540edbac1",
+  "questions": [
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-01",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Komunikaty, które zachęcają do mówienia, pomagają wyrazić uczucia, wzmacniają poczucie własnej wartości i zmniejszają obawy, to komunikacja:"
+      ],
+      "correct": [
+        "terapeutyczna"
+      ],
+      "distractors": [
+        "nieterapeutyczna",
+        "destrukcyjna",
+        "dyrektywna",
+        "perswazyjna",
+        "oceniająca",
+        "diagnostyczna",
+        "interpretacyjna"
+      ],
+      "explanation": "Komunikacja terapeutyczna działa uzdrawiająco; komunikacja nieterapeutyczna wywołuje poczucie winy, osądzenia i zagrożenia.",
+      "sourceExcerpt": "Komunikacja terapeutyczna - określone rodzaje komunikatów wywierają na ludzi działanie „terapeutyczne”: zachęcają do mówienia, pomagają wyrazić własne odczucia, przyczyniają się do rozwoju poczucia własnej wartości, zmniejszają zagrożenie lub obawę.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-02",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Komunikaty nieterapeutyczne sprawiają między innymi, że człowiek:"
+      ],
+      "correct": [
+        "tym gwałtowniej broni swojego sposobu zachowania"
+      ],
+      "distractors": [
+        "chętniej wprowadza konstruktywne zmiany",
+        "szczerzej okazuje uczucia",
+        "czuje się bardziej akceptowany",
+        "łatwiej rozwiązuje własne problemy",
+        "ma wyższe poczucie własnej wartości",
+        "mniej obawia się oceny"
+      ],
+      "explanation": "Komunikaty nieterapeutyczne wywołują poczucie winy i zagrożenia, ograniczają szczerość i przeszkadzają w zmianie, bo nasilają obronę dotychczasowego zachowania.",
+      "sourceExcerpt": "Tego rodzaju komunikaty [...] przeszkadzają rozwojowi i konstruktywnym zmianom, gdy równocześnie powodują, że człowiek tym gwałtowniej broni swojego sposobu zachowania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-03",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Pozwalanie dziecku samodzielnie wykonywać czynności, obserwować konsekwencje i wyciągać wnioski bez sygnałów, że sobie nie poradzi, to sposób okazywania akceptacji zwany:"
+      ],
+      "correct": [
+        "niewtrącaniem się"
+      ],
+      "distractors": [
+        "biernym słuchaniem",
+        "czynnym słuchaniem",
+        "milczeniem",
+        "chwaleniem",
+        "wspieraniem",
+        "parafrazowaniem",
+        "odzwierciedlaniem uczuć"
+      ],
+      "explanation": "Sposoby okazywania akceptacji: niewtrącanie się, milczenie i bierne słuchanie, akceptujące reakcje w rozmowie.",
+      "sourceExcerpt": "Niewtrącanie się. Pozwalanie osobie samemu wykonywać czynności, obserwować konsekwencje i wyciągać wnioski, bez wysyłania sygnałów, że osoba sobie nie poradzi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-04",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Zachęcanie do mówienia postawą ciała, gestami i prostymi komunikatami („tak?”, „mhm?”) to:"
+      ],
+      "correct": [
+        "milczenie i bierne słuchanie",
+        "bierne słuchanie"
+      ],
+      "distractors": [
+        "czynne słuchanie",
+        "niewtrącanie się",
+        "parafraza",
+        "komunikacja nieterapeutyczna",
+        "odzwierciedlanie uczuć",
+        "badanie i wypytywanie",
+        "uspokajanie"
+      ],
+      "explanation": "Bierne słuchanie (z milczeniem) zachęca do mówienia bez komunikowania własnych treści; czynne słuchanie polega na oddawaniu, jak rozszyfrowaliśmy komunikat.",
+      "sourceExcerpt": "Milczenie i bierne słuchanie. Zachęcanie do mówienia poprzez postawę ciała, gesty i proste komunikaty „tak? Mhm?”",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-05",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Wśród 12 typowych celów wypowiedzi negatywnie wpływających na relację znajduje się także:"
+      ],
+      "correct": [
+        "chwalenie i aprobowanie",
+        "chwalić, aprobować"
+      ],
+      "distractors": [
+        "czynne słuchanie",
+        "bierne słuchanie",
+        "niewtrącanie się",
+        "milczenie",
+        "okazywanie akceptacji",
+        "oddawanie rozszyfrowanego komunikatu",
+        "zaufanie do zdolności dziecka"
+      ],
+      "explanation": "Do 12 „blokad” należą m.in. rozkazywanie, ostrzeganie, moralizowanie, radzenie, osądzanie, ale też chwalenie, uspokajanie czy rozweselanie.",
+      "sourceExcerpt": "12 typowych celów wypowiedzi, negatywnie wpływających na relację: [...] 7. Chwalić, aprobować. [...] 10. Uspokajać, współczuć, pocieszać, podtrzymywać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-06",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "„Nie przejmuj się, wszystko będzie dobrze” to według listy 12 negatywnych celów wypowiedzi przykład:"
+      ],
+      "correct": [
+        "uspokajania i pocieszania",
+        "uspokajania, pocieszania"
+      ],
+      "distractors": [
+        "czynnego słuchania",
+        "okazywania akceptacji",
+        "biernego słuchania",
+        "niewtrącania się",
+        "komunikacji terapeutycznej",
+        "parafrazowania",
+        "odzwierciedlania uczuć"
+      ],
+      "explanation": "Uspokajanie, współczucie, pocieszanie i podtrzymywanie są na liście komunikatów, które mogą negatywnie wpływać na relację.",
+      "sourceExcerpt": "10. Uspokajać, współczuć, pocieszać, podtrzymywać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-07",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "„Na twoim miejscu zapisałbym się na korepetycje” to według listy 12 negatywnych celów wypowiedzi przykład:"
+      ],
+      "correct": [
+        "radzenia i dyktowania rozwiązań"
+      ],
+      "distractors": [
+        "czynnego słuchania",
+        "okazywania akceptacji",
+        "niewtrącania się",
+        "biernego słuchania",
+        "komunikacji terapeutycznej",
+        "odzwierciedlania uczuć"
+      ],
+      "explanation": "Radzenie, dyktowanie rozwiązań i robienie propozycji to jeden z 12 celów wypowiedzi negatywnie wpływających na relację.",
+      "sourceExcerpt": "4. Radzić, dyktować rozwiązania lub robić propozycje.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-08",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Mówienie rozmówcy, jak rozszyfrowaliśmy jego komunikat, zamiast reagowania własnymi myślami, to:"
+      ],
+      "correct": [
+        "czynne słuchanie"
+      ],
+      "distractors": [
+        "bierne słuchanie",
+        "niewtrącanie się",
+        "milczenie",
+        "interpretowanie",
+        "moralizowanie",
+        "uspokajanie",
+        "badanie i wypytywanie"
+      ],
+      "explanation": "Czynne słuchanie: komunikacja to szyfrowanie i rozszyfrowywanie znaczeń; oddanie rozmówcy naszego rozumienia zapobiega nieporozumieniom i buduje poczucie zrozumienia.",
+      "sourceExcerpt": "Czasami by kogoś wysłuchać zamiast reagować własnymi myślami, możemy mówić osobie słuchanej, jak zdeszyfrowaliśmy ich komunikat.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-09",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Jedną z korzyści czynnego słuchania jest to, że:"
+      ],
+      "correct": [
+        "dziecko mniej obawia się negatywnych uczuć",
+        "pomaga dziecku stać się bardziej samodzielnym"
+      ],
+      "distractors": [
+        "rodzic szybciej podsuwa dziecku rozwiązanie",
+        "dziecko rzadziej wyraża swoje uczucia",
+        "rodzic może łatwiej ocenić zachowanie dziecka",
+        "dziecko staje się bardziej zależne od rodziców",
+        "uczucia dziecka utrwalają się na stałe",
+        "dziecko przestaje potrzebować rozmowy",
+        "rodzic przejmuje odpowiedzialność za problem"
+      ],
+      "explanation": "Czynne słuchanie pomaga mniej obawiać się negatywnych uczuć, buduje serdeczne relacje, umożliwia samodzielne rozwiązywanie problemów i usamodzielnia.",
+      "sourceExcerpt": "Czynne słuchanie: często pomaga dzieciom mniej się obawiać negatywnych uczuć; umożliwia rozwiązywanie problemu przez dziecko; pomaga dziecku stać się bardziej samodzielnym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-10",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Jeśli rodzic nie ma czasu na wysłuchanie dziecka, to zgodnie z postawami czynnego słuchacza powinien:"
+      ],
+      "correct": [
+        "po prostu to powiedzieć"
+      ],
+      "distractors": [
+        "słuchać mimo to, udając zainteresowanie",
+        "zaproponować gotowe rozwiązanie",
+        "odesłać dziecko do drugiego rodzica",
+        "przerwać rozmowę bez wyjaśnienia",
+        "uspokoić dziecko i zmienić temat",
+        "zbagatelizować problem",
+        "zadać kilka szybkich pytań zamkniętych"
+      ],
+      "explanation": "Pierwsza postawa: trzeba chcieć słuchać i znaleźć na to czas; jeśli go nie ma, trzeba to tylko powiedzieć.",
+      "sourceExcerpt": "Musicie chcieć słuchać, co dziecko ma do powiedzenia. To znaczy, musicie mieć zamiar znaleźć czas na słuchanie. Jeśli nie macie czasu, trzeba to tylko powiedzieć.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-11",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Rodzic nie musi obawiać się uzewnętrzniania uczuć przez dziecko, ponieważ uczucia są:"
+      ],
+      "correct": [
+        "przemijające, a nie trwałe",
+        "zmienne i nie ustalają się na zawsze"
+      ],
+      "distractors": [
+        "zawsze racjonalne",
+        "trwałe i niezmienne",
+        "łatwe do kontrolowania przez rodzica",
+        "kształtowane wyłącznie przez rodziców",
+        "mniej ważne niż zachowanie",
+        "dziedziczone po rodzicach",
+        "zawsze zgodne z uczuciami rodziców"
+      ],
+      "explanation": "Jedna z postaw czynnego słuchacza: świadomość, że uczucia przemijają (nienawiść może zmienić się w miłość, zniechęcenie w nadzieję).",
+      "sourceExcerpt": "Musicie być świadomi, że uczucia są przemijające, a nie trwałe. Uczucia zmieniają się.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-12",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Wśród postaw potrzebnych do skutecznego czynnego słuchania jest traktowanie dziecka jako:"
+      ],
+      "correct": [
+        "odrębnej osoby z własną tożsamością",
+        "kogoś odłączonego od rodzica, odrębnej indywidualności"
+      ],
+      "distractors": [
+        "przedłużenia samego rodzica",
+        "osoby, która powinna czuć to samo co rodzic",
+        "kogoś, kto potrzebuje gotowych rozwiązań",
+        "osoby niezdolnej do radzenia sobie z uczuciami",
+        "kogoś, kogo trzeba chronić przed uczuciami",
+        "ucznia, którego trzeba pouczać",
+        "osoby, której uczucia rodzic musi ocenić"
+      ],
+      "explanation": "Postawy: chcieć słuchać, chcieć pomóc, akceptować uczucia, ufać zdolności dziecka do radzenia sobie, wiedzieć, że uczucia przemijają, traktować dziecko jako odrębną osobę.",
+      "sourceExcerpt": "Musicie być gotowi traktować wasze dziecko jak kogoś, kto jest od was odłączony - jako odrębnego, już z wami niezwiązanego człowieka, jako indywidualność samą dla siebie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wychowanie-bez-porazek-str-34-63-13",
+      "bookId": "wychowanie-bez-porazek",
+      "chapterId": "str-34-63",
+      "stems": [
+        "Zaufanie do zdolności dziecka do uporania się z własnymi uczuciami i problemami rodzic zyskuje przede wszystkim przez:"
+      ],
+      "correct": [
+        "obserwowanie dziecka rozwiązującego własne problemy"
+      ],
+      "distractors": [
+        "rozwiązywanie problemów za dziecko",
+        "czytanie poradników wychowawczych",
+        "chwalenie dziecka za sukcesy",
+        "wypytywanie dziecka o szczegóły",
+        "kontrolowanie zachowania dziecka",
+        "porównywanie dziecka z rówieśnikami"
+      ],
+      "explanation": "Zaufanie do zdolności dziecka zyskuje się, obserwując je przy rozwiązywaniu własnych problemów.",
+      "sourceExcerpt": "Musicie mieć głębokie zaufanie w zdolność dziecka do uporania się ze swoimi uczuciami. Zyskacie to zaufanie, gdy będziecie obserwować dziecko przy rozwiązywaniu jego własnych problemów.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

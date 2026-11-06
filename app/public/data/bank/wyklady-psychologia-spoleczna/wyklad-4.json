@@ -1,31 +1,32 @@
 {
   "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-4",
-  "chapterTitle": "Wykład 4 – Ja i inni. Atrybucja",
-  "sourceHash": "4158e53b912fdffee2c414b7559f11afdf7bb8cf",
+  "chapterTitle": "Wykład 4. Ja i inni. Schematy wnioskować o cechach",
+  "sourceHash": "35f4b8eead0711e97599a3246395af566909b5fb",
   "questions": [
     {
       "id": "wyklady-psychologia-spoleczna-wyklad-4-01",
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Autorem teorii atrybucji, według którego wysiłek jest funkcją trudności zadania i zdolności, jest:"
+        "Niska sprawność w pojedynczym zadaniu jest w percepcji ludzi mało diagnostyczna, ponieważ:"
       ],
       "correct": [
-        "Fritz Heider"
+        "ktoś zdolny mógł mieć po prostu zły dzień",
+        "słaby wynik nie musi świadczyć o braku umiejętności"
       ],
       "distractors": [
-        "Harold Kelley",
-        "Edward Jones",
-        "Richard Nisbett",
-        "Keith Davis",
-        "Bernard Weiner",
-        "Daryl Bem",
-        "Leon Festinger"
+        "świadczy wprost o niskich zdolnościach",
+        "jest oceniana surowiej niż niemoralność",
+        "zawsze wynika z braku wysiłku",
+        "jest odbierana jako przejaw złych intencji",
+        "dotyczy wyłącznie zadań grupowych",
+        "jest szybko zapominana przez obserwatorów",
+        "wynika z braku moralności"
       ],
-      "explanation": "Heider: Wysiłek = f(Trudność/Zdolności); do wyniku trzeba i talentu, i wysiłku.",
-      "sourceExcerpt": "Fritz Heider - autor teorii atrybucji. Wysiłek = f(Trudność/Zdolności).",
-      "difficulty": 1,
+      "explanation": "Asymetria: wysoka sprawność sugeruje wysoką umiejętność, a niska nie sugeruje niskiej; w moralności jest odwrotnie.",
+      "sourceExcerpt": "W percepcji ludzi wysoka sprawność sugeruje wysoką umiejętność, niska sprawność nie sugeruje niskiej umiejętności (mógł mieć zły dzień).",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -33,23 +34,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Według Heidera potoczna intuicja o przyczynach wyniku zwykle zakłada:"
+        "W ocenach moralności jedno niemoralne zachowanie:"
       ],
       "correct": [
-        "albo talent, albo wysiłek, podczas gdy potrzebne są oba",
-        "jedno z dwojga: talent lub wysiłek"
+        "silnie świadczy o niemoralności osoby",
+        "wystarcza, by uznać kogoś za niemoralnego"
       ],
       "distractors": [
-        "że liczy się wyłącznie sytuacja",
-        "że talent i wysiłek zawsze współwystępują",
-        "że wysiłek nie ma znaczenia",
-        "że talent jest nieistotny",
-        "że decyduje przypadek",
-        "że wynik zależy od obserwatora",
-        "że trudność zadania nie ma znaczenia"
+        "niewiele mówi o osobie, bo każdy ma zły dzień",
+        "jest równoważone przez jedno moralne zachowanie",
+        "jest mniej diagnostyczne niż zachowanie moralne",
+        "jest ignorowane, jeśli osoba jest sprawna",
+        "liczy się tylko w kulturach kolektywistycznych",
+        "jest diagnostyczne tylko u osób obcych",
+        "nie wpływa na ocenę ogólną"
       ],
-      "explanation": "Heider: trzeba i talentu, i wysiłku; intuicja jest zwykle „albo talent, albo wysiłek”.",
-      "sourceExcerpt": "F. Heider mówi: Trzeba i talentu i wysiłku. Intuicja jest zwykle albo talent, albo wysiłek.",
+      "explanation": "W moralności asymetria jest odwrotna niż w sprawności: zachowanie niemoralne jest silnie diagnostyczne, a bardzo moralne nie wyklucza niemoralności.",
+      "sourceExcerpt": "W moralności na odwrót → jedno niemoralne zachowanie świadczy o niemoralności, a bardzo moralne zachowanie nie mówi, że ktoś nie jest niemoralny.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -58,23 +59,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Wnioskowanie „piękny ogród → zdolny ogrodnik”, czyli od obserwowanego wyniku przez zakładaną intencję do dyspozycji, ilustruje koncepcję:"
+        "Sieć powiązań w systemie poznawczym dotycząca związków między cechami osobowości (np. „jeśli rudy, to fałszywy”) to:"
       ],
       "correct": [
-        "Jonesa i Davisa"
+        "ukryte teorie osobowości"
       ],
       "distractors": [
-        "Harolda Kelleya",
-        "Jonesa i Nisbetta",
-        "Fritza Heidera",
-        "Bernarda Weinera",
-        "Daryla Bema",
-        "Leona Festingera",
-        "Juliana Rottera"
+        "schemat poznawczy",
+        "efekt aureoli",
+        "cecha centralna",
+        "stereotyp płciowy",
+        "model uśredniania",
+        "prototyp pojęcia"
       ],
-      "explanation": "Jones i Davis: obserwowany wynik → wiedza? zdolność? → zakładamy intencję → zakładamy dyspozycję.",
-      "sourceExcerpt": "Koncepcja Jonesa i Davisa. Obserwowany wynik → Wiedza? Zdolność? → Zakładamy, że były intencje → Zakładamy dyspozycję. przykład: piękny ogród → zdolny ogrodnik.",
-      "difficulty": 2,
+      "explanation": "Ukryte teorie osobowości to potoczne przekonania o tym, jakie cechy idą w parze.",
+      "sourceExcerpt": "Ukryte teorie osobowości: sieć powiązań w systemie poznawczym podmiotu, dotycząca związków między określonymi cechami osobowości, np. „Jeśli rudy, to fałszywy”.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -82,24 +82,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Kontrprzykład „wypadek samochodowy → samobójca” pokazuje słabość koncepcji Jonesa i Davisa, która polega na:"
+        "Badacz, który wykazał, że niektóre cechy (np. ciepły–zimny) definiują osobę szerzej niż powinny, w przeciwieństwie do innych (np. zręczny–niezręczny), to:"
       ],
       "correct": [
-        "zakładaniu intencji za każdym obserwowanym wynikiem",
-        "automatycznym dopisywaniu intencji do wyniku"
+        "Asch"
       ],
       "distractors": [
-        "pomijaniu roli zdolności i wiedzy aktora",
-        "nadmiernym uwzględnianiu wpływu sytuacji",
-        "ignorowaniu powszechności reakcji innych ludzi",
-        "braku rozróżnienia aktora i obserwatora",
-        "przecenianiu roli przypadku w wynikach",
-        "zakładaniu, że wysiłek zastępuje talent",
-        "pomijaniu spójności zachowania w czasie"
+        "Walster",
+        "Anderson",
+        "Kelley",
+        "Heider",
+        "Weiner",
+        "Snyder",
+        "Festinger"
       ],
-      "explanation": "Schemat wynik → intencja → dyspozycja prowadzi do absurdu, gdy wynik nie był zamierzony (wypadek → „samobójca”).",
-      "sourceExcerpt": "kontrprzykład: wypadek samochodowy → samobójca",
-      "difficulty": 3,
+      "explanation": "Asch: cechy centralne, takie jak ciepły–zimny, wpływają na ocenę wielu innych cech.",
+      "sourceExcerpt": "Asch - cechy centralne. Niektóre cechy zdają się definiować osobę w szerszym stopniu, niż ta cecha powinna. ciepły - zimny → świadczy od razu o innych cechach osoby. Zręczny - niezręczny już nie.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -107,22 +106,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Trzy wymiary sześcianu atrybucyjnego Kelleya to:"
+        "Para cech, która w badaniach Ascha okazała się cechą centralną, to:"
       ],
       "correct": [
-        "dystynktywność, powszechność i spójność"
+        "ciepły – zimny"
       ],
       "distractors": [
-        "intencja, zdolność i wiedza",
-        "talent, wysiłek i trudność",
-        "aktor, obserwator i sytuacja",
-        "stałość, kontrolowalność i umiejscowienie",
-        "wystarczalność, konieczność i kontrola",
-        "przymus, nagradzanie i prawomocność",
-        "dyspozycja, intencja i wynik"
+        "zręczny – niezręczny",
+        "wysoki – niski",
+        "rudy – ciemnowłosy",
+        "oszczędny – hojny",
+        "skąpy – rozrzutny",
+        "ugodowy – niezależny",
+        "szybki – powolny"
       ],
-      "explanation": "Sześcian Kelleya: dystynktywność reakcji wobec bodźca, powszechność reakcji innych wobec bodźca, spójność.",
-      "sourceExcerpt": "Sześcian atrybucyjny Kelleya. Dystynktywność reakcji wobec bodźca. Powszechność reakcji innych wobec tego bodźca. Spójność.",
+      "explanation": "Ciepły–zimny zmienia ocenę wielu innych cech, zręczny–niezręczny nie.",
+      "sourceExcerpt": "ciepły - zimny → świadczy od razu o innych cechach osoby. Zręczny - niezręczny już nie.",
       "difficulty": 1,
       "status": "ok"
     },
@@ -131,22 +130,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Jeśli Z uśmiecha się tylko do K, a nie do innych kobiet, to zgodnie z sześcianem Kelleya przyczyna leży:"
+        "W eksperymentach Walster z randkami ten sam mężczyzna, ucharakteryzowany na mniej atrakcyjnego, był oceniany:"
       ],
       "correct": [
-        "w K (bodźcu)"
+        "jako mniej inteligentny i szarmancki niż wtedy, gdy wyglądał przystojniej",
+        "gorzej pod względem inteligencji i szarmanckości"
       ],
       "distractors": [
-        "w Z (aktorze)",
-        "w sytuacji",
-        "w obserwatorze",
-        "w normach grupy",
-        "w przypadku",
-        "w innych kobietach",
-        "w innych mężczyznach"
+        "tak samo, bo kobiety deklarowały, że wygląd nie ma znaczenia",
+        "lepiej, bo wydawał się bardziej autentyczny",
+        "lepiej pod względem inteligencji, gorzej pod względem uroku",
+        "tak samo, bo jego zachowanie było standaryzowane",
+        "gorzej tylko przez kobiety atrakcyjne",
+        "lepiej przez kobiety o niskiej samoocenie",
+        "jako bardziej moralny, ale mniej sprawny"
       ],
-      "explanation": "Dystynktywność: jeśli Z uśmiecha się do wielu kobiet, cecha jest w Z; jeśli tylko do K, cecha jest w K.",
-      "sourceExcerpt": "Jeśli Z uśmiecha się do K, ale uśmiecha się do innych kobiet ← cecha jest w Z, jeśli tylko do K ← cecha jest w K.",
+      "explanation": "„Co jest piękne, jest dobre”: mimo deklaracji kobiet, że wygląd się nie liczy, przystojniejszy wygląd podnosił ocenę innych cech.",
+      "sourceExcerpt": "Eksperymenty Walster: na część randek robiono mu niefortunną charakteryzację, ale standaryzowano zachowanie. Był uważany za bardziej inteligentnego, szarmanckiego itp., gdy prezentował się przystojniej.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -155,23 +155,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Pytanie „czy wszyscy mężczyźni uśmiechają się do K?” dotyczy w sześcianie Kelleya wymiaru:"
+        "W eksperymencie Sigall i Ostrove'a atrakcyjnej oszustce (wyłudzenie) proponowano:"
       ],
       "correct": [
-        "powszechności"
+        "wyższą karę niż nieatrakcyjnej",
+        "surowszą karę niż oszustce nieatrakcyjnej"
       ],
       "distractors": [
-        "dystynktywności",
-        "spójności",
-        "intencji",
-        "dyspozycji",
-        "kontrolowalności",
-        "stałości",
-        "wystarczalności"
+        "niższą karę niż nieatrakcyjnej",
+        "taką samą karę jak nieatrakcyjnej",
+        "uniewinnienie",
+        "karę zależną tylko od szkody",
+        "niższą karę niż atrakcyjnej włamywaczce",
+        "karę w zawieszeniu",
+        "wyłącznie grzywnę"
       ],
-      "explanation": "Powszechność: czy tylko Z uśmiecha się do K (cecha w Z), czy wszyscy mężczyźni (cecha w K).",
-      "sourceExcerpt": "Powszechność reakcji innych wobec tego bodźca. Czy tylko Z uśmiecha się do K? ← cecha w Z. Czy wszyscy mężczyźni się uśmiechają do niej? ← w K.",
-      "difficulty": 2,
+      "explanation": "Atrakcyjna włamywaczka dostawała niższą karę, ale atrakcyjna oszustka wyższą: atrakcyjność obciążała, gdy była narzędziem przestępstwa.",
+      "sourceExcerpt": "Dla atrakcyjnej włamywaczki proponowano niższą karę niż nieatrakcyjnej. Dla atrakcyjnej oszustki (wyłudzenie) proponowano wyższą karę niż dla nieatrakcyjnej.",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -179,22 +180,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Koncepcja, według której aktor szuka przyczyn swoich zachowań w sytuacji zewnętrznej, a obserwator w cechach aktora, to koncepcja:"
+        "Inferencje ze wzrostu mężczyzny przejawiają się tym, że w wyborach w USA:"
       ],
       "correct": [
-        "Jonesa i Nisbetta"
+        "częściej wygrywa wyższy kandydat"
       ],
       "distractors": [
-        "Jonesa i Davisa",
-        "Harolda Kelleya",
-        "Fritza Heidera",
-        "Bernarda Weinera",
-        "Daryla Bema",
-        "Leona Festingera",
-        "Juliana Rottera"
+        "częściej wygrywa niższy kandydat",
+        "wzrost nie ma żadnego znaczenia",
+        "wygrywa kandydat o przeciętnym wzroście",
+        "wzrost liczy się tylko u kobiet",
+        "wyższy kandydat przegrywa w debatach",
+        "wzrost ma znaczenie tylko w prawyborach",
+        "częściej wygrywa szczuplejszy kandydat"
       ],
-      "explanation": "Jones i Nisbett: różnica aktor–obserwator.",
-      "sourceExcerpt": "Koncepcja Jonesa i Nisbetta. Różnica aktor - obserwator. aktor ← szuka przyczyn swoich zachowań w zewnętrznej sytuacji. obserwator ← szuka przyczyn zachowań aktora w cechach aktora.",
+      "explanation": "Ukryta teoria osobowości wiążąca wzrost z kompetencjami sprawia, że wyższy kandydat jest częściej wybierany.",
+      "sourceExcerpt": "Inferencje ze wzrostu (mężczyzny): W USA w wyborach dwa razy częściej wybierany jest wyższy kandydat.",
       "difficulty": 1,
       "status": "ok"
     },
@@ -203,23 +204,122 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-4",
       "stems": [
-        "Zgodnie z koncepcją Jonesa i Nisbetta wpływ czynników zewnętrznych na zachowanie łatwiej dostrzega:"
+        "Efekt halo ma dwie odmiany: efekt aureoli i efekt diabelski. Słabszy z nich jest:"
       ],
       "correct": [
-        "aktor"
+        "efekt diabelski"
       ],
       "distractors": [
-        "obserwator",
-        "badacz",
-        "grupa",
-        "ofiara",
-        "przywódca",
-        "świadek",
-        "ekspert"
+        "efekt aureoli",
+        "oba są równie silne",
+        "efekt Pollyanny",
+        "efekt negatywności",
+        "efekt pierwszeństwa",
+        "efekt cech centralnych",
+        "efekt odwróconego placebo"
       ],
-      "explanation": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie niż obserwator.",
-      "sourceExcerpt": "Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie.",
+      "explanation": "Efekt diabelski („co brzydkie, jest złe”) jest słabszy od efektu aureoli; wyjaśnia się to różnicą odległości afektywnej i deskryptywnej.",
+      "sourceExcerpt": "Efekt halo (efekt aureoli vs efekt diabelski). Efekt diabelski jest słabszy od efektu aureoli.",
       "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-4-10",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Cechy „skąpy” i „rozrzutny” są względem siebie:"
+      ],
+      "correct": [
+        "odległe deskryptywnie, ale bliskie afektywnie",
+        "daleko od siebie w opisie, blisko w ocenie (obie negatywne)"
+      ],
+      "distractors": [
+        "bliskie deskryptywnie i bliskie afektywnie",
+        "bliskie deskryptywnie, ale odległe afektywnie",
+        "odległe zarówno deskryptywnie, jak i afektywnie",
+        "identyczne pod względem obu odległości",
+        "nieporównywalne, bo dotyczą różnych wymiarów",
+        "odległe afektywnie, bo jedna jest pozytywna",
+        "bliskie tylko w kulturach kolektywistycznych"
+      ],
+      "explanation": "Odległość deskryptywna mówi, jak daleko są słowa od siebie na wymiarze (skąpy–rozrzutny daleko), afektywna – jak różnią się oceną (obie negatywne, więc blisko).",
+      "sourceExcerpt": "Odległość deskryptywna → jak daleko są słowa od siebie (skąpy 0 → rozrzutny 1). Odległość afektywna → skąpy i rozrzutny → odległość jest mała, skąpy i oszczędny → odległość jest duża.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-4-11",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Uzupełnianie obrazu osoby zakładające „jak zły, to i głupi” bywa ryzykowniejsze niż „jak uczciwy, to i mądry”, ponieważ:"
+      ],
+      "correct": [
+        "przy pierwszym błędzie przestajemy uważać na kogoś groźnego",
+        "niedocenienie złej osoby może nam bardziej zaszkodzić"
+      ],
+      "distractors": [
+        "drugi błąd zdarza się znacznie rzadziej",
+        "pierwszy błąd dotyczy tylko osób obcych",
+        "drugi błąd jest zawsze korygowany przez grupę",
+        "pierwszy błąd wynika z efektu Pollyanny",
+        "obie pomyłki są równie kosztowne",
+        "pierwszy błąd jest słabszy od efektu aureoli",
+        "drugi błąd nie wpływa na zachowanie"
+      ],
+      "explanation": "Asymetria konsekwencji błędów: uznanie złej osoby za głupią usypia czujność, a przecenienie mądrości uczciwej osoby zwykle niesie mniejsze ryzyko.",
+      "sourceExcerpt": "Jak założymy że „jak zły, to głupi”, to może nam zrobić krzywdę, bo nie będziemy uważać, a jak uznamy, że uczciwy jest też mądry, a nie jest, to zwykle ryzyko jest mniejsze.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-4-12",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Za najbardziej trafny model integracji danych o osobie uważa się:"
+      ],
+      "correct": [
+        "uśrednianie ważone (model Andersona)",
+        "model uśredniania ważonego"
+      ],
+      "distractors": [
+        "sumowanie (model addytywny)",
+        "proste uśrednianie",
+        "model cech centralnych",
+        "model efektu aureoli",
+        "model wniosków korespondentnych",
+        "model pierwszeństwa",
+        "model asocjacyjny"
+      ],
+      "explanation": "Modele: sumowanie (raczej nieprawdziwe), uśrednianie, uśrednianie ważone Andersona (najbardziej trafne).",
+      "sourceExcerpt": "Modele integracji danych: 1. Sumowanie (model addytywny) ← raczej nieprawdziwe 2. Uśrednianie 3. Uśrednianie ważone (model Andersona) ← najbardziej trafne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-4-13",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-4",
+      "stems": [
+        "Inna nazwa inklinacji pozytywnej to:"
+      ],
+      "correct": [
+        "efekt Pollyanny"
+      ],
+      "distractors": [
+        "efekt aureoli",
+        "efekt diabelski",
+        "efekt negatywności",
+        "efekt nocebo",
+        "efekt halo",
+        "efekt Barnuma",
+        "efekt pierwszeństwa"
+      ],
+      "explanation": "Inklinacja pozytywna jest nazywana efektem Pollyanny.",
+      "sourceExcerpt": "Inklinacja pozytywna (efekt Pollyanny).",
+      "difficulty": 1,
       "status": "ok"
     }
   ]

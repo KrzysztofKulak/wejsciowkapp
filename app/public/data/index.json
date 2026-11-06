@@ -1,6 +1,39 @@
 {
   "books": [
     {
+      "id": "wychowanie-bez-porazek",
+      "title": "Wychowanie bez porażek",
+      "chapters": [
+        {
+          "id": "str-34-63",
+          "title": "str. 34-63",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "id": "wywiad-psychologiczny-2",
+      "title": "Wywiad psychologiczny 2",
+      "chapters": [
+        {
+          "id": "str-152-187",
+          "title": "str. 152-187",
+          "questionCount": 35
+        }
+      ]
+    },
+    {
+      "id": "podrecznik-pomagania",
+      "title": "Podręcznik pomagania",
+      "chapters": [
+        {
+          "id": "str-33-44",
+          "title": "str. 33-44",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
       "id": "psychologia-i-zycie-zimbardo",
       "title": "“Psychologia i życie”, Zimbardo",
       "chapters": [
@@ -44,6 +77,28 @@
       ]
     },
     {
+      "id": "prezentacja-psychoanaliza-freudowska",
+      "title": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
+      "chapters": [
+        {
+          "id": "slajdy-1-34",
+          "title": "slajdy 1–34",
+          "questionCount": 36
+        }
+      ]
+    },
+    {
+      "id": "prezentacja-psychologia-jako-nauka",
+      "title": "Prezentacja: Historia psychologii. Psychologia jako nauka",
+      "chapters": [
+        {
+          "id": "slajdy-1-20",
+          "title": "slajdy 1–20",
+          "questionCount": 34
+        }
+      ]
+    },
+    {
       "id": "wyklady-historia-i-wspolczesnosc",
       "title": "Wykłady – Wprowadzenie do psychologii: Historia i współczesność",
       "chapters": [
@@ -79,19 +134,29 @@
           "questionCount": 18
         },
         {
-          "id": "wyklad-2",
-          "title": "Wykład 2",
+          "id": "wyklad-1-cz-2",
+          "title": "Wykład 1 (cz. 2)",
           "questionCount": 34
         },
         {
-          "id": "wyklad-3",
-          "title": "Wykład 3 – Grupy i ich funkcjonowanie",
+          "id": "wyklad-2",
+          "title": "Wykład 2 – Grupy i ich funkcjonowanie",
           "questionCount": 38
         },
         {
+          "id": "wyklad-3",
+          "title": "Wykład 3 – Ja i inni. Atrybucja",
+          "questionCount": 22
+        },
+        {
           "id": "wyklad-4",
-          "title": "Wykład 4 – Ja i inni. Atrybucja",
-          "questionCount": 9
+          "title": "Wykład 4. Ja i inni. Schematy wnioskować o cechach",
+          "questionCount": 13
+        },
+        {
+          "id": "wyklad-5",
+          "title": "Wykład 5. Ja i inni",
+          "questionCount": 11
         }
       ]
     }
@@ -101,8 +166,18 @@
       "id": "wejsciowka-1-historia-i-wspolczesnosc",
       "title": "wejściówka 1: historia i współczesność",
       "tag": "wejściówka 1: historia i współczesność",
-      "questionCount": 69,
+      "questionCount": 109,
       "sources": [
+        {
+          "bookId": "prezentacja-psychoanaliza-freudowska",
+          "chapterId": "slajdy-1-34",
+          "questionCount": 19
+        },
+        {
+          "bookId": "prezentacja-psychologia-jako-nauka",
+          "chapterId": "slajdy-1-20",
+          "questionCount": 21
+        },
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "rozdzial-13",

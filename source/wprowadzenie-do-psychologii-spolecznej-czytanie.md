@@ -55,7 +55,7 @@ Ocena na podstawie sprawności jest zależna od oceny moralności (ktoś sprawny
 
 ##### Automatyczność ocen
 
-(Borkenau i Anette, 1992) Na podstawie krótkich nagrań (lub ich fragmentów) 100 osób obchodzących stół i czytających tekst trzeba było szacować ich cechy charakteru (ekstrawersja, ugodowość, otwartość na doświadczenie, neurotyzm, sumienność). Nawet przy bardzo krótkich fragmentach oceny były trafniejsze niż losowe z wyjątkiem neurotyzmu (przede wszystkim) i otwartości na doświadczenie (w mniejszym stopniu).
+(Borkenau i Liebler, 1992) Na podstawie krótkich nagrań (lub ich fragmentów) 100 osób obchodzących stół i czytających tekst trzeba było szacować ich cechy charakteru (ekstrawersja, ugodowość, otwartość na doświadczenie, neurotyzm, sumienność). Nawet przy bardzo krótkich fragmentach oceny były trafniejsze niż losowe z wyjątkiem neurotyzmu (przede wszystkim) i otwartości na doświadczenie (w mniejszym stopniu).
 
 **Oceny cech na podstawie twarzy** są stosunkowo zbieżne pośród wielu badanych, dodatkowo ocena nie zmienia się jeśli ktoś widział twarz przez 50-100 ms, przy dłuższym czasie rośnie tylko pewność w ocenę, ale sama ocena się nie zmienia.
 

@@ -25,6 +25,8 @@ const Question = z.object({
 });
 const ChapterFile = z.object({
   bookId: z.string(),
+  /** Optional: used by build-index when the chapter's notes are not in source/ (e.g. git-ignored slide text). */
+  bookTitle: z.string().optional(),
   chapterId: z.string(),
   chapterTitle: z.string(),
   sourceHash: z.string(),

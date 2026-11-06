@@ -1,3 +1,6 @@
 node_modules
 dist
 .DS_Store
+
+# Slide text extracted from third-party PDFs (public repo): keep local only
+source/prezentacja-*.md

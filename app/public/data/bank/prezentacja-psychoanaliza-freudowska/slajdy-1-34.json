@@ -1,0 +1,926 @@
+{
+  "bookId": "prezentacja-psychoanaliza-freudowska",
+  "chapterId": "slajdy-1-34",
+  "chapterTitle": "slajdy 1–34",
+  "sourceHash": "9f51e924087bd68151303cff944780463cc1b98e",
+  "bookTitle": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
+  "questions": [
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-01",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Za początek psychoanalizy uznaje się rok 1900, związany z wydaniem przez Freuda dzieła:"
+      ],
+      "correct": [
+        "„Objaśnienie marzeń sennych”"
+      ],
+      "distractors": [
+        "„Wstęp do psychoanalizy”",
+        "„Neurotyczna osobowość naszych czasów”",
+        "„The Principles of Psychology”",
+        "„Psychopatologia życia codziennego”",
+        "„Kultura jako źródło cierpień”",
+        "„Totem i tabu”",
+        "„Poza zasadą przyjemności”"
+      ],
+      "explanation": "„Objaśnienie marzeń sennych” powstało w 1899 r., a za początek psychoanalizy uznaje się 1900 r.",
+      "sourceExcerpt": "1899 powstaje „Objaśnienie marzeń sennych”. Początek Psychoanalizy 1900r.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-02",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Wspólny rdzeń nurtów psychoanalitycznych tworzą założenia o nieświadomych procesach psychicznych, o dynamice procesów (konflikcie) oraz o:"
+      ],
+      "correct": [
+        "determinizmie psychicznym"
+      ],
+      "distractors": [
+        "wolnej woli człowieka",
+        "dziedziczeniu cech osobowości",
+        "samorealizacji",
+        "uczeniu się przez warunkowanie",
+        "racjonalności zachowania",
+        "przewadze świadomości nad nieświadomością",
+        "kulturowym relatywizmie"
+      ],
+      "explanation": "Trzy założenia: nieświadome procesy, dynamika (konflikt), determinizm psychiczny (wcześniejsze doświadczenia).",
+      "sourceExcerpt": "1. Założenie o nieświadomych procesach psychicznych 2. Założenie o dynamice procesów – konflikt 3. Założenie o determinizmie psychicznym – wcześniejsze doświadczenia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-03",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Instynkt śmierci, negatywna siła skłaniająca do zachowań agresywnych i destrukcyjnych, wprowadzony przez Freuda w późniejszym okresie, to:"
+      ],
+      "correct": [
+        "tanatos"
+      ],
+      "distractors": [
+        "eros",
+        "libido",
+        "id",
+        "popęd samozachowawczy",
+        "superego",
+        "fiksacja",
+        "sublimacja"
+      ],
+      "explanation": "Początkowo Freud zakładał dwa popędy (samozachowanie i eros); później dodał tanatos, ale o znaczeniu drugoplanowym.",
+      "sourceExcerpt": "W późniejszym okresie pojawia się pojęcie tanatos (instynkt śmierci, negatywna siła skłaniająca ludzi do agresywnych i destrukcyjnych zachowań) znaczenie drugoplanowe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-04",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Fiksacja na danej fazie rozwoju psychoseksualnego jest według Freuda skutkiem:"
+      ],
+      "correct": [
+        "frustracji potrzeb lub ich nadmiernej gratyfikacji"
+      ],
+      "distractors": [
+        "wyłącznie nadmiernej gratyfikacji",
+        "wyłącznie frustracji potrzeb",
+        "pomyślnego rozwiązania konfliktów",
+        "przedwczesnego wejścia w fazę genitalną",
+        "zbyt wczesnego treningu czystości",
+        "silnego superego rodziców"
+      ],
+      "explanation": "Fiksacja powstaje przy frustracji lub nadmiernej gratyfikacji; gdy potrzeby są zaspokojone, a konflikty rozwiązane, rozwija się zdrowa osobowość.",
+      "sourceExcerpt": "Frustracja potrzeb lub też ich nadmierna gratyfikacja jest jednoznaczna z fiksacją na danej fazie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-05",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Zależność od innych, skłonność do dogadzania sobie oraz palenie i obgryzanie paznokci to cechy osób z fiksacją w fazie:"
+      ],
+      "correct": [
+        "oralnej"
+      ],
+      "distractors": [
+        "analnej",
+        "fallicznej",
+        "latencji",
+        "genitalnej",
+        "edypalnej",
+        "przedoralnej",
+        "prenatalnej"
+      ],
+      "explanation": "Fiksacja oralna: zależność, dogadzanie sobie, nadmierny optymizm lub pesymizm, „czynności oralne”.",
+      "sourceExcerpt": "Cechy oralne obejmują zależność od innych, skłonność do dogadzania sobie oraz nadmierny optymizm lub pesymizm. Osoby charakteryzujące się fiksacją oralną pożądają nadmiernie „czynności oralnych”, takich jak: palenie papierosów, przesadne objadanie się, obgryzanie paznokci.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-06",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Perfekcjonizm, nadmierna potrzeba porządku i przesadne dbanie o czystość to cechy osobowości:"
+      ],
+      "correct": [
+        "analno-retencyjnej"
+      ],
+      "distractors": [
+        "analno-ekspulsywnej",
+        "oralnej",
+        "fallicznej",
+        "genitalnej",
+        "histerycznej",
+        "narcystycznej",
+        "zależnej"
+      ],
+      "explanation": "Osobowość analno-retencyjna to nadmierna samokontrola; analno-ekspulsywna to jej niedostatek (bałaganiarstwo, beztroska, a nawet sadyzm).",
+      "sourceExcerpt": "Osobowość analno-retencyjna - nadmierna samokontrola - perfekcjonizm, nadmierna potrzeba porządku, przesadne dbanie o czystość. Osobowość analno-ekspulsywna - niedostatek samokontroli - bałaganiarstwo, beztroska, a nawet sadyzm.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-07",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Bałaganiarstwo, beztroska, a nawet sadyzm, wynikające z niedostatku samokontroli, to cechy osobowości:"
+      ],
+      "correct": [
+        "analno-ekspulsywnej"
+      ],
+      "distractors": [
+        "analno-retencyjnej",
+        "oralno-zależnej",
+        "falliczno-histerycznej",
+        "genitalno-dojrzałej",
+        "oralno-receptywnej",
+        "falliczno-kompulsywnej"
+      ],
+      "explanation": "Fiksacja analna może przybrać dwie formy: retencyjną (nadmiar kontroli) i ekspulsywną (niedostatek kontroli).",
+      "sourceExcerpt": "Osobowość analno-ekspulsywna - niedostatek samokontroli - bałaganiarstwo, beztroska, a nawet sadyzm.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-08",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Źródłem konfliktu w fazie analnej, z którego może zrodzić się fiksacja, jest:"
+      ],
+      "correct": [
+        "trening czystości"
+      ],
+      "distractors": [
+        "odstawienie od piersi",
+        "kompleks Edypa",
+        "zazdrość o penisa",
+        "wyparcie pragnień seksualnych",
+        "zabawa z rówieśnikami",
+        "nauka ról społecznych",
+        "dojrzewanie płciowe"
+      ],
+      "explanation": "Wydalanie staje się przedmiotem kontroli dowolnej; trening czystości to podporządkowanie libido normom społecznym i źródło konfliktu z rodzicami.",
+      "sourceExcerpt": "Trening czystości uznawany za podporządkowanie energii Libido społecznie określonym normom. Kwestia samokontroli może stać się przedmiotem konfliktu między dzieckiem, a rodzicami. Z tego konfliktu może zrodzić się fiksacja analna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-09",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Odpowiednik kompleksu Edypa u dziewczynek, nazwany od córki króla Agamemnona, to:"
+      ],
+      "correct": [
+        "kompleks Elektry"
+      ],
+      "distractors": [
+        "kompleks Antygony",
+        "kompleks Medei",
+        "kompleks Jokasty",
+        "kompleks Kasandry",
+        "kompleks Fedry",
+        "kompleks Ifigenii",
+        "kompleks Penelopy"
+      ],
+      "explanation": "Kompleks Elektry: dziewczynka odkrywa różnice anatomiczne, pojawia się zazdrość o penisa, wrogość wobec matki i miłość do ojca.",
+      "sourceExcerpt": "Podobne uczucia dziewczynek są zarzewiem kompleksu Elektry, według greckich legend Elektra była córką króla Agamemnona.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-10",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Podstawą rozwiązania kompleksu Edypa u chłopców jest według Freuda:"
+      ],
+      "correct": [
+        "lęk kastracyjny"
+      ],
+      "distractors": [
+        "zazdrość o penisa",
+        "tanatos",
+        "fiksacja oralna",
+        "trening czystości",
+        "sublimacja agresji",
+        "regresja do fazy analnej",
+        "faza latencji"
+      ],
+      "explanation": "Projekcja własnej agresji wobec ojca wywołuje poczucie zagrożenia jego agresją, czyli lęk kastracyjny, który prowadzi do rozwiązania konfliktu.",
+      "sourceExcerpt": "Projekcja własnej agresji skierowanej na ojca wywołuje w chłopcu poczucie zagrożenia agresją z jego strony – w ten sposób rodzi się lęk kastracyjny. Lęk kastracyjny jest podstawą do rozwiązania kompleksu Edypa.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-11",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "W fazie latencji energia libido:"
+      ],
+      "correct": [
+        "jest kierowana w naukę, zabawę i relacje z rówieśnikami"
+      ],
+      "distractors": [
+        "koncentruje się wokół odbytu",
+        "gromadzi się wokół genitaliów",
+        "jest kierowana na rodzica płci przeciwnej",
+        "zostaje skierowana na stosunek płciowy",
+        "prowadzi najczęściej do fiksacji",
+        "wyraża się wprost w zachowaniach seksualnych"
+      ],
+      "explanation": "Faza latencji: całkowite wyparcie pragnień seksualnych po konflikcie Edypa; libido inwestowane w zabawę i naukę; stadium bez fiksacji; dzieci wolą zabawę z własną płcią.",
+      "sourceExcerpt": "Energia libido nie kumuluje się nigdzie w ciele. Libido nie wyraża się wprost - jest inwestowana w zabawę, naukę i kontakty z rówieśnikami, jednostka uczy się ról społecznych. To stadium bez fiksacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-12",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Faza rozwoju psychoseksualnego, do której według Freuda nie każdy dochodzi, to faza:"
+      ],
+      "correct": [
+        "genitalna"
+      ],
+      "distractors": [
+        "oralna",
+        "analna",
+        "falliczna",
+        "latencji",
+        "edypalna",
+        "przedoralna",
+        "prenatalna"
+      ],
+      "explanation": "Faza genitalna to dojrzała seksualność, ukierunkowana na zdrową relację i miłość zdolną do altruizmu; zdaniem Freuda nie każdy ją osiąga.",
+      "sourceExcerpt": "Faza genitalna (od okresu dojrzewania). Dojrzała seksualność, do której – zdaniem Freuda – nie każdy dochodzi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-13",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Według założeń terapii psychoanalitycznej ważniejsza od tego, co obiektywnie zdarzyło się w życiu pacjenta, jest:"
+      ],
+      "correct": [
+        "jego subiektywna rzeczywistość psychiczna"
+      ],
+      "distractors": [
+        "dokładna chronologia zdarzeń",
+        "relacja świadków zdarzeń",
+        "diagnoza psychiatryczna",
+        "obiektywny przebieg traumy",
+        "liczba traumatycznych zdarzeń",
+        "opinia rodziny pacjenta",
+        "wynik testów psychologicznych"
+      ],
+      "explanation": "Założenia: pacjent nie wie, co jest problemem ani co jest jego źródłem (wyparcie); liczy się subiektywna rzeczywistość psychiczna.",
+      "sourceExcerpt": "To, co rzeczywiście (obiektywnie) zdarzyło się w życiu pacjenta nie jest tak ważne, jak jego subiektywna rzeczywistość psychiczna – własna interpretacja doświadczenia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-14",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Nadrzędnym celem terapii psychoanalitycznej, osiąganym przez poszerzanie świadomości i przywracanie wspomnień, jest:"
+      ],
+      "correct": [
+        "wgląd"
+      ],
+      "distractors": [
+        "katharsis",
+        "przeniesienie",
+        "sublimacja",
+        "samorealizacja",
+        "wygaszenie reakcji",
+        "zmiana zachowania",
+        "adaptacja społeczna"
+      ],
+      "explanation": "Cele: wgląd (nadrzędny) oraz katharsis (oczyszczenie); przywrócone wspomnienia stopniowo tracą ładunek emocjonalny.",
+      "sourceExcerpt": "Wgląd – cel nadrzędny terapii osiągany poprzez poszerzanie świadomości i w ten sposób przywrócenie wspomnień.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-15",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Oczyszczenie jako jeden z celów terapii psychoanalitycznej to:"
+      ],
+      "correct": [
+        "katharsis"
+      ],
+      "distractors": [
+        "wgląd",
+        "przeniesienie",
+        "sublimacja",
+        "wyparcie",
+        "introjekcja",
+        "regresja",
+        "identyfikacja"
+      ],
+      "explanation": "Celami terapii są wgląd i katharsis (oczyszczenie).",
+      "sourceExcerpt": "katharsis – oczyszczenie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-16",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Metoda odkrywania treści nieświadomości przez swobodne wypowiadanie wszystkiego, co pacjentowi przychodzi na myśl, to:"
+      ],
+      "correct": [
+        "metoda wolnych skojarzeń"
+      ],
+      "distractors": [
+        "analiza marzeń sennych",
+        "analiza czynności omyłkowych",
+        "przeniesienie",
+        "introspekcja eksperymentalna",
+        "hipnoza",
+        "katharsis",
+        "wywiad ustrukturyzowany"
+      ],
+      "explanation": "Metody: wolne skojarzenia, analiza czynności omyłkowych, analiza marzeń sennych, przeniesienie.",
+      "sourceExcerpt": "Metoda wolnych skojarzeń – metoda odkrywania treści nieświadomości dzięki swobodnemu wypowiadaniu wszystkiego, co pacjentowi przychodzi na myśl.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-17",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Podstawą terapii psychoanalitycznej, bez której pacjent nie udzieli informacji o najbardziej intymnych sprawach, jest według Freuda:"
+      ],
+      "correct": [
+        "więź uczuciowa z terapeutą",
+        "więź z pacjentem"
+      ],
+      "distractors": [
+        "neutralność i obojętność terapeuty",
+        "obecność świadka podczas sesji",
+        "krótki czas trwania terapii",
+        "dokładna diagnoza psychiatryczna",
+        "farmakoterapia",
+        "praca w grupie",
+        "zadawanie pytań zamkniętych"
+      ],
+      "explanation": "Freud: pacjent udzieli informacji tylko związany specjalnymi więzami uczuciowymi z lekarzem; zamilknie przy obojętnym świadku.",
+      "sourceExcerpt": "Więź z pacjentem jest podstawą terapii psychoanalitycznej: „Informacji potrzebnych dla analizy udzieli taki człowiek tylko wtedy, kiedy będzie związany specjalnymi więzami uczuciowymi z lekarzem”.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-18",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Superego kieruje się zasadą:"
+      ],
+      "correct": [
+        "moralności"
+      ],
+      "distractors": [
+        "przyjemności",
+        "rzeczywistości",
+        "realności",
+        "przetrwania",
+        "konieczności",
+        "wzajemności",
+        "samozachowania"
+      ],
+      "explanation": "Id – zasada przyjemności, ego – zasada rzeczywistości, superego – zasada moralności.",
+      "sourceExcerpt": "Superego - kieruje się zasadą moralności.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-19",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Ego kieruje się zasadą rzeczywistości i pośredniczy między:"
+      ],
+      "correct": [
+        "id, superego i światem zewnętrznym"
+      ],
+      "distractors": [
+        "świadomością a przedświadomością",
+        "erosem a tanatosem",
+        "id a strefami erogennymi",
+        "pacjentem a terapeutą",
+        "fazą oralną a analną",
+        "libido a fiksacją",
+        "rodzicem a dzieckiem"
+      ],
+      "explanation": "Ego pośredniczy między id, superego i światem zewnętrznym.",
+      "sourceExcerpt": "Ego: kieruje się zasadą rzeczywistości i pośredniczy między id, superego i światem zewnętrznym.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-20",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Relację ego do id opisuje metafora:"
+      ],
+      "correct": [
+        "jeźdźca na koniu"
+      ],
+      "distractors": [
+        "góry lodowej",
+        "strumienia świadomości",
+        "cenzora w teatrze",
+        "kapitana i załogi",
+        "lustra",
+        "sędziego i oskarżonego",
+        "ogrodnika i ogrodu"
+      ],
+      "explanation": "Ego jest jak jeździec kierujący silnym koniem (id).",
+      "sourceExcerpt": "Ego: metafora jeźdźca na koniu.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-21",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Superego kształtuje się poprzez:"
+      ],
+      "correct": [
+        "wychowanie, szkołę i społeczeństwo"
+      ],
+      "distractors": [
+        "wrodzone popędy biologiczne",
+        "zaspokajanie potrzeb oralnych",
+        "dojrzewanie układu nerwowego",
+        "wyparcie wspomnień z dzieciństwa",
+        "fiksację w fazie analnej",
+        "kontakt z rzeczywistością fizyczną",
+        "zasadę przyjemności"
+      ],
+      "explanation": "Superego zawiera normy, zakazy i ideały moralne przyjęte od wychowania, szkoły i społeczeństwa.",
+      "sourceExcerpt": "Superego - kształtuje się poprzez wychowanie, szkołę i społeczeństwo — zawiera normy, zakazy i ideały moralne.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-22",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Według Freuda podstawy moralności (superego) tworzą się dzięki:"
+      ],
+      "correct": [
+        "pomyślnemu rozwiązaniu kompleksu Edypa",
+        "rozwiązaniu konfliktu edypalnego"
+      ],
+      "distractors": [
+        "odstawieniu od piersi w fazie oralnej",
+        "zaspokojeniu potrzeb fazy genitalnej",
+        "fiksacji w fazie analnej",
+        "rozwinięciu się tanatosu",
+        "pojawieniu się zazdrości o penisa",
+        "metodzie wolnych skojarzeń",
+        "pierwszym kontaktom z rówieśnikami"
+      ],
+      "explanation": "Rozwiązanie kompleksu Edypa (wyparcie pożądania, identyfikacja z agresorem, introjekcja norm) tworzy podstawy moralności i oznacza przyjęcie porządku kulturowego.",
+      "sourceExcerpt": "Pomyślne rozwiązanie kompleksu Edypa jest ważnym osiągnięciem rozwojowym – dzięki temu tworzą się podstawy moralności.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-23",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Rozwiązanie kompleksu Edypa polega na wyparciu pożądania do matki oraz:"
+      ],
+      "correct": [
+        "identyfikacji z ojcem i introjekcji jego norm"
+      ],
+      "distractors": [
+        "projekcji własnego pożądania na rówieśników",
+        "regresji do bezpiecznej fazy oralnej",
+        "sublimacji agresji w sporcie i nauce",
+        "fiksacji na wcześniejszej fazie analnej",
+        "przemieszczeniu wrogości z ojca na matkę",
+        "zaprzeczeniu istnienia rywalizacji z ojcem"
+      ],
+      "explanation": "Chłopiec wypiera pożądanie, identyfikuje się z ojcem (domniemanym agresorem) i introjektuje normy zakazujące kazirodczych pragnień.",
+      "sourceExcerpt": "Rozwiązanie konfliktu Edypa: wyparcie pożądania do matki; identyfikacja z domniemanym agresorem i introjekcja norm reprezentowanych przez niego i społeczeństwo.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-24",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Freud twierdził, że kobiety mają słabiej rozwinięte superego, ponieważ:"
+      ],
+      "correct": [
+        "brak lęku kastracyjnego łagodzi u nich konflikt edypalny"
+      ],
+      "distractors": [
+        "dziewczynki wcześniej przechodzą przez fazę latencji",
+        "dziewczynki silniej identyfikują się z ojcem niż z matką",
+        "u dziewczynek tanatos jest silniejszy niż eros",
+        "dziewczynki w ogóle nie przechodzą fazy analnej",
+        "dziewczynki szybciej osiągają dojrzałą fazę genitalną",
+        "u dziewczynek nie występują żadne strefy erogenne"
+      ],
+      "explanation": "Brak lęku kastracyjnego sprawia, że u dziewczynek konflikt jest łagodniejszy i nie wymusza silnego wyparcia, co według Freuda osłabia superego.",
+      "sourceExcerpt": "U dziewczynek kompleks Edypa ma dużo lżejsze zabarwienie z powodu braku lęku kastracyjnego. Z tego powodu – twierdzi Freud – kobiety mają słabiej rozwinięte Superego.",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-25",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Ego, choć w większości świadome, działa częściowo poza świadomością jako:"
+      ],
+      "correct": [
+        "cenzor blokujący niewłaściwe impulsy id"
+      ],
+      "distractors": [
+        "magazyn wypartych wspomnień z dzieciństwa",
+        "główne źródło energii libido",
+        "strażnik norm i zakazów moralnych",
+        "pośrednik między kolejnymi fazami rozwoju",
+        "zbiór ideałów i wartości moralnych",
+        "mechanizm wywołujący fiksacje"
+      ],
+      "explanation": "Gdy ego wyczuwa niewłaściwy impuls próbujący przedostać się do świadomości, zapobiega temu za pomocą mechanizmów obronnych.",
+      "sourceExcerpt": "Choć ego ma w większości charakter świadomy, część jego działań pozostaje poza świadomością. Działa ono jako cenzor niedopuszczający do świadomości pewnych impulsów z id.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-26",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Freud uważał wyparcie za najbardziej podstawowy mechanizm obronny. Utrzymanie tego, co niebezpieczne, w nieświadomości wymaga przy tym:"
+      ],
+      "correct": [
+        "nieustannego wysiłku"
+      ],
+      "distractors": [
+        "jednorazowej decyzji",
+        "świadomej zgody jednostki",
+        "pomocy terapeuty",
+        "silnego superego",
+        "regresji do fazy oralnej",
+        "udziału tanatosu",
+        "snu"
+      ],
+      "explanation": "Wyparcie zamyka w nieświadomości trudne uczucia bez świadomości tego procesu; wymaga nieustannego wysiłku.",
+      "sourceExcerpt": "Freud uważał wyparcie za najbardziej podstawowy mechanizm obronny - wymaga nieustannego wysiłku, żeby utrzymać to, co niebezpieczne w nieświadomości.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-27",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Działania pod wpływem tego mechanizmu mają charakter przesadny, przejaskrawiony i wymuszony – są „za bardzo”. Mowa o:"
+      ],
+      "correct": [
+        "reakcji upozorowanej"
+      ],
+      "distractors": [
+        "sublimacji popędów",
+        "projekcji uczuć",
+        "przemieszczeniu wrogości",
+        "izolacji emocji",
+        "zaprzeczeniu zdarzeń",
+        "wyparciu wspomnień",
+        "regresji rozwojowej"
+      ],
+      "explanation": "Reakcja upozorowana przekształca niepokojące nieświadome uczucie w jego przeciwieństwo; zdradza ją przesada.",
+      "sourceExcerpt": "Reakcja upozorowana / formowanie reakcji przeciwstawnych – nieświadome uczucie, które budzi w nas niepokój, w świadomości zostaje przekształcone w swoje przeciwieństwo. Działania mają charakter przesadny, przejaskrawiony, wymuszony – są „za bardzo”.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-28",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Kobieta, która w głębi duszy nie znosi teściowej, jest dla niej ostentacyjnie, przesadnie serdeczna. Stosuje:"
+      ],
+      "correct": [
+        "reakcję upozorowaną"
+      ],
+      "distractors": [
+        "sublimację popędu",
+        "projekcję uczuć",
+        "izolację emocji",
+        "regresję do dzieciństwa",
+        "identyfikację z teściową",
+        "fantazjowanie o zemście"
+      ],
+      "explanation": "Niepokojące uczucie (niechęć) zamienia się w świadomości w przeciwieństwo (serdeczność), a przesada je zdradza.",
+      "sourceExcerpt": "Reakcja upozorowana – nieświadome uczucie, które budzi w nas niepokój, w świadomości zostaje przekształcone w swoje przeciwieństwo. Działania pod wpływem reakcji upozorowanej mają charakter przesadny.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-29",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Mąż, który sam ma ochotę na zdradę, bezpodstawnie podejrzewa żonę o niewierność. Stosuje:"
+      ],
+      "correct": [
+        "projekcję (rzutowanie)",
+        "projekcję"
+      ],
+      "distractors": [
+        "sublimację",
+        "regresję",
+        "izolację",
+        "reakcję upozorowaną",
+        "fantazjowanie",
+        "identyfikację",
+        "wyparcie"
+      ],
+      "explanation": "Projekcja (rzutowanie) to przypisywanie komuś własnych nieakceptowanych uczuć lub pragnień.",
+      "sourceExcerpt": "Projekcja / Rzutowanie – przypisywanie komuś swoich własnych, najczęściej nieakceptowanych i niepokojących uczuć.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-30",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Uczeń skrzyczany przez nauczyciela po powrocie do domu wyżywa się na młodszym bracie. To:"
+      ],
+      "correct": [
+        "przemieszczenie"
+      ],
+      "distractors": [
+        "projekcja",
+        "regresja",
+        "izolacja",
+        "reakcja upozorowana",
+        "racjonalizacja",
+        "identyfikacja",
+        "fantazjowanie"
+      ],
+      "explanation": "Przemieszczenie: rozładowanie wrogości na obiekcie mniej niebezpiecznym niż ten, który ją wywołał.",
+      "sourceExcerpt": "Przemieszczenie – rozładowanie stłumionych uczuć, zazwyczaj wrogości lub pragnień seksualnych na obiektach mniej niebezpiecznych niż te, które te uczucia wzbudziły (np.: „wyżycie się” na kimś innym).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-31",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Mężczyzna z silnymi impulsami agresywnymi zostaje cenionym chirurgiem, kierując te impulsy ku celom akceptowanym społecznie. To:"
+      ],
+      "correct": [
+        "sublimacja"
+      ],
+      "distractors": [
+        "projekcja",
+        "regresja",
+        "izolacja",
+        "reakcja upozorowana",
+        "zaprzeczenie",
+        "wyparcie",
+        "fantazjowanie"
+      ],
+      "explanation": "Sublimacja odsuwa myśli od celów seksualnych lub agresywnych i kieruje je ku celom akceptowanym społecznie.",
+      "sourceExcerpt": "Sublimacja - myśli odsuwane są od swych celów seksualnych/agresywnych i kierowane są ku celom akceptowanym społecznie.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-32",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Mimo wyraźnych objawów choroby mężczyzna utrzymuje, że nic mu nie jest, i nie idzie do lekarza. Stosuje:"
+      ],
+      "correct": [
+        "zaprzeczenie"
+      ],
+      "distractors": [
+        "sublimację",
+        "projekcję",
+        "przemieszczenie",
+        "regresję",
+        "reakcję upozorowaną",
+        "identyfikację",
+        "fantazjowanie"
+      ],
+      "explanation": "Zaprzeczenie to nieprzyznawanie się, że zdarzyło się coś nieprzyjemnego, i bagatelizowanie znaczenia zdarzeń.",
+      "sourceExcerpt": "Zaprzeczenie – nieprzyznawanie się, że zdarzyło się coś nieprzyjemnego lub, że doświadczamy „zakazanych” uczuć. Bagatelizowanie znaczenia zdarzeń.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-33",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Nieświadome kontrolowanie emocji i impulsów przez ich silne uzależnienie od wyjaśnień racjonalnych to:"
+      ],
+      "correct": [
+        "racjonalizacja"
+      ],
+      "distractors": [
+        "sublimacja",
+        "projekcja",
+        "przemieszczenie",
+        "regresja",
+        "reakcja upozorowana",
+        "wyparcie",
+        "fantazjowanie"
+      ],
+      "explanation": "Racjonalizacja/intelektualizacja zastępuje przeżywanie emocji racjonalnymi wyjaśnieniami.",
+      "sourceExcerpt": "Racjonalizacja / intelektualizacja – nieświadome kontrolowanie emocji i impulsów przez ich silne uzależnienie od wyjaśnień racjonalnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-34",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Dorosły podczas kłótni zaczyna się dąsać, tupać i płakać jak małe dziecko. To:"
+      ],
+      "correct": [
+        "regresja"
+      ],
+      "distractors": [
+        "sublimacja",
+        "projekcja",
+        "izolacja",
+        "reakcja upozorowana",
+        "identyfikacja",
+        "fantazjowanie",
+        "racjonalizacja"
+      ],
+      "explanation": "Regresja to wycofanie do wcześniejszych poziomów rozwojowych, z bardziej dziecinnymi reakcjami; szerzej: infantylizmy i ucieczka od problemów.",
+      "sourceExcerpt": "Regresja – wycofanie do wcześniejszych poziomów rozwojowych, co pociąga za sobą bardziej dziecinne reakcje.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-35",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Kobieta pamięta wszystkie szczegóły wypadku, w którym zginęła jej przyjaciółka, ale opowiada o nim bez cienia emocji. Stosuje:"
+      ],
+      "correct": [
+        "izolację"
+      ],
+      "distractors": [
+        "wyparcie",
+        "projekcję",
+        "regresję",
+        "sublimację",
+        "przemieszczenie",
+        "reakcję upozorowaną",
+        "fantazjowanie"
+      ],
+      "explanation": "Izolacja odłącza przykry ładunek emocjonalny przy zachowanej pamięci i świadomości zdarzeń; przy wyparciu samo zdarzenie byłoby niepamiętane.",
+      "sourceExcerpt": "Izolacja – odłączenie przykrego ładunku emocjonalnego i trzymanie go w nieświadomości, przy jednoczesnej pamięci/ świadomości zdarzeń.",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-36",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Mechanizm obronny, w którym niepokojące myśli, wspomnienia i emocje nie są dopuszczane do świadomości, a jednostka nie zdaje sobie sprawy z tego procesu, to:"
+      ],
+      "correct": [
+        "wyparcie"
+      ],
+      "distractors": [
+        "izolacja",
+        "zaprzeczenie",
+        "racjonalizacja",
+        "projekcja",
+        "sublimacja",
+        "regresja",
+        "przemieszczenie"
+      ],
+      "explanation": "Wyparcie zamyka w nieświadomości trudne uczucia; jednostka nie wie, że jej umysł dokonał takiego zabiegu.",
+      "sourceExcerpt": "Wyparcie – zamykanie w nieświadomości zbyt trudnych, nieakceptowanych uczuć i niezdawanie sobie z tego procesu sprawy - niedopuszczenie do świadomości niepokojących myśli, wspomnień i emocji.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    }
+  ]
+}

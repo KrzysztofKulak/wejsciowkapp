@@ -8,7 +8,7 @@ import { resolve } from "node:path";
 
 export const root = resolve(import.meta.dirname, "..");
 export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8")) as {
-  sources: (string | { url: string; title?: string; id?: string })[];
+  sources: (string | { url?: string; pdf?: string; title?: string; id?: string; chapter?: string })[];
   chapterPattern: string;
   bookAliases?: Record<string, string>;
   bookHeading?: string;
@@ -92,8 +92,15 @@ export function splitNotes(md: string): Book[] {
         const chapterTitle = title.slice(cm.index).replace(/[\s.:;,–-]+$/, "").trim();
         if (bookTitle) book = getBook(bookTitle);
         if (!book) book = getBook(pageTitle);
-        const chapterId = slugify(chapterKey.replace(/^Rozdz\.?\s+/i, "Rozdział "));
-        chapter = { id: chapterId, title: chapterTitle, text: "", words: 0, hash: "" };
+        let chapterId = slugify(chapterKey.replace(/^Rozdz\.?\s+/i, "Rozdział "));
+        let finalTitle = chapterTitle;
+        // the same number twice in one book (e.g. two blocks of "Wykład 1" on one day) → "cz. 2", "cz. 3"
+        const dupes = book.chapters.filter((c) => c.id === chapterId || c.id.startsWith(`${chapterId}-cz-`)).length;
+        if (dupes > 0) {
+          chapterId = `${chapterId}-cz-${dupes + 1}`;
+          finalTitle = `${chapterTitle} (cz. ${dupes + 1})`;
+        }
+        chapter = { id: chapterId, title: finalTitle, text: "", words: 0, hash: "" };
         book.chapters.push(chapter);
         continue;
       }

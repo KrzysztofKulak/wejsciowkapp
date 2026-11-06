@@ -1,31 +1,31 @@
 {
   "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-2",
-  "chapterTitle": "Wykład 2",
-  "sourceHash": "909b11d82444b15151bd80022cd0e59e81722566",
+  "chapterTitle": "Wykład 2 – Grupy i ich funkcjonowanie",
+  "sourceHash": "c2eb319a40ec4c8c4c695a82dfb2bfd729f261e4",
   "questions": [
     {
       "id": "wyklady-psychologia-spoleczna-wyklad-2-01",
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Koncepcja motywacji kompetencji, według której rozwój polega na poszerzaniu sfer wpływu w środowisku, a skuteczność jest esencją rozwoju osobowości, pochodzi od:"
+        "Co najmniej dwie osoby, które mają poczucie wzajemnej przynależności („MY”), wspólny cel oraz komunikują się i wzajemnie na siebie wpływają, to:"
       ],
       "correct": [
-        "White'a"
+        "grupa społeczna"
       ],
       "distractors": [
-        "deCharmsa",
-        "Rottera",
-        "Seligmana",
-        "Rothbauma",
-        "Burgera",
-        "Millera",
-        "Heidera"
+        "tłum",
+        "zbiorowość",
+        "kategoria społeczna",
+        "publiczność",
+        "sieć społeczna",
+        "agregat społeczny",
+        "audytorium"
       ],
-      "explanation": "White: motywacja kompetencji – zmiany w kolejnych stadiach rozwoju polegają na poszerzaniu sfer wpływu; skuteczność to esencja rozwoju osobowości.",
-      "sourceExcerpt": "White: motywacja kompetencji. Zmiany następujące w kolejnych stadiach rozwoju człowieka polegają na poszerzaniu sfer wpływu w środowisku fizycznym i społecznym. Skuteczność - esencja rozwoju osobowości.",
-      "difficulty": 2,
+      "explanation": "Grupa społeczna wymaga poczucia „MY”, wspólnego celu, komunikacji i wzajemnego wpływu; dwie osoby w windzie nią nie są, dopóki winda nie utknie.",
+      "sourceExcerpt": "Grupa społeczna - co najmniej dwie osoby, które mają poczucie wzajemnej przynależności (myślą o sobie „MY”), wspólny cel lub cele oraz komunikują się między sobą i wzajemnie na siebie wpływają.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -33,23 +33,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Koncepcja, według której człowiek może być w danej sytuacji „źródłem” (to od niego zależy, co się dzieje) albo „pionkiem” (inni wyznaczają jego drogę), to koncepcja:"
+        "Dwie osoby jadące windą nie są grupą, ale gdy winda utknie, mogą się nią stać, ponieważ:"
       ],
       "correct": [
-        "deCharmsa"
+        "pojawia się wspólny cel, komunikacja i wzajemny wpływ",
+        "zaczynają mieć wspólny cel i komunikować się"
       ],
       "distractors": [
-        "White'a",
-        "Rottera",
-        "Seligmana",
-        "Rothbauma",
-        "Langer",
-        "Heidera",
-        "Millera"
+        "spędzają razem więcej czasu",
+        "znajdują się w tym samym miejscu",
+        "przestają być dla siebie anonimowe",
+        "pojawia się formalna hierarchia",
+        "muszą przejść wspólną inicjację",
+        "zaczynają konkurować o zasoby",
+        "zostają przydzielone do grupy przez innych"
       ],
-      "explanation": "deCharms: koncepcja źródła i pionka; bycie źródłem lub pionkiem jest subiektywne i może nie odpowiadać rzeczywistości.",
-      "sourceExcerpt": "deCharms - koncepcja źródła i pionka. Człowiek może być w poszczególnych sytuacjach źródłem (od niego zależy to, co się dzieje) lub pionkiem (nic od niego nie zależy).",
-      "difficulty": 1,
+      "explanation": "Grupą można się stać przez przypadek, gdy pojawią się elementy definicyjne: wspólny cel, komunikacja, wzajemny wpływ.",
+      "sourceExcerpt": "Grupą można się stać przez przypadek (dwie osoby, które jadą windą - nie, ale jak utknęły w windzie - tak).",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -57,24 +58,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W koncepcji źródła i pionka poczucie bycia źródłem lub pionkiem:"
+        "Partia polityczna jest przykładem grupy:"
       ],
       "correct": [
-        "jest subiektywne i może nie odpowiadać rzeczywistemu wpływowi",
-        "nie musi pokrywać się z realnym wpływem na sytuację"
+        "formalnej"
       ],
       "distractors": [
-        "zawsze odpowiada rzeczywistemu wpływowi na sytuację",
-        "jest stałą cechą osobowości niezależną od sytuacji",
-        "zależy wyłącznie od pozycji w hierarchii grupy",
-        "kształtuje się dopiero w dorosłości",
-        "dotyczy tylko zdarzeń losowych",
-        "jest zawsze zgodne z oceną innych ludzi",
-        "wynika z liczby posiadanych zasobów"
+        "nieformalnej",
+        "pierwotnej",
+        "przypadkowej",
+        "dysjunktywnej",
+        "koniunktywnej",
+        "addytywnej",
+        "transakcyjnej"
       ],
-      "explanation": "Człowiekowi może się wydawać, że nie ma wpływu, gdy realnie go ma, i na odwrót.",
-      "sourceExcerpt": "Subiektywnie można być jednym lub drugim niezależnie od tego jak w rzeczywistości jest (człowiekowi się wydaje, że nie ma wpływu, gdy realnie go ma lub na odwrót).",
-      "difficulty": 2,
+      "explanation": "Grupy formalne (np. partia) i nieformalne (np. grupa znajomych).",
+      "sourceExcerpt": "Grupy: formalne - np. partia; nieformalne - ziomeczki.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -82,23 +82,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Przekonanie o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień to pojęcie wprowadzone przez:"
+        "W badaniach Newcomba z lat 30. studenci starszych lat byli znacznie bardziej liberalni niż pierwszoroczni (ulegający wpływowi rodziny), co ilustruje:"
       ],
       "correct": [
-        "Rottera"
+        "wpływ norm grupowych uczelni na postawy",
+        "działanie norm grupowych"
       ],
       "distractors": [
-        "White'a",
-        "deCharmsa",
-        "Seligmana",
-        "Langer",
-        "Rothbauma",
-        "Heidera",
-        "Burgera"
+        "spójność grupy",
+        "rozproszenie odpowiedzialności",
+        "pamięć transakcyjną",
+        "efekt dobrowolności wyboru",
+        "władzę opartą na fachowości",
+        "strukturę zadania dysjunktywnego",
+        "liberalny styl przywództwa"
       ],
-      "explanation": "Julian Rotter zauważył podczas terapii desensytyzacji, że część pacjentów konsekwentnie robi kroki ku zagrożeniu, a część nie; zależy to od umiejscowienia kontroli wzmocnień.",
-      "sourceExcerpt": "Julian Rotter: przekonania o wewnętrznym lub zewnętrznym umiejscowieniu kontroli wzmocnień. zewnętrzny - nic ode mnie nie zależy; wewnętrzny - to ja kontroluję wszystko.",
-      "difficulty": 1,
+      "explanation": "Newcomb: symulacje wyborów z 1936 r. – I rok wybiera konserwatystę (wpływ rodziny), III i IV rok znacznie bardziej liberalnie (wartości demokratyczne uczelni).",
+      "sourceExcerpt": "Newcomb - lata 30. XX w. symulacje wyborów z 1936r na uczelni. Studenci I roku - konserwatysta wygrywa nad liberałem (wpływ rodziny). Studenci III i IV roku - dużo więcej liberalnych (wartości demokratyczne na uczelni).",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -106,23 +107,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Przekonanie „nic ode mnie nie zależy” odpowiada:"
+        "Zdecydowana większość ludzi powiela religię:"
       ],
       "correct": [
-        "zewnętrznemu umiejscowieniu kontroli",
-        "zewnętrznemu poczuciu kontroli"
+        "swoich rodziców"
       ],
       "distractors": [
-        "wewnętrznemu umiejscowieniu kontroli",
-        "motywacji kompetencji",
-        "wyuczonej zaradności",
-        "iluzji kontroli",
-        "tendencji do osiągania sukcesu",
-        "wysokiej wystarczalności",
-        "hipotezie minimaksowej"
+        "współmałżonka",
+        "rówieśników",
+        "dominującą w miejscu zamieszkania",
+        "nauczycieli",
+        "wybraną samodzielnie w dorosłości",
+        "przywódcy charyzmatycznego",
+        "swojej grupy zawodowej"
       ],
-      "explanation": "Zewnętrzne umiejscowienie: nic ode mnie nie zależy; wewnętrzne: to ja kontroluję wszystko. To skrajności, ludzie plasują się zwykle między nimi.",
-      "sourceExcerpt": "zewnętrzny - nic ode mnie nie zależy. wewnętrzny - to ja kontroluję wszystko. Są to skrajności - człowiek plasuje się zwykle gdzieś między nimi.",
+      "explanation": "Około 91% ludzi powiela religię rodziców, 8% zmienia ją (głównie przez współmałżonka), 1% staje się ateistami lub agnostykami.",
+      "sourceExcerpt": "Religijność: 91% powiela religię swoich rodziców. 8% zmienia religię (głównie przez współmałżonka). 1% staje się ateistami lub agnostykami.",
       "difficulty": 1,
       "status": "ok"
     },
@@ -131,23 +131,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W badaniu Langer i Rodin w domu starców grupa, która mogła wpływać na swój los (wybór mebli, opieka nad rośliną, wybór filmów):"
+        "Osoby, które zmieniają religię, robią to głównie pod wpływem:"
       ],
       "correct": [
-        "zgłaszała większe zadowolenie, aktywność i sprawność intelektualną",
-        "poprawiła się w zadowoleniu, aktywności i funkcjonowaniu umysłowym"
+        "współmałżonka"
       ],
       "distractors": [
-        "nie różniła się od grupy kontrolnej w żadnym parametrze",
-        "miała gorsze wyniki niż grupa z pełnym komfortem",
-        "częściej skarżyła się personelowi na swoje problemy",
-        "wykazała wyraźny spadek aktywności fizycznej",
-        "poprawiła tylko nastrój, bez zmian w funkcjonowaniu",
-        "pogorszyła swoje relacje z personelem domu",
-        "wykazała wzrost lęku i objawów depresyjnych"
+        "rodziców",
+        "rówieśników",
+        "uczelni",
+        "mediów",
+        "przywódcy religijnego",
+        "kryzysu życiowego",
+        "przeprowadzki"
       ],
-      "explanation": "Grupa z kontrolą zgłaszała zadowolenie, lepszą aktywność fizyczną i funkcjonowanie intelektualne; w ocenach personelu różnice były jeszcze większe.",
-      "sourceExcerpt": "Grupa z kontrolą: zgłaszali zadowolenie (+0.28), lepszą aktywność fizyczną (+0.20) i funkcjonowanie intelektualnie (+0.29). Grupa bez: -0.12, -1.28, -0,37 względem grupy kontrolnej.",
+      "explanation": "Zmiana religii dotyczy około 8% ludzi i następuje głównie przez współmałżonka.",
+      "sourceExcerpt": "8% zmienia religię (głównie przez współmałżonka).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -156,24 +155,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W badaniu Langer i Rodin grupa otoczona pełnym komfortem, ale pozbawiona wpływu na swój los, w porównaniu z grupą kontrolną:"
+        "Suma sił skłaniających jednostki do pozostania w grupie to:"
       ],
       "correct": [
-        "wypadła gorzej w zadowoleniu, aktywności i funkcjonowaniu intelektualnym",
-        "pogorszyła się we wszystkich badanych parametrach"
+        "spójność grupy"
       ],
       "distractors": [
-        "wypadła lepiej dzięki opiece personelu",
-        "nie różniła się od niej w żadnym parametrze",
-        "poprawiła funkcjonowanie intelektualne, ale nie aktywność",
-        "miała wyższe zadowolenie przy niższej aktywności",
-        "wypadła lepiej niż grupa z wpływem na swój los",
-        "poprawiła się wyłącznie w ocenach personelu",
-        "wykazała większą samodzielność w codziennych czynnościach"
+        "norma grupowa",
+        "struktura grupy",
+        "pamięć transakcyjna",
+        "konformizm",
+        "atrakcyjność interpersonalna",
+        "afiliacja",
+        "hierarchia pozycji"
       ],
-      "explanation": "Grupa komfortowa bez wpływu miała wyniki poniżej grupy kontrolnej; jedyne, w czym „przodowała”, to częstsze rozmowy z personelem – skargi na problemy.",
-      "sourceExcerpt": "Grupa bez: -0.12, -1.28, -0,37 względem grupy kontrolnej. (poza tym, że grupa komfortowa więcej od grupy kontrolnej rozmawiała z nimi - skarżąc się na problemy).",
-      "difficulty": 3,
+      "explanation": "Spójność zwiększają m.in. trudne reguły inicjacyjne, wróg zewnętrzny i realność grupy (częstość kontaktów, cele).",
+      "sourceExcerpt": "Spójność Grupy - suma sił skłaniających jednostki do zostania w grupie.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -181,23 +179,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Zarówno tendencja do osiągania sukcesu (Ts), jak i tendencja do unikania porażek (Tp) osiągają maksimum przy zadaniach:"
+        "Spójność grupy zwiększa między innymi:"
       ],
       "correct": [
-        "średnio trudnych",
-        "o średniej trudności"
+        "obecność wroga zewnętrznego",
+        "wspólny wróg zewnętrzny"
       ],
       "distractors": [
-        "najłatwiejszych",
-        "najtrudniejszych",
-        "czysto losowych",
-        "czysto sprawnościowych",
-        "o pewnym sukcesie",
-        "o pewnej porażce",
-        "zupełnie nowych"
+        "łatwość dostania się do grupy",
+        "rzadkie kontakty między członkami",
+        "przydzielenie do grupy bez wyboru",
+        "duże zróżnicowanie celów członków",
+        "komunikacja wyłącznie hierarchiczna",
+        "brak reguł inicjacyjnych",
+        "wysoka rotacja członków"
       ],
-      "explanation": "Ts = Ps × (1 − Ps) i Tp = Pp × −(1 − Pp) osiągają maksimum przy Ps = 0,5, czyli przy zadaniach średnio trudnych.",
-      "sourceExcerpt": "Ts = Ps x (1-Ps). Ts osiąga wartość maksymalną (0.25) przy Ps = 0,5. Tp osiąga maksimum przy Ps=0,5 (a więc przy zadaniach średnio trudnych).",
+      "explanation": "Czynniki spójności: atrakcyjność grupy związana z trudnymi regułami inicjacyjnymi, wróg zewnętrzny, realność grupy.",
+      "sourceExcerpt": "Atrakcyjność grupy a reguły inicjacyjne i trudność z dostaniem się do grupy. Wróg zewnętrzny jako czynnik spajający grupę. Realność grupy (częstość kontaktów, cele, itp.)",
       "difficulty": 2,
       "status": "ok"
     },
@@ -206,23 +204,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W modelu motywacji osiągnięć wartość sukcesu (Ws) jest:"
+        "W badaniach Turnera (chłopcy na lekcjach WF) po porażkach wyższą spójność miały grupy:"
       ],
       "correct": [
-        "tym większa, im mniejsze prawdopodobieństwo sukcesu",
-        "odwrotnie związana z prawdopodobieństwem sukcesu"
+        "dobrowolnie wybrane przez członków",
+        "do których chłopcy sami się wybrali"
       ],
       "distractors": [
-        "tym większa, im większe prawdopodobieństwo sukcesu",
-        "stała i niezależna od trudności zadania",
-        "równa prawdopodobieństwu sukcesu",
-        "największa przy zadaniach bardzo łatwych",
-        "zależna wyłącznie od nagrody zewnętrznej",
-        "równa ujemnej wartości porażki",
-        "maksymalna przy pewnym sukcesie"
+        "przydzielone przez nauczyciela",
+        "o najwyższym poziomie sportowym",
+        "najliczniejsze",
+        "o najdłuższym stażu",
+        "z wyraźnym liderem",
+        "mieszane wiekowo",
+        "nagradzane za zwycięstwa"
       ],
-      "explanation": "Ws = 1 − Ps: im mniej prawdopodobny sukces, tym jest cenniejszy. Stąd uwaga: „trzeba zmniejszać prawdopodobieństwo sukcesu”.",
-      "sourceExcerpt": "Ts = Ps (prawdop. sukcesu) x Ws (jego wartość). Ws = (1-Ps).",
+      "explanation": "Dobrowolność wyboru grupy: po porażkach spójność grup dobrowolnych była wyższa niż grup przydzielonych.",
+      "sourceExcerpt": "Badania Turnera. Chłopcy na wfie: Część klas wybierało samo, część była przydzielana. Po porażkach spójność grup dobrowolnych była wyższa.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -231,23 +229,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W modelu tendencji do unikania porażek poczucie klęski po niepowodzeniu jest tym większe, im:"
+        "W eksperymencie Doosje badani odczuwali wstyd i poczucie winy, gdy:"
       ],
       "correct": [
-        "łatwiejsze było zadanie (pewniejszy sukces)",
-        "pewniejszy wydawał się sukces"
+        "sami ocenili uczciwie, ale członkowie ich grupy postąpili nieuczciwie",
+        "ich własna grupa była nieuczciwa, choć oni sami byli uczciwi"
       ],
       "distractors": [
-        "trudniejsze było zadanie",
-        "mniej wysiłku włożono w zadanie",
-        "mniej osób obserwowało porażkę",
-        "niższa była wartość sukcesu",
-        "bardziej losowe było zadanie",
-        "mniejsza była motywacja osiągnięć",
-        "dłużej trwało zadanie"
+        "sami postąpili nieuczciwie, a grupa uczciwie",
+        "obca grupa postąpiła nieuczciwie",
+        "zostali przydzieleni do grupy losowo",
+        "ich oceny grafik odbiegały od ocen grupy",
+        "dowiedzieli się, że podział na grupy był fikcyjny",
+        "oceniali autorów z własnej grupy surowiej",
+        "nie znali przynależności grupowej autorów"
       ],
-      "explanation": "Im pewniejszy sukces (łatwiejsze zadanie), tym większe poczucie klęski w przypadku porażki: Wp = −Ps.",
-      "sourceExcerpt": "„Im pewniejszy sukces (łatwiejsze zadanie), tym większe poczucie klęski w przypadku porażki: Wp = - Ps”",
+      "explanation": "Emocje są odczuwane w imieniu grupy: wstyd i wina za nieuczciwość własnej grupy mimo własnej uczciwości.",
+      "sourceExcerpt": "Odczuwali wstyd i poczucie winy gdy sami postąpili uczciwie w ocenie, ale członkowie ich własnej grupy postąpili nieuczciwie.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -256,22 +254,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Zjawisko, w którym ludzie rzucają kostką z większą siłą, gdy chcą wyrzucić wyższą liczbę, to:"
+        "Dla związku spójności grupy z poziomem wykonania zadań ważniejsza jest:"
       ],
       "correct": [
-        "efekt Henslina"
+        "wspólna akceptacja celów niż atrakcyjność interpersonalna",
+        "akceptacja wspólnych celów przez członków"
       ],
       "distractors": [
-        "efekt regresji do średniej",
-        "paradoks Pascala",
-        "hipoteza minimaksowa",
-        "efekt Langer",
-        "wyuczona bezradność",
-        "rozproszenie odpowiedzialności",
-        "efekt Rottera"
+        "atrakcyjność interpersonalna niż akceptacja celów",
+        "liczebność grupy i jej zasoby",
+        "obecność charyzmatycznego lidera",
+        "częstość kontaktów towarzyskich poza pracą",
+        "jednorodność kompetencji członków",
+        "długość wspólnej historii grupy",
+        "formalny status grupy w organizacji"
       ],
-      "explanation": "Efekt Henslina to przejaw iluzji kontroli: więcej fizycznej energii przy próbie uzyskania trudniejszego losowego wyniku.",
-      "sourceExcerpt": "Henslin effect - the psychological phenomenon where people act with more physical force or energy when trying to achieve a higher, more difficult random outcome (like a higher number on a rolled die).",
+      "explanation": "Korelacje spójności z wykonaniem sięgają od 0,12 w grupach pracowniczych do 0,54 w grach zespołowych; liczy się akceptacja celów, nie sympatia.",
+      "sourceExcerpt": "Spójność a poziom wykonania zadań. Korelacje od 0.12 w grupach pracowniczych do 0.54 w grach zespołowych. Liczy się bardziej wspólna akceptacja celów niż atrakcyjność interpersonalna.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -280,23 +279,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Tendencja do postrzegania zdarzeń losowych jako nie w pełni losowych i zakładania własnego wpływu na wynik gier losowych to:"
+        "W sieciach komunikacyjnych w grupie o skuteczności bardziej decyduje:"
       ],
       "correct": [
-        "iluzja kontroli"
+        "liczba ogniw pośrednich niż dystans fizyczny",
+        "liczba pośredników między nadawcą a odbiorcą"
       ],
       "distractors": [
-        "wyuczona bezradność",
-        "umiejscowienie kontroli",
-        "motywacja kompetencji",
-        "efekt regresji do średniej",
-        "wyuczona zaradność",
-        "rozproszenie odpowiedzialności",
-        "hipoteza minimaksowa"
+        "dystans fizyczny niż liczba ogniw pośrednich",
+        "liczebność całej grupy",
+        "formalny status nadawcy komunikatu",
+        "długość i złożoność komunikatu",
+        "atrakcyjność interpersonalna nadawcy",
+        "spójność grupy i jej normy",
+        "styl przywództwa w grupie"
       ],
-      "explanation": "Większość zadań nie jest ani w pełni losowa, ani w pełni sprawnościowa; ludzie postrzegają zdarzenia losowe jako nie w pełni losowe.",
-      "sourceExcerpt": "Iluzja kontroli. Ludzie mają tendencję do postrzegania zdarzeń losowych jako nie w pełni losowych.",
-      "difficulty": 1,
+      "explanation": "Kanały komunikacji są hierarchiczne lub demokratyczne; w sieciach liczba ogniw pośrednich jest ważniejsza niż dystans fizyczny.",
+      "sourceExcerpt": "Kanały: hierarchiczne lub demokratyczne. Sieci: liczba ogniw pośrednich ważniejsza niż dystans fizyczny.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -304,24 +304,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Zgodnie z rozumowaniem analogicznym do zakładu Pascala Ellen Langer twierdzi, że ludzie:"
+        "Sieć komunikacyjna, w której jedna uprzywilejowana osoba pośredniczy w kontaktach między pozostałymi, to:"
       ],
       "correct": [
-        "wolą zakładać, że zdarzenie jest sprawnościowe, bo to się bardziej opłaca",
-        "przyjmują, że mają wpływ, bo założenie sprawnościowe jest korzystniejsze"
+        "gwiazda"
       ],
       "distractors": [
-        "wolą zakładać, że zdarzenie jest losowe, by uniknąć odpowiedzialności",
-        "rezygnują z kontroli, gdy ryzyko jest duże",
-        "trafnie rozróżniają zdarzenia losowe i sprawnościowe",
-        "unikają gier losowych jako nieopłacalnych",
-        "przeceniają losowość zdarzeń sprawnościowych",
-        "wybierają zadania o najmniejszej trudności",
-        "uczą się bezradności w grach losowych"
+        "łańcuch",
+        "pełne koło",
+        "hierarchia",
+        "drzewo",
+        "siatka",
+        "pierścień",
+        "linia"
       ],
-      "explanation": "Myślenie jak w zakładzie Pascala: lepiej przyjąć, że coś jest sprawnościowe – dlatego ludzie zakładają, że mają wpływ na wynik gier losowych.",
-      "sourceExcerpt": "Podobne myślenie co w zakładzie Pascala można przyłożyć do tego, czy zdarzenie jest losowe, czy sprawnościowe. W świetle tego Ellen Langer mówi, że lepiej przyjąć, że coś jest sprawnościowe, dlatego zakładają, że mają wpływ na wynik gier losowych.",
-      "difficulty": 3,
+      "explanation": "Struktury sieci: łańcuch (np. wojsko), gwiazda (jedna osoba pośredniczy), pełne koło (każdy z każdym).",
+      "sourceExcerpt": "Gwiazda: jedna uprzywilejowana osoba pośredniczy w kontakcie z innymi.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -329,22 +328,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Poczucie sprawstwa kształtuje się przez doświadczanie własnej skuteczności oraz:"
+        "W eksperymencie Leavitta przy zadaniach niekreatywnych najskuteczniejszą strukturą sieci była:"
       ],
       "correct": [
-        "komunikaty werbalne"
+        "gwiazda"
       ],
       "distractors": [
-        "trening bezradności",
-        "obserwację zdarzeń losowych",
-        "nagrody materialne",
-        "porównania społeczne w górę",
-        "rozproszenie odpowiedzialności",
-        "unikanie porażek",
-        "zwiększanie trudności zadań"
+        "pełne koło",
+        "łańcuch",
+        "sieć demokratyczna",
+        "hierarchia dwupoziomowa",
+        "pierścień",
+        "siatka",
+        "drzewo"
       ],
-      "explanation": "Kształtowanie poczucia sprawstwa: doświadczanie własnej skuteczności i komunikaty werbalne.",
-      "sourceExcerpt": "Kształtowanie poczucia sprawstwa: Doświadczanie własnej skuteczności. Komunikaty werbalne.",
+      "explanation": "Skuteczność w zadaniach niekreatywnych: gwiazda > łańcuch > pełne koło; zadowolenie największe w kole.",
+      "sourceExcerpt": "Eksperyment Leavitta. Skuteczność (w zadaniach niekreatywnych): Gwiazda > Łańcuch > Pełne koło. Zadowolenie: największe w kole.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -353,22 +352,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W pierwotnym paradygmacie wyuczonej bezradności Seligmana faza testowa polega na umieszczeniu psa w:"
+        "W eksperymencie Leavitta struktura „pełne koło” dawała największe zadowolenie uczestników i przewagę przy zadaniach:"
       ],
       "correct": [
-        "skrzynce wahadłowej"
+        "kreatywnych"
       ],
       "distractors": [
-        "uprzęży z płytami",
-        "klatce Skinnera",
-        "labiryncie",
-        "otwartym polu",
-        "basenie wodnym",
-        "komorze deprywacyjnej",
-        "pokoju z lustrem"
+        "niekreatywnych",
+        "addytywnych",
+        "koniunktywnych",
+        "rutynowych",
+        "na czas",
+        "hierarchicznych",
+        "indywidualnych"
       ],
-      "explanation": "Faza treningowa: wstrząsy, których nie można uniknąć; faza testowa: skrzynka wahadłowa – pudło przedzielone przegrodą na dwie połowy.",
-      "sourceExcerpt": "Faza testowa - pies umieszczany jest w skrzynce wahadłowej (pudło przedzielone przegrodą na dwie połowy).",
+      "explanation": "Pełne koło: najniższa skuteczność w zadaniach niekreatywnych, ale największe zadowolenie i przewaga przy zadaniach kreatywnych.",
+      "sourceExcerpt": "Zadowolenie: największe w kole. Przy zadaniach kreatywnych przewagę ma koło.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -377,23 +376,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W eksperymencie z 24 psami grupa bez możliwości ucieczki otrzymywała wstrząsy:"
+        "Zjawisko, w którym pamięć grupy jest czymś więcej niż pamięć każdego z jej członków, a członkowie uzgadniają między sobą rzeczywistość (np. Indianie Tupi uzgadniający treść snów), to:"
       ],
       "correct": [
-        "sprzężone z grupą ucieczki, bez możliwości ich wyłączenia",
-        "takie same jak grupa ucieczki, ale bez kontroli nad nimi"
+        "pamięć transakcyjna"
       ],
       "distractors": [
-        "znacznie silniejsze niż psy z grupy ucieczki",
-        "losowe i nieprzewidywalne co do siły",
-        "które mogła wyłączyć dotknięciem płyty głową",
-        "wyłącznie w fazie testowej, nie treningowej",
-        "słabsze, ale znacznie częstsze niż grupa ucieczki",
-        "poprzedzane sygnałem ostrzegawczym (światłem)",
-        "podawane wyłącznie w skrzynce wahadłowej"
+        "pamięć proceduralna",
+        "spójność grupy",
+        "norma grupowa",
+        "myślenie grupowe",
+        "konformizm informacyjny",
+        "efekt fałszywej powszechności",
+        "polaryzacja grupowa"
       ],
-      "explanation": "Grupa 1 wyłączała prąd dotknięciem płyty głową; grupa 2 była z nią sprzężona (te same wstrząsy), ale nie miała możliwości ich wyłączenia; grupa 3 kontrolna.",
-      "sourceExcerpt": "Dotknięcie głowa płyty w grupie 1 – wyłączenie prądu. Psy w grupie 2 nie mają możliwości wyłączania prądu, ale są sprzężone z psami z grupy 1.",
+      "explanation": "Pamięć transakcyjna: pamięć grupy przekracza sumę pamięci członków, którzy uzgadniają rzeczywistość.",
+      "sourceExcerpt": "Pamięć transakcyjna: Pamięć grupy czymś więcej niż pamięć każdego z jej członków. Członkowie uzgadniają rzeczywistość (Indianie Tupi z Amazonii i uzgadnianie treści snów).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -402,23 +400,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Trzy rodzaje deficytów bezradnościowych to deficyty:"
+        "Podstawowym czynnikiem decydującym, czy ktoś doświadczy PTSD po klęsce żywiołowej, jest to, czy:"
       ],
       "correct": [
-        "poznawcze, motywacyjne i emocjonalne"
+        "był sam w trakcie zdarzenia",
+        "przeżywał zdarzenie samotnie czy w grupie"
       ],
       "distractors": [
-        "behawioralne, społeczne i fizjologiczne",
-        "pamięciowe, uwagowe i językowe",
-        "atrybucyjne, kontrolne i wykonawcze",
-        "lękowe, depresyjne i somatyczne",
-        "sensoryczne, motoryczne i poznawcze",
-        "wewnętrzne, zewnętrzne i mieszane",
-        "krótkotrwałe, długotrwałe i chroniczne"
+        "miał wcześniej podobne doświadczenia",
+        "był przywódcą grupy",
+        "należał do grupy formalnej",
+        "miał wewnętrzne umiejscowienie kontroli",
+        "stracił mienie",
+        "był młody",
+        "znał procedury bezpieczeństwa"
       ],
-      "explanation": "Poznawczy: niezrozumienie asocjacji reakcja–wzmocnienie; motywacyjny: mniej nowych reakcji dowolnych; emocjonalny: lęk, a potem depresja.",
-      "sourceExcerpt": "Deficyty bezradnościowe: Poznawcze, Motywacyjne, Emocjonalne.",
-      "difficulty": 1,
+      "explanation": "Wsparcie emocjonalne jako motyw przynależności do grup: w przypadku lęku, klęsk żywiołowych i PTSD podstawowym czynnikiem jest to, czy człowiek był sam.",
+      "sourceExcerpt": "Wsparcie emocjonalne (casus lęku, klęsk żywiołowych, PTSD - podstawowy czynnik, czy ktoś tego doświadczy, jest czy byli sami w trakcie doświadczenia).",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -426,22 +425,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Deficyt bezradnościowy polegający na niezdolności dostrzeżenia związku między reakcją a wzmocnieniem to deficyt:"
+        "Socjobiologiczny motyw przynależności do grup polega na tym, że:"
       ],
       "correct": [
-        "poznawczy"
+        "osoba poza grupą prawdopodobnie nie przekazała swoich genów",
+        "życie poza grupą obniżało szansę przekazania genów"
       ],
       "distractors": [
-        "motywacyjny",
-        "emocjonalny",
-        "behawioralny",
-        "atrybucyjny",
-        "społeczny",
-        "fizjologiczny",
-        "wykonawczy"
+        "grupa zapewnia prestiż i aprobatę społeczną",
+        "grupa pozwala dzielić pracę i zmniejszać obciążenia",
+        "grupa potwierdza własną wartość przez konsensus",
+        "w grupie łatwiej skutecznie przekazywać informacje",
+        "grupa redukuje lęk i daje poczucie bezpieczeństwa",
+        "grupa zaspokaja potrzebę afiliacji i aprobaty",
+        "grupa zwiększa szansę na sukces w zadaniu"
       ],
-      "explanation": "Deficyt poznawczy: nie potrafi zrozumieć asocjacji reakcja–wzmocnienie.",
-      "sourceExcerpt": "Poznawcze: nie potrafi zrozumieć asocjacji reakcja-wzmocnienie.",
+      "explanation": "Motywy przynależności: realizacja zadań, przekazywanie informacji, wsparcie emocjonalne, zaspokojenie potrzeb, potwierdzenie własnej wartości, motywy socjobiologiczne.",
+      "sourceExcerpt": "Motywy socjobiologiczne (człowiek, który nie był w grupie prawdopodobnie nie przekazał swoich genów).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -450,23 +450,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Zmniejszenie motywacji do emitowania nowych reakcji dowolnych to deficyt bezradnościowy:"
+        "Zadanie, w którym o wyniku grupy decyduje poziom najlepszego członka (np. wygenerowanie najlepszego pomysłu), to zadanie:"
       ],
       "correct": [
-        "motywacyjny"
+        "dysjunktywne"
       ],
       "distractors": [
-        "poznawczy",
-        "emocjonalny",
-        "behawioralny",
-        "atrybucyjny",
-        "społeczny",
-        "fizjologiczny",
-        "wykonawczy"
+        "koniunktywne",
+        "addytywne",
+        "kompensacyjne",
+        "konkurencyjne",
+        "hierarchiczne",
+        "dyskrecjonalne",
+        "rutynowe"
       ],
-      "explanation": "Deficyt motywacyjny: zmniejszenie motywacji do emitowania nowych reakcji dowolnych.",
-      "sourceExcerpt": "Motywacyjne: zmniejszenie motywacji do emitowania nowych reakcji dowolnych.",
-      "difficulty": 2,
+      "explanation": "Struktury zadań: addytywne (suma pracy), dysjunktywne (najlepszy członek), koniunktywne (najsłabszy członek).",
+      "sourceExcerpt": "Dysjunktywne (np. wygenerowanie najlepszego pomysłu) Kluczowy jest poziom najlepszego członka grupy.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -474,23 +474,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Emocjonalny deficyt bezradnościowy przebiega jako:"
+        "Praca na taśmie produkcyjnej, gdzie o efektywności decyduje najsłabszy członek, to przykład zadania:"
       ],
       "correct": [
-        "lęk, a potem depresja"
+        "koniunktywnego"
       ],
       "distractors": [
-        "gniew, a potem agresja",
-        "depresja, a potem lęk",
-        "apatia, a potem euforia",
-        "wstyd, a potem poczucie winy",
-        "smutek, a potem gniew",
-        "lęk, a potem wyuczona zaradność",
-        "pobudzenie, a potem obojętność"
+        "dysjunktywnego",
+        "addytywnego",
+        "kompensacyjnego",
+        "dyskrecjonalnego",
+        "konkurencyjnego",
+        "hierarchicznego",
+        "rutynowego"
       ],
-      "explanation": "Deficyt emocjonalny: najpierw lęk, potem depresja; dotyczy także bodźców pozytywnych.",
-      "sourceExcerpt": "Emocjonalne: lęk a potem depresja. Dotyczy to także pozytywnych bodźców.",
-      "difficulty": 2,
+      "explanation": "Zadanie koniunktywne: kluczowa jest efektywność najsłabszego członka grupy.",
+      "sourceExcerpt": "Koniunktywne (np. praca na taśmie) Kluczowa efektywność najsłabszego członka grupy.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -498,24 +498,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W badaniu Finkelsteina i Ramey niemowlęta, których „mobile” poruszały się losowo, niezależnie od ruchów głowy:"
+        "Zadanie, którego wynik jest sumą pracy wszystkich członków grupy (np. skręcanie długopisów), to zadanie:"
       ],
       "correct": [
-        "nie potrafiły później nauczyć się sterowania mobilem",
-        "nie uczyły się później kontroli nad mobilem"
+        "addytywne"
       ],
       "distractors": [
-        "uczyły się sterowania szybciej niż grupa kontrolna",
-        "wykazywały większą aktywność ruchową",
-        "nie różniły się od niemowląt sterujących mobilem",
-        "rozwinęły silniejszą motywację kompetencji",
-        "płakały rzadziej niż pozostałe",
-        "szybciej traciły zainteresowanie mobilem",
-        "preferowały mobile nieruchome"
+        "dysjunktywne",
+        "koniunktywne",
+        "kompensacyjne",
+        "dyskrecjonalne",
+        "konkurencyjne",
+        "hierarchiczne",
+        "rutynowe"
       ],
-      "explanation": "Niemowlęta, u których mobile ruszały się losowo, nie mogły się później nauczyć sterowania nimi – wczesny brak kontroli wyucza bezradność.",
-      "sourceExcerpt": "Filkenstein & Ramey (1977) - niektóre niemowlaki sterowały „mobilami” ruchem głowy - te, u których mobile ruszały się losowo, nie mogły się tego nauczyć później.",
-      "difficulty": 2,
+      "explanation": "Zadanie addytywne: wynik to suma pracy członków grupy.",
+      "sourceExcerpt": "Addytywne (np. skręcanie długopisów) Suma pracy członków grupy.",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -523,24 +522,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Według Chorpity i Barlowa wczesne doświadczenie ograniczonej kontroli sprzyja:"
+        "Zróżnicowanie kompetencji i umiejętności członków grupy ma największe znaczenie przy zadaniach:"
       ],
       "correct": [
-        "interpretowaniu zdarzeń jako zagrożenia i podatności na lęki",
-        "widzeniu w zdarzeniach zagrożenia (nie wyzwania) oraz lękliwości"
+        "dysjunktywnych"
       ],
       "distractors": [
-        "interpretowaniu zdarzeń jako wyzwania i odporności na stres",
-        "wzrostowi motywacji osiągnięć w późniejszym życiu",
-        "wykształceniu wewnętrznego umiejscowienia kontroli",
-        "wyuczonej zaradności w sytuacjach stresowych",
-        "rozwojowi iluzji kontroli nad zdarzeniami losowymi",
-        "większej skłonności do podejmowania ryzyka",
-        "obniżeniu poczucia odpowiedzialności za innych"
+        "koniunktywnych",
+        "addytywnych",
+        "rutynowych",
+        "kompensacyjnych",
+        "hierarchicznych",
+        "konkurencyjnych",
+        "sekwencyjnych"
       ],
-      "explanation": "Chorpita i Barlow (1998): wczesne doświadczenie ograniczonej kontroli może sprzyjać stylowi poznawczemu interpretującemu zdarzenia jako zagrożenie oraz podatności na lęki.",
-      "sourceExcerpt": "„Wczesne doświadczenie ograniczonej kontroli może sprzyjać stylowi poznawczemu sprzyjającemu interpretowaniu zdarzeń w kategoriach zagrożenia (vs. wyzwania) oraz podatności na lęki”",
-      "difficulty": 3,
+      "explanation": "Przy zadaniach dysjunktywnych liczy się najlepszy członek w danej dziedzinie, więc zróżnicowanie kompetencji jest najważniejsze.",
+      "sourceExcerpt": "Zróżnicowanie kompetencji i umiejętności najważniejsze przy dysjunktywnych (np. quiz z wielu dyscyplin).",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -548,24 +546,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Atrybucyjne ujęcie bezradności zakładało, że bezradność nie wyucza się, gdy porażkę przypisujemy pechowi. Badania empiryczne pokazały, że:"
+        "Styl przywództwa, w którym przywódca nie wtrąca się w działania grupy („anty-przywództwo”), to styl:"
       ],
       "correct": [
-        "przyczyna przypisywana porażce nie ma znaczenia dla wyuczenia bezradności",
-        "rodzaj atrybucji porażki nie wpływa na powstanie bezradności"
+        "liberalny"
       ],
       "distractors": [
-        "bezradność wyucza się tylko przy atrybucji wewnętrznej",
-        "atrybucja do pecha całkowicie chroni przed bezradnością",
-        "bezradność powstaje wyłącznie przy atrybucji stałej",
-        "atrybucja zewnętrzna nasila bezradność",
-        "ujęcie atrybucyjne w pełni się potwierdziło",
-        "bezradność zależy od umiejscowienia kontroli",
-        "atrybucja ma znaczenie tylko u zwierząt"
+        "demokratyczny",
+        "autokratyczny",
+        "transakcyjny",
+        "transformacyjny",
+        "charyzmatyczny",
+        "zadaniowy",
+        "paternalistyczny"
       ],
-      "explanation": "Ujęcie atrybucyjne okazało się nieprawdziwe: badania empiryczne mówią, że przyczyna przypisywana niepowodzeniu nie ma znaczenia.",
-      "sourceExcerpt": "Ujęcie atrybucyjne - zakładało, że istotne jest jaka jest przyczyna niepowodzenia: Jeśli uważam, że to pech, to bezradność się nie wyucza. Jest to jednak nieprawda ← badania empiryczne mówią, że nie ma to znaczenia.",
-      "difficulty": 3,
+      "explanation": "Trzy klasyczne style: demokratyczny (konsensus), autokratyczny (rozkazy bez konsultacji), liberalny (nie wtrąca się).",
+      "sourceExcerpt": "Liberalny (anty-przywództwo - przywódca się nie wtrąca w działania grupy).",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -573,24 +570,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Kofta i Sędek wyjaśniają wyuczoną bezradność przez:"
+        "Przywódca poszukujący konsensusu z członkami grupy reprezentuje styl:"
       ],
       "correct": [
-        "zmęczenie (wyczerpanie) poznawcze",
-        "wyczerpanie poznawcze"
+        "demokratyczny"
       ],
       "distractors": [
-        "atrybucję porażek do pecha",
-        "zewnętrzne umiejscowienie kontroli",
-        "deficyt motywacji kompetencji",
-        "rozproszenie odpowiedzialności",
-        "hipotezę minimaksową",
-        "iluzję kontroli",
-        "wyparcie porażek"
+        "autokratyczny",
+        "liberalny",
+        "transakcyjny",
+        "zadaniowy",
+        "charyzmatyczny",
+        "autorytarny",
+        "paternalistyczny"
       ],
-      "explanation": "Kofta i Sędek: bezradność jako zmęczenie/wyczerpanie poznawcze, badane w eksperymencie z „klipcem”.",
-      "sourceExcerpt": "Zmęczenie/wyczerpanie poznawcze - Kofta & Sędek.",
-      "difficulty": 2,
+      "explanation": "Styl demokratyczny: przywódca poszukuje konsensusu; autokratyczny: rozkazy bez konsultacji.",
+      "sourceExcerpt": "Demokratyczny (przywódca poszukuje konsensusu z członkami grupy), autokratyczny (rozkazy bez konsultacji).",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -598,23 +594,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "W eksperymencie Kofty i Sędka grupa, której pokazywano zestaw symboli bez wspólnej cechy definiującej „klipca”, w kolejnym zadaniu:"
+        "„Wybitni przywódcy” według badań wyróżniają się przede wszystkim:"
       ],
       "correct": [
-        "wolniej odkrywała wzorzec (była „zmęczona poznawczo”)",
-        "gorzej odkrywała, który guzik wyłącza dźwięk"
+        "większą pewnością siebie",
+        "pewnością siebie"
       ],
       "distractors": [
-        "szybciej odkrywała wzorzec dzięki wcześniejszemu treningowi",
-        "nie różniła się od grupy z jedną cechą wspólną",
-        "odmawiała dalszego udziału w zadaniu",
-        "naciskała guziki przypadkowo, ale równie skutecznie",
-        "wykazywała silniejszą iluzję kontroli",
-        "lepiej znosiła drażniące dźwięki",
-        "zapamiętała więcej symboli"
+        "znacznie wyższą inteligencją",
+        "większą ugodowością",
+        "wyższą empatią",
+        "większym doświadczeniem zawodowym",
+        "wyższym wzrostem",
+        "większą ekstrawersją",
+        "silniejszą potrzebą afiliacji"
       ],
-      "explanation": "Grupa „zmęczona poznawczo” (brak wspólnej cechy „klipca”) nie odkrywała równie szybko, który guzik wyłącza drażniący dźwięk.",
-      "sourceExcerpt": "Druga grupa była „zmęczona poznawczo”. W następnej fazie obu grupom kazano nacisnąć jeden z guzików na podstawie świecących się lampek, by wyłączyć drażniące dźwięki. Pierwsza grupa rozpoznawała szybko, jaki guzik na jakie światełka, druga grupa nie odkrywała wzorca równie szybko.",
+      "explanation": "Wybitni przywódcy są zwykle nieco bardziej inteligentni (różnica zaniedbywalna), ale wyraźnie bardziej pewni siebie.",
+      "sourceExcerpt": "„Wybitni przywódcy” wg badań są zwykle nieco bardziej inteligentni (zaniedbywalnie), ale bardziej pewni siebie.",
       "difficulty": 2,
       "status": "ok"
     },
@@ -623,23 +619,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Gdy pies najpierw mógł wpływać na rażenie prądem, a dopiero potem tego nie mógł, nie przestawał próbować. Zjawisko to (Seligman i Maier) nazywa się:"
+        "Przywództwo dostarczające grupie wizji, formułujące cele cząstkowe i motywujące do przekraczania codziennych celów to przywództwo:"
       ],
       "correct": [
-        "wyuczoną zaradnością"
+        "transformacyjne"
       ],
       "distractors": [
-        "wyuczoną bezradnością",
-        "iluzją kontroli",
-        "motywacją kompetencji",
-        "wewnętrznym umiejscowieniem kontroli",
-        "efektem Henslina",
-        "zmęczeniem poznawczym",
-        "regresją do średniej"
+        "transakcyjne",
+        "liberalne",
+        "autokratyczne",
+        "demokratyczne",
+        "zadaniowe",
+        "prawomocne",
+        "fachowe"
       ],
-      "explanation": "Wyuczona zaradność: odwrócona kolejność treningu bezradności uodparnia na późniejszy brak kontroli.",
-      "sourceExcerpt": "Wyuczona zaradność. Seligman & Maier. Gdy odwrócono kolejność treningu bezradności (najpierw pies mógł wpływać na rażenie prądem, potem nie mógł, ale nie przestawał próbować).",
-      "difficulty": 1,
+      "explanation": "Przywództwo charyzmatyczne/transformacyjne: długodystansowe aspiracje, cele cząstkowe, wizja; transakcyjne: reagowanie na potrzeby i problemy.",
+      "sourceExcerpt": "Charyzmatyczne: transformacyjne. Długodystansowe aspiracje, formułuje cele cząstkowe, dostarcza grupie wizji, motywuje do przekraczania codziennych celów.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -647,22 +643,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Zdolność działającego podmiotu do wywołania lub wstrzymania jakiegoś zdarzenia to w modelu Rothbauma:"
+        "Przywództwo polegające na reagowaniu na potrzeby i interweniowaniu, gdy pojawiają się (lub są przewidywane) problemy, to przywództwo:"
       ],
       "correct": [
-        "wystarczalność"
+        "transakcyjne"
       ],
       "distractors": [
-        "konieczność",
-        "kontrola",
-        "odpowiedzialność",
-        "sprawstwo",
-        "skuteczność",
-        "umiejscowienie kontroli",
-        "zaradność"
+        "transformacyjne",
+        "liberalne",
+        "autokratyczne",
+        "demokratyczne",
+        "charyzmatyczne",
+        "zadaniowe",
+        "prawomocne"
       ],
-      "explanation": "Wystarczalność: zdolność podmiotu do wywołania lub wstrzymania zdarzenia; konieczność: brak takiej wystarczalności u innych.",
-      "sourceExcerpt": "WYSTARCZALNOŚĆ to zdolność działającego podmiotu do wywołania lub wstrzymania jakiegoś zdarzenia.",
+      "explanation": "Przywództwo transakcyjne: reagowanie na potrzeby, interwencja przy problemach.",
+      "sourceExcerpt": "Transakcyjne: Reagowanie na potrzeby, interweniujący, gdy pojawiają się problemy (lub gdy je przewiduje).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -671,22 +667,22 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Brak wystarczalności u innych ludzi (nikt inny nie może zareagować) to w modelu Rothbauma:"
+        "Podstawę władzy dodaną później przez Ravena do klasyfikacji Frencha i Ravena stanowi:"
       ],
       "correct": [
-        "konieczność"
+        "dostęp do informacji"
       ],
       "distractors": [
-        "wystarczalność",
-        "kontrola",
-        "odpowiedzialność",
-        "rozproszenie",
-        "sprawstwo",
-        "bezradność",
-        "zaradność"
+        "przymus i kary",
+        "nagradzanie",
+        "prawomocność",
+        "fachowość (ekspercka)",
+        "akceptacja grupy",
+        "charyzma osobista",
+        "tradycja i zwyczaj"
       ],
-      "explanation": "Konieczność to brak wystarczalności u innych ludzi.",
-      "sourceExcerpt": "KONIECZNOŚĆ to brak takiej wystarczalności u innych ludzi.",
+      "explanation": "Podstawy władzy (French i Raven): przymus, nagradzanie, prawomocność, fachowość, akceptacja grupy oraz dodany później dostęp do informacji.",
+      "sourceExcerpt": "Dostęp do informacji (Raven dodał tę podstawę później).",
       "difficulty": 2,
       "status": "ok"
     },
@@ -695,23 +691,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Informacja o własnej wystarczalności (np. „mam koło ratunkowe”) wpływa bardziej na sąd o:"
+        "Władza oparta na przymusie (zdolności używania kar) powoduje u podwładnych:"
       ],
       "correct": [
-        "kontroli niż o odpowiedzialności"
+        "obniżenie poczucia własnej wartości, niską satysfakcję i brak poczucia kontroli",
+        "spadek samooceny i satysfakcji oraz utratę poczucia kontroli"
       ],
       "distractors": [
-        "odpowiedzialności niż o kontroli",
-        "winie niż o kontroli",
-        "kompetencji niż o kontroli",
-        "odpowiedzialności niż o skuteczności",
-        "ryzyku niż o odpowiedzialności",
-        "losowości niż o kontroli",
-        "sprawczości innych niż o własnej"
+        "wzrost poczucia własnej wartości i produktywności",
+        "wzrost zadowolenia i poczucia sprawstwa",
+        "wzrost produktywności bez zmian w poczuciu kontroli",
+        "pozytywne relacje z osobą sprawującą władzę",
+        "brak zaufania przy wysokiej satysfakcji",
+        "wzrost poczucia sprawstwa przy spadku produktywności",
+        "wzrost samooceny przy spadku satysfakcji"
       ],
-      "explanation": "Wystarczalność wpływa bardziej na sąd o kontroli; konieczność (np. „inny ratownik już płynie”) bardziej na sąd o odpowiedzialności.",
-      "sourceExcerpt": "Informacja o wielkości wystarczalności (mam koło ratunkowe) ma większy wpływ na sąd o kontroli niż odpowiedzialności. Informacja o wielkości konieczności (inny ratownik już do niego płynie) ma większy wpływ na sąd o odpowiedzialności niż kontroli.",
-      "difficulty": 3,
+      "explanation": "Przymus: u władcy wzrost poczucia własnej wartości, u podwładnego jego obniżenie, niska satysfakcja i brak poczucia kontroli.",
+      "sourceExcerpt": "Przymus - zdolność używania kar. władca - wzrost poczucia własnej wartości. podwładny - obniżenie poczucia własnej wartości, niska satysfakcja, brak poczucia kontroli.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -719,23 +716,24 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Rozproszenie odpowiedzialności (gdy wiele osób może zareagować, często nikt nie reaguje) wiąże się ze spostrzeganiem:"
+        "Władza oparta na nagradzaniu zwiększa produktywność podwładnych, ale:"
       ],
       "correct": [
-        "wysokiej wystarczalności innych ludzi"
+        "bez wzrostu poczucia sprawstwa i wewnętrznej kontroli",
+        "nie podnosi ich poczucia sprawstwa"
       ],
       "distractors": [
-        "niskiej wystarczalności innych ludzi",
-        "własnej wysokiej konieczności",
-        "własnej niskiej wystarczalności",
-        "wysokiego ryzyka osobistego",
-        "zewnętrznego umiejscowienia kontroli",
-        "niskiej spójności grupy",
-        "wysokiej odpowiedzialności własnej"
+        "obniża ich poczucie własnej wartości",
+        "obniża poczucie własnej wartości władcy",
+        "prowadzi do braku zaufania interpersonalnego",
+        "ogranicza się do bardzo wąskiej sfery",
+        "obniża jakość funkcjonowania zadaniowego",
+        "zwiększa skłonność władcy do kompromisu",
+        "zwiększa zadowolenie wyłącznie u władcy"
       ],
-      "explanation": "Rozproszenie odpowiedzialności to jeden z dwóch wyjątków od związku kontroli z odpowiedzialnością; wiąże się z postrzeganiem wysokiej wystarczalności innych.",
-      "sourceExcerpt": "Rozproszenie odpowiedzialności - jeśli wiele osób może zareagować, często nikt nie reaguje. Rozproszenie odpowiedzialności wiąże się ze spostrzeganiem wysokiej wystarczalności innych ludzi.",
-      "difficulty": 2,
+      "explanation": "Nagradzanie: wzrost poczucia własnej wartości u obu stron, wzrost produktywności podwładnych, ale bez wzrostu sprawstwa i wewnętrznej kontroli.",
+      "sourceExcerpt": "Nagradzanie. Wzrost poczucia własnej wartości u obu. Wzrost produktywności u podwładnych, ale bez wzrostu poczucia sprawstwa i wewnętrznej kontroli.",
+      "difficulty": 3,
       "status": "ok"
     },
     {
@@ -743,24 +741,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Osoby w depresji, według modelu Rothbauma, odczuwają:"
+        "Podstawa władzy, która jest ograniczona do pewnych sfer i wiąże się ze wzrostem zadowolenia oraz sprawstwa u podwładnych, to:"
       ],
       "correct": [
-        "ogromną odpowiedzialność mimo braku poczucia kontroli",
-        "wysoką odpowiedzialność przy niskiej kontroli"
+        "prawomocność"
       ],
       "distractors": [
-        "wysoką kontrolę przy braku odpowiedzialności",
-        "niską odpowiedzialność i niską kontrolę",
-        "wysoką kontrolę i wysoką odpowiedzialność",
-        "rozproszenie odpowiedzialności na innych",
-        "wysoką wystarczalność innych ludzi",
-        "brak zarówno konieczności, jak i odpowiedzialności",
-        "iluzję kontroli nad zdarzeniami losowymi"
+        "przymus",
+        "nagradzanie",
+        "fachowość",
+        "akceptacja grupy",
+        "dostęp do informacji",
+        "charyzma",
+        "tradycja"
       ],
-      "explanation": "Depresja to drugi wyjątek: spostrzeganie niskiej wystarczalności innych implikuje spostrzeganie własnej wysokiej konieczności, a więc odpowiedzialności mimo braku kontroli.",
-      "sourceExcerpt": "Depresja - ludzie w depresji czują ogromną odpowiedzialność, mimo braku poczucia kontroli. W depresji spostrzeganie niskiej wystarczalności innych implikuje spostrzeganie własnej wysokiej konieczności.",
-      "difficulty": 3,
+      "explanation": "Prawomocność: władza ograniczona do pewnych sfer; wzrost zadowolenia i sprawstwa u podwładnych.",
+      "sourceExcerpt": "Prawomocność. Władza ograniczona do pewnych sfer. Wzrost zadowolenia i sprawstwa u podwładnych.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -768,24 +765,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Hipoteza, według której główną motywacją człowieka jest zminimalizowanie prawdopodobieństwa najgorszych zdarzeń, co bywa osiągane przez rezygnację z kontroli, to:"
+        "Władza dentysty nad pacjentem jest przykładem władzy opartej na:"
       ],
       "correct": [
-        "hipoteza minimaksowa (Miller)",
-        "hipoteza minimaksowa"
+        "fachowości"
       ],
       "distractors": [
-        "koncepcja źródła i pionka",
-        "model Rothbauma",
-        "motywacja kompetencji",
-        "paradoks Pascala",
-        "koncepcja Burgera",
-        "teoria umiejscowienia kontroli",
-        "wyuczona bezradność"
+        "przymusie",
+        "nagradzaniu",
+        "prawomocności",
+        "akceptacji grupy",
+        "dostępie do informacji",
+        "charyzmie",
+        "tradycji"
       ],
-      "explanation": "Miller: hipoteza minimaksowa – rezygnacja z kontroli pozwala zminimalizować ryzyko najgorszego scenariusza.",
-      "sourceExcerpt": "Miller – hipoteza minimaksowa - główna motywacja człowieka to zminimalizowanie prawdopodobieństwa wydarzenia się najgorszych rzeczy - można osiągnąć ten scenariusz rezygnując z kontroli.",
-      "difficulty": 2,
+      "explanation": "Fachowość: sfera władzy bardzo ograniczona, np. władza dentysty nad pacjentem.",
+      "sourceExcerpt": "Fachowość. Sfera bardzo ograniczona (np. władza dentysty nad pacjentem).",
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -793,23 +789,23 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Różnice indywidualne w nasileniu potrzeby sprawowania kontroli jako perspektywa wyjaśniająca rezygnację z kontroli wiążą się z nazwiskiem:"
+        "Podstawa władzy dająca pozytywne relacje między władzą a podwładnym, ale mogąca obniżać jakość zadaniowego funkcjonowania podwładnych, to:"
       ],
       "correct": [
-        "Burgera"
+        "akceptacja grupy"
       ],
       "distractors": [
-        "Millera",
-        "Rothbauma",
-        "Rottera",
-        "Seligmana",
-        "deCharmsa",
-        "White'a",
-        "Langer"
+        "przymus",
+        "nagradzanie",
+        "prawomocność",
+        "fachowość",
+        "dostęp do informacji",
+        "charyzma",
+        "tradycja"
       ],
-      "explanation": "Burger: różnice indywidualne w potrzebie kontroli; Miller: hipoteza minimaksowa; dodatkowo egotystyczne podstawy rezygnacji z kontroli (mały zysk, duże ryzyko).",
-      "sourceExcerpt": "Burger – różnice indywidualne w nasileniu potrzeby sprawowania kontroli.",
-      "difficulty": 3,
+      "explanation": "Akceptacja grupy: pozytywne relacje, ale możliwe obniżenie jakości funkcjonowania zadaniowego.",
+      "sourceExcerpt": "Akceptacja grupy. Pozytywne relacje między władzą a podwładnym, może obniżać jakość zadaniowego funkcjonowania podwładnych.",
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -817,23 +813,122 @@
       "bookId": "wyklady-psychologia-spoleczna",
       "chapterId": "wyklad-2",
       "stems": [
-        "Egotystyczne podstawy rezygnacji ze sprawowania kontroli polegają na tym, że ludzie:"
+        "Władza oparta na dostępie do informacji (np. szantaż) skutkuje:"
       ],
       "correct": [
-        "nie chcą brać na siebie spraw o małym zysku i dużym ryzyku",
-        "unikają spraw mało zyskownych, a ryzykownych"
+        "brakiem zaufania i bardzo niską satysfakcją podwładnych",
+        "utratą zaufania oraz bardzo niską satysfakcją"
       ],
       "distractors": [
-        "przeceniają własny wpływ na zdarzenia losowe",
-        "odczuwają zbyt silną potrzebę sprawowania kontroli",
-        "ulegają zmęczeniu poznawczemu po porażkach",
-        "przypisują swoje porażki pechowi i przypadkowi",
-        "dążą do maksymalizacji własnej wystarczalności",
-        "czują odpowiedzialność mimo braku kontroli",
-        "preferują zadania o średniej trudności"
+        "wzrostem zadowolenia i sprawstwa u podwładnych",
+        "wzrostem poczucia własnej wartości u obu stron",
+        "wzrostem produktywności bez wzrostu sprawstwa",
+        "pozytywnymi relacjami między obiema stronami",
+        "ograniczeniem władzy do bardzo wąskiej sfery",
+        "wzrostem spójności całej grupy",
+        "większą skłonnością władcy do kompromisu"
       ],
-      "explanation": "Egotystyczne podstawy rezygnacji z kontroli: ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.",
-      "sourceExcerpt": "Egotystyczne podstawy rezygnacji ze sprawowania kontroli: np. ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.",
+      "explanation": "Dostęp do informacji (np. szantaż): brak zaufania interpersonalnego i bardzo niska satysfakcja podwładnych.",
+      "sourceExcerpt": "Dostęp do informacji (Np. szantaż) Brak zaufania interpersonalnego i bardzo niska satysfakcja podwładnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-35",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W eksperymencie Galinsky'ego osoby, które przypominały sobie posiadanie władzy, w porównaniu z przypominającymi sobie podleganie władzy:"
+      ],
+      "correct": [
+        "częściej wyłączały przeszkadzający wentylator",
+        "częściej usuwały przeszkadzający im bodziec"
+      ],
+      "distractors": [
+        "rzadziej wyłączały przeszkadzający wentylator",
+        "osiągały gorsze wyniki w teście",
+        "częściej prosiły eksperymentatora o pomoc",
+        "rysowały literę E w perspektywie innych",
+        "częściej szły na kompromis",
+        "wykazywały większe zaufanie do innych",
+        "nie różniły się zachowaniem"
+      ],
+      "explanation": "70% osób przypominających sobie posiadanie władzy wyłączyło przeszkadzający wentylator wobec 40% w grupie przypominającej sobie podleganie władzy.",
+      "sourceExcerpt": "70% osób, które przypominały sobie posiadanie władzy wyłączyło wentylator. 40% osób, które przypominały sobie podleganie władzy wyłączyło wentylator.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-36",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "W eksperymencie z rysowaniem litery E na czole osoby w warunkach władzy częściej rysowały ją:"
+      ],
+      "correct": [
+        "w perspektywie widocznej dla siebie (dla innych lustrzanie)",
+        "tak, by sami mogli ją odczytać"
+      ],
+      "distractors": [
+        "w perspektywie czytelnej dla obserwatora",
+        "wyraźnie mniejszą niż pozostali badani",
+        "z zamkniętymi oczami, bez namysłu",
+        "na czole innego uczestnika badania",
+        "dwukrotnie, dla pewności odczytu",
+        "lustrzanie względem własnej perspektywy",
+        "z wyraźnym opóźnieniem po namyśle"
+      ],
+      "explanation": "Władza zmniejsza przyjmowanie perspektywy innych: w warunkach władzy trzykrotnie częściej odmawiano i trzykrotnie częściej rysowano E „dla siebie”.",
+      "sourceExcerpt": "Kazano narysować sobie na czole literę E. 3 x odmowa grupy w warunkach władzy, wśród rysujących 3 x rysowali w perspektywie „widocznej dla siebie” - odbicie lustrzane.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-37",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Im większe dysproporcje władzy, tym strona dominująca:"
+      ],
+      "correct": [
+        "rzadziej idzie na kompromis i stereotypizuje podwładnych",
+        "jest mniej skłonna do kompromisu i widzi podwładnych stereotypowo"
+      ],
+      "distractors": [
+        "bardziej skłonna jest do kompromisu z podwładnymi",
+        "bardziej ufa podwładnym i ich ocenom",
+        "częściej deleguje kontrolę na podwładnych",
+        "dokładniej indywidualizuje ocenę podwładnych",
+        "częściej dobrowolnie rezygnuje z władzy",
+        "bardziej obawia się utraty swojej pozycji",
+        "rzadziej sięga po przymus i kary"
+      ],
+      "explanation": "Im większe dysproporcje władzy, tym mniejsza skłonność strony dominującej do kompromisu i większa do postrzegania podwładnych jako zewnątrzsterownych stereotypów.",
+      "sourceExcerpt": "Im większe dysproporcje władzy, tym mniejsza skłonność strony dominującej do kompromisu. Większa do postrzegania podwładnych jako zewnątrzsterownych stereotypów.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-2-38",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-2",
+      "stems": [
+        "Eksperyment Stricklanda pokazuje, że gdy zaczynamy sprawdzać (kontrolować) ludzi, to:"
+      ],
+      "correct": [
+        "tracimy do nich zaufanie"
+      ],
+      "distractors": [
+        "zaczynają pracować wydajniej",
+        "rośnie ich poczucie sprawstwa",
+        "zaczynamy im bardziej ufać",
+        "rośnie spójność grupy",
+        "zmniejsza się dystans władzy",
+        "częściej idą na kompromis",
+        "rośnie ich satysfakcja"
+      ],
+      "explanation": "Strickland: kontrolowanie ludzi prowadzi do utraty zaufania do nich.",
+      "sourceExcerpt": "Eksperyment Stricklanda: Jeśli zaczynamy sprawdzać (kontrolować) ludzi, to tracimy do nich zaufanie.",
       "difficulty": 2,
       "status": "ok"
     }

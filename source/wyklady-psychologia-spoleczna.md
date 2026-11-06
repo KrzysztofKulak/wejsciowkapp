@@ -115,7 +115,7 @@ W eksperymencie ludzie którzy robili aktywności (układanie liter w słowa) pr
 
   Niekoniecznie cechy osobowości dyktują zachowanie ludzi - wpływ ma jakie elementy naszej wiedzy zostaną wzbudzone.
 
-# Wykład 2
+# Wykład 1
 
 15:15 - 16:30
 
@@ -333,7 +333,7 @@ PRZYKŁADOWE PERSPEKTYWY:
 
 Egotystyczne podstawy rezygnacji ze sprawowania kontroli: np. ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.
 
-# i Wykład 3 – Grupy i ich funkcjonowanie.
+# i Wykład 2 – Grupy i ich funkcjonowanie.
 
 16:30 - 16:45 (końcówka) i 13:30-15:00
 
@@ -526,7 +526,7 @@ eksperyment Stricklanda:
 
 Jeśli zaczynamy sprawdzać (kontrolować) ludzi, to tracimy do nich zaufanie.
 
-# Wykład 4 – Ja i inni. Atrybucja
+# i Wykład 3 – Ja i inni. Atrybucja
 
 > 14:45-15:00
 
@@ -575,3 +575,229 @@ obserwator ← szuka przyczyn zachowań aktora w cechach aktora
 Aktor łatwiej widzi wpływ zewnętrznych czynników na swoje zachowanie.
 
 ## Błędy i biasy w atrybucji
+
+Biasy:
+
+- podstawowy błąd atrybucji
+- skłonność do upatrywania sukcesów w sobie, porażek na zewnątrz
+- wiedza o jednej przyczynie powoduje umniejszanie wpływu innych (reguła pomniejszania/powiększania Kelleya)
+- skłonność do przeceniania w retrospekcji tego, co się stało (Fischof)
+- skłonność do upatrywania przyczyn w dostępnych zmysłowo, narzucających się cechach sytuacji (umarł na raka płuc, bo palił)
+- efekt fałszywej powszechności
+## Poznawcze vs. motywacyjne przyczyny błędów i biasów
+
+## Poziomy wnioskowania o odpowiedzialność wg Heidera:
+
+1. Asocjacja (młodzi Niemcy odpowiedzialni za drugą wojnę światową)
+2. Przyczynowość (przyczynienie się, bez patrzenia na możliwość przewidzenia)
+3. Przewidywalność
+4. Intencjonalność
+5. Usprawiedliwialność 
+Małe dzieci rozwojowo używają kolejnych poziomów.
+
+## Alternatywne modele atrybucji odpowiedzialności:
+
+### Walster - Człowiek jako prawnik
+
+Oceniamy człowieka w kontekście następstw jego czynów: jeżeli nieprzewidziane konsekwencje były poważniejsze, ocena jest surowsza, nawet przy tym samym czynie.
+
+### Shaver - koncepcja atrybucji defensywnej
+
+Podświadomie zmniejszamy lub zwiększamy obwinianie innych ludzi za ich nieszczęścia, aby ochronić własne poczucie bezpieczeństwa i sprawiedliwości świata. ← sprawdzić jak jest w podręczniku
+
+### Obserwator neutralny vs ofiara
+
+Inne oceny
+
+## Atrybucja a zachowanie
+
+Badania Bernarda Weinera o altruizmie
+
+Bardzo ważnym wymiarem atrybucyjnym jest umiejscowienie - zewnętrzne/wewnętrzne. Chętniej pomagamy, jak problem jest zewnętrzny.
+
+Eksperymenty Marka Snydera
+
+Patrzysz na ludzi, którzy jedzą w knajpie i którzy posolili swoje jedzenie, z rozróżnieniem czy ktoś posolił zanim zaczął jeść, czy w trakcie jedzenia. Dają tym osobom po jedzeniu kwestionariusz Nisbetta i na końcu pyta, czemu posolił.
+
+> 
+
+  Idea kwestionariusza Nisbetta
+
+  20 triad:
+
+  wesoły-poważny-w zależności od sytuacji
+
+  oszczędny-hojny w zależności od sytuacji
+
+  …
+
+  wybierz to, co Cię najlepiej określa.
+
+  - Koncepcja Pragmatyzmu-pryncypializmu 
+  Pryncypalista (zachowuje się zgodnie z przekonaniami, zaznacza dwa razy więcej cech), a pragmatyk (dostosuje się do sytuacji)
+
+Pryncypalista soli, bo lubi słone picie.
+Pragmatyk mówi, że soli bo jest niesłone. 
+
+## Błędna atrybucja
+
+Bezsenność i efekt odwróconego placebo.
+
+> 
+
+  Nocebo - doświadczanie negatywnych efektów, bo się tego spodziewają, mimo że lek nie działał w ogóle.
+
+Studenci z bezsennością
+
+Wypełnia dzienniczek o trudnościach w spaniu i uczuciach po spaniu
+
+- grupa kontrolna
+- grupa placebo
+  dostają tabletki nieaktywne
+
+- grupa odwróconego placebo
+  mówią, że będą robili badania kontrastowe, i trzeba brać tabletki, które mogą zwiększać stres i napięcie
+
+Najlepiej spali z odwróconym placebo, bo mogli przypisać swój istniejący stres tabletkom.
+
+Podobny efekt przy terapii nikotynowej i seksualnej (eksperyment z klamką), terapia fobii
+
+> 
+
+  “I było super. Nie mówię tego proszę państwa ani jako terapeuta, ani jako uczestnik”
+
+# Wykład 4. Ja i inni. Schematy wnioskować o cechach.
+
+## Asymetria moralność-sprawność
+
+W percepcji ludzi wysoka sprawność sugeruje wysoką umiejętność, niska sprawność nie sugeruje niskiej umiejętności (mógł mieć zły dzień). Złe sprawność nie jest diagnostyczne.
+
+W moralności na odwrót → jedno niemoralne zachowanie świadczy o niemoralności, a bardzo moralne zachowanie nie mówi, że ktoś nie jest niemoralny. 
+
+## Ukryte teorie osobowości
+
+sieć powiązań w systemie poznawczy podmiotu, dotycząca związków między określonymi cechami osobowości
+
+*np. “Jeśli rudy, to fałszywy”*
+
+### Asch - cechy centralne
+
+Niektóre cechy zdają się definiować osobę w szerszym stopniu, niż ta cecha powinna.
+
+ciepły - zimny → świadczy od razu o innych cechach osoby. Zręczny - niezręczny już nie.
+
+### Przykłady ukrytych teorii osobowości:
+
+#### “Co jest piękne jest dobre”
+
+**Eksperymenty Walster**
+
+Kobiety deklarowały, że wygląd zewnętrzny mężczyzny nie ma znaczenia. Umawiano je z atrakcyjnym mężczyzną. Na część randek robiono mu niefortunną charakteryzację, ale standaryzowano zachowanie. Pytano potem o ocenę cech: był uważany za bardziej inteligentnego, szarmanckiego itp., gdy prezentował się przystojniej.
+
+**Eksperyment Sigall i Ostrove’a**
+
+Opowiadano historie o przestępczyniach i pokazywano ich zdjęcia.
+
+Dla atrakcyjnej włamywaczki proponowano niższą karę niż nieatrakcyjnej.
+
+Dla atrakcyjnej oszustki (wyłudzenie) proponowano wyższą karę niż dla nieatrakcyjnej. 
+
+### **Inferencje ze wzrostu (mężczyzny)**
+
+W USA w wyborach dwa razy częściej wybierany jest wyższy kandydat (wszyscy poza dwoma wg Kornackiego, 58 % wg Wikipedii)
+
+### **Inferencje z wagi ciała**
+
+#### “Co jest brzydkie jest złe”
+
+### Efekt halo (efekt aureoli vs efekt diabelski)
+
+Efekt diabelski jest słabszy od efektu aureoli
+
+Dlaczego?
+
+Odległość afektywna vs deskryptywna:
+
+> Skąpy - oszczędny - hojny - rozrzutny
+Konformistyczny - ugodowy - niezależny - sprzeciwiający się
+
+Absolutnie skrajne cechy - są raczej negatywne.
+
+Odległość deskryptywna → jak daleko są słowa od siebie (skąpy 0 → rozrzutny 1)
+
+Odległość afektywna → jaki jest efekt (skąpy i rozrzutny → odległość jest mała, skąpy i oszczędny → odległość jest duża)
+
+Ludzie lubią robić to samo z odległościami → np. łatwiej przeskoczyć z oszczędny do hojny (obie odległości są małe), niż z skąpy i oszczędny (odległość afektywna wysoka), albo skąpy i rozrzutny (odległość afektywna zerowa, odległość deskryptywna duża) itp.
+
+#### Asymetria konsekwencji obu błędów
+
+Sensowniej jest czasami uzupełnić negatywne cechy o pozytywne, bo jak założymy że “jak zły, to głupi”, to może nam zrobić krzywdę, bo nie będziemy uważać, a jak uznamy, że uczciwy jest też mądry, a nie jest, to zwykle ryzyko jest mniejsze.
+
+## Modele integracji danych
+
+1. Sumowanie (model addytywny) ← raczej nieprawdziwe
+2. Uśrednianie 
+3. Uśrednianie ważone (model Andersona) ← najbardziej trafne
+## Inklinacja pozytywna (efekt Pollyanny)
+
+Generalnie 
+
+## Efekt negatywności
+
+# Wykład 5. Ja i inni.
+
+## Struktura ja: wiedza na temat własnej osoby Jaki jestem:
+
+##### Role społeczne i zawodowe
+
+##### Tożsamości indywidualne i grupowe
+
+##### Przekonania na własny temat
+
+##### Własne wartości i cele
+
+##### Samooceny
+
+##### Samoakceptacje
+
+> 
+
+  Ja realne - przekonania na temat, jaki jestem (jak o sobie myśli, nie jaki jest obiektywnie)
+
+  Ja idealne - przekonania na temat, jakim chciałby być
+
+Neurotycy mają bardzo wysokie ja idealne. Może mieć wysokie ja realne, ale rozbieżność wciąż będzie duża.
+
+Psychopata ma zbieżność ja realnego i ja idealnego. 
+
+## Procesy porównań społecznych
+
+(teoria Leona Festingera)
+
+Częścią poznania siebie w pewnych aspektach jest porównanie z innymi.
+
+## 3 style regulacji samopoznania
+
+W różnych sferach człowiek przyjmuje różne orientacje, ale jedną z najczęstszych jest generalnie orientacja egotystyczna.
+
+- trafne i dokładne samoosazcowanie (orientacja walidacyjna)
+- podtrzymywanie i strukturalizacja przekonań o sobie (orientacja konserwatywna)
+- pozytywne wartościowanie siebie (orientacja egotystyczna)
+## Pozytywne złudzenia na temat własnej osoby
+
+Około 3 procent populacji ma lekkie cechy depresyjne i te osoby są “mądrzejsze” → mają realistyczniejszą ocenę sytuacji. Negatywne emocje zwiększają tendencję do racjonalizmu.
+
+Generalnie populacja (ludzie dobrze przystosowani i zdrowi psychicznie) ma tendencję do:
+
+- przeceniania swoich pozytywnych cech i osiągnięć,
+- przecenianie swojego wpływu na bieg zdarzeń,
+- nierealistyczny optymizm.
+> 
+
+  Nierealistyczny optymizm - N. Weinstein
+
+  “Oszacuj prawdopodobieństwo że coś złego zdarzy się tobie, a oszacuj, że zdarzy się Twojej grupie (np. twój rozwód, albo rozwód w twojej grupie), a potem to samo o czymś dobrym. 
+
+  Myślimy, że negatywne rzeczy bardziej prawdopodobnie zdarzą się w naszej grupie, niż nam konkretnie, a pozytywne odwrotnie.
+
+  Polacy mają słabszy ten efekt pozytywny.
