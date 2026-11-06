@@ -173,6 +173,25 @@ function setupView(error?: string) {
   let userTouchedRange = false;
   range.addEventListener("input", () => { userTouchedRange = true; refresh(); });
 
+  /** Books grouped under subject headers (visual only: any books can still be selected together). */
+  function scopeNodes(): Node[] {
+    const subjects = index.subjects ?? [];
+    if (!subjects.length) return index.books.map(bookNode);
+    const byId = new Map(index.books.map((b) => [b.id, b] as const));
+    const used = new Set<string>();
+    const group = (title: string, books: IndexBook[]) =>
+      h("div", { class: "subject" }, h("div", { class: "subject-title" }, title), ...books.map(bookNode));
+    const out: Node[] = [];
+    for (const sub of subjects) {
+      const books = sub.books.map((id) => byId.get(id)).filter((b): b is IndexBook => !!b);
+      books.forEach((b) => used.add(b.id));
+      if (books.length) out.push(group(sub.title, books));
+    }
+    const rest = index.books.filter((b) => !used.has(b.id));
+    if (rest.length) out.push(group("Inne", rest));
+    return out;
+  }
+
   function bookNode(b: IndexBook) {
     const bookChk = h("input", { type: "checkbox", onClick: (e: Event) => e.stopPropagation() }) as HTMLInputElement;
     bookChk.addEventListener("change", () => {
@@ -244,7 +263,7 @@ function setupView(error?: string) {
   render(
     h("div", { class: "topbar" }, h("span", { class: "title" }, "🧠 Wejściówka"), h("span", { class: "muted" }, `${index.books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} pytań w bazie`)),
     error ? h("p", { class: "error" }, error) : "",
-    h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zakres"), ...index.books.map(bookNode)),
+    h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zakres"), ...scopeNodes()),
     exams.length
       ? h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zaliczenia"), h("p", { class: "muted", style: "margin-top:-4px" }, "Pytania zebrane pod kątem konkretnego zaliczenia, niezależnie od źródła."), ...exams.map(examNode))
       : "",

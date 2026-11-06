@@ -26,7 +26,7 @@ Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej od
 | `npm run check-bank` | walidacja banku pytań |
 
 ## Apka
-- Wybór rozdziałów, liczba pytań, zapamiętany ostatni wybór.
+- Wybór rozdziałów, liczba pytań, zapamiętany ostatni wybór. Książki są pogrupowane według przedmiotów (`subjects` w `quiz.config.json`), a zaznaczać można dowolne książki naraz.
 - Klawisze 1–4 / A–D, Enter = dalej. Tryb ciemny wg systemu.
 - Podsumowanie z podziałem na rozdziały, lista pomyłek, „powtórz pomyłki”.
 - „Skup się na słabych”: częściej losuje pytania, które mylisz (statystyki w `localStorage`).

@@ -4,7 +4,7 @@
  */
 import { readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve, join } from "node:path";
-import { loadNotes, splitAll, root, slugify } from "./split-notes.ts";
+import { loadNotes, splitAll, root, slugify, config } from "./split-notes.ts";
 
 const bankDir = resolve(root, "app/public/data/bank");
 type Entry = { bookId: string; bookTitle?: string; chapterId: string; chapterTitle: string; count: number; tags: Map<string, number> };
@@ -37,9 +37,18 @@ for (const e of entries) {
   if (!b) { b = { id: e.bookId, title: e.bookTitle ?? e.bookId, chapters: [] }; books.push(b); }
   b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count });
 }
-// Display order: books from notes, then slide presentations, then lectures (stable within each group).
+// Display order: by subject (config order), then within a subject: books from notes, slide presentations, lectures.
 const group = (id: string) => (id.startsWith("wyklady") ? 2 : id.startsWith("prezentacja") ? 1 : 0);
-books.sort((a, b) => group(a.id) - group(b.id));
+const subjectsCfg = config.subjects ?? [];
+const subjectOf = new Map<string, number>();
+subjectsCfg.forEach((s, i) => s.books.forEach((id) => subjectOf.set(id, i)));
+const sIdx = (id: string) => subjectOf.get(id) ?? subjectsCfg.length; // unassigned books go last
+books.sort((a, b) => sIdx(a.id) - sIdx(b.id) || group(a.id) - group(b.id));
+const subjects = subjectsCfg
+  .map((s) => ({ id: s.id, title: s.title, books: books.filter((b) => subjectOf.get(b.id) === subjectsCfg.indexOf(s)).map((b) => b.id) }))
+  .filter((s) => s.books.length);
+for (const b of books) if (!subjectOf.has(b.id)) console.warn(`WARN book "${b.id}" has no subject in quiz.config.json → shown under „Inne”`);
+for (const s of subjectsCfg) for (const id of s.books) if (!books.some((b) => b.id === id)) console.warn(`WARN subject "${s.id}" lists unknown book "${id}"`);
 
 // "Zaliczenia": questions grouped by tag across all sources.
 const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[] }[] = [];
@@ -51,5 +60,5 @@ for (const e of entries)
     ex.sources.push({ bookId: e.bookId, chapterId: e.chapterId, questionCount: n });
   }
 exams.sort((a, b) => a.title.localeCompare(b.title, "pl"));
-writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ books, exams }, null, 2) + "\n");
-console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${exams.length} exam tag(s)`);
+writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ subjects, books, exams }, null, 2) + "\n");
+console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${subjects.length} subject(s), ${exams.length} exam tag(s)`);

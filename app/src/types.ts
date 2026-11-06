@@ -25,7 +25,8 @@ export type IndexChapter = { id: string; title: string; questionCount: number };
 export type IndexBook = { id: string; title: string; chapters: IndexChapter[] };
 export type IndexExamSource = { bookId: string; chapterId: string; questionCount: number };
 export type IndexExam = { id: string; title: string; tag: string; questionCount: number; sources: IndexExamSource[] };
-export type Index = { books: IndexBook[]; exams?: IndexExam[] };
+export type IndexSubject = { id: string; title: string; books: string[] };
+export type Index = { books: IndexBook[]; exams?: IndexExam[]; subjects?: IndexSubject[] };
 
 export type Rng = () => number;
 

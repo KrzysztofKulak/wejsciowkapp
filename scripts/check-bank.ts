@@ -33,6 +33,7 @@ const ChapterFile = z.object({
   questions: z.array(Question),
 });
 const Index = z.object({
+  subjects: z.array(z.object({ id: z.string(), title: z.string(), books: z.array(z.string()) })).optional(),
   exams: z
     .array(
       z.object({
@@ -126,6 +127,15 @@ else {
         else if (counts.get(key) !== c.questionCount) errors.push(`index.json ${key}: questionCount ${c.questionCount} != ${counts.get(key)} ok questions`);
       }
     for (const key of counts.keys()) if (!listed.has(key)) errors.push(`bank file ${key} not listed in index.json`);
+    const bookIds = new Set(parsed.data.books.map((b) => b.id));
+    const inSubject = new Map<string, string>();
+    for (const sub of parsed.data.subjects ?? [])
+      for (const id of sub.books) {
+        if (!bookIds.has(id)) errors.push(`index.json subject "${sub.id}" lists unknown book "${id}"`);
+        if (inSubject.has(id)) errors.push(`index.json book "${id}" is in two subjects: ${inSubject.get(id)}, ${sub.id}`);
+        inSubject.set(id, sub.id);
+      }
+    if (parsed.data.subjects) for (const id of bookIds) if (!inSubject.has(id)) warnings.push(`book "${id}" has no subject (shown under „Inne”)`);
     const listedTags = new Set<string>();
     for (const e of parsed.data.exams ?? []) {
       listedTags.add(e.tag);

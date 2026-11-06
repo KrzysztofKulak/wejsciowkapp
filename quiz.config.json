@@ -44,5 +44,35 @@
     "wyklady-wprowadzenie-do-psychologii-historia-i-wspolczesnosc": "wyklady-historia-i-wspolczesnosc",
     "prezentacja-historia-psychologii-psychologia-jako-nauka": "prezentacja-psychologia-jako-nauka",
     "prezentacja-psychoanaliza-w-wydaniu-freudowskim": "prezentacja-psychoanaliza-freudowska"
-  }
+  },
+  "subjects": [
+    {
+      "id": "wprowadzenie-historia-i-wspolczesnosc",
+      "title": "Wprowadzenie do psychologii: Historia i współczesność",
+      "books": [
+        "psychologia-i-zycie-zimbardo",
+        "psychologia-podejscia-oraz-koncepcje-tavris",
+        "prezentacja-psychologia-jako-nauka",
+        "prezentacja-psychoanaliza-freudowska",
+        "wyklady-historia-i-wspolczesnosc"
+      ]
+    },
+    {
+      "id": "wprowadzenie-do-psychologii-spolecznej",
+      "title": "Wprowadzenie do psychologii społecznej",
+      "books": [
+        "psychologia-spoleczna-grzyb-wojciszke",
+        "wyklady-psychologia-spoleczna"
+      ]
+    },
+    {
+      "id": "podstawowe-umiejetnosci-psychologiczne",
+      "title": "Podstawowe umiejętności psychologiczne",
+      "books": [
+        "wychowanie-bez-porazek",
+        "wywiad-psychologiczny-2",
+        "podrecznik-pomagania"
+      ]
+    }
+  ]
 }

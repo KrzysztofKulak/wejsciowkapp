@@ -11,6 +11,8 @@ export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"),
   sources: (string | { url?: string; pdf?: string; title?: string; id?: string; chapter?: string })[];
   chapterPattern: string;
   bookAliases?: Record<string, string>;
+  /** Visual grouping of books in the app (subject = przedmiot). Order here = display order. */
+  subjects?: { id: string; title: string; books: string[] }[];
   bookHeading?: string;
   language: string;
   questionsPer1000Words: number;

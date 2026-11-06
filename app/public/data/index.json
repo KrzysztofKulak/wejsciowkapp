@@ -1,38 +1,35 @@
 {
+  "subjects": [
+    {
+      "id": "wprowadzenie-historia-i-wspolczesnosc",
+      "title": "Wprowadzenie do psychologii: Historia i współczesność",
+      "books": [
+        "psychologia-i-zycie-zimbardo",
+        "psychologia-podejscia-oraz-koncepcje-tavris",
+        "prezentacja-psychoanaliza-freudowska",
+        "prezentacja-psychologia-jako-nauka",
+        "wyklady-historia-i-wspolczesnosc"
+      ]
+    },
+    {
+      "id": "wprowadzenie-do-psychologii-spolecznej",
+      "title": "Wprowadzenie do psychologii społecznej",
+      "books": [
+        "psychologia-spoleczna-grzyb-wojciszke",
+        "wyklady-psychologia-spoleczna"
+      ]
+    },
+    {
+      "id": "podstawowe-umiejetnosci-psychologiczne",
+      "title": "Podstawowe umiejętności psychologiczne",
+      "books": [
+        "wychowanie-bez-porazek",
+        "wywiad-psychologiczny-2",
+        "podrecznik-pomagania"
+      ]
+    }
+  ],
   "books": [
-    {
-      "id": "wychowanie-bez-porazek",
-      "title": "Wychowanie bez porażek",
-      "chapters": [
-        {
-          "id": "str-34-63",
-          "title": "str. 34-63",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "wywiad-psychologiczny-2",
-      "title": "Wywiad psychologiczny 2",
-      "chapters": [
-        {
-          "id": "str-152-187",
-          "title": "str. 152-187",
-          "questionCount": 35
-        }
-      ]
-    },
-    {
-      "id": "podrecznik-pomagania",
-      "title": "Podręcznik pomagania",
-      "chapters": [
-        {
-          "id": "str-33-44",
-          "title": "str. 33-44",
-          "questionCount": 12
-        }
-      ]
-    },
     {
       "id": "psychologia-i-zycie-zimbardo",
       "title": "“Psychologia i życie”, Zimbardo",
@@ -57,22 +54,6 @@
           "id": "rozdzial-2",
           "title": "Rozdział 2",
           "questionCount": 31
-        }
-      ]
-    },
-    {
-      "id": "psychologia-spoleczna-grzyb-wojciszke",
-      "title": "“Psychologia Społeczna” Grzyb, Wojciszke",
-      "chapters": [
-        {
-          "id": "rozdzial-5",
-          "title": "Rozdział 5",
-          "questionCount": 55
-        },
-        {
-          "id": "rozdzial-6",
-          "title": "Rozdział 6",
-          "questionCount": 50
         }
       ]
     },
@@ -125,6 +106,22 @@
       ]
     },
     {
+      "id": "psychologia-spoleczna-grzyb-wojciszke",
+      "title": "“Psychologia Społeczna” Grzyb, Wojciszke",
+      "chapters": [
+        {
+          "id": "rozdzial-5",
+          "title": "Rozdział 5",
+          "questionCount": 55
+        },
+        {
+          "id": "rozdzial-6",
+          "title": "Rozdział 6",
+          "questionCount": 50
+        }
+      ]
+    },
+    {
       "id": "wyklady-psychologia-spoleczna",
       "title": "Wykłady – Wprowadzenie do psychologii społecznej",
       "chapters": [
@@ -157,6 +154,39 @@
           "id": "wyklad-5",
           "title": "Wykład 5. Ja i inni",
           "questionCount": 11
+        }
+      ]
+    },
+    {
+      "id": "wychowanie-bez-porazek",
+      "title": "Wychowanie bez porażek",
+      "chapters": [
+        {
+          "id": "str-34-63",
+          "title": "str. 34-63",
+          "questionCount": 13
+        }
+      ]
+    },
+    {
+      "id": "wywiad-psychologiczny-2",
+      "title": "Wywiad psychologiczny 2",
+      "chapters": [
+        {
+          "id": "str-152-187",
+          "title": "str. 152-187",
+          "questionCount": 35
+        }
+      ]
+    },
+    {
+      "id": "podrecznik-pomagania",
+      "title": "Podręcznik pomagania",
+      "chapters": [
+        {
+          "id": "str-33-44",
+          "title": "str. 33-44",
+          "questionCount": 12
         }
       ]
     }
