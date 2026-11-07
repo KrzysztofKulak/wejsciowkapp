@@ -79,6 +79,7 @@ button.ghost { background: transparent; }
   cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;
 }
 .subject-title::-webkit-details-marker { display: none; }
+.subject-title input[type="checkbox"] { width: 18px; height: 18px; margin: 0; accent-color: var(--accent); flex: none; cursor: pointer; }
 .subject-title .chev { transition: transform 0.15s; }
 .subject[open] > .subject-title { margin-bottom: 4px; }
 .subject[open] > .subject-title .chev { transform: rotate(90deg); }

@@ -171,7 +171,10 @@ function setupView(error?: string) {
     }
     for (const g of groups) {
       const n = g.books.reduce((acc, b) => acc + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0);
+      const total = g.books.reduce((acc, b) => acc + b.chapters.length, 0);
       g.badge.textContent = n ? `${n} zazn.` : "";
+      g.chk.checked = n > 0 && n === total;
+      g.chk.indeterminate = n > 0 && n < total;
     }
     for (const sem of semesterGroups) {
       const n = sem.groups.reduce((acc, g) => acc + g.books.reduce((a, b) => a + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0), 0);
@@ -185,7 +188,7 @@ function setupView(error?: string) {
   // (case- and diacritics-insensitive), so "b" → "Biologiczne…", "spol" → "…społecznej".
   const norm = (s: string) => s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const words = (s: string) => norm(s).split(/[^a-z0-9]+/).filter(Boolean);
-  type Group = { el: HTMLDetailsElement; words: string[]; badge: HTMLElement; books: IndexBook[]; userOpen: boolean };
+  type Group = { el: HTMLDetailsElement; words: string[]; badge: HTMLElement; books: IndexBook[]; userOpen: boolean; chk: HTMLInputElement };
   const groups: Group[] = [];
   type Semester = { el: HTMLDetailsElement; groups: Group[]; badge: HTMLElement; userOpen: boolean };
   const semesterGroups: Semester[] = [];
@@ -221,13 +224,26 @@ function setupView(error?: string) {
     // Subjects are collapsible and start collapsed; the badge shows how many chapters are selected inside.
     const group = (title: string, books: IndexBook[]) => {
       const badge = h("span", { class: "subject-count" });
+      // whole-subject checkbox: selects/clears every chapter of every book in the subject (tri-state like books)
+      const chk = h("input", { type: "checkbox", title: "Cały przedmiot", "aria-label": `Cały przedmiot: ${title}` }) as HTMLInputElement;
+      chk.addEventListener("click", (e) => e.stopPropagation());
       const el = h(
         "details",
         { class: "subject" },
-        h("summary", { class: "subject-title" }, h("span", { class: "chev" }, "▸"), h("span", {}, title), badge),
+        h("summary", { class: "subject-title" }, h("span", { class: "chev" }, "▸"), chk, h("span", {}, title), badge),
         ...books.map(bookNode),
       ) as HTMLDetailsElement;
-      const g: Group = { el, words: words(title), badge, books, userOpen: false };
+      chk.addEventListener("change", () => {
+        for (const b of books)
+          for (const c of b.chapters) {
+            const k = `${b.id}/${c.id}`;
+            if (chk.checked) selected.add(k);
+            else selected.delete(k);
+            chapterInputs.get(k)!.checked = chk.checked;
+          }
+        refresh();
+      });
+      const g: Group = { el, words: words(title), badge, books, userOpen: false, chk };
       el.addEventListener("toggle", () => { if (!searching) g.userOpen = el.open; });
       groups.push(g);
       return el;
