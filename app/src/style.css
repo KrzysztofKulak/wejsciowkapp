@@ -58,7 +58,13 @@ button.ghost { background: transparent; }
 .topbar .title { font-weight: 700; }
 
 /* setup */
-.subject + .subject { margin-top: 14px; }
+.subjects { display: flex; flex-direction: column; gap: 14px; }
+.searchbar { margin: 4px 0 0; }
+.search {
+  width: 100%; font: inherit; color: var(--text); background: var(--card);
+  border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; box-shadow: var(--shadow);
+}
+.search:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
 .subject-title {
   font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted);
   padding-bottom: 4px; margin-bottom: 4px; border-bottom: 1px solid var(--line);

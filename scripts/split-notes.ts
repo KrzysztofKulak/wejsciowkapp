@@ -56,6 +56,9 @@ export function splitNotes(md: string): Book[] {
   const bookLvl = level(config.bookHeading);
   const pattern = new RegExp(config.chapterPattern, "i");
   const lines = md.split("\n");
+  // "<!-- chapters: hN -->" (written by fetch-notes for `chapterLevel` sources): every hN heading is a chapter
+  const directive = md.match(/<!-- chapters: h(\d) -->/);
+  const topicLevel = directive ? Number(directive[1]) : 0;
   const books: Book[] = [];
   let pageTitle = "Notatki";
   let book: Book | null = null;
@@ -74,7 +77,8 @@ export function splitNotes(md: string): Book[] {
       const text = buf.join("\n").trim();
       chapter.text = text;
       chapter.words = text.split(/\s+/).filter(Boolean).length;
-      chapter.hash = sha1(text);
+      // image paths (<!-- img: ... -->) are not part of the content: keep hashes stable when images are (re)downloaded
+      chapter.hash = sha1(text.split("\n").filter((l) => !/^\s*<!-- img: .* -->\s*$/.test(l)).join("\n"));
     }
     buf = [];
   };
@@ -85,6 +89,13 @@ export function splitNotes(md: string): Book[] {
       const lvl = m[1].length;
       const title = m[2].trim();
       if (!seenTitle) { seenTitle = true; pageTitle = title; continue; }
+      if (topicLevel && lvl === topicLevel) {
+        flush();
+        if (!book) book = getBook(pageTitle);
+        chapter = { id: slugify(title), title: title.replace(/[\s.:;,–-]+$/, ""), text: "", words: 0, hash: "" };
+        book.chapters.push(chapter);
+        continue;
+      }
       const cm = title.match(pattern);
       if (cm && cm.index !== undefined) {
         flush();

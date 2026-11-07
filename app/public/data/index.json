@@ -28,6 +28,13 @@
         "wywiad-psychologiczny-2",
         "podrecznik-pomagania"
       ]
+    },
+    {
+      "id": "biologiczne-podstawy-zachowan",
+      "title": "Biologiczne podstawy zachowań",
+      "books": [
+        "wyklady-biologiczne-podstawy-zachowan"
+      ]
     }
   ],
   "books": [
@@ -199,6 +206,32 @@
           "id": "str-33-44",
           "title": "str. 33-44",
           "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan",
+      "title": "Wykłady – Biologiczne podstawy zachowań",
+      "chapters": [
+        {
+          "id": "organizacja-ludzkiego-ciala",
+          "title": "Organizacja ludzkiego ciała",
+          "questionCount": 16
+        },
+        {
+          "id": "pobudliwosc",
+          "title": "Pobudliwość",
+          "questionCount": 54
+        },
+        {
+          "id": "uklad-ruchu-i-fizjologia-miesni",
+          "title": "Układ ruchu i fizjologia mięśni",
+          "questionCount": 25
+        },
+        {
+          "id": "uklad-nerwowy",
+          "title": "Układ nerwowy",
+          "questionCount": 27
         }
       ]
     }

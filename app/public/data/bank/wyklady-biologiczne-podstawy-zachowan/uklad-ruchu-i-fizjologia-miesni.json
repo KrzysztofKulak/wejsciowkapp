@@ -1,0 +1,588 @@
+{
+  "bookId": "wyklady-biologiczne-podstawy-zachowan",
+  "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+  "chapterTitle": "Układ ruchu i fizjologia mięśni",
+  "sourceHash": "cf3dcc397f9ef972f552e061ebe92563361b6772",
+  "questions": [
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-01",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Bierną część układu ruchu stanowią:"
+      ],
+      "correct": [
+        "układ szkieletowy z połączeniami kości"
+      ],
+      "distractors": [
+        "mięśnie szkieletowe i ich ścięgna",
+        "mięśnie gładkie narządów wewnętrznych",
+        "nerwy rdzeniowe",
+        "mięsień sercowy",
+        "wrzecionka nerwowo-mięśniowe",
+        "jednostki motoryczne"
+      ],
+      "explanation": "Układ ruchu (50–70% masy ciała): bierny – kości i połączenia; aktywny – mięśnie szkieletowe ze ścięgnami.",
+      "sourceExcerpt": "Podział: bierny - układ szkieletowy (kości) i połączenia kości; aktywny - układ mięśniowy (mięśnie szkieletowe oraz ich ścięgna).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-02",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Kręgosłup człowieka składa się z:"
+      ],
+      "correct": [
+        "33–34 kręgów"
+      ],
+      "distractors": [
+        "24 kręgów",
+        "26–27 kręgów",
+        "40–42 kręgów",
+        "31 kręgów",
+        "12 kręgów",
+        "50 kręgów"
+      ],
+      "explanation": "Odcinki: szyjny 7, piersiowy 12, lędźwiowy 5, krzyżowy 5, guziczny 4–5.",
+      "sourceExcerpt": "Kręgosłup zbudowany jest z 33-34 kręgów: szyjny 7, piersiowy 12, lędźwiowy 5, krzyżowy 5, guziczny 4-5.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-03",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Odcinek piersiowy kręgosłupa liczy:"
+      ],
+      "correct": [
+        "12 kręgów"
+      ],
+      "distractors": [
+        "7 kręgów",
+        "5 kręgów",
+        "4 kręgi",
+        "10 kręgów",
+        "8 kręgów",
+        "14 kręgów"
+      ],
+      "explanation": "Szyjny 7, piersiowy 12, lędźwiowy 5, krzyżowy 5, guziczny 4–5.",
+      "sourceExcerpt": "Piersiowy 12.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-04",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Boczne wygięcie kręgosłupa to:"
+      ],
+      "correct": [
+        "skolioza"
+      ],
+      "distractors": [
+        "lordoza",
+        "kifoza",
+        "spondyloza",
+        "osteoporoza",
+        "dyskopatia",
+        "lumbago"
+      ],
+      "explanation": "Lordoza – wygięcie do przodu, kifoza – do tyłu, skolioza – w bok.",
+      "sourceExcerpt": "Lordoza - wygięcia do przodu, kifoza - wygięcia do tyłu, skolioza - wygięcia w bok.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-05",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Mięśnie gładkie charakteryzują się tym, że:"
+      ],
+      "correct": [
+        "kurczą się powoli, niezależnie od woli, i są bardzo wytrzymałe",
+        "są niezależne od woli, wolne i wytrzymałe"
+      ],
+      "distractors": [
+        "kurczą się szybko i szybko się męczą",
+        "są zależne od woli i mają wiele jąder",
+        "są głównym efektorem ruchów dowolnych",
+        "przyczepiają się ścięgnami do kości",
+        "tworzą mięśnie mimiczne twarzy",
+        "mają zawsze tonus początkowy jak mięśnie szkieletowe"
+      ],
+      "explanation": "Gładkie: jedno jądro, niezależne od woli, wolny skurcz, duża wytrzymałość. Szkieletowe: wiele jąder, zależne od woli, szybkie, szybko się męczą.",
+      "sourceExcerpt": "Mięśnie gładkie: jedno jądro, niezależne od naszej woli, kurczą się powoli, bardzo wytrzymałe.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-06",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Mięśnie poprzecznie prążkowane szkieletowe:"
+      ],
+      "correct": [
+        "są zależne od woli, kurczą się szybko i szybko się męczą",
+        "kurczą się szybko i szybko się męczą"
+      ],
+      "distractors": [
+        "są niezależne od woli i bardzo wytrzymałe",
+        "kurczą się powoli i mają jedno jądro",
+        "budują ściany naczyń krwionośnych",
+        "nie mają tonusu początkowego",
+        "działają wyłącznie pod wpływem hormonów",
+        "nie przyczepiają się do kości"
+      ],
+      "explanation": "Mięśnie szkieletowe to główny efektor ciała; są zwykle lekko napięte (tonus początkowy), by szybciej działać.",
+      "sourceExcerpt": "Mięśnie poprzecznie prążkowane szkieletowe: wiele jąder, zależne od woli, szybko się kurczą, szybko się męczą.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-07",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Stałe lekkie napięcie mięśni szkieletowych, które pozwala im szybciej działać, to:"
+      ],
+      "correct": [
+        "tonus początkowy"
+      ],
+      "distractors": [
+        "skurcz izometryczny",
+        "refrakcja",
+        "skurcz tężcowy",
+        "zakwasy",
+        "przykurcz",
+        "relaksacja"
+      ],
+      "explanation": "Mięśnie szkieletowe są zwykle lekko napięte, by szybciej reagować.",
+      "sourceExcerpt": "Są zwykle zawsze lekko napięte, by szybciej działać. - Tonus początkowy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-08",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Mięśnie mimiczne twarzy, w odróżnieniu od większości mięśni, przyczepiają się do:"
+      ],
+      "correct": [
+        "skóry"
+      ],
+      "distractors": [
+        "kości",
+        "chrząstek",
+        "ścięgien kręgosłupa",
+        "naczyń krwionośnych",
+        "nerwów czaszkowych",
+        "błon śluzowych"
+      ],
+      "explanation": "Większość mięśni przyczepia się ścięgnami do kości, a mięśnie mimiczne do skóry.",
+      "sourceExcerpt": "Większość mięśni przyczepia się ścięgnami do kości. Mięśnie mimiczne przyczepiają się do skóry.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-09",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Skurcz, w którym zmienia się napięcie mięśnia, ale jego przyczepy się nie zbliżają, to skurcz:"
+      ],
+      "correct": [
+        "izometryczny"
+      ],
+      "distractors": [
+        "izotoniczny",
+        "auksotoniczny",
+        "tężcowy",
+        "pojedynczy",
+        "ekscentryczny",
+        "spoczynkowy"
+      ],
+      "explanation": "Izotoniczny – mięsień się skraca przy stałym napięciu; izometryczny – zmiana napięcia bez skracania; auksotoniczny – zmienia się i napięcie, i długość.",
+      "sourceExcerpt": "Izometryczny (zmiana napięcia, przyczepy nie zbliżają się).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-10",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Skurcz, w którym mięsień się skraca, a napięcie pozostaje stałe, to skurcz:"
+      ],
+      "correct": [
+        "izotoniczny"
+      ],
+      "distractors": [
+        "izometryczny",
+        "auksotoniczny",
+        "tężcowy",
+        "spoczynkowy",
+        "odruchowy",
+        "statyczny"
+      ],
+      "explanation": "Izotoniczny – skracanie przy stałym napięciu.",
+      "sourceExcerpt": "Izotoniczny (skraca się mięsień, napięcie jest stałe).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-11",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Jedna komórka nerwowa wraz z unerwianymi przez nią włóknami mięśniowymi to:"
+      ],
+      "correct": [
+        "jednostka motoryczna"
+      ],
+      "distractors": [
+        "sarkomer",
+        "miofibryla",
+        "wrzecionko nerwowo-mięśniowe",
+        "pęczek mięśniowy",
+        "łuk odruchowy",
+        "synapsa elektryczna"
+      ],
+      "explanation": "Siła skurczu zależy m.in. od liczby jednostek motorycznych biorących udział w skurczu.",
+      "sourceExcerpt": "Jednostka motoryczna to 1 komórka nerwowa i mięśnie, które ona unerwia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-12",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Siła skurczu mięśnia zależy od liczby jednostek motorycznych, częstotliwości ich pobudzenia oraz:"
+      ],
+      "correct": [
+        "rozciągnięcia mięśnia przed skurczem"
+      ],
+      "distractors": [
+        "liczby jąder w komórkach mięśnia",
+        "liczby kręgów w kręgosłupie",
+        "ilości kwasu mlekowego we krwi",
+        "długości ścięgien mięśnia",
+        "liczby komórek glejowych w rdzeniu",
+        "temperatury skóry nad mięśniem"
+      ],
+      "explanation": "Trzy czynniki siły skurczu: liczba jednostek motorycznych, częstotliwość ich pobudzania i wstępne rozciągnięcie mięśnia.",
+      "sourceExcerpt": "Siła skurczu zależy od: liczby jednostek motorycznych, częstotliwości pobudzenia tych jednostek, stopnia rozciągnięcia mięśnia przed skurczem.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-13",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Ból mięśni po treningu (zakwasy) wynika według wykładu z:"
+      ],
+      "correct": [
+        "uszkodzeń zerwanych miofibryli",
+        "mikrouszkodzeń włókien mięśniowych"
+      ],
+      "distractors": [
+        "nagromadzenia kwasu mlekowego",
+        "braku wapnia w mięśniu",
+        "zbyt dużej liczby jednostek motorycznych",
+        "skurczu izometrycznego",
+        "przegrzania mięśnia",
+        "nadmiaru tonusu początkowego"
+      ],
+      "explanation": "Kwas mlekowy szybko się rozkłada; ból powodują uszkodzone miofibryle, a ich odbudowa zwiększa liczbę włókien.",
+      "sourceExcerpt": "Ból mięśni po treningu → uszkodzenia zerwanych miofibryli (włókien), a nie kwas mlekowy, który się rozkłada.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-14",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Najmniejszą kurczliwą jednostką miofibryli jest:"
+      ],
+      "correct": [
+        "sarkomer"
+      ],
+      "distractors": [
+        "jednostka motoryczna",
+        "pęczek mięśniowy",
+        "włókno mięśniowe",
+        "troponina",
+        "wrzecionko",
+        "ścięgno"
+      ],
+      "explanation": "Pęczek → włókna mięśniowe → miofibryle → sarkomery; skurcz to ślizgowe nasuwanie się nitek białek kurczliwych.",
+      "sourceExcerpt": "Sarkomer → najmniejsza kurczliwa jednostka miofibryli.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-15",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Podstawowym mechanizmem skurczu mięśnia jest:"
+      ],
+      "correct": [
+        "ślizgowe nasuwanie się nitek białek kurczliwych",
+        "mechanizm ślizgowy"
+      ],
+      "distractors": [
+        "skracanie się kości",
+        "przewodzenie skokowe",
+        "rozkład kwasu mlekowego",
+        "wychwyt zwrotny acetylocholiny",
+        "dyfuzja potasu do krwi",
+        "pękanie miofibryli"
+      ],
+      "explanation": "Wapń wiąże się z troponiną, co umożliwia skurcz; nitki grube i cienkie nasuwają się na siebie.",
+      "sourceExcerpt": "Ślizgowy mechanizm nasuwania się nitek → podstawowy mechanizm skurczu mięśnia. Ca wiąże się z troponiną → skurcz.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-16",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Receptorem długości mięśnia, wrażliwym na jego rozciąganie, jest:"
+      ],
+      "correct": [
+        "wrzecionko nerwowo-mięśniowe"
+      ],
+      "distractors": [
+        "ciałko buławkowate w ścięgnie",
+        "jednostka motoryczna",
+        "sarkomer",
+        "płytka nerwowo-mięśniowa",
+        "komórka Schwanna",
+        "kolbka synaptyczna"
+      ],
+      "explanation": "Wrzecionko – receptor długości (rozciąganie); ciałka buławkowate w ścięgnach – receptor napięcia, blokują nadmierny skurcz.",
+      "sourceExcerpt": "Wrzecionko nerwowo-mięśniowe - (receptor długości) wrażliwe na rozciąganie. Ciałka buławkowate w ścięgnach - (receptor napięcia) blokują nadmiarowe kurczenie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-17",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Ciałka buławkowate w ścięgnach to receptory, które:"
+      ],
+      "correct": [
+        "reagują na napięcie i hamują nadmierny skurcz"
+      ],
+      "distractors": [
+        "reagują na rozciąganie całego mięśnia",
+        "wytwarzają mielinę wokół włókien",
+        "uwalniają acetylocholinę do mięśnia",
+        "mierzą długość kości kończyny",
+        "wywołują tonus początkowy mięśnia",
+        "przewodzą ból bezpośrednio do mózgu"
+      ],
+      "explanation": "Ciałka buławkowate – receptor napięcia; wrzecionka – receptor długości.",
+      "sourceExcerpt": "Ciałka buławkowate w ścięgnach - (receptor napięcia) wrażliwe na skurczanie, blokują nadmiarowe kurczenie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-18",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Przy problemach z zachowaniem układ ruchu, który może na nie wpływać, należy według wykładu:"
+      ],
+      "correct": [
+        "wykluczyć w pierwszej kolejności"
+      ],
+      "distractors": [
+        "sprawdzać na samym końcu",
+        "pomijać, bo nie wpływa na zachowanie",
+        "badać tylko u dzieci",
+        "oceniać wyłącznie u sportowców",
+        "leczyć farmakologicznie",
+        "badać dopiero po diagnozie psychiatrycznej"
+      ],
+      "explanation": "Układ ruchu może wpływać na zachowanie, dlatego jego problemy wyklucza się w pierwszej kolejności.",
+      "sourceExcerpt": "Układ ruchu może mieć wpływ na zachowanie, należy je wykluczyć w pierwszej kolejności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-19",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "W kontroli nerwowej skurczu nerw, który kończy się płytką synaptyczną na mięśniu i wywołuje jego skurcz, to:"
+      ],
+      "correct": [
+        "nerw alfa (motoneuron alfa)",
+        "nerw alfa"
+      ],
+      "distractors": [
+        "włókno gamma",
+        "włókno czuciowe IA",
+        "droga piramidowa",
+        "neuron pośredniczący",
+        "włókno autonomiczne",
+        "nerw czaszkowy"
+      ],
+      "explanation": "Na schemacie: nerw alfa z rogu przedniego rdzenia → płytka synaptyczna w mięśniu; włókno IA niesie informację z wrzecionka do rdzenia.",
+      "sourceExcerpt": "Ilustracja (Kontrola nerwowa skurczu): NERW ALFA → PŁYTKA SYNAPTYCZNA; IA z wrzecionka mięśniowego; GAMMA; RÓG PRZEDNI – RUCH.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-20",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Receptorem napięcia mięśnia, umieszczonym w ścięgnie, jest:"
+      ],
+      "correct": [
+        "narząd ścięgnowy"
+      ],
+      "distractors": [
+        "wrzecionko mięśniowe",
+        "płytka synaptyczna",
+        "jednostka motoryczna",
+        "róg tylny rdzenia",
+        "włókno gamma",
+        "sarkomer"
+      ],
+      "explanation": "Receptor długości – wrzecionko mięśniowe; receptor napięcia – narząd ścięgnowy w ścięgnie.",
+      "sourceExcerpt": "Ilustracja (Kontrola nerwowa skurczu): RECEPTOR NAPIĘCIA – NARZĄD ŚCIĘGNOWY (w ścięgnie); RECEPTOR DŁUGOŚCI – WRZECIONKO MIĘŚNIOWE.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-21",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "W kontroli skurczu informacja czuciowa z mięśnia wchodzi do rdzenia przez róg tylny, a polecenia ruchowe wychodzą przez:"
+      ],
+      "correct": [
+        "róg przedni"
+      ],
+      "distractors": [
+        "róg tylny",
+        "kanał środkowy",
+        "drogi wstępujące",
+        "zwój czuciowy",
+        "istotę białą tylną",
+        "nerwy czaszkowe"
+      ],
+      "explanation": "Czucie – róg tylny, ruch – róg przedni; z przodu rdzenia sygnały ruchowe, z tyłu czuciowe.",
+      "sourceExcerpt": "Ilustracja (Kontrola nerwowa skurczu): RÓG TYLNY – CZUCIE, RÓG PRZEDNI – RUCH.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-22",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Nadrzędną kontrolę ośrodkowego układu nerwowego nad skurczem mięśni zapewniają drogi:"
+      ],
+      "correct": [
+        "piramidowe"
+      ],
+      "distractors": [
+        "wzrokowe",
+        "węchowe",
+        "słuchowe",
+        "autonomiczne",
+        "limbiczne",
+        "czuciowe skórne"
+      ],
+      "explanation": "Na schemacie drogi piramidowe łączą korę (kontrola OUN) z neuronami ruchowymi rdzenia.",
+      "sourceExcerpt": "Ilustracja (Kontrola nerwowa skurczu): DROGI PIRAMIDOWE – KONTROLA OUN.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-23",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Mięsień mimiczny otaczający oko, widoczny na ilustracji mięśni twarzy, to:"
+      ],
+      "correct": [
+        "orbicularis oculi"
+      ],
+      "distractors": [
+        "orbicularis oris",
+        "buccinator",
+        "masseter",
+        "platysma",
+        "risorius",
+        "zygomaticus major"
+      ],
+      "explanation": "Mięśnie mimiczne przyczepiają się do skóry; orbicularis oculi otacza oko, orbicularis oris – usta.",
+      "sourceExcerpt": "Ilustracja (Mięśnie twarzy): Orbicularis oculi wokół oka; Orbicularis oris wokół ust.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-24",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Mięsień mimiczny otaczający usta to:"
+      ],
+      "correct": [
+        "orbicularis oris"
+      ],
+      "distractors": [
+        "orbicularis oculi",
+        "procerus",
+        "nasalis",
+        "masseter",
+        "corrugator supercilii",
+        "occipitofrontalis"
+      ],
+      "explanation": "Orbicularis oris otacza szparę ust.",
+      "sourceExcerpt": "Ilustracja (Mięśnie twarzy): Orbicularis oris.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-25",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Szeroki, płaski mięsień pokrywający przednią część szyi, widoczny na ilustracjach mięśni twarzy, to:"
+      ],
+      "correct": [
+        "platysma"
+      ],
+      "distractors": [
+        "masseter",
+        "buccinator",
+        "mentalis",
+        "risorius",
+        "nasalis",
+        "procerus"
+      ],
+      "explanation": "Platysma rozciąga się na szyi poniżej żuchwy.",
+      "sourceExcerpt": "Ilustracja (Mięśnie twarzy): Platysma – na szyi.",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ]
+}

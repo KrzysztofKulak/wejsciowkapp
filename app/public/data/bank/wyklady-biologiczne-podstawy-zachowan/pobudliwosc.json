@@ -1,0 +1,1267 @@
+{
+  "bookId": "wyklady-biologiczne-podstawy-zachowan",
+  "chapterId": "pobudliwosc",
+  "chapterTitle": "Pobudliwość",
+  "sourceHash": "64da2c5567486b75853cf196822dcb2852124008",
+  "questions": [
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-01",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Pobudliwość to:"
+      ],
+      "correct": [
+        "zdolność reagowania na bodziec"
+      ],
+      "distractors": [
+        "zdolność do skurczu",
+        "zdolność do podziału komórek",
+        "zdolność do przewodzenia krwi",
+        "zdolność do magazynowania energii",
+        "zdolność do wydzielania hormonów",
+        "zdolność do regeneracji"
+      ],
+      "explanation": "Tkanki pobudliwe (nerwowa, mięśniowa) to te, których komórki szybko odpowiadają na bodźce.",
+      "sourceExcerpt": "Pobudliwość - zdolność reagowania na bodziec. Pobudliwe tkanki → których komórki szybko odpowiadają na bodźce (nerwowa, mięśniowa).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-02",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Akson ma charakter:"
+      ],
+      "correct": [
+        "eferentny – przewodzi informację od ciała komórki na zewnątrz",
+        "eferentny"
+      ],
+      "distractors": [
+        "aferentny – zbiera informację do ciała komórki",
+        "aferentny",
+        "czuciowy – odbiera bodźce z otoczenia",
+        "wyłącznie hamujący",
+        "podporowy – podtrzymuje neuron",
+        "magazynujący – gromadzi jony sodu"
+      ],
+      "explanation": "Akson (eferentny) kończy się drzewkiem końcowym z kolbkami synaptycznymi; dendryty są aferentne.",
+      "sourceExcerpt": "Akson (włókno): ma charakter eferentny. Dendryty: mają charakter aferentny. Eferentny - przewodzi informacje od ciała komórki na zewnątrz.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-03",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Dendryty neuronu mają charakter:"
+      ],
+      "correct": [
+        "aferentny – zbierają informacje do ciała komórki",
+        "aferentny"
+      ],
+      "distractors": [
+        "eferentny – przewodzą informację od ciała komórki",
+        "eferentny",
+        "wydzielniczy – uwalniają neurotransmitery",
+        "izolacyjny – wytwarzają mielinę",
+        "ruchowy – pobudzają mięśnie",
+        "refrakcyjny – blokują impulsy"
+      ],
+      "explanation": "Dendryty zbierają informacje z zewnątrz do ciała komórki; akson przewodzi je dalej.",
+      "sourceExcerpt": "Afarentny - zbiera informacje z zewnątrz do ciała komórki. Dendryty: mają charakter aferentny.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-04",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Potencjał spoczynkowy błony neuronu wynosi zwykle:"
+      ],
+      "correct": [
+        "od −60 do −90 mV"
+      ],
+      "distractors": [
+        "od +60 do +90 mV",
+        "od −10 do −20 mV",
+        "około 0 mV",
+        "od −120 do −150 mV",
+        "od +20 do +40 mV",
+        "od −30 do −40 mV"
+      ],
+      "explanation": "Potencjał spoczynkowy to różnica potencjałów między wnętrzem komórki pobudliwej a płynem zewnątrzkomórkowym w spoczynku.",
+      "sourceExcerpt": "Potencjał spoczynkowy błony komórkowej. Jego wartość może być od -60 mV do -90mV.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-05",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Powrót potencjału błony do wartości spoczynkowej to:"
+      ],
+      "correct": [
+        "repolaryzacja"
+      ],
+      "distractors": [
+        "depolaryzacja",
+        "hiperpolaryzacja progowa",
+        "refrakcja bezwzględna",
+        "przewodzenie skokowe",
+        "sumowanie przestrzenne",
+        "potencjał iglicowy"
+      ],
+      "explanation": "Depolaryzacja – obniżenie potencjału błony; repolaryzacja – powrót do potencjału spoczynkowego.",
+      "sourceExcerpt": "Depolaryzacja błony - obniżenie potencjału błony. Repolaryzacja błony - powrót do potencjału spoczynkowego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-06",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Pompa sodowo-potasowa w tkankach pobudliwych zużywa około:"
+      ],
+      "correct": [
+        "30% całego metabolizmu tych tkanek"
+      ],
+      "distractors": [
+        "1% metabolizmu tych tkanek",
+        "5% metabolizmu tych tkanek",
+        "60% metabolizmu tych tkanek",
+        "90% metabolizmu tych tkanek",
+        "nie zużywa energii",
+        "10% metabolizmu całego ciała"
+      ],
+      "explanation": "Napęd pompy Na-K wiąże się z metabolizmem wewnątrzkomórkowym; jeden neuron ma około miliona pomp.",
+      "sourceExcerpt": "Pompa Na-K (sodowo-potasowa) - jej napęd wiąże się z metabolizmem wewnątrzkomórkowym (zużywa 30% całego metabolizmu tkanek pobudliwych). 1 neuron ma około 1 milion pomp.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-07",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Zasada „wszystko albo nic” oznacza, że potencjał czynnościowy:"
+      ],
+      "correct": [
+        "ma zawsze tę samą amplitudę, o ile przekroczony zostanie próg",
+        "pojawia się w pełnej wielkości albo wcale"
+      ],
+      "distractors": [
+        "rośnie proporcjonalnie do siły bodźca",
+        "pojawia się nawet poniżej progu",
+        "słabnie wraz z odległością od ciała komórki",
+        "zależy od liczby dendrytów",
+        "może mieć dowolną amplitudę",
+        "pojawia się tylko w mięśniach"
+      ],
+      "explanation": "Siła sygnału nie koduje intensywności bodźca; robią to częstotliwość impulsów i liczba pobudzonych aksonów.",
+      "sourceExcerpt": "Potencjał czynnościowy powstaje wg zasady „wszystko albo nic” (amplituda jest taka sama, jeśli tylko potencjał progowy został osiągnięty/przekroczony).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-08",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Skoro potencjał czynnościowy działa na zasadzie „wszystko albo nic”, intensywność bodźca jest przekazywana przez:"
+      ],
+      "correct": [
+        "częstotliwość impulsów i liczbę aksonów"
+      ],
+      "distractors": [
+        "amplitudę każdego pojedynczego impulsu",
+        "długość aksonu przewodzącego sygnał",
+        "rodzaj neurotransmitera w synapsie",
+        "wielkość ciała komórki nerwowej",
+        "liczbę jąder w neuronie czuciowym",
+        "temperaturę błony komórkowej"
+      ],
+      "explanation": "Nie da się zakodować intensywności siłą pojedynczego sygnału; kodem jest częstość i liczba aktywnych aksonów.",
+      "sourceExcerpt": "Wszystko albo nic oznacza, że nie można siłą sygnału komunikować intensywności bodźca. Czynniki przesyłania informacji o intensywności bodźca to: kod częstości, liczba aksonów ulegających pobudzeniu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-09",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Potencjał progowy, po którego przekroczeniu powstaje potencjał czynnościowy, wynosi około:"
+      ],
+      "correct": [
+        "−55 mV"
+      ],
+      "distractors": [
+        "−90 mV",
+        "−70 mV",
+        "0 mV",
+        "+30 mV",
+        "−120 mV",
+        "+55 mV"
+      ],
+      "explanation": "Próg to spadek potencjału spoczynkowego o około 1/3, do ok. −55 mV; potem pojawia się potencjał iglicowy (0,5–2 ms).",
+      "sourceExcerpt": "Potencjał progowy (spadek potencjału spoczynkowego o 1/3: do -55mV, a po nim iglicowy trwający od 0,5 do 2 ms).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-10",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Otoczka mielinowa przyspiesza przewodzenie, ponieważ impuls przeskakuje między:"
+      ],
+      "correct": [
+        "przewężeniami Ranviera"
+      ],
+      "distractors": [
+        "kolbkami synaptycznymi",
+        "ciałkami Nissla",
+        "dendrytami sąsiednich neuronów",
+        "jądrami komórek glejowych",
+        "koneksynami",
+        "astrocytami"
+      ],
+      "explanation": "Mielina to tłuszczowa, segmentowa osłonka; aktywacja zachodzi w odstępach między segmentami, więc przewodzenie jest skokowe, a nie ciągłe.",
+      "sourceExcerpt": "Otoczka mielinowa – tłuszczowa powłoka segmentowa. Między segmentami otoczki są odstępy (przewężenie Ranviera) – aktywacja następuje skokowo (przesył skokowy, nie ciągły).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-11",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Mielinę w ośrodkowym układzie nerwowym wytwarzają:"
+      ],
+      "correct": [
+        "oligodendrocyty"
+      ],
+      "distractors": [
+        "komórki Schwanna",
+        "astrocyty",
+        "komórki mikrogleju",
+        "ciałka Nissla",
+        "komórki Purkinjego",
+        "neurony ruchowe"
+      ],
+      "explanation": "W OUN mielinę tworzą oligodendrocyty, w obwodowym układzie nerwowym komórki Schwanna.",
+      "sourceExcerpt": "Oligodendrocyty w OUN. Komórki Schwanna w obwodowym UN.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-12",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Mielinę w obwodowym układzie nerwowym wytwarzają:"
+      ],
+      "correct": [
+        "komórki Schwanna"
+      ],
+      "distractors": [
+        "oligodendrocyty",
+        "astrocyty",
+        "komórki mikrogleju",
+        "ciałka Nissla",
+        "koneksyny",
+        "dendryty"
+      ],
+      "explanation": "Obwodowy UN – komórki Schwanna; OUN – oligodendrocyty.",
+      "sourceExcerpt": "Oligodendrocyty w OUN. Komórki Schwanna w obwodowym UN.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-13",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Przewodzenie potencjału czynnościowego od zakończeń aksonu w stronę ciała komórki, niewystępujące naturalnie, ale pojawiające się przy sztucznej stymulacji, to przewodzenie:"
+      ],
+      "correct": [
+        "antydromowe"
+      ],
+      "distractors": [
+        "ortodromowe",
+        "skokowe",
+        "ciągłe",
+        "elektrotoniczne",
+        "synaptyczne",
+        "refrakcyjne"
+      ],
+      "explanation": "Ortodromowe – kierunek fizjologiczny (od wzgórka aksonu do zakończeń); antydromowe – odwrotny, np. w badaniach elektrofizjologicznych.",
+      "sourceExcerpt": "Antydromowe – przewodzenie w kierunku odwrotnym do fizjologicznego: od zakończeń aksonu w stronę ciała komórki. Nie zachodzi naturalnie, ale pojawia się przy sztucznej stymulacji elektrycznej aksonu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-14",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Okres, w którym błona neuronu jest całkowicie niepobudliwa (trwa ok. 1 ms, w czasie potencjału iglicowego), to:"
+      ],
+      "correct": [
+        "refrakcja bezwzględna"
+      ],
+      "distractors": [
+        "refrakcja względna",
+        "repolaryzacja",
+        "potencjał spoczynkowy",
+        "habituacja",
+        "potencjał progowy",
+        "sensytyzacja"
+      ],
+      "explanation": "Refrakcja bezwzględna zapobiega „cofaniu się” sygnału; we względnej pobudzenie jest możliwe, ale wymaga silniejszego bodźca.",
+      "sourceExcerpt": "Refrakcja bezwzględna - okres niepobudliwości błony na bodźce ma miejsce w trakcie trwania potencjału iglicowego - około 1 ms.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-15",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "W okresie refrakcji względnej neuron:"
+      ],
+      "correct": [
+        "da się pobudzić tylko silniejszym bodźcem"
+      ],
+      "distractors": [
+        "w ogóle nie reaguje na bodźce",
+        "reaguje na bodźce słabsze niż zwykle",
+        "przewodzi impulsy w obu kierunkach",
+        "wytwarza mielinę",
+        "uwalnia wszystkie neurotransmitery",
+        "wraca do zasady „wszystko albo nic”"
+      ],
+      "explanation": "Względna refrakcja następuje po bezwzględnej: pobudzenie możliwe, ale próg jest wyższy.",
+      "sourceExcerpt": "Refrakcja względna - gdy można pobudzić komórkę nerwową, ale siła bodźca musi być większa.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-16",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Prędkość przewodzenia impulsu nerwowego zależy przede wszystkim od:"
+      ],
+      "correct": [
+        "średnicy włókna i obecności otoczki mielinowej",
+        "grubości włókna i jego zmielinizowania"
+      ],
+      "distractors": [
+        "liczby dendrytów i wielkości ciała komórki",
+        "rodzaju neurotransmitera w synapsie",
+        "liczby pomp sodowo-potasowych",
+        "długości refrakcji bezwzględnej",
+        "liczby ciałek Nissla",
+        "temperatury otoczenia ciała"
+      ],
+      "explanation": "Prędkość od 0,2 do 120 m/s; grubsze i zmielinizowane włókna przewodzą szybciej. Choroby demielinizacyjne (stwardnienie rozsiane) spowalniają przewodzenie.",
+      "sourceExcerpt": "Prędkość przesyłania informacji od 0.2 do 120 m/s i zależy od: średnicy włókna, otoczki mielinowej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-17",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Stwardnienie rozsiane jest przykładem choroby:"
+      ],
+      "correct": [
+        "demielinizacyjnej"
+      ],
+      "distractors": [
+        "dopaminergicznej",
+        "glutaminergicznej",
+        "mięśniowej",
+        "hormonalnej",
+        "serotoninergicznej",
+        "metabolicznej"
+      ],
+      "explanation": "Choroby demielinizacyjne niszczą otoczkę mielinową, co spowalnia przewodzenie impulsów.",
+      "sourceExcerpt": "Choroby demielinizacyjne - stwardnienie rozsiane.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-18",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Synapsy elektryczne, w których błony łączą się przez białkowe pory (koneksyny), charakteryzują się:"
+      ],
+      "correct": [
+        "brakiem opóźnienia i dwukierunkowością"
+      ],
+      "distractors": [
+        "przepływem jednokierunkowym przez szczelinę",
+        "udziałem neurotransmiterów",
+        "opóźnieniem przekazu sygnału",
+        "obecnością receptorów metabotropowych",
+        "rozkładem sygnału przez MAO",
+        "wychwytem zwrotnym"
+      ],
+      "explanation": "Synapsy elektryczne synchronizują sieci neuronowe; chemiczne działają przez neurotransmitery i są jednokierunkowe.",
+      "sourceExcerpt": "Elektryczne (ścisły kontakt między błonami dwóch neuronów poprzez pory z białka: koneksyny). Informacja przekazywana bez opóźnienia. Synchronizacja sieci neuronowych, przepływ dwukierunkowy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-19",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Synapsa chemiczna przewodzi jednokierunkowo, ponieważ:"
+      ],
+      "correct": [
+        "jest asymetryczna"
+      ],
+      "distractors": [
+        "nie ma szczeliny synaptycznej",
+        "łączy błony koneksynami",
+        "nie wymaga neurotransmiterów",
+        "działa bez opóźnienia",
+        "jest pokryta mieliną",
+        "nie ma receptorów"
+      ],
+      "explanation": "Szczelina 20–40 nm; pęcherzyki presynaptyczne wydzielają neurotransmitery, które działają na receptory błony postsynaptycznej.",
+      "sourceExcerpt": "Chemiczne (poprzez neurotransmitery - szczelina 20-40 nm, przepływ jednokierunkowy, bo synapsa asymetryczna).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-20",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Jednym z kryteriów, które musi spełniać substancja, by była neurotransmiterem, jest to, że:"
+      ],
+      "correct": [
+        "istnieje mechanizm usuwający ją z miejsca działania",
+        "podana z zewnątrz naśladuje działanie naturalne"
+      ],
+      "distractors": [
+        "jest wytwarzana wyłącznie w wątrobie",
+        "działa tylko w synapsach elektrycznych",
+        "nie może zostać rozłożona przez enzymy",
+        "zawsze pobudza neuron postsynaptyczny",
+        "przenika przez otoczkę mielinową",
+        "jest uwalniana bez impulsu nerwowego"
+      ],
+      "explanation": "Kryteria: syntetyzowana w neuronie, uwalniana pod wpływem impulsu i wywołująca odpowiedź, egzogenna naśladuje endogenną, istnieje mechanizm usuwania.",
+      "sourceExcerpt": "Neurotransmiter: 1. syntetyzowana w komórkach nerwowych 2. uwalniana pod wpływem impulsu 3. podana egzogennie naśladuje działanie endogenne 4. istnieje mechanizm usuwający ją z miejsca działania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-21",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Białka transportujące neuroprzekaźnik z powrotem do kolbki synaptycznej do ponownego użycia realizują:"
+      ],
+      "correct": [
+        "wychwyt zwrotny"
+      ],
+      "distractors": [
+        "dyfuzję",
+        "rozkład enzymatyczny",
+        "przewodzenie skokowe",
+        "egzocytozę",
+        "depolaryzację",
+        "apoptozę"
+      ],
+      "explanation": "Mechanizmy usuwania: dyfuzja, wychwyt zwrotny, przechwyt przez astrocyty, rozkład przez enzymy.",
+      "sourceExcerpt": "Wychwyt zwrotny - białka transportują neuroprzekaźniki z powrotem do kolbki do ponownego użycia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-22",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Receptory jonotropowe w porównaniu z metabotropowymi są:"
+      ],
+      "correct": [
+        "szybsze, bo same są kanałami jonowymi",
+        "szybsze"
+      ],
+      "distractors": [
+        "wolniejsze, bo działają przez białka G",
+        "wolniejsze",
+        "obecne tylko w narządach wewnętrznych",
+        "pozbawione kanałów jonowych",
+        "wyłącznie hamujące",
+        "obecne tylko w glejach"
+      ],
+      "explanation": "Jonotropowe – kanały jonowe, szybkie (np. mięśnie szkieletowe); metabotropowe – przez białka G, wolniejsze (np. naczynia krwionośne, żołądek).",
+      "sourceExcerpt": "Jonotropowe (kanały jonowe - szybkie), np. mięśnie szkieletowe. Metabotropowe (za pośrednictwem białek G - wolniejsze), np. naczynia krwionośne, kurczenie żołądka.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-23",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Receptory nikotynowe i muskarynowe to receptory dla:"
+      ],
+      "correct": [
+        "acetylocholiny"
+      ],
+      "distractors": [
+        "dopaminy",
+        "serotoniny",
+        "glicyny",
+        "histaminy",
+        "noradrenaliny",
+        "endorfin"
+      ],
+      "explanation": "Acetylocholina: receptory nikotynowe (synapsy nerwowo-mięśniowe) i muskarynowe (układ autonomiczny).",
+      "sourceExcerpt": "Acetylocholina (unerwienie cholinergiczne): receptory nikotynowe (synapsy nerwowo-mięśniowe) i muskarynowe (układ autonomiczny).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-24",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Choroba Parkinsona wiąże się z degeneracją neuronów:"
+      ],
+      "correct": [
+        "dopaminergicznych"
+      ],
+      "distractors": [
+        "serotoninergicznych",
+        "GABA-ergicznych",
+        "cholinergicznych",
+        "histaminergicznych",
+        "glicynergicznych",
+        "glutaminergicznych"
+      ],
+      "explanation": "Upośledzenie neurotransmisji dopaminy – degeneracja neuronów dopaminergicznych w chorobie Parkinsona.",
+      "sourceExcerpt": "Upośledzenie neurotransmisji dopaminy - Choroba Parkinsona → degeneracja neuronów dopaminergicznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-25",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neurotransmiterem biorącym udział w układzie nagrody jest:"
+      ],
+      "correct": [
+        "dopamina"
+      ],
+      "distractors": [
+        "glicyna",
+        "GABA",
+        "histamina",
+        "acetylocholina",
+        "kwas glutaminowy",
+        "serotonina"
+      ],
+      "explanation": "Drogi dopaminergiczne tworzą układ nagrody.",
+      "sourceExcerpt": "Dopamina bierze udział w układzie nagrody. Drogi dopaminoergiczne - układ nagrody.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-26",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neurotransmiterem wpływającym na cykl snu i czuwania, którego zaburzenia wiążą się z depresją, jest:"
+      ],
+      "correct": [
+        "serotonina"
+      ],
+      "distractors": [
+        "glicyna",
+        "dopamina",
+        "acetylocholina",
+        "kwas glutaminowy",
+        "noradrenalina",
+        "GABA"
+      ],
+      "explanation": "Zaburzenia transmisji serotoninergicznej wiążą się z chorobą afektywną i schizofrenią; serotonina odgrywa rolę w depresji.",
+      "sourceExcerpt": "Serotonina: wpływa na cykl snu-czuwania. Zaburzenia transmisji serotoninergicznej → choroba afektywna i schizofrenia. Serotonina odgrywa rolę w depresji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-27",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neurotransmiterem pobudzającym jest:"
+      ],
+      "correct": [
+        "kwas glutaminowy"
+      ],
+      "distractors": [
+        "GABA",
+        "glicyna",
+        "kwas γ-aminomasłowy",
+        "monoaminooksydaza",
+        "metylotransferaza",
+        "koneksyna"
+      ],
+      "explanation": "Kwas glutaminowy pobudza, a glicyna i GABA hamują.",
+      "sourceExcerpt": "Kwas glutaminowy: pobudza. Glicyna, GABA (kwas γ-aminomasłowy): hamuje.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-28",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Około 20% synaps w mózgu wykorzystuje neurotransmiter, którego receptory są miejscem wiązania benzodiazepin, barbituranów i alkoholu. To:"
+      ],
+      "correct": [
+        "GABA"
+      ],
+      "distractors": [
+        "dopamina",
+        "serotonina",
+        "acetylocholina",
+        "kwas glutaminowy",
+        "histamina",
+        "noradrenalina"
+      ],
+      "explanation": "GABA (hamujący) – jego zawartość w mózgu jest 200–1000 razy większa niż acetylocholiny czy amin biogennych.",
+      "sourceExcerpt": "Zawartość GABA w mózgu jest 200-1000 razy większa niż acetylocholiny (20% synaps w mózgu jest GABAergicznych). Miejsca receptorów GABA są miejscem wiązania wielu leków (benzodiazepin, barbituranów), ale też alkoholu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-29",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Osoby z niskim poziomem enzymu MAO (monoaminooksydazy) częściej:"
+      ],
+      "correct": [
+        "poszukują przygód i podejmują ryzyko"
+      ],
+      "distractors": [
+        "są spokojne i unikają ryzyka",
+        "cierpią na stwardnienie rozsiane",
+        "mają szybsze przewodzenie skokowe",
+        "mają więcej komórek glejowych",
+        "przejawiają zaniki mięśni",
+        "śpią więcej niż inni"
+      ],
+      "explanation": "MAO unieczynnia neurotransmitery; wysoka produkcja MAO wiąże się ze spokojem, niska z poszukiwaniem wrażeń.",
+      "sourceExcerpt": "Osoby z wysoką produkcją MAO są bardziej spokojne i rzadko ryzykują, małą ilością MAO poszukują przygód i częściej podejmują ryzyko.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-30",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Fluoksetyna (Prozac) działa jako:"
+      ],
+      "correct": [
+        "inhibitor wychwytu zwrotnego serotoniny"
+      ],
+      "distractors": [
+        "antagonista receptorów dopaminowych",
+        "agonista GABA",
+        "bloker uwalniania acetylocholiny",
+        "inhibitor wychwytu dopaminy",
+        "bloker receptorów acetylocholiny",
+        "agonista histaminy"
+      ],
+      "explanation": "Prozac hamuje wychwyt zwrotny serotoniny; neuroleptyki blokują receptory dopaminowe.",
+      "sourceExcerpt": "Prozac (fluoksetyna) - inhibitor wychwytu zwrotnego serotoniny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-31",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroleptyki, osłabiające m.in. objawy schizofrenii, działają przez:"
+      ],
+      "correct": [
+        "blokowanie receptorów dopaminowych"
+      ],
+      "distractors": [
+        "hamowanie wychwytu zwrotnego serotoniny",
+        "pobudzanie receptorów GABA",
+        "blokowanie uwalniania acetylocholiny",
+        "zwiększanie produkcji MAO",
+        "pobudzanie receptorów nikotynowych",
+        "przyspieszanie przewodzenia skokowego"
+      ],
+      "explanation": "Neuroleptyki blokują receptory dopaminowe.",
+      "sourceExcerpt": "Neuroleptyki - blokują receptory dopaminowe (np. osłabiają objawy schizofrenii).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-32",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Substancja, która łączy się z receptorem, ale nie wywołuje reakcji, tylko go blokuje, to:"
+      ],
+      "correct": [
+        "antagonista"
+      ],
+      "distractors": [
+        "agonista",
+        "neurotransmiter",
+        "enzym unieczynniający",
+        "koneksyna",
+        "neuromodulator pobudzający",
+        "przekaźnik wtórny"
+      ],
+      "explanation": "Agonista ma konformację dość podobną, by połączyć się z receptorem i wywołać reakcję; antagonista łączy się, ale blokuje.",
+      "sourceExcerpt": "Agonista ma dostatecznie podobną [konformację], by się połączyć i wywołać reakcję. Antagonista ma dostatecznie podobną by się połączyć, ale nie, by wywołać. Blokuje.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-33",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Długotrwałe stosowanie antagonisty receptora prowadzi do:"
+      ],
+      "correct": [
+        "wzrostu liczby receptorów"
+      ],
+      "distractors": [
+        "spadku liczby receptorów",
+        "zaniku neurotransmitera",
+        "przyspieszenia przewodzenia",
+        "zwiększenia wychwytu zwrotnego",
+        "trwałej depolaryzacji",
+        "braku zmian w receptorach"
+      ],
+      "explanation": "Efekt odstawienia: antagonista → więcej receptorów; agonista → mniej receptorów.",
+      "sourceExcerpt": "Efekt odstawienia: Stosowanie antagonisty prowadzi do wzrostu liczby receptorów. Stosowanie agonisty do spadku liczby receptorów!",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-34",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Kokaina wzmacnia działanie dopaminy, ponieważ:"
+      ],
+      "correct": [
+        "blokuje wychwyt zwrotny dopaminy",
+        "nie pozwala na usuwanie dopaminy przez wychwyt zwrotny"
+      ],
+      "distractors": [
+        "blokuje receptory dopaminowe",
+        "przyspiesza rozkład dopaminy",
+        "blokuje uwalnianie dopaminy",
+        "niszczy neurony dopaminergiczne",
+        "zwiększa produkcję MAO",
+        "zamienia dopaminę w serotoninę"
+      ],
+      "explanation": "Gdy wychwyt zwrotny jest zablokowany, dopamina dłużej pozostaje przy receptorach.",
+      "sourceExcerpt": "Np. kokaina → blokuje wychwyt zwrotny dopaminy → dopamina nie jest usuwana z receptorów.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-35",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Toksyna botulinowa i kurara dają podobny efekt (brak aktywacji przez acetylocholinę), ale różnym mechanizmem. Kurara:"
+      ],
+      "correct": [
+        "blokuje receptory acetylocholiny"
+      ],
+      "distractors": [
+        "blokuje uwalnianie acetylocholiny",
+        "przyspiesza rozkład acetylocholiny",
+        "blokuje wychwyt zwrotny acetylocholiny",
+        "zwiększa liczbę receptorów",
+        "niszczy otoczkę mielinową",
+        "pobudza receptory GABA"
+      ],
+      "explanation": "Toksyna botulinowa blokuje uwolnienie acetylocholiny, kurara blokuje jej receptory.",
+      "sourceExcerpt": "Kwas botulinowy → blokuje uwolnienie neurotransmiterów (acetylocholina), a np. kurara blokuje receptory acetylocholiny → efekt ten sam, mimo że inny mechanizm.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-36",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Udział danego potencjału postsynaptycznego w wytwarzaniu potencjału czynnościowego, którego trwała zmiana leży u podłoża uczenia się, to:"
+      ],
+      "correct": [
+        "waga synaptyczna"
+      ],
+      "distractors": [
+        "potencjał progowy",
+        "refrakcja względna",
+        "kod częstości",
+        "potencjał spoczynkowy",
+        "konformacja receptora",
+        "przewodzenie skokowe"
+      ],
+      "explanation": "Trwała zmiana wagi synaptycznej to reorganizacja sieci (uczenie się); przejściowa to habituacja lub sensytyzacja.",
+      "sourceExcerpt": "Udział danego PSP w wytwarzaniu potencjału czynnościowego nazywa się wagą synaptyczną. Zmiana wagi synaptycznej wiąże się z trwałą reorganizacją sieci neuronalnej i leży u podłoża mechanizmu uczenia się.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-37",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Przejściowe zmiany wagi synaptycznej to:"
+      ],
+      "correct": [
+        "habituacja i sensytyzacja"
+      ],
+      "distractors": [
+        "apoptoza i nekroza",
+        "depolaryzacja i repolaryzacja",
+        "anabolizm i katabolizm",
+        "refrakcja i repolaryzacja",
+        "agonizm i antagonizm",
+        "mielinizacja i demielinizacja"
+      ],
+      "explanation": "Waga synaptyczna może zmieniać się trwale (uczenie się) lub przejściowo (habituacja, sensytyzacja).",
+      "sourceExcerpt": "Waga synaptyczna może się zmienić też przejściowo (habituacja lub sensytyzacja).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-38",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Komórki glejowe tworzące wypustkami barierę krew–mózg i uczestniczące w powstawaniu synaps to:"
+      ],
+      "correct": [
+        "astrocyty"
+      ],
+      "distractors": [
+        "oligodendrocyty",
+        "mikroglej",
+        "komórki Schwanna",
+        "ciałka Nissla",
+        "neurony",
+        "koneksyny"
+      ],
+      "explanation": "Astrocyty dotykają naczyń włosowatych (bariera krew–mózg), uczestniczą w wymianie substancji i tworzeniu synaps.",
+      "sourceExcerpt": "Astrocyty uczestniczą w wymianie substancji energetycznych i budulcowych, ważne w powstawaniu synaps. Astrocyty wypustkami dotykają naczyń włosowatych → tworzą barierę krew-mózg.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-39",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Komórki glejowe o właściwościach żernych, rozkładające obumarłe neurony, to:"
+      ],
+      "correct": [
+        "komórki mikrogleju"
+      ],
+      "distractors": [
+        "astrocyty",
+        "oligodendrocyty",
+        "komórki Schwanna",
+        "koneksyny",
+        "ciałka buławkowate",
+        "kolbki synaptyczne"
+      ],
+      "explanation": "Mikroglej: właściwości żerne, ważny w rozwoju mózgu i mechanizmach obronnych.",
+      "sourceExcerpt": "Komórki mikrogleju - właściwości żerne, ważne w rozwoju mózgu i mechanizmach obronnych (rozkładają obumarłe neurony).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-40",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Mechanizm zaprogramowanej śmierci komórek (np. neuronów) to:"
+      ],
+      "correct": [
+        "apoptoza"
+      ],
+      "distractors": [
+        "refrakcja",
+        "habituacja",
+        "repolaryzacja",
+        "demielinizacja",
+        "katabolizm",
+        "sensytyzacja"
+      ],
+      "explanation": "Gdy mózg jest wystawiony na mniej bodźców, liczba związanych z nimi neuronów się redukuje; apoptoza to mechanizm zabijania się komórek.",
+      "sourceExcerpt": "Apoptoza - mechanizm zabijania się komórek (np. neuronów).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-41",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Na wykresie potencjału czynnościowego potencjał spoczynkowy wynosi ok. −70 mV, próg ok. −55 mV, a szczyt potencjału iglicowego sięga około:"
+      ],
+      "correct": [
+        "+35 mV"
+      ],
+      "distractors": [
+        "−55 mV",
+        "0 mV",
+        "+90 mV",
+        "−90 mV",
+        "+120 mV",
+        "+5 mV"
+      ],
+      "explanation": "Wykres okresów refrakcji: spoczynek ok. −70 mV, próg ok. −55 mV, szczyt ok. +35 mV.",
+      "sourceExcerpt": "Ilustracja (okresy refrakcji): resting membrane potential −70 mV, threshold −55 mV, szczyt potencjału ok. +35 mV.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-42",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Okres refrakcji względnej przypada na:"
+      ],
+      "correct": [
+        "końcówkę opadania i zejście poniżej spoczynku"
+      ],
+      "distractors": [
+        "narastanie potencjału aż do szczytu",
+        "okres przed osiągnięciem progu",
+        "cały czas trwania potencjału iglicowego",
+        "stały potencjał spoczynkowy przed bodźcem",
+        "sam moment osiągnięcia progu",
+        "szczyt potencjału iglicowego"
+      ],
+      "explanation": "Refrakcja bezwzględna obejmuje potencjał iglicowy; względna następuje po nim, gdy potencjał wraca i na chwilę spada poniżej spoczynkowego.",
+      "sourceExcerpt": "Ilustracja (okresy refrakcji): absolute refractory period – potencjał iglicowy; relative refractory period – końcowa repolaryzacja i spadek poniżej potencjału spoczynkowego.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-43",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "We włóknie zmielinizowanym (w przeciwieństwie do niezmielinizowanego) aktywny obszar błony występuje:"
+      ],
+      "correct": [
+        "tylko w przerwach między odcinkami mieliny"
+      ],
+      "distractors": [
+        "na całej długości włókna jednocześnie",
+        "pod środkiem każdego odcinka mieliny",
+        "wyłącznie w ciele komórki nerwowej",
+        "tylko na samym końcu aksonu",
+        "wewnątrz otoczki mielinowej",
+        "wyłącznie w dendrytach"
+      ],
+      "explanation": "Schemat przewodzenia: we włóknie bez mieliny pobudzenie przesuwa się ciągle, w zmielinizowanym aktywne są tylko przerwy między odcinkami otoczki (przewodzenie skokowe).",
+      "sourceExcerpt": "Ilustracja (przewodzenie A – bez mieliny, B – z otoczką): active area w przerwie między odcinkami myelin sheath; propagation of activation.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-44",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Gdy włókno nerwowe zostanie sztucznie pobudzone elektrodą w środku jego przebiegu, aktywacja rozchodzi się:"
+      ],
+      "correct": [
+        "w obu kierunkach od miejsca pobudzenia"
+      ],
+      "distractors": [
+        "tylko w stronę ciała komórki",
+        "tylko w stronę zakończeń aksonu",
+        "wcale się nie rozchodzi",
+        "wyłącznie po powierzchni mieliny",
+        "tylko do sąsiedniego neuronu",
+        "tylko przy braku mieliny"
+      ],
+      "explanation": "Przy sztucznej stymulacji impuls biegnie w obie strony (także antydromowo); naturalnie neuron przewodzi ortodromowo.",
+      "sourceExcerpt": "Ilustracja: stymulacja (I_S) w środku włókna, strzałki „propagation of activation” w obie strony. Tekst: przy sztucznej stymulacji aksonu impuls rozchodzi się w obie strony.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-45",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Synapsa, w której zakończenie aksonu wydziela substancję bezpośrednio do krwiobiegu, to synapsa:"
+      ],
+      "correct": [
+        "aksosekrecyjna"
+      ],
+      "distractors": [
+        "aksoaksonalna",
+        "aksodendrytyczna",
+        "aksoekstracelularna",
+        "aksosomatyczna",
+        "aksosynaptyczna",
+        "dendrodendrytyczna",
+        "elektryczna"
+      ],
+      "explanation": "Typy synaps według miejsca zakończenia aksonu: do krwi (aksosekrecyjna), do aksonu, do dendrytu, do płynu, do ciała komórki, do innej kolbki.",
+      "sourceExcerpt": "Ilustracja (typy synaps): Axosecretory – axon terminal secretes directly into bloodstream.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-46",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Synapsa, w której zakończenie aksonu kończy się na ciele (somie) innego neuronu, to synapsa:"
+      ],
+      "correct": [
+        "aksosomatyczna"
+      ],
+      "distractors": [
+        "aksosekrecyjna",
+        "aksoaksonalna",
+        "aksodendrytyczna",
+        "aksoekstracelularna",
+        "aksosynaptyczna",
+        "dendrodendrytyczna",
+        "elektryczna"
+      ],
+      "explanation": "Aksosomatyczna – na ciele komórki; aksodendrytyczna – na kolcu dendrytu; aksosynaptyczna – na innej kolbce.",
+      "sourceExcerpt": "Ilustracja (typy synaps): Axosomatic – axon terminal ends on soma.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-47",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Zakończenie aksonu, które nie łączy się z żadną komórką i wydziela przekaźnik do płynu zewnątrzkomórkowego, tworzy synapsę:"
+      ],
+      "correct": [
+        "aksoekstracelularna"
+      ],
+      "distractors": [
+        "aksosekrecyjna",
+        "aksoaksonalna",
+        "aksodendrytyczna",
+        "aksosomatyczna",
+        "aksosynaptyczna",
+        "dendrodendrytyczna",
+        "elektryczna"
+      ],
+      "explanation": "Aksoekstracelularna: brak połączenia, wydzielanie do płynu zewnątrzkomórkowego.",
+      "sourceExcerpt": "Ilustracja (typy synaps): Axoextracellular – axon with no connection secretes into extracellular fluid.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-48",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Synapsa, w której zakończenie aksonu kończy się na kolcu dendrytycznym innego neuronu, to synapsa:"
+      ],
+      "correct": [
+        "aksodendrytyczna"
+      ],
+      "distractors": [
+        "aksosekrecyjna",
+        "aksoaksonalna",
+        "aksoekstracelularna",
+        "aksosomatyczna",
+        "aksosynaptyczna",
+        "dendrodendrytyczna",
+        "elektryczna"
+      ],
+      "explanation": "Aksodendrytyczna – zakończenie aksonu na kolcu dendrytu.",
+      "sourceExcerpt": "Ilustracja (typy synaps): Axodendritic – axon terminal ends on a dendrite spine.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-49",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroprzekaźnikiem określanym jako neuroprzekaźnik „walcz lub uciekaj” jest:"
+      ],
+      "correct": [
+        "adrenalina"
+      ],
+      "distractors": [
+        "noradrenalina",
+        "dopamina",
+        "serotonina",
+        "GABA",
+        "acetylocholina",
+        "glutaminian",
+        "endorfiny"
+      ],
+      "explanation": "Adrenalina – walka/ucieczka, noradrenalina – koncentracja, dopamina – przyjemność, serotonina – nastrój, GABA – uspokojenie, acetylocholina – uczenie się, glutaminian – pamięć, endorfiny – euforia.",
+      "sourceExcerpt": "Ilustracja (neurotransmitery): Adrenaline – fight or flight neurotransmitter.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-50",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroprzekaźnikiem określanym jako neuroprzekaźnik koncentracji jest:"
+      ],
+      "correct": [
+        "noradrenalina"
+      ],
+      "distractors": [
+        "adrenalina",
+        "dopamina",
+        "serotonina",
+        "GABA",
+        "acetylocholina",
+        "glutaminian",
+        "endorfiny"
+      ],
+      "explanation": "Noradrenalina – koncentracja; adrenalina – walka/ucieczka.",
+      "sourceExcerpt": "Ilustracja (neurotransmitery): Noradrenaline – concentration neurotransmitter.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-51",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroprzekaźnikiem określanym jako neuroprzekaźnik uczenia się jest:"
+      ],
+      "correct": [
+        "acetylocholina"
+      ],
+      "distractors": [
+        "adrenalina",
+        "noradrenalina",
+        "dopamina",
+        "serotonina",
+        "GABA",
+        "glutaminian",
+        "endorfiny"
+      ],
+      "explanation": "Acetylocholina – uczenie się; glutaminian – pamięć.",
+      "sourceExcerpt": "Ilustracja (neurotransmitery): Acetylcholine – learning neurotransmitter.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-52",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroprzekaźnikiem określanym jako neuroprzekaźnik pamięci jest:"
+      ],
+      "correct": [
+        "glutaminian"
+      ],
+      "distractors": [
+        "adrenalina",
+        "noradrenalina",
+        "dopamina",
+        "serotonina",
+        "GABA",
+        "acetylocholina",
+        "endorfiny"
+      ],
+      "explanation": "Glutaminian (kwas glutaminowy, pobudzający) – pamięć; GABA (hamujący) – uspokojenie.",
+      "sourceExcerpt": "Ilustracja (neurotransmitery): Glutamate – memory neurotransmitter.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-53",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Neuroprzekaźnikiem określanym jako „uspokajający” jest:"
+      ],
+      "correct": [
+        "GABA"
+      ],
+      "distractors": [
+        "adrenalina",
+        "noradrenalina",
+        "dopamina",
+        "serotonina",
+        "acetylocholina",
+        "glutaminian",
+        "endorfiny"
+      ],
+      "explanation": "GABA hamuje i jest opisany jako neuroprzekaźnik uspokajający (calming).",
+      "sourceExcerpt": "Ilustracja (neurotransmitery): GABA – calming neurotransmitter.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-54",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "We wczesnych stadiach rozwoju kontakty synaptyczne są rozproszone. Po przebudowie synaps każdy akson:"
+      ],
+      "correct": [
+        "kontaktuje się z mniejszą liczbą komórek",
+        "tworzy bardziej skupiony wzorzec połączeń"
+      ],
+      "distractors": [
+        "łączy się z większą liczbą komórek",
+        "traci wszystkie połączenia synaptyczne",
+        "łączy się wyłącznie z komórkami glejowymi",
+        "przestaje przewodzić impulsy",
+        "tworzy wyłącznie synapsy elektryczne",
+        "łączy się tylko z własnym ciałem komórki"
+      ],
+      "explanation": "Przebudowa synaps zwiększa selektywność przekazu: połączenia każdego aksonu skupiają się na mniejszej liczbie komórek. Synapsy reorganizują się w ciągu życia.",
+      "sourceExcerpt": "Ilustracja (Figure 9.10): A diffuse pattern of synaptic contact is characteristic of early stages of development; a more focused pattern after synapse rearrangement – contacts focused on a smaller number of cells.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

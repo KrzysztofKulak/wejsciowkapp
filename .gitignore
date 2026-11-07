@@ -9,3 +9,5 @@ source/prezentacja-*.md
 druk/
 # Text extracted from book PDFs (copyrighted excerpts, public repo): keep local only
 source/ksiazka-*.md
+# Images downloaded from Notion (third-party diagrams possible): keep local only
+source/img/

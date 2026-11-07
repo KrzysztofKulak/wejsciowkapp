@@ -173,14 +173,36 @@ function setupView(error?: string) {
   let userTouchedRange = false;
   range.addEventListener("input", () => { userTouchedRange = true; refresh(); });
 
+  // Subject search: every typed word must be the beginning of some word in the subject title
+  // (case- and diacritics-insensitive), so "b" → "Biologiczne…", "spol" → "…społecznej".
+  const norm = (s: string) => s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const words = (s: string) => norm(s).split(/[^a-z0-9]+/).filter(Boolean);
+  const groups: { el: HTMLElement; words: string[] }[] = [];
+  const search = h("input", { type: "search", class: "search", placeholder: "Szukaj przedmiotu…", "aria-label": "Szukaj przedmiotu", autocomplete: "off" }) as HTMLInputElement;
+  const noMatch = h("p", { class: "muted", style: "display:none;margin:0" });
+  search.addEventListener("input", () => {
+    const qWords = words(search.value);
+    let shown = 0;
+    for (const g of groups) {
+      const ok = qWords.every((qw) => g.words.some((w) => w.startsWith(qw)));
+      g.el.style.display = ok ? "" : "none";
+      if (ok) shown++;
+    }
+    noMatch.textContent = `Brak przedmiotów pasujących do „${search.value.trim()}”.`;
+    noMatch.style.display = shown ? "none" : "";
+  });
+
   /** Books grouped under subject headers (visual only: any books can still be selected together). */
   function scopeNodes(): Node[] {
     const subjects = index.subjects ?? [];
     if (!subjects.length) return index.books.map(bookNode);
     const byId = new Map(index.books.map((b) => [b.id, b] as const));
     const used = new Set<string>();
-    const group = (title: string, books: IndexBook[]) =>
-      h("div", { class: "subject" }, h("div", { class: "subject-title" }, title), ...books.map(bookNode));
+    const group = (title: string, books: IndexBook[]) => {
+      const el = h("div", { class: "subject" }, h("div", { class: "subject-title" }, title), ...books.map(bookNode));
+      groups.push({ el, words: words(title) });
+      return el;
+    };
     const out: Node[] = [];
     for (const sub of subjects) {
       const books = sub.books.map((id) => byId.get(id)).filter((b): b is IndexBook => !!b);
@@ -263,7 +285,8 @@ function setupView(error?: string) {
   render(
     h("div", { class: "topbar" }, h("span", { class: "title" }, "🧠 Wejściówka"), h("span", { class: "muted" }, `${index.books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} pytań w bazie`)),
     error ? h("p", { class: "error" }, error) : "",
-    h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zakres"), ...scopeNodes()),
+    h("div", { class: "searchbar" }, search),
+    h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zakres"), h("div", { class: "subjects" }, ...scopeNodes(), noMatch)),
     exams.length
       ? h("div", { class: "card" }, h("h2", { style: "margin-top:0" }, "Zaliczenia"), h("p", { class: "muted", style: "margin-top:-4px" }, "Pytania zebrane pod kątem konkretnego zaliczenia, niezależnie od źródła."), ...exams.map(examNode))
       : "",

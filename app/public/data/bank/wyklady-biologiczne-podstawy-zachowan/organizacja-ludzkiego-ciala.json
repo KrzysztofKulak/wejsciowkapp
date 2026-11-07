@@ -1,0 +1,382 @@
+{
+  "bookId": "wyklady-biologiczne-podstawy-zachowan",
+  "chapterId": "organizacja-ludzkiego-ciala",
+  "chapterTitle": "Organizacja ludzkiego ciała",
+  "sourceHash": "9e3baf24a158a87849ffea15ff02c539950a4c64",
+  "questions": [
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-01",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Pogląd, że na pewnym poziomie złożoności pojawia się nowa właściwość, to:"
+      ],
+      "correct": [
+        "emergentyzm"
+      ],
+      "distractors": [
+        "redukcjonizm",
+        "homeostaza",
+        "homologia",
+        "determinizm",
+        "allometria",
+        "mechanicyzm",
+        "holizm metaboliczny"
+      ],
+      "explanation": "Emergentyzm leży u podstaw hierarchicznej organizacji ciała: kolejne poziomy mają właściwości, których nie ma na niższych.",
+      "sourceExcerpt": "Emergentyzm - na pewnym poziomie złożoności pojawia się nowa właściwość.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-02",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "W hierarchicznej organizacji ludzkiego ciała bezpośrednio po poziomie tkankowym następuje poziom:"
+      ],
+      "correct": [
+        "narządowy"
+      ],
+      "distractors": [
+        "komórkowy",
+        "układowy",
+        "organizmalny",
+        "chemiczny",
+        "populacyjny",
+        "molekularny"
+      ],
+      "explanation": "Kolejność: chemiczny, komórkowy, tkankowy, narządowy, układowy, organizmalny.",
+      "sourceExcerpt": "1. Organizacja chemiczna 2. Organizacja komórkowa 3. Poziom tkankowy 4. Poziom narządowy 5. Poziom układowy 6. Poziom organizmalny.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-03",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Rodzajem łączności, który integruje pozostałe funkcje organizmu w sposób nadrzędny, jest łączność:"
+      ],
+      "correct": [
+        "nerwowa"
+      ],
+      "distractors": [
+        "mechaniczna",
+        "chemiczna",
+        "hormonalna",
+        "krwionośna",
+        "kostno-mięśniowa",
+        "limfatyczna"
+      ],
+      "explanation": "Trzy rodzaje łączności: mechaniczna (układ kostno-mięśniowy), chemiczna (krążenie krwi), nerwowa (nadrzędna integracja).",
+      "sourceExcerpt": "Rodzaje łączności: 1. Mechaniczna (układ kostno-mięśniowy) 2. Chemiczna (krążenie krwi) 3. Nerwowa (układ nerwowy - integruje w sposób nadrzędny pozostałe funkcje).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-04",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Łączność chemiczna w organizmie zapewniana jest przez:"
+      ],
+      "correct": [
+        "krążenie krwi w sieci naczyń krwionośnych",
+        "krwiobieg"
+      ],
+      "distractors": [
+        "układ kostno-mięśniowy",
+        "układ nerwowy",
+        "przewodzenie impulsów w aksonach",
+        "skurcze mięśni gładkich",
+        "tkankę łączną",
+        "receptory skórne"
+      ],
+      "explanation": "Mechaniczna – układ kostno-mięśniowy, chemiczna – krążenie krwi, nerwowa – układ nerwowy.",
+      "sourceExcerpt": "Chemiczna (krążenie krwi w sieci naczyń krwionośnych).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-05",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Regulowanie przepływów substancji i energii w celu zapewnienia stabilności warunków wewnętrznych to:"
+      ],
+      "correct": [
+        "homeostaza"
+      ],
+      "distractors": [
+        "metabolizm",
+        "homologia",
+        "anabolizm",
+        "emergentyzm",
+        "allometria",
+        "pobudliwość"
+      ],
+      "explanation": "Homeostazę zapewniają pętle sprzężeń zwrotnych; to stabilność środowiska wewnętrznego.",
+      "sourceExcerpt": "Homeostaza - regulowanie przepływów substancji i energii w celu zapewnienia stabilności warunków wewnętrznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-06",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Proces, w którym pokarm zużywany jest do budowy organizmu (rozwój, wzrost, doskonalenie struktur), to:"
+      ],
+      "correct": [
+        "anabolizm"
+      ],
+      "distractors": [
+        "katabolizm",
+        "metabolizm podstawowy",
+        "homeostaza",
+        "apoptoza",
+        "homologia",
+        "depolaryzacja"
+      ],
+      "explanation": "Metabolizm obejmuje anabolizm (budowanie) i katabolizm (rozkład składników na zapas energetyczny).",
+      "sourceExcerpt": "Anabolizm - pokarm zużywany jest do budowania organizmu związanego z jego rozwojem, wzrostem i doskonaleniem struktur.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-07",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Proces, w którym składniki pokarmowe są rozkładane i stanowią tylko energetyczny zapas komórek, to:"
+      ],
+      "correct": [
+        "katabolizm"
+      ],
+      "distractors": [
+        "anabolizm",
+        "homeostaza",
+        "emergentyzm",
+        "repolaryzacja",
+        "homologia",
+        "allometria"
+      ],
+      "explanation": "Katabolizm to rozkład; anabolizm to budowa.",
+      "sourceExcerpt": "Katabolizm - dostarczane składniki pokarmowe są rozkładane i stanowią tylko energetyczny zapas komórek.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-08",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "W sprzężeniu zwrotnym ujemnym:"
+      ],
+      "correct": [
+        "wzrost jednego elementu powoduje spadek drugiego",
+        "wzrost jednej wartości obniża drugą"
+      ],
+      "distractors": [
+        "wzrost jednego elementu powoduje wzrost drugiego",
+        "oba elementy zawsze pozostają stałe",
+        "proces musi zostać przerwany z zewnątrz",
+        "regulacja zachodzi tylko raz w życiu",
+        "spadek jednego elementu nie ma wpływu na drugi",
+        "elementy zmieniają się niezależnie"
+      ],
+      "explanation": "Ujemne sprzężenie stabilizuje (glukoza–insulina, hormony); dodatnie wzmacnia i musi zostać przerwane.",
+      "sourceExcerpt": "Sprzężenie zwrotne ujemne (hormony, glukoza-insulina): wzrost jednego elementu, powoduje spadek drugiego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-09",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Przykładem sprzężenia zwrotnego dodatniego jest:"
+      ],
+      "correct": [
+        "owulacja (wyrzut LH i pęknięcie pęcherzyka Graafa)",
+        "przejście trypsynogenu w trypsynę"
+      ],
+      "distractors": [
+        "regulacja poziomu glukozy przez insulinę",
+        "regulacja temperatury przez oś podwzgórze–przysadka–tarczyca",
+        "utrzymywanie stałego potencjału spoczynkowego",
+        "wydzielanie tyreotropiny przy spadku temperatury",
+        "regulacja ciśnienia krwi",
+        "utrzymywanie stałego pH krwi"
+      ],
+      "explanation": "Dodatnie: wzrost jednego elementu powoduje wzrost drugiego (owulacja, uczenie się nawyków, trypsynogen → trypsyna); może trwać tylko przez pewien czas.",
+      "sourceExcerpt": "Sprzężenie zwrotne dodatnie (uczenie się nawyków, przejście trypsynogenu w trypsynę). Przykład: owulacja → FSH powoduje wzrost pęcherzyka Graafa, estrogen, wyrzut LH powoduje pęknięcie pęcherzyka.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-10",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Sprzężenie zwrotne dodatnie może trwać tylko pewien czas, ponieważ:"
+      ],
+      "correct": [
+        "coś musi je przerwać, inaczej narastałoby bez końca",
+        "samo z siebie by się nie zatrzymało"
+      ],
+      "distractors": [
+        "sam spadek jednego elementu je wygasza",
+        "działa tylko w układzie nerwowym",
+        "wymaga stałej temperatury ciała",
+        "jest zawsze blokowane przez insulinę",
+        "zachodzi wyłącznie podczas snu",
+        "działa tylko u zwierząt"
+      ],
+      "explanation": "W dodatnim sprzężeniu wzrost napędza wzrost, więc proces musi zostać przerwany.",
+      "sourceExcerpt": "Sprzężenie zwrotne dodatnie: wzrost jednego elementu, powoduje wzrost drugiego. Może trwać tylko pewien czas, coś musi go przerwać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-11",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "W regulacji temperatury ciała przez oś podwzgórze–przysadka–tarczyca, gdy zimniejsza krew dociera do podwzgórza, to ono:"
+      ],
+      "correct": [
+        "wydziela więcej tyreoliberyny (TSH-RF)",
+        "zwiększa wydzielanie tyreoliberyny"
+      ],
+      "distractors": [
+        "przestaje wydzielać tyreoliberynę",
+        "wydziela więcej T3 i T4",
+        "zmniejsza tempo przemiany materii",
+        "hamuje pracę przysadki",
+        "wydziela insulinę",
+        "blokuje tarczycę"
+      ],
+      "explanation": "Podwzgórze (tyreoliberyna) → przysadka (tyreotropina) → tarczyca (T3, T4) → wzrost przemiany materii i temperatury → hamowanie zwrotne całej osi.",
+      "sourceExcerpt": "Zimniejsza krew dociera do podwzgórza: podwzgórze wydziela więcej tyreoliberyny TSH-RF → wzrost wydzielania tyreotropiny przez przysadkę → tarczyca zwiększa wydzielanie T3 i T4.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-12",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Przyrostek „-liberyna” w nazwie hormonu oznacza, że hormon:"
+      ],
+      "correct": [
+        "coś uwalnia"
+      ],
+      "distractors": [
+        "coś hamuje",
+        "coś blokuje",
+        "coś rozkłada",
+        "coś wiąże",
+        "coś wchłania",
+        "coś pobudza"
+      ],
+      "explanation": "„-liberyna” – coś uwalnia; „-tropina” – działa w kierunku (narządu docelowego).",
+      "sourceExcerpt": "-liberyna - coś uwalnia; -tropia - w kierunku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-13",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Wspólne pochodzenie struktur, cech lub procesów u różnych organizmów, wynikające z odziedziczenia ich po wspólnym przodku, to:"
+      ],
+      "correct": [
+        "homologia"
+      ],
+      "distractors": [
+        "analogia",
+        "homeostaza",
+        "emergentyzm",
+        "allometria",
+        "konwergencja",
+        "anabolizm"
+      ],
+      "explanation": "Homologia morfologiczno-fizjologiczna pozwala analizować funkcje ludzkiego organizmu na podstawie badań innych zwierząt.",
+      "sourceExcerpt": "Homologia - wspólne pochodzenie struktur, cech lub procesów u różnych organizmów, wynikające z odziedziczenia ich po wspólnym przodku.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-14",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Homologia morfologiczno-fizjologiczna jest ważna dla psychologii biologicznej, ponieważ:"
+      ],
+      "correct": [
+        "uzasadnia przenoszenie wyników badań na zwierzętach na ludzi"
+      ],
+      "distractors": [
+        "dowodzi, że ludzie nie mają emocji zwierzęcych",
+        "pokazuje, że mózg rośnie niezależnie od ciała",
+        "wyjaśnia, dlaczego mięśnie się męczą",
+        "tłumaczy mechanizm przewodzenia skokowego",
+        "wyklucza badania nad zachowaniem zwierząt",
+        "opisuje zasadę „wszystko albo nic”"
+      ],
+      "explanation": "Badania na innych zwierzętach dobrze przekładają się na ludzi, także te dotyczące zachowań; podstawą jest homologia.",
+      "sourceExcerpt": "Homologia morfologiczno-fizjologiczna - umożliwia analizowanie funkcji organizmu ludzkiego na podstawie badań innych zwierząt.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-15",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Cykliczność wielu parametrów fizjologicznych świadczy o:"
+      ],
+      "correct": [
+        "istnieniu wewnętrznej regulacji niezależnej od otoczenia"
+      ],
+      "distractors": [
+        "całkowitej zależności organizmu od środowiska",
+        "braku homeostazy w organizmie",
+        "przypadkowości procesów fizjologicznych",
+        "wyłącznie hormonalnym sterowaniu zachowaniem",
+        "przewadze sprzężeń dodatnich",
+        "braku struktury informacyjnej"
+      ],
+      "explanation": "Stabilność wobec wpływów zewnętrznych zapewnia hierarchiczny system pętli sprzężeń zwrotnych; cykliczność wskazuje na wewnętrzny regulator.",
+      "sourceExcerpt": "Cykliczność wielu parametrów fizjologicznych świadczy o wewnętrznym układzie regulującym, niezależnym od środowiska.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-organizacja-ludzkiego-ciala-16",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "organizacja-ludzkiego-ciala",
+      "stems": [
+        "Istotę organizmu jako układu dynamicznego otwartego stanowi według wykładu:"
+      ],
+      "correct": [
+        "jego struktura informacyjna"
+      ],
+      "distractors": [
+        "jego materia i skład",
+        "jego całkowita masa",
+        "jego tempo metabolizmu",
+        "jego układ mięśniowy",
+        "jego środowisko życia",
+        "jego wiek biologiczny"
+      ],
+      "explanation": "„Podstawą zainteresowania biologii jest informacja, nie materia, bo materia przez nas przepływa.”",
+      "sourceExcerpt": "Istotę organizmu stanowi jego struktura informacyjna. „Podstawą zainteresowania biologii jest informacja, nie materia, bo materia przez nas przepływa.”",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "bookId": "wyklady-biologiczne-podstawy-zachowan",
+  "chapterId": "uklad-nerwowy",
+  "chapterTitle": "Układ nerwowy",
+  "sourceHash": "72c712be948cea367a9dda6845b9016d40c8363b",
+  "questions": [
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-01",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ośrodkowy układ nerwowy tworzą:"
+      ],
+      "correct": [
+        "mózgowie i rdzeń kręgowy"
+      ],
+      "distractors": [
+        "nerwy czaszkowe i rdzeniowe",
+        "mózgowie i nerwy czaszkowe",
+        "rdzeń kręgowy i nerwy rdzeniowe",
+        "układ somatyczny i autonomiczny",
+        "półkule i nerwy rdzeniowe",
+        "móżdżek i zwoje"
+      ],
+      "explanation": "OUN: mózgowie (półkule, móżdżek, pień mózgu) i rdzeń kręgowy; obwodowy: nerwy czaszkowe i rdzeniowe.",
+      "sourceExcerpt": "Układ nerwowy ośrodkowy: Mózgowie (półkule, móżdżek, pień mózgu), Rdzeń kręgowy. Układ nerwowy obwodowy: Nerwy czaszkowe, Nerwy rdzeniowe.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-02",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Podział układu nerwowego na somatyczny i autonomiczny to podział:"
+      ],
+      "correct": [
+        "czynnościowy"
+      ],
+      "distractors": [
+        "topograficzny",
+        "rozwojowy",
+        "histologiczny",
+        "chemiczny",
+        "ewolucyjny",
+        "segmentowy"
+      ],
+      "explanation": "Topograficzny: ośrodkowy i obwodowy. Czynnościowy: somatyczny (efektor – mięśnie) i autonomiczny (narządy wewnętrzne).",
+      "sourceExcerpt": "Podział czynnościowy: Układ nerwowy somatyczny – jego narządami wykonawczymi są mięśnie. Układ nerwowy autonomiczny – odpowiada za czynność narządów wewnętrznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-03",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Układ nerwowy autonomiczny odpowiada za:"
+      ],
+      "correct": [
+        "czynność narządów wewnętrznych"
+      ],
+      "distractors": [
+        "ruchy dowolne mięśni szkieletowych",
+        "świadome czucie dotyku",
+        "mowę i myślenie",
+        "wytwarzanie mieliny",
+        "napięcie mięśni twarzy",
+        "ruchy gałek ocznych"
+      ],
+      "explanation": "Somatyczny – efektorami są mięśnie; autonomiczny – narządy wewnętrzne.",
+      "sourceExcerpt": "Układ nerwowy autonomiczny – odpowiada za czynność narządów wewnętrznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-04",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Od rdzenia kręgowego odchodzi:"
+      ],
+      "correct": [
+        "31 par nerwów rdzeniowych"
+      ],
+      "distractors": [
+        "12 par nerwów rdzeniowych",
+        "33 pary nerwów rdzeniowych",
+        "24 pary nerwów rdzeniowych",
+        "8 par nerwów rdzeniowych",
+        "46 par nerwów rdzeniowych",
+        "62 pary nerwów rdzeniowych"
+      ],
+      "explanation": "31 par: 8 szyjnych, 12 piersiowych, 5 lędźwiowych, 5 krzyżowych, 1 guziczna.",
+      "sourceExcerpt": "Od rdzenia odchodzi 31 par nerwów rdzeniowych (8 szyjnych, 12 piersiowych, 5 lędźwiowych i krzyżowych i 1 guziczny).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-05",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W przekroju rdzenia kręgowego istota szara leży:"
+      ],
+      "correct": [
+        "wewnątrz, a istota biała (włókna nerwowe) dookoła",
+        "w środku, otoczona istotą białą"
+      ],
+      "distractors": [
+        "na zewnątrz, a istota biała w środku",
+        "wyłącznie z przodu rdzenia",
+        "wyłącznie z tyłu rdzenia",
+        "na przemian z istotą białą w warstwach",
+        "tylko w odcinku szyjnym",
+        "w korzeniach nerwów"
+      ],
+      "explanation": "W rdzeniu substancja szara jest w środku, a biała (włókna) na zewnątrz.",
+      "sourceExcerpt": "Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-06",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Włókna aferentne (czuciowe) wchodzą do rdzenia kręgowego w korzeniach:"
+      ],
+      "correct": [
+        "grzbietowych (tylnych)"
+      ],
+      "distractors": [
+        "brzusznych (przednich)",
+        "bocznych (rdzenia)",
+        "środkowych (rdzenia)",
+        "czaszkowych (mózgu)",
+        "krzyżowych (dolnych)",
+        "autonomicznych (trzewnych)"
+      ],
+      "explanation": "Aferentne – korzenie grzbietowe (czuciowe, z tyłu); eferentne – korzenie brzuszne (ruchowe, z przodu).",
+      "sourceExcerpt": "Włókna aferentne wstępują do rdzenia kręgowego w korzeniach grzbietowych. Włókna eferentne opuszczają rdzeń kręgowy w korzeniach brzusznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-07",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odpowiedź efektora wywołana przez bodziec działający na receptor, wyzwolona za pośrednictwem układu nerwowego, to:"
+      ],
+      "correct": [
+        "odruch"
+      ],
+      "distractors": [
+        "impuls",
+        "skurcz",
+        "synapsa",
+        "bodziec",
+        "potencjał",
+        "pobudliwość"
+      ],
+      "explanation": "Odruchy dzielą się na bezwarunkowe (wrodzone) i warunkowe (nabyte).",
+      "sourceExcerpt": "Odruch: jest to odpowiedź efektora wywołana przez bodziec działający na receptor i wyzwolona za pośrednictwem układu nerwowego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-08",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Łuk odruchowy składa się z pięciu części w kolejności:"
+      ],
+      "correct": [
+        "receptor – włókno aferentne – ośrodek – włókno eferentne – efektor"
+      ],
+      "distractors": [
+        "receptor – włókno eferentne – ośrodek – włókno aferentne – efektor",
+        "efektor – włókno aferentne – ośrodek – włókno eferentne – receptor",
+        "ośrodek – receptor – włókno aferentne – efektor – włókno eferentne",
+        "receptor – ośrodek – włókno aferentne – włókno eferentne – efektor",
+        "włókno aferentne – receptor – ośrodek – efektor – włókno eferentne",
+        "receptor – włókno aferentne – efektor – ośrodek – włókno eferentne"
+      ],
+      "explanation": "Pięć elementów łuku: receptor, włókno aferentne, ośrodek nerwowy, włókno eferentne, efektor (zaznaczone jako materiał na egzamin).",
+      "sourceExcerpt": "Składa się z 5 części (będzie na egzaminie): 1. receptora 2. aferentnego włókna nerwowego 3. ośrodka nerwowego 4. eferentnego włókna nerwowego 5. efektora.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-09",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch wrodzony to odruch:"
+      ],
+      "correct": [
+        "bezwarunkowy"
+      ],
+      "distractors": [
+        "warunkowy",
+        "nabyty",
+        "skrzyżowany",
+        "monosynaptyczny z definicji",
+        "wyuczony",
+        "dowolny"
+      ],
+      "explanation": "Odruchy: bezwarunkowe (wrodzone) i warunkowe (nabyte).",
+      "sourceExcerpt": "Bezwarunkowy (wrodzony). Warunkowy (nabyty).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-10",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Po nadepnięciu na coś groźnego unosimy tę nogę i prostujemy przeciwną. To odruch:"
+      ],
+      "correct": [
+        "skrzyżowany wyprostny"
+      ],
+      "distractors": [
+        "kolanowy (rzepkowy)",
+        "źrenicowy na światło",
+        "rozciągania (miotatyczny)",
+        "warunkowy (nabyty)",
+        "chwytny niemowlęcy",
+        "ssania niemowlęcy"
+      ],
+      "explanation": "Odruch skrzyżowany wyprostny jest polisynaptyczny.",
+      "sourceExcerpt": "Odruch skrzyżowany wyprostny (polisynaptyczny) - reakcja na nadepnięcie na coś groźnego → uniesienie nogi doświadczającej bodźca i wyprostowanie nogi przeciwnej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-11",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch skrzyżowany wyprostny jest odruchem:"
+      ],
+      "correct": [
+        "polisynaptycznym"
+      ],
+      "distractors": [
+        "monosynaptycznym",
+        "warunkowym",
+        "autonomicznym",
+        "czaszkowym",
+        "nabytym",
+        "beznerwowym"
+      ],
+      "explanation": "Udział wielu synaps pozwala skoordynować ruch obu nóg.",
+      "sourceExcerpt": "Odruch skrzyżowany wyprostny (polisynaptyczny).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-12",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Mózg stanowi około 2–2,5% masy ciała, ale zużywa:"
+      ],
+      "correct": [
+        "około 1/4 tlenu w organizmie",
+        "mniej więcej ćwierć zużywanego tlenu"
+      ],
+      "distractors": [
+        "około 1/100 tlenu w organizmie",
+        "około połowy tlenu w organizmie",
+        "tyle tlenu, ile wynosi jego udział w masie",
+        "około 3/4 tlenu w organizmie",
+        "prawie nic tlenu",
+        "około 1/10 tlenu w organizmie"
+      ],
+      "explanation": "Mózg waży średnio 1250–1500 g, w 85% to woda, i zużywa ok. 1/4 tlenu.",
+      "sourceExcerpt": "Waży średnio 1250-1500 g., czyli 2-2.5% masy ciała, które zużywa 1/4 tlenu w organizmie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-13",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Większość neuronów mózgowia (ok. 80%) znajduje się w:"
+      ],
+      "correct": [
+        "móżdżku"
+      ],
+      "distractors": [
+        "korze",
+        "pniu mózgu",
+        "rdzeniu",
+        "wzgórzu",
+        "płacie czołowym",
+        "hipokampie"
+      ],
+      "explanation": "Móżdżek zajmuje ok. 10% objętości, a zawiera ok. 80% z 96 mld neuronów.",
+      "sourceExcerpt": "96 mld neuronów (80% w móżdżku, który zajmuje 10% objętości).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-14",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Wskaźnik określający stosunek rzeczywistej masy mózgu do masy oczekiwanej u zwierzęcia o takich samych rozmiarach ciała to:"
+      ],
+      "correct": [
+        "współczynnik encefalizacji"
+      ],
+      "distractors": [
+        "wskaźnik allometryczny",
+        "współczynnik homologii",
+        "indeks masy ciała",
+        "wskaźnik homeostazy",
+        "współczynnik emergencji",
+        "iloraz inteligencji"
+      ],
+      "explanation": "Współczynnik encefalizacji porównuje rzeczywistą masę mózgu z oczekiwaną dla danych rozmiarów ciała.",
+      "sourceExcerpt": "Współczynnik encefalizacji - to wskaźnik, który określa stosunek rzeczywistej masy mózgu danego organizmu do masy mózgu, jakiej należałoby się spodziewać u zwierzęcia o takich samych rozmiarach ciała.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-15",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Około 25. dnia rozwoju prenatalnego w zawiązku mózgowia wyróżnia się trzy części:"
+      ],
+      "correct": [
+        "przodomózgowie, śródmózgowie i tyłomózgowie"
+      ],
+      "distractors": [
+        "półkule, móżdżek i rdzeń kręgowy",
+        "płat czołowy, ciemieniowy i potyliczny",
+        "most, rdzeń przedłużony i móżdżek",
+        "korę, istotę białą i zwoje podstawy",
+        "wzgórze, podwzgórze i przysadkę",
+        "pień mózgu, móżdżek i układ limbiczny"
+      ],
+      "explanation": "Rozwój prenatalny: 25 dni – przodo-, śródo- i tyłomózgowie; ok. 100 dni – widoczne półkule, móżdżek, most i rdzeń przedłużony; zakręty w pełni widoczne ok. 9. miesiąca.",
+      "sourceExcerpt": "Ilustracja (Rozwój układu nerwowego – okres prenatalny): 25 days – forebrain, midbrain, hindbrain.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-16",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W piątym miesiącu życia płodowego powierzchnia półkul mózgu jest:"
+      ],
+      "correct": [
+        "jeszcze gładka, bez wyraźnych zakrętów",
+        "prawie gładka, bez pofałdowań"
+      ],
+      "distractors": [
+        "pofałdowana jak u noworodka",
+        "podzielona na płaty z głębokimi bruzdami",
+        "niewidoczna, bo półkule jeszcze nie powstały",
+        "mniejsza niż móżdżek",
+        "pokryta mieliną",
+        "zlana z rdzeniem kręgowym"
+      ],
+      "explanation": "Na rycinie mózg 5-miesięczny ma gładkie półkule; zakręty i bruzdy są wyraźne dopiero w 9. miesiącu.",
+      "sourceExcerpt": "Ilustracja (Rozwój układu nerwowego): Five months – gładkie półkule; Nine months – pofałdowana kora.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-17",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Oddychanie (ruchy przepony) jest sterowane z segmentów rdzenia:"
+      ],
+      "correct": [
+        "szyjnych (ok. C3–C4)",
+        "szyjnych"
+      ],
+      "distractors": [
+        "piersiowych (ok. T6)",
+        "lędźwiowych (ok. L3)",
+        "krzyżowych (ok. S2)",
+        "piersiowych (T11–T12)",
+        "lędźwiowo-krzyżowych (L4–S1)",
+        "guzicznych"
+      ],
+      "explanation": "Ośrodek ruchów przepony leży w C3–C4 (na rycinie: oddychanie C1–C4).",
+      "sourceExcerpt": "Tekst: ośrodek ruchów przepony (C3-C4). Ilustracja (Rdzeń kręgowy): Breathing (C1-4).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-18",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ruchy dłoni i palców sterowane są z segmentów rdzenia:"
+      ],
+      "correct": [
+        "C7–T1"
+      ],
+      "distractors": [
+        "C1–C4",
+        "T6–T12",
+        "L3",
+        "L4–S1",
+        "S2–S4",
+        "T11–L2"
+      ],
+      "explanation": "Ośrodki kończyn górnych: C5–C8 i Th1; dłoń i palce: C7–T1.",
+      "sourceExcerpt": "Ilustracja (Rdzeń kręgowy): Hand and finger movement (C7-T1). Tekst: kończyn górnych (C5-8 i Th1).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-19",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Wyprost kolana sterowany jest z segmentu rdzenia:"
+      ],
+      "correct": [
+        "L3"
+      ],
+      "distractors": [
+        "C5",
+        "T6",
+        "S2",
+        "C3",
+        "T1",
+        "S4"
+      ],
+      "explanation": "Na rycinie: knee extension (L3), knee flexion (L5), foot motion (L4–S1).",
+      "sourceExcerpt": "Ilustracja (Rdzeń kręgowy): Knee extension (L3).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-20",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Zwój czuciowy nerwu rdzeniowego (ganglion sensorium) leży na korzeniu:"
+      ],
+      "correct": [
+        "tylnym (grzbietowym)"
+      ],
+      "distractors": [
+        "przednim (brzusznym)",
+        "bocznym",
+        "w istocie szarej",
+        "w kanale środkowym",
+        "w rogu przednim",
+        "w szczelinie pośrodkowej"
+      ],
+      "explanation": "Korzeń tylny niesie włókna czuciowe (aferentne) i ma zwój czuciowy; korzeń przedni – ruchowe (eferentne).",
+      "sourceExcerpt": "Ilustracja (przekrój rdzenia): 12. Radix posterior, 13. Ganglion sensorium nervi spinalis (na korzeniu tylnym); 11. Radix anterior.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-21",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Istota biała rdzenia kręgowego tworzy sznury:"
+      ],
+      "correct": [
+        "przedni, boczny i tylny"
+      ],
+      "distractors": [
+        "górny, środkowy i dolny",
+        "szyjny, piersiowy i lędźwiowy",
+        "czuciowy, ruchowy i autonomiczny",
+        "wewnętrzny i zewnętrzny",
+        "lewy i prawy, bez podziału",
+        "przedni i tylny, bez bocznego"
+      ],
+      "explanation": "Substantia alba: funiculus anterior, lateralis, posterior; substantia grisea: róg przedni, róg tylny, spoidło szare.",
+      "sourceExcerpt": "Ilustracja (przekrój rdzenia): Substantia alba – 4. Funiculus anterior, 5. Funiculus lateralis, 6. Funiculus posterior.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-22",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Uszkodzenie rdzenia kręgowego na poziomie szyjnym (C4 lub C6) prowadzi do:"
+      ],
+      "correct": [
+        "tetraplegii"
+      ],
+      "distractors": [
+        "paraplegii",
+        "hemiplegii",
+        "monoplegii",
+        "porażenia tylko twarzy",
+        "braku porażenia",
+        "porażenia tylko jednej ręki"
+      ],
+      "explanation": "Uszkodzenia C4 i C6 – tetraplegia; T6 i L1 – paraplegia (porażenie dolnej części ciała).",
+      "sourceExcerpt": "Ilustracja (Uszkodzenia a paraliż): C4 injury (tetraplegia), C6 injury (tetraplegia).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-23",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Uszkodzenie rdzenia na poziomie piersiowym (T6) lub lędźwiowym (L1) prowadzi do:"
+      ],
+      "correct": [
+        "paraplegii"
+      ],
+      "distractors": [
+        "tetraplegii",
+        "hemiplegii",
+        "monoplegii",
+        "porażenia rąk",
+        "porażenia twarzy",
+        "braku porażenia"
+      ],
+      "explanation": "Im niżej uszkodzenie, tym mniejszy obszar porażenia; uszkodzenia piersiowe i lędźwiowe dają paraplegię.",
+      "sourceExcerpt": "Ilustracja (Uszkodzenia a paraliż): T6 injury (paraplegia), L1 injury (paraplegia).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-24",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Drogę, jaką przebywa impuls nerwowy od receptora do efektora, nazywa się:"
+      ],
+      "correct": [
+        "łukiem odruchowym"
+      ],
+      "distractors": [
+        "drogą piramidową",
+        "przewodzeniem skokowym",
+        "jednostką motoryczną",
+        "synapsą",
+        "potencjałem czynnościowym",
+        "korzeniem tylnym"
+      ],
+      "explanation": "Łuk odruchowy: receptor → neuron czuciowy → (neuron pośredniczący w istocie szarej) → neuron ruchowy → efektor.",
+      "sourceExcerpt": "Ilustracja (Łuk odruchowy): Droga jaką przebywa impuls nerwowy od receptora do efektora nazywa się łukiem odruchowym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-25",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W łuku odruchowym neuron pośredniczący znajduje się w:"
+      ],
+      "correct": [
+        "istocie szarej rdzenia"
+      ],
+      "distractors": [
+        "istocie białej rdzenia",
+        "skórze, obok receptorów",
+        "mięśniu (efektorze)",
+        "zwoju czuciowym",
+        "korze mózgowej",
+        "korzeniu przednim"
+      ],
+      "explanation": "Na schemacie: receptory czuciowe skóry → neuron czuciowy → neuron pośredniczący (istota szara) → neuron ruchowy → efektor (mięśnie).",
+      "sourceExcerpt": "Ilustracja (Łuk odruchowy): neuron pośredniczący – w istocie szarej; neuron czuciowy, neuron ruchowy, efektor (mięśnie).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-26",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W odruchu skrzyżowanym wyprostnym w nodze, która zetknęła się z bodźcem bólowym:"
+      ],
+      "correct": [
+        "zginacze się kurczą, a prostowniki są hamowane"
+      ],
+      "distractors": [
+        "prostowniki się kurczą, a zginacze są hamowane",
+        "kurczą się wszystkie mięśnie",
+        "wszystkie mięśnie są hamowane",
+        "kurczą się tylko mięśnie stopy",
+        "noga sztywnieje i się prostuje",
+        "zginacze są hamowane, a prostowniki rozluźnione"
+      ],
+      "explanation": "Noga drażniona: zginacze kurczą się i odsuwają stopę od bodźca. Noga przeciwna: prostowniki kurczą się, bo przejmuje ciężar ciała.",
+      "sourceExcerpt": "Ilustracja (Odruch skrzyżowany wyprostny): Flexors contract, moving foot away from painful stimulus; extensors inhibited.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-27",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W odruchu skrzyżowanym wyprostnym w nodze przeciwnej do drażnionej:"
+      ],
+      "correct": [
+        "kurczą się prostowniki, a zginacze są hamowane"
+      ],
+      "distractors": [
+        "zginacze się kurczą i noga się unosi",
+        "wszystkie mięśnie się rozluźniają",
+        "kurczą się tylko mięśnie stopy",
+        "nic się nie zmienia",
+        "zginacze i prostowniki kurczą się naraz",
+        "noga odsuwa się od bodźca"
+      ],
+      "explanation": "Przeciwna noga podtrzymuje ciało: prostowniki kurczą się, zginacze są hamowane; drogi wstępujące niosą informację o bólu i zmianie postawy.",
+      "sourceExcerpt": "Ilustracja (Odruch skrzyżowany wyprostny): Extensors contract as weight shifts to left leg; flexors inhibited.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

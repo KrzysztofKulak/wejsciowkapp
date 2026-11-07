@@ -28,7 +28,7 @@ function blk(rm: RecordMap, id: string): Block | undefined {
 
 const root = resolve(import.meta.dirname, "..");
 const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"), "utf8"));
-type Source = { url?: string; pdf?: string; title?: string; id?: string; chapter?: string };
+type Source = { url?: string; pdf?: string; title?: string; id?: string; chapter?: string; chapterLevel?: number };
 /** `sources` entries are URLs or { url, title?, id? }. `title` replaces the page title (used as the
  *  fallback book title) and `id` names the output file; both are needed when two pages share a title. */
 const sources: Source[] = (config.sources ?? (config.notionUrl ? [config.notionUrl] : [])).map((x: string | Source) => (typeof x === "string" ? { url: x } : x));
@@ -100,6 +100,43 @@ async function renderPage(id: string, depth: number, asHeading: boolean) {
   }
   await renderChildren(rm, page, 0, depth);
 }
+
+/** Saves an image block to source/img/<blockId>.<ext>; returns the path relative to source/, or null. */
+async function downloadImage(rm: RecordMap, b: Block): Promise<string | null> {
+  const raw = b.properties?.source?.[0]?.[0] ?? b.format?.display_source;
+  const url: string | undefined = (rm as any).signed_urls?.[b.id] ?? (typeof raw === "string" && raw.startsWith("http") ? raw : undefined);
+  if (!url) return null;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const type = res.headers.get("content-type") ?? "";
+    const buf = Buffer.from(await res.arrayBuffer());
+    const dir = resolve(root, "source/img");
+    mkdirSync(dir, { recursive: true });
+    // iPhone photos arrive as HEIC even when labelled .jpg: detect by the "ftyp" box, convert with macOS `sips`
+    if (buf.subarray(4, 8).toString("latin1") === "ftyp") {
+      const heic = resolve(dir, `${b.id}.heic`);
+      writeFileSync(heic, buf);
+      try {
+        execFileSync("sips", ["-s", "format", "png", heic, "--out", resolve(dir, `${b.id}.png`)], { stdio: "ignore" });
+        imagesSaved++;
+        return `img/${b.id}.png`;
+      } catch {
+        imagesSaved++;
+        return `img/${b.id}.heic`; // no sips (not macOS): keep the original
+      }
+    }
+    const ext = type.includes("png") ? "png" : type.includes("gif") ? "gif" : type.includes("webp") ? "webp" : type.includes("svg") ? "svg" : "jpg";
+    const name = `${b.id}.${ext}`;
+    writeFileSync(resolve(dir, name), buf);
+    imagesSaved++;
+    return `img/${name}`;
+  } catch (e) {
+    console.warn(`image ${b.id}: ${(e as Error).message}`);
+    return null;
+  }
+}
+let imagesSaved = 0;
 
 function withDashes(h: string) {
   return `${h.slice(0, 8)}-${h.slice(8, 12)}-${h.slice(12, 16)}-${h.slice(16, 20)}-${h.slice(20)}`;
@@ -190,7 +227,12 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
       return;
     case "image": {
       const cap = richText(b.properties?.caption);
-      out.push(`${pad}[image: ${cap}]`, "");
+      out.push(`${pad}[image: ${cap}]`);
+      // Download the picture so questions can cover what the text refers to on it. The path goes into an
+      // HTML comment, which split-notes leaves out of the chapter hash (so existing hashes do not change).
+      const file = await downloadImage(rm, b);
+      if (file) out.push(`${pad}<!-- img: ${file} -->`);
+      out.push("");
       return;
     }
     case "table": {
@@ -262,10 +304,14 @@ for (const src of sources) {
   visitedPages.clear();
   await renderPage(withDashes(pageId), 0, false);
   if (src.title) out[0] = `# ${src.title}`;
+  // Pages whose topics are not numbered ("Układ nerwowy" instead of "Wykład 3"): tell the splitter that
+  // every heading at this level is a chapter.
+  if (src.chapterLevel) out.splice(1, 0, "", `<!-- chapters: h${src.chapterLevel} -->`);
   const md = out.join("\n").replace(/\n{3,}/g, "\n\n").trim() + "\n";
   const title = md.split("\n")[0].replace(/^#\s*/, "");
   const dest = resolve(root, `source/${src.id ?? slugify(title) ?? pageId}.md`);
   writeFileSync(dest, md);
   const words = md.split(/\s+/).filter(Boolean).length;
-  console.log(`Wrote ${dest}: ${headings} headings, ${words} words`);
+  console.log(`Wrote ${dest}: ${headings} headings, ${words} words, ${imagesSaved} image(s)`);
+  imagesSaved = 0;
 }
