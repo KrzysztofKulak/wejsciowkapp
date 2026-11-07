@@ -150,9 +150,13 @@ function setupView(error?: string) {
   function availableCount() {
     let n = 0;
     for (const b of index.books) for (const c of b.chapters) if (selected.has(`${b.id}/${c.id}`)) n += c.questionCount;
-    for (const e of exams) if (selectedExams.has(e.id)) n += e.questionCount;
-    return n; // upper bound: a tagged question also in a selected chapter is deduplicated at start
+    // exam questions that live in an already selected chapter are the same questions: count them once
+    for (const e of exams)
+      if (selectedExams.has(e.id))
+        for (const src of e.sources) if (!selected.has(`${src.bookId}/${src.chapterId}`)) n += src.questionCount;
+    return n;
   }
+  const maxLabel = h("p", { class: "muted max-label" });
   function refresh() {
     const max = availableCount();
     range.max = String(Math.max(max, 1));
@@ -161,6 +165,7 @@ function setupView(error?: string) {
     range.value = String(Math.min(Math.max(1, want), Math.max(max, 1)));
     if (max > 0 && !userTouchedRange && want < saved.count) range.value = String(Math.min(saved.count, max));
     countOut.textContent = max === 0 ? "0" : range.value;
+    maxLabel.textContent = max === 0 ? "Maksymalnie: 0 – zaznacz zakres" : `Maksymalnie: ${max}`;
     startBtn.disabled = max === 0;
     for (const b of index.books) {
       const all = b.chapters.every((c) => selected.has(`${b.id}/${c.id}`));
@@ -377,6 +382,7 @@ function setupView(error?: string) {
       "div",
       { class: "card" },
       h("h2", { style: "margin-top:0" }, "Liczba pytań"),
+      maxLabel,
       h("div", { class: "count-picker" }, range, countOut),
       h("label", { class: "chk", style: "margin-top:8px" }, weakChk, h("span", {}, "Skup się na słabych", h("span", { class: "muted" }, hasStats ? " (częściej pytania, które mylisz)" : " (brak statystyk, zagraj najpierw)"))),
       h("label", { class: "chk" }, funChk, h("span", {}, "Enhanced learning techniques", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
