@@ -26,7 +26,7 @@ Każde pytanie przechowuje kilka wersji trzonu, kilka sformułowań poprawnej od
 | `npm run check-bank` | walidacja banku pytań |
 
 ## Apka
-- Wybór rozdziałów, liczba pytań, zapamiętany ostatni wybór. Książki są pogrupowane według semestrów i przedmiotów (`semesters` i `subjects` w `quiz.config.json`); semestry są domyślnie rozwinięte, przedmioty są zwijane (domyślnie zwinięte), mają pole „cały przedmiot” i pokazują liczbę zaznaczonych rozdziałów, a zaznaczać można dowolne książki naraz. Wyszukiwarka na górze filtruje przedmioty już od jednej litery: wpisany tekst dopasowuje się do początków słów w nazwie przedmiotu, bez względu na wielkość liter i polskie znaki.
+- Wybór rozdziałów, liczba pytań; wybór i ustawienia zapisują się lokalnie przy każdej zmianie i wracają po odświeżeniu. Książki są pogrupowane według semestrów i przedmiotów (`semesters` i `subjects` w `quiz.config.json`); semestry są domyślnie rozwinięte, przedmioty są zwijane (domyślnie zwinięte), mają pole „cały przedmiot” i pokazują liczbę zaznaczonych rozdziałów, a zaznaczać można dowolne książki naraz. Wyszukiwarka na górze filtruje przedmioty już od jednej litery: wpisany tekst dopasowuje się do początków słów w nazwie przedmiotu, bez względu na wielkość liter i polskie znaki.
 - Klawisze 1–4 / A–D, Enter = dalej. Tryb ciemny wg systemu.
 - Podsumowanie z podziałem na rozdziały, lista pomyłek, „powtórz pomyłki”.
 - „Skup się na słabych”: częściej losuje pytania, które mylisz (statystyki w `localStorage`).

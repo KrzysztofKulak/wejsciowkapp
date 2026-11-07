@@ -180,9 +180,20 @@ function setupView(error?: string) {
       const n = sem.groups.reduce((acc, g) => acc + g.books.reduce((a, b) => a + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0), 0);
       sem.badge.textContent = n ? `${n} zazn.` : "";
     }
+    persist();
   }
   let userTouchedRange = false;
   range.addEventListener("input", () => { userTouchedRange = true; refresh(); });
+
+  // Remember the setup locally on every change (not only on Start), so a reload restores exactly what was picked.
+  // The question count is stored only once the user moves the slider, so a small pool doesn't shrink the default.
+  let lastCount = saved.count;
+  function persist() {
+    if (userTouchedRange && !range.disabled) lastCount = Number(range.value);
+    lsSet(LS_SEL, { chapters: [...selected], exams: [...selectedExams], count: lastCount, weak: weakChk.checked, fun: funChk.checked });
+  }
+  weakChk.addEventListener("change", persist);
+  funChk.addEventListener("change", persist);
 
   // Subject search: every typed word must be the beginning of some word in the subject title
   // (case- and diacritics-insensitive), so "b" → "Biologiczne…", "spol" → "…społecznej".
