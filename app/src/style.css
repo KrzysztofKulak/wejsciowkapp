@@ -58,7 +58,15 @@ button.ghost { background: transparent; }
 .topbar .title { font-weight: 700; }
 
 /* setup */
-.subjects { display: flex; flex-direction: column; gap: 10px; }
+.subjects { display: flex; flex-direction: column; gap: 14px; }
+.semester-title {
+  font-size: 1rem; font-weight: 700; color: var(--text); cursor: pointer; list-style: none;
+  display: flex; align-items: center; gap: 8px; padding: 4px 0 6px; border-bottom: 2px solid var(--line);
+}
+.semester-title::-webkit-details-marker { display: none; }
+.semester-title .chev { transition: transform 0.15s; color: var(--muted); }
+.semester[open] > .semester-title .chev { transform: rotate(90deg); }
+.semester-body { display: flex; flex-direction: column; gap: 10px; margin-top: 8px; padding-left: 10px; }
 .searchbar { margin: 4px 0 0; }
 .search {
   width: 100%; font: inherit; color: var(--text); background: var(--card);

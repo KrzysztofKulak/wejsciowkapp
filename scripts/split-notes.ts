@@ -13,6 +13,8 @@ export const config = JSON.parse(readFileSync(resolve(root, "quiz.config.json"),
   bookAliases?: Record<string, string>;
   /** Visual grouping of books in the app (subject = przedmiot). Order here = display order. */
   subjects?: { id: string; title: string; books: string[] }[];
+  /** Level above subjects. Order here = display order. */
+  semesters?: { id: string; title: string; subjects: string[] }[];
   bookHeading?: string;
   language: string;
   questionsPer1000Words: number;

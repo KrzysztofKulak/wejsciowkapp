@@ -39,7 +39,11 @@ for (const e of entries) {
 }
 // Display order: by subject (config order), then within a subject: books from notes, slide presentations, lectures.
 const group = (id: string) => (id.startsWith("wyklady") ? 2 : id.startsWith("prezentacja") ? 1 : 0);
-const subjectsCfg = config.subjects ?? [];
+// subjects ordered by semester (config order), subjects without a semester last
+const semestersCfg = config.semesters ?? [];
+const semOf = new Map<string, number>();
+semestersCfg.forEach((sem, i) => sem.subjects.forEach((id) => semOf.set(id, i)));
+const subjectsCfg = [...(config.subjects ?? [])].sort((a, b) => (semOf.get(a.id) ?? 1e9) - (semOf.get(b.id) ?? 1e9));
 const subjectOf = new Map<string, number>();
 subjectsCfg.forEach((s, i) => s.books.forEach((id) => subjectOf.set(id, i)));
 const sIdx = (id: string) => subjectOf.get(id) ?? subjectsCfg.length; // unassigned books go last
@@ -49,6 +53,10 @@ const subjects = subjectsCfg
   .filter((s) => s.books.length);
 for (const b of books) if (!subjectOf.has(b.id)) console.warn(`WARN book "${b.id}" has no subject in quiz.config.json → shown under „Inne”`);
 for (const s of subjectsCfg) for (const id of s.books) if (!books.some((b) => b.id === id)) console.warn(`WARN subject "${s.id}" lists unknown book "${id}"`);
+const semesters = semestersCfg
+  .map((sem) => ({ id: sem.id, title: sem.title, subjects: sem.subjects.filter((id) => subjects.some((s) => s.id === id)) }))
+  .filter((sem) => sem.subjects.length);
+for (const s of subjects) if (!semOf.has(s.id)) console.warn(`WARN subject "${s.id}" has no semester in quiz.config.json → shown under „Inne”`);
 
 // "Zaliczenia": questions grouped by tag across all sources.
 const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[] }[] = [];
@@ -60,5 +68,5 @@ for (const e of entries)
     ex.sources.push({ bookId: e.bookId, chapterId: e.chapterId, questionCount: n });
   }
 exams.sort((a, b) => a.title.localeCompare(b.title, "pl"));
-writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ subjects, books, exams }, null, 2) + "\n");
-console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${subjects.length} subject(s), ${exams.length} exam tag(s)`);
+writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ semesters, subjects, books, exams }, null, 2) + "\n");
+console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${semesters.length} semester(s), ${subjects.length} subject(s), ${exams.length} exam tag(s)`);

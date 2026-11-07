@@ -1,4 +1,16 @@
 {
+  "semesters": [
+    {
+      "id": "semestr-1",
+      "title": "Semestr 1",
+      "subjects": [
+        "wprowadzenie-historia-i-wspolczesnosc",
+        "wprowadzenie-do-psychologii-spolecznej",
+        "podstawowe-umiejetnosci-psychologiczne",
+        "biologiczne-podstawy-zachowan"
+      ]
+    }
+  ],
   "subjects": [
     {
       "id": "wprowadzenie-historia-i-wspolczesnosc",

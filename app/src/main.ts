@@ -173,6 +173,10 @@ function setupView(error?: string) {
       const n = g.books.reduce((acc, b) => acc + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0);
       g.badge.textContent = n ? `${n} zazn.` : "";
     }
+    for (const sem of semesterGroups) {
+      const n = sem.groups.reduce((acc, g) => acc + g.books.reduce((a, b) => a + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0), 0);
+      sem.badge.textContent = n ? `${n} zazn.` : "";
+    }
   }
   let userTouchedRange = false;
   range.addEventListener("input", () => { userTouchedRange = true; refresh(); });
@@ -183,6 +187,8 @@ function setupView(error?: string) {
   const words = (s: string) => norm(s).split(/[^a-z0-9]+/).filter(Boolean);
   type Group = { el: HTMLDetailsElement; words: string[]; badge: HTMLElement; books: IndexBook[]; userOpen: boolean };
   const groups: Group[] = [];
+  type Semester = { el: HTMLDetailsElement; groups: Group[]; badge: HTMLElement; userOpen: boolean };
+  const semesterGroups: Semester[] = [];
   let searching = false;
   const search = h("input", { type: "search", class: "search", placeholder: "Szukaj przedmiotu…", "aria-label": "Szukaj przedmiotu", autocomplete: "off" }) as HTMLInputElement;
   const noMatch = h("p", { class: "muted", style: "display:none;margin:0" });
@@ -196,6 +202,11 @@ function setupView(error?: string) {
       // while searching, matches are expanded; clearing the field restores what the user opened by hand
       g.el.open = searching ? ok : g.userOpen;
       if (ok) shown++;
+    }
+    for (const sem of semesterGroups) {
+      const any = sem.groups.some((g) => g.el.style.display !== "none");
+      sem.el.style.display = any ? "" : "none";
+      sem.el.open = searching ? any : sem.userOpen;
     }
     noMatch.textContent = `Brak przedmiotów pasujących do „${search.value.trim()}”.`;
     noMatch.style.display = shown ? "none" : "";
@@ -221,14 +232,41 @@ function setupView(error?: string) {
       groups.push(g);
       return el;
     };
-    const out: Node[] = [];
+    const subjectEls = new Map<string, HTMLDetailsElement>();
     for (const sub of subjects) {
       const books = sub.books.map((id) => byId.get(id)).filter((b): b is IndexBook => !!b);
       books.forEach((b) => used.add(b.id));
-      if (books.length) out.push(group(sub.title, books));
+      if (books.length) subjectEls.set(sub.id, group(sub.title, books));
     }
     const rest = index.books.filter((b) => !used.has(b.id));
-    if (rest.length) out.push(group("Inne", rest));
+    const restEl = rest.length ? group("Inne", rest) : null;
+    const semesters = index.semesters ?? [];
+    if (!semesters.length) return [...subjectEls.values(), ...(restEl ? [restEl] : [])];
+
+    // Semesters: level above subjects, collapsible, open by default (subjects inside start collapsed).
+    const semesterNode = (title: string, els: HTMLDetailsElement[]) => {
+      const badge = h("span", { class: "subject-count" });
+      const el = h(
+        "details",
+        { class: "semester", open: true },
+        h("summary", { class: "semester-title" }, h("span", { class: "chev" }, "▸"), h("span", {}, title), badge),
+        h("div", { class: "semester-body" }, ...els),
+      ) as HTMLDetailsElement;
+      const sem: Semester = { el, groups: groups.filter((g) => els.includes(g.el)), badge, userOpen: true };
+      el.addEventListener("toggle", () => { if (!searching) sem.userOpen = el.open; });
+      semesterGroups.push(sem);
+      return el;
+    };
+    const out: Node[] = [];
+    const placed = new Set<string>();
+    for (const sem of semesters) {
+      const els = sem.subjects.map((id) => subjectEls.get(id)).filter((e): e is HTMLDetailsElement => !!e);
+      sem.subjects.forEach((id) => placed.add(id));
+      if (els.length) out.push(semesterNode(sem.title, els));
+    }
+    const loose = [...subjectEls].filter(([id]) => !placed.has(id)).map(([, el]) => el);
+    if (restEl) loose.push(restEl);
+    if (loose.length) out.push(semesterNode("Inne", loose));
     return out;
   }
 
