@@ -1,0 +1,1777 @@
+{
+  "bookId": "psychologia-i-zycie-zimbardo",
+  "chapterId": "behawioryzm-notatki-ai",
+  "chapterTitle": "Behawioryzm – notatki AI (Rozdz. 15, s. 677–685)",
+  "sourceHash": "42791f0f6d5d40a4ff4a69d2e06c51653af0fbd4",
+  "bookTitle": "“Psychologia i życie”, Zimbardo",
+  "questions": [
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-01",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W odróżnieniu od terapii psychodynamicznych terapie behawioralne zajmują się przede wszystkim:",
+        "Na czym przede wszystkim koncentrują się terapie behawioralne?"
+      ],
+      "correct": [
+        "obserwowalnymi zachowaniami zewnętrznymi",
+        "zachowaniem, które można zaobserwować z zewnątrz"
+      ],
+      "distractors": [
+        "hipotetycznymi przyczynami wewnętrznymi",
+        "nieświadomymi konfliktami z dzieciństwa",
+        "wypartymi wspomnieniami klienta",
+        "zniekształconymi przekonaniami o sobie",
+        "dążeniem klienta do samorealizacji",
+        "dynamiką relacji id, ego i superego",
+        "znaczeniem symbolicznym marzeń sennych"
+      ],
+      "explanation": "Terapie psychodynamiczne skupiają się na hipotetycznych przyczynach wewnętrznych, behawioralne – na obserwowalnych zachowaniach zewnętrznych.",
+      "sourceExcerpt": "terapie behawioralne zajmują się przede wszystkim obserwowalnymi zachowaniami zewnętrznymi",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-02",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według terapeutów behawioralnych zachowania anormalne nabywa się:",
+        "Jak terapeuci behawioralni wyjaśniają powstawanie zachowań anormalnych?"
+      ],
+      "correct": [
+        "tak samo jak normalne – w procesie uczenia się",
+        "w wyniku uczenia się, podobnie jak zachowania normalne"
+      ],
+      "distractors": [
+        "w wyniku wyparcia konfliktów do nieświadomości",
+        "przez dziedziczenie podatności genetycznej",
+        "przez fiksację w jednej z faz rozwoju",
+        "w wyniku zniekształceń w myśleniu o sobie",
+        "z powodu zablokowania dążenia do samorealizacji",
+        "przez zaburzenia równowagi neuroprzekaźników",
+        "w inny sposób niż zachowania normalne"
+      ],
+      "explanation": "Zachowania anormalne nabywa się w taki sam sposób jak normalne – w procesie uczenia się podporządkowanym zasadom warunkowania. Te same zasady służą do ich modyfikacji.",
+      "sourceExcerpt": "zachowania anormalne nabywa się w taki sam sposób, jak zachowania normalne – w wyniku procesu uczenia się",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-03",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia zachowania (modyfikacja zachowania) to:",
+        "Czym jest modyfikacja zachowania?"
+      ],
+      "correct": [
+        "systematyczne stosowanie zasad uczenia się do zmiany częstości zachowań",
+        "systematyczne użycie zasad uczenia się, by zwiększać zachowania pożądane i zmniejszać problemowe"
+      ],
+      "distractors": [
+        "odkrywanie nieświadomych przyczyn objawów przez wolne skojarzenia",
+        "zmiana irracjonalnych przekonań przez dyskusję z klientem",
+        "tworzenie warunków bezwarunkowej akceptacji klienta",
+        "leczenie zaburzeń środkami farmakologicznymi",
+        "interpretowanie oporu i przeniesienia w relacji terapeutycznej",
+        "analiza znaczenia snów i czynności omyłkowych",
+        "jednorazowe odreagowanie emocji związanych z traumą"
+      ],
+      "explanation": "Terapia zachowania i modyfikacja zachowania (terminy stosowane zamiennie) to systematyczne posługiwanie się zasadami uczenia się w celu zwiększenia częstości zachowań pożądanych i/lub zmniejszenia częstości zachowań problemowych.",
+      "sourceExcerpt": "Modyfikacja zachowania: systematyczne stosowanie zasad uczenia się, mające na celu zwiększenie częstości zachowań pożądanych i/lub zmniejszenie częstości zachowań problemowych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-04",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terminy „terapia zachowania” i „modyfikacja zachowania”:"
+      ],
+      "correct": [
+        "są zwykle używane jako synonimy"
+      ],
+      "distractors": [
+        "dotyczą odpowiednio terapii dzieci i dorosłych",
+        "odnoszą się do dwóch przeciwstawnych szkół terapii",
+        "pierwszy dotyczy warunkowania klasycznego, drugi sprawczego",
+        "pierwszy oznacza terapię indywidualną, drugi grupową",
+        "pierwszy pochodzi z psychoanalizy, drugi z behawioryzmu",
+        "pierwszy dotyczy lęków, drugi uzależnień"
+      ],
+      "explanation": "Terminy terapia zachowania (behavior therapy) i modyfikacja zachowania (behavior modification) często stosuje się zamiennie.",
+      "sourceExcerpt": "Terminy terapia zachowania i modyfikacja zachowania często stosuje się zamiennie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-05",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia behawioralna przynosi na ogół najlepsze rezultaty w przypadku:",
+        "Kiedy terapia behawioralna jest najskuteczniejsza?"
+      ],
+      "correct": [
+        "konkretnych, specyficznych problemów"
+      ],
+      "distractors": [
+        "lęku nieukierunkowanego",
+        "problemów ogólnych i rozproszonych",
+        "zaburzeń o nieznanej przyczynie",
+        "problemów związanych z sensem życia",
+        "zaburzeń wynikających z wypartych wspomnień",
+        "kryzysów tożsamości w okresie dorastania"
+      ],
+      "explanation": "Na ogół terapia behawioralna jest najskuteczniejsza w odniesieniu do problemów o charakterze specyficznym, a nie ogólnym: lepiej działa przy konkretnych fobiach niż przy lęku nieukierunkowanym.",
+      "sourceExcerpt": "terapia behawioralna jest najskuteczniejsza w odniesieniu do problemów osobistych o charakterze specyficznym, a nie ogólnym",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-06",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zakres zaburzeń korygowanych terapią behawioralną obejmuje m.in.:"
+      ],
+      "correct": [
+        "fobie, kompulsje, depresję, uzależnienia i agresję",
+        "fobie, czynności natrętne, uzależnienia i zachowania przestępcze"
+      ],
+      "distractors": [
+        "wyłącznie fobie specyficzne",
+        "wyłącznie zaburzenia u dzieci",
+        "tylko zaburzenia o podłożu organicznym",
+        "tylko problemy z umiejętnościami społecznymi",
+        "wyłącznie zaburzenia psychotyczne",
+        "tylko problemy wynikające z wypartych konfliktów"
+      ],
+      "explanation": "Zakres jest szeroki: fobie, kompulsje (czynności natrętne), depresja, uzależnienia, agresja i zachowania przestępcze.",
+      "sourceExcerpt": "obejmuje fobie, kompulsje (czynności natrętne), depresję, uzależnienia, agresję i zachowania przestępcze",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-07",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W ujęciu terapii behawioralnej nieprzystosowawczy symptom:",
+        "Jak terapeuci behawioralni traktują symptom zaburzenia?"
+      ],
+      "correct": [
+        "sam w sobie jest problemem",
+        "jest problemem do usunięcia, a nie oznaką ukrytego procesu"
+      ],
+      "distractors": [
+        "jest oznaką ukrytego, nieświadomego konfliktu",
+        "jest objawem wypartych wspomnień",
+        "wróci w innej postaci, jeśli usunie się go bezpośrednio",
+        "ma znaczenie symboliczne, które trzeba zinterpretować",
+        "jest skutkiem fiksacji w rozwoju psychoseksualnym",
+        "nie wymaga leczenia, bo jest obroną ego"
+      ],
+      "explanation": "Nie zakłada się, że nieprzystosowawcze zachowanie jest symptomem jakiegoś ukrytego procesu. Symptom sam w sobie jest problemem.",
+      "sourceExcerpt": "Nie zakłada się, że nieprzystosowawcze zachowanie jest symptomem jakiegoś ukrytego procesu. Symptom sam w sobie jest problemem.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-08",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Substytucja symptomu (symptom substitution) to przewidywane przez terapeutów psychodynamicznych:",
+        "Czym jest substytucja symptomu?"
+      ],
+      "correct": [
+        "pojawienie się nowego problemu w miejsce usuniętego",
+        "zastąpienie usuniętego objawu nowym problemem fizycznym lub psychicznym"
+      ],
+      "distractors": [
+        "zastąpienie reakcji lękowej reakcją odprężenia",
+        "przeniesienie uczuć klienta na terapeutę",
+        "skierowanie popędu na cel akceptowany społecznie",
+        "zastąpienie nagrody pieniężnej żetonem",
+        "wygaśnięcie reakcji po usunięciu wzmocnienia",
+        "poprawa w zakresie innych, mniej ważnych symptomów"
+      ],
+      "explanation": "Terapeuci psychodynamiczni przewidywali, że korygowanie samego zachowania bez zajęcia się wewnętrznym problemem spowoduje substytucję symptomu – pojawienie się nowego problemu w miejsce usuniętego.",
+      "sourceExcerpt": "spowoduje substytucję symptomu, to znaczy pojawienie się nowego fizycznego lub psychicznego problemu w miejsce problemu usuniętego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-09",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co wykazały badania nad substytucją symptomu po terapii behawioralnej?",
+        "Gdy terapia behawioralna eliminuje zachowania patologiczne, to według badań:"
+      ],
+      "correct": [
+        "substytucja nie następuje, a poprawa obejmuje też inne symptomy",
+        "nowe objawy się nie pojawiają, często poprawiają się też inne, mniej ważne"
+      ],
+      "distractors": [
+        "w miejsce usuniętego objawu zwykle pojawia się nowy",
+        "objawy wracają w ciągu kilku miesięcy",
+        "poprawa dotyczy tylko leczonego objawu, a inne się nasilają",
+        "substytucja następuje tylko przy fobiach",
+        "pacjenci tracą wgląd w przyczyny problemu",
+        "poprawa jest trwała tylko przy dodatkowej psychoanalizie"
+      ],
+      "explanation": "Badania wykazały, że kiedy zachowania patologiczne zostają wyeliminowane w terapii behawioralnej, substytucja nie następuje. Pacjenci informowali też o poprawie w zakresie innych, mniej ważnych symptomów.",
+      "sourceExcerpt": "kiedy zachowania patologiczne zostają wyeliminowane pod wpływem terapii behawioralnej, taka substytucja nie następuje",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-10",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapie wywodzące się z teorii warunkowania i uczenia się opierają się na tradycji badawczej:"
+      ],
+      "correct": [
+        "pragmatycznej i empirycznej",
+        "empirycznej, nastawionej na praktyczne efekty"
+      ],
+      "distractors": [
+        "introspekcyjnej",
+        "hermeneutycznej i interpretacyjnej",
+        "humanistycznej i fenomenologicznej",
+        "psychoanalitycznej",
+        "spekulatywnej i filozoficznej",
+        "opartej na studiach przypadków klinicznych"
+      ],
+      "explanation": "Terapie wywodzące się z teorii warunkowania i uczenia się są oparte na pragmatycznej, empirycznej tradycji badawczej.",
+      "sourceExcerpt": "Terapie, które wywodzą się z teorii warunkowania i uczenia się, są oparte na pragmatycznej, empirycznej tradycji badawczej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-11",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W sprawie George’a Franklina skazanie opierało się głównie na:",
+        "Na jakiej podstawie skazano George’a Franklina za zabójstwo Susan Nason?"
+      ],
+      "correct": [
+        "wspomnieniu córki odzyskanym w terapii"
+      ],
+      "distractors": [
+        "odciskach palców znalezionych na miejscu zbrodni",
+        "przyznaniu się oskarżonego do winy",
+        "zeznaniach kilku niezależnych świadków",
+        "dowodach z badań DNA",
+        "nagraniu z kamery w osiedlu",
+        "opinii biegłego psychiatry o oskarżonym"
+      ],
+      "explanation": "Eileen Franklin-Lipsker po 20 latach „przypomniała sobie” w psychoterapii wyparte wspomnienie o tym, że ojciec zabił Susan. Ława przysięgłych uznała je za wiarygodne.",
+      "sourceExcerpt": "Eileen powiedziała im, że dzięki psychoterapii przypomniała sobie dawno wyparte, przerażające wspomnienie o tym, co spotkało Susan",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-12",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co stało się z George’em Franklinem po skazaniu?"
+      ],
+      "correct": [
+        "po 5 latach wyszedł przez błąd formalny"
+      ],
+      "distractors": [
+        "odbył całą karę dożywocia",
+        "został uniewinniony dzięki badaniom DNA",
+        "przyznał się do winy w apelacji",
+        "zmarł w więzieniu przed apelacją",
+        "został ułaskawiony po 20 latach",
+        "wyszedł po roku, bo córka odwołała zeznania"
+      ],
+      "explanation": "Z powodu formalnego błędu w procesie George Franklin został zwolniony po 5 latach. W tym czasie narosły poważne wątpliwości co do prawdziwości wspomnień jego córki.",
+      "sourceExcerpt": "Z powodu formalnego błędu w procesie sądowym George Franklin został zwolniony po 5 latach pobytu w więzieniu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-13",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według Freuda wspomnienia wypierane ze świadomości to te, które:",
+        "Dlaczego według teorii Freuda niektóre wspomnienia zostają wyparte?"
+      ],
+      "correct": [
+        "są tak zagrażające dla psychicznego dobrostanu, że osoba wyrzuca je ze świadomości",
+        "zagrażają psychicznemu dobrostanowi osoby"
+      ],
+      "distractors": [
+        "dotyczą zdarzeń sprzed nabycia mowy",
+        "zostały zapisane tylko w pamięci krótkotrwałej",
+        "nie były wzmacniane przez otoczenie",
+        "dotyczą zdarzeń neutralnych i nieistotnych",
+        "zostały zatarte przez nowsze informacje",
+        "nie zostały powtórzone w ciągu doby"
+      ],
+      "explanation": "Freud (1923): u niektórych ludzi wspomnienia doświadczeń stają się tak zagrażające dla psychicznego dobrostanu, że wyrzucają je ze świadomości – wypierają je.",
+      "sourceExcerpt": "wspomnienia ich doświadczeń życiowych stają się tak zagrażające dla psychicznego dobrostanu, że osoby te wyrzucają owe wspomnienia ze świadomości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-14",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Ważnym celem terapii wypartych wspomnień w ujęciu psychodynamicznym jest:"
+      ],
+      "correct": [
+        "katharsis w odniesieniu do wypartych wspomnień",
+        "osiągnięcie katharsis związanego z wypartymi wspomnieniami"
+      ],
+      "distractors": [
+        "wygaszenie reakcji przez usunięcie wzmocnień",
+        "zbudowanie hierarchii bodźców lękotwórczych",
+        "nauczenie relaksacji mięśniowej",
+        "skojarzenie wspomnień z przykrym bodźcem",
+        "zastąpienie wspomnień nowymi, przyjemnymi",
+        "nagradzanie zachowań niezgodnych z objawem"
+      ],
+      "explanation": "Psycholodzy kliniczni interpretują zaburzone wzorce zachowań jako konsekwencje wypartych wspomnień; ważnym celem terapii jest osiągnięcie katharsis w odniesieniu do nich.",
+      "sourceExcerpt": "ważnym celem terapii jest osiągnięcie katharsis w odniesieniu do tych wypartych wspomnień",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-15",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Badania nad pamięcią (m.in. naocznych świadków) wykazały, że ludzie:",
+        "Dlaczego pewność co do posiadania wspomnienia nie dowodzi jego pochodzenia?"
+      ],
+      "correct": [
+        "biorą fałszywe źródło za własne wspomnienie"
+      ],
+      "distractors": [
+        "nie są w stanie zapamiętać zdarzeń sprzed 20 lat",
+        "zawsze odróżniają wspomnienia prawdziwe od podsuniętych",
+        "pamiętają traumy dokładniej niż zdarzenia neutralne",
+        "po ostrzeżeniu przestają ulegać sugestii",
+        "nie potrafią odzyskać wspomnień bez hipnozy",
+        "przypominają sobie tylko zdarzenia wzmacniane nagrodą"
+      ],
+      "explanation": "Ludzie relacjonują jako swoje prawdziwe wspomnienia informacje pochodzące z fałszywego źródła, nawet gdy zostali ostrzeżeni. Pewność posiadania wspomnienia nie daje pewności co do jego pochodzenia.",
+      "sourceExcerpt": "ludzie będą relacjonować jako swoje prawdziwe wspomnienia informacje pochodzące z jakiegoś fałszywego źródła (artificial source). Będą oni tak czynić nawet wtedy, gdy jako świadkowie zostali specjalnie ostrzeżeni",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-16",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Klinicyści niepokoją się, że terapeuci wierzący w wyparte wspomnienia:"
+      ],
+      "correct": [
+        "mogą zaszczepić pacjentom tę wiarę"
+      ],
+      "distractors": [
+        "nie potrafią nawiązać relacji z pacjentem",
+        "stosują zbyt często terapię awersyjną",
+        "przerywają terapię zbyt wcześnie",
+        "nie wierzą pacjentom zgłaszającym przemoc",
+        "odmawiają leczenia ofiar przemocy",
+        "stosują wyłącznie terapię grupową"
+      ],
+      "explanation": "Terapeuci wierzący w wyparte wspomnienia mogą zaszczepić tę wiarę pacjentom, nakłaniać ich do odnajdywania wspomnień i słownie nagradzać za ujawnianie takich „wspomnień”.",
+      "sourceExcerpt": "Terapeuci tacy mogą nakłaniać pacjentów, żeby starali się odnaleźć te wspomnienia – i nagradzać ich słownie za ujawnianie takich „wspomnień”.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-17",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu 128 osób zgłaszających wykorzystanie seksualne w dzieciństwie większość (71) miała:",
+        "Jakie wspomnienia miała większość uczestników badania nad wykorzystaniem w dzieciństwie?"
+      ],
+      "correct": [
+        "wspomnienia ciągłe – nie było okresu, w którym ich nie pamiętali",
+        "ciągłe wspomnienia wykorzystywania"
+      ],
+      "distractors": [
+        "wspomnienia odzyskane w trakcie terapii",
+        "wspomnienia odzyskane samodzielnie po latach",
+        "wspomnienia nieciągłe",
+        "wspomnienia, których nie dało się potwierdzić",
+        "wyłącznie wspomnienia podsunięte przez rodzinę",
+        "wspomnienia odzyskane w hipnozie"
+      ],
+      "explanation": "Większość uczestników (71 ze 128) miała wspomnienia ciągłe; pozostałych 57 – nieciągłe (16 odzyskało je w terapii, 41 samodzielnie).",
+      "sourceExcerpt": "Większość uczestników (71 ze 128) miała wspomnienia ciągłe (continuous memories) dotyczące wykorzystywania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-18",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu nad odzyskanymi wspomnieniami materiał dowodowy potwierdzający wykorzystywanie udało się uzyskać:",
+        "Dla której grupy nie udało się uzyskać żadnego potwierdzenia wspomnień o wykorzystywaniu?"
+      ],
+      "correct": [
+        "w ogóle nie dla osób, które odzyskały wspomnienia w trakcie terapii"
+      ],
+      "distractors": [
+        "dla wszystkich osób, które odzyskały wspomnienia w terapii",
+        "tylko dla osób odzyskujących wspomnienia samodzielnie",
+        "dla nikogo – żadnego wspomnienia nie potwierdzono",
+        "częściej dla wspomnień z terapii niż dla ciągłych",
+        "tylko dla osób z wspomnieniami nieciągłymi",
+        "dla 90% uczestników niezależnie od grupy"
+      ],
+      "explanation": "Potwierdzenie uzyskano dla 45% osób ze wspomnieniami ciągłymi i 37% osób, które odzyskały je samodzielnie. Dla tych, którzy odzyskali wspomnienia w terapii, nie uzyskano go w ogóle.",
+      "sourceExcerpt": "Okazało się to możliwe w przypadku 45% uczestników ze wspomnieniami ciągłymi i 37% uczestników, którzy odzyskali wspomnienia samodzielnie. Jednak w odniesieniu do uczestników, którzy odzyskali wspomnienia w trakcie terapii, potwierdzającego materiału dowodowego w ogóle nie udało się uzyskać.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-19",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaki wniosek płynie z badań nad odzyskanymi wspomnieniami?"
+      ],
+      "correct": [
+        "część jest prawdziwa, część może powstać w terapii"
+      ],
+      "distractors": [
+        "wszystkie odzyskane wspomnienia są fałszywe",
+        "wszystkie odzyskane wspomnienia są prawdziwe",
+        "wspomnienia odzyskane w terapii są najbardziej wiarygodne",
+        "wyparcie wspomnień jest zjawiskiem powszechnym i dobrze udowodnionym",
+        "wspomnienia ciągłe są mniej wiarygodne niż odzyskane",
+        "terapia nie ma wpływu na treść wspomnień"
+      ],
+      "explanation": "Badanie potwierdza, że niektóre doniesienia o odzyskanych wspomnieniach są oparte na rzeczywistych zdarzeniach, ale też że procesy w psychoterapii mogą doprowadzić do tworzenia fałszywych wspomnień.",
+      "sourceExcerpt": "niektóre doniesienia o odzyskanych wspomnieniach są oparte na rzeczywistych zdarzeniach. Jednak wykazuje ono także, że procesy zachodzące w czasie psychoterapii mogą doprowadzić ludzi do tworzenia fałszywych wspomnień",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-20",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Przeciwwarunkowanie (counterconditioning) to technika, która:",
+        "Na czym polega przeciwwarunkowanie?"
+      ],
+      "correct": [
+        "zastępuje reakcję nieprzystosowawczą nową reakcją za pomocą warunkowania",
+        "za pomocą procedur warunkowania zastępuje reakcję nieprzystosowawczą nową"
+      ],
+      "distractors": [
+        "usuwa wzmocnienia podtrzymujące niepożądane zachowanie",
+        "nagradza kolejne przybliżenia do zachowania docelowego",
+        "pozwala uświadomić sobie wyparte konflikty",
+        "polega na obserwowaniu modeli nagradzanych za zachowanie",
+        "zmienia irracjonalne przekonania klienta",
+        "polega na jednorazowym odreagowaniu emocji"
+      ],
+      "explanation": "Przeciwwarunkowanie: technika mająca na celu zastąpienie reakcji nieprzystosowawczej nową reakcją za pomocą procedur warunkowania.",
+      "sourceExcerpt": "Przeciwwarunkowanie: technika stosowana w terapii, mająca na celu zastąpienie reakcji nieprzystosowawczej nową reakcją za pomocą procedur warunkowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-21",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Silne reakcje lękowe na nieszkodliwe bodźce (pająk, niejadowity wąż) są w ujęciu behawioralnym:",
+        "Jak terapie behawioralne wyjaśniają lęk przed nieszkodliwym bodźcem?"
+      ],
+      "correct": [
+        "reakcjami warunkowymi, wyuczonymi wcześniej",
+        "wynikiem działania prostych zasad warunkowania"
+      ],
+      "distractors": [
+        "przejawem wypartego konfliktu edypalnego",
+        "symbolicznym wyrazem nieświadomych pragnień",
+        "skutkiem irracjonalnych przekonań o świecie",
+        "wrodzonymi instynktami obronnymi",
+        "objawem zablokowanej samorealizacji",
+        "skutkiem nadmiaru dopaminy w mózgu"
+      ],
+      "explanation": "W terapiach behawioralnych przyjmuje się, że taki lęk powstaje w wyniku prostych zasad warunkowania; silne reakcje „bez żadnego rozsądnego powodu” są reakcjami warunkowymi.",
+      "sourceExcerpt": "silne reakcje emocjonalne, zakłócające życie danej osoby „bez żadnego rozsądnego powodu”, są często po prostu reakcjami warunkowymi",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-22",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W terapii Petera, który bał się królików, królika:",
+        "Jak przebiegała terapia 3-letniego Petera bojącego się królików?"
+      ],
+      "correct": [
+        "umieszczano w czasie karmienia coraz bliżej chłopca",
+        "w trakcie posiłków przysuwano z sesji na sesję coraz bliżej"
+      ],
+      "distractors": [
+        "od razu kładziono Peterowi na kolanach",
+        "pokazywano tylko na zdjęciach i filmach",
+        "łączono z głośnym hałasem",
+        "pokazywano w ręku innego dziecka bez karmienia",
+        "zamykano w klatce na stałe w pokoju",
+        "pokazywano tylko w wyobraźni chłopca"
+      ],
+      "explanation": "Podczas karmienia Petera królika umieszczano w drugim końcu pokoju, a w kolejnych posiedzeniach coraz bliżej, aż strach zniknął i Peter swobodnie bawił się królikiem.",
+      "sourceExcerpt": "Terapia polegała na karmieniu Petera w jednym końcu pokoju, przy czym królika umieszczano w drugim końcu. W ciągu szeregu posiedzeń królika stopniowo umieszczano coraz bliżej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-23",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapię Petera (Mary Cover Jones, 1924) warto porównać z przypadkiem małego Alberta, ponieważ:"
+      ],
+      "correct": [
+        "jeden lęk oduczono, a drugi wywołano"
+      ],
+      "distractors": [
+        "obaj chłopcy bali się tego samego psa",
+        "obu leczono zatapianiem",
+        "w obu przypadkach użyto terapii awersyjnej",
+        "obaj zostali wyleczeni przez modelowanie",
+        "obu badano metodą wolnych skojarzeń",
+        "w obu lęk wynikał z konfliktu edypalnego"
+      ],
+      "explanation": "Mary Cover Jones wykazała, że dzięki warunkowaniu można oduczyć się strachu. U małego Alberta warunkowanie posłużyło do wywołania lęku.",
+      "sourceExcerpt": "Mary Cover Jones (1924) wykazała, że dzięki warunkowaniu można oduczyć się strachu. (Porównaj tę terapię z opisanym w rozdz. 6 przypadkiem małego Alberta).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-24",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Które techniki należą do przeciwwarunkowania?"
+      ],
+      "correct": [
+        "systematyczne odwrażliwianie, implozja, zatapianie, terapia awersyjna",
+        "odwrażliwianie, zatapianie i terapia awersyjna"
+      ],
+      "distractors": [
+        "wolne skojarzenia, analiza snów, interpretacja oporu",
+        "ekonomia żetonowa i kształtowanie",
+        "wygaszanie i wzmacnianie pozytywne",
+        "restrukturyzacja poznawcza i trening asertywności",
+        "modelowanie uczestniczące i symboliczne",
+        "parafraza, klaryfikacja i odzwierciedlanie"
+      ],
+      "explanation": "Idąc w ślady Cover Jones, terapeuci stosują kilka technik przeciwwarunkowania: systematyczne odwrażliwianie, implozję, „zatapianie” i terapię awersyjną.",
+      "sourceExcerpt": "terapeuci behawioralni stosują obecnie kilka technik przeciwwarunkowania, w tym systematyczne odwrażliwianie, implozję, „zatapianie” i terapię awersyjną",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-25",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Kluczowym komponentem terapii ekspozycyjnej jest to, że klient:",
+        "Czym jest terapia ekspozycyjna?"
+      ],
+      "correct": [
+        "staje wobec obiektów lub sytuacji wzbudzających w nim lęk",
+        "jest stawiany wobec tego, co wywołuje u niego lęk"
+      ],
+      "distractors": [
+        "unika bodźców lękowych aż do ustąpienia lęku",
+        "opowiada o lęku bez kontaktu z jego źródłem",
+        "otrzymuje nagrodę za każdą rozmowę o lęku",
+        "obserwuje, jak inni unikają źródła lęku",
+        "analizuje dzieciństwo w poszukiwaniu przyczyn lęku",
+        "przyjmuje leki zmniejszające pobudzenie"
+      ],
+      "explanation": "Terapia ekspozycyjna: technika, w której klienci są stawiani wobec obiektów lub sytuacji wzbudzających w nich lęk. Ekspozycja umożliwia przeciwwarunkowanie – uczą się pozostawać odprężeni.",
+      "sourceExcerpt": "Terapia ekspozycyjna: technika behawioralna, w której klienci są stawiani wobec obiektów lub w sytuacjach, które wzbudzają w nich lęk.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-26",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia ekspozycyjna zakłada, że ekspozycja umożliwia:",
+        "Co według założeń terapii ekspozycyjnej daje kontakt ze źródłem lęku?"
+      ],
+      "correct": [
+        "naukę pozostawania odprężonym"
+      ],
+      "distractors": [
+        "uświadomienie sobie wypartego konfliktu",
+        "skojarzenie bodźca z przykrym wstrząsem",
+        "wygaszenie przez usunięcie uwagi otoczenia",
+        "zdobycie żetonów wymienialnych na nagrody",
+        "zastąpienie lęku agresją",
+        "odreagowanie emocji z dzieciństwa"
+      ],
+      "explanation": "Terapia ekspozycyjna jest oparta na założeniu, że ekspozycja umożliwia przeciwwarunkowanie – ludzie uczą się pozostawać w stanie odprężenia w okolicznościach, które kiedyś wzbudzały w nich silny lęk.",
+      "sourceExcerpt": "ekspozycja umożliwia przeciwwarunkowanie – ludzie uczą się pozostawać w stanie odprężenia w takich okolicznościach, które kiedyś wzbudzały w nich silny lęk",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-27",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Teoria hamowania wzajemnego, na której oparto systematyczne odwrażliwianie, głosi, że:",
+        "Na jakim spostrzeżeniu opiera się teoria hamowania wzajemnego?"
+      ],
+      "correct": [
+        "układ nerwowy nie może być jednocześnie odprężony i pobudzony",
+        "odprężenie i pobudzenie to niezgodne procesy, które nie występują naraz"
+      ],
+      "distractors": [
+        "lęk zawsze wygasa sam, jeśli nie jest wzmacniany",
+        "każdy popęd hamuje popęd przeciwny w nieświadomości",
+        "zachowanie nagradzane hamuje zachowanie karane",
+        "obserwacja modelu hamuje własną reakcję lękową",
+        "dwie reakcje warunkowe zawsze się sumują",
+        "pobudzenie zwiększa skuteczność relaksacji"
+      ],
+      "explanation": "Joseph Wolpe zwrócił uwagę, że układ nerwowy nie może być jednocześnie odprężony i pobudzony, bo niezgodne procesy nie mogą być aktywowane w tym samym czasie. To podstawa teorii hamowania wzajemnego.",
+      "sourceExcerpt": "układ nerwowy nie może być jednocześnie odprężony i pobudzony, ponieważ różne niezgodne procesy nie mogą być aktywowane w tym samym czasie. Spostrzeżenie to stało się podstawą teorii hamowania wzajemnego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-28",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Systematyczna desensytyzacja to technika, w której klient:",
+        "Systematyczne odwrażliwianie polega na tym, że klient:"
+      ],
+      "correct": [
+        "odprężony styka się stopniowo z lękiem"
+      ],
+      "distractors": [
+        "od razu zostaje postawiony w najgorszej sytuacji",
+        "otrzymuje wstrząs elektryczny przy bodźcu",
+        "jest nagradzany żetonami za unikanie lęku",
+        "opowiada o lęku bez relaksacji",
+        "obserwuje nagradzany model na filmie",
+        "powstrzymuje się od czynności natrętnych"
+      ],
+      "explanation": "Systematyczna desensytyzacja: technika, w której uczy się klienta zapobiegać lękowi przez konfrontowanie go w trakcie relaksacji z bodźcem wzbudzającym ten lęk.",
+      "sourceExcerpt": "Systematyczna desensytyzacja: Technika terapii behawioralnej, w której uczy się klienta zapobiegać powstawaniu lęku przez konfrontowanie go w trakcie relaksacji z bodźcem wzbudzającym ten lęk.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-29",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaka jest kolejność trzech etapów systematycznego odwrażliwiania?",
+        "Systematyczne odwrażliwianie przebiega w kolejności:"
+      ],
+      "correct": [
+        "hierarchia bodźców → trening relaksacji → właściwe odwrażliwianie",
+        "najpierw hierarchia lęków, potem relaksacja, na końcu odwrażliwianie"
+      ],
+      "distractors": [
+        "trening relaksacji → odwrażliwianie → hierarchia bodźców",
+        "odwrażliwianie → hierarchia bodźców → trening relaksacji",
+        "hierarchia bodźców → odwrażliwianie → trening relaksacji",
+        "trening relaksacji → hierarchia bodźców → zatapianie",
+        "zatapianie → relaksacja → hierarchia bodźców",
+        "ekspozycja na najsilniejszy bodziec → relaksacja → hierarchia"
+      ],
+      "explanation": "Najpierw klient identyfikuje bodźce i układa hierarchię od najsłabszych do najsilniejszych, potem ćwiczy głębokie odprężenie mięśni, na koniec następuje właściwe odwrażliwianie.",
+      "sourceExcerpt": "Najpierw klient identyfikuje bodźce wywołujące lęk i układa je w hierarchię... Następnie klienta ćwiczy się w osiąganiu coraz głębszego odprężenia mięśni... Na koniec rozpoczyna się właściwy proces odwrażliwiania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-30",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W fazie właściwego odwrażliwiania odprężony klient zaczyna od:",
+        "Od którego bodźca z hierarchii zaczyna się właściwe odwrażliwianie?"
+      ],
+      "correct": [
+        "żywego wyobrażenia sobie najsłabszego bodźca lękowego",
+        "najsłabszego bodźca z listy, wyobrażanego sobie żywo"
+      ],
+      "distractors": [
+        "najsilniejszego bodźca z listy",
+        "bodźca ze środka hierarchii",
+        "realnego kontaktu z najsilniejszym bodźcem",
+        "bodźca losowo wybranego przez terapeutę",
+        "obserwowania modelu przy najsilniejszym bodźcu",
+        "przykrego bodźca skojarzonego z lękiem"
+      ],
+      "explanation": "Będąc w stanie odprężenia, klient wyobraża sobie żywo najsłabszy bodziec lękowy z listy. Jeśli potrafi go sobie wyobrazić bez przykrości, przechodzi do następnego, silniejszego.",
+      "sourceExcerpt": "będąc w stanie odprężenia, klient wyobraża sobie żywo najsłabszy bodziec lękowy z listy. Jeśli potrafi go sobie wyobrazić bez przykrości, przechodzi do następnego, silniejszego bodźca",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-31",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Trening odprężania się (relaksacji) w systematycznym odwrażliwianiu uczy klienta:"
+      ],
+      "correct": [
+        "odróżniać napięcie od odprężenia"
+      ],
+      "distractors": [
+        "unikać sytuacji wywołujących napięcie",
+        "wyobrażać sobie najgorszą wersję sytuacji",
+        "nagradzać samego siebie za brak lęku",
+        "rozpoznawać wyparte wspomnienia",
+        "naśladować zachowanie terapeuty",
+        "kojarzyć napięcie z przykrym bodźcem"
+      ],
+      "explanation": "Trening relaksacji wymaga kilku posiedzeń; klient uczy się rozróżniać odczucia napięcia i odprężenia oraz uwalniać się od napięcia, by osiągnąć stan odprężenia.",
+      "sourceExcerpt": "klient uczy się rozróżniać odczucia napięcia i odprężenia oraz uwalniać się od napięcia w celu osiągnięcia stanu fizycznego i psychicznego odprężenia",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-32",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co zaskakującego widać w hierarchii lęku egzaminacyjnego studentki (tab. 15.1)?",
+        "Który element studentka umieściła najwyżej w hierarchii lęku egzaminacyjnego?"
+      ],
+      "correct": [
+        "drogę na uczelnię w dniu egzaminu oceniła jako bardziej stresującą niż samo zdawanie",
+        "oczekiwanie na egzamin było dla niej gorsze niż odpowiadanie"
+      ],
+      "distractors": [
+        "najbardziej bała się nocy przed egzaminem",
+        "najsilniejszy lęk budziły pytania egzaminacyjne",
+        "najmniej stresował ją miesiąc przed egzaminem, a najbardziej tydzień przed",
+        "lęk malał w miarę zbliżania się egzaminu",
+        "najbardziej stresowało ją czekanie przed zamkniętymi drzwiami sali",
+        "najwyżej umieściła ogłoszenie wyników"
+      ],
+      "explanation": "Studentka oceniła oczekiwanie na egzamin w najbliższej przyszłości (nr 14: w drodze na uniwersytet w dniu egzaminu) jako bardziej stresujące niż samo jego zdawanie (nr 13).",
+      "sourceExcerpt": "dziewczyna ta oceniła oczekiwanie na egzamin w najbliższej przyszłości (nr 14) jako bardziej stresujące niż samo jego zdawanie (nr 13)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-33",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zatapianie (flooding) różni się od systematycznego odwrażliwiania tym, że klient:",
+        "Na czym polega zatapianie?"
+      ],
+      "correct": [
+        "zgadza się na bezpośrednie postawienie w sytuacji fobicznej",
+        "od razu zostaje skonfrontowany z sytuacją fobiczną, bez stopniowania"
+      ],
+      "distractors": [
+        "przechodzi bardzo powoli przez hierarchię bodźców",
+        "otrzymuje przykry bodziec przy każdej reakcji lękowej",
+        "tylko obserwuje model w sytuacji fobicznej",
+        "jest nagradzany za każde zbliżenie się do bodźca",
+        "omawia sytuację fobiczną bez kontaktu z nią",
+        "najpierw przez wiele sesji ćwiczy relaksację"
+      ],
+      "explanation": "W zatapianiu klient szybciej zostaje poddany działaniu bodźca lękowego: zgadza się na bezpośrednie postawienie w sytuacji fobicznej (np. klaustrofobik w małym ciemnym pomieszczeniu).",
+      "sourceExcerpt": "w technice zwanej zatapianiem (flooding) klienci zgadzają się na bezpośrednie postawienie ich w sytuacji fobicznej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-34",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Przykładem zatapiania jest:",
+        "Który przykład ilustruje technikę zatapiania?"
+      ],
+      "correct": [
+        "posadzenie osoby z klaustrofobią w małym, ciemnym pomieszczeniu",
+        "zanurzenie w basenie dziecka bojącego się wody"
+      ],
+      "distractors": [
+        "karmienie dziecka coraz bliżej królika",
+        "podawanie środka wywołującego mdłości przy alkoholu",
+        "dawanie żetonów za utrzymywanie czystości",
+        "ignorowanie dziwacznych wypowiedzi pacjenta",
+        "oglądanie filmu z osobą dotykającą węża",
+        "wyobrażanie sobie najpierw najsłabszego bodźca"
+      ],
+      "explanation": "Osobę cierpiącą na klaustrofobię sadza się w małym, ciemnym pomieszczeniu, a dziecko bojące się wody zanurza się w basenie.",
+      "sourceExcerpt": "Osobę cierpiącą na klaustrofobię sadza się w małym, ciemnym pomieszczeniu, a dziecko bojące się wody zanurza się w basenie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-35",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jak leczono 21-letniego studenta bojącego się huku pękających baloników?"
+      ],
+      "correct": [
+        "w 3 sesjach znosił huk setek baloników, a na końcu sam przebił ostatnie 115",
+        "zatapianiem: setki pękających baloników w trzech sesjach"
+      ],
+      "distractors": [
+        "stopniowym wyobrażaniem sobie coraz głośniejszych dźwięków",
+        "nagradzaniem za każde podejście do balonika",
+        "łączeniem dźwięku z przykrym wstrząsem",
+        "oglądaniem filmów z osobami przebijającymi baloniki",
+        "kilkunastoma sesjami relaksacji bez kontaktu z balonikami",
+        "analizą wspomnień z dziecięcych urodzin"
+      ],
+      "explanation": "Student wziął udział w trzech sesjach, w czasie których wytrzymywał huk setek pękających baloników; w trzeciej sesji sam powodował pękanie ostatnich 115.",
+      "sourceExcerpt": "polecając mu, by wziął udział w trzech sesjach, w czasie których wytrzymywał on huk setek pękających baloników. W trakcie trzeciej sesji student ten był w stanie sam powodować pękanie z hukiem ostatnich 115 baloników",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-36",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Forma zatapiania zaczynająca się od wyobraźni polega na tym, że klient:"
+      ],
+      "correct": [
+        "długo słucha opisu najgorszej wersji"
+      ],
+      "distractors": [
+        "wyobraża sobie najpierw najsłabszy bodziec z listy",
+        "ogląda model spokojnie wykonujący zadanie",
+        "wyobraża sobie przyjemne miejsce w chwili lęku",
+        "opisuje terapeucie swoje sny o sytuacji fobicznej",
+        "kojarzy wyobrażenie z bodźcem przykrym",
+        "co tydzień ocenia nasilenie lęku w kwestionariuszu"
+      ],
+      "explanation": "Klient może przez godzinę lub dwie słuchać taśmy, która ze szczegółami opisuje najbardziej przerażającą wersję sytuacji fobicznej. Gdy przerażenie ustępuje, stawia się go w realnej sytuacji.",
+      "sourceExcerpt": "klient może przez godzinę lub dwie słuchać taśmy, która z wszelkimi szczegółami opisuje najbardziej przerażającą wersję fobicznej sytuacji. Gdy przerażenie ustępuje, klienta stawia się w sytuacji budzącej jego lęk",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-37",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu osób z lękiem przed lataniem porównującym ekspozycję na lotnisku i w rzeczywistości wirtualnej:",
+        "Jaki był wynik porównania ekspozycji realnej i wirtualnej w leczeniu lęku przed lataniem?"
+      ],
+      "correct": [
+        "obie dały 76% wobec 20% w kontrolnej"
+      ],
+      "distractors": [
+        "tylko ekspozycja na lotnisku była skuteczna",
+        "tylko rzeczywistość wirtualna była skuteczna",
+        "żadna terapia nie różniła się od kontrolnej",
+        "VR okazała się skuteczna u 20% osób",
+        "w grupie kontrolnej poleciało więcej osób niż w VR",
+        "obie terapie nasiliły lęk przed lataniem"
+      ],
+      "explanation": "Obydwa typy terapii przyniosły uczestnikom trwałą redukcję lęku: na lot samolotem zgodziło się 76% uczestników w każdej grupie terapeutycznej, w porównaniu z 20% w grupie kontrolnej.",
+      "sourceExcerpt": "76% uczestników w każdej z grup terapeutycznych przyjęło to zaproszenie, w porównaniu z tylko 20% osób w grupie kontrolnej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-38",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zaletą terapii ekspozycyjnej z użyciem rzeczywistości wirtualnej jest to, że:"
+      ],
+      "correct": [
+        "oszczędza czas i koszty ekspozycji"
+      ],
+      "distractors": [
+        "nie wymaga żadnego kontaktu z bodźcem lękowym",
+        "zastępuje relaksację lekami",
+        "działa bez udziału terapeuty i klienta",
+        "eliminuje lęk już po jednym seansie",
+        "skuteczniej niż ekspozycja realna leczy wszystkie zaburzenia",
+        "nie wymaga zgody klienta"
+      ],
+      "explanation": "Techniki VR stwarzają nadzieję, że będzie można wystawiać się na działanie bodźców wywołujących intensywne doznania bez straty czasu i kosztów związanych z wychodzeniem w świat realny.",
+      "sourceExcerpt": "osoby poddawane terapii będzie można wystawiać na działanie bodźców wywołujących intensywne doznania, bez straty czasu i bez kosztów związanych z wychodzeniem w świat realny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-39",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W terapii zaburzenia obsesyjno-kompulsyjnego do ekspozycji dołącza się:",
+        "Czym jest zapobieganie reakcji (response prevention)?"
+      ],
+      "correct": [
+        "zapobieganie reakcji – powstrzymanie się od czynności natrętnych",
+        "powstrzymywanie się klienta od wykonywania kompulsji"
+      ],
+      "distractors": [
+        "nagradzanie wykonywania czynności natrętnych",
+        "skojarzenie obsesji z wstrząsem elektrycznym",
+        "analizę snów związanych z obsesją",
+        "unikanie bodźców wywołujących obsesje",
+        "modelowanie symboliczne przez film",
+        "przyjmowanie środków wywołujących mdłości"
+      ],
+      "explanation": "Terapia OCD dołącza zapobieganie reakcji: klienci są wystawiani na bodźce, których się obawiają, i powstrzymują się od czynności natrętnych, które zwykle redukują ich lęk.",
+      "sourceExcerpt": "terapia ta dołącza dodatkowy komponent: zapobieganie reakcji (response prevention). Klienci nie tylko są wystawiani na działanie bodźców, których się obawiają, lecz także powstrzymują się od wykonywania czynności natrętnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-40",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Czynności natrętne w zaburzeniu obsesyjno-kompulsyjnym w ujęciu behawioralnym:"
+      ],
+      "correct": [
+        "obniżają lęk klienta, co je podtrzymuje"
+      ],
+      "distractors": [
+        "zawsze nasilają lęk klienta",
+        "są obojętne dla poziomu lęku",
+        "są przejawem sublimacji popędów",
+        "wynikają z braku uwagi otoczenia",
+        "znikają same po ekspozycji bez innych działań",
+        "są skutkiem obserwacji modelu"
+      ],
+      "explanation": "Klienci powstrzymują się od wykonywania czynności natrętnych, które zwykle redukują ich lęk – to istota zapobiegania reakcji.",
+      "sourceExcerpt": "powstrzymują się od wykonywania czynności natrętnych, które zwykle redukują ich lęk",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-41",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia awersyjna jest stosowana u osób, które:",
+        "Dla kogo przeznaczona jest terapia awersyjna?"
+      ],
+      "correct": [
+        "odczuwają pociąg do naprawdę szkodliwych bodźców",
+        "są przyciągane przez szkodliwe bodźce, np. narkotyki"
+      ],
+      "distractors": [
+        "boją się nieszkodliwych bodźców",
+        "mają lęk przed lataniem",
+        "cierpią na lęk nieukierunkowany",
+        "mają trudności w nawiązywaniu kontaktów",
+        "nie pamiętają traumatycznych zdarzeń",
+        "boją się huku pękających baloników"
+      ],
+      "explanation": "Terapia awersyjna jest wykorzystywana do leczenia osób odczuwających pociąg do szkodliwych bodźców: narkomania, zboczenia seksualne, niekontrolowane gwałtowne zachowanie.",
+      "sourceExcerpt": "Terapia awersyjna: rodzaj terapii behawioralnej wykorzystywany do leczenia osób odczuwających pociąg do szkodliwych bodźców",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-42",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Mechanizm terapii awersyjnej polega na:",
+        "Jak działa terapia awersyjna?"
+      ],
+      "correct": [
+        "kojarzeniu kuszącego, szkodliwego bodźca z bodźcem przykrym",
+        "połączeniu atrakcyjnego, ale szkodliwego bodźca z przykrym, by wywołać awersję"
+      ],
+      "distractors": [
+        "nagradzaniu każdej odmowy przyjęcia bodźca",
+        "stopniowym zbliżaniu bodźca w stanie relaksacji",
+        "usunięciu wzmocnień podtrzymujących zachowanie",
+        "obserwowaniu modelu, który unika bodźca",
+        "wyobrażaniu sobie najgorszej wersji sytuacji",
+        "omawianiu nieświadomych przyczyn pociągu"
+      ],
+      "explanation": "Terapia awersyjna stosuje procedury przeciwwarunkowania, aby skojarzyć kuszące bodźce z silnymi, przykrymi bodźcami (wstrząsy elektryczne, środki wywołujące mdłości); w miejsce pożądania pojawia się awersja.",
+      "sourceExcerpt": "Terapia awersyjna (aversion therapy) stosuje procedury przeciwwarunkowania, aby skojarzyć te bodźce z innymi silnymi, przykrymi bodźcami, takimi jak wstrząsy elektryczne lub środki farmakologiczne wywołujące mdłości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-43",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia awersyjna jest odmianą:",
+        "Na jakich procedurach opiera się terapia awersyjna?"
+      ],
+      "correct": [
+        "przeciwwarunkowania",
+        "procedur przeciwwarunkowania"
+      ],
+      "distractors": [
+        "kierowania za pomocą zbieżności",
+        "wygaszania",
+        "modelowania symbolicznego",
+        "zatapiania wyobrażeniowego",
+        "ekonomii żetonowej",
+        "terapii psychodynamicznej"
+      ],
+      "explanation": "Terapia awersyjna stosuje procedury przeciwwarunkowania: kuszący bodziec zostaje skojarzony z przykrym.",
+      "sourceExcerpt": "Terapia awersyjna (aversion therapy) stosuje procedury przeciwwarunkowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-44",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "U osób z zachowaniami samouszkadzającymi (np. bicie się w głowę) łagodny wstrząs elektryczny po takiej czynności:"
+      ],
+      "correct": [
+        "skutecznie usuwa samouszkadzanie u części pacjentów"
+      ],
+      "distractors": [
+        "eliminuje je u wszystkich pacjentów",
+        "nie działa u żadnego pacjenta",
+        "nasila zachowania samouszkadzające",
+        "działa tylko w połączeniu z psychoanalizą",
+        "jest dziś zakazany we wszystkich krajach",
+        "działa wyłącznie u dorosłych"
+      ],
+      "explanation": "Gdy osoba wykonuje czynność samouszkadzającą, aplikuje się jej łagodny wstrząs. Terapia taka skutecznie eliminuje takie zachowania u niektórych, lecz nie u wszystkich pacjentów.",
+      "sourceExcerpt": "Terapia taka skutecznie eliminuje zachowania samouszkadzające u niektórych, lecz nie wszystkich pacjentów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-45",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego ludzie dobrowolnie poddają się terapii awersyjnej?",
+        "Co skłania ludzi do poddania się terapii awersyjnej?"
+      ],
+      "correct": [
+        "boją się długoterminowych skutków nałogu"
+      ],
+      "distractors": [
+        "terapia jest dla nich przyjemna",
+        "nie wiedzą, na czym ona polega",
+        "dostają za nią żetony wymienialne na nagrody",
+        "chcą odzyskać wyparte wspomnienia",
+        "jest to jedyna dostępna terapia",
+        "nie wymaga ona żadnego wysiłku"
+      ],
+      "explanation": "Ludzie zgadzają się, bo wiedzą, że długoterminowe konsekwencje ich zachowań zniszczą zdrowie, karierę lub życie rodzinne; mogą też być zmuszeni naciskami instytucji (np. więzienia).",
+      "sourceExcerpt": "ludzie czynią to tylko dlatego, że zdają sobie sprawę, iż długoterminowe konsekwencje kontynuowania dotychczasowych wzorców zachowania zniszczą ich zdrowie, karierę zawodową lub życie rodzinne. Mogą także zostać do tego zmuszeni przez naciski ze strony instytucji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-46",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Użycie terapii awersyjnej w instytucjonalnych programach rehabilitacyjnych jest obecnie:"
+      ],
+      "correct": [
+        "regulowane przez prawo i zalecenia etyczne"
+      ],
+      "distractors": [
+        "całkowicie zakazane",
+        "obowiązkowe w więzieniach",
+        "stosowane bez żadnych ograniczeń",
+        "dozwolone tylko u dzieci",
+        "zastępowane wyłącznie psychoanalizą",
+        "stosowane tylko bez zgody pacjenta"
+      ],
+      "explanation": "Użycie terapii awersyjnej w instytucjonalnych programach rehabilitacyjnych jest obecnie regulowane przez prawo i zalecenia etyczne.",
+      "sourceExcerpt": "Użycie terapii awersyjnej w instytucjonalnych programach rehabilitacyjnych jest obecnie regulowane przez prawo i zalecenia etyczne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-47",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Kierowanie zachowaniem za pomocą zbieżności (contingency management) to:",
+        "Na czym polega kierowanie zachowaniem za pomocą zbieżności?"
+      ],
+      "correct": [
+        "zmiana zachowania przez modyfikowanie jego konsekwencji",
+        "strategia terapeutyczna zmieniająca zachowanie przez zmianę jego konsekwencji"
+      ],
+      "distractors": [
+        "zastąpienie reakcji nieprzystosowawczej nową reakcją",
+        "stawianie klienta wobec sytuacji wzbudzających lęk",
+        "skojarzenie szkodliwego bodźca z przykrym",
+        "obserwowanie modeli nagradzanych za zachowanie",
+        "wyobrażanie sobie bodźców w stanie relaksacji",
+        "interpretowanie nieświadomych przyczyn zachowania"
+      ],
+      "explanation": "Kierowanie za pomocą zbieżności oznacza ogólną strategię terapeutyczną polegającą na zmienianiu zachowania przez modyfikowanie jego konsekwencji.",
+      "sourceExcerpt": "Kierowanie zachowaniem za pomocą zbieżności (contingency management): ogólna strategia terapeutyczna polegająca na zmianie zachowania poprzez modyfikowanie jego konsekwencji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-48",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Kierowanie zachowaniem za pomocą zbieżności opiera się na:",
+        "Z jakiej tradycji badawczej wywodzi się kierowanie za pomocą zbieżności?"
+      ],
+      "correct": [
+        "zasadach warunkowania sprawczego (tradycja Skinnera)",
+        "warunkowaniu sprawczym"
+      ],
+      "distractors": [
+        "warunkowaniu klasycznym i hamowaniu wzajemnym",
+        "teorii społecznego uczenia się",
+        "psychoanalizie Freuda",
+        "psychologii humanistycznej",
+        "terapii poznawczej",
+        "introspekcji eksperymentalnej"
+      ],
+      "explanation": "Procedury modyfikacji zachowania inne niż przeciwwarunkowanie są oparte na zasadach warunkowania sprawczego i powstały w tradycji badawczej zapoczątkowanej przez B.F. Skinnera.",
+      "sourceExcerpt": "Inne procedury modyfikacji zachowania są oparte na zasadach warunkowania sprawczego i powstały w tradycji badawczej zapoczątkowanej przez B.F. Skinnera.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-49",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dwie podstawowe techniki kierowania za pomocą zbieżności to:"
+      ],
+      "correct": [
+        "strategie wzmacniania pozytywnego i strategie wygaszania",
+        "wzmacnianie pozytywne oraz wygaszanie"
+      ],
+      "distractors": [
+        "odwrażliwianie i zatapianie",
+        "terapia awersyjna i implozja",
+        "modelowanie uczestniczące i symboliczne",
+        "relaksacja i hierarchia lęku",
+        "zapobieganie reakcji i ekspozycja",
+        "katharsis i interpretacja"
+      ],
+      "explanation": "Dwie podstawowe techniki kierowania za pomocą zbieżności w terapii behawioralnej to strategie wzmacniania pozytywnego oraz strategie wygaszania.",
+      "sourceExcerpt": "Dwie podstawowe techniki kierowania za pomocą zbieżności w terapii behawioralnej to strategie wzmacniania pozytywnego oraz strategie wygaszania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-50",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Przeciwwarunkowanie jest właściwe wtedy, gdy:",
+        "Kiedy stosuje się przeciwwarunkowanie, a nie inne procedury modyfikacji zachowania?"
+      ],
+      "correct": [
+        "daną reakcję można zastąpić inną",
+        "reakcja może zostać zastąpiona nową"
+      ],
+      "distractors": [
+        "zachowanie jest podtrzymywane przez nieświadome wzmocnienia",
+        "klient nie chce brać udziału w terapii",
+        "trzeba wzmacniać kolejne przybliżenia do celu",
+        "chodzi o naukę przez obserwację modeli",
+        "problem ma charakter ogólny",
+        "objaw jest symptomem ukrytego procesu"
+      ],
+      "explanation": "Stosowanie procedur przeciwwarunkowania jest właściwe wtedy, gdy jakaś reakcja może być zastąpiona inną.",
+      "sourceExcerpt": "Stosowanie procedur przeciwwarunkowania jest właściwe wtedy, gdy jakaś reakcja może być zastąpiona inną.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-51",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według podstawowej zasady warunkowania sprawczego reakcja, po której natychmiast następuje nagroda:",
+        "Co dzieje się z reakcją, po której natychmiast pojawia się nagroda?"
+      ],
+      "correct": [
+        "będzie powtarzana, a jej częstość wzrośnie",
+        "jest powtarzana coraz częściej"
+      ],
+      "distractors": [
+        "zaniknie po kilku powtórzeniach",
+        "zostanie wyparta do nieświadomości",
+        "stanie się źródłem lęku",
+        "przestanie zależeć od konsekwencji",
+        "pojawi się tylko w obecności modelu",
+        "zostanie zastąpiona reakcją przeciwną"
+      ],
+      "explanation": "Gdy po reakcji natychmiast następuje nagroda, reakcja ta zwykle będzie powtarzana, a częstość jej występowania wzrośnie – to najważniejsza zasada warunkowania sprawczego.",
+      "sourceExcerpt": "Gdy po jakiejś reakcji natychmiast następuje nagroda, reakcja ta zwykle będzie powtarzana, a częstość jej występowania zacznie z czasem wzrastać.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-52",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Kształtowanie (shaping) polega na:",
+        "Czym jest kształtowanie zachowania?"
+      ],
+      "correct": [
+        "wzmacnianiu kolejnych przybliżeń do pożądanego zachowania",
+        "nagradzaniu coraz bliższych celowi wersji zachowania"
+      ],
+      "distractors": [
+        "karaniu każdego odstępstwa od zachowania docelowego",
+        "ignorowaniu zachowania aż do jego wygaśnięcia",
+        "kojarzeniu zachowania z przykrym bodźcem",
+        "nagradzaniu wyłącznie zachowania doskonałego",
+        "obserwowaniu modelu bez własnej aktywności",
+        "stopniowym zbliżaniu bodźca lękowego"
+      ],
+      "explanation": "Kształtowanie (shaping): badacze wzmacniają kolejne przybliżenia do pożądanego zachowania.",
+      "sourceExcerpt": "technikę zwaną kształtowaniem (shaping), w której badacze wzmacniają kolejne przybliżenia do pożądanego zachowania",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-53",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W programie dla palaczy opartym na kształtowaniu uczestnicy dostawali pieniądze, gdy:",
+        "Jak zastosowano kształtowanie, by pomóc palaczom?"
+      ],
+      "correct": [
+        "obniżyli tlenek węgla w oddechu poniżej celu"
+      ],
+      "distractors": [
+        "całkowicie rzucili palenie od pierwszego dnia terapii",
+        "zgłaszali w ankiecie mniejszą chęć zapalenia",
+        "palili wyłącznie w obecności terapeuty",
+        "obejrzeli film o szkodliwości palenia tytoniu",
+        "kojarzyli smak papierosa z mdłościami",
+        "oddali terapeucie niewypalone paczki papierosów"
+      ],
+      "explanation": "Badacze mierzyli poziom tlenku węgla w oddechu; zachęty pieniężne dostawano za zejście poniżej poziomów docelowych, które z czasem stawały się coraz bardziej wymagające.",
+      "sourceExcerpt": "uczestnicy otrzymywali zachęty pieniężne, jeśli potrafili sprowadzić zawartość tlenku węgla w oddechu poniżej określonych poziomów docelowych... Z czasem cele te stawały się coraz bardziej wymagające",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-54",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Ekonomia żetonowa polega na tym, że:",
+        "Czym jest ekonomia żetonowa?"
+      ],
+      "correct": [
+        "za określone zachowania dostają żetony na nagrody"
+      ],
+      "distractors": [
+        "pacjenci płacą żetonami za każdą sesję terapii",
+        "żetony odbiera się za każde objawy choroby",
+        "żetony służą do losowania terapeuty",
+        "personel dostaje żetony za skuteczne leczenie",
+        "pacjenci wymieniają się żetonami między sobą bez zasad",
+        "żetony kojarzy się z przykrym bodźcem"
+      ],
+      "explanation": "W ekonomii żetonowej dokładnie określa się pożądane zachowania (np. czystość osobista, przyjmowanie leków), a gdy pacjenci je przejawiają, personel płaci im żetonami wymienialnymi na nagrody i przywileje.",
+      "sourceExcerpt": "ekonomię żetonową, w której dokładnie określa się pożądane zachowania (np. utrzymywanie czystości osobistej lub przyjmowanie lekarstw), a kiedy pacjenci przejawiają je, personel zakładu płaci im żetonami",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-55",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Systemy żetonowe są szczególnie skuteczne przy modyfikowaniu zachowań pacjentów w zakresie:"
+      ],
+      "correct": [
+        "samoobsługi i kontaktów z innymi"
+      ],
+      "distractors": [
+        "wspomnień z dzieciństwa",
+        "nieświadomych konfliktów",
+        "lęku przed lataniem",
+        "halucynacji wzrokowych",
+        "przekonań religijnych",
+        "snów i fantazji"
+      ],
+      "explanation": "Te systemy wzmacniania są szczególnie skuteczne przy modyfikowaniu zachowań w zakresie samoobsługi, dbałości o otoczenie oraz częstości pozytywnych interakcji społecznych.",
+      "sourceExcerpt": "Te systemy wzmacniania są szczególnie skuteczne przy modyfikowaniu zachowań pacjentów w zakresie samoobsługi, dbałości o otoczenie oraz częstości pozytywnych interakcji społecznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-56",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Różnicowe wzmacnianie polega na wzmacnianiu zachowań, które:",
+        "W leczeniu narkomanów stosuje się różnicowe wzmacnianie zachowań:"
+      ],
+      "correct": [
+        "są niezgodne z zachowaniem nieprzystosowawczym",
+        "nie dają się pogodzić z nieprzystosowawczym zachowaniem"
+      ],
+      "distractors": [
+        "są identyczne z zachowaniem nieprzystosowawczym",
+        "występują wyłącznie w obecności terapeuty",
+        "pojawiają się spontanicznie u modeli",
+        "wywołują lęk u pacjenta",
+        "są karane przez otoczenie",
+        "wynikają z wypartych pragnień"
+      ],
+      "explanation": "Terapeuci różnicowo wzmacniają zachowania niezgodne z nieprzystosowawczym zachowaniem; technika ta jest stosowana z powodzeniem w leczeniu narkomanów.",
+      "sourceExcerpt": "terapeuci różnicowo wzmacniają zachowania, które są niezgodne z nieprzystosowawczym zachowaniem. Technika ta jest stosowana z powodzeniem w leczeniu narkomanów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-57",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu leczenia uzależnienia od kokainy i opiatów najdłuższą nieprzerwaną abstynencję uzyskała grupa:",
+        "Która grupa w badaniu nad uzależnieniem od kokainy i opiatów najdłużej utrzymywała abstynencję?"
+      ],
+      "correct": [
+        "z losowaniem nagród (7,8 tyg.)",
+        "otrzymująca szansę losowania nagród za czyste próbki"
+      ],
+      "distractors": [
+        "tylko z terapią standardową (4,6 tyg.)",
+        "z talonami (7 tyg.)",
+        "kontrolna bez żadnej terapii",
+        "z terapią awersyjną",
+        "z modelowaniem symbolicznym",
+        "wszystkie grupy miały identyczny wynik"
+      ],
+      "explanation": "Nieprzerwana abstynencja: terapia standardowa 4,6 tygodnia, talony 7 tygodni, losowanie nagród 7,8 tygodnia.",
+      "sourceExcerpt": "W grupie, którą poddawano tylko standardowej terapii, było to 4,6 tygodnia. W grupie z talonami wynik ten wynosił 7 tygodni, a w grupie z losowaniem nagród 7,8 tygodnia.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-58",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W programie z talonami dla osób uzależnionych pozytywny (brudny) wynik próbki moczu:",
+        "Jak działał system talonów w badaniu nad uzależnieniem?"
+      ],
+      "correct": [
+        "sprowadzał wartość talonu z powrotem do 1 dolara",
+        "zerował narastającą wartość talonu do 1 dolara"
+      ],
+      "distractors": [
+        "podwajał wartość kolejnego talonu",
+        "nie wpływał na wartość talonów",
+        "oznaczał wykluczenie z badania",
+        "dawał dodatkowe losowanie nagrody",
+        "skutkował wstrząsem elektrycznym",
+        "przenosił uczestnika do grupy kontrolnej"
+      ],
+      "explanation": "Za pierwszą czystą próbkę dawano talon o wartości 1 dol., wartość rosła o 1,5 dol. za każdą kolejną czystą; wynik pozytywny sprowadzał wartość talonu znów do 1 dol.",
+      "sourceExcerpt": "Wartość talonu wzrastała o 1,5 dol. za każdym razem, gdy wynik analizy kolejnej próbki moczu był ujemny. Pozytywny wynik badania próbki znów sprowadzał wartość talonu do 1 dol.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-59",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Badanie z talonami i losowaniem nagród dla osób uzależnionych pokazuje, że:"
+      ],
+      "correct": [
+        "kierowanie za pomocą zbieżności zwiększa szansę powstrzymania się od narkotyków",
+        "dodanie nagród za abstynencję wydłuża okres bez narkotyków"
+      ],
+      "distractors": [
+        "nagrody nie mają wpływu na abstynencję",
+        "tylko terapia standardowa jest skuteczna",
+        "losowanie nagród zmniejsza motywację do leczenia",
+        "talony działają lepiej niż jakakolwiek terapia awersyjna",
+        "nagrody pieniężne zwiększają spożycie narkotyków",
+        "efekt utrzymuje się tylko przez tydzień"
+      ],
+      "explanation": "Obie terapie, w których zastosowano kierowanie zachowaniem za pomocą zbieżności, zwiększały prawdopodobieństwo, że uczestnicy powstrzymają się od przyjmowania narkotyków.",
+      "sourceExcerpt": "obie terapie, w których zastosowano kierowanie zachowaniem za pomocą zbieżności, zwiększały prawdopodobieństwo, że uczestnicy powstrzymają się od przyjmowania narkotyków",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-60",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego ludzie nadal robią coś, co powoduje cierpienie, choć są zdolni do innego postępowania?"
+      ],
+      "correct": [
+        "bo ma też skutki, które je wzmacniają"
+      ],
+      "distractors": [
+        "bo nie zdają sobie sprawy z negatywnych skutków",
+        "bo zachowanie jest wrodzone i niezmienne",
+        "bo kara zawsze zwiększa częstość zachowania",
+        "bo działają wyparte konflikty z dzieciństwa",
+        "bo naśladują zachowanie terapeutów",
+        "bo brakuje im inteligencji"
+      ],
+      "explanation": "Wiele form zachowania ma wielorakie konsekwencje: niektóre negatywne, a niektóre pozytywne. Subtelne pozytywne wzmocnienia podtrzymują zachowanie mimo negatywnych konsekwencji.",
+      "sourceExcerpt": "wiele form zachowania ma wielorakie konsekwencje – niektóre negatywne, a niektóre pozytywne. Często subtelne pozytywne wzmocnienia podtrzymują jakieś zachowanie, pomimo jego oczywistych negatywnych konsekwencji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-61",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Strategie wygaszania są użyteczne w terapii, gdy:",
+        "Kiedy stosuje się strategie wygaszania?"
+      ],
+      "correct": [
+        "zachowanie podtrzymują niezauważone okoliczności wzmacniające"
+      ],
+      "distractors": [
+        "reakcję lękową można zastąpić odprężeniem",
+        "pacjent odczuwa pociąg do szkodliwego bodźca",
+        "trzeba nauczyć zupełnie nowego zachowania",
+        "pacjent boi się nieszkodliwego bodźca",
+        "brakuje modeli do naśladowania",
+        "objaw jest wynikiem wypartych wspomnień"
+      ],
+      "explanation": "Strategie wygaszania są użyteczne, kiedy nieprzystosowawcze zachowania są podtrzymywane przez nierozpoznane okoliczności wzmacniające; identyfikuje się je analizą sytuacji i eliminuje.",
+      "sourceExcerpt": "Strategie wygaszania są użyteczne w terapii, kiedy nieprzystosowawcze zachowania są podtrzymywane przez nierozpoznane okoliczności wzmacniające.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-62",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Chłopiec z ADHD sprawiał kłopoty w klasie. Jego zachowanie poprawiło się, gdy nauczyciele:",
+        "Co było wzmocnieniem destrukcyjnych zachowań ucznia z ADHD?"
+      ],
+      "correct": [
+        "przestali poświęcać mu uwagę przy złym zachowaniu"
+      ],
+      "distractors": [
+        "zaczęli go surowiej karać",
+        "przenieśli go do innej klasy",
+        "dali mu żetony za każde przewinienie",
+        "zaczęli częściej z nim rozmawiać o jego zachowaniu",
+        "posadzili go w pierwszej ławce",
+        "wezwali rodziców na rozmowę"
+      ],
+      "explanation": "Uwaga, jaką nauczyciele poświęcali uczniowi przy destrukcyjnym zachowaniu, była pozytywnym wzmocnieniem. Kiedy przestali zwracać na niego uwagę przy złym zachowaniu, zachowanie się poprawiło.",
+      "sourceExcerpt": "uwaga, jaką nauczyciele poświęcali uczniowi, kiedy przejawiał takie zachowania, stanowiła pozytywne wzmocnienie dla tych zachowań. Kiedy nauczyciele przestali zwracać na niego uwagę, gdy zachowywał się nieodpowiednio, zachowanie ucznia poprawiło się",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-63",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W szpitalach psychiatrycznych pytanie pacjentów, jak się czują, mogło:",
+        "Jak personel szpitala nieświadomie podtrzymywał dziwaczne objawy pacjentów ze schizofrenią?"
+      ],
+      "correct": [
+        "zwracając więcej uwagi na im dziwaczniejsze wypowiedzi"
+      ],
+      "distractors": [
+        "ignorując wszystkie wypowiedzi pacjentów",
+        "nagradzając pacjentów za normalne zachowanie",
+        "stosując wobec nich terapię awersyjną",
+        "podając zbyt małe dawki leków",
+        "pozwalając im obserwować zdrowych modeli",
+        "ograniczając im kontakt z rodziną"
+      ],
+      "explanation": "Pacjenci interpretowali pytanie jako domaganie się informacji diagnostycznej i mówili o objawach; im dziwaczniejsze objawy, tym więcej uwagi okazywał personel, co wzmacniało ich przejawianie.",
+      "sourceExcerpt": "im bardziej dziwaczne są te symptomy i wypowiedzi, tym więcej uwagi członkowie personelu mogą okazywać pacjentowi, co wzmacnia ciągłe przejawianie dziwacznych symptomów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-64",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Radykalną redukcję dziwacznych symptomów u pacjentów szpitala uzyskano, gdy personel:"
+      ],
+      "correct": [
+        "ignorował dziwactwa, nagradzał normalność uwagą"
+      ],
+      "distractors": [
+        "częściej pytał pacjentów o samopoczucie",
+        "nagradzał pacjentów za opisywanie halucynacji",
+        "zwiększył dawki leków",
+        "stosował łagodne wstrząsy przy objawach",
+        "pokazywał pacjentom filmy z modelami",
+        "przeniósł pacjentów do izolatek"
+      ],
+      "explanation": "Personelowi polecono ignorować dziwaczne zachowania i zwracać uwagę na pacjentów tylko wtedy, gdy zachowują się normalnie – zaobserwowano radykalną redukcję symptomów.",
+      "sourceExcerpt": "zaobserwowano radykalną redukcję symptomów, kiedy personelowi szpitala polecono po prostu ignorować takie zachowania i zwracać uwagę na pacjentów tylko wtedy, gdy zachowują się normalnie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-65",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia oparta na teorii społecznego uczenia się polega na tym, że klient:",
+        "Czym jest terapia oparta na teorii społecznego uczenia się?"
+      ],
+      "correct": [
+        "obserwuje modele nagradzane za pożądany sposób reagowania",
+        "uczy się, obserwując wzmacnianie pożądanych zachowań u modeli"
+      ],
+      "distractors": [
+        "jest nagradzany żetonami za każde pożądane zachowanie",
+        "kojarzy szkodliwy bodziec z przykrym",
+        "wyobraża sobie bodźce w stanie relaksacji",
+        "powstrzymuje się od czynności natrętnych",
+        "analizuje swoje relacje z rodzicami",
+        "zostaje od razu postawiony w sytuacji fobicznej"
+      ],
+      "explanation": "Terapia oparta na teorii społecznego uczenia się: forma leczenia, w której klienci obserwują wzmacnianie pożądanych zachowań u osób odgrywających rolę modeli.",
+      "sourceExcerpt": "Terapia oparta na teorii społecznego uczenia się (social-learning therapy): Forma leczenia, w której klienci obserwują wzmacnianie pożądanych zachowań u osób odgrywających rolę modeli.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-66",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Proces zastępczego uczenia się (przez obserwację) jest według podręcznika szczególnie wartościowy w:"
+      ],
+      "correct": [
+        "przy fobiach i umiejętnościach społecznych"
+      ],
+      "distractors": [
+        "leczeniu zaburzeń psychotycznych",
+        "odzyskiwaniu wypartych wspomnień",
+        "leczeniu uzależnień od opiatów",
+        "eliminowaniu samouszkadzania",
+        "terapii zaburzeń snu",
+        "zmniejszaniu liczby wypalanych papierosów"
+      ],
+      "explanation": "Proces zastępczego uczenia się jest szczególnie wartościowy w przezwyciężaniu fobii i kształtowaniu umiejętności społecznych.",
+      "sourceExcerpt": "Ten proces zastępczego uczenia się jest szczególnie wartościowy w przezwyciężaniu fobii i kształtowaniu umiejętności społecznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-67",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zgodnie z teorią społecznego uczenia się uczymy się reguł postępowania także:"
+      ],
+      "correct": [
+        "też przez obserwację, np. w filmie"
+      ],
+      "distractors": [
+        "wyłącznie przez bezpośrednie nagrody i kary",
+        "tylko przez warunkowanie klasyczne",
+        "wyłącznie przez własne próby i błędy",
+        "tylko przez introspekcję",
+        "wyłącznie w dzieciństwie",
+        "tylko przez wyparcie i sublimację"
+      ],
+      "explanation": "Ludzie uczą się przez obserwację zachowania innych; reguł uczymy się z pośrednictwem środków symbolicznych, takich jak obserwacja doświadczeń innych w życiu, w filmie lub w telewizji.",
+      "sourceExcerpt": "Często uczysz się reguł i ich stosowania do nowych doświadczeń, korzystając z pośrednictwa środków symbolicznych, takich jak obserwacja doświadczeń innych ludzi w życiu, w filmie lub w telewizji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-68",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W terapii fobii węży metodą naśladowania modeli terapeuta:",
+        "Jak przebiega naśladowanie modeli w terapii fobii węży?"
+      ],
+      "correct": [
+        "pokazuje stopniowane zachowania zbliżania, które klient potem powtarza"
+      ],
+      "distractors": [
+        "od razu kładzie węża na kolanach klienta",
+        "każe klientowi wyobrażać sobie węża w stanie relaksacji",
+        "kojarzy widok węża z przykrym bodźcem",
+        "nagradza klienta żetonami za unikanie węża",
+        "omawia z klientem symboliczne znaczenie węża",
+        "zmusza klienta do dotknięcia węża przy oporze"
+      ],
+      "explanation": "Terapeuta najpierw demonstruje bez lęku zachowanie zbliżania się do węża, zaczynając od łatwych zachowań (podejście do klatki, dotknięcie palcem); klient je naśladuje, a terapeuta zachęca i dodaje otuchy.",
+      "sourceExcerpt": "terapeuta najpierw demonstruje zachowanie zbliżania się bez lęku do węża, rozpoczynając od stosunkowo łatwiejszych zachowań – np. podejścia do klatki z wężami lub dotknięcia węża palcem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-69",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co robi terapeuta modelujący, gdy klient stawia opór na jakimś poziomie trudności?"
+      ],
+      "correct": [
+        "cofa go do łatwiejszego kroku"
+      ],
+      "distractors": [
+        "zmusza klienta do wykonania zadania",
+        "przerywa terapię",
+        "stosuje łagodny wstrząs elektryczny",
+        "przechodzi od razu do najtrudniejszego zadania",
+        "nagradza klienta za sam opór",
+        "zmienia terapię na psychoanalizę"
+      ],
+      "explanation": "Nigdy nie zmusza się klienta do jakiegoś zachowania. Opór na jakimkolwiek poziomie przezwycięża się, polecając wrócić do mniej zagrażającego, opanowanego wcześniej zachowania.",
+      "sourceExcerpt": "Nigdy nie zmusza się klienta do jakiegoś zachowania. Opór pojawiający się na jakimkolwiek poziomie trudności zadania przezwycięża się, polecając klientowi powrócić do mniej zagrażającego, realizowanego uprzednio z powodzeniem zachowania zbliżającego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-70",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu nad leczeniem fobii węży (ryc. 15.1) najskuteczniejszą metodą okazało się:",
+        "Która metoda dała najwięcej reakcji zbliżania się do węża?"
+      ],
+      "correct": [
+        "modelowanie uczestniczące"
+      ],
+      "distractors": [
+        "modelowanie symboliczne",
+        "systematyczne odwrażliwianie",
+        "brak terapii (grupa kontrolna)",
+        "terapia awersyjna",
+        "zatapianie",
+        "ekonomia żetonowa"
+      ],
+      "explanation": "Ryc. 15.1: modelowanie uczestniczące dało najwięcej reakcji zbliżania (ok. 27–28 wobec ok. 10 na początku); odwrażliwianie i modelowanie symboliczne mniej (ok. 18–20), grupa kontrolna praktycznie bez zmian.",
+      "sourceExcerpt": "Wykres przedstawia porównanie liczby reakcji zbliżania się, wykonanych przez osoby badane przed (najbardziej skuteczną) terapią opartą na modelowaniu i po niej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-71",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Na wykresie z ryc. 15.1 liczba reakcji zbliżania w grupie kontrolnej:",
+        "Jak zmieniła się liczba reakcji zbliżania do węża w grupie kontrolnej?"
+      ],
+      "correct": [
+        "prawie się nie zmieniła"
+      ],
+      "distractors": [
+        "wzrosła do ok. 28",
+        "wzrosła do ok. 20",
+        "spadła do zera",
+        "wzrosła bardziej niż przy odwrażliwianiu",
+        "podwoiła się",
+        "była wyższa niż przy modelowaniu symbolicznym"
+      ],
+      "explanation": "W grupie kontrolnej linia jest niemal płaska: ok. 10 na początku i ok. 11 na końcu. Wszystkie trzy terapie dały wyraźny wzrost.",
+      "sourceExcerpt": "[ryc. 15.1] grupa kontrolna – linia przerywana, pomiar początkowy ok. 10, końcowy ok. 11",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-72",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W terapii opartej na modelowaniu symbolicznym (w porównaniu z modelowaniem uczestniczącym) osoby badane:"
+      ],
+      "correct": [
+        "wyszkolone w relaksacji oglądały film z modelami",
+        "po treningu relaksacji oglądały modeli na filmie"
+      ],
+      "distractors": [
+        "same dotykały węża razem z terapeutą",
+        "dostawały żetony za każdą reakcję zbliżania",
+        "wyobrażały sobie najgorszą wersję spotkania z wężem",
+        "nie otrzymywały żadnej terapii",
+        "kojarzyły widok węża z wstrząsem",
+        "przez godzinę stały obok klatki z wężem"
+      ],
+      "explanation": "W terapii opartej na modelowaniu symbolicznym osoby badane, wyszkolone w technikach relaksacji, oglądały film (z modelami).",
+      "sourceExcerpt": "W terapii opartej na modelowaniu symbolicznym osoby badane, wyszkolone w posługiwaniu się technikami relaksacji, oglądały film",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-73",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Osoba z ryc. 15.1, która na końcu trzymała węża, w trakcie terapii:"
+      ],
+      "correct": [
+        "obserwowała model i powtarzała jego kroki"
+      ],
+      "distractors": [
+        "od razu dostała węża do rąk",
+        "tylko oglądała film z wężem",
+        "wyobrażała sobie węża w stanie relaksacji",
+        "była karana za unikanie węża",
+        "dostawała pieniądze za każde dotknięcie węża",
+        "słuchała taśmy z opisem ataku węża"
+      ],
+      "explanation": "Podpis ryc. 15.1: osoba badana najpierw obserwowała model wykonujący serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała; w końcu wzięła węża w ręce.",
+      "sourceExcerpt": "Osoba badana widoczna na zdjęciu najpierw obserwowała modela wykonującego serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}
