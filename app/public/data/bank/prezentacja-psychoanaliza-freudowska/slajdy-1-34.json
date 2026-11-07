@@ -241,7 +241,10 @@
       "explanation": "Projekcja własnej agresji wobec ojca wywołuje poczucie zagrożenia jego agresją, czyli lęk kastracyjny, który prowadzi do rozwiązania konfliktu.",
       "sourceExcerpt": "Projekcja własnej agresji skierowanej na ojca wywołuje w chłopcu poczucie zagrożenia agresją z jego strony – w ten sposób rodzi się lęk kastracyjny. Lęk kastracyjny jest podstawą do rozwiązania kompleksu Edypa.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
     },
     {
       "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-11",
@@ -917,6 +920,87 @@
       "explanation": "Wyparcie zamyka w nieświadomości trudne uczucia; jednostka nie wie, że jej umysł dokonał takiego zabiegu.",
       "sourceExcerpt": "Wyparcie – zamykanie w nieświadomości zbyt trudnych, nieakceptowanych uczuć i niezdawanie sobie z tego procesu sprawy - niedopuszczenie do świadomości niepokojących myśli, wspomnień i emocji.",
       "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-37",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "W której fazie rozwoju psychoseksualnego według Freuda kształtują się podstawy superego?",
+        "Superego zaczyna się kształtować w fazie:"
+      ],
+      "correct": [
+        "fallicznej (edypalnej)",
+        "fallicznej"
+      ],
+      "distractors": [
+        "oralnej",
+        "analnej",
+        "latencji",
+        "genitalnej",
+        "okresu dojrzewania",
+        "okresu noworodkowego"
+      ],
+      "explanation": "Podstawy superego tworzą się w fazie fallicznej, gdy dziecko rozwiązuje kompleks Edypa: identyfikuje się z rodzicem tej samej płci i przejmuje jego zakazy i normy.",
+      "sourceExcerpt": "Faza falliczna/edypalna (ok. 3-6 r.ż.) [...] Kompleks Edypa. Pomyślne rozwiązanie kompleksu Edypa jest ważnym osiągnięciem rozwojowym – dzięki temu tworzą się podstawy moralności.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-38",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Pięcioletni chłopiec przestaje rywalizować z ojcem o uwagę matki, zaczyna go naśladować i przyjmuje jego zakazy jako własne. Według Freuda w tym momencie:"
+      ],
+      "correct": [
+        "kształtuje się superego",
+        "powstają podstawy superego (sumienia)"
+      ],
+      "distractors": [
+        "kształtuje się id",
+        "zaczyna się faza oralna",
+        "dochodzi do fiksacji analnej",
+        "rozwija się popęd tanatos",
+        "następuje regresja do fazy oralnej",
+        "dziecko traci energię libido"
+      ],
+      "explanation": "Rozwiązanie kompleksu Edypa przez identyfikację z ojcem i introjekcję jego norm tworzy podstawy moralności, czyli superego.",
+      "sourceExcerpt": "Rozwiązanie konfliktu Edypa: wyparcie pożądania do matki; identyfikacja z domniemanym agresorem i introjekcja norm reprezentowanych przez niego i społeczeństwo. [...] dzięki temu tworzą się podstawy moralności.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-39",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "slajdy-1-34",
+      "stems": [
+        "Po rozwiązaniu kompleksu Edypa, które tworzy podstawy superego, dziecko wchodzi w fazę:"
+      ],
+      "correct": [
+        "latencji"
+      ],
+      "distractors": [
+        "oralną",
+        "analną",
+        "falliczną",
+        "genitalną",
+        "dojrzewania",
+        "noworodkową"
+      ],
+      "explanation": "Presja konfliktu Edypa powoduje całkowite wyparcie pragnień seksualnych; dziecko wchodzi w fazę latencji, w której libido jest inwestowane w zabawę, naukę i kontakty z rówieśnikami.",
+      "sourceExcerpt": "Presja konfliktu Edypa powoduje u dziecka całkowite wyparcie pragnień seksualnych. Wchodzi ono w ten sposób w fazę latencji.",
+      "difficulty": 2,
       "status": "ok",
       "tags": [
         "wejściówka 1: historia i współczesność"

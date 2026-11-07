@@ -84,7 +84,7 @@
         {
           "id": "slajdy-1-34",
           "title": "slajdy 1–34",
-          "questionCount": 36
+          "questionCount": 39
         }
       ]
     },
@@ -253,12 +253,12 @@
       "id": "wejsciowka-1-historia-i-wspolczesnosc",
       "title": "wejściówka 1: historia i współczesność",
       "tag": "wejściówka 1: historia i współczesność",
-      "questionCount": 109,
+      "questionCount": 114,
       "sources": [
         {
           "bookId": "prezentacja-psychoanaliza-freudowska",
           "chapterId": "slajdy-1-34",
-          "questionCount": 19
+          "questionCount": 23
         },
         {
           "bookId": "prezentacja-psychologia-jako-nauka",
@@ -268,7 +268,7 @@
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "rozdzial-13",
-          "questionCount": 38
+          "questionCount": 39
         },
         {
           "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
