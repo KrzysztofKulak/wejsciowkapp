@@ -58,7 +58,7 @@ button.ghost { background: transparent; }
 .topbar .title { font-weight: 700; }
 
 /* setup */
-.subjects { display: flex; flex-direction: column; gap: 14px; }
+.subjects { display: flex; flex-direction: column; gap: 10px; }
 .searchbar { margin: 4px 0 0; }
 .search {
   width: 100%; font: inherit; color: var(--text); background: var(--card);
@@ -67,8 +67,14 @@ button.ghost { background: transparent; }
 .search:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
 .subject-title {
   font-size: 0.78rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted);
-  padding-bottom: 4px; margin-bottom: 4px; border-bottom: 1px solid var(--line);
+  padding: 6px 0 4px; border-bottom: 1px solid var(--line);
+  cursor: pointer; list-style: none; display: flex; align-items: center; gap: 8px;
 }
+.subject-title::-webkit-details-marker { display: none; }
+.subject-title .chev { transition: transform 0.15s; }
+.subject[open] > .subject-title { margin-bottom: 4px; }
+.subject[open] > .subject-title .chev { transform: rotate(90deg); }
+.subject-count { margin-left: auto; text-transform: none; letter-spacing: 0; color: var(--accent); font-weight: 600; }
 .book { margin-bottom: 8px; }
 .book > summary { cursor: pointer; font-weight: 600; padding: 8px 0; list-style: none; display: flex; align-items: center; gap: 10px; }
 .book > summary::-webkit-details-marker { display: none; }

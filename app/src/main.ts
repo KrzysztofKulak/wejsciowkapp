@@ -169,6 +169,10 @@ function setupView(error?: string) {
       inp.checked = all;
       inp.indeterminate = !all && some;
     }
+    for (const g of groups) {
+      const n = g.books.reduce((acc, b) => acc + b.chapters.filter((c) => selected.has(`${b.id}/${c.id}`)).length, 0);
+      g.badge.textContent = n ? `${n} zazn.` : "";
+    }
   }
   let userTouchedRange = false;
   range.addEventListener("input", () => { userTouchedRange = true; refresh(); });
@@ -177,15 +181,20 @@ function setupView(error?: string) {
   // (case- and diacritics-insensitive), so "b" → "Biologiczne…", "spol" → "…społecznej".
   const norm = (s: string) => s.toLowerCase().replace(/ł/g, "l").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const words = (s: string) => norm(s).split(/[^a-z0-9]+/).filter(Boolean);
-  const groups: { el: HTMLElement; words: string[] }[] = [];
+  type Group = { el: HTMLDetailsElement; words: string[]; badge: HTMLElement; books: IndexBook[]; userOpen: boolean };
+  const groups: Group[] = [];
+  let searching = false;
   const search = h("input", { type: "search", class: "search", placeholder: "Szukaj przedmiotu…", "aria-label": "Szukaj przedmiotu", autocomplete: "off" }) as HTMLInputElement;
   const noMatch = h("p", { class: "muted", style: "display:none;margin:0" });
   search.addEventListener("input", () => {
     const qWords = words(search.value);
+    searching = qWords.length > 0;
     let shown = 0;
     for (const g of groups) {
       const ok = qWords.every((qw) => g.words.some((w) => w.startsWith(qw)));
       g.el.style.display = ok ? "" : "none";
+      // while searching, matches are expanded; clearing the field restores what the user opened by hand
+      g.el.open = searching ? ok : g.userOpen;
       if (ok) shown++;
     }
     noMatch.textContent = `Brak przedmiotów pasujących do „${search.value.trim()}”.`;
@@ -198,9 +207,18 @@ function setupView(error?: string) {
     if (!subjects.length) return index.books.map(bookNode);
     const byId = new Map(index.books.map((b) => [b.id, b] as const));
     const used = new Set<string>();
+    // Subjects are collapsible and start collapsed; the badge shows how many chapters are selected inside.
     const group = (title: string, books: IndexBook[]) => {
-      const el = h("div", { class: "subject" }, h("div", { class: "subject-title" }, title), ...books.map(bookNode));
-      groups.push({ el, words: words(title) });
+      const badge = h("span", { class: "subject-count" });
+      const el = h(
+        "details",
+        { class: "subject" },
+        h("summary", { class: "subject-title" }, h("span", { class: "chev" }, "▸"), h("span", {}, title), badge),
+        ...books.map(bookNode),
+      ) as HTMLDetailsElement;
+      const g: Group = { el, words: words(title), badge, books, userOpen: false };
+      el.addEventListener("toggle", () => { if (!searching) g.userOpen = el.open; });
+      groups.push(g);
       return el;
     };
     const out: Node[] = [];
