@@ -1,8 +1,8 @@
 {
   "bookId": "psychologia-i-zycie-zimbardo",
   "chapterId": "behawioryzm-notatki-ai",
-  "chapterTitle": "Behawioryzm – notatki AI (Rozdz. 15, s. 677–685)",
-  "sourceHash": "42791f0f6d5d40a4ff4a69d2e06c51653af0fbd4",
+  "chapterTitle": "Behawioryzm – notatki AI (Rozdz. 6, s. 226–244; Rozdz. 15, s. 677–688)",
+  "sourceHash": "134565dbd2d795dab5ae51a04a00686b675c19c9",
   "bookTitle": "“Psychologia i życie”, Zimbardo",
   "questions": [
     {
@@ -1770,6 +1770,2336 @@
       ],
       "explanation": "Podpis ryc. 15.1: osoba badana najpierw obserwowała model wykonujący serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała; w końcu wzięła węża w ręce.",
       "sourceExcerpt": "Osoba badana widoczna na zdjęciu najpierw obserwowała modela wykonującego serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-74",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu nad fobią węży modelowanie uczestniczące wyeliminowało fobię u:"
+      ],
+      "correct": [
+        "11 z 12 osób",
+        "prawie wszystkich badanych (11 z 12)"
+      ],
+      "distractors": [
+        "połowy badanych",
+        "3 z 12 osób",
+        "wszystkich osób z grupy kontrolnej",
+        "żadnej osoby",
+        "6 z 12 osób",
+        "1 z 12 osób"
+      ],
+      "explanation": "W grupie poddanej modelowaniu uczestniczącemu wyeliminowano fobię przed wężami u 11 z 12 osób badanych.",
+      "sourceExcerpt": "W grupie poddanej tej procedurze wyeliminowano fobię przed wężami u 11 z 12 osób badanych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-75",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Na czym polegało modelowanie symboliczne w badaniu nad fobią węży?"
+      ],
+      "correct": [
+        "na oglądaniu filmu z modelami biorącymi węże",
+        "badani oglądali film, mogąc go zatrzymać i się zrelaksować"
+      ],
+      "distractors": [
+        "na dotykaniu węża razem z terapeutą",
+        "na wyobrażaniu sobie węża w hierarchii",
+        "na słuchaniu opisu ataku węża",
+        "na nagradzaniu żetonami za podejście",
+        "na łączeniu widoku węża z hałasem",
+        "na rozmowie o dzieciństwie"
+      ],
+      "explanation": "Badani, wyszkoleni w relaksacji, oglądali film, w którym modele bez lęku brali węże do rąk; gdy scena budziła lęk, mogli zatrzymać film i się zrelaksować.",
+      "sourceExcerpt": "oglądały film, w którym kilku modeli bez lęku brało węże do rąk; kiedy oglądana scena wzbudzała w osobach badanych uczucie lęku, mogły zatrzymać film i zrelaksować się",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-76",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Modelowanie uczestniczące to technika, w której terapeuta:"
+      ],
+      "correct": [
+        "pokazuje i pomaga naśladować"
+      ],
+      "distractors": [
+        "pokazuje klientowi film z modelem",
+        "kojarzy zachowanie z przykrym bodźcem",
+        "ignoruje niepożądane zachowania",
+        "interpretuje opór klienta",
+        "nagradza klienta żetonami",
+        "każe wyobrażać sobie najgorszą sytuację"
+      ],
+      "explanation": "Modelowanie uczestniczące: terapeuta demonstruje pożądane zachowania i pomaga klientowi naśladować je, wspierając go i zachęcając.",
+      "sourceExcerpt": "Modelowanie uczestniczące (participant modeling): Technika terapeutyczna, w której terapeuta demonstruje pożądane zachowania i pomaga klientowi naśladować je, wspierając go i zachęcając.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-77",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Umiejętności społeczne to według podręcznika:"
+      ],
+      "correct": [
+        "sposoby osiągania celów społecznych"
+      ],
+      "distractors": [
+        "wrodzona łatwość nawiązywania kontaktów",
+        "umiejętność ukrywania własnych emocji",
+        "zdolność do empatii wobec cierpiących",
+        "znajomość zasad savoir-vivre",
+        "zdolność dominowania nad innymi",
+        "cechy osobowości ekstrawertyka"
+      ],
+      "explanation": "Umiejętności społeczne są to sposoby postępowania umożliwiające skuteczne osiąganie własnych celów społecznych w kontakcie i interakcjach z innymi.",
+      "sourceExcerpt": "Umiejętności społeczne są to sposoby postępowania umożliwiające ludziom skuteczne osiąganie własnych celów społecznych, gdy nawiązują kontakt z innymi lub wchodzą z nimi w interakcje.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-78",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Wiedza praktyczna wchodząca w skład umiejętności społecznych obejmuje:"
+      ],
+      "correct": [
+        "co, jak i kiedy powiedzieć lub zrobić",
+        "treść, styl i wybór odpowiedniego czasu"
+      ],
+      "distractors": [
+        "tylko to, co powiedzieć",
+        "wyłącznie mowę ciała",
+        "tylko zasady etykiety",
+        "wyłącznie rozpoznawanie emocji",
+        "tylko sposób ubierania się",
+        "wyłącznie unikanie konfliktów"
+      ],
+      "explanation": "Umiejętności te obejmują wiedzę: co powiedzieć i zrobić (treść) w celu wywołania pożądanej reakcji (konsekwencje), jak to powiedzieć i zrobić (styl) oraz kiedy (wybór odpowiedniego czasu).",
+      "sourceExcerpt": "co powiedzieć i zrobić w danych sytuacjach (treść) w celu wywołania pożądanej reakcji (konsekwencje), jak to powiedzieć i zrobić (styl) oraz kiedy to powiedzieć i zrobić (wybór odpowiedniego czasu)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-79",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Ćwiczenie zachowań w wyobraźni (behavioral rehearsal) polega na:"
+      ],
+      "correct": [
+        "wyobrażaniu sobie zachowania i jego dobrych skutków",
+        "przećwiczeniu w myśli pożądanej sekwencji zachowań"
+      ],
+      "distractors": [
+        "wyobrażaniu sobie najgorszej wersji sytuacji",
+        "wyobrażaniu sobie bodźców w stanie relaksacji",
+        "przypominaniu sobie wypartych zdarzeń",
+        "kojarzeniu wyobrażenia z przykrym bodźcem",
+        "obserwowaniu modelu na filmie",
+        "analizie snów o sytuacji społecznej"
+      ],
+      "explanation": "Ćwiczenie zachowań w wyobraźni: wyobrażanie sobie, jak należałoby się zachować w danej sytuacji, oraz pożądanych pozytywnych konsekwencji.",
+      "sourceExcerpt": "ćwiczenie zachowań w wyobraźni (behavioral rehearsal) – wyobrażanie sobie, jak należałoby się zachować w danej sytuacji, oraz pożądanych pozytywnych konsekwencji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-80",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Trening umiejętności społecznych skutecznie poprawia funkcjonowanie m.in.:"
+      ],
+      "correct": [
+        "dorosłych ze schizofrenią",
+        "młodocianych z zaburzeniami zachowania"
+      ],
+      "distractors": [
+        "wyłącznie osób zdrowych",
+        "tylko dzieci w wieku przedszkolnym",
+        "wyłącznie osób z fobią węży",
+        "tylko osób uzależnionych od nikotyny",
+        "wyłącznie pacjentów po chemioterapii",
+        "tylko osób z lękiem przed lataniem"
+      ],
+      "explanation": "Trening umiejętności społecznych skutecznie poprawia funkcjonowanie m.in. dorosłych cierpiących na schizofrenię oraz młodocianych z zaburzeniami emocjonalnymi i zaburzeniami zachowania.",
+      "sourceExcerpt": "trening umiejętności społecznych skutecznie pomaga poprawić funkcjonowanie różnych grup, takich jak dorośli cierpiący na schizofrenię oraz młodociani z zaburzeniami emocjonalnymi i zaburzeniami zachowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-81",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Techniki generalizacji w terapii behawioralnej mają na celu:"
+      ],
+      "correct": [
+        "utrzymanie zmian poza gabinetem, w realnym życiu",
+        "upodobnienie warunków terapii do codziennego życia"
+      ],
+      "distractors": [
+        "rozszerzenie lęku na podobne bodźce",
+        "przyspieszenie wygaszania reakcji",
+        "skrócenie terapii do jednej sesji",
+        "zastąpienie terapeuty lekami",
+        "uogólnienie diagnozy na całą rodzinę",
+        "ujawnienie wypartych konfliktów"
+      ],
+      "explanation": "Gdy aspekty realnej sytuacji życiowej nie są obecne w terapii, zmiany mogą zanikać; techniki generalizacji zwiększają podobieństwo zachowań, wzmocnień, modeli i bodźców w terapii i w życiu.",
+      "sourceExcerpt": "Techniki te mają na celu zwiększenie podobieństwa między stosowanymi w terapii i występującymi w życiu realnym zachowaniami, czynnikami wzmacniającymi, modelami i warunkami bodźcowymi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-82",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego w technikach generalizacji nagrody przydziela się według rozkładu wzmacniania częściowego?"
+      ],
+      "correct": [
+        "bo w realnym świecie nie zawsze dostaje się nagrodę",
+        "by efekt przetrwał tam, gdzie nagrody bywają rzadkie"
+      ],
+      "distractors": [
+        "bo nagrody ciągłe są zbyt kosztowne",
+        "bo wzmacnianie ciągłe jest nieetyczne",
+        "by klient szybciej zapomniał o nagrodach",
+        "bo tak zaleca psychoanaliza",
+        "by wywołać samorzutne odnowienie",
+        "bo nagrody częściowe są większe"
+      ],
+      "explanation": "Nagrody przydziela się zgodnie z rozkładem wzmacniania częściowego, aby zapewnić utrzymanie ich wpływu w realnym świecie, gdzie nie zawsze uzyskuje się nagrodę.",
+      "sourceExcerpt": "Nagrody przydziela się zgodnie z rozkładem wzmacniania częściowego, aby zapewnić utrzymanie ich wpływu w realnym świecie, gdzie nie zawsze uzyskuje się nagrodę.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-83",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W technikach generalizacji oczekiwanie konkretnych zewnętrznych nagród:"
+      ],
+      "correct": [
+        "słabnie na rzecz aprobaty"
+      ],
+      "distractors": [
+        "stale się wzmacnia",
+        "pozostaje bez zmian do końca terapii",
+        "zostaje nagle usunięte po pierwszej sesji",
+        "zastępuje się karami",
+        "przenosi się na terapeutę",
+        "zastępuje się wstrząsami"
+      ],
+      "explanation": "Stopniowo osłabia się oczekiwanie konkretnych, zewnętrznych nagród, wprowadzając aprobatę społeczną i inne naturalne konsekwencje, w tym nagradzające stwierdzenia o sobie.",
+      "sourceExcerpt": "Stopniowo osłabia się oczekiwanie konkretnych, zewnętrznych nagród, jednocześnie wprowadzając aprobatę społeczną i inne, w bardziej naturalny sposób pojawiające się konsekwencje",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-84",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Chłopiec, który nie chciał pić mleka, w końcu pił czyste mleko, bo nauczycielka:"
+      ],
+      "correct": [
+        "stopniowo ujmowała czekolady"
+      ],
+      "distractors": [
+        "karała go za każdą odmowę",
+        "dawała mu żetony za każdy łyk",
+        "pokazywała mu pijące mleko dzieci",
+        "od razu podawała czyste mleko",
+        "dodawała do mleka coraz więcej cukru",
+        "kojarzyła mleko z ulubioną zabawą"
+      ],
+      "explanation": "Nauczycielka zmieszała mleko z niewielką ilością syropu czekoladowego, a przez następnych 48 posiłków stopniowo zmniejszała ilość czekolady, aż podano czyste mleko.",
+      "sourceExcerpt": "Mleko zmieszane z syropem czekoladowym chłopiec wypił. Przez następnych 48 posiłków nauczycielka stopniowo zmniejszała ilość czekolady, aż wreszcie chłopcu podano tylko czyste mleko.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-85",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "O czym świadczy to, że chłopiec pił czyste mleko także w domu?"
+      ],
+      "correct": [
+        "o generalizacji"
+      ],
+      "distractors": [
+        "o samorzutnym odnowieniu",
+        "o wygaszaniu reakcji",
+        "o substytucji symptomu",
+        "o warunkowaniu wstecznym",
+        "o habituacji do smaku",
+        "o uwrażliwieniu na mleko"
+      ],
+      "explanation": "Chłopiec regularnie pił czyste mleko także w domu, co świadczy o generalizacji z grupy przedszkolnej na inne środowisko.",
+      "sourceExcerpt": "chłopiec regularnie pił czyste mleko. Tak samo było w domu, co świadczy o generalizacji z grupy przedszkolnej na inne środowisko",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-86",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według tab. 15.2 terapia behawioralna zakłada, że ludzie rodzą się:"
+      ],
+      "correct": [
+        "tylko ze zdolnością uczenia się",
+        "jedynie ze zdolnością uczenia się, wspólną z innymi gatunkami"
+      ],
+      "distractors": [
+        "z instynktami seksualnymi i agresywnymi",
+        "z gotowymi wzorcami zachowań",
+        "z wrodzonym dążeniem do samorealizacji",
+        "z wrodzonymi strukturami poznawczymi",
+        "z kompletną osobowością",
+        "z wrodzonym lękiem przed obcymi"
+      ],
+      "explanation": "Terapia behawioralna: podobnie jak inne żywe istoty, ludzie rodzą się tylko ze zdolnością uczenia się, która u wszystkich gatunków przebiega według podobnych zasad.",
+      "sourceExcerpt": "Podobnie jak inne żywe istoty, ludzie rodzą się tylko ze zdolnością uczenia się, które u wszystkich gatunków przebiega według podobnych zasad.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-87",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zgodnie z tab. 15.2 w terapii behawioralnej zaburzenia zachowania wynikają z:"
+      ],
+      "correct": [
+        "błędnego uczenia się nieprzystosowawczych zachowań",
+        "nieprawidłowo wyuczonych zachowań"
+      ],
+      "distractors": [
+        "fiksacji na wcześniejszych stadiach rozwoju",
+        "zbyt silnych impulsów i słabego ego",
+        "nierozwiązanych konfliktów z dzieciństwa",
+        "wrodzonych wad charakteru",
+        "ukrytej choroby psychicznej",
+        "zablokowanej samorealizacji"
+      ],
+      "explanation": "Terapia behawioralna: zaburzenia wynikają z błędnego uczenia się nieprzystosowawczych zachowań; problemem jest symptom, ukryta choroba nie istnieje.",
+      "sourceExcerpt": "Zaburzenia zachowania wynikają z błędnego uczenia się nieprzystosowawczych zachowań. Problemem jest symptom; ukryta, leżąca u jego podstaw choroba nie istnieje.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-88",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaką rolę pełni wgląd w terapii behawioralnej według tab. 15.2?"
+      ],
+      "correct": [
+        "jest nieistotny i/lub niepotrzebny",
+        "nie ma znaczenia dla zmiany"
+      ],
+      "distractors": [
+        "zajmuje centralne miejsce",
+        "pojawia się w korekcyjnych doświadczeniach emocjonalnych",
+        "jest celem każdej sesji",
+        "jest warunkiem wygaszania",
+        "jest ważniejszy niż zmiana zachowania",
+        "osiąga się go przez wolne skojarzenia"
+      ],
+      "explanation": "W psychoanalizie wgląd zajmuje centralne miejsce; w terapii behawioralnej jest nieistotny i/lub niepotrzebny.",
+      "sourceExcerpt": "Wgląd jest nieistotny i/lub niepotrzebny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-89",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Rolę terapeuty w terapii behawioralnej tab. 15.2 porównuje do roli:",
+        "Jaką rolę pełni terapeuta behawioralny według tab. 15.2?"
+      ],
+      "correct": [
+        "trenera",
+        "trenera, który kontroluje wzmocnienia"
+      ],
+      "distractors": [
+        "detektywa",
+        "neutralnego obserwatora przeniesienia",
+        "przyjaciela klienta",
+        "sędziego",
+        "lekarza przepisującego leki",
+        "interpretatora snów"
+      ],
+      "explanation": "Terapeuta behawioralny działa jak trener: pomaga oduczyć się starych i/lub nauczyć nowych zachowań; ważna jest kontrola nad wzmocnieniem, relacja ma drugorzędne znaczenie. Psychoanalityk – jak detektyw.",
+      "sourceExcerpt": "Terapeuta funkcjonuje jak trener, pomagając pacjentom oduczyć się starych zachowań i/lub nauczyć się nowych. Ważna jest kontrola nad wzmocnieniem; relacja interpersonalna ma drugorzędne znaczenie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-90",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapeuta psychoanalityczny według tab. 15.2 jest emocjonalnie niezaangażowany i neutralny, aby:"
+      ],
+      "correct": [
+        "ułatwić wystąpienie reakcji przeniesieniowych",
+        "umożliwić pojawienie się przeniesienia"
+      ],
+      "distractors": [
+        "kontrolować wzmocnienia klienta",
+        "szybciej wygasić symptom",
+        "uniknąć uwarunkowania klienta",
+        "przyspieszyć trening relaksacji",
+        "skrócić czas terapii",
+        "nagradzać właściwe zachowania"
+      ],
+      "explanation": "Psychoanalityk funkcjonuje jak detektyw szukający źródłowych konfliktów i oporów; jest niezaangażowany emocjonalnie i neutralny, aby ułatwić wystąpienie reakcji przeniesieniowych.",
+      "sourceExcerpt": "Terapeuta funkcjonuje jak detektyw, poszukując podstawowych, źródłowych konfliktów i oporów; jest niezaangażowany emocjonalnie i neutralny, aby ułatwić wystąpienie reakcji przeniesieniowych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-91",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Na czym, według tab. 15.2, koncentruje się terapia behawioralna w perspektywie czasowej?"
+      ],
+      "correct": [
+        "na analizie i korygowaniu aktualnego zachowania",
+        "na obecnym zachowaniu klienta"
+      ],
+      "distractors": [
+        "na interpretowaniu dawnych konfliktów",
+        "na wypartych uczuciach z dzieciństwa",
+        "na planach klienta na przyszłość",
+        "na snach z ostatniego tygodnia",
+        "na relacji z rodzicami",
+        "na fazach rozwoju psychoseksualnego"
+      ],
+      "explanation": "Psychoanaliza nastawia się na odkrywanie i interpretowanie dawnych konfliktów; terapia behawioralna analizuje i koryguje aktualne zachowanie.",
+      "sourceExcerpt": "Analizuje się i koryguje aktualne zachowanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-92",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Stosunek terapii behawioralnej do materiału nieświadomego (tab. 15.2) to:"
+      ],
+      "correct": [
+        "brak zainteresowania procesami nieświadomymi",
+        "nieświadomość nie jest przedmiotem pracy"
+      ],
+      "distractors": [
+        "bardzo ważna rola nieświadomości",
+        "nacisk na wyparte impulsy",
+        "praca głównie na snach",
+        "interpretacja przejęzyczeń",
+        "badanie oporów klienta",
+        "ujawnianie konfliktów edypalnych"
+      ],
+      "explanation": "Terapia behawioralna: brak zainteresowania procesami nieświadomymi i doświadczeniem subiektywnym, nawet w sferze świadomej. W klasycznej psychoanalizie rola nieświadomości jest bardzo ważna.",
+      "sourceExcerpt": "Brak zainteresowania procesami nieświadomymi i doświadczeniem subiektywnym, nawet w sferze świadomej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-93",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Terapia poznawcza stara się zmienić zaburzone uczucia i zachowania przez:"
+      ],
+      "correct": [
+        "zmianę sposobu myślenia"
+      ],
+      "distractors": [
+        "zmianę konsekwencji zachowania",
+        "skojarzenie bodźca z przykrym",
+        "ujawnienie wypartych wspomnień",
+        "obserwację nagradzanych modeli",
+        "relaksację i hierarchię lęku",
+        "leki zmieniające nastrój"
+      ],
+      "explanation": "Terapia poznawcza: zmiana uczuć i zachowań przez zmianę sposobu, w jaki klient myśli o ważnych doświadczeniach życiowych / postrzega ważne wydarzenia.",
+      "sourceExcerpt": "Terapia poznawcza (cognitive therapy): Rodzaj psychoterapii nastawionej na zmianę uczuć i zachowań poprzez zmianę sposobu, w jaki klient postrzega ważne wydarzenia życiowe lub myśli o nich.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-94",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Uczenie się to proces oparty na doświadczeniu, który prowadzi do:",
+        "Jak podręcznik definiuje uczenie się?"
+      ],
+      "correct": [
+        "względnie trwałej zmiany zachowania"
+      ],
+      "distractors": [
+        "chwilowej zmiany nastroju",
+        "trwałej zmiany budowy mózgu",
+        "natychmiastowego wykonania reakcji",
+        "permanentnej i nieodwracalnej zmiany zachowania",
+        "zmiany wynikającej z dojrzewania",
+        "osłabienia reakcji na znany bodziec"
+      ],
+      "explanation": "Uczenie się: proces oparty na doświadczeniu, który prowadzi do względnie trwałej zmiany zachowania lub potencjału zachowania.",
+      "sourceExcerpt": "Uczenie się (learning) jest procesem opartym na doświadczeniu, który prowadzi do względnie trwałej zmiany zachowania lub potencjału zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-95",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Która zmiana zachowania NIE jest uczeniem się?",
+        "Co według definicji nie jest wynikiem uczenia się?"
+      ],
+      "correct": [
+        "zmiana wynikająca z fizycznego dojrzewania",
+        "zmiana spowodowana uszkodzeniem mózgu"
+      ],
+      "distractors": [
+        "umiejętność pływania nabyta na kursie",
+        "strach przed psem po ugryzieniu",
+        "nawyk zapinania pasów",
+        "umiejętność prowadzenia samochodu",
+        "niechęć do potrawy po zatruciu",
+        "zainteresowanie sztuką po wizycie w muzeum"
+      ],
+      "explanation": "Wyuczone zachowanie nie obejmuje zmian z powodu fizycznego dojrzewania, rozwoju mózgu z wiekiem ani zmian spowodowanych chorobą lub uszkodzeniem mózgu.",
+      "sourceExcerpt": "Wyuczone zachowanie nie obejmuje zmian, które zachodzą z powodu fizycznego dojrzewania organizmu lub rozwoju mózgu wraz z wiekiem, ani też zmian spowodowanych chorobą lub uszkodzeniem mózgu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-96",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Żadna liczba ćwiczeń nie nauczy niemowlęcia chodzić, jeśli:"
+      ],
+      "correct": [
+        "nie jest dość dojrzałe"
+      ],
+      "distractors": [
+        "nie dostaje nagrody za każdy krok",
+        "nie obserwuje chodzących modeli",
+        "ćwiczy za rzadko",
+        "nie ma rodzeństwa",
+        "ćwiczy bez relaksacji",
+        "nie przeszło habituacji"
+      ],
+      "explanation": "Niektóre trwałe zmiany wymagają doświadczenia po osiągnięciu gotowości z dojrzewania; żadna liczba ćwiczeń nie wystarczy bez odpowiedniego poziomu dojrzałości.",
+      "sourceExcerpt": "Żadna liczba ćwiczeń nie jest wystarczająca do wytworzenia tych zachowań, jeśli dziecko nie osiągnęło jeszcze wystarczającego poziomu dojrzałości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-97",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Rozróżnienie między uczeniem się a wykonaniem dotyczy różnicy między:",
+        "Czym jest rozróżnienie „uczenie się a wykonanie”?"
+      ],
+      "correct": [
+        "wyuczonym a widocznym"
+      ],
+      "distractors": [
+        "warunkowaniem klasycznym a sprawczym",
+        "pamięcią krótką a długotrwałą",
+        "uczeniem się zwierząt a ludzi",
+        "nagrodą a karą",
+        "habituacją a uwrażliwieniem",
+        "teorią a praktyką terapii"
+      ],
+      "explanation": "Rozróżnienie między uczeniem się a wykonaniem: różnica między tym, co wyuczone, a tym, co przejawia się w zachowaniu zewnętrznym.",
+      "sourceExcerpt": "Uczenie się a wykonanie (learning-performance distinction): Różnica między tym, co wyuczone, a tym, co przejawia się w zachowaniu zewnętrznym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-98",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego mówi się o zmianie „potencjału” zachowania, a nie tylko zachowania?"
+      ],
+      "correct": [
+        "bo wyuczone nie zawsze widać"
+      ],
+      "distractors": [
+        "bo uczenie się zawsze jest widoczne",
+        "bo zachowanie nie zależy od uczenia się",
+        "bo potencjał jest wrodzony",
+        "bo dotyczy to tylko zwierząt",
+        "bo uczenie się jest permanentne",
+        "bo potencjał mierzy się w mózgu"
+      ],
+      "explanation": "Uczenia się nie można zaobserwować bezpośrednio; przyswajane postawy (np. zainteresowanie sztuką) mogą się nie przejawiać w działaniach, ale zmieniają możliwość (potencjał) zachowania.",
+      "sourceExcerpt": "Czasami przyswajasz sobie także ogólne postawy... które mogą nie przejawiać się bezpośrednio w twoich dających się zmierzyć działaniach. W takich przypadkach uzyskałeś możliwość (potencjał) zmiany zachowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-99",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Względnie trwała zmiana w uczeniu się oznacza, że:"
+      ],
+      "correct": [
+        "nie musi być permanentna"
+      ],
+      "distractors": [
+        "nigdy nie zanika",
+        "trwa tylko kilka minut",
+        "jest zawsze nieodwracalna",
+        "pojawia się tylko raz",
+        "zależy wyłącznie od dojrzewania",
+        "znika po pierwszej przerwie i nie wraca"
+      ],
+      "explanation": "Zmiana musi być względnie trwała i przejawiać się przy różnych okazjach, ale nie zawsze jest permanentna (rzutki: bez ćwiczeń wyniki spadną, lecz ponowna nauka będzie łatwiejsza).",
+      "sourceExcerpt": "Zwróć uwagę na to, że te względnie trwałe zmiany nie zawsze są zmianami permanentnymi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-100",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Habituacja to:",
+        "Jak nazywa się osłabienie reakcji na wielokrotnie podawany bodziec?"
+      ],
+      "correct": [
+        "osłabienie reakcji na bodziec podawany wielokrotnie",
+        "habituacja"
+      ],
+      "distractors": [
+        "wzrost siły reakcji na powtarzany bodziec",
+        "uwrażliwienie",
+        "wygaszanie reakcji warunkowej",
+        "generalizacja bodźca",
+        "samorzutne odnowienie",
+        "różnicowanie bodźców"
+      ],
+      "explanation": "Habituacja: osłabienie reakcji behawioralnej, kiedy bodziec jest podawany wielokrotnie.",
+      "sourceExcerpt": "Habituacja (habituation) Osłabienie reakcji behawioralnej, kiedy bodziec jest podawany wielokrotnie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-101",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Uwrażliwienie to:",
+        "Jak nazywa się wzrost siły reakcji na wielokrotnie podawany bodziec?"
+      ],
+      "correct": [
+        "uwrażliwienie"
+      ],
+      "distractors": [
+        "osłabienie reakcji na powtarzany bodziec",
+        "habituacja",
+        "wygaszanie",
+        "generalizacja bodźca",
+        "warunkowanie wsteczne",
+        "blokowanie"
+      ],
+      "explanation": "Uwrażliwienie: zwiększenie siły reakcji behawioralnej, kiedy bodziec jest podawany wielokrotnie (np. kolejne bolesne bodźce bolą bardziej).",
+      "sourceExcerpt": "Uwrażliwienie (sensitization) Zwiększenie siły reakcji behawioralnej, kiedy bodziec jest podawany wielokrotnie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-102",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Uwrażliwienie jest bardziej prawdopodobne niż habituacja, gdy bodźce są:"
+      ],
+      "correct": [
+        "intensywne lub drażniące",
+        "silne i przykre"
+      ],
+      "distractors": [
+        "słabe i neutralne",
+        "przyjemne i znane",
+        "rzadkie i ciche",
+        "zupełnie nowe i obojętne",
+        "podawane w dużych odstępach",
+        "kojarzone z nagrodą"
+      ],
+      "explanation": "Wystąpienie uwrażliwienia jest bardziej prawdopodobne wtedy, gdy bodźce są intensywne lub drażniące.",
+      "sourceExcerpt": "wystąpienie uwrażliwienia jest bardziej prawdopodobne wtedy, gdy bodźce są intensywne lub drażniące",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-103",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Do czego służy habituacja?"
+      ],
+      "correct": [
+        "pozwala skupić się na nowym"
+      ],
+      "distractors": [
+        "wzmacnia reakcję na znane bodźce",
+        "tworzy trwałe skojarzenia",
+        "chroni przed bólem fizycznym",
+        "pozwala przewidywać pokarm",
+        "utrwala lęk",
+        "zastępuje warunkowanie sprawcze"
+      ],
+      "explanation": "Habituacja pomaga skupić uwagę na nowych zdarzeniach w środowisku – nie zużywasz wysiłku behawioralnego na wielokrotne reagowanie na stare bodźce.",
+      "sourceExcerpt": "Habituacja pomaga ci skupić uwagę na nowych zdarzeniach w twoim środowisku – nie zużywasz wysiłku behawioralnego na wielokrotne reagowanie na stare bodźce.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-104",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego Watson odrzucił introspekcję jako metodę badania zachowania?"
+      ],
+      "correct": [
+        "bo była zbyt subiektywna",
+        "bo nie dawała danych możliwych do obiektywnej weryfikacji"
+      ],
+      "distractors": [
+        "bo była zbyt kosztowna",
+        "bo wymagała badań na zwierzętach",
+        "bo zbyt długo trwała",
+        "bo dotyczyła tylko dzieci",
+        "bo opierała się na odruchach",
+        "bo pomijała nieświadomość"
+      ],
+      "explanation": "Watson dowodził, że introspekcja (sprawozdania o wrażeniach, wyobrażeniach, uczuciach) nie jest właściwą metodą, ponieważ jest zbyt subiektywna; stany świadomości nie dają się obiektywnie zweryfikować.",
+      "sourceExcerpt": "Watson dowodził, że introspekcja – sprawozdania słowne na temat wrażeń, wyobrażeń i uczuć – nie jest właściwą metodą badania zachowania, ponieważ jest zbyt subiektywna.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-105",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Za główny cel psychologii Watson uznał:"
+      ],
+      "correct": [
+        "przewidywanie zachowania i kierowanie nim",
+        "przewidywanie i kontrolowanie zachowania"
+      ],
+      "distractors": [
+        "opis struktur świadomości",
+        "odkrywanie nieświadomych motywów",
+        "badanie snów",
+        "wspieranie samorealizacji",
+        "analizę doświadczeń subiektywnych",
+        "badanie funkcji świadomości"
+      ],
+      "explanation": "Watson określił „przewidywanie zachowania i kierowanie nim” jako główny cel psychologii.",
+      "sourceExcerpt": "Watson określił „[…] przewidywanie zachowania i kierowanie nim” (Watson, 1913, s. 158) jako główny cel psychologii.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-106",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Behawioryzm radykalny Skinnera krytykował przede wszystkim:"
+      ],
+      "correct": [
+        "traktowanie myśli jako przyczyn działań"
+      ],
+      "distractors": [
+        "badanie zachowania zwierząt",
+        "stosowanie eksperymentów",
+        "traktowanie zachowania jako danych",
+        "badanie wpływu środowiska",
+        "pojęcie wzmocnienia",
+        "obserwację zachowania"
+      ],
+      "explanation": "Krytyka Skinnera skupiła się nie tyle na zasadności traktowania stanów wewnętrznych jako danych, ile na tym, czy zasadne jest uznawanie ich za przyczyny zachowania. Myśli to przykłady zachowania wywołanego bodźcami.",
+      "sourceExcerpt": "jego krytyka skupiła się jednak nie tyle na zasadności traktowania tych stanów i zjawisk jako danych, ile na tym, czy zasadne jest uznawanie ich za przyczyny zachowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-107",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według Skinnera głodny gołąb dziobie krążek, bo:"
+      ],
+      "correct": [
+        "działały deprywacja i wzmocnienie pokarmem"
+      ],
+      "distractors": [
+        "czuł głód, który był przyczyną zachowania",
+        "chciał zdobyć pokarm",
+        "odziedziczył taki instynkt",
+        "naśladował inne gołębie",
+        "był uwrażliwiony na krążek",
+        "miał wrodzony odruch dziobania"
+      ],
+      "explanation": "Skinner: zachowanie można wyjaśnić zdarzeniami środowiskowymi – deprywacją i wzmocnieniem. Subiektywne uczucie głodu nie jest przyczyną, lecz wynikiem deprywacji.",
+      "sourceExcerpt": "Skinner powiedziałby, że zachowanie zwierzęcia można w pełni wyjaśnić zdarzeniami środowiskowymi – deprywacją (pozbawieniem ptaka pokarmu) i użyciem pokarmu jako wzmocnienia",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-108",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Analiza zachowania to dziedzina psychologii koncentrująca się na:"
+      ],
+      "correct": [
+        "wpływie środowiska na uczenie się"
+      ],
+      "distractors": [
+        "nieświadomych motywach",
+        "procesach biologicznych mózgu",
+        "strukturze świadomości",
+        "procesach poznawczych",
+        "rozwoju osobowości",
+        "doświadczeniach subiektywnych"
+      ],
+      "explanation": "Analiza zachowania: dziedzina psychologii, która koncentruje się na środowiskowych wyznacznikach uczenia się i zachowania.",
+      "sourceExcerpt": "Analiza zachowania (behavior analysis) Dziedzina psychologii, która koncentruje się na środowiskowych wyznacznikach uczenia się i zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-109",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego badania na zwierzętach mają tak duże znaczenie dla analizy zachowania?"
+      ],
+      "correct": [
+        "bo szuka ona praw uniwersalnych dla ludzi i zwierząt",
+        "bo prawa uczenia się są wspólne dla gatunków"
+      ],
+      "distractors": [
+        "bo badania na ludziach są zakazane",
+        "bo zwierzęta mają bogatszą świadomość",
+        "bo zwierzęta nie uczą się",
+        "bo zwierzęta mają tylko odruchy",
+        "bo tak nakazał Freud",
+        "bo zwierzęta są tańsze niż komputery"
+      ],
+      "explanation": "Analitycy zachowania starają się wykrywać prawidłowości uniwersalne, występujące w porównywalnych sytuacjach u ludzi i wszystkich gatunków zwierząt.",
+      "sourceExcerpt": "analitycy zachowania starają się wykrywać w uczeniu się takie prawidłowości, które są uniwersalne, występują w porównywalnych sytuacjach zarówno u ludzi, jak i u wszystkich gatunków zwierząt",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-110",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Warunkowanie klasyczne to typ uczenia się, w którym:"
+      ],
+      "correct": [
+        "obojętny bodziec zyskuje moc reakcji"
+      ],
+      "distractors": [
+        "zachowanie zależy od swoich konsekwencji",
+        "reakcja słabnie przy powtarzaniu bodźca",
+        "uczymy się przez obserwację modeli",
+        "reakcja jest nagradzana pokarmem",
+        "zachowanie kształtuje się metodą prób i błędów",
+        "bodziec przestaje działać po przerwie"
+      ],
+      "explanation": "Warunkowanie klasyczne: reakcja warunkowa jest wywoływana przez obojętny bodziec (warunkowy), który zyskuje tę zdolność przez skojarzenie z bodźcem istotnym biologicznie (bezwarunkowym).",
+      "sourceExcerpt": "Warunkowanie klasyczne (classical conditioning) Typ uczenia się, w którym zachowanie (reakcja warunkowa) jest wywoływane przez obojętny bodziec (bodziec warunkowy), który zyskuje tę zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie (bodźcem bezwarunkowym).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-111",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Pawłow odkrył warunkowanie klasyczne, gdy:"
+      ],
+      "correct": [
+        "przypadkiem, badając trawienie u psów",
+        "prowadził badania nad trawieniem"
+      ],
+      "distractors": [
+        "celowo badał uczenie się psów",
+        "badał sen u psów",
+        "leczył fobie u dzieci",
+        "badał koty w skrzynkach problemowych",
+        "badał pamięć gołębi",
+        "testował leki na psach"
+      ],
+      "explanation": "Pawłow nie zamierzał badać warunkowania; odkrył je przypadkiem, prowadząc badania nad trawieniem (za które dostał Nagrodę Nobla w 1904 r.).",
+      "sourceExcerpt": "Warunkowanie klasyczne odkrył przypadkiem, prowadząc badania nad trawieniem, za które w 1904 r. dostał Nagrodę Nobla.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-112",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co zaskoczyło Pawłowa w zachowaniu psów?"
+      ],
+      "correct": [
+        "śliniły się przed podaniem pokarmu"
+      ],
+      "distractors": [
+        "przestały się ślinić na pokarm",
+        "bały się asystentów",
+        "śliniły się tylko w nocy",
+        "uczyły się otwierać klatki",
+        "nie reagowały na proszek mięsny",
+        "zasypiały po jedzeniu"
+      ],
+      "explanation": "Psy zaczynały wydzielać ślinę na widok pokarmu, asystenta przynoszącego pokarm, a nawet na odgłos jego kroków – każdy bodziec regularnie poprzedzający pokarm wywoływał ślinienie.",
+      "sourceExcerpt": "śliniły się, zanim umieszczono im proszek w pysku! Zaczynały wydzielać ślinę na sam widok pokarmu, a później na widok asystenta, który przynosił pokarm, lub nawet na odgłos jego kroków",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-113",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jak pies Pawłowa reagował na ton na samym początku, zanim zaczęło się warunkowanie?"
+      ],
+      "correct": [
+        "reakcją orientacyjną"
+      ],
+      "distractors": [
+        "śliną na sam dźwięk",
+        "strachem i ucieczką z uprzęży",
+        "głośnym warczeniem",
+        "natychmiastowym zaśnięciem",
+        "próbą zjedzenia kamertonu",
+        "wymiotami i niepokojem"
+      ],
+      "explanation": "Pierwszą reakcją psa na ton była reakcja orientacyjna: nadstawiał uszy i poruszał głową, by zlokalizować źródło dźwięku. Po wielu powtórzeniach tonu z pokarmem znikała i pojawiało się ślinienie.",
+      "sourceExcerpt": "pierwszą reakcją psa na ton była tylko reakcja orientacyjna – nadstawiał on uszy i poruszał głową, żeby zlokalizować źródło dźwięku",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-114",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Odruch to:"
+      ],
+      "correct": [
+        "niewyuczona reakcja na biologicznie ważny bodziec"
+      ],
+      "distractors": [
+        "reakcja wyuczona przez skojarzenie",
+        "zachowanie zależne od nagrody",
+        "reakcja na bodziec warunkowy",
+        "nawyk utrwalony ćwiczeniem",
+        "reakcja wyuczona przez obserwację",
+        "reakcja, która słabnie przy powtarzaniu"
+      ],
+      "explanation": "Odruch: niewyuczona reakcja wywoływana przez specyficzne bodźce, które mają znaczenie biologiczne dla organizmu (np. ślinienie, zwężenie źrenicy, odruch kolanowy).",
+      "sourceExcerpt": "Odruch (reflex) Niewyuczona reakcja wywoływana przez specyficzne bodźce, które mają znaczenie biologiczne dla organizmu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-115",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W eksperymencie Pawłowa proszek mięsny był:",
+        "Jaką rolę w warunkowaniu klasycznym pełni pokarm podawany psu?"
+      ],
+      "correct": [
+        "bodźcem bezwarunkowym (Sb)"
+      ],
+      "distractors": [
+        "bodźcem warunkowym (Sw)",
+        "reakcją warunkową (Rw)",
+        "reakcją bezwarunkową (Rb)",
+        "bodźcem obojętnym",
+        "czynnikiem karzącym",
+        "reakcją orientacyjną"
+      ],
+      "explanation": "Proszek mięsny z natury wywołuje zachowanie odruchowe – to bodziec bezwarunkowy (Sb). Ślinienie na niego to reakcja bezwarunkowa (Rb).",
+      "sourceExcerpt": "Każdy bodziec, taki jak stosowany w eksperymentach Pawłowa proszek mięsny, który z natury wywołuje zachowanie odruchowe, nosi nazwę bodźca bezwarunkowego, Sb",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-116",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Ślinienie psa na dźwięk tonu po warunkowaniu to:",
+        "Jak nazywa się ślinienie wywoływane przez ton po warunkowaniu?"
+      ],
+      "correct": [
+        "reakcja warunkowa (Rw)",
+        "reakcja warunkowa"
+      ],
+      "distractors": [
+        "reakcja bezwarunkowa (Rb)",
+        "bodziec warunkowy (Sw)",
+        "bodziec bezwarunkowy (Sb)",
+        "reakcja orientacyjna",
+        "odruch wrodzony",
+        "habituacja"
+      ],
+      "explanation": "Po kilku próbach Sw wywołuje reakcję warunkową (Rw) – każdą reakcję, którą bodziec warunkowy wywołuje w wyniku uczenia się; jest podobna do Rb.",
+      "sourceExcerpt": "Po kilku próbach Sw będzie wywoływał reakcję zwaną reakcją warunkową, Rw",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-117",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego bodziec bezwarunkowy nazywa się „bezwarunkowym”?"
+      ],
+      "correct": [
+        "bo uczenie się nie jest potrzebne, by działał"
+      ],
+      "distractors": [
+        "bo działa tylko pod pewnymi warunkami",
+        "bo nie wywołuje żadnej reakcji",
+        "bo podaje się go bez warunku czasu",
+        "bo jest zawsze przyjemny",
+        "bo powstaje w wyniku warunkowania",
+        "bo wygasa bez powtórzeń"
+      ],
+      "explanation": "Bodziec bezwarunkowy nosi tę nazwę, bo uczenie się nie jest warunkiem koniecznym, aby sprawował kontrolę nad zachowaniem.",
+      "sourceExcerpt": "nosi nazwę bodźca bezwarunkowego, Sb (UCS – unconditioned stimulus), ponieważ uczenie się nie jest warunkiem koniecznym, aby bodziec ten sprawował kontrolę nad zachowaniem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-118",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W warunkowaniu klasycznym uczenie się wytwarza związek:"
+      ],
+      "correct": [
+        "Sw–Rw"
+      ],
+      "distractors": [
+        "Sb–Rb",
+        "Rb–Sb",
+        "Sb–Rw",
+        "reakcja – konsekwencja",
+        "bodziec – nagroda pieniężna",
+        "Rw–Sb"
+      ],
+      "explanation": "Natura dostarcza związków Sb–Rb, natomiast uczenie się w drodze warunkowania klasycznego wytwarza związek Sw–Rw.",
+      "sourceExcerpt": "Natura dostarcza związków Sb–Rb, natomiast uczenie się w drodze warunkowania klasycznego wytwarza związek Sw–Rw.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-119",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Nabywanie w warunkowaniu klasycznym to etap, w którym:"
+      ],
+      "correct": [
+        "Rw pojawia się po raz pierwszy"
+      ],
+      "distractors": [
+        "Rw słabnie bez Sb",
+        "Rw wraca po odpoczynku",
+        "Rw obejmuje podobne bodźce",
+        "organizm reaguje tylko na jeden bodziec",
+        "reakcja słabnie przy powtarzaniu bodźca",
+        "Sb przestaje działać"
+      ],
+      "explanation": "Nabywanie: proces, w wyniku którego Rw zostaje wywołana po raz pierwszy, a w miarę powtarzania prób jej częstość stopniowo wzrasta.",
+      "sourceExcerpt": "Nabywanie (acquisition) Etap w eksperymencie nad warunkowaniem klasycznym, w którym reakcja warunkowa jest po raz pierwszy wywoływana przez bodziec warunkowy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-120",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Który układ bodźców w czasie jest zwykle najskuteczniejszy?",
+        "Najlepsze efekty warunkowania klasycznego daje warunkowanie:"
+      ],
+      "correct": [
+        "następcze, krótki odstęp"
+      ],
+      "distractors": [
+        "wsteczne",
+        "równoczesne",
+        "śladowe z długą przerwą",
+        "losowe",
+        "wsteczne z długim odstępem",
+        "dowolne, byle częste"
+      ],
+      "explanation": "Warunkowanie jest zwykle najbardziej efektywne, gdy stosuje się warunkowanie następcze przy krótkim odstępie czasu między Sw i Sb.",
+      "sourceExcerpt": "Warunkowanie jest zwykle najbardziej efektywne wtedy, gdy stosuje się warunkowanie następcze przy krótkim odstępie czasu między pojawieniem się Sw i Sb.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-121",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W warunkowaniu śladowym:",
+        "Czym charakteryzuje się warunkowanie śladowe?"
+      ],
+      "correct": [
+        "Sw kończy się tuż przed Sb"
+      ],
+      "distractors": [
+        "Sw i Sb podaje się w tym samym czasie",
+        "Sw pojawia się po Sb",
+        "Sw trwa aż do podania Sb",
+        "Sb podaje się losowo",
+        "Sw nie występuje",
+        "Sb poprzedza Sw"
+      ],
+      "explanation": "W warunkowaniu śladowym Sw przestaje działać tuż przed podaniem Sb; nazwa nawiązuje do śladu pamięciowego Sw.",
+      "sourceExcerpt": "W warunkowaniu śladowym Sw przestaje działać tuż przed podaniem Sb. Termin ten nawiązuje do śladu pamięciowego Sw",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-122",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego warunkowanie wsteczne daje bardzo słabe wyniki?",
+        "Warunkowanie wsteczne (Sw po Sb) jest nieskuteczne, ponieważ:"
+      ],
+      "correct": [
+        "po Sw następuje okres bez Sb"
+      ],
+      "distractors": [
+        "Sw jest zbyt głośny",
+        "Sb jest zbyt słaby",
+        "zwierzę zasypia",
+        "trwa zbyt krótko",
+        "Sw wywołuje odruch",
+        "Sb nie wywołuje reakcji"
+      ],
+      "explanation": "Oznaki warunkowania wstecznego znikają po dłuższym ćwiczeniu, bo zwierzę uczy się, że po Sw następuje okres bez Sb; Sw nie pomaga przewidzieć Sb.",
+      "sourceExcerpt": "zwierzę uczy się, że po Sw następuje okres, w którym Sb nie występuje. W obu wypadkach warunkowanie jest słabe, ponieważ Sw w rzeczywistości nie pomaga przewidzieć pojawienia się Sb",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-123",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaki odstęp między Sw a Sb jest najlepszy dla reakcji mięśniowych, np. mrugania?"
+      ],
+      "correct": [
+        "1 s lub mniej"
+      ],
+      "distractors": [
+        "5–15 s",
+        "około minuty",
+        "około godziny",
+        "co najmniej 30 s",
+        "dokładnie 10 s",
+        "2–3 minuty"
+      ],
+      "explanation": "Dla reakcji mięśniowych (mruganie) najlepszy jest odstęp 1 s lub mniej; dla trzewiowych (tętno, ślinienie) – dłuższy, 5–15 s.",
+      "sourceExcerpt": "Dla reakcji mięśniowych, takich jak mruganie, najlepszy jest krótki odstęp, trwający 1 sek. lub mniej.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-124",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaki odstęp między Sw a Sb daje najlepsze efekty dla reakcji trzewiowych (np. wydzielanie śliny)?"
+      ],
+      "correct": [
+        "5–15 sekund"
+      ],
+      "distractors": [
+        "poniżej 1 sekundy",
+        "około 1 minuty",
+        "około godziny",
+        "1–2 sekundy",
+        "co najmniej 5 minut",
+        "30–60 sekund"
+      ],
+      "explanation": "Dla reakcji trzewiowych (częstość akcji serca, wydzielanie śliny) najlepsze efekty dają dłuższe odstępy, od 5 do 15 s.",
+      "sourceExcerpt": "Dla reakcji trzewiowych, takich jak częstość akcji serca i wydzielanie śliny, najlepsze efekty dają dłuższe odstępy, od 5 do 15 sek.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-125",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Wygaszanie w warunkowaniu klasycznym następuje, gdy:",
+        "Kiedy reakcja warunkowa ulega wygaszeniu?"
+      ],
+      "correct": [
+        "Sw przestaje zapowiadać Sb",
+        "Sw jest podawany bez Sb"
+      ],
+      "distractors": [
+        "Sw i Sb podaje się razem",
+        "Sb podaje się przed Sw",
+        "pojawia się bodziec podobny do Sw",
+        "zwierzę ma przerwę w eksperymencie",
+        "Sb zostaje wzmocniony",
+        "Sw staje się głośniejszy"
+      ],
+      "explanation": "Gdy Sw przestaje zapowiadać Sb, Rw słabnie i w końcu przestaje występować – doszło do wygaszenia. Def.: osłabienie związku warunkowego pod nieobecność bodźca bezwarunkowego.",
+      "sourceExcerpt": "Wygaszanie (extinction) W warunkowaniu osłabienie związku warunkowego pod nieobecność bodźca wzmacniającego lub bezwarunkowego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-126",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Samorzutne odnowienie to:",
+        "Jak nazywa się powrót wygaszonej reakcji warunkowej po przerwie?"
+      ],
+      "correct": [
+        "samorzutne odnowienie"
+      ],
+      "distractors": [
+        "ponowne nabycie reakcji po dodaniu Sb",
+        "generalizacja bodźca",
+        "habituacja",
+        "uwrażliwienie",
+        "różnicowanie bodźców",
+        "blokowanie"
+      ],
+      "explanation": "Samorzutne odnowienie: ponowne pojawienie się wygaszonej reakcji warunkowej po okresie odpoczynku, bez dalszego eksponowania Sb (Rw jest zwykle nieco słabsza).",
+      "sourceExcerpt": "Samorzutne odnowienie (spontaneous recovery) Ponowne pojawienie się wygaszonej reakcji warunkowej po okresie odpoczynku.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-127",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Oszczędności (savings) przy ponownym uczeniu się pokazują, że wygaszanie:"
+      ],
+      "correct": [
+        "osłabia wykonanie, ale nie usuwa wyuczenia",
+        "nie usuwa efektu pierwotnego uczenia się"
+      ],
+      "distractors": [
+        "całkowicie usuwa wyuczoną reakcję",
+        "trwale niszczy skojarzenie",
+        "wzmacnia reakcję warunkową",
+        "działa tylko na reakcje mięśniowe",
+        "dotyczy tylko bodźców bezwarunkowych",
+        "sprawia, że ponowna nauka jest wolniejsza"
+      ],
+      "explanation": "Ponowne nabycie reakcji wymaga mniej czasu niż pierwsze; wygaszanie osłabiło tylko wykonanie reakcji, a nie usunęło efektu pierwotnego uczenia się.",
+      "sourceExcerpt": "wygaszanie osłabiło tylko wykonanie tej reakcji, a nie usunęło efektu pierwotnego uczenia się – to właśnie dlatego w naszej definicji uczenia się dokonaliśmy rozróżnienia między uczeniem się a wykonywaniem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-128",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dziecko ugryzione przez dużego psa boi się też małych psów. To przykład:",
+        "Automatyczne rozszerzenie reakcji warunkowej na podobne bodźce to:"
+      ],
+      "correct": [
+        "generalizacji bodźca"
+      ],
+      "distractors": [
+        "różnicowania bodźców",
+        "habituacji",
+        "samorzutnego odnowienia",
+        "wygaszania",
+        "blokowania",
+        "warunkowania wstecznego"
+      ],
+      "explanation": "Generalizacja bodźca: automatyczne rozszerzenie reakcji warunkowej na bodźce podobne, które nigdy nie były kojarzone z bodźcem bezwarunkowym.",
+      "sourceExcerpt": "Takie automatyczne rozszerzenie reakcji warunkowej na bodźce, które nigdy nie były zestawiane z pierwotnym Sb, nosi nazwę generalizacji bodźca",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-129",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Gradient generalizacji pokazuje, że reakcja warunkowa:"
+      ],
+      "correct": [
+        "słabnie, im mniej bodziec przypomina Sw",
+        "jest tym silniejsza, im bardziej bodziec przypomina Sw"
+      ],
+      "distractors": [
+        "jest jednakowa dla wszystkich bodźców",
+        "rośnie, im mniej bodziec przypomina Sw",
+        "zanika po każdej przerwie",
+        "zależy tylko od siły Sb",
+        "występuje tylko przy Sb",
+        "jest najsilniejsza przy bodźcach nowych"
+      ],
+      "explanation": "Im bardziej nowy bodziec jest podobny do pierwotnego Sw, tym silniejsza reakcja; mierząc reakcje na coraz mniej podobne bodźce, otrzymujemy gradient generalizacji.",
+      "sourceExcerpt": "Im bardziej nowy bodziec jest podobny do pierwotnego Sw, tym silniejsza będzie reakcja.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-130",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaką funkcję w przyrodzie pełni generalizacja bodźca?"
+      ],
+      "correct": [
+        "daje margines bezpieczeństwa wobec podobnych bodźców",
+        "pozwala reagować na nieco inny sygnał zagrożenia"
+      ],
+      "distractors": [
+        "chroni przed reagowaniem na każdy cień",
+        "osłabia wszystkie reakcje lękowe",
+        "pozwala zapomnieć bodźce",
+        "zastępuje uczenie się odruchami",
+        "sprawia, że reakcje wygasają szybciej",
+        "pozwala reagować tylko na jeden bodziec"
+      ],
+      "explanation": "Bodźce rzadko powtarzają się w identycznej postaci; generalizacja daje margines bezpieczeństwa – potencjalna ofiara rozpozna drapieżnika, który wydaje nieco inny dźwięk.",
+      "sourceExcerpt": "generalizacja bodźca sprawia, że daje pewien margines bezpieczeństwa, rozszerzając zakres uczenia się poza podobieństwa",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-131",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Różnicowanie bodźców to proces, w którym organizm uczy się:",
+        "Czym jest różnicowanie bodźców?"
+      ],
+      "correct": [
+        "reagować inaczej na bodźce różne od Sw",
+        "odróżniać bodziec zapowiadający Sb od podobnych"
+      ],
+      "distractors": [
+        "reagować tak samo na wszystkie podobne bodźce",
+        "przestać reagować na powtarzany bodziec",
+        "wzmacniać reakcję na ból",
+        "kojarzyć dwa bodźce obojętne",
+        "reagować po przerwie bez Sb",
+        "zapominać wyuczone reakcje"
+      ],
+      "explanation": "Różnicowanie bodźców: proces warunkowania, w którym organizm uczy się reagować odmiennie na bodźce różniące się na pewnym wymiarze (barwa, wysokość dźwięku) od bodźca warunkowego.",
+      "sourceExcerpt": "Różnicowanie bodźców (stimulus discrimination) Proces warunkowania, w którym organizm uczy się reagować odmiennie na bodźce różniące się na pewnym wymiarze od bodźca warunkowego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-132",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jak w ćwiczeniu różnicowania uczy się organizm reagować tylko na ton 1200 Hz?"
+      ],
+      "correct": [
+        "tylko 1200 Hz łączy się z Sb, inne tony nigdy",
+        "Sb podaje się wyłącznie po tonie 1200 Hz"
+      ],
+      "distractors": [
+        "wszystkie tony łączy się z Sb",
+        "żaden ton nie łączy się z Sb",
+        "ton 1200 Hz podaje się po Sb",
+        "wszystkie tony podaje się jednocześnie",
+        "Sb podaje się losowo",
+        "ton 1200 Hz pomija się w ćwiczeniu"
+      ],
+      "explanation": "W ćwiczeniu różnicowania tylko jeden ton (np. 1200 Hz) zapowiada Sb, a po innych, choć są prezentowane wielokrotnie, Sb nie następuje; reakcje na nie stają się coraz słabsze.",
+      "sourceExcerpt": "w wyniku ćwiczenia różnicowania, w którym tylko jeden z nich (np. 1200 Hz) zapowiada Sb, a po innych, choć są prezentowane wielokrotnie, nie następuje Sb",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-133",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Na ryc. 6.5 stromy gradient generalizacji oznacza, że:"
+      ],
+      "correct": [
+        "reakcja szybko słabnie, gdy barwa się różni",
+        "reakcje wyraźnie słabną dla mniej podobnych odcieni"
+      ],
+      "distractors": [
+        "organizm reaguje niemal tak samo na wszystkie odcienie",
+        "organizm nie reaguje na żaden odcień",
+        "reakcja rośnie dla odległych odcieni",
+        "organizm reaguje tylko na czerwień",
+        "reakcja jest stała w czasie",
+        "nastąpiło samorzutne odnowienie"
+      ],
+      "explanation": "Ryc. 6.5: spłaszczony gradient – niemal tak samo silna reakcja na podobne odcienie; stromy – reakcje wyraźnie słabną, w miarę jak barwa coraz mniej przypomina bodziec z ćwiczenia; różnicowanie – reakcja prawie tylko na jeden odcień.",
+      "sourceExcerpt": "[ryc. 6.5] Gdy badanemu organizmowi podaje się szerszy zakres bodźców barwnych, reakcje wyraźnie słabną, w miarę jak barwa staje się coraz mniej podobna do bodźca stosowanego podczas ćwiczenia. Gradient generalizacji staje się bardzo stromy",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-134",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego procesy generalizacji i różnicowania muszą pozostawać w równowadze?"
+      ],
+      "correct": [
+        "by nie przeoczyć zagrożenia i nie bać się wszystkiego",
+        "bo skrajności są kosztowne dla organizmu"
+      ],
+      "distractors": [
+        "bo inaczej nie działa habituacja",
+        "bo różnicowanie wyklucza uczenie się",
+        "bo generalizacja jest zawsze szkodliwa",
+        "bo inaczej znika odruch",
+        "bo tak wynika z prawa efektu",
+        "bo różnicowanie zachodzi tylko u ludzi"
+      ],
+      "explanation": "Nadmierna selektywność grozi zlekceważeniem prześladowcy, nadmierna skłonność do reagowania – stratą czasu i energii (bać się każdego cienia).",
+      "sourceExcerpt": "Nie chcesz być nadmiernie selektywny – zlekceważenie obecności prześladowcy mogłoby być dość kosztowne. Nie zamierzasz także być zbyt skłonny do reagowania – gdybyś bał się każdego cienia, to traciłbyś czas i energię",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-135",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Pawłow uważał, że do warunkowania klasycznego wystarczy, by Sw i Sb były:"
+      ],
+      "correct": [
+        "styczne w czasie",
+        "blisko siebie w czasie"
+      ],
+      "distractors": [
+        "zbieżne, czyli przewidywalne",
+        "podane w odstępie godziny",
+        "podane w odwrotnej kolejności",
+        "różne pod względem barwy",
+        "podane losowo",
+        "silne i kontrastowe"
+      ],
+      "explanation": "Pawłow sądził, że warunkowanie klasyczne jest jedynie wynikiem zestawiania Sw i Sb; muszą występować blisko siebie w czasie – być styczne w czasie.",
+      "sourceExcerpt": "Według niego, aby uwarunkować klasycznie jakąś reakcję, Sw i Sb muszą występować blisko siebie w czasie, to znaczy muszą być styczne w czasie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-136",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W eksperymencie Rescorli miarą siły uwarunkowanego strachu u psów była:"
+      ],
+      "correct": [
+        "częstość skoków"
+      ],
+      "distractors": [
+        "ilość wydzielanej śliny",
+        "tętno psa",
+        "czas jedzenia",
+        "liczba szczeknięć",
+        "częstość mrugania",
+        "liczba naciśnięć dźwigni"
+      ],
+      "explanation": "Psy uczyły się przeskakiwać barierkę w skrzynce wahadłowej, by uniknąć wstrząsu; częstość przeskakiwania Rescorla przyjął za miarę siły warunkowania strachu.",
+      "sourceExcerpt": "Częstość, z jaką psy przeskakiwały barierkę, Rescorla przyjął za miarę siły warunkowania strachu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-137",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W eksperymencie Rescorli psy z grupy losowej nie nauczyły się bać tonu, ponieważ:"
+      ],
+      "correct": [
+        "ton nie miał wartości prognostycznej",
+        "wstrząs był równie częsty bez tonu, co z nim"
+      ],
+      "distractors": [
+        "ton był zbyt cichy",
+        "nie dostawały żadnych wstrząsów",
+        "ton zawsze poprzedzał wstrząs",
+        "wstrząs następował przed tonem",
+        "były wcześniej uwrażliwione",
+        "nie słyszały tonu"
+      ],
+      "explanation": "W grupie losowej Sw i Sb często występowały blisko siebie przypadkiem, ale Sb był równie prawdopodobny pod nieobecność Sw – ton nie miał wartości prognostycznej.",
+      "sourceExcerpt": "Chociaż Sw i Sb często występowały blisko siebie w czasie – przypadkiem były one styczne w czasie – to jednak było równie prawdopodobne podanie Sb pod nieobecność Sw, jak i w jego obecności. Tak więc Sw nie miał żadnej wartości prognostycznej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-138",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Jaki wniosek płynie z eksperymentu Rescorli?",
+        "Według Rescorli, aby nastąpiło warunkowanie klasyczne, Sw musi:"
+      ],
+      "correct": [
+        "Sw musi niezawodnie zapowiadać Sb"
+      ],
+      "distractors": [
+        "wystarczy styczność w czasie",
+        "Sw musi pojawić się po Sb",
+        "Sb musi być bardzo silny",
+        "Sw i Sb muszą być identyczne",
+        "potrzebne jest wzmocnienie pozytywne",
+        "warunkowanie wymaga nagrody"
+      ],
+      "explanation": "Aby nastąpiło warunkowanie klasyczne, oprócz styczności (bliskości w czasie) między Sw i Sb, Sw musi także w sposób niezawodny zapowiadać pojawienie się Sb.",
+      "sourceExcerpt": "Aby nastąpiło warunkowanie klasyczne, oprócz styczności (bliskości w czasie) między Sw i Sb, Sw musi także w sposób niezawodny zapowiadać pojawienie się Sb (Rescorla, 1988).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-139",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Szczury nauczone, że ton zapowiada wstrząs, nie uczą się, że dodane światło też go zapowiada, bo:"
+      ],
+      "correct": [
+        "światło nie wnosi nowej informacji"
+      ],
+      "distractors": [
+        "światło jest zbyt słabe",
+        "nie widzą światła",
+        "światło pojawia się po wstrząsie",
+        "ton wygasł",
+        "nastąpiła habituacja do wstrząsu",
+        "światło nie jest styczne w czasie"
+      ],
+      "explanation": "Wcześniejsze uwarunkowanie na ton zablokowało warunkowanie na światło – z punktu widzenia szczura światło nie dostarcza żadnej dodatkowej informacji. Sw musi mieć wartość informacyjną.",
+      "sourceExcerpt": "U tych szczurów wcześniejsze uwarunkowanie na ton na pierwszej fazie eksperymentu zablokowało późniejsze możliwe warunkowanie na światło.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-140",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Warunkowanie przebiega najszybciej, gdy bodziec warunkowy:"
+      ],
+      "correct": [
+        "silnie kontrastuje z tłem"
+      ],
+      "distractors": [
+        "jest słaby i podobny do innych",
+        "pojawia się po Sb",
+        "jest losowo podawany",
+        "zlewa się z tłem",
+        "występuje tylko raz",
+        "nie ma wartości informacyjnej"
+      ],
+      "explanation": "Wymóg wartości informacyjnej wyjaśnia, dlaczego warunkowanie przebiega najszybciej, gdy Sw wyraźnie różni się od innych bodźców; jest łatwiejszy do zauważenia, im jest silniejszy i bardziej kontrastuje.",
+      "sourceExcerpt": "warunkowanie przebiega najszybciej wtedy, gdy Sw różni się wyraźnie od wielu innych bodźców, które mogą być także obecne w danym środowisku",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-141",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego trudno zjeść cukierek w kształcie psich odchodów, choć wiemy, że jest smaczny?"
+      ],
+      "correct": [
+        "reakcja uwarunkowana wygrywa z wiedzą",
+        "wstręt wyuczony klasycznie nie ustępuje rozumowaniu"
+      ],
+      "distractors": [
+        "bo cukierek naprawdę jest szkodliwy",
+        "z powodu habituacji do słodyczy",
+        "bo działa wzmocnienie negatywne",
+        "z powodu braku głodu",
+        "bo działa prawo efektu",
+        "bo to reakcja wrodzona na kształt"
+      ],
+      "explanation": "Uwarunkowana klasycznie reakcja („to jest wstrętne”) wygrywa z wiedzą, że bodziec jest w porządku; reakcje uwarunkowane nie są wytworem świadomego myślenia, więc trudno je wyeliminować rozumowaniem.",
+      "sourceExcerpt": "Uwarunkowana klasycznie reakcja – „To jest wstrętne” albo „To jest niebezpieczne” – wygrywa z wiedzą, że dany bodziec w rzeczywistości jest w porządku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-142",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W eksperymencie z Małym Albertem bodźcem bezwarunkowym był:",
+        "Co w badaniu Małego Alberta pełniło rolę Sb?"
+      ],
+      "correct": [
+        "głośny hałas"
+      ],
+      "distractors": [
+        "widok białego szczura",
+        "obecność królika",
+        "maska Świętego Mikołaja",
+        "obecność psa",
+        "widok matki dziecka",
+        "podanie pokarmu"
+      ],
+      "explanation": "Watson i Rayner zestawiali pojawienie się białego szczura (Sw) z awersyjnym Sb – głośnym hałasem spowodowanym uderzeniem młotkiem w dużą stalową sztabę tuż za dzieckiem.",
+      "sourceExcerpt": "zestawiając jego pojawienie się z awersyjnym Sb – głośnym hałasem, spowodowanym przez uderzenie młotkiem w dużą stalową sztabę umieszczoną tuż za dzieckiem",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-143",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Strach Małego Alberta przed szczurem wyuczono w:"
+      ],
+      "correct": [
+        "zaledwie siedmiu próbach",
+        "7 próbach"
+      ],
+      "distractors": [
+        "jednej próbie",
+        "około 100 próbach",
+        "ciągu roku",
+        "70 próbach",
+        "ponad 1000 próbach",
+        "dwóch próbach"
+      ],
+      "explanation": "Strach Alberta przed białym szczurem został wyuczony w zaledwie siedmiu próbach.",
+      "sourceExcerpt": "Strach ten został wyuczony w zaledwie siedmiu próbach.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-144",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Strach Alberta rozszerzył się na królika, psa i maskę Mikołaja. To przykład:"
+      ],
+      "correct": [
+        "generalizacji bodźca"
+      ],
+      "distractors": [
+        "różnicowania bodźców",
+        "wygaszania",
+        "habituacji",
+        "samorzutnego odnowienia",
+        "warunkowania wstecznego",
+        "blokowania"
+      ],
+      "explanation": "Wyuczony strach dziecka zgeneralizował się na inne włochate przedmioty: królika, psa, a nawet maskę Świętego Mikołaja.",
+      "sourceExcerpt": "Ten wyuczony strach dziecka zgeneralizował się następnie na inne włochate przedmioty, takie jak królik, pies, a nawet maska Świętego Mikołaja!",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-145",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Eksperyment z Małym Albertem budzi dziś niepokój etyczny także dlatego, że uwarunkowany strach:"
+      ],
+      "correct": [
+        "jest bardzo odporny na wygaszanie",
+        "trudno wygasza się nawet po latach"
+      ],
+      "distractors": [
+        "zawsze szybko mija",
+        "dotyczy tylko zwierząt",
+        "znika po jednej przerwie",
+        "nie generalizuje się",
+        "występuje tylko u dorosłych",
+        "zanika po habituacji w kilka minut"
+      ],
+      "explanation": "Niepokój zwiększa wiedza, że uwarunkowany strach jest bardzo odporny na wygaszanie; matka zabrała dziecko, zanim badacze zdołali zlikwidować strach.",
+      "sourceExcerpt": "Niepokój związany z tym badaniem zwiększa jeszcze bardziej wiedza o tym, że uwarunkowany strach jest bardzo odporny na wygaszanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-146",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W reklamie wykorzystującej warunkowanie klasyczne produkt (np. dżinsy) pełni rolę:"
+      ],
+      "correct": [
+        "bodźca warunkowego (Sw)",
+        "bodźca warunkowego"
+      ],
+      "distractors": [
+        "bodźca bezwarunkowego (Sb)",
+        "reakcji bezwarunkowej (Rb)",
+        "reakcji warunkowej (Rw)",
+        "czynnika karzącego",
+        "wzmocnienia negatywnego",
+        "reakcji orientacyjnej"
+      ],
+      "explanation": "„Seksowne” osoby lub sytuacje w reklamie mają działać jak Sb wywołujące Rb – pobudzenie; produkt ma pełnić rolę Sw, z którym pobudzenie zostanie skojarzone.",
+      "sourceExcerpt": "Oczekują, że pewne elementy ich reklam – „seksowne” osoby lub sytuacje, posłużą jako Sb, wywołujące Rb – pobudzenie seksualne. Liczą więc na to, że sam produkt będzie pełnił rolę Sw",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-147",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według Siegela tolerancja na narkotyk powstaje, bo sytuacja zażywania narkotyku:",
+        "Jaką rolę w tolerancji na narkotyk pełni otoczenie, w którym się go zażywa?"
+      ],
+      "correct": [
+        "staje się Sw kompensacji"
+      ],
+      "distractors": [
+        "staje się Sb wywołującym euforię",
+        "nie ma żadnego wpływu",
+        "wzmacnia działanie narkotyku",
+        "powoduje habituację do otoczenia",
+        "wywołuje uwrażliwienie na narkotyk",
+        "działa jak kara"
+      ],
+      "explanation": "Sytuacja zażywania staje się Sw: organizm przygotowuje się fizjologicznie (Rw – reakcja kompensacyjna) na skutki narkotyku, więc trzeba dawki przezwyciężającej tę reakcję.",
+      "sourceExcerpt": "Wysunął on hipotezę, że sytuacja, w której zażywany jest narkotyk, staje się bodźcem warunkowym powodującym, że organizm chroni siebie, nie dopuszczając do tego, by narkotyk działał z właściwą sobie siłą.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-148",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W modelu tolerancji Siegela reakcją bezwarunkową (Rb) na narkotyk jest:"
+      ],
+      "correct": [
+        "przeciwdziałanie organizmu"
+      ],
+      "distractors": [
+        "euforia po narkotyku",
+        "sam narkotyk",
+        "otoczenie zażywania",
+        "głód narkotykowy",
+        "strach przed policją",
+        "przyjemność z rytuału"
+      ],
+      "explanation": "Narkotyk (Sb) wywołuje reakcje fizjologiczne, na które organizm odpowiada przeciwdziałaniem przywracającym homeostazę – to Rb; z czasem staje się ona także Rw.",
+      "sourceExcerpt": "To przeciwdziałanie organizmu, chroniące go przed narkotykiem, stanowi reakcję bezwarunkową (Rb). Z czasem ta reakcja kompensacyjna staje się także reakcją warunkową.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-149",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W eksperymencie Siegela z podwójną dawką heroiny więcej szczurów zginęło w sytuacji:"
+      ],
+      "correct": [
+        "w której zwykle dostawały dekstrozę",
+        "kojarzonej dotąd z dekstrozą (64%)"
+      ],
+      "distractors": [
+        "w której zwykle dostawały heroinę",
+        "zupełnie neutralnej dla obu grup",
+        "z grupy kontrolnej",
+        "z wcześniejszym wstrząsem",
+        "w której podano wodę",
+        "w której dostawały wstrząsy"
+      ],
+      "explanation": "W sytuacji związanej z dekstrozą zginęło dwa razy więcej szczurów (64%) niż w sytuacji, w której zwykle podawano heroinę (32%).",
+      "sourceExcerpt": "W sytuacji związanej z podawaniem roztworu dekstrozy zginęło dwa razy więcej szczurów (64%), niż w sytuacji, w której zwykle podawano heroinę (32%)!",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-150",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Badanie narkomanów bliskich śmierci z przedawkowania wykazało, że w 7 z 10 przypadków:"
+      ],
+      "correct": [
+        "wzięli heroinę w nowej, nieznanej sytuacji",
+        "zażyli narkotyk w nieznanym otoczeniu"
+      ],
+      "distractors": [
+        "wzięli dwa razy większą dawkę niż zwykle",
+        "byli pod wpływem alkoholu",
+        "brali narkotyk pierwszy raz",
+        "zażyli narkotyk w domu",
+        "byli na odwyku",
+        "brali razem z przyjaciółmi"
+      ],
+      "explanation": "W siedmiu z dziesięciu przypadków narkomani wstrzyknęli sobie heroinę w nowej i nieznanej sytuacji (Siegel, 1984); dawka tolerowana w jednej sytuacji może być zbyt wysoka w innej.",
+      "sourceExcerpt": "W siedmiu z dziesięciu przypadków narkomani ci wstrzyknęli sobie heroinę w nowej i nieznanej sytuacji (Siegel, 1984).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-151",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Warunkowanie klasyczne jest ważnym komponentem tolerancji na:"
+      ],
+      "correct": [
+        "różne narkotyki, w tym alkohol"
+      ],
+      "distractors": [
+        "wyłącznie heroinę",
+        "tylko leki przeciwbólowe",
+        "wyłącznie nikotynę",
+        "tylko kofeinę",
+        "żadne substancje u ludzi",
+        "wyłącznie dekstrozę"
+      ],
+      "explanation": "Warunkowanie klasyczne jest ważnym komponentem tolerancji na różne narkotyki, z alkoholem włącznie (Siegel, 2005).",
+      "sourceExcerpt": "warunkowanie klasyczne jest także ważnym komponentem tolerancji na różne inne narkotyki, z alkoholem włącznie (Siegel, 2005)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-152",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W modelu warunkowania przy chemioterapii środowisko ambulatorium pełni rolę:"
+      ],
+      "correct": [
+        "bodźca warunkowego (Sw)",
+        "bodźca warunkowego"
+      ],
+      "distractors": [
+        "bodźca bezwarunkowego (Sb)",
+        "reakcji bezwarunkowej",
+        "reakcji warunkowej",
+        "czynnika wzmacniającego",
+        "kary",
+        "bodźca obojętnego bez znaczenia"
+      ],
+      "explanation": "Leki w chemioterapii są Sb wywołującym zmęczenie polekowe (Rb); środowisko ambulatorium służy jako Sw, po skojarzeniu wywołując zmęczenie antycypacyjne (Rw).",
+      "sourceExcerpt": "Badacze wskazali także, iż środowisko ambulatorium służy jako bodziec warunkowy (Sw).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-153",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "W badaniu 82 kobiet z rakiem piersi zmęczenie antycypacyjne (przed wlewem):"
+      ],
+      "correct": [
+        "rosło z wizytami"
+      ],
+      "distractors": [
+        "malało z każdą wizytą",
+        "nie zmieniało się",
+        "występowało tylko po wlewie",
+        "zniknęło po drugiej wizycie",
+        "było takie samo jak u zdrowych",
+        "było najwyższe na początku"
+      ],
+      "explanation": "W miarę odwiedzania ambulatorium poziom zmęczenia antycypacyjnego był coraz wyższy; po wlewie kobiety nie relacjonowały wyższego zmęczenia – co przemawia za warunkowaniem, a nie kumulacją leków.",
+      "sourceExcerpt": "W miarę odwiedzania ambulatorium poziom zmęczenia antycypacyjnego, jakiego doświadczały te kobiety, był coraz wyższy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-154",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Dlaczego wzrost zmęczenia antycypacyjnego nie wynikał po prostu z kumulacji chemioterapii?"
+      ],
+      "correct": [
+        "bo zmęczenie po wlewie nie rosło",
+        "bo poziom zmęczenia po wlewie się nie zwiększał"
+      ],
+      "distractors": [
+        "bo kobiety brały mniej leków",
+        "bo zmęczenie po wlewie znikało całkowicie",
+        "bo kobiety zmieniły ambulatorium",
+        "bo leki nie powodują zmęczenia",
+        "bo badano tylko jedną sesję",
+        "bo kobiety nie odczuwały zmęczenia"
+      ],
+      "explanation": "Gdyby zmęczenie nasilało się wskutek kumulacji chemioterapii, rosłoby też po wlewie; tymczasem kobiety nie relacjonowały wyższych poziomów zmęczenia po wlewie.",
+      "sourceExcerpt": "Mógłbyś pomyśleć, że zmęczenie nasilało się po prostu wskutek kumulacyjnego wpływu chemioterapii. Jednakże kobiety nie relacjonowały wyższych poziomów zmęczenia po wlewie.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-155",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Prawo efektu Thorndike'a głosi, że reakcja:",
+        "Co mówi prawo efektu?"
+      ],
+      "correct": [
+        "nagrodzona staje się częstsza"
+      ],
+      "distractors": [
+        "słabnie po wielu powtórzeniach",
+        "zależy od bliskości dwóch bodźców",
+        "wywołana odruchowo zawsze trwa",
+        "na podobne bodźce jest jednakowa",
+        "wraca po przerwie",
+        "wymaga obserwacji modelu"
+      ],
+      "explanation": "Prawo efektu: wystąpienie reakcji, po której następują satysfakcjonujące konsekwencje, staje się bardziej prawdopodobne, a reakcji z niezadowalającymi konsekwencjami – mniej prawdopodobne.",
+      "sourceExcerpt": "prawem efektu (law of effect): wystąpienie w przyszłości reakcji, po której następują satysfakcjonujące konsekwencje, staje się bardziej prawdopodobne, zaś reakcji, po której następują niezadowalające konsekwencje, mniej prawdopodobne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-156",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Thorndike badał uczenie się, obserwując:"
+      ],
+      "correct": [
+        "koty wydostające się ze skrzynek problemowych",
+        "koty w skrzynkach problemowych"
+      ],
+      "distractors": [
+        "psy śliniące się na dźwięk",
+        "szczury w komorze sprawczej",
+        "gołębie dziobiące krążek",
+        "dzieci bojące się szczura",
+        "małpy używające narzędzi",
+        "psy w skrzynce wahadłowej"
+      ],
+      "explanation": "Edward L. Thorndike (1898) obserwował amerykańskie koty, które starały się wydostać ze skrzynek problemowych.",
+      "sourceExcerpt": "Edward L. Thorndike (1898) obserwował amerykańskie koty, które starały się wydostać ze skrzynek problemowych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-157",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Według Thorndike'a uczenie się kotów polegało na wytworzeniu:"
+      ],
+      "correct": [
+        "związku bodziec–reakcja (S–R)",
+        "skojarzenia sytuacji z reakcją"
+      ],
+      "distractors": [
+        "związku dwóch bodźców (Sw–Sb)",
+        "wglądu w mechanizm skrzynki",
+        "mapy poznawczej",
+        "reakcji orientacyjnej",
+        "odruchu bezwarunkowego",
+        "habituacji do skrzynki"
+      ],
+      "explanation": "Uczenie się polegało na wytworzeniu skojarzenia między bodźcami w danej sytuacji a reakcją – związku bodziec–reakcja (S–R); następowało stopniowo, automatycznie, mechanicznie, metodą prób i błędów.",
+      "sourceExcerpt": "uczenie się polegało na wytworzeniu skojarzenia między bodźcami działającymi w danej sytuacji, a reakcją, którą badane zwierzę nauczyło się wykonywać, czyli na wytworzeniu związku bodziec–reakcja (S–R)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-158",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zachowanie sprawcze (operant) różni się od reakcji warunkowanych klasycznie tym, że:",
+        "Czym jest zachowanie sprawcze?"
+      ],
+      "correct": [
+        "nie jest wywoływane przez określone bodźce"
+      ],
+      "distractors": [
+        "jest zawsze odruchem",
+        "wymaga bodźca bezwarunkowego",
+        "występuje tylko u zwierząt",
+        "jest wywoływane przez bodziec warunkowy",
+        "nie zależy od konsekwencji",
+        "pojawia się tylko w laboratorium"
+      ],
+      "explanation": "Zachowanie sprawcze: każde zachowanie przejawiane przez organizm i charakteryzowane w kategoriach efektów wpływu na środowisko; w odróżnieniu od uwarunkowanych klasycznie nie jest wywoływane przez określone bodźce.",
+      "sourceExcerpt": "Zachowania sprawcze, w odróżnieniu od zachowań uwarunkowanych klasycznie, nie są wywoływane przez określone bodźce.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-159",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Skinnerowska analiza zachowania stosowała podejście „wstępujące”, czyli:"
+      ],
+      "correct": [
+        "zaczynała od zbierania danych, nie od teorii",
+        "opierała się na eksperymencie, a nie na teorii"
+      ],
+      "distractors": [
+        "zaczynała od teorii i z niej wyprowadzała przewidywania",
+        "opierała się na introspekcji",
+        "badała tylko ludzi",
+        "opierała się na studiach przypadków",
+        "zaczynała od analizy snów",
+        "opierała się na intuicji terapeuty"
+      ],
+      "explanation": "Teoretycy kierują się wnioskami i przewidywaniami ze swych teorii; empirycy, jak Skinner, opowiadają się za podejściem „wstępującym”: zaczynają od danych z eksperymentu i nie czują się ograniczeni teorią.",
+      "sourceExcerpt": "natomiast empirycy, tacy jak Skinner, opowiadają się za podejściem „wstępującym”. Zaczynają od zbierania i oceny danych w ramach eksperymentu i nie czują się ograniczeni przez teorię",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-160",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co w eksperymentach nad warunkowaniem sprawczym jest zwykle miarą uczenia się?"
+      ],
+      "correct": [
+        "liczba zachowań w jednostce czasu",
+        "tempo reagowania"
+      ],
+      "distractors": [
+        "ilość wydzielanej śliny",
+        "siła reakcji orientacyjnej",
+        "czas snu zwierzęcia",
+        "liczba bodźców bezwarunkowych",
+        "wielkość źrenicy",
+        "opis słowny zwierzęcia"
+      ],
+      "explanation": "W wielu eksperymentach nad warunkowaniem sprawczym miarą uczenia się jest liczba określonych zachowań, które zwierzę wykonuje w jednostce czasu.",
+      "sourceExcerpt": "W wielu eksperymentach nad warunkowaniem sprawczym miarą uczenia się jest liczba określonych zachowań, które zwierzę wykonuje w jednostce czasu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-161",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zbieżność między zachowaniem a wzmocnieniem to:"
+      ],
+      "correct": [
+        "stały związek reakcji ze skutkiem"
+      ],
+      "distractors": [
+        "bliskość dwóch bodźców w czasie",
+        "podobieństwo bodźców",
+        "osłabienie reakcji przy powtarzaniu",
+        "losowe podawanie nagród",
+        "skojarzenie bodźca z odruchem",
+        "powrót reakcji po przerwie"
+      ],
+      "explanation": "Zbieżność między zachowaniem a wzmocnieniem: stały związek między daną reakcją a zmianami w środowisku wywoływanymi przez tę reakcję (dziobnięcie krążka → ziarno).",
+      "sourceExcerpt": "Zbieżność między zachowaniem a wzmocnieniem (reinforcement contingency) to stały związek między daną reakcją a zmianami w środowisku wywoływanymi przez tę reakcję.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-162",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Aby ziarno zwiększało u gołębia tylko dziobanie, musi ono:"
+      ],
+      "correct": [
+        "być zbieżne wyłącznie z dziobaniem"
+      ],
+      "distractors": [
+        "następować po każdej reakcji gołębia",
+        "być podawane losowo",
+        "pojawiać się przed dziobaniem",
+        "być podawane co godzinę",
+        "następować po obracaniu się",
+        "być łączone z tonem"
+      ],
+      "explanation": "Ziarno musi być zbieżne tylko z reakcją dziobania – następować regularnie po niej, ale nie po innych reakcjach, takich jak obracanie się czy drapanie.",
+      "sourceExcerpt": "Aby podawanie ziarna zwiększało tylko prawdopodobieństwo dziobania, musi być zbieżne tylko z reakcją dziobania – musi następować regularnie po tej reakcji, ale nie po innych reakcjach, takich jak obracanie się czy drapanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-163",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Czynnik wzmacniający to każdy bodziec, który:",
+        "Jak definiuje się czynnik wzmacniający?"
+      ],
+      "correct": [
+        "zwiększa częstość zachowania"
+      ],
+      "distractors": [
+        "zawsze jest przyjemny dla każdego",
+        "zmniejsza częstość zachowania",
+        "wywołuje odruch",
+        "zawsze jest pokarmem",
+        "poprzedza reakcję",
+        "jest obojętny dla organizmu"
+      ],
+      "explanation": "Czynnik wzmacniający: każdy bodziec, który – jeśli uczyni się go zbieżnym z zachowaniem – zwiększa prawdopodobieństwo wystąpienia tego zachowania w przyszłości. Definiuje się go empirycznie.",
+      "sourceExcerpt": "Czynnikiem wzmacniającym (reinforcer) jest każdy bodziec, który – jeśli uczyni się go zbieżnym z jakimś zachowaniem – zwiększa prawdopodobieństwo wystąpienia tego zachowania w przyszłości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-164",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Przykład truskawek, których jeden z autorów nie znosi, pokazuje, że:"
+      ],
+      "correct": [
+        "to organizm decyduje, czy bodziec jest apetytywny",
+        "ten sam bodziec bywa dla jednych nagrodą, dla innych nie"
+      ],
+      "distractors": [
+        "truskawki są zawsze bodźcem apetytywnym",
+        "bodźce apetytywne są wrodzone i jednakowe",
+        "kary działają lepiej niż nagrody",
+        "bodźce obojętne nie istnieją",
+        "wzmocnienie zależy tylko od głodu",
+        "wszyscy ludzie lubią te same bodźce"
+      ],
+      "explanation": "O tym, czy bodziec jest apetytywny czy awersyjny, decyduje zachowanie indywidualnego organizmu; dla autora, który nie znosi truskawek, są one awersyjne.",
+      "sourceExcerpt": "O tym, czy dany bodziec jest apetytywny, czy awersyjny, decyduje zachowanie indywidualnego organizmu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-165",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Wzmocnienie pozytywne to:",
+        "Szczur dostaje pokarm, gdy obróci się wkoło. To przykład:"
+      ],
+      "correct": [
+        "wzmocnienia pozytywnego"
+      ],
+      "distractors": [
+        "usunięcie bodźca awersyjnego po zachowaniu",
+        "wzmocnienia negatywnego",
+        "warunkowania unikania",
+        "wygaszania",
+        "kary",
+        "habituacji"
+      ],
+      "explanation": "Wzmocnienie pozytywne: prezentacja bodźca apetytywnego po zachowaniu, zwiększająca prawdopodobieństwo tego zachowania w przyszłości.",
+      "sourceExcerpt": "Wzmocnienie pozytywne (positive reinforcement) Prezentacja bodźca apetytywnego po zachowaniu, zwiększająca prawdopodobieństwo wystąpienia tego zachowania w przyszłości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-166",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Wzmocnienie negatywne to:",
+        "Na czym polega wzmocnienie negatywne?"
+      ],
+      "correct": [
+        "usunięcie bodźca awersyjnego po zachowaniu",
+        "wycofanie przykrego bodźca, które zwiększa częstość zachowania"
+      ],
+      "distractors": [
+        "podanie bodźca awersyjnego po zachowaniu",
+        "zmniejszenie częstości zachowania",
+        "podanie nagrody po zachowaniu",
+        "brak jakichkolwiek konsekwencji",
+        "kara za niewłaściwe zachowanie",
+        "osłabienie reakcji na powtarzany bodziec"
+      ],
+      "explanation": "Wzmocnienie negatywne: wycofanie bodźca awersyjnego po zachowaniu, co zwiększa prawdopodobieństwo tego zachowania. Zarówno wzmocnienie pozytywne, jak i negatywne zwiększają częstość reakcji.",
+      "sourceExcerpt": "Wzmocnienie negatywne (negative reinforcement) Wycofanie bodźca awersyjnego po zachowaniu, co zwiększa prawdopodobieństwo wystąpienia tego zachowania w przyszłości.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-167",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Co mają wspólnego wzmocnienie pozytywne i negatywne?"
+      ],
+      "correct": [
+        "oba zwiększają prawdopodobieństwo reakcji",
+        "oba sprawiają, że zachowanie staje się częstsze"
+      ],
+      "distractors": [
+        "oba zmniejszają częstość reakcji",
+        "oba polegają na podaniu przykrego bodźca",
+        "oba są rodzajami kary",
+        "oba dotyczą warunkowania klasycznego",
+        "oba działają tylko na zwierzęta",
+        "oba polegają na usunięciu nagrody"
+      ],
+      "explanation": "Zarówno wzmocnienie pozytywne, jak i negatywne zwiększają prawdopodobieństwo reakcji, która je poprzedza – pierwsze przez podanie bodźca apetytywnego, drugie przez usunięcie awersyjnego.",
+      "sourceExcerpt": "zarówno wzmocnienie pozytywne, jak i negatywne zwiększają prawdopodobieństwo reakcji, która je poprzedza",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-168",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Otwieranie parasola podczas ulewy to przykład:",
+        "Reakcja, która kończy działanie przykrego bodźca, to warunkowanie:"
+      ],
+      "correct": [
+        "warunkowania ucieczki",
+        "ucieczki"
+      ],
+      "distractors": [
+        "warunkowania unikania",
+        "wzmocnienia pozytywnego",
+        "warunkowania klasycznego",
+        "kary",
+        "habituacji",
+        "generalizacji"
+      ],
+      "explanation": "W warunkowaniu ucieczki organizm uczy się reakcji, która powoduje ustanie działania awersyjnego bodźca – parasol pozwala uciec od zimnych kropli.",
+      "sourceExcerpt": "W warunkowaniu ucieczki (escape conditioning) organizm uczy się reakcji, która powoduje ustanie działania awersyjnego bodźca. Otwieranie parasola podczas ulewy jest często podawanym przykładem warunkowania ucieczki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-169",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Zapinanie pasa, żeby nie usłyszeć brzęczyka, to przykład:",
+        "Reakcja, która zapobiega przykremu bodźcowi, zanim zacznie działać, to warunkowanie:"
+      ],
+      "correct": [
+        "warunkowania unikania",
+        "unikania"
+      ],
+      "distractors": [
+        "warunkowania ucieczki",
+        "wzmocnienia pozytywnego",
+        "warunkowania klasycznego",
+        "kary pozytywnej",
+        "habituacji",
+        "wygaszania"
+      ],
+      "explanation": "W warunkowaniu unikania organizm uczy się reakcji, które pozwolą mu zapobiec awersyjnym bodźcom, zanim zaczną działać (zapinanie pasa przed brzęczykiem).",
+      "sourceExcerpt": "W warunkowaniu unikania (avoidance conditioning) organizm uczy się reakcji, które pozwolą mu zapobiec awersyjnym bodźcom, zanim zaczną one działać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-170",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Wygaszanie zachowania sprawczego następuje, gdy:",
+        "Kiedy dochodzi do wygaszania zachowania sprawczego?"
+      ],
+      "correct": [
+        "zachowanie przestaje przynosić wzmocnienie",
+        "zachowanie nie daje już przewidywalnych konsekwencji"
+      ],
+      "distractors": [
+        "zachowanie jest coraz mocniej nagradzane",
+        "Sw zostaje połączony z Sb",
+        "pojawia się podobny bodziec",
+        "organizm ma przerwę po nauce",
+        "zachowanie zostaje ukarane bodźcem awersyjnym",
+        "następuje habituacja"
+      ],
+      "explanation": "Wygaszanie zachowania sprawczego: zachowanie przestaje wywoływać przewidywalne konsekwencje, co powoduje jego powrót do poziomu sprzed warunkowania (kopanie automatu, który nie wydaje napoju).",
+      "sourceExcerpt": "Wygaszanie zachowania sprawczego (operant extinction) Sytuacja, w której zachowanie przestaje wywoływać przewidywalne konsekwencje, co powoduje jego powrót do poziomu sprzed warunkowania sprawczego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-171",
+      "bookId": "psychologia-i-zycie-zimbardo",
+      "chapterId": "behawioryzm-notatki-ai",
+      "stems": [
+        "Czy samorzutne odnowienie występuje także w warunkowaniu sprawczym?"
+      ],
+      "correct": [
+        "tak, po przerwie wraca"
+      ],
+      "distractors": [
+        "nie, tylko w warunkowaniu klasycznym",
+        "nie, wygaszenie jest tam trwałe",
+        "tylko u ludzi",
+        "tylko gdy podaje się karę",
+        "tylko przy wzmocnieniu negatywnym",
+        "nie, bo brak tam bodźca warunkowego"
+      ],
+      "explanation": "Podobnie jak w warunkowaniu klasycznym, samorzutne odnowienie występuje w warunkowaniu sprawczym: wygaszony gołąb znów zaczyna dziobać przycisk, gdy wróci do komory z zielonym światłem.",
+      "sourceExcerpt": "Podobnie jak w przypadku warunkowania klasycznego, samorzutne odnowienie występuje także w warunkowaniu sprawczym.",
       "difficulty": 2,
       "status": "ok"
     }
