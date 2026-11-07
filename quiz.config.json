@@ -31,6 +31,12 @@
       "title": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
       "id": "prezentacja-psychoanaliza-freudowska",
       "chapter": "slajdy 1–34"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Downloads/Skuteczna pomoc psychologiczna (57-90).pdf",
+      "title": "Skuteczna pomoc psychologiczna",
+      "id": "ksiazka-skuteczna-pomoc-psychologiczna",
+      "chapter": "Rozdział 3, str. 57–90"
     }
   ],
   "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+|str\\.\\s*\\d+(?:\\s*[–-]\\s*\\d+)?|slajdy\\s+\\d+(?:\\s*[–-]\\s*\\d+)?)",
@@ -71,7 +77,8 @@
       "books": [
         "wychowanie-bez-porazek",
         "wywiad-psychologiczny-2",
-        "podrecznik-pomagania"
+        "podrecznik-pomagania",
+        "skuteczna-pomoc-psychologiczna"
       ]
     }
   ]

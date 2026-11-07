@@ -1,0 +1,1246 @@
+{
+  "bookId": "skuteczna-pomoc-psychologiczna",
+  "chapterId": "rozdzial-3",
+  "chapterTitle": "Rozdział 3, str. 57–90",
+  "sourceHash": "89374a74ad1c301910fd753177ba1b5ca3d02811",
+  "bookTitle": "Skuteczna pomoc psychologiczna",
+  "questions": [
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-01",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Przekazy niewerbalne niosą przede wszystkim treści:"
+      ],
+      "correct": [
+        "afektywne i behawioralne"
+      ],
+      "distractors": [
+        "poznawcze i afektywne",
+        "wyłącznie poznawcze",
+        "poznawcze i behawioralne",
+        "wyłącznie behawioralne",
+        "faktograficzne i poznawcze",
+        "logiczne i poznawcze",
+        "intelektualne i faktograficzne"
+      ],
+      "explanation": "Przekazy werbalne niosą treści poznawcze i afektywne, a niewerbalne – afektywne i behawioralne.",
+      "sourceExcerpt": "Umiejętności komunikacyjne umożliwiają odbiór przekazów werbalnych (treści poznawcze i afektywne) i niewerbalnych (treści afektywne i behawioralne).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-02",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Niektórzy antropolodzy uważają, że na poziomie niewerbalnym odbywa się:"
+      ],
+      "correct": [
+        "około dwóch trzecich całej komunikacji",
+        "mniej więcej 2/3 komunikacji"
+      ],
+      "distractors": [
+        "około jednej trzeciej komunikacji",
+        "niemal cała komunikacja",
+        "około jednej dziesiątej komunikacji",
+        "dokładnie połowa komunikacji",
+        "mniej niż jedna czwarta komunikacji",
+        "około 90% komunikacji"
+      ],
+      "explanation": "Przekazy niewerbalne stanowią podstawę relacji; niektórzy antropolodzy szacują je na dwie trzecie komunikacji.",
+      "sourceExcerpt": "Niektórzy antropolodzy uważają nawet, że dwie trzecie całej komunikacji odbywa się na poziomie niewerbalnym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-03",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Według badań wskazówki niewerbalne w porównaniu z werbalnymi są często:"
+      ],
+      "correct": [
+        "bardziej wiarygodne"
+      ],
+      "distractors": [
+        "mniej wiarygodne",
+        "równie wiarygodne",
+        "całkowicie niewiarygodne",
+        "trudniejsze do zauważenia",
+        "nieistotne w pomaganiu",
+        "zawsze jednoznaczne"
+      ],
+      "explanation": "Zachowanie niewerbalne daje wskazówki (nie rozstrzygające dowody) na temat ukrytych uczuć i bywa bardziej wiarygodne niż słowa.",
+      "sourceExcerpt": "Badania wykazały, że wskazówki niewerbalne są często bardziej wiarygodne niż werbalne!",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-04",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zachowanie niewerbalne klienta jest dla pomagającego:"
+      ],
+      "correct": [
+        "wskazówką, a nie rozstrzygającym dowodem"
+      ],
+      "distractors": [
+        "rozstrzygającym dowodem ukrytych uczuć",
+        "bez znaczenia, jeśli klient mówi wprost",
+        "jedynym wiarygodnym źródłem informacji",
+        "zawsze zgodne z przekazem werbalnym",
+        "jednakowe we wszystkich kulturach",
+        "ważne tylko w pierwszej sesji"
+      ],
+      "explanation": "Pomagający sprawdza zgodność zachowań werbalnych i niewerbalnych; sygnały niewerbalne to wskazówki, nie dowody, i zależą od kultury.",
+      "sourceExcerpt": "Zachowanie niewerbalne dostarcza nam również wskazówek - choć nie rozstrzygających dowodów - na temat ukrytych uczuć.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-05",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Treść poznawcza przekazu werbalnego to:"
+      ],
+      "correct": [
+        "fakty i słowa przekazu"
+      ],
+      "distractors": [
+        "uczucia i postawy mówiącego",
+        "postawy i zachowania mówiącego",
+        "ton głosu i mimika",
+        "ukryte uczucia klienta",
+        "sygnały płynące z ciała",
+        "zgodność słów z gestami"
+      ],
+      "explanation": "Treść poznawcza = fakty i słowa; treść afektywna (werbalna lub niewerbalna) = uczucia, postawy i zachowania.",
+      "sourceExcerpt": "Na treść poznawczą składają się fakty i słowa przekazu. Treść afektywna może być werbalna lub niewerbalna i zawiera uczucia, postawy i zachowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-06",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Różnica między pomaganiem nieskutecznym a skutecznym to według autorki różnica między słuchaniem:"
+      ],
+      "correct": [
+        "samej treści poznawczej a słuchaniem również ukrytych uczuć"
+      ],
+      "distractors": [
+        "treści afektywnej a słuchaniem treści poznawczej",
+        "słów a słuchaniem samego tonu głosu",
+        "przekazu werbalnego a obserwowaniem gestów",
+        "klienta a słuchaniem obserwatora",
+        "w milczeniu a słuchaniem z komentarzem",
+        "w gabinecie a słuchaniem w terenie"
+      ],
+      "explanation": "Skuteczne pomaganie wymaga słuchania zarówno przekazu poznawczego, jak i leżącego u jego podłoża przekazu afektywnego.",
+      "sourceExcerpt": "Różnica między słuchaniem tylko jawnej treści poznawczej przekazu werbalnego a słuchaniem zarówno przekazu poznawczego, jak i leżącego u jego podłoża przekazu afektywnego to różnica pomiędzy pomaganiem nieskutecznym i skutecznym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-07",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Ludzie łatwiej odczytują przekazy poznawcze niż afektywne, ponieważ:"
+      ],
+      "correct": [
+        "kształcenie kładzie nacisk na wiedzę poznawczą",
+        "w edukacji podkreśla się treści poznawcze"
+      ],
+      "distractors": [
+        "przekazy afektywne są zawsze niewerbalne",
+        "uczucia nie wpływają na komunikację",
+        "klienci rzadko mówią o faktach",
+        "przekazy poznawcze są zawsze ukryte",
+        "afekt jest niezależny od kultury",
+        "uczuć nie da się wyrazić słowami"
+      ],
+      "explanation": "Mamy skłonność reagować bardziej na treści poznawcze niż afektywne, bo w kształceniu nacisk kładzie się na wiedzę poznawczą.",
+      "sourceExcerpt": "Przekazy poznawcze są dla nas łatwiejsze do odczytania niż afektywne, gdyż w naszym kształceniu kładzie się nacisk na wiedzę poznawczą.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-08",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Jeśli pomagający pyta klienta wyłącznie o fakty („Co się stało? Co powiedział przełożony?”), najbardziej prawdopodobnym efektem sesji będzie:"
+      ],
+      "correct": [
+        "zalecenie zmiany zachowania bez wglądu w ukryte uczucia",
+        "rada, jak zmienić reakcje, bez dotarcia do uczuć"
+      ],
+      "distractors": [
+        "pogłębiony wgląd klienta w jego uczucia",
+        "samodzielny wybór sposobu działania przez klienta",
+        "odkrycie niejawnych trudności klienta",
+        "lepsze zrozumienie przez klienta samego siebie",
+        "odzwierciedlenie wszystkich uczuć klienta",
+        "konfrontacja z niespójnością przekazu"
+      ],
+      "explanation": "Reagując tylko na treści poznawcze, nie dotrzemy do uczuć; zostaje jedynie zalecenie zmiany zachowań, które nie daje wglądu ani własnego wyboru.",
+      "sourceExcerpt": "Jedynym możliwym efektem tego typu postawy pomagającego będzie zalecenie, żeby klient zmienił swoje reakcje werbalne i zachowania wobec przełożonego. Takie sugestie nie pomogą klientowi w uzyskaniu wglądu ani wyborze własnego sposobu działania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-09",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Gdy w wypowiedzi klienta jest kilka tematów poznawczych, pomagający powinien:"
+      ],
+      "correct": [
+        "podjąć naraz tylko jeden i się na nim skupić",
+        "wybrać jeden temat i skoncentrować się na nim"
+      ],
+      "distractors": [
+        "odnieść się jednocześnie do wszystkich",
+        "zawsze wybrać temat poruszony ostatnio",
+        "poprosić klienta o listę priorytetów na piśmie",
+        "pominąć tematy poznawcze i mówić o uczuciach",
+        "zająć się najpierw najkrótszym tematem",
+        "przerwać klientowi i zadać pytanie zamknięte"
+      ],
+      "explanation": "Należy podjąć jeden temat naraz i go klaryfikować; trudność polega na tym, że mamy skłonność reagować na tematy najświeższe, a nie najważniejsze.",
+      "sourceExcerpt": "Należy podjąć naraz tylko jeden z nich i na nim się skoncentrować w celu klaryfikacji i zbadania wszystkich aspektów sytuacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-10",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "W komunikacji werbalnej mamy skłonność do reagowania na tematy:"
+      ],
+      "correct": [
+        "najświeższe, a nie najważniejsze"
+      ],
+      "distractors": [
+        "najważniejsze, a nie najświeższe",
+        "najbardziej emocjonalne",
+        "poruszone na początku",
+        "najmniej zagrażające klientowi",
+        "wyłącznie afektywne",
+        "najłatwiejsze do rozwiązania"
+      ],
+      "explanation": "Usłyszenie całości przekazu i rozróżnianie tematów wymaga praktyki; spontanicznie reagujemy na to, co padło ostatnio.",
+      "sourceExcerpt": "W komunikacji werbalnej mamy skłonność do reagowania na tematy najświeższe, a nie na najważniejsze.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-11",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zjawisko, w którym przekaz drugiej osoby dociera do nas przez nasze własne „filtry” i słyszymy to, co chcemy usłyszeć, to:"
+      ],
+      "correct": [
+        "percepcja selektywna"
+      ],
+      "distractors": [
+        "aktywne słuchanie",
+        "projekcja pomagającego",
+        "klaryfikacja",
+        "odzwierciedlanie",
+        "reakcja subtraktywna",
+        "uczestnictwo nadmierne"
+      ],
+      "explanation": "Percepcja selektywna: słyszymy i widzimy to, co pragniemy, zamiast tego, co jest komunikowane; do tego więcej wysiłku wkładamy w przygotowanie odpowiedzi niż w słuchanie.",
+      "sourceExcerpt": "Często przekaz werbalny drugiej osoby dociera do nas przez nasze własne „filtry” (percepcja selektywna). Słyszymy i widzimy to, co pragniemy usłyszeć i zobaczyć.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-12",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Ćwiczenie z powtarzaniem wypowiedzi klienta uświadamia, że słuchając:"
+      ],
+      "correct": [
+        "więcej wysiłku wkładamy w przygotowanie odpowiedzi niż w słuchanie",
+        "bardziej skupiamy się na własnej odpowiedzi niż na rozmówcy"
+      ],
+      "distractors": [
+        "zapamiętujemy dokładnie każde słowo klienta",
+        "lepiej odbieramy uczucia niż fakty",
+        "zawsze trafnie rozpoznajemy główny temat",
+        "nie potrzebujemy informacji zwrotnej",
+        "przekaz poznawczy jest dla nas trudniejszy niż afektywny",
+        "nie ulegamy żadnym filtrom percepcyjnym"
+      ],
+      "explanation": "Powtarzanie przekazu klienta pokazuje, że koncentrujemy się na tym, co sami powiemy, a przekaz trafia przez nasze filtry.",
+      "sourceExcerpt": "Ćwiczenie 3.11 pomaga nam uświadomić sobie, że wkładamy więcej wysiłku w przygotowanie własnych odpowiedzi niż w słuchanie tego, co naprawdę mówi się do nas.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-13",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Cztery główne kategorie uczuć wyróżnione w rozdziale to:"
+      ],
+      "correct": [
+        "gniew, smutek, strach i radość"
+      ],
+      "distractors": [
+        "gniew, wstręt, strach i zaskoczenie",
+        "radość, zaufanie, smutek i wstyd",
+        "lęk, wina, wstyd i duma",
+        "radość, miłość, gniew i zazdrość",
+        "smutek, zaskoczenie, wstręt i radość",
+        "strach, wina, złość i ulga"
+      ],
+      "explanation": "Uczucia można podzielić na cztery główne kategorie: gniew, smutek, strach i radość; często uczucie jednej kategorii maskuje inne.",
+      "sourceExcerpt": "Uczucia można podzielić na cztery główne kategorie: gniew, smutek, strach i radość.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-14",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Według rozdziału uczucia często maskują się nawzajem, np.:"
+      ],
+      "correct": [
+        "gniew bywa maską strachu",
+        "złość może pokrywać strach"
+      ],
+      "distractors": [
+        "radość zawsze maskuje smutek",
+        "strach nigdy nie maskuje innych uczuć",
+        "uczucia nigdy się nie maskują",
+        "maskować się mogą tylko uczucia pozytywne",
+        "smutek nigdy nie łączy się z gniewem",
+        "radość bywa maską gniewu i strachu jednocześnie"
+      ],
+      "explanation": "Uczucie z jednej kategorii może pokrywać inne: smutek maskuje gniew lub odwrotnie, a gniew maskuje strach.",
+      "sourceExcerpt": "Bardzo często uczucie z jednej kategorii pokrywa uczucie z innej (np. smutek maskuje gniew lub na odwrót, zaś gniew - maskuje strach).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-15",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Rozpoznając uczucia nastolatka, pomagający może powiedzieć „wkurzony” zamiast „zły”, pod warunkiem że:"
+      ],
+      "correct": [
+        "nie krępuje go to i potrafi być przy tym naturalny"
+      ],
+      "distractors": [
+        "klient wcześniej wyraźnie o to poprosi",
+        "rodzice klienta wyrażą na to zgodę",
+        "rozmowa odbywa się poza gabinetem",
+        "klient ma ukończone 18 lat",
+        "nastolatek nie używa takich słów",
+        "nie ma przy tym obserwatora"
+      ],
+      "explanation": "Dobrze jest stosować słownictwo odpowiednie dla klienta, o ile pomagający jest przy tym naturalny.",
+      "sourceExcerpt": "W wypadku nastolatka używającego współczesnego żargonu młodzieżowego możesz powiedzieć „wkurzony” zamiast „zły”, o ile nie jest to dla ciebie krępujące (i potrafisz być przy tym naturalny).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-16",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Rozpoznając uczucia w przekazach klienta, kluczowe jest, by pomagający:"
+      ],
+      "correct": [
+        "słuchał klienta i nie dokonywał projekcji własnych uczuć",
+        "rozpoznawał uczucia klienta, a nie przypisywał mu swoich"
+      ],
+      "distractors": [
+        "nazywał uczucia, które sam czułby na miejscu klienta",
+        "skupiał się wyłącznie na faktach",
+        "unikał nazywania uczuć do czasu diagnozy",
+        "pytał klienta wprost o każde uczucie",
+        "zakładał, że klient czuje to samo co inni",
+        "nazywał tylko uczucia wyrażone słowami"
+      ],
+      "explanation": "Identyfikacja uczuć zależy od sprawności w rozpoznawaniu własnych; kluczowe, by nie rzutować swoich uczuć na klienta.",
+      "sourceExcerpt": "Sprawą kluczową jest to, abyś słuchał przekazu klienta i rozpoznawał jego uczucia, a nie dokonywał projekcji na niego własnych uczuć.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-17",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Rozumiejąc przekazy afektywne klienta i reagując na nie, pomagający komunikuje mu:"
+      ],
+      "correct": [
+        "akceptację emocji i przyzwolenie, by ich doświadczał"
+      ],
+      "distractors": [
+        "że powinien szybko opanować swoje emocje",
+        "że uczucia są mniej ważne niż fakty",
+        "gotowe rozwiązanie jego problemu",
+        "ocenę słuszności jego uczuć",
+        "że pomagający czuje to samo",
+        "że rozmowa o uczuciach jest zbędna"
+      ],
+      "explanation": "Reakcje identyfikujące uczucia są dla klientów niespodzianką i otwierają nowy obszar eksploracji; komunikują akceptację i przyzwolenie na doświadczanie emocji.",
+      "sourceExcerpt": "Dzięki rozumieniu przekazów afektywnych i reagowaniu na nie pomagający komunikuje nie tylko akceptację emocji klienta, lecz także przyzwolenie na to, by klient ich doświadczał i przyjął je za „swoje”.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-18",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zadawanie pytań w relacji pomagania według autorki zwykle:"
+      ],
+      "correct": [
+        "krępuje jej rozwój i może stwarzać dystans",
+        "jest sposobem unikania reakcji i tworzy dystans"
+      ],
+      "distractors": [
+        "najskuteczniej pogłębia kontakt",
+        "zawsze ułatwia ujawnianie uczuć",
+        "jest najważniejszą techniką pomagającego",
+        "zastępuje aktywne słuchanie",
+        "nie ma wpływu na relację",
+        "jest konieczne w każdej wypowiedzi"
+      ],
+      "explanation": "Pytania krępują relację, są sposobem unikania reakcji; lepiej przeformułować je w stwierdzenia, np. „Powiedz mi, co się potem stało”.",
+      "sourceExcerpt": "Pytania zwykle krępują rozwój relacji pomagania, zamiast mu sprzyjać. Zadawanie pytań jest sposobem unikania reakcji i może stwarzać dystans.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-19",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zamiast pytać klienta „Co zrobiłeś potem?”, autorka zaleca:"
+      ],
+      "correct": [
+        "„Powiedz mi, co się potem stało”"
+      ],
+      "distractors": [
+        "„Dlaczego to zrobiłeś?”",
+        "„Czy żałujesz tego, co zrobiłeś?”",
+        "„Kto ci to doradził?”",
+        "„Czy to był dobry pomysł?”",
+        "„Co powinieneś był zrobić?”",
+        "„Ile razy to się zdarzyło?”"
+      ],
+      "explanation": "Dopóki nie wiesz, kiedy i jak zadawać pytania, przeformułowuj je w stwierdzenia zachęcające do mówienia.",
+      "sourceExcerpt": "Zamiast pytać „Co zrobiłeś potem?”, poproś: „Powiedz mi, co się potem stało”.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-20",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Aktywne słuchanie definiuje się jako:"
+      ],
+      "correct": [
+        "skupianie uwagi na przekazach werbalnych i niewerbalnych oraz jawnych i niejawnych myślach i uczuciach",
+        "uważność na słowa i sygnały ciała oraz na jawne i ukryte myśli i uczucia"
+      ],
+      "distractors": [
+        "dokładne powtarzanie słów klienta bez dodawania własnych treści",
+        "zadawanie jak największej liczby pytań otwartych i zamkniętych",
+        "notowanie faktów podawanych przez klienta w trakcie sesji",
+        "udzielanie rad dopasowanych do problemu poznawczego klienta",
+        "skupianie się na treściach poznawczych z pominięciem uczuć",
+        "obserwowanie zachowań niewerbalnych bez reagowania słowami"
+      ],
+      "explanation": "Aktywne słuchanie wymaga samoświadomości w komunikacji i percepcji przekazów; to podstawa reagowania werbalnego i niewerbalnego.",
+      "sourceExcerpt": "Aktywne słuchanie definiuje się jako skupianie uwagi na werbalnych i niewerbalnych przekazach oraz jawnych i niejawnych myślach i uczuciach klienta.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-21",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Warunkiem zasadniczym przy aktywnym słuchaniu jest, by komunikaty werbalne i niewerbalne pomagającego:"
+      ],
+      "correct": [
+        "były ze sobą zgodne"
+      ],
+      "distractors": [
+        "były od siebie niezależne",
+        "były intensywniejsze",
+        "naśladowały klienta",
+        "ograniczały się do kiwania",
+        "wyrażały ocenę klienta",
+        "pojawiały się po każdej wypowiedzi"
+      ],
+      "explanation": "Sprzeczne komunikaty pomagającego dezorientują klienta tak samo, jak sprzeczne komunikaty klienta dezorientują pomagającego.",
+      "sourceExcerpt": "Jest sprawą zasadniczą, by komunikaty werbalne i niewerbalne pomagającego były zgodne ze sobą.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-22",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klientka: „Wiem, że jestem za gruba. To dlatego nikt się nie chce ze mną umówić.” Pomagający: „Jest ci bardzo smutno, kiedy widzisz, jak wszyscy dobrze się bawią, i myślisz ze strachem, co będzie…”. To przykład:"
+      ],
+      "correct": [
+        "aktywnego słuchania z interpretacją"
+      ],
+      "distractors": [
+        "reakcji subtraktywnej",
+        "parafrazy bez nowego znaczenia",
+        "minimalnej reakcji werbalnej",
+        "informowania o faktach",
+        "konfrontowania z niespójnością",
+        "doradzania, co robić"
+      ],
+      "explanation": "Pomagający nazwał ukryte uczucia, odniósł je do głównego problemu poznawczego i nadał wypowiedzi wyraźniejszy sens; „Nie przejmuj się” czy „Zastosuj dietę” nic by nie dały.",
+      "sourceExcerpt": "Powyższy urywek dialogu jest przykładem aktywnego słuchania z interpretacją, ponieważ pomagający nazwał ukryte uczucia, odniósł je do głównego problemu na poziomie poznawczym i nadał wyraźniejszy sens wypowiedzi klientki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-23",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Do zachowań niewerbalnych sprzyjających relacji pomagania należy:"
+      ],
+      "correct": [
+        "pochylanie się ku klientowi bez biurka"
+      ],
+      "distractors": [
+        "siedzenie za biurkiem dla zachowania dystansu",
+        "ciągłe, rytmiczne kiwanie głową",
+        "szybkie, pospieszne tempo mowy",
+        "unikanie kontaktu wzrokowego z klientem",
+        "odchylanie się w fotelu do tyłu",
+        "cichy, niepewny ton głosu"
+      ],
+      "explanation": "Sprzyjają: sporadyczne kiwnięcia, uśmiech, gesty, dobry kontakt wzrokowy, żywa mimika, pochylanie się bez biurka, umiarkowane tempo mowy, mocny wspierający ton; trzeba je dostosować do preferencji klienta.",
+      "sourceExcerpt": "Zachowania niewerbalne sprzyjające relacji pomagania to: sporadyczne kiwnięcia głową, uśmiech, dotknięcia i gesty rąk, dobry kontakt wzrokowy, żywa mimika, pochylanie się ku klientowi (bez bariery biurka), umiarkowane tempo mowy oraz mocny, wspierający ton głosu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-24",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Bliskość fizyczną i pochylanie się ku klientowi należy według autorki:"
+      ],
+      "correct": [
+        "dostosowywać do preferencji danego klienta",
+        "dopasować do tego, jak czuje się konkretny klient"
+      ],
+      "distractors": [
+        "stosować zawsze w takim samym stopniu",
+        "całkowicie wyeliminować z rozmowy",
+        "stosować tylko wobec dzieci",
+        "ograniczyć do fazy zakończenia",
+        "stosować tylko w kulturach zachodnich",
+        "zastąpić dystansem biurka"
+      ],
+      "explanation": "Jedni klienci chcą, by usiąść blisko, inni wolą większy dystans; poza wpływami kulturowymi istnieją różnice indywidualne.",
+      "sourceExcerpt": "Musimy jednak dostosowywać nasze zachowania niewerbalne do preferencji klienta. Poza wpływami kulturowymi istnieją tu różnice indywidualne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-25",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Reakcja, która pomaga klientowi zrozumieć własne myśli i uczucia i poszerza znaczenie tego, co chciał zakomunikować, to reakcja:"
+      ],
+      "correct": [
+        "addytywna"
+      ],
+      "distractors": [
+        "neutralna",
+        "subtraktywna",
+        "minimalna",
+        "dyrektywna",
+        "oceniająca",
+        "obronna"
+      ],
+      "explanation": "Addytywne poszerzają znaczenie, neutralne (odzwierciedlenie, parafraza) nie wnoszą nowego znaczenia, subtraktywne nie dotyczą przekazu lub przeszkadzają.",
+      "sourceExcerpt": "Powinniśmy rozwijać zdolność reagowania addytywnego (facylitującego), które pomaga klientowi w zrozumieniu własnych myśli i uczuć oraz poszerza znaczenie tego, co starał się zakomunikować.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-26",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Wypowiedzi, które są po prostu odzwierciedleniem lub parafrazą myśli i zachowań klienta i nie wnoszą nowego znaczenia, autorka nazywa:"
+      ],
+      "correct": [
+        "neutralnymi"
+      ],
+      "distractors": [
+        "addytywnymi",
+        "subtraktywnymi",
+        "facylitującymi",
+        "interpretującymi",
+        "konfrontującymi",
+        "sondującymi"
+      ],
+      "explanation": "Reakcje neutralne nie zamykają drzwi, ale niczego nie dodają; częste posługiwanie się nimi może świadczyć o postawie unikania.",
+      "sourceExcerpt": "Wypowiedzi, które są po prostu odzwierciedleniem lub parafrazą werbalnych i niewerbalnych myśli i zachowań klientów, nie wnoszą nowego znaczenia - są neutralne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-27",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Muszę szybko znaleźć pracę. Mam rodzinę na utrzymaniu.” Pomagający: „Dlaczego odszedłeś z poprzedniej pracy?”. Ta reakcja jest:"
+      ],
+      "correct": [
+        "subtraktywna"
+      ],
+      "distractors": [
+        "addytywna",
+        "neutralna",
+        "facylitująca",
+        "odzwierciedlająca",
+        "klaryfikująca",
+        "podsumowująca"
+      ],
+      "explanation": "Pytanie „dlaczego?” nastawia klienta obronnie i nie dodaje nic do zrozumienia problemu.",
+      "sourceExcerpt": "Pierwsza reakcja zostanie oceniona jako -, ponieważ polega na pytaniu „dlaczego?” i nastawia klienta obronnie, nie dodając nic do jego rozumienia problemu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-28",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Muszę szybko znaleźć pracę. Mam rodzinę na utrzymaniu.” Pomagający: „Bardzo się martwisz, jak zwiążesz koniec z końcem.” Ta reakcja jest:"
+      ],
+      "correct": [
+        "addytywna"
+      ],
+      "distractors": [
+        "neutralna",
+        "subtraktywna",
+        "oceniająca",
+        "informująca",
+        "dyrektywna",
+        "obronna"
+      ],
+      "explanation": "Reakcja identyfikuje uczucie i komunikuje empatię, więc poszerza rozumienie.",
+      "sourceExcerpt": "Reakcję b. ocenimy jako +, ponieważ identyfikuje ona uczucie i komunikuje empatię.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-29",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Muszę szybko znaleźć pracę. Mam rodzinę na utrzymaniu.” Pomagający: „Chcesz natychmiast znaleźć pracę, żeby móc zadbać o rodzinę.” Ta reakcja jest:"
+      ],
+      "correct": [
+        "neutralna"
+      ],
+      "distractors": [
+        "addytywna",
+        "subtraktywna",
+        "konfrontująca",
+        "interpretująca",
+        "oceniająca",
+        "obronna"
+      ],
+      "explanation": "Reakcja tylko parafrazuje przekaz: nie zwiększa ani nie zmniejsza rozumienia problemu.",
+      "sourceExcerpt": "Reakcję c. ocenimy jako =, ponieważ nie zwiększa ani nie zmniejsza rozumienia problemu, lecz tylko parafrazuje przekaz.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-30",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Reakcja pomagającego zawierająca nietrafne rozpoznanie uczucia klienta:"
+      ],
+      "correct": [
+        "może być facylitująca, jeśli zachęca do dalszej eksploracji"
+      ],
+      "distractors": [
+        "jest zawsze subtraktywna i zamyka rozmowę",
+        "świadczy o silnym oporze klienta",
+        "dowodzi braku kompetencji pomagającego",
+        "jest zawsze reakcją neutralną, bez wpływu",
+        "powinna zostać natychmiast wycofana i przeproszona",
+        "zawsze nastawia klienta obronnie"
+      ],
+      "explanation": "Liczy się nie tyle trafność, ile stopień, w jakim reakcja jest facylitująca, czyli okazuje empatię, szczerość i otwartość.",
+      "sourceExcerpt": "Nawet reakcja pomagającego zawierająca nietrafne rozpoznanie uczucia klienta może być uznana za facylitującą. Jak długo klient znajduje okazję do powiedzenia „Nie, nie o to chodzi, ale...”, istnieje grunt do dalszej eksploracji.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-31",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Pomagający, który notorycznie posługuje się reakcjami neutralnymi, powinien według autorki:"
+      ],
+      "correct": [
+        "przemyśleć swoje postawy unikania",
+        "zastanowić się, czy nie unika sprawdzenia swojego rozumienia"
+      ],
+      "distractors": [
+        "uznać to za najbezpieczniejszy styl pracy",
+        "przejść do udzielania rad",
+        "zacząć zadawać więcej pytań zamkniętych",
+        "ograniczyć kontakt wzrokowy",
+        "zrezygnować z odzwierciedlania uczuć",
+        "częściej stosować reakcje subtraktywne"
+      ],
+      "explanation": "Reakcje neutralne niczego nie dodają; ich nadużywanie może wynikać z lęku przed wystawieniem swojego rozumienia klienta na próbę.",
+      "sourceExcerpt": "Pomagający, którzy notorycznie posługują się reakcjami neutralnymi, powinni dobrze przemyśleć swoje postawy unikania. Może boją się wystawić na próbę swoje rozumienie klienta?",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-32",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Według wskazówek reagowania werbalnego uczucia klienta należy odzwierciedlać:"
+      ],
+      "correct": [
+        "z większą intensywnością, niż on sam je wyraża",
+        "nieco mocniej, niż wyraził je klient"
+      ],
+      "distractors": [
+        "z mniejszą intensywnością, niż on sam je wyraża",
+        "dokładnie tymi samymi słowami co klient",
+        "tylko wtedy, gdy klient wyraźnie je nazwie",
+        "dopiero na końcu sesji",
+        "wyłącznie te, które są wyrażone wprost",
+        "tylko w fazie zastosowania strategii"
+      ],
+      "explanation": "Wskazówki: słuchaj podstawowego przekazu, reaguj na najważniejszą część, odzwierciedlaj uczucia mocniej niż klient, jawne i niejawne, reaguj na zachowania niewerbalne.",
+      "sourceExcerpt": "Odzwierciedlaj uczucia klienta z większą intensywnością, niż on sam je wyraża.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-33",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Gdy klient zmienia temat, pomagający powinien według wskazówek:"
+      ],
+      "correct": [
+        "wracać do pierwotnego tematu rozmowy"
+      ],
+      "distractors": [
+        "zawsze podążać za nowym tematem",
+        "zakończyć sesję i umówić kolejną",
+        "skonfrontować klienta z jego oporem",
+        "zadać pytanie „dlaczego zmieniasz temat?”",
+        "podsumować całą dotychczasową rozmowę",
+        "przejść do informowania"
+      ],
+      "explanation": "Utrzymywanie kierunku rozmowy wymaga reagowania na pierwotny temat poznawczy i afektywny.",
+      "sourceExcerpt": "Kiedy klient zmienia temat, reaguj na pierwotny temat poznawczy i afektywny, utrzymując kierunek rozmowy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-34",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Jeśli klient mówi bez przerwy, a pomagający czuje się zdezorientowany, autorka radzi:"
+      ],
+      "correct": [
+        "przerwać mu („Zgubiłem się…”) i wrócić do głównych tematów"
+      ],
+      "distractors": [
+        "cierpliwie czekać do końca sesji bez przerywania",
+        "reagować na każde jego zdanie po kolei",
+        "zadać mu serię szybkich pytań zamkniętych",
+        "milczeć, aż klient sam się zatrzyma",
+        "zaproponować przerwę w terapii na kilka tygodni",
+        "skonfrontować go z jego nadmierną gadatliwością"
+      ],
+      "explanation": "Nie trzeba reagować na każdą wypowiedź klienta; przy zagubieniu można przerwać i skupić rozmowę na głównych tematach.",
+      "sourceExcerpt": "Jeżeli klient nie daje ci okazji do wypowiedzi, przerwij mu wypowiedzią typu: „Zgubiłem się...” i spróbuj skupić jego uwagę na głównych tematach. Nie czuj się jednak zobowiązany do reagowania na każdą wypowiedź klienta.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-35",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Gdy pomagający nie potrafi przeformułować pytania w stwierdzenie, powinien zadawać:"
+      ],
+      "correct": [
+        "wyłącznie pytania otwarte"
+      ],
+      "distractors": [
+        "pytania zamknięte, bo są mniej zagrażające",
+        "pytania zaczynające się od „dlaczego”",
+        "pytania alternatywne",
+        "kilka pytań naraz",
+        "pytania sugerujące odpowiedź",
+        "pytania o fakty, a nie o uczucia"
+      ],
+      "explanation": "Jeśli już pytać, to otwarcie, w sposób klaryfikujący problemy klienta lub ujawniający jego uczucia.",
+      "sourceExcerpt": "Jeśli nie potrafisz przeformułować swoich pytań w stwierdzenia, zadawaj tylko pytania otwarte, które klaryfikują problemy klienta lub ujawniają jego uczucia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-36",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Najlepszym zabezpieczeniem przed narzucaniem klientowi własnych słów, idei i wartości są według autorki:"
+      ],
+      "correct": [
+        "reakcje empatyczne i skoncentrowane na kliencie"
+      ],
+      "distractors": [
+        "reakcje neutralne i parafrazy treści",
+        "pytania zamknięte o konkretne fakty",
+        "unikanie nazywania uczuć klienta",
+        "udzielanie wyłącznie obiektywnych informacji",
+        "milczenie przez większą część sesji",
+        "reakcje subtraktywne i pouczające"
+      ],
+      "explanation": "Empatyczne reakcje oznaczają, że słyszysz klienta i zostawiasz miejsce na informację zwrotną; niezgoda klienta nie oznacza oporu, tylko dalszą wspólną eksplorację.",
+      "sourceExcerpt": "Naprawdę empatyczne i skoncentrowane na kliencie reakcje są najlepszym zabezpieczeniem przed narzucaniem mu własnych słów, idei, wartości i potrzeb.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-37",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Technika omawiania sesji, w której obserwator pyta pomagającego m.in. o to, co jego zdaniem czuł klient i co on sam wtedy myślał (Kagan), to:"
+      ],
+      "correct": [
+        "odtwarzanie procesu interpersonalnego"
+      ],
+      "distractors": [
+        "superwizja bezpośrednia sesji",
+        "trening asertywności pomagającego",
+        "klaryfikacja przekazu klienta",
+        "modelowanie zachowań pomagającego",
+        "informacja zwrotna od samego klienta",
+        "ćwiczenie „lustro” z podejścia Gestalt"
+      ],
+      "explanation": "Interpersonal process recall: obserwator zadaje pomagającemu pytania o intencje klienta, jego uczucia, sygnały niewerbalne oraz własne myśli i uczucia pomagającego.",
+      "sourceExcerpt": "Kagan (1980) stwierdził, że pomocne przy analizie interakcji doradcy jest tak zwane odtwarzanie procesu interpersonalnego (interpersonal process recall).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-38",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Pomagający, który czuje, że musi coś powiedzieć w każdej pauzie, i zużywa energię na wypełnianie luk w rozmowie, przejawia uczestnictwo:"
+      ],
+      "correct": [
+        "nadmierne"
+      ],
+      "distractors": [
+        "adekwatne",
+        "niedostateczne",
+        "addytywne",
+        "neutralne",
+        "facylitujące",
+        "subtraktywne"
+      ],
+      "explanation": "Uczestnictwo nadmierne: wypełnianie każdej pauzy; adekwatne: energia obu stron mniej więcej równa, pauzy nie krępują; niedostateczne: pomagający pozwala mówić bez ingerencji.",
+      "sourceExcerpt": "Kiedy pomagający czuje, że musi coś powiedzieć w każdej pauzie, i zużywa większość energii na wypełnianie luk w rozmowie, mamy do czynienia z uczestnictwem nadmiernym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-39",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Uczestnictwo adekwatne pomagającego w rozmowie oznacza, że:"
+      ],
+      "correct": [
+        "obie strony wkładają podobną energię, a pauzy nie krępują"
+      ],
+      "distractors": [
+        "pomagający wypełnia każdą pauzę w rozmowie",
+        "pomagający pozwala klientowi mówić bez ingerencji",
+        "pomagający mówi więcej niż klient",
+        "klient mówi wyłącznie o faktach",
+        "pomagający reaguje na każdą wypowiedź",
+        "pomagający unika milczenia za wszelką cenę"
+      ],
+      "explanation": "Adekwatne uczestnictwo to równowaga energii w dialogu i swoboda wobec chwilowych pauz i milczenia.",
+      "sourceExcerpt": "O uczestnictwie adekwatnym mówimy, gdy poziomy energii wkładanej w dialog przez pomagającego i klienta są mniej więcej równe, a pomagający nie czuje się skrępowany chwilowymi pauzami i milczeniem.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-40",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Próba uzyskania bogatszej informacji na jakiś temat, skuteczniejsza przy wypowiedziach typu „Powiedz mi o tym więcej” niż przy pytaniach „jak? co? kiedy?”, to:"
+      ],
+      "correct": [
+        "sondowanie"
+      ],
+      "distractors": [
+        "minimalna reakcja werbalna",
+        "parafrazowanie",
+        "odzwierciedlanie",
+        "klaryfikowanie",
+        "sprawdzanie",
+        "interpretowanie",
+        "konfrontowanie"
+      ],
+      "explanation": "Sondowanie lepiej działa przez wypowiedzi otwarte niż przez pytania szczegółowe.",
+      "sourceExcerpt": "Sondowanie to próba uzyskania bogatszej informacji na jakiś temat. Jest skuteczniejsze przy użyciu wypowiedzi otwartych, takich jak: „Powiedz mi o tym więcej”, niż w wypadku pytań typu: „jak?”, „co?”.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-41",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Reakcja, w której pomagający prosi klienta o potwierdzenie swojego wrażenia lub przeczucia (np. „Czuję, że jesteś na mnie zły. Czy możemy o tym porozmawiać?”), to:"
+      ],
+      "correct": [
+        "sprawdzanie"
+      ],
+      "distractors": [
+        "minimalna reakcja werbalna",
+        "parafrazowanie",
+        "sondowanie",
+        "informowanie",
+        "podsumowywanie",
+        "doradzanie"
+      ],
+      "explanation": "Sprawdzanie prosi o potwierdzenie wrażenia lub interpretacji; klaryfikacja wysuwa głębsze, jaśniejsze rozumienie.",
+      "sourceExcerpt": "Sprawdzanie ma miejsce, kiedy pomagający stracił jasność postrzegania lub ma jakieś przeczucie, które wymaga sprawdzenia. Pomagający prosi tu klienta o potwierdzenie swojego wrażenia lub interpretacji, w przeciwieństwie do klaryfikacji, która wysuwa głębsze, jaśniejsze rozumienie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-42",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Reakcja polegająca na dostarczeniu klientowi rzetelnej informacji zwrotnej o tym, co naprawdę się dzieje, np. „Mówisz, że jesteś zły, a uśmiechasz się”, to:"
+      ],
+      "correct": [
+        "konfrontowanie"
+      ],
+      "distractors": [
+        "minimalna reakcja werbalna",
+        "parafrazowanie",
+        "sondowanie",
+        "odzwierciedlanie",
+        "klaryfikowanie",
+        "sprawdzanie",
+        "interpretowanie"
+      ],
+      "explanation": "Konfrontacja może dotyczyć autentyczności lub niespójności; skuteczne techniki to komunikaty typu „ja”, branie odpowiedzialności za konfrontację i skupianie się na unikaniu lub oporze.",
+      "sourceExcerpt": "Konfrontowanie polega na dostarczeniu klientowi rzetelnej informacji zwrotnej o tym, co naprawdę się dzieje. Może też dotyczyć niespójności: „Mówisz, że jesteś zły, a uśmiechasz się”.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-43",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Informowanie różni się od doradzania tym, że:"
+      ],
+      "correct": [
+        "jest obiektywne, a doradzanie subiektywne"
+      ],
+      "distractors": [
+        "jest zawsze zakazane w pomaganiu",
+        "dotyczy wyłącznie uczuć klienta",
+        "stosuje się je tylko na początku sesji",
+        "zawiera ocenę decyzji klienta",
+        "nakłada na klienta zobowiązania",
+        "jest rodzajem konfrontacji"
+      ],
+      "explanation": "Informowanie to obiektywne dane (np. o rekrutacji do college'u). Doradzanie jest w porządku, dopóki nie pociąga zobowiązań i nie przeradza się w wymaganie.",
+      "sourceExcerpt": "Ważne jest, by pomagający oddzielał informowanie od doradzania, które jest subiektywne i graniczy z mówieniem klientowi, co ma robić.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-44",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Podsumowywanie, w którym pomagający tworzy syntezę sesji i wyodrębnia główne tematy afektywne i poznawcze, jest rodzajem:"
+      ],
+      "correct": [
+        "klaryfikacji"
+      ],
+      "distractors": [
+        "konfrontacji",
+        "interpretacji",
+        "sondowania",
+        "informowania",
+        "parafrazy",
+        "minimalnej reakcji werbalnej"
+      ],
+      "explanation": "Podsumowanie jest rodzajem klaryfikacji; szczególnie ważne na końcu sesji lub na początku następnej.",
+      "sourceExcerpt": "Dokonując podsumowania, pomagający tworzy syntezę tego, co zostało zakomunikowane w czasie sesji i wyodrębnia główne tematy afektywne i poznawcze. Podsumowanie jest więc rodzajem klaryfikacji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-45",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Przez Eddy’ego wyleciałem dziś z klasy.” Pomagający: „Opowiedz mi o tym coś więcej.” To:"
+      ],
+      "correct": [
+        "sondowanie"
+      ],
+      "distractors": [
+        "informowanie",
+        "konfrontowanie",
+        "interpretowanie",
+        "podsumowywanie",
+        "minimalna reakcja werbalna",
+        "parafrazowanie"
+      ],
+      "explanation": "Prośba o więcej informacji w formie wypowiedzi otwartej to sondowanie.",
+      "sourceExcerpt": "Klient: Przez Eddy'ego wyleciałem dziś z klasy. Pomagający: Opowiedz mi o tym coś więcej. (odpowiedź: sondowanie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-46",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klientka: „U mnie ani ojciec, ani brat nie robią nic w domu.” Pomagający: „Mężczyźni w twojej rodzinie nie wykonują żadnych prac domowych.” To:"
+      ],
+      "correct": [
+        "parafrazowanie"
+      ],
+      "distractors": [
+        "konfrontowanie",
+        "interpretowanie",
+        "informowanie",
+        "sondowanie",
+        "podsumowywanie",
+        "sprawdzanie"
+      ],
+      "explanation": "Parafraza to wypowiedź tożsama treściowo z wypowiedzią klienta, sformułowana innymi słowami.",
+      "sourceExcerpt": "Klientka: U mnie ani ojciec, ani brat nie robią nic w domu. Pomagający: Mężczyźni w twojej rodzinie nie wykonują żadnych prac domowych. (odpowiedź: parafrazowanie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-47",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klientka: „Nie chcę o tym rozmawiać.” Pomagający: „Mam wrażenie, że zawsze się pani wycofuje, kiedy dochodzi do spraw osobistych. Łatwiej pani mówić o sytuacji, niż ją poczuć.” To:"
+      ],
+      "correct": [
+        "konfrontowanie"
+      ],
+      "distractors": [
+        "parafrazowanie",
+        "informowanie",
+        "sondowanie",
+        "podsumowywanie",
+        "minimalna reakcja werbalna",
+        "klaryfikowanie"
+      ],
+      "explanation": "Pomagający daje rzetelną informację zwrotną o unikaniu klientki, czyli ją konfrontuje.",
+      "sourceExcerpt": "Klientka: Nie chcę o tym rozmawiać. Pomagający: Mam wrażenie, że zawsze się pani wycofuje, kiedy dochodzi do spraw osobistych. (odpowiedź: konfrontowanie)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-48",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Na tym świecie nikt się nie przejmuje innymi ludźmi.” Pomagający: „To straszne uczucie – że nikt się o ciebie nie troszczy.” Według klucza odpowiedzi to:"
+      ],
+      "correct": [
+        "interpretowanie"
+      ],
+      "distractors": [
+        "parafrazowanie",
+        "informowanie",
+        "sondowanie",
+        "konfrontowanie",
+        "minimalna reakcja werbalna",
+        "podsumowywanie"
+      ],
+      "explanation": "Pomagający uzupełnia wypowiedź o ukryte uczucie i jego związek z sytuacją klienta, czyli interpretuje.",
+      "sourceExcerpt": "Klient: Na tym świecie nikt się nie przejmuje innymi ludźmi. Pomagający: To straszne uczucie - że nikt się o ciebie nie troszczy. (odpowiedź: interpretowanie)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-49",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Nie mogę się zdecydować, co robić.” Pomagający: „Czuje się pan sfrustrowany i chciałby, żebym to ja panu powiedział, co robić.” Według klucza odpowiedzi to:"
+      ],
+      "correct": [
+        "odzwierciedlanie"
+      ],
+      "distractors": [
+        "parafrazowanie",
+        "informowanie",
+        "sondowanie",
+        "konfrontowanie",
+        "minimalna reakcja werbalna",
+        "podsumowywanie"
+      ],
+      "explanation": "Pomagający komunikuje rozumienie uczuć i punktu widzenia klienta, czyli je odzwierciedla.",
+      "sourceExcerpt": "Klient: Nie mogę się zdecydować, co robić. Pomagający: Czuje się pan sfrustrowany i chciałby, żebym to ja panu powiedział, co robić. (odpowiedź: odzwierciedlanie)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-50",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Klient: „Testy za dużo kosztują i i tak nic nie pomogą.” Pomagający: „Pozwól, że nazwę rzecz po imieniu. Uważasz, że testy będą kosztować zbyt wiele, a rezultaty nie będą warte kosztów. O to chodzi?” Według klucza to:"
+      ],
+      "correct": [
+        "klaryfikowanie"
+      ],
+      "distractors": [
+        "konfrontowanie",
+        "informowanie",
+        "sondowanie",
+        "minimalna reakcja werbalna",
+        "podsumowywanie",
+        "interpretowanie"
+      ],
+      "explanation": "Pomagający skupia się na podstawowej treści wypowiedzi i upewnia się, że ją rozumie, czyli klaryfikuje.",
+      "sourceExcerpt": "Pomagający: Pozwól, że nazwę rzecz po imieniu. Uważasz, że testy będą kosztować zbyt wiele, a rezultaty nie będą warte tych kosztów. O to chodzi? (odpowiedź: klaryfikowanie)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-51",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Interpretowanie, konfrontowanie i informowanie są szczególnie właściwe w fazie:"
+      ],
+      "correct": [
+        "zastosowania strategii (roboczej)",
+        "roboczej"
+      ],
+      "distractors": [
+        "budowania relacji",
+        "pierwszego kontaktu",
+        "zakończenia relacji",
+        "diagnozy wstępnej",
+        "wywiadu wstępnego",
+        "nawiązywania kontaktu"
+      ],
+      "explanation": "Minimalne reakcje werbalne i parafrazowanie ułatwiają początkowe sesje, a interpretowanie i konfrontowanie pasują do fazy roboczej.",
+      "sourceExcerpt": "Interpretowanie, konfrontowanie i informowanie mogą być bardziej właściwe w fazie zastosowania strategii (roboczej), podczas gdy minimalne reakcje werbalne i parafrazowanie mogą ułatwiać początkowe sesje.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-52",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Które z zachowań związanych z rolą (Doyle) pojawia się dopiero w fazie zastosowania strategii, a nie w fazie budowania relacji?"
+      ],
+      "correct": [
+        "rozwiązywanie problemów"
+      ],
+      "distractors": [
+        "uważne słuchanie",
+        "klaryfikowanie",
+        "informowanie/opisywanie",
+        "sondowanie/dociekanie",
+        "podtrzymywanie/wspieranie",
+        "parafrazowanie",
+        "minimalna reakcja werbalna"
+      ],
+      "explanation": "Budowanie relacji: słuchanie, klaryfikowanie, informowanie, sondowanie, wspieranie. Faza robocza dodaje motywowanie/zalecanie, ocenianie/analizowanie i rozwiązywanie problemów.",
+      "sourceExcerpt": "Tabela 3.2: Budowanie relacji – uważne słuchanie, klaryfikowanie, informowanie/opisywanie, sondowanie/dociekanie, podtrzymywanie/wspieranie. Zastosowanie strategii – dodatkowo motywowanie/zalecanie, ocenianie/analizowanie, rozwiązywanie problemów.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna-rozdzial-3-53",
+      "bookId": "skuteczna-pomoc-psychologiczna",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Wśród ogólnych wskazówek stosowania reakcji werbalnych autorka zaleca, by pomagający:"
+      ],
+      "correct": [
+        "mówił bezpośrednio do klienta, a nie o nim",
+        "używał tego samego słownictwa co klient"
+      ],
+      "distractors": [
+        "mówił szybko, by nie tracić czasu sesji",
+        "formułował wypowiedzi kwieciście i obrazowo",
+        "unikał komunikatów typu „ja”",
+        "zniechęcał klienta do mówienia o uczuciach",
+        "używał fachowej terminologii psychologicznej",
+        "nie pozwalał klientowi odrzucać swoich przekazów"
+      ],
+      "explanation": "Wskazówki: słownictwo klienta, mów powoli, zwięźle, wiąż tematy z głównym, mów do klienta, komunikaty „ja”, zachęcaj do mówienia o uczuciach, dobieraj moment wypowiedzi.",
+      "sourceExcerpt": "Formułuj swoje reakcje z użyciem tego samego słownictwa, którego używa klient. Mów powoli. Stosuj wypowiedzi zwięzłe, a nie kwieciste. Mów bezpośrednio do klienta, a nie o nim. Przekazuj komunikaty typu „ja”.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

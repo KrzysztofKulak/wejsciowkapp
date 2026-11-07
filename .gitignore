@@ -7,3 +7,5 @@ source/prezentacja-*.md
 
 # Printable cheat sheets (contain slide-derived content)
 druk/
+# Text extracted from book PDFs (copyrighted excerpts, public repo): keep local only
+source/ksiazka-*.md

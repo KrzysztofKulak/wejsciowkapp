@@ -23,6 +23,7 @@
       "id": "podstawowe-umiejetnosci-psychologiczne",
       "title": "Podstawowe umiejętności psychologiczne",
       "books": [
+        "skuteczna-pomoc-psychologiczna",
         "wychowanie-bez-porazek",
         "wywiad-psychologiczny-2",
         "podrecznik-pomagania"
@@ -154,6 +155,17 @@
           "id": "wyklad-5",
           "title": "Wykład 5. Ja i inni",
           "questionCount": 11
+        }
+      ]
+    },
+    {
+      "id": "skuteczna-pomoc-psychologiczna",
+      "title": "Skuteczna pomoc psychologiczna",
+      "chapters": [
+        {
+          "id": "rozdzial-3",
+          "title": "Rozdział 3, str. 57–90",
+          "questionCount": 53
         }
       ]
     },
