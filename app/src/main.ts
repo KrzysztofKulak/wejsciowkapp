@@ -9,6 +9,8 @@ const app = document.getElementById("app")!;
 // ---------- persistence (localStorage, always guarded) ----------
 const LS_SEL = "wejsciowka.selection";
 const LS_MISS = "wejsciowka.misses";
+const LS_API_KEY = "wejsciowka.apiKey"; // only when the user ticks "remember the key on this device"
+const LS_ORAL_N = "wejsciowka.oralCount";
 type Selection = { chapters: string[]; exams?: string[]; count: number; weak: boolean; fun?: boolean };
 
 // "Wzmocnione metody nauki": reaction media shown after each answer.
@@ -64,6 +66,13 @@ function lsGet<T>(key: string, fallback: T): T {
     return raw ? (JSON.parse(raw) as T) : fallback;
   } catch {
     return fallback;
+  }
+}
+function lsDel(key: string) {
+  try {
+    localStorage.removeItem(key);
+  } catch {
+    /* ignore */
   }
 }
 function lsSet(key: string, value: unknown) {
@@ -144,16 +153,23 @@ function setKeys(fn: ((e: KeyboardEvent) => void) | null) {
 let index: Index;
 const titles = new Map<string, { book: string; chapter: string }>();
 
-// The cheatsheet view gets its own history entry, so the browser/phone back button returns to the setup.
-let inCheatsheet = false;
+// Cheatsheet and oral-quiz views get their own history entry, so the browser/phone back button returns to the setup.
+const SUBVIEW_HASHES = ["#cheatsheet", "#przepytka"];
+let inSubview = false;
 window.addEventListener("popstate", () => {
-  if (inCheatsheet) setupView();
+  if (inSubview) setupView();
 });
+function enterSubview(hash: string) {
+  if (!inSubview) history.pushState({ view: hash }, "", hash);
+  else history.replaceState({ view: hash }, "", hash);
+  inSubview = true;
+}
+const leaveSubview = () => (SUBVIEW_HASHES.includes(location.hash) ? history.back() : setupView());
 
 // ---------- views ----------
 function setupView(error?: string) {
   setKeys(null);
-  inCheatsheet = false;
+  inSubview = false;
   const saved = lsGet<Selection>(LS_SEL, { chapters: [], count: 10, weak: false, fun: true });
   const available = new Set(index.books.flatMap((b) => b.chapters.map((c) => `${b.id}/${c.id}`)));
   const selected = new Set(saved.chapters.filter((k) => available.has(k)));
@@ -166,6 +182,9 @@ function setupView(error?: string) {
   const range = h("input", { type: "range", min: 1, max: 1, value: saved.count }) as HTMLInputElement;
   const startBtn = h("button", { class: "primary", onClick: () => start() }, "Start") as HTMLButtonElement;
   const cheatBtn = h("button", { class: "secondary", onClick: () => openCheatsheet() }, "📄 Cheatsheet") as HTMLButtonElement;
+  // "Przepytaj mnie": the button turns into a small form (API key, number of questions) in place.
+  const oralBtn = h("button", { class: "secondary", onClick: () => showOralForm() }, "🎓 Przepytaj mnie") as HTMLButtonElement;
+  const oralSlot = h("div", { class: "oral-slot" }, oralBtn);
   const weakChk = h("input", { type: "checkbox", checked: saved.weak && hasStats, disabled: !hasStats }) as HTMLInputElement;
   const funChk = h("input", { type: "checkbox", checked: saved.fun !== false }) as HTMLInputElement;
 
@@ -196,6 +215,8 @@ function setupView(error?: string) {
     cheatBtn.disabled = cheats === 0;
     cheatBtn.textContent = cheats ? `📄 Cheatsheet (${cheats})` : "📄 Cheatsheet";
     cheatBtn.title = cheats ? "" : "Zaznacz zakres, który ma ściągawkę";
+    oralBtn.disabled = cheats === 0;
+    oralBtn.title = cheats ? "Claude zada pytania otwarte z zaznaczonego materiału" : "Zaznacz zakres, który ma ściągawkę";
     for (const b of index.books) {
       const all = b.chapters.every((c) => selected.has(`${b.id}/${c.id}`));
       const some = b.chapters.some((c) => selected.has(`${b.id}/${c.id}`));
@@ -385,6 +406,44 @@ function setupView(error?: string) {
     if (items.length) cheatsheetView(items, missing);
   }
 
+  function showOralForm() {
+    const savedKey = lsGet<string>(LS_API_KEY, "");
+    const keyInp = h("input", { type: "password", class: "field", placeholder: "sk-ant-…", autocomplete: "off", spellcheck: false, value: savedKey, "aria-label": "Klucz API Claude" }) as HTMLInputElement;
+    const nInp = h("input", { type: "number", class: "field num", min: 1, max: 30, value: lsGet<number>(LS_ORAL_N, 5), "aria-label": "Liczba pytań" }) as HTMLInputElement;
+    const remember = h("input", { type: "checkbox", checked: !!savedKey }) as HTMLInputElement;
+    const err = h("p", { class: "error", style: "display:none;margin:4px 0" });
+    const sendBtn = h("button", { class: "primary", type: "submit" }, "Wyślij") as HTMLButtonElement;
+    const cancel = () => oralSlot.replaceChildren(oralBtn);
+    const form = h(
+      "form",
+      { class: "card oral-form", onSubmit: (e: Event) => { e.preventDefault(); go(); } },
+      h("h2", { style: "margin-top:0" }, "🎓 Przepytaj mnie"),
+      h("p", { class: "muted", style: "margin-top:-4px" }, `Claude zada pytania otwarte z zaznaczonego materiału (${cheatItems().items.length} ściąg.), oceni każdą odpowiedź i krótko to uzasadni.`),
+      h("label", { class: "field-label" }, "Klucz API Claude", keyInp),
+      h("label", { class: "field-label" }, "Liczba pytań", nInp),
+      h("label", { class: "chk", style: "padding:4px 0" }, remember, h("span", {}, "Zapamiętaj klucz na tym urządzeniu")),
+      h("p", { class: "muted", style: "font-size:0.8rem" }, "Klucz trafia tylko z Twojej przeglądarki do api.anthropic.com, a koszt zapytań idzie na Twoje konto Anthropic. Klucz założysz na console.anthropic.com."),
+      err,
+      h("div", { class: "oral-actions" }, h("button", { type: "button", onClick: cancel }, "Cofnij"), sendBtn),
+    );
+    oralSlot.replaceChildren(form);
+    keyInp.focus();
+    function go() {
+      const key = keyInp.value.trim();
+      if (!key) {
+        err.textContent = "Wklej klucz API.";
+        err.style.display = "";
+        keyInp.focus();
+        return;
+      }
+      const n = Math.min(30, Math.max(1, Math.round(Number(nInp.value) || 5)));
+      lsSet(LS_ORAL_N, n);
+      if (remember.checked) lsSet(LS_API_KEY, key);
+      else lsDel(LS_API_KEY);
+      oralView(key, n, cheatItems().items, funChk.checked);
+    }
+  }
+
   async function start() {
     const chapters = [...selected];
     const chosenExams = exams.filter((e) => selectedExams.has(e.id));
@@ -440,6 +499,7 @@ function setupView(error?: string) {
     ),
     startBtn,
     cheatBtn,
+    oralSlot,
     h("footer", { class: "muted" }, "Klawisze: 1–4 / A–D wybierają odpowiedź, Enter idzie dalej."),
   );
   refresh();
@@ -447,9 +507,8 @@ function setupView(error?: string) {
 
 async function cheatsheetView(items: CheatItem[], missing: string[]) {
   setKeys(null);
-  if (!inCheatsheet) history.pushState({ view: "cheatsheet" }, "", "#cheatsheet");
-  inCheatsheet = true;
-  const back = () => (location.hash === "#cheatsheet" ? history.back() : setupView());
+  enterSubview("#cheatsheet");
+  const back = leaveSubview;
   const topbar = h(
     "div",
     { class: "topbar cs-topbar" },
@@ -459,7 +518,7 @@ async function cheatsheetView(items: CheatItem[], missing: string[]) {
   );
   render(topbar, h("p", { class: "muted" }, "Ładowanie…"));
   const texts = await Promise.allSettled(items.map((it) => loadCheatsheet(it.path)));
-  if (!inCheatsheet) return; // user went back while loading
+  if (!inSubview) return; // user went back while loading
   const anchor = (i: number) => `cs-${i}`;
   const toc =
     items.length > 1
@@ -480,6 +539,129 @@ async function cheatsheetView(items: CheatItem[], missing: string[]) {
     missing.length ? h("div", { class: "card cs-missing" }, h("p", { class: "muted", style: "margin:0" }, `Bez ściągawki (${missing.length}): ${missing.join("; ")}`)) : "",
     h("footer", {}, h("button", { class: "ghost muted", onClick: back }, "← Wróć do wyboru zakresu")),
   );
+}
+
+const VERDICT_UI: Record<string, { label: string; cls: string }> = {
+  dobrze: { label: "✅ Dobrze", cls: "ok" },
+  częściowo: { label: "🟡 Częściowo", cls: "part" },
+  źle: { label: "❌ Źle", cls: "bad" },
+};
+
+/** Oral open-question quiz with Claude: one card per question, graded with a 1–3 sentence justification. */
+async function oralView(apiKey: string, total: number, items: CheatItem[], fun: boolean) {
+  setKeys(null);
+  enterSubview("#przepytka");
+  const results: { verdict: string }[] = [];
+  let finished = false;
+  const back = () => {
+    if (!finished && results.length && !confirm("Zakończyć przepytkę?")) return;
+    leaveSubview();
+  };
+  const counter = h("span", { class: "muted" }, "");
+  const log = h("div", { class: "oral-log" });
+  const status = h("div", { class: "oral-status" });
+  render(
+    h("div", { class: "topbar cs-topbar" }, h("button", { class: "ghost", onClick: back }, "← Zakres"), h("span", { class: "title" }, "🎓 Przepytka"), counter),
+    log,
+    status,
+  );
+  const setCounter = () => (counter.textContent = `${results.length} / ${total}`);
+  setCounter();
+
+  /** Runs one Claude call with a "thinking" line; on failure shows the error and a retry button. */
+  async function call<T>(fn: () => Promise<T>): Promise<T> {
+    for (;;) {
+      status.replaceChildren(h("p", { class: "muted oral-thinking" }, "Claude myśli…"));
+      try {
+        const out = await fn();
+        status.replaceChildren();
+        return out;
+      } catch (e) {
+        if (!inSubview) throw e;
+        await new Promise<void>((resolve) =>
+          status.replaceChildren(
+            h("div", { class: "card" }, h("p", { class: "error", style: "margin-top:0" }, (e as Error).message),
+              h("div", { class: "oral-actions" }, h("button", { onClick: back }, "Zakończ"), h("button", { class: "primary", onClick: () => resolve() }, "Spróbuj ponownie"))),
+          ),
+        );
+      }
+    }
+  }
+
+  let exam;
+  try {
+    const texts = await Promise.all(items.map((it) => loadCheatsheet(it.path)));
+    const { OralExam } = await import("./oral");
+    exam = new OralExam(apiKey, items.map((it, i) => ({ title: `${it.book} · ${it.title}`, markdown: texts[i] })), total);
+  } catch (e) {
+    status.replaceChildren(h("p", { class: "error" }, `Nie udało się przygotować materiału: ${(e as Error).message}`));
+    return;
+  }
+  const ex = exam;
+  const first = await call(() => ex.start());
+  if (!inSubview) return;
+  if (first.question) askQuestion(1, first.question);
+
+  function askQuestion(i: number, question: string) {
+    const answer = h("textarea", { class: "field oral-answer", rows: 4, placeholder: "Twoja odpowiedź… (Ctrl/⌘+Enter wysyła)" }) as HTMLTextAreaElement;
+    const sendBtn = h("button", { class: "primary", onClick: () => submit(answer.value) }, "Odpowiedz") as HTMLButtonElement;
+    const dunno = h("button", { onClick: () => submit("nie wiem") }, "Nie wiem") as HTMLButtonElement;
+    const controls = h("div", { class: "oral-actions" }, dunno, sendBtn);
+    const card = h("div", { class: "card oral-q" }, h("p", { class: "muted", style: "margin-top:0" }, `Pytanie ${i} / ${total}`), h("p", { class: "stem" }, question), answer, controls);
+    log.append(card);
+    card.scrollIntoView({ behavior: "smooth", block: "start" });
+    answer.focus({ preventScroll: true });
+    answer.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        submit(answer.value);
+      }
+    });
+    let busy = false;
+    async function submit(text: string) {
+      if (busy) return;
+      if (!text.trim()) {
+        answer.focus();
+        return;
+      }
+      busy = true;
+      answer.readOnly = true;
+      sendBtn.disabled = dunno.disabled = true;
+      const turn = await call(() => ex.answer(i, text));
+      if (!inSubview) return;
+      const v = VERDICT_UI[turn.verdict ?? ""] ?? { label: "Ocena", cls: "part" };
+      results.push({ verdict: turn.verdict ?? "" });
+      setCounter();
+      controls.replaceWith(
+        h("div", { class: `oral-verdict ${v.cls}` },
+          h("div", { class: "feedback-row" },
+            h("div", { class: "feedback-text" }, h("p", { class: "oral-badge" }, v.label), h("p", {}, turn.justification ?? "")),
+            fun && v.cls !== "part" ? reactionMedia(v.cls === "ok") : "",
+          ),
+        ),
+      );
+      if (turn.question && i < total) askQuestion(i + 1, turn.question);
+      else summary();
+    }
+  }
+
+  function summary() {
+    finished = true;
+    const n = (v: string) => results.filter((r) => r.verdict === v).length;
+    const score = results.length ? Math.round((100 * (n("dobrze") + 0.5 * n("częściowo"))) / results.length) : 0;
+    const card = h("div", { class: "card" },
+      h("p", { class: "muted", style: "margin-top:0" }, "Wynik przepytki"),
+      h("p", { class: "score" }, `${score}%`),
+      h("div", { class: "bar" }, h("div", { style: `width:${score}%` })),
+      h("p", {}, `✅ ${n("dobrze")} · 🟡 ${n("częściowo")} · ❌ ${n("źle")}`),
+      h("div", { class: "actions" },
+        h("button", { class: "primary", onClick: () => oralView(apiKey, total, items, fun) }, "Jeszcze raz"),
+        h("button", { onClick: () => leaveSubview() }, "Wróć do wyboru zakresu"),
+      ),
+    );
+    log.append(card);
+    card.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
 }
 
 function quizView(questions: Question[], rng: () => number, seed: number, fun = true) {
@@ -616,7 +798,7 @@ function summaryView(questions: Question[], answers: Answered[], seed: number, f
 (async () => {
   render(h("p", { class: "muted" }, "Ładowanie…"));
   try {
-    if (location.hash === "#cheatsheet") history.replaceState(null, "", location.pathname + location.search); // reload lands on the setup
+    if (SUBVIEW_HASHES.includes(location.hash)) history.replaceState(null, "", location.pathname + location.search); // reload lands on the setup
     index = await loadIndex();
     for (const b of index.books) for (const c of b.chapters) titles.set(`${b.id}/${c.id}`, { book: b.title, chapter: c.title });
     setupView();

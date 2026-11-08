@@ -182,3 +182,27 @@ footer { margin: 24px 0 8px; text-align: center; }
   .cs-section { break-before: page; }
   .cs-section:first-of-type { break-before: auto; }
 }
+
+/* "Przepytaj mnie" */
+.oral-slot { margin-top: 8px; }
+.oral-slot > button.secondary { margin-top: 0; }
+.oral-form { margin-top: 0; }
+.field-label { display: flex; flex-direction: column; gap: 4px; font-size: 0.9rem; font-weight: 600; margin: 8px 0; }
+.field {
+  font: inherit; font-weight: 400; color: var(--text); background: var(--bg); border: 1px solid var(--line);
+  border-radius: 10px; padding: 10px 12px; width: 100%;
+}
+.field:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+.field.num { width: 7em; }
+.oral-actions { display: flex; gap: 8px; justify-content: flex-end; margin-top: 10px; }
+.oral-actions button.primary { width: auto; padding: 10px 18px; font-size: 1rem; }
+.oral-answer { resize: vertical; min-height: 96px; line-height: 1.45; }
+.oral-answer[readonly] { opacity: 0.8; }
+.oral-verdict { margin-top: 12px; padding: 10px 12px; border-radius: 12px; border: 1.5px solid var(--line); }
+.oral-verdict p { margin: 4px 0; }
+.oral-verdict.ok { border-color: var(--ok); background: var(--ok-bg); }
+.oral-verdict.bad { border-color: var(--bad); background: var(--bad-bg); }
+.oral-verdict.part { border-color: #d9a400; background: rgba(217, 164, 0, 0.12); }
+.oral-badge { font-weight: 700; }
+.oral-thinking { text-align: center; animation: pulse 1.4s ease-in-out infinite; }
+@keyframes pulse { 50% { opacity: 0.4; } }
