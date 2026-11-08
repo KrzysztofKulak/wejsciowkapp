@@ -2,6 +2,7 @@ import "./style.css";
 import { marked } from "marked";
 import type { Answered, ChapterFile, Index, IndexBook, IndexExam, Question, Rendered } from "./types";
 import { LABELS, assembleOptions, mulberry32, randomSeed, sampleQuestions } from "./quiz";
+import { DEFAULT_ORAL_MODEL, ORAL_MODELS, isOralModel, type OralModel } from "./oral-models";
 
 const BASE = import.meta.env.BASE_URL;
 const app = document.getElementById("app")!;
@@ -11,6 +12,7 @@ const LS_SEL = "wejsciowka.selection";
 const LS_MISS = "wejsciowka.misses";
 const LS_API_KEY = "wejsciowka.apiKey"; // only when the user ticks "remember the key on this device"
 const LS_ORAL_N = "wejsciowka.oralCount";
+const LS_ORAL_MODEL = "wejsciowka.oralModel";
 type Selection = { chapters: string[]; exams?: string[]; count: number; weak: boolean; fun?: boolean };
 
 // "Wzmocnione metody nauki": reaction media shown after each answer.
@@ -411,6 +413,10 @@ function setupView(error?: string) {
     const keyInp = h("input", { type: "password", class: "field", placeholder: "sk-ant-…", autocomplete: "off", spellcheck: false, value: savedKey, "aria-label": "Klucz API Claude" }) as HTMLInputElement;
     const nInp = h("input", { type: "number", class: "field num", min: 1, max: 30, value: lsGet<number>(LS_ORAL_N, 5), "aria-label": "Liczba pytań" }) as HTMLInputElement;
     const remember = h("input", { type: "checkbox", checked: !!savedKey }) as HTMLInputElement;
+    const savedModel = lsGet<string>(LS_ORAL_MODEL, DEFAULT_ORAL_MODEL);
+    const modelSel = h("select", { class: "field", "aria-label": "Model" },
+      ...ORAL_MODELS.map((m) => h("option", { value: m.id, selected: m.id === savedModel }, m.label)),
+    ) as HTMLSelectElement;
     const err = h("p", { class: "error", style: "display:none;margin:4px 0" });
     const sendBtn = h("button", { class: "primary", type: "submit" }, "Wyślij") as HTMLButtonElement;
     const cancel = () => oralSlot.replaceChildren(oralBtn);
@@ -421,6 +427,7 @@ function setupView(error?: string) {
       h("p", { class: "muted", style: "margin-top:-4px" }, `Claude zada pytania otwarte z zaznaczonego materiału (${cheatItems().items.length} ściąg.), oceni każdą odpowiedź i krótko to uzasadni.`),
       h("label", { class: "field-label" }, "Klucz API Claude", keyInp),
       h("label", { class: "field-label" }, "Liczba pytań", nInp),
+      h("label", { class: "field-label" }, "Model", modelSel),
       h("label", { class: "chk", style: "padding:4px 0" }, remember, h("span", {}, "Zapamiętaj klucz na tym urządzeniu")),
       h("p", { class: "muted", style: "font-size:0.8rem" }, "Klucz trafia tylko z Twojej przeglądarki do api.anthropic.com, a koszt zapytań idzie na Twoje konto Anthropic. Klucz założysz na console.anthropic.com."),
       err,
@@ -438,9 +445,11 @@ function setupView(error?: string) {
       }
       const n = Math.min(30, Math.max(1, Math.round(Number(nInp.value) || 5)));
       lsSet(LS_ORAL_N, n);
+      const model: OralModel = isOralModel(modelSel.value) ? modelSel.value : DEFAULT_ORAL_MODEL;
+      lsSet(LS_ORAL_MODEL, model);
       if (remember.checked) lsSet(LS_API_KEY, key);
       else lsDel(LS_API_KEY);
-      oralView(key, n, cheatItems().items, funChk.checked);
+      oralView(key, n, model, cheatItems().items, funChk.checked);
     }
   }
 
@@ -548,7 +557,7 @@ const VERDICT_UI: Record<string, { label: string; cls: string }> = {
 };
 
 /** Oral open-question quiz with Claude: one card per question, graded with a 1–3 sentence justification. */
-async function oralView(apiKey: string, total: number, items: CheatItem[], fun: boolean) {
+async function oralView(apiKey: string, total: number, model: OralModel, items: CheatItem[], fun: boolean) {
   setKeys(null);
   enterSubview("#przepytka");
   const results: { verdict: string }[] = [];
@@ -592,7 +601,7 @@ async function oralView(apiKey: string, total: number, items: CheatItem[], fun: 
   try {
     const texts = await Promise.all(items.map((it) => loadCheatsheet(it.path)));
     const { OralExam } = await import("./oral");
-    exam = new OralExam(apiKey, items.map((it, i) => ({ title: `${it.book} · ${it.title}`, markdown: texts[i] })), total);
+    exam = new OralExam(apiKey, items.map((it, i) => ({ title: `${it.book} · ${it.title}`, markdown: texts[i] })), total, model);
   } catch (e) {
     status.replaceChildren(h("p", { class: "error" }, `Nie udało się przygotować materiału: ${(e as Error).message}`));
     return;
@@ -655,7 +664,7 @@ async function oralView(apiKey: string, total: number, items: CheatItem[], fun: 
       h("div", { class: "bar" }, h("div", { style: `width:${score}%` })),
       h("p", {}, `✅ ${n("dobrze")} · 🟡 ${n("częściowo")} · ❌ ${n("źle")}`),
       h("div", { class: "actions" },
-        h("button", { class: "primary", onClick: () => oralView(apiKey, total, items, fun) }, "Jeszcze raz"),
+        h("button", { class: "primary", onClick: () => oralView(apiKey, total, model, items, fun) }, "Jeszcze raz"),
         h("button", { onClick: () => leaveSubview() }, "Wróć do wyboru zakresu"),
       ),
     );

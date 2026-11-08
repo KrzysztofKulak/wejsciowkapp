@@ -7,8 +7,7 @@
 import Anthropic from "@anthropic-ai/sdk";
 import { betaZodOutputFormat } from "@anthropic-ai/sdk/helpers/beta/zod";
 import { z } from "zod";
-
-export const MODEL = "claude-opus-5-5";
+import type { OralModel } from "./oral-models";
 
 /** One examiner turn: the grade of the previous answer (absent on the first turn) and the next question (absent after the last). */
 const Turn = z.object({
@@ -42,7 +41,7 @@ export class OralExam {
   private messages: Anthropic.Beta.BetaMessageParam[] = [];
   private system: Anthropic.Beta.BetaTextBlockParam[];
 
-  constructor(apiKey: string, parts: MaterialPart[], readonly total: number) {
+  constructor(apiKey: string, parts: MaterialPart[], readonly total: number, private model: OralModel) {
     // The key is the user's own and is typed into this page, so a browser client is the intended setup here.
     this.client = new Anthropic({ apiKey, dangerouslyAllowBrowser: true, maxRetries: 2 });
     this.system = [
@@ -69,10 +68,11 @@ export class OralExam {
     let response;
     try {
       response = await this.client.beta.messages.parse({
-        model: MODEL,
+        model: this.model,
         max_tokens: 4000,
-        betas: ["server-side-fallback-2026-07-01"],
-        fallbacks: "default", // if the model declines, the API retries on its default fallback model
+        // Sonnet 5.5 supports the server-side "default" fallback (a declined request is retried on its fallback model);
+        // Haiku 5.5 has no server-side fallback, so a refusal there just shows the refusal message below.
+        ...(this.model === "claude-sonnet-5-5" && { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" as const }),
         system: this.system,
         messages: [...this.messages, userMsg],
         output_config: { effort: "low", format: betaZodOutputFormat(Turn) },
