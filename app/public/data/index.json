@@ -90,6 +90,11 @@
           "id": "slajdy-1-34",
           "title": "slajdy 1–34",
           "questionCount": 39
+        },
+        {
+          "id": "mechanizmy-obronne-uzupelnienie-ai",
+          "title": "Mechanizmy obronne – uzupełnienie AI (humor, anulowanie, wycofanie w bierność)",
+          "questionCount": 13
         }
       ]
     },
@@ -258,8 +263,13 @@
       "id": "wejsciowka-1-historia-i-wspolczesnosc",
       "title": "wejściówka 1: historia i współczesność",
       "tag": "wejściówka 1: historia i współczesność",
-      "questionCount": 114,
+      "questionCount": 127,
       "sources": [
+        {
+          "bookId": "prezentacja-psychoanaliza-freudowska",
+          "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+          "questionCount": 13
+        },
         {
           "bookId": "prezentacja-psychoanaliza-freudowska",
           "chapterId": "slajdy-1-34",

@@ -1,0 +1,364 @@
+{
+  "bookId": "prezentacja-psychoanaliza-freudowska",
+  "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+  "chapterTitle": "Mechanizmy obronne – uzupełnienie AI (humor, anulowanie, wycofanie w bierność)",
+  "sourceHash": "d8c8d308cd6e0bc997d4b59a8c52bdf64c8a2651",
+  "bookTitle": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
+  "questions": [
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-01",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Humor jako mechanizm obronny polega na:",
+        "Na czym polega humor jako mechanizm obronny?"
+      ],
+      "correct": [
+        "dostrzeganiu komicznej strony trudnej sytuacji, co zmniejsza lęk",
+        "rozładowaniu napięcia żartem bez uciekania od problemu"
+      ],
+      "distractors": [
+        "przypisywaniu innym własnych nieakceptowanych uczuć",
+        "zamykaniu trudnych treści w nieświadomości",
+        "powrocie do dziecięcych sposobów reagowania",
+        "odcięciu emocji od wspomnienia zdarzenia",
+        "przekształceniu uczucia w jego przeciwieństwo",
+        "nieprzyjmowaniu do wiadomości przykrego faktu",
+        "szukaniu logicznych usprawiedliwień porażki"
+      ],
+      "explanation": "Humor pozwala przeżyć przykre uczucia, dostrzegając zabawne lub ironiczne strony sytuacji; lęk i napięcie maleją, a problem nie zostaje zaprzeczony ani wyparty. Tavris (r. 11) wymienia humor wśród mechanizmów obronnych ego.",
+      "sourceExcerpt": "Humor jest sposobem obrony przed lękiem, świadomością starzenia się i śmierci, przed popędami seksualnymi lub odruchami agresji (Tavris, r. 11).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-02",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Przed czym według Tavris broni humor?"
+      ],
+      "correct": [
+        "przed lękiem, śmiercią i popędami"
+      ],
+      "distractors": [
+        "wyłącznie przed nudą",
+        "wyłącznie przed bólem fizycznym",
+        "tylko przed krytyką innych",
+        "przed nadmiarem pozytywnych emocji",
+        "przed koniecznością podejmowania decyzji",
+        "tylko przed zmęczeniem"
+      ],
+      "explanation": "Tavris: humor jest sposobem obrony przed lękiem, świadomością starzenia się i śmierci, popędami seksualnymi i agresją, a u mężczyzn także przed niepokojem o sprawność seksualną – stąd tak wiele dowcipów na te tematy.",
+      "sourceExcerpt": "Humor jest sposobem obrony przed lękiem, świadomością starzenia się i śmierci, przed popędami seksualnymi lub odruchami agresji, a także (u mężczyzn) przed niepokojem o sprawność seksualną, o czym świadczy wielka liczba dowcipów na te tematy.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-03",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Studenci przed trudnym egzaminem żartują, że „i tak wszyscy obleją, więc można już zamawiać pizzę na poprawkę”. Jaki to mechanizm?",
+        "Pacjent przed operacją żartuje z chirurgiem o „wymianie części na nowsze”. Jaki mechanizm obronny stosuje?"
+      ],
+      "correct": [
+        "humor"
+      ],
+      "distractors": [
+        "zaprzeczanie",
+        "regresja",
+        "projekcja",
+        "anulowanie",
+        "racjonalizacja",
+        "izolacja",
+        "wycofanie w bierność"
+      ],
+      "explanation": "Żart rozładowuje lęk przed zagrażającą sytuacją, ale jej nie zaprzecza: osoba nadal wie, co ją czeka, i się przygotowuje. To humor.",
+      "sourceExcerpt": "Humor: dostrzeganie zabawnych stron trudnej sytuacji zmniejsza lęk bez zaprzeczania problemowi.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-04",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Czym humor jako mechanizm obronny różni się od zaprzeczania?"
+      ],
+      "correct": [
+        "przy humorze problem jest dostrzegany, przy zaprzeczaniu – nie",
+        "humor nie neguje faktów, tylko łagodzi ich ciężar"
+      ],
+      "distractors": [
+        "humor zawsze jest nieświadomy, a zaprzeczanie świadome",
+        "humor dotyczy tylko dzieci",
+        "nie różnią się niczym",
+        "zaprzeczanie zawsze polega na żartowaniu",
+        "humor przekształca uczucie w przeciwieństwo",
+        "humor przenosi gniew na słabszych"
+      ],
+      "explanation": "Zaprzeczanie to nieprzyznawanie się, że zdarzyło się coś przykrego. W humorze osoba widzi problem i jego powagę, a żart pomaga jej go znieść. Dlatego humor uważa się za mechanizm dojrzały.",
+      "sourceExcerpt": "Zaprzeczenie – nieprzyznawanie się, że zdarzyło się coś nieprzyjemnego (slajdy); humor – obrona przed lękiem (Tavris, r. 11).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-05",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Humor, obok sublimacji, zalicza się zwykle do mechanizmów obronnych:"
+      ],
+      "correct": [
+        "dojrzałych, sprzyjających przystosowaniu",
+        "dojrzałych"
+      ],
+      "distractors": [
+        "najbardziej prymitywnych",
+        "typowych wyłącznie dla psychoz",
+        "charakterystycznych dla fazy oralnej",
+        "zawsze prowadzących do nerwicy",
+        "występujących tylko u dzieci",
+        "zakazanych w psychoterapii"
+      ],
+      "explanation": "Humor, podobnie jak sublimacja, pozwala wyrazić i rozładować napięcie w sposób akceptowany społecznie, bez zniekształcania rzeczywistości, dlatego uznaje się go za mechanizm dojrzały.",
+      "sourceExcerpt": "Humor jako mechanizm obronny – zaliczany do mechanizmów dojrzałych (uzupełnienie spoza notatek).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-06",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Anulowanie (odczynianie) jako mechanizm obronny polega na:",
+        "Na czym polega anulowanie?"
+      ],
+      "correct": [
+        "symbolicznym „cofnięciu” niedopuszczalnej myśli lub czynu",
+        "unieważnieniu złego czynu przez gest zadośćuczynienia"
+      ],
+      "distractors": [
+        "przypisywaniu innym własnych impulsów",
+        "powrocie do wcześniejszego etapu rozwoju",
+        "kierowaniu popędu na cel akceptowany społecznie",
+        "nieprzyjmowaniu do wiadomości faktów",
+        "odłączeniu emocji od wspomnienia",
+        "dostrzeganiu komicznej strony sytuacji",
+        "rozładowaniu gniewu na słabszym obiekcie"
+      ],
+      "explanation": "Anulowanie: osoba wykonuje działanie przeciwne albo rytuał, który ma symbolicznie unieważnić zakazaną myśl, uczucie lub czyn i zmniejszyć poczucie winy (np. przeprosiny, prezent, spowiedź).",
+      "sourceExcerpt": "Anulowanie (odczynianie) – symboliczne „cofnięcie” niedopuszczalnej myśli lub czynu działaniem przeciwnym lub rytuałem (uzupełnienie spoza notatek).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-07",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Mąż po zdradzie przynosi żonie kwiaty i drogi prezent, choć ona o niczym nie wie. Jaki mechanizm obronny tu działa?",
+        "Ktoś po kłótni, w której nakrzyczał na matkę, przez tydzień codziennie robi jej zakupy i sprząta. Jaki to mechanizm?"
+      ],
+      "correct": [
+        "anulowanie"
+      ],
+      "distractors": [
+        "reakcja upozorowana",
+        "projekcja",
+        "przemieszczenie",
+        "sublimacja",
+        "humor",
+        "regresja",
+        "izolacja"
+      ],
+      "explanation": "Gest zadośćuczynienia ma symbolicznie „odczynić” wcześniejszy czyn i zmniejszyć poczucie winy – to anulowanie. Reakcja upozorowana dotyczyłaby uczucia przekształconego w przesadne przeciwieństwo, a nie odkupienia konkretnego czynu.",
+      "sourceExcerpt": "Anulowanie – działanie mające unieważnić wcześniejszy niedopuszczalny czyn (uzupełnienie spoza notatek).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-08",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Spowiedź bywa podawana jako przykład anulowania, ponieważ:"
+      ],
+      "correct": [
+        "ma symbolicznie unieważnić winę za czyn",
+        "rytuał ma „wymazać” zły czyn i poczucie winy"
+      ],
+      "distractors": [
+        "przenosi winę na kapłana",
+        "przywraca dziecięce zachowania",
+        "pozwala zapomnieć o czynie",
+        "przypisuje grzech innym osobom",
+        "kieruje popęd na cel akceptowany",
+        "odcina emocje od wspomnienia"
+      ],
+      "explanation": "W anulowaniu rytuał lub działanie przeciwne ma unieważnić niedopuszczalny czyn lub myśl i zmniejszyć poczucie winy; spowiedź pełni taką symboliczną funkcję „zmazania”.",
+      "sourceExcerpt": "Anulowanie (spowiedź) – rytuał unieważniający winę (uzupełnienie spoza notatek).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-09",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Czym anulowanie różni się od reakcji upozorowanej?"
+      ],
+      "correct": [
+        "anulowanie cofa czyn, upozorowanie odwraca uczucie"
+      ],
+      "distractors": [
+        "to synonimy opisujące ten sam proces",
+        "anulowanie jest zawsze w pełni świadome",
+        "reakcja upozorowana dotyczy wyłącznie gniewu",
+        "anulowanie polega na wypieraniu wspomnień",
+        "reakcja upozorowana to żart z trudnej sytuacji",
+        "anulowanie występuje wyłącznie u dzieci"
+      ],
+      "explanation": "Reakcja upozorowana: niepokojące uczucie zostaje w świadomości przekształcone w przesadne przeciwieństwo. Anulowanie: po myśli lub czynie pojawia się działanie, które ma go symbolicznie unieważnić.",
+      "sourceExcerpt": "Reakcja upozorowana – nieświadome uczucie, które budzi w nas niepokój, w świadomości zostaje przekształcone w swoje przeciwieństwo (slajdy).",
+      "difficulty": 3,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-10",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Wycofanie w bierność jako mechanizm obronny polega na:",
+        "Na czym polega wycofanie w bierność?"
+      ],
+      "correct": [
+        "unikaniu zagrażającej sytuacji przez rezygnację z działania",
+        "obronie przed lękiem przez apatię i wycofanie się"
+      ],
+      "distractors": [
+        "powrocie do dziecięcych zachowań, np. ssania kciuka",
+        "przypisywaniu innym własnych lęków",
+        "symbolicznym unieważnieniu czynu",
+        "dostrzeganiu komicznej strony sytuacji",
+        "kierowaniu agresji na słabszych",
+        "logicznym usprawiedliwianiu porażki",
+        "przesadnym okazywaniu uczuć przeciwnych"
+      ],
+      "explanation": "Wycofanie w bierność: zamiast mierzyć się z sytuacją budzącą lęk, osoba przestaje działać, rezygnuje, wycofuje się z kontaktów („jak nie spróbuję, to nie przegram”).",
+      "sourceExcerpt": "Wycofanie w bierność – obrona przed lękiem przez unikanie, rezygnację i bierność (uzupełnienie spoza notatek).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-11",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Student, który boi się oblać kolokwium, w ogóle przestaje się uczyć, nie chodzi na zajęcia i całymi dniami leży w łóżku. Jaki mechanizm obronny to ilustruje?",
+        "Osoba odrzucona przez znajomych przestaje wychodzić z domu, nie odbiera telefonów i z niczego nie próbuje korzystać. Jaki to mechanizm?"
+      ],
+      "correct": [
+        "wycofanie w bierność"
+      ],
+      "distractors": [
+        "sublimacja",
+        "projekcja",
+        "anulowanie",
+        "reakcja upozorowana",
+        "przemieszczenie",
+        "racjonalizacja"
+      ],
+      "explanation": "Osoba chroni się przed lękiem (porażki, odrzucenia), unikając sytuacji i rezygnując z działania – to wycofanie w bierność.",
+      "sourceExcerpt": "Wycofanie w bierność – unikanie i rezygnacja z działania w obliczu lęku (uzupełnienie spoza notatek).",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-12",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Czym wycofanie w bierność różni się od regresji?"
+      ],
+      "correct": [
+        "wycofanie to unikanie, regresja – dziecinność"
+      ],
+      "distractors": [
+        "to dokładnie ten sam mechanizm",
+        "wycofanie jest zawsze w pełni świadome",
+        "regresja występuje wyłącznie u dorosłych",
+        "wycofanie polega na żartowaniu z problemu",
+        "regresja to przypisywanie uczuć innym",
+        "wycofanie to rytuał zadośćuczynienia"
+      ],
+      "explanation": "Regresja to wycofanie do wcześniejszych poziomów rozwojowych, z bardziej dziecinnymi reakcjami. Wycofanie w bierność to rezygnacja z działania i unikanie sytuacji, bez powrotu do dziecięcych form zachowania.",
+      "sourceExcerpt": "Regresja – wycofanie do wcześniejszych poziomów rozwojowych, co pociąga za sobą bardziej dziecinne reakcje (slajdy).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    },
+    {
+      "id": "prezentacja-psychoanaliza-freudowska-mechanizmy-obronne-uzupelnienie-ai-13",
+      "bookId": "prezentacja-psychoanaliza-freudowska",
+      "chapterId": "mechanizmy-obronne-uzupelnienie-ai",
+      "stems": [
+        "Który zestaw poprawnie łączy mechanizm z przykładem?"
+      ],
+      "correct": [
+        "humor – żart przed operacją; anulowanie – prezent po zdradzie"
+      ],
+      "distractors": [
+        "anulowanie – żart przed operacją",
+        "humor – rezygnacja z nauki ze strachu",
+        "wycofanie w bierność – prezent po zdradzie",
+        "anulowanie – ssanie kciuka w stresie",
+        "humor – przypisywanie innym własnej złości",
+        "wycofanie w bierność – rzeźbienie zamiast agresji"
+      ],
+      "explanation": "Humor rozładowuje lęk żartem, anulowanie symbolicznie „cofa” czyn (zadośćuczynienie, spowiedź), a wycofanie w bierność to unikanie i rezygnacja z działania.",
+      "sourceExcerpt": "Humor, anulowanie, wycofanie w bierność (uzupełnienie spoza notatek).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 1: historia i współczesność"
+      ]
+    }
+  ]
+}
