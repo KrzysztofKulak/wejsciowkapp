@@ -43,6 +43,7 @@ const Index = z.object({
         tag: z.string(),
         questionCount: z.number().int(),
         sources: z.array(z.object({ bookId: z.string(), chapterId: z.string(), questionCount: z.number().int() })),
+        cheatsheet: z.boolean().optional(),
       }),
     )
     .optional(),
@@ -50,7 +51,7 @@ const Index = z.object({
     z.object({
       id: z.string(),
       title: z.string(),
-      chapters: z.array(z.object({ id: z.string(), title: z.string(), questionCount: z.number().int() })),
+      chapters: z.array(z.object({ id: z.string(), title: z.string(), questionCount: z.number().int(), cheatsheet: z.boolean().optional() })),
     }),
   ),
 });
@@ -152,6 +153,35 @@ else {
       if (tagCounts.get(e.tag) !== e.questionCount) errors.push(`index.json exam "${e.tag}": questionCount ${e.questionCount} != ${tagCounts.get(e.tag) ?? 0} tagged ok questions`);
     }
     for (const t of tagCounts.keys()) if (!listedTags.has(t)) errors.push(`tag "${t}" has questions but no exam entry in index.json (run build-index)`);
+
+    // Cheatsheets: every .md must belong to a listed chapter/exam, the index flags must match the files, and each must have content.
+    const cheatDir = join(dataDir, "cheatsheets");
+    const mdPath = (...p: string[]) => join(cheatDir, ...p) + ".md";
+    const checkMd = (path: string, where: string) => {
+      const md = readFileSync(path, "utf8");
+      if (md.trim().length < 200) errors.push(`${where}: cheatsheet is nearly empty`);
+      if (/^# /m.test(md)) errors.push(`${where}: use ## and deeper headings (the app adds the chapter title as the top heading)`);
+    };
+    const examIds = new Set((parsed.data.exams ?? []).map((e) => e.id));
+    for (const b of parsed.data.books)
+      for (const c of b.chapters) {
+        const has = existsSync(mdPath(b.id, c.id));
+        if (has !== !!c.cheatsheet) errors.push(`index.json ${b.id}/${c.id}: cheatsheet flag ${!!c.cheatsheet} but file ${has ? "exists" : "missing"} (run build-index)`);
+        if (has) checkMd(mdPath(b.id, c.id), `cheatsheets/${b.id}/${c.id}.md`);
+        else warnings.push(`${b.id}/${c.id}: no cheatsheet`);
+      }
+    for (const e of parsed.data.exams ?? []) {
+      const has = existsSync(mdPath("_zaliczenia", e.id));
+      if (has !== !!e.cheatsheet) errors.push(`index.json exam "${e.id}": cheatsheet flag ${!!e.cheatsheet} but file ${has ? "exists" : "missing"} (run build-index)`);
+      if (has) checkMd(mdPath("_zaliczenia", e.id), `cheatsheets/_zaliczenia/${e.id}.md`);
+    }
+    if (existsSync(cheatDir))
+      for (const dir of readdirSync(cheatDir))
+        for (const f of readdirSync(join(cheatDir, dir)).filter((f) => f.endsWith(".md"))) {
+          const id = f.replace(/\.md$/, "");
+          const known = dir === "_zaliczenia" ? examIds.has(id) : listed.has(`${dir}/${id}`);
+          if (!known) errors.push(`cheatsheets/${dir}/${f}: no matching ${dir === "_zaliczenia" ? "exam" : "chapter"} in index.json`);
+        }
   }
 }
 

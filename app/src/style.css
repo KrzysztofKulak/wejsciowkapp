@@ -52,6 +52,7 @@ button {
 button:disabled { opacity: 0.55; cursor: default; }
 button.primary { background: var(--accent); color: var(--accent-ink); border-color: transparent; font-weight: 600; width: 100%; padding: 14px; font-size: 1.05rem; }
 button.ghost { background: transparent; }
+button.secondary { width: 100%; padding: 12px; margin-top: 8px; font-weight: 600; }
 .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
 .row.between { justify-content: space-between; }
 .topbar { display: flex; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 8px; }
@@ -149,3 +150,35 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
 .actions { display: grid; gap: 8px; margin-top: 12px; }
 .error { color: var(--bad); }
 footer { margin: 24px 0 8px; text-align: center; }
+
+/* cheatsheet */
+.cs-topbar { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 6px 0; }
+.cs-toc ol { margin: 0; padding-left: 1.3em; }
+.cs-toc li { margin: 3px 0; }
+.cs-toc a { color: var(--accent); text-decoration: none; }
+.cs-section { scroll-margin-top: 56px; }
+.cs-book { margin: 0; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.cs-title { font-size: 1.35rem; margin: 2px 0 8px; }
+.cs-body { line-height: 1.55; overflow-wrap: anywhere; }
+.cs-body h2 { font-size: 1.12rem; margin: 22px 0 6px; padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+.cs-body h3 { font-size: 1rem; margin: 16px 0 4px; color: var(--accent); }
+.cs-body h4 { font-size: 0.95rem; margin: 12px 0 2px; }
+.cs-body ul, .cs-body ol { margin: 4px 0 8px; padding-left: 1.3em; }
+.cs-body li { margin: 2px 0; }
+.cs-body li > ul, .cs-body li > ol { margin: 2px 0; }
+.cs-body strong { font-weight: 650; }
+.cs-body blockquote { margin: 8px 0; padding: 6px 12px; border-left: 3px solid var(--accent); background: var(--bg); border-radius: 0 8px 8px 0; }
+.cs-body blockquote p { margin: 4px 0; }
+.cs-body table { margin: 8px 0; font-size: 0.9rem; display: block; overflow-x: auto; }
+/* keep words whole in cells (the body's anywhere-wrapping would split „Oralna” into „Oral|na”); wide tables scroll sideways */
+.cs-body th, .cs-body td { overflow-wrap: normal; word-break: normal; hyphens: manual; }
+.cs-body th { background: var(--bg); }
+.cs-body code { font: 0.88em ui-monospace, monospace; background: var(--bg); padding: 1px 4px; border-radius: 4px; }
+.cs-body hr { border: none; border-top: 1px solid var(--line); margin: 16px 0; }
+@media print {
+  body { background: #fff; color: #000; }
+  .cs-topbar, footer, .cs-toc { display: none; }
+  .card { box-shadow: none; border: none; padding: 0; margin: 0 0 18px; }
+  .cs-section { break-before: page; }
+  .cs-section:first-of-type { break-before: auto; }
+}

@@ -1,6 +1,6 @@
 ---
 name: quiz-bank
-description: Generate or update the A–D quiz question bank (app/public/data) from the user's published Notion notes and their example questions, chapter by chapter. Use when the user asks to generate, update, or regenerate quiz questions, or runs /quiz-bank.
+description: Generate or update the A–D quiz question bank and the per-chapter markdown cheatsheets (app/public/data) from the user's published Notion notes and their example questions, chapter by chapter. Use when the user asks to generate, update, or regenerate quiz questions or cheatsheets, or runs /quiz-bank.
 ---
 
 # quiz-bank
@@ -51,10 +51,19 @@ Re-read each question against the notes and STYLE.md as a sceptical examiner:
 - Fix or drop questions clearly easier or harder than the examples.
 - If fewer than 3 distractors or 0 correct phrasings remain, fix the question or set `status: "flagged"`.
 
-## Step 5: Write + check
-1. Write `app/public/data/bank/<bookId>/<chapterId>.json` with `sourceHash`, then run `npm run build-index` to regenerate `app/public/data/index.json`.
+## Step 5: Cheatsheet (per chapter, always)
+Every chapter with questions also gets a cheatsheet: `app/public/data/cheatsheets/<bookId>/<chapterId>.md`. The app's „📄 Cheatsheet” button shows the cheatsheets of the selected chapters (and exams) as one rendered markdown page. When a chapter's questions are (re)generated or extended, write or update its cheatsheet in the same pass.
+- **Form:** convenient, keyword-style, encyclopedically condensed notes in Polish – not an A4-packed print sheet. Short bullets („hasło: wyjaśnienie”), **bold** key terms, tables for comparisons, `> ` blockquote for the one thing to remember. No prose paragraphs longer than 2 sentences.
+- **Headings:** start at `##` (sections) and `###` (subsections). Never `#` – the app prints the chapter title itself (check-bank errors on `# `).
+- **Content:** only what the chapter's notes say (same source-of-truth rule as questions), complete enough that every question in the chapter can be answered from it. Keep the user's terms (e.g. „przemieszczenie”, „reakcja upozorowana”). Include figures, numbers, study results and illustration content that questions ask about.
+- **Exams:** a tag-based exam („Zaliczenia”) may have its own cheatsheet at `cheatsheets/_zaliczenia/<examId>.md` (examId = slug of the tag, see index.json) covering exactly the exam's scope.
+- **Notatki AI / uzupełnienie AI chapters:** same rules; say at the top which pages or sources they cover.
+- `npm run build-index` sets `cheatsheet: true` on chapters/exams that have a file; check-bank errors on orphan files or flag mismatches and warns about chapters without a cheatsheet.
+
+## Step 6: Write + check
+1. Write `app/public/data/bank/<bookId>/<chapterId>.json` with `sourceHash` and its cheatsheet, then run `npm run build-index` to regenerate `app/public/data/index.json`.
 2. Run `npm run check-bank` and fix any errors.
-3. Report per chapter: number of questions created and flagged, plus 2 sample questions rendered as A–D.
+3. Report per chapter: number of questions created and flagged, plus 2 sample questions rendered as A–D, and whether the cheatsheet was written or updated.
 4. Ask before `git commit && git push`.
 
 ## Project notes (learned on first run, 2026-10-21)

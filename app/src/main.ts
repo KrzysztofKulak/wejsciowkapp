@@ -1,4 +1,5 @@
 import "./style.css";
+import { marked } from "marked";
 import type { Answered, ChapterFile, Index, IndexBook, IndexExam, Question, Rendered } from "./types";
 import { LABELS, assembleOptions, mulberry32, randomSeed, sampleQuestions } from "./quiz";
 
@@ -94,6 +95,22 @@ function loadChapter(bookId: string, chapterId: string): Promise<ChapterFile> {
   return chapterCache.get(key)!;
 }
 
+/** Markdown cheatsheets: data/cheatsheets/<bookId>/<chapterId>.md, exams under _zaliczenia/<examId>.md. */
+const cheatCache = new Map<string, Promise<string>>();
+function loadCheatsheet(path: string): Promise<string> {
+  if (!cheatCache.has(path)) {
+    cheatCache.set(
+      path,
+      fetch(`${BASE}data/cheatsheets/${path}.md`, { cache: "no-cache" }).then((r) => {
+        if (!r.ok) throw new Error(`${path}.md: HTTP ${r.status}`);
+        return r.text();
+      }),
+    );
+  }
+  return cheatCache.get(path)!;
+}
+type CheatItem = { path: string; book: string; title: string };
+
 // ---------- helpers ----------
 function h<K extends keyof HTMLElementTagNameMap>(tag: K, attrs: Record<string, any> = {}, ...children: (Node | string | null | undefined | false)[]) {
   const el = document.createElement(tag);
@@ -127,9 +144,16 @@ function setKeys(fn: ((e: KeyboardEvent) => void) | null) {
 let index: Index;
 const titles = new Map<string, { book: string; chapter: string }>();
 
+// The cheatsheet view gets its own history entry, so the browser/phone back button returns to the setup.
+let inCheatsheet = false;
+window.addEventListener("popstate", () => {
+  if (inCheatsheet) setupView();
+});
+
 // ---------- views ----------
 function setupView(error?: string) {
   setKeys(null);
+  inCheatsheet = false;
   const saved = lsGet<Selection>(LS_SEL, { chapters: [], count: 10, weak: false, fun: true });
   const available = new Set(index.books.flatMap((b) => b.chapters.map((c) => `${b.id}/${c.id}`)));
   const selected = new Set(saved.chapters.filter((k) => available.has(k)));
@@ -141,6 +165,7 @@ function setupView(error?: string) {
   const countOut = h("output", {}, "0");
   const range = h("input", { type: "range", min: 1, max: 1, value: saved.count }) as HTMLInputElement;
   const startBtn = h("button", { class: "primary", onClick: () => start() }, "Start") as HTMLButtonElement;
+  const cheatBtn = h("button", { class: "secondary", onClick: () => openCheatsheet() }, "📄 Cheatsheet") as HTMLButtonElement;
   const weakChk = h("input", { type: "checkbox", checked: saved.weak && hasStats, disabled: !hasStats }) as HTMLInputElement;
   const funChk = h("input", { type: "checkbox", checked: saved.fun !== false }) as HTMLInputElement;
 
@@ -167,6 +192,10 @@ function setupView(error?: string) {
     countOut.textContent = max === 0 ? "0" : range.value;
     maxLabel.textContent = max === 0 ? "Maksymalnie: 0 – zaznacz zakres" : `Maksymalnie: ${max}`;
     startBtn.disabled = max === 0;
+    const cheats = cheatItems().items.length;
+    cheatBtn.disabled = cheats === 0;
+    cheatBtn.textContent = cheats ? `📄 Cheatsheet (${cheats})` : "📄 Cheatsheet";
+    cheatBtn.title = cheats ? "" : "Zaznacz zakres, który ma ściągawkę";
     for (const b of index.books) {
       const all = b.chapters.every((c) => selected.has(`${b.id}/${c.id}`));
       const some = b.chapters.some((c) => selected.has(`${b.id}/${c.id}`));
@@ -334,6 +363,28 @@ function setupView(error?: string) {
     );
   }
 
+  /** Cheatsheets for the current selection: exams first, then chapters in index order; chapters without one are listed as missing. */
+  function cheatItems() {
+    const items: CheatItem[] = [];
+    const missing: string[] = [];
+    for (const e of exams)
+      if (selectedExams.has(e.id)) {
+        if (e.cheatsheet) items.push({ path: `_zaliczenia/${e.id}`, book: "Zaliczenie", title: e.title });
+        else missing.push(e.title);
+      }
+    for (const b of index.books)
+      for (const c of b.chapters)
+        if (selected.has(`${b.id}/${c.id}`)) {
+          if (c.cheatsheet) items.push({ path: `${b.id}/${c.id}`, book: b.title, title: c.title });
+          else missing.push(`${b.title} · ${c.title}`);
+        }
+    return { items, missing };
+  }
+  function openCheatsheet() {
+    const { items, missing } = cheatItems();
+    if (items.length) cheatsheetView(items, missing);
+  }
+
   async function start() {
     const chapters = [...selected];
     const chosenExams = exams.filter((e) => selectedExams.has(e.id));
@@ -388,9 +439,47 @@ function setupView(error?: string) {
       h("label", { class: "chk" }, funChk, h("span", {}, "Enhanced learning techniques", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
     ),
     startBtn,
+    cheatBtn,
     h("footer", { class: "muted" }, "Klawisze: 1–4 / A–D wybierają odpowiedź, Enter idzie dalej."),
   );
   refresh();
+}
+
+async function cheatsheetView(items: CheatItem[], missing: string[]) {
+  setKeys(null);
+  if (!inCheatsheet) history.pushState({ view: "cheatsheet" }, "", "#cheatsheet");
+  inCheatsheet = true;
+  const back = () => (location.hash === "#cheatsheet" ? history.back() : setupView());
+  const topbar = h(
+    "div",
+    { class: "topbar cs-topbar" },
+    h("button", { class: "ghost", onClick: back }, "← Zakres"),
+    h("span", { class: "title" }, "📄 Ściągawka"),
+    h("button", { class: "ghost", onClick: () => window.print() }, "Drukuj"),
+  );
+  render(topbar, h("p", { class: "muted" }, "Ładowanie…"));
+  const texts = await Promise.allSettled(items.map((it) => loadCheatsheet(it.path)));
+  if (!inCheatsheet) return; // user went back while loading
+  const anchor = (i: number) => `cs-${i}`;
+  const toc =
+    items.length > 1
+      ? h("nav", { class: "card cs-toc" }, h("p", { class: "muted", style: "margin-top:0" }, "Spis treści"),
+          h("ol", {}, ...items.map((it, i) => h("li", {}, h("a", { href: `#${anchor(i)}`, onClick: (e: Event) => { e.preventDefault(); document.getElementById(anchor(i))?.scrollIntoView({ behavior: "smooth" }); } }, it.title), h("span", { class: "muted" }, ` · ${it.book}`)))))
+      : "";
+  const sections = items.map((it, i) => {
+    const body = h("div", { class: "cs-body" });
+    const t = texts[i];
+    if (t.status === "fulfilled") body.innerHTML = marked.parse(t.value, { async: false }) as string;
+    else body.append(h("p", { class: "error" }, `Nie udało się wczytać ściągawki: ${(t.reason as Error).message}`));
+    return h("section", { class: "card cs-section", id: anchor(i) }, h("p", { class: "muted cs-book" }, it.book), h("h1", { class: "cs-title" }, it.title), body);
+  });
+  render(
+    topbar,
+    toc,
+    ...sections,
+    missing.length ? h("div", { class: "card cs-missing" }, h("p", { class: "muted", style: "margin:0" }, `Bez ściągawki (${missing.length}): ${missing.join("; ")}`)) : "",
+    h("footer", {}, h("button", { class: "ghost muted", onClick: back }, "← Wróć do wyboru zakresu")),
+  );
 }
 
 function quizView(questions: Question[], rng: () => number, seed: number, fun = true) {
@@ -527,6 +616,7 @@ function summaryView(questions: Question[], answers: Answered[], seed: number, f
 (async () => {
   render(h("p", { class: "muted" }, "Ładowanie…"));
   try {
+    if (location.hash === "#cheatsheet") history.replaceState(null, "", location.pathname + location.search); // reload lands on the setup
     index = await loadIndex();
     for (const b of index.books) for (const c of b.chapters) titles.set(`${b.id}/${c.id}`, { book: b.title, chapter: c.title });
     setupView();

@@ -57,17 +57,20 @@
         {
           "id": "rozdzial-1",
           "title": "Rozdział 1, str. 12-19",
-          "questionCount": 25
+          "questionCount": 25,
+          "cheatsheet": true
         },
         {
           "id": "rozdzial-13",
           "title": "Rozdz. 13 – Teorie psychodynamiczne (Freud), s. 578–584",
-          "questionCount": 70
+          "questionCount": 70,
+          "cheatsheet": true
         },
         {
           "id": "behawioryzm-notatki-ai",
           "title": "Behawioryzm – notatki AI (Rozdz. 6, s. 226–244; Rozdz. 15, s. 677–688)",
-          "questionCount": 171
+          "questionCount": 171,
+          "cheatsheet": true
         }
       ]
     },
@@ -78,7 +81,8 @@
         {
           "id": "rozdzial-2",
           "title": "Rozdział 2",
-          "questionCount": 31
+          "questionCount": 31,
+          "cheatsheet": true
         }
       ]
     },
@@ -89,12 +93,14 @@
         {
           "id": "slajdy-1-34",
           "title": "slajdy 1–34",
-          "questionCount": 39
+          "questionCount": 39,
+          "cheatsheet": true
         },
         {
           "id": "mechanizmy-obronne-uzupelnienie-ai",
           "title": "Mechanizmy obronne – uzupełnienie AI (humor, anulowanie, wycofanie w bierność)",
-          "questionCount": 13
+          "questionCount": 13,
+          "cheatsheet": true
         }
       ]
     },
@@ -105,7 +111,8 @@
         {
           "id": "slajdy-1-20",
           "title": "slajdy 1–20",
-          "questionCount": 34
+          "questionCount": 34,
+          "cheatsheet": true
         }
       ]
     },
@@ -116,22 +123,26 @@
         {
           "id": "wyklad-1",
           "title": "Wykład 1: Wprowadzenie do wprowadzenia",
-          "questionCount": 4
+          "questionCount": 4,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-2",
           "title": "Wykład 2: Pytania, jakie stawia psychologia",
-          "questionCount": 10
+          "questionCount": 10,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-3",
           "title": "Wykład 3. Myślenie naukowe i myślenie potoczne",
-          "questionCount": 13
+          "questionCount": 13,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-4",
           "title": "Wykład 4. Jak prowadzi się badania w psychologii?",
-          "questionCount": 32
+          "questionCount": 32,
+          "cheatsheet": true
         }
       ]
     },
@@ -142,12 +153,14 @@
         {
           "id": "rozdzial-5",
           "title": "Rozdział 5",
-          "questionCount": 55
+          "questionCount": 55,
+          "cheatsheet": true
         },
         {
           "id": "rozdzial-6",
           "title": "Rozdział 6",
-          "questionCount": 50
+          "questionCount": 50,
+          "cheatsheet": true
         }
       ]
     },
@@ -158,32 +171,38 @@
         {
           "id": "wyklad-1",
           "title": "Wykład 1 – Czym jest psychologia społeczna",
-          "questionCount": 18
+          "questionCount": 18,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-1-cz-2",
           "title": "Wykład 1 (cz. 2)",
-          "questionCount": 34
+          "questionCount": 34,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-2",
           "title": "Wykład 2 – Grupy i ich funkcjonowanie",
-          "questionCount": 38
+          "questionCount": 38,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-3",
           "title": "Wykład 3 – Ja i inni. Atrybucja",
-          "questionCount": 22
+          "questionCount": 22,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-4",
           "title": "Wykład 4. Ja i inni. Schematy wnioskować o cechach",
-          "questionCount": 13
+          "questionCount": 13,
+          "cheatsheet": true
         },
         {
           "id": "wyklad-5",
           "title": "Wykład 5. Ja i inni",
-          "questionCount": 11
+          "questionCount": 11,
+          "cheatsheet": true
         }
       ]
     },
@@ -194,7 +213,8 @@
         {
           "id": "rozdzial-3",
           "title": "Rozdział 3, str. 57–90",
-          "questionCount": 53
+          "questionCount": 53,
+          "cheatsheet": true
         }
       ]
     },
@@ -205,7 +225,8 @@
         {
           "id": "str-34-63",
           "title": "str. 34-63",
-          "questionCount": 13
+          "questionCount": 13,
+          "cheatsheet": true
         }
       ]
     },
@@ -216,7 +237,8 @@
         {
           "id": "str-152-187",
           "title": "str. 152-187",
-          "questionCount": 35
+          "questionCount": 35,
+          "cheatsheet": true
         }
       ]
     },
@@ -227,7 +249,8 @@
         {
           "id": "str-33-44",
           "title": "str. 33-44",
-          "questionCount": 12
+          "questionCount": 12,
+          "cheatsheet": true
         }
       ]
     },
@@ -238,22 +261,26 @@
         {
           "id": "organizacja-ludzkiego-ciala",
           "title": "Organizacja ludzkiego ciała",
-          "questionCount": 16
+          "questionCount": 16,
+          "cheatsheet": true
         },
         {
           "id": "pobudliwosc",
           "title": "Pobudliwość",
-          "questionCount": 54
+          "questionCount": 54,
+          "cheatsheet": true
         },
         {
           "id": "uklad-ruchu-i-fizjologia-miesni",
           "title": "Układ ruchu i fizjologia mięśni",
-          "questionCount": 25
+          "questionCount": 25,
+          "cheatsheet": true
         },
         {
           "id": "uklad-nerwowy",
           "title": "Układ nerwowy",
-          "questionCount": 27
+          "questionCount": 27,
+          "cheatsheet": true
         }
       ]
     }
@@ -290,7 +317,8 @@
           "chapterId": "rozdzial-2",
           "questionCount": 31
         }
-      ]
+      ],
+      "cheatsheet": true
     }
   ]
 }

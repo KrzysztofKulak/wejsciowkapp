@@ -2,11 +2,14 @@
  * Rebuilds app/public/data/index.json from the bank files, ordered like the
  * notes outline (books/chapters in source order; bank files without notes go last).
  */
-import { readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { resolve, join } from "node:path";
 import { loadNotes, splitAll, root, slugify, config } from "./split-notes.ts";
 
 const bankDir = resolve(root, "app/public/data/bank");
+// Cheatsheets: markdown notes per chapter (cheatsheets/<bookId>/<chapterId>.md) and per exam (cheatsheets/_zaliczenia/<examId>.md).
+const cheatDir = resolve(root, "app/public/data/cheatsheets");
+const hasCheat = (...parts: string[]) => existsSync(join(cheatDir, ...parts) + ".md");
 type Entry = { bookId: string; bookTitle?: string; chapterId: string; chapterTitle: string; count: number; tags: Map<string, number> };
 const entries: Entry[] = [];
 for (const bookId of readdirSync(bankDir))
@@ -19,7 +22,7 @@ for (const bookId of readdirSync(bankDir))
   }
 
 const outline = splitAll(loadNotes());
-const books: { id: string; title: string; chapters: { id: string; title: string; questionCount: number }[] }[] = [];
+const books: { id: string; title: string; chapters: { id: string; title: string; questionCount: number; cheatsheet?: boolean }[] }[] = [];
 const used = new Set<Entry>();
 for (const b of outline) {
   const chapters = [];
@@ -27,7 +30,7 @@ for (const b of outline) {
     const e = entries.find((x) => x.bookId === b.id && x.chapterId === c.id);
     if (!e || e.count === 0) continue;
     used.add(e);
-    chapters.push({ id: c.id, title: c.title, questionCount: e.count }); // outline title wins: it carries notes like "str. 12-19"
+    chapters.push({ id: c.id, title: c.title, questionCount: e.count, ...(hasCheat(b.id, c.id) && { cheatsheet: true }) }); // outline title wins: it carries notes like "str. 12-19"
   }
   if (chapters.length) books.push({ id: b.id, title: b.title, chapters });
 }
@@ -35,7 +38,7 @@ for (const e of entries) {
   if (used.has(e) || e.count === 0) continue;
   let b = books.find((x) => x.id === e.bookId);
   if (!b) { b = { id: e.bookId, title: e.bookTitle ?? e.bookId, chapters: [] }; books.push(b); }
-  b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count });
+  b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count, ...(hasCheat(e.bookId, e.chapterId) && { cheatsheet: true }) });
 }
 // Display order: by subject (config order), then within a subject: books from notes, slide presentations, lectures.
 const group = (id: string) => (id.startsWith("wyklady") ? 2 : id.startsWith("prezentacja") ? 1 : 0);
@@ -59,7 +62,7 @@ const semesters = semestersCfg
 for (const s of subjects) if (!semOf.has(s.id)) console.warn(`WARN subject "${s.id}" has no semester in quiz.config.json → shown under „Inne”`);
 
 // "Zaliczenia": questions grouped by tag across all sources.
-const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[] }[] = [];
+const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[]; cheatsheet?: boolean }[] = [];
 for (const e of entries)
   for (const [tag, n] of e.tags) {
     let ex = exams.find((x) => x.tag === tag);
@@ -68,5 +71,6 @@ for (const e of entries)
     ex.sources.push({ bookId: e.bookId, chapterId: e.chapterId, questionCount: n });
   }
 exams.sort((a, b) => a.title.localeCompare(b.title, "pl"));
+for (const ex of exams) if (hasCheat("_zaliczenia", ex.id)) ex.cheatsheet = true;
 writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ semesters, subjects, books, exams }, null, 2) + "\n");
-console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${semesters.length} semester(s), ${subjects.length} subject(s), ${exams.length} exam tag(s)`);
+console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${semesters.length} semester(s), ${subjects.length} subject(s), ${exams.length} exam tag(s), ${books.reduce((n, b) => n + b.chapters.filter((c) => c.cheatsheet).length, 0) + exams.filter((e) => e.cheatsheet).length} cheatsheet(s)`);

@@ -21,10 +21,12 @@ export type ChapterFile = {
   questions: Question[];
 };
 
-export type IndexChapter = { id: string; title: string; questionCount: number };
+/** `cheatsheet`: a markdown note exists at data/cheatsheets/<bookId>/<chapterId>.md */
+export type IndexChapter = { id: string; title: string; questionCount: number; cheatsheet?: boolean };
 export type IndexBook = { id: string; title: string; chapters: IndexChapter[] };
 export type IndexExamSource = { bookId: string; chapterId: string; questionCount: number };
-export type IndexExam = { id: string; title: string; tag: string; questionCount: number; sources: IndexExamSource[] };
+/** `cheatsheet`: a markdown note exists at data/cheatsheets/_zaliczenia/<id>.md */
+export type IndexExam = { id: string; title: string; tag: string; questionCount: number; sources: IndexExamSource[]; cheatsheet?: boolean };
 export type IndexSubject = { id: string; title: string; books: string[] };
 export type IndexSemester = { id: string; title: string; subjects: string[] };
 export type Index = { books: IndexBook[]; exams?: IndexExam[]; subjects?: IndexSubject[]; semesters?: IndexSemester[] };
