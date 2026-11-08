@@ -43,6 +43,12 @@
       "title": "Wykłady – Biologiczne podstawy zachowań",
       "id": "wyklady-biologiczne-podstawy-zachowan",
       "chapterLevel": 1
+    },
+    {
+      "url": "https://spectacled-bookcase-f5d.notion.site/wiczenia-3ef75c03f28a8074b82ec2800965539e",
+      "title": "Ćwiczenia – Biologiczne podstawy zachowań",
+      "id": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterLevel": 1
     }
   ],
   "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+|str\\.\\s*\\d+(?:\\s*[–-]\\s*\\d+)?|slajdy\\s+\\d+(?:\\s*[–-]\\s*\\d+)?)",
@@ -56,7 +62,8 @@
     "wyklady-wprowadzenie-do-psychologii-historia-i-wspolczesnosc": "wyklady-historia-i-wspolczesnosc",
     "prezentacja-historia-psychologii-psychologia-jako-nauka": "prezentacja-psychologia-jako-nauka",
     "prezentacja-psychoanaliza-w-wydaniu-freudowskim": "prezentacja-psychoanaliza-freudowska",
-    "wyklady-biologiczne-podstawy-zachowan": "wyklady-biologiczne-podstawy-zachowan"
+    "wyklady-biologiczne-podstawy-zachowan": "wyklady-biologiczne-podstawy-zachowan",
+    "cwiczenia-biologiczne-podstawy-zachowan": "cwiczenia-biologiczne-podstawy-zachowan"
   },
   "subjects": [
     {
@@ -92,7 +99,8 @@
       "id": "biologiczne-podstawy-zachowan",
       "title": "Biologiczne podstawy zachowań",
       "books": [
-        "wyklady-biologiczne-podstawy-zachowan"
+        "wyklady-biologiczne-podstawy-zachowan",
+        "cwiczenia-biologiczne-podstawy-zachowan"
       ]
     }
   ],

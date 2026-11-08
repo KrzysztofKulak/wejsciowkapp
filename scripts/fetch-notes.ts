@@ -55,7 +55,7 @@ let headings = 0;
 
 function richText(rt?: RichText): string {
   if (!rt) return "";
-  return rt
+  const text = rt
     .map(([text, decos]) => {
       if (text === "⁍") return ""; // inline equation placeholder
       if (text === "‣") return ""; // mention placeholder
@@ -69,6 +69,12 @@ function richText(rt?: RichText): string {
       return t;
     })
     .join("");
+  if (text.trim()) return text;
+  // A line that is only a date mention (a day heading like "@4 października" in day-by-day notes) becomes "4.10.2026".
+  // Dates next to other text stay dropped, so existing headings (and the chapter ids derived from them) don't change.
+  const date = rt.flatMap(([, decos]) => decos ?? []).find((d) => d[0] === "d")?.[1]?.start_date;
+  const m = typeof date === "string" && date.match(/^(\d{4})-(\d{2})-(\d{2})/);
+  return m ? `${+m[3]}.${m[2]}.${m[1]}` : text;
 }
 
 function title(b: Block): string {
