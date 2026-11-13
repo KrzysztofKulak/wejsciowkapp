@@ -45,6 +45,7 @@
       "id": "biologiczne-podstawy-zachowan",
       "title": "Biologiczne podstawy zachowań",
       "books": [
+        "prezentacja-neuronalne-podloze-stresu",
         "wyklady-biologiczne-podstawy-zachowan"
       ]
     }
@@ -262,6 +263,18 @@
           "id": "str-33-44",
           "title": "str. 33-44",
           "questionCount": 12,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu",
+      "title": "Prezentacja: Neuronalne podłoże stresu",
+      "chapters": [
+        {
+          "id": "slajdy-1-44",
+          "title": "slajdy 1–44",
+          "questionCount": 62,
           "cheatsheet": true
         }
       ]

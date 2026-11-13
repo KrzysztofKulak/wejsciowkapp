@@ -1,0 +1,1439 @@
+{
+  "bookId": "prezentacja-neuronalne-podloze-stresu",
+  "chapterId": "slajdy-1-44",
+  "chapterTitle": "slajdy 1–44",
+  "sourceHash": "e7f1d3a5755a1bd75a68052d55168ef2116ae19b",
+  "questions": [
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-01",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Hans Selye (1979) definiował stres jako:"
+      ],
+      "correct": [
+        "niespecyficzną reakcję organizmu na wszelkie stawiane mu wymagania"
+      ],
+      "distractors": [
+        "specyficzną reakcję organizmu na konkretny rodzaj zagrożenia",
+        "reakcję na rozbieżność stanu aktualnego i oczekiwanego",
+        "zdarzenia interpretowane jako zagrażające jednostce",
+        "wyuczoną reakcję lękową na bodźce kojarzone z bólem",
+        "reakcję wyłącznie psychiczną, bez udziału ciała",
+        "stan obniżonej czujności po długim wysiłku"
+      ],
+      "explanation": "Selye: stres = niespecyficzna reakcja organizmu na wszelkie wymagania. Landowski: reakcja na rozbieżność stanu aktualnego i oczekiwanego. McEwen: zdarzenia interpretowane jako zagrażające.",
+      "sourceExcerpt": "slajd 6: Niespecyficzna reakcja organizmu na wszelkie pojawiające się przed nim wymagania. Selye (1979)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-02",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Według definicji Landowskiego (2007) stres to reakcja na informację o:"
+      ],
+      "correct": [
+        "rozbieżności stanu aktualnego i oczekiwanego"
+      ],
+      "distractors": [
+        "zgodności aktualnego stanu środowiska z oczekiwanym",
+        "zmianie natężenia bodźca zmysłowego",
+        "obecności innych ludzi w otoczeniu",
+        "braku nagrody za wykonane zadanie",
+        "przyjemnym, ale nieoczekiwanym zdarzeniu",
+        "spadku poziomu cukru we krwi"
+      ],
+      "explanation": "Landowski: reakcja na informację o rozbieżności między aktualnym a oczekiwanym stanem środowiska (wewnętrznego lub zewnętrznego), zagrażającej integralności organizmu; ogólnoustrojowa, niespecyficzna.",
+      "sourceExcerpt": "slajd 6: Reakcja na informację o rozbieżności pomiędzy aktualnym a oczekiwanym stanem środowiska wewnętrznego lub zewnętrznego… Landowski (2007)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-03",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W ujęciu McEwena (2000) stres to:"
+      ],
+      "correct": [
+        "zdarzenia interpretowane jako zagrażające, wywołujące reakcje fizjologiczne i behawioralne"
+      ],
+      "distractors": [
+        "niespecyficzna reakcja organizmu na wszelkie stawiane mu wymagania",
+        "reakcja na rozbieżność stanu aktualnego i oczekiwanego środowiska",
+        "zdarzenia przyjemne, wywołujące wyłącznie reakcje fizjologiczne",
+        "obiektywne zagrożenia, niezależne od ich interpretacji przez jednostkę",
+        "długotrwały wzrost poziomu dopaminy i serotoniny w mózgu",
+        "zaburzenie pracy żołądka wywołane bakteriami Helicobacter pylori"
+      ],
+      "explanation": "McEwen (2000): stres to zdarzenia interpretowane jako zagrażające jednostce, wywołujące reakcje fizjologiczne i behawioralne – liczy się interpretacja.",
+      "sourceExcerpt": "slajd 6: Zdarzenia, które są interpretowane jako zagrażające jednostce i które wywołują reakcje fizjologiczne i behawioralne. McEwen (2000)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-04",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Reakcja stresowa w stosunku do wywołującego ją bodźca ma charakter:"
+      ],
+      "correct": [
+        "niespecyficzny"
+      ],
+      "distractors": [
+        "specyficzny",
+        "ściśle dopasowany",
+        "lokalny",
+        "wyłącznie psychiczny",
+        "wyłącznie świadomy",
+        "proporcjonalny"
+      ],
+      "explanation": "Landowski: stres ma charakter ogólnoustrojowy, (psycho)biologiczny i niespecyficzny w stosunku do bodźca.",
+      "sourceExcerpt": "slajd 6: ma charakter ogólnoustrojowy, biologiczny/psychobiologiczny, niespecyficzny w stosunku do wywołującego go bodźca/informacji",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-05",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura mózgowia, która w reakcji stresowej rozpoznaje zagrożenie, to:"
+      ],
+      "correct": [
+        "ciało migdałowate"
+      ],
+      "distractors": [
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "miejsce sinawe",
+        "przysadka",
+        "kora nadnerczy"
+      ],
+      "explanation": "Ciało migdałowate rozpoznaje zagrożenie i nadaje mu znaczenie emocjonalne.",
+      "sourceExcerpt": "slajd 9: 1. CIAŁO MIGDAŁOWATE – Rozpoznaje zagrożenie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-06",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura uruchamiająca w stresie reakcję hormonalną przez oś HPA to:"
+      ],
+      "correct": [
+        "podwzgórze"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "miejsce sinawe",
+        "przysadka"
+      ],
+      "explanation": "Podwzgórze uruchamia reakcję hormonalną przez oś stresu (HPA).",
+      "sourceExcerpt": "slajd 10: 2. PODWZGÓRZE – Uruchamia reakcję hormonalną przez oś stresu (HPA)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-07",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura, która w reakcji stresowej pomaga ocenić kontekst i przywołać coś z pamięci, to:"
+      ],
+      "correct": [
+        "hipokamp"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "kora przedczołowa",
+        "wyspa",
+        "miejsce sinawe",
+        "przysadka"
+      ],
+      "explanation": "Hipokamp – ocena kontekstu, przywołanie z pamięci; dzięki temu pomaga trafnie ocenić sytuację.",
+      "sourceExcerpt": "slajd 11: 3. HIPOKAMP – Pomaga ocenić kontekst i przywołać coś z pamięci",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-08",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Ocena sytuacji, analiza konsekwencji i kontrola sytuacji w reakcji stresowej to zadania:"
+      ],
+      "correct": [
+        "kory przedczołowej"
+      ],
+      "distractors": [
+        "ciała migdałowatego",
+        "podwzgórza",
+        "hipokampa",
+        "wyspy",
+        "miejsca sinawego",
+        "przysadki"
+      ],
+      "explanation": "Kora przedczołowa: ocena sytuacji, analiza konsekwencji, kontrola.",
+      "sourceExcerpt": "slajd 12: 4. KORA PRZEDCZOŁOWA – Odpowiada za ocenę sytuacji, analizuje konsekwencje, kontroluje sytuację",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-09",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura, która pozwala poczuć, co dzieje się w ciele, to:"
+      ],
+      "correct": [
+        "wyspa"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "miejsce sinawe",
+        "przysadka"
+      ],
+      "explanation": "Wyspa pozwala poczuć, co dzieje się w ciele (odczucia z ciała w stresie).",
+      "sourceExcerpt": "slajd 13: 5. WYSPA – Pozwala poczuć, co dzieje się w ciele",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-10",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura mózgowia produkująca noradrenalinę to:"
+      ],
+      "correct": [
+        "miejsce sinawe"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "przysadka"
+      ],
+      "explanation": "Miejsce sinawe produkuje noradrenalinę; to główny ośrodek ośrodkowego układu noradrenergicznego.",
+      "sourceExcerpt": "slajd 14: 6. MIEJSCE SINAWE – Produkuje noradrenalinę",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-11",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktura uwalniająca w stresie hormon ACTH to:"
+      ],
+      "correct": [
+        "przysadka"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "miejsce sinawe"
+      ],
+      "explanation": "Przysadka (pod wpływem kortykoliberyny z podwzgórza) uwalnia ACTH.",
+      "sourceExcerpt": "slajd 15: 7. PRZYSADKA – Uwalnia ACTH",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-12",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Głównym ośrodkiem ośrodkowego układu noradrenergicznego jest:"
+      ],
+      "correct": [
+        "miejsce sinawe"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "przysadka"
+      ],
+      "explanation": "Ośrodkowy układ noradrenergiczny: sieć neuronów kluczowa dla szybkiej reakcji, z miejscem sinawym jako głównym ośrodkiem.",
+      "sourceExcerpt": "slajd 21: Sieć neuronów w mózgu, kluczowa dla szybkiej reakcji w stresie, z miejscem sinawym jako głównym ośrodkiem.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-13",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Ośrodkowy układ noradrenergiczny aktywuje oś HPA i obwodowy układ współczulny w ten sposób, że:"
+      ],
+      "correct": [
+        "oś HPA – bezpośrednio (neurony do podwzgórza), układ współczulny – pośrednio"
+      ],
+      "distractors": [
+        "oś HPA – pośrednio, układ współczulny – bezpośrednio (neurony do rdzenia)",
+        "oba – wyłącznie pośrednio, przez krew i hormony",
+        "oba – wyłącznie bezpośrednio, przez neurony do nadnerczy",
+        "oś HPA – bezpośrednio, a układu współczulnego wcale nie aktywuje",
+        "układ współczulny – bezpośrednio, a osi HPA wcale nie aktywuje",
+        "oś HPA – przez przysadkę, układ współczulny – przez hipokamp"
+      ],
+      "explanation": "Układ noradrenergiczny przez neurony biegnące bezpośrednio do podwzgórza aktywizuje oś HPA, a pośrednio obwodowy układ współczulny.",
+      "sourceExcerpt": "slajd 21: Poprzez neurony biegnące bezpośrednio do podwzgórza aktywizuje oś HPA, a pośrednio obwodowy układ współczulny.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-14",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Ośrodkowy układ noradrenergiczny i oś HPA są połączone:"
+      ],
+      "correct": [
+        "dwukierunkowo – wzajemnie wzmacniają reakcję stresową",
+        "obustronnie, więc nawzajem nasilają reakcję stresową"
+      ],
+      "distractors": [
+        "jednokierunkowo – oś HPA hamuje układ noradrenergiczny",
+        "jednokierunkowo – układ noradrenergiczny hamuje oś HPA",
+        "dwukierunkowo – wzajemnie wygaszają reakcję stresową",
+        "wcale – działają całkowicie niezależnie od siebie",
+        "wyłącznie przez rdzeń nadnerczy i adrenalinę",
+        "tylko w czasie snu, gdy kortyzol jest najniższy"
+      ],
+      "explanation": "Połączenie z osią HPA jest dwukierunkowe: oba układy działają na siebie i wzmacniają reakcję stresową.",
+      "sourceExcerpt": "slajd 21: Przez to, że jest połączony z osią HPA dwukierunkowo, oba te układy działają na siebie wzajemnie i wzmacniają reakcję stresową.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-15",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Pobudzenie ośrodkowego układu noradrenergicznego w stresie:"
+      ],
+      "correct": [
+        "poprawia czujność i zwiększa selektywność uwagi"
+      ],
+      "distractors": [
+        "obniża czujność i rozprasza uwagę",
+        "uruchamia odpoczynek i trawienie",
+        "hamuje wydzielanie kortyzolu przez nadnercza",
+        "zmniejsza selektywność uwagi, ale poprawia pamięć",
+        "działa dopiero po ok. 20–30 minutach",
+        "osłabia reakcję walki/ucieczki"
+      ],
+      "explanation": "Układ noradrenergiczny działa prawie natychmiast, podnosi czujność i zwiększa selektywność uwagi.",
+      "sourceExcerpt": "slajd 21: Zaczyna działać prawie natychmiast, podnosząc czujność. … Poprawia czujność i zwiększa selektywność uwagi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-16",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Ciało migdałowate nadaje stresorowi znaczenie emocjonalne na podstawie:"
+      ],
+      "correct": [
+        "wcześniejszych, zwłaszcza negatywnych doświadczeń"
+      ],
+      "distractors": [
+        "wyłącznie siły bodźca w danej chwili",
+        "wcześniejszych, zwłaszcza pozytywnych doświadczeń",
+        "poziomu cukru we krwi",
+        "informacji z przysadki o stężeniu ACTH",
+        "wrodzonego wzorca, niezależnego od doświadczeń",
+        "polecenia z rdzenia nadnerczy"
+      ],
+      "explanation": "Landowski: ciało migdałowate rozpoznaje stresor i nadaje mu znaczenie emocjonalne na podstawie wcześniejszych, zwłaszcza negatywnych doświadczeń.",
+      "sourceExcerpt": "slajd 20: Ciało migdałowate rozpoznaje stresor i nadaje mu znaczenie emocjonalne na podstawie wcześniejszych, zwłaszcza negatywnych doświadczeń",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-17",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Ciało migdałowate nasila reakcję stresową, wzajemnie wzmacniając się z:"
+      ],
+      "correct": [
+        "podwzgórzem i miejscem sinawym"
+      ],
+      "distractors": [
+        "hipokampem i korą przedczołową",
+        "wyspą i przysadką",
+        "korą nadnerczy i przysadką",
+        "układem przywspółczulnym",
+        "hipokampem i wyspą",
+        "korą przedczołową i przysadką"
+      ],
+      "explanation": "Ciało migdałowate wzajemnie wzmacnia się z podwzgórzem i miejscem sinawym; hipokamp pomaga trafnie ocenić sytuację.",
+      "sourceExcerpt": "slajd 20: a następnie wzajemnie wzmacnia się z podwzgórzem i miejscem sinawym, nasilając reakcję stresową",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-18",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W osi stresu (HPA) podwzgórze uwalnia:"
+      ],
+      "correct": [
+        "kortykoliberynę (CRH)",
+        "kortykoliberynę"
+      ],
+      "distractors": [
+        "kortykotropinę (ACTH)",
+        "kortyzol",
+        "adrenalinę",
+        "noradrenalinę",
+        "acetylocholinę",
+        "serotoninę"
+      ],
+      "explanation": "Oś HPA: podwzgórze → kortykoliberyna (CRH) → przysadka → kortykotropina (ACTH) → kora nadnerczy → kortyzol.",
+      "sourceExcerpt": "slajd 22: podwzgórze uwalnia KORTYKOLIBERYNĘ; Przysadka w reakcji na kortykoliberynę uwalnia hormon KORTYKOTROPINĘ (ACTH)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-19",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Kortykotropina (ACTH) uwalniana przez przysadkę pobudza:"
+      ],
+      "correct": [
+        "korę nadnerczy do produkcji kortyzolu"
+      ],
+      "distractors": [
+        "rdzeń nadnerczy do uwalniania adrenaliny",
+        "podwzgórze do produkcji kortykoliberyny",
+        "miejsce sinawe do produkcji noradrenaliny",
+        "hipokamp do zatrzymania osi HPA",
+        "żołądek do wydzielania soków",
+        "jelita do produkcji serotoniny"
+      ],
+      "explanation": "ACTH dociera do nadnerczy i pobudza ich korę do produkcji kortyzolu (rdzeń nadnerczy wydziela adrenalinę w osi SAM).",
+      "sourceExcerpt": "slajd 22: ACTH dociera do nadnerczy, co pobudza je do produkcji KORTYZOLU. Kortykotropina (ACTH) – hormon pobudzający (-tropina) korę nadnerczy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-20",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Końcówka „-liberyna” w nazwie hormonu (np. kortykoliberyna) oznacza hormon:"
+      ],
+      "correct": [
+        "wyzwalający inny hormon",
+        "wyzwalający (uwalniający) inny hormon"
+      ],
+      "distractors": [
+        "pobudzający gruczoł do pracy",
+        "hamujący wydzielanie hormonu",
+        "rozkładający białka",
+        "działający wyłącznie w jelitach",
+        "magazynowany w kolbkach synaptycznych",
+        "produkowany przez rdzeń nadnerczy"
+      ],
+      "explanation": "-liberyna – hormon wyzwalający (kortykoliberyna wyzwala kortykotropinę); -tropina – hormon pobudzający (kortykotropina pobudza korę nadnerczy).",
+      "sourceExcerpt": "slajd 22: Kortykoliberyna – hormon i neuroprzekaźnik wyzwalający (-liberyna) kortykotropinę.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-21",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Końcówka „-tropina” w nazwie hormonu (np. kortykotropina) oznacza hormon:"
+      ],
+      "correct": [
+        "pobudzający gruczoł do pracy",
+        "pobudzający określony gruczoł"
+      ],
+      "distractors": [
+        "wyzwalający inny hormon",
+        "hamujący wydzielanie hormonu",
+        "rozkładający białka",
+        "działający wyłącznie w jelitach",
+        "magazynowany w kolbkach synaptycznych",
+        "produkowany przez rdzeń nadnerczy"
+      ],
+      "explanation": "-tropina – hormon pobudzający (kortykotropina pobudza korę nadnerczy); -liberyna – wyzwalający.",
+      "sourceExcerpt": "slajd 22: Kortykotropina (ACTH) – hormon pobudzający (-tropina) korę nadnerczy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-22",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Poziom kortyzolu po sytuacji stresowej wyraźnie wzrasta po około:"
+      ],
+      "correct": [
+        "20–30 minutach"
+      ],
+      "distractors": [
+        "kilku sekundach",
+        "1 minucie",
+        "5 minutach",
+        "2–3 godzinach",
+        "jednej dobie",
+        "kilku dniach"
+      ],
+      "explanation": "Oś HPA to wolna reakcja: kortyzol rośnie wyraźnie po ok. 20–30 min, a działa kilkadziesiąt minut lub dłużej.",
+      "sourceExcerpt": "slajd 22: poziom kortyzolu wyraźnie wzrasta po ok. 20-30 min od sytuacji stresowej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-23",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Podwyższony kortyzol wyhamowuje oś HPA na zasadzie:"
+      ],
+      "correct": [
+        "ujemnego sprzężenia zwrotnego"
+      ],
+      "distractors": [
+        "dodatniego sprzężenia zwrotnego",
+        "wzajemnego wzmacniania",
+        "habituacji receptorów",
+        "warunkowania klasycznego",
+        "pobudzania przysadki",
+        "aktywacji układu SAM"
+      ],
+      "explanation": "Kortyzol hamuje własne wydzielanie (ujemne sprzężenie zwrotne): bezpośrednio przez jądro przykomorowe podwzgórza i przez receptory hipokampa.",
+      "sourceExcerpt": "slajd 23: Ten podwyższony kortyzol powoduje ujemne sprzężenie zwrotne na kilka sposobów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-24",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wysoki poziom kortyzolu bezpośrednio zmniejsza produkcję CRH i ACTH, docierając do:"
+      ],
+      "correct": [
+        "jądra przykomorowego podwzgórza"
+      ],
+      "distractors": [
+        "rdzenia nadnerczy",
+        "miejsca sinawego w pniu mózgu",
+        "jąder ciała migdałowatego",
+        "kory przedczołowej",
+        "neuronów hipokampa",
+        "rdzenia kręgowego"
+      ],
+      "explanation": "Kortyzol docierający do jądra przykomorowego podwzgórza bezpośrednio zmniejsza produkcję CRH i ACTH.",
+      "sourceExcerpt": "slajd 23: Wysoki poziom kortyzolu docierający do jądra przykomorowego podwzgórza bezpośrednio zmniejsza produkcję CRH i ACTH.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-25",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Hipokamp uczestniczy w wyhamowaniu osi HPA, ponieważ:"
+      ],
+      "correct": [
+        "ma dużo receptorów kortyzolu i sygnalizuje podwzgórzu stop dla CRH"
+      ],
+      "distractors": [
+        "produkuje kortyzol, który zastępuje ten z nadnerczy",
+        "wydziela adrenalinę, która blokuje przysadkę",
+        "ma mało receptorów kortyzolu, więc go nie wychwytuje",
+        "pobudza miejsce sinawe do produkcji noradrenaliny",
+        "przesyła do nadnerczy sygnał do wydzielania ACTH",
+        "aktywuje ciało migdałowate do oceny zagrożenia"
+      ],
+      "explanation": "Hipokamp ma dużo receptorów czułych na kortyzol; ich pobudzenie wysyła do podwzgórza sygnał, by zatrzymać produkcję kortykoliberyny.",
+      "sourceExcerpt": "slajd 23: Hipokamp ma dużo receptorów czułych na kortyzol. Ich pobudzenie również powoduje wysłanie sygnałów do podwzgórza, by zatrzymać produkcję kortykoliberyny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-26",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Układ współczulno-nadnerczowy (SAM) działa:"
+      ],
+      "correct": [
+        "w ciągu pierwszej minuty – reakcja walki/ucieczki"
+      ],
+      "distractors": [
+        "po ok. 20–30 minutach – reakcja długotrwała",
+        "po kilku godzinach – regeneracja",
+        "w ciągu doby – adaptacja do stresu",
+        "tylko podczas snu – wyciszenie",
+        "po kilku dniach – osłabienie odporności",
+        "po ok. 10 minutach – odprężenie"
+      ],
+      "explanation": "SAM to szybka reakcja: działa w ciągu pierwszej minuty, odpowiada za walkę/ucieczkę. Oś HPA – wolniej (20–30 min).",
+      "sourceExcerpt": "slajd 24: SAM działa w ciągu pierwszej minuty i odpowiada za reakcję walki/ucieczki",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-27",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W reakcji SAM zakończenia włókien współczulnych docierających do rdzenia nadnerczy uwalniają:"
+      ],
+      "correct": [
+        "acetylocholinę"
+      ],
+      "distractors": [
+        "adrenalinę",
+        "kortyzol",
+        "kortykoliberynę",
+        "dopaminę",
+        "serotoninę",
+        "ACTH"
+      ],
+      "explanation": "SAM: stresor → mózg aktywuje układ współczulny → sygnał przez rdzeń kręgowy → włókna współczulne do rdzenia nadnerczy → acetylocholina → adrenalina i noradrenalina do krwi.",
+      "sourceExcerpt": "Ilustracja (schemat SAM, slajd 24): Zakończenia nerwowe włókien uwalniają acetylocholinę → receptory w rdzeniach nadnerczy uwalniają do krwi ADRENALINĘ i NORADRENALINĘ",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-28",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W reakcji SAM rdzeń nadnerczy uwalnia do krwi:"
+      ],
+      "correct": [
+        "adrenalinę i noradrenalinę"
+      ],
+      "distractors": [
+        "kortyzol i kortykotropinę",
+        "acetylocholinę i dopaminę",
+        "kortykoliberynę i ACTH",
+        "serotoninę i dopaminę",
+        "kortyzol i adrenalinę",
+        "tylko acetylocholinę"
+      ],
+      "explanation": "Rdzeń nadnerczy (SAM) – adrenalina i noradrenalina; kora nadnerczy (HPA) – kortyzol.",
+      "sourceExcerpt": "Ilustracja (schemat SAM, slajd 24): Receptory w rdzeniach nadnerczy w reakcji na acetylocholinę uwalniają do krwi ADRENALINĘ i NORADRENALINĘ",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-29",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Adrenalina utrzymuje się w osoczu przez:"
+      ],
+      "correct": [
+        "kilka, maksymalnie kilkanaście minut"
+      ],
+      "distractors": [
+        "zaledwie kilka sekund",
+        "kilka, kilkanaście godzin",
+        "całą dobę po stresie",
+        "kilka dni, a nawet tygodni",
+        "kilkadziesiąt minut lub dłużej",
+        "kilka miesięcy po stresie"
+      ],
+      "explanation": "Adrenalina zostaje w osoczu kilka, maks. kilkanaście minut; kortyzol działa kilkadziesiąt minut lub dłużej.",
+      "sourceExcerpt": "slajd 24: Adrenalina pozostaje w osoczu zaledwie kilka, maksymalnie kilkanaście minut.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-30",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Kortyzol jest wydzielany przez:"
+      ],
+      "correct": [
+        "korę nadnerczy"
+      ],
+      "distractors": [
+        "rdzeń nadnerczy",
+        "przysadkę",
+        "podwzgórze",
+        "miejsce sinawe",
+        "hipokamp",
+        "wyspę"
+      ],
+      "explanation": "Kortyzol – kora nadnerczy (pobudzana przez ACTH, oś HPA); adrenalina i noradrenalina – rdzeń nadnerczy (SAM).",
+      "sourceExcerpt": "slajd 22: Kortykotropina (ACTH) – hormon pobudzający (-tropina) korę nadnerczy. … Kortyzol – główny hormon stresu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-31",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Część ruchowa obwodowego układu nerwowego:"
+      ],
+      "correct": [
+        "przekazuje polecenia z mózgu i rdzenia do mięśni i gruczołów"
+      ],
+      "distractors": [
+        "odbiera informacje z receptorów i przesyła je do mózgu",
+        "kontroluje wyłącznie mięśnie szkieletowe",
+        "odpowiada tylko za odpoczynek i trawienie",
+        "przygotowuje organizm wyłącznie do stresu",
+        "wydziela hormony do krwi",
+        "magazynuje informacje w pamięci"
+      ],
+      "explanation": "Część czuciowa – z receptorów do mózgu i rdzenia; część ruchowa – polecenia z mózgu i rdzenia do efektorów (mięśni i gruczołów).",
+      "sourceExcerpt": "slajd 25: Część ruchowa – przekazuje polecenia z mózgu i rdzenia kręgowego do efektorów, czyli mięśni i gruczołów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-32",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Somatyczny układ nerwowy odpowiada za:"
+      ],
+      "correct": [
+        "kontrolę mięśni szkieletowych (świadome ruchy)"
+      ],
+      "distractors": [
+        "automatyczne sterowanie funkcjami organizmu",
+        "odpoczynek, regenerację i trawienie",
+        "przygotowanie organizmu do stresu",
+        "wydzielanie adrenaliny przez nadnercza",
+        "regulację rytmu snu i czuwania",
+        "pracę serca i gruczołów"
+      ],
+      "explanation": "Somatyczny – mięśnie szkieletowe, świadome ruchy; autonomiczny – automatyczne sterowanie funkcjami organizmu.",
+      "sourceExcerpt": "slajd 25: Somatyczny układ nerwowy – kontrolowanie mięśni szkieletowych (świadome ruchy)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-33",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Układ współczulny i przywspółczulny wchodzą w skład układu nerwowego:"
+      ],
+      "correct": [
+        "autonomicznego"
+      ],
+      "distractors": [
+        "somatycznego",
+        "centralnego",
+        "czuciowego",
+        "limbicznego",
+        "noradrenergicznego",
+        "ośrodkowego"
+      ],
+      "explanation": "Obwodowy układ nerwowy → część ruchowa → somatyczny / autonomiczny; autonomiczny → współczulny i przywspółczulny.",
+      "sourceExcerpt": "Ilustracja (schemat układu nerwowego, slajd 25): Autonomiczny układ nerwowy → Układ współczulny, Układ przywspółczulny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-34",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Za odpoczynek, regenerację i trawienie odpowiada układ:"
+      ],
+      "correct": [
+        "przywspółczulny"
+      ],
+      "distractors": [
+        "współczulny",
+        "somatyczny",
+        "noradrenergiczny",
+        "limbiczny",
+        "współczulno-nadnerczowy",
+        "czuciowy"
+      ],
+      "explanation": "Układ współczulny – działanie w stresie, wysiłku, zagrożeniu (STRES); przywspółczulny – odpoczynek, regeneracja, trawienie (ODPRĘŻENIE).",
+      "sourceExcerpt": "slajd 26: Układ przywspółczulny odpowiada za odpoczynek, regenerację i trawienie (ODPRĘŻENIE)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-35",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Kilka tygodni przed publicznym wystąpieniem planowaniem, analizą zadania i przewidywaniem trudności zajmuje się:"
+      ],
+      "correct": [
+        "kora czołowa"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "miejsce sinawe",
+        "przysadka",
+        "rdzeń nadnerczy",
+        "wyspa"
+      ],
+      "explanation": "Kilka tygodni przed: kora czołowa planuje i przewiduje trudności, hipokamp zapamiętuje materiał, ciało migdałowate może dać reakcję emocjonalną.",
+      "sourceExcerpt": "slajd 27: Kora czołowa planuje, analizuje zadanie i przewiduje trudności.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-36",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Aktywacja układu współczulnego tuż przed wystąpieniem przejawia się m.in.:"
+      ],
+      "correct": [
+        "szybszym biciem serca, spoconymi dłońmi i płytkim oddechem"
+      ],
+      "distractors": [
+        "wolniejszym biciem serca, suchymi dłońmi i głębokim oddechem",
+        "nasileniem trawienia i rozluźnieniem mięśni",
+        "senością, ziewaniem i spadkiem czujności",
+        "spadkiem ciśnienia i zwolnieniem tętna",
+        "obniżeniem czujności i rozproszeniem uwagi",
+        "wyraźnym wzrostem kortyzolu już po kilku sekundach"
+      ],
+      "explanation": "Efekt aktywacji współczulnego: szybsze bicie serca, spocone dłonie, napięcie mięśni, płytki oddech.",
+      "sourceExcerpt": "slajd 28: Efekt: Szybsze bicie serca, spocone dłonie, napięcie mięśni, płytki oddech.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-37",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Po ok. 10 minutach wystąpienia oś HPA i kortyzol:"
+      ],
+      "correct": [
+        "mogą wciąż rosnąć lub być podwyższone, bo działają wolniej"
+      ],
+      "distractors": [
+        "całkowicie wygasają szybciej niż adrenalina",
+        "dopiero zaczynają się aktywować po raz pierwszy",
+        "spadają poniżej poziomu spoczynkowego",
+        "zostają zastąpione przez układ SAM",
+        "przestają działać, bo hipokamp je blokuje",
+        "osiągają najniższy poziom w ciągu dnia"
+      ],
+      "explanation": "Po 10 min: współczulny słabnie, przywspółczulny wspiera regenerację, adrenalina słabnie, a kortyzol może wciąż rosnąć lub być podwyższony.",
+      "sourceExcerpt": "slajd 31: Oś HPA i kortyzol: może wciąż wzrastać lub być podwyższony, bo działa wolniej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-38",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Po ok. 10 minutach wystąpienia stężenie adrenaliny i noradrenaliny:"
+      ],
+      "correct": [
+        "słabnie wraz z ich efektami"
+      ],
+      "distractors": [
+        "nadal rośnie szybciej niż kortyzol",
+        "osiąga dopiero szczyt",
+        "rośnie, bo aktywuje się przywspółczulny",
+        "przestaje zależeć od nadnerczy",
+        "zostaje zastąpione serotoniną",
+        "rośnie dzięki korze przedczołowej"
+      ],
+      "explanation": "Po 10 min: adrenalina i noradrenalina – stężenie i efekty słabną; układ współczulny zmniejsza aktywność.",
+      "sourceExcerpt": "slajd 31: Adrenalina i noradrenalina: stężenie i efekty słabną",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-39",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wyłączenie dopaminy sprawia, że człowiek:"
+      ],
+      "correct": [
+        "traci motywację do działania, choć może wciąż odczuwać szczęście"
+      ],
+      "distractors": [
+        "traci zdolność odczuwania szczęścia, ale motywacja zostaje",
+        "staje się bardziej impulsywny i agresywny",
+        "nadal szuka jedzenia, ale przestaje szukać kontaktów",
+        "przestaje odczuwać ból, ale traci pamięć",
+        "zaczyna wydzielać więcej kortyzolu i adrenaliny",
+        "zasypia i nie da się go wybudzić"
+      ],
+      "explanation": "Bez dopaminy: brak szukania pożywienia, interakcji, czynności seksualnych – ale szczęście wciąż możliwe; brak motywacji do działania.",
+      "sourceExcerpt": "slajd 32: jeśli wyłączyć dopaminę, to człowiek … zaprzestanie szukania pożywienia… ALE może wciąż odczuwać szczęście, po prostu nie mamy motywacji do działania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-40",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Hydroksylaza tyrozynowa przekształca tyrozynę w:"
+      ],
+      "correct": [
+        "L-DOPA"
+      ],
+      "distractors": [
+        "dopaminę",
+        "fenyloalaninę",
+        "5-HTP",
+        "serotoninę",
+        "tryptofan",
+        "noradrenalinę"
+      ],
+      "explanation": "Synteza dopaminy: fenyloalanina → (wątroba) tyrozyna → hydroksylaza tyrozynowa → L-DOPA → dopamina (w kolbkach synaptycznych).",
+      "sourceExcerpt": "Ilustracja (schemat syntezy dopaminy, slajd 32): Hydroksylaza tyrozynowa (wytwarzana w neuronach) zmienia tyrozynę w L-DOPA",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-41",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Tyrozyna, z której powstaje dopamina, pochodzi z pożywienia oraz z przetworzenia w wątrobie:"
+      ],
+      "correct": [
+        "fenyloalaniny"
+      ],
+      "distractors": [
+        "tryptofanu",
+        "5-HTP",
+        "L-DOPA",
+        "serotoniny",
+        "kortyzolu",
+        "acetylocholiny"
+      ],
+      "explanation": "Tyrozyna – aminokwas z pożywienia i z przetworzenia fenyloalaniny w wątrobie. Serotonina powstaje z tryptofanu.",
+      "sourceExcerpt": "Ilustracja (schemat syntezy dopaminy, slajd 32): Tyrozyna (aminokwas z pożywienia i z przetworzenia fenyloalaniny w wątrobie) dociera do neuronu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-42",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Dopamina odpowiada m.in. za silne zapamiętywanie zdarzeń z silnymi emocjami, szczególnie z okresu:"
+      ],
+      "correct": [
+        "wczesnego dorastania"
+      ],
+      "distractors": [
+        "wczesnego dzieciństwa",
+        "życia płodowego",
+        "późnej dorosłości",
+        "starości",
+        "okresu niemowlęcego",
+        "wieku średniego"
+      ],
+      "explanation": "Dopamina: nagroda i przyjemność, zdolności poznawcze i planowanie, kontrola ruchów, silne zapamiętywanie emocjonalnych zdarzeń – zwłaszcza z wczesnego dorastania.",
+      "sourceExcerpt": "slajd 32: silne zapamiętywanie zdarzeń, którym towarzyszą silne emocje pozytywne lub negatywne, szczególnie z okresu wczesnego dorastania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-43",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Prekursorem serotoniny przyjmowanym z pożywieniem jest:"
+      ],
+      "correct": [
+        "tryptofan"
+      ],
+      "distractors": [
+        "tyrozyna",
+        "fenyloalanina",
+        "L-DOPA",
+        "glukoza",
+        "acetylocholina",
+        "kortyzol"
+      ],
+      "explanation": "Serotonina: tryptofan (z pożywienia) → 5-HTP (wątroba, mózg) → serotonina (mózg, głównie jelita).",
+      "sourceExcerpt": "Ilustracja (schemat syntezy serotoniny, slajd 33): Tryptofan przyjmowany z pożywieniem → 5-hydroksytryptofan (5-HTP) → SEROTONINA",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-44",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Przekształcenie 5-HTP w serotoninę zachodzi w znacznej większości w:"
+      ],
+      "correct": [
+        "jelitach"
+      ],
+      "distractors": [
+        "mózgu",
+        "wątrobie",
+        "nadnerczach",
+        "przysadce",
+        "neuronach miejsca sinawego",
+        "żołądku"
+      ],
+      "explanation": "5-HTP przekształca się w serotoninę w mózgu i w znacznej większości w jelitach.",
+      "sourceExcerpt": "Ilustracja (schemat syntezy serotoniny, slajd 33): W mózgu i w znacznej większości w jelitach 5-HTP przekształcane jest na SEROTONINĘ",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-45",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W porównaniu z dopaminą serotonina:"
+      ],
+      "correct": [
+        "jest znacznie stabilniejsza i dłużej utrzymuje stały poziom"
+      ],
+      "distractors": [
+        "jest mniej stabilna i szybko się rozkłada",
+        "działa tylko w sytuacjach nagłych",
+        "powstaje z tyrozyny w neuronach",
+        "nie wpływa na nastrój, tylko na ruch",
+        "jest magazynowana wyłącznie w nadnerczach",
+        "odpowiada głównie za motywację do działania"
+      ],
+      "explanation": "Serotonina jest o wiele bardziej stabilna niż dopamina – dłużej utrzymuje się na stałym poziomie.",
+      "sourceExcerpt": "slajd 33: Serotonina jest o wiele bardziej stabilna niż dopamina. Utrzymuje się przez dłuższy czas na stabilnym poziomie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-46",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Poziom kortyzolu w rytmie dobowym jest wysoki:"
+      ],
+      "correct": [
+        "rano, by właściwie wybudzić organizm"
+      ],
+      "distractors": [
+        "wieczorem, by ułatwić zasypianie",
+        "w nocy, by pogłębić sen",
+        "po posiłku, by wspomóc trawienie",
+        "w południe, by obniżyć ciśnienie",
+        "tylko podczas wysiłku fizycznego",
+        "przez całą dobę jednakowo"
+      ],
+      "explanation": "Kortyzol uczestniczy w regulacji rytmu snu i czuwania; rano jest wysoki, by właściwie wybudzić.",
+      "sourceExcerpt": "slajd 34: Rano wysoki poziom, by właściwie wybudzić",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-47",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Kortyzol to hormon steroidowy o działaniu:"
+      ],
+      "correct": [
+        "katabolicznym"
+      ],
+      "distractors": [
+        "anabolicznym",
+        "przeciwbólowym",
+        "uspokajającym",
+        "nasennym",
+        "pobudzającym trawienie",
+        "budującym mięśnie"
+      ],
+      "explanation": "Kortyzol – hormon steroidowy działający katabolicznie (rozkład, mobilizacja energii); ogranicza syntezę białek.",
+      "sourceExcerpt": "slajd 35: Hormon steroidowy, który działa katabolicznie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-48",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wpływ kortyzolu na zachowanie polega m.in. na tym, że:"
+      ],
+      "correct": [
+        "hamuje gniew i agresję, sprzyja ostrożności"
+      ],
+      "distractors": [
+        "nasila gniew i agresję, sprzyja ryzyku",
+        "obniża stres i zwiększa beztroskę",
+        "zwiększa wydatek energii i brawurę",
+        "nasila poszukiwanie nagrody i przyjemności",
+        "obniża czujność i wywołuje senność",
+        "pobudza głód i zachowania seksualne"
+      ],
+      "explanation": "Kortyzol: ostrożne zachowanie oszczędzające energię; podnosi stres, hamuje gniew i agresję.",
+      "sourceExcerpt": "slajd 35: Przyczynia się do ostrożnego zachowania, które oszczędza energię. Podnosi stres, hamuje gniew i agresję.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-49",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Długotrwale nerwowa atmosfera w pracy wiąże się przede wszystkim z podwyższonym poziomem:"
+      ],
+      "correct": [
+        "kortyzolu"
+      ],
+      "distractors": [
+        "adrenaliny",
+        "dopaminy",
+        "serotoniny",
+        "acetylocholiny",
+        "tryptofanu",
+        "L-DOPA"
+      ],
+      "explanation": "Adrenalina – sytuacje nagłe (ktoś wyjechał na ulicę); kortyzol – stres długotrwały (nerwowa atmosfera w pracy).",
+      "sourceExcerpt": "slajd 35: Adrenalina: bardziej przy sytuacjach nagłych (ktoś wyjechał na ulicę). Kortyzol: przy stresie długotrwałym (nerwowa atmosfera w pracy)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-50",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Nagła sytuacja, np. gdy ktoś wyjeżdża nam na ulicę, wiąże się przede wszystkim z wydzieleniem:"
+      ],
+      "correct": [
+        "adrenaliny"
+      ],
+      "distractors": [
+        "kortyzolu",
+        "dopaminy",
+        "serotoniny",
+        "kortykoliberyny",
+        "tryptofanu",
+        "L-DOPA"
+      ],
+      "explanation": "Adrenalina działa przy sytuacjach nagłych (SAM, pierwsza minuta); kortyzol przy stresie długotrwałym.",
+      "sourceExcerpt": "slajd 35: Adrenalina: bardziej przy sytuacjach nagłych (ktoś wyjechał na ulicę)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-51",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Długotrwale podwyższony poziom kortyzolu prowadzi m.in. do:"
+      ],
+      "correct": [
+        "problemów ze snem, wzrostu ciśnienia i zmiany masy ciała"
+      ],
+      "distractors": [
+        "lepszego snu, spadku ciśnienia i stałej masy ciała",
+        "poprawy pamięci i wzrostu hipokampa",
+        "wzmocnienia odporności i syntezy białek",
+        "spadku cukru we krwi i senności",
+        "wzrostu motywacji i przyjemności",
+        "obniżenia tętna i rozluźnienia mięśni"
+      ],
+      "explanation": "Długotrwale wysoki kortyzol: problemy ze snem, wzrost ciśnienia, zmiana masy ciała.",
+      "sourceExcerpt": "slajd 34: Długotrwale podwyższony poziom kortyzolu negatywnie wpływa na człowieka: problemy ze snem, wzrost ciśnienia, zmiana masy ciała",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-52",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Przewlekły stres pogarsza pamięć, ponieważ podwyższony kortyzol:"
+      ],
+      "correct": [
+        "uwrażliwia neurony hipokampa, a ich dendryty się kurczą"
+      ],
+      "distractors": [
+        "pobudza wzrost nowych dendrytów w hipokampie",
+        "blokuje pracę ciała migdałowatego",
+        "obniża wrażliwość neuronów hipokampa",
+        "uszkadza wyłącznie korę wzrokową",
+        "zwiększa produkcję dopaminy w hipokampie",
+        "zatrzymuje oś SAM w pierwszej minucie"
+      ],
+      "explanation": "Sapolsky (1992), Kleen i in. (2006): stres → więcej kortyzolu → większa wrażliwość neuronów hipokampa (łatwiej je uszkodzić) → skurczone dendryty → gorsza pamięć.",
+      "sourceExcerpt": "Ilustracja (schemat, slajd 39): Stres → Podwyższony poziom kortyzolu → Wzrost wrażliwości neuronów hipokampa → Skurczone dendryty hipokampa sprawiają, że gorzej pełni swoją funkcję (pogarsza się pamięć)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-53",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Uszkodzenie hipokampa przez stres tworzy błędne koło, ponieważ:"
+      ],
+      "correct": [
+        "hipokamp słabiej hamuje oś HPA, więc kortyzolu jest więcej"
+      ],
+      "distractors": [
+        "hipokamp mocniej hamuje oś HPA, więc kortyzolu jest mniej",
+        "hipokamp sam zaczyna produkować kortyzol",
+        "ciało migdałowate przestaje rozpoznawać zagrożenie",
+        "miejsce sinawe przestaje produkować noradrenalinę",
+        "nadnercza przestają reagować na ACTH",
+        "przysadka przestaje uwalniać ACTH"
+      ],
+      "explanation": "Hipokamp uczestniczy w ujemnym sprzężeniu zwrotnym osi HPA; jego uszkodzenie ogranicza wyhamowanie kortyzolu → błędne koło.",
+      "sourceExcerpt": "slajd 39: Jako że hipokamp bierze udział w ujemnym sprzężeniu zwrotnym w osi HPA, jego uszkodzenie ogranicza wyhamowanie produkcji kortyzolu, co powoduje efekt błędnego koła.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-54",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wpływ stresu na układ immunologiczny jest taki, że:"
+      ],
+      "correct": [
+        "krótki stres chwilowo go pobudza, a długotrwały osłabia"
+      ],
+      "distractors": [
+        "krótki stres go osłabia, a długotrwały wzmacnia",
+        "każdy stres trwale go wzmacnia",
+        "każdy stres natychmiast go osłabia",
+        "stres nie ma na niego żadnego wpływu",
+        "krótki stres go wyłącza, a długotrwały nie działa",
+        "działa tylko na układ krążenia"
+      ],
+      "explanation": "Krótkotrwały stres – chwilowy wzrost aktywności układu immunologicznego; długotrwały – osłabienie (m.in. przez kortyzol ograniczający syntezę białek).",
+      "sourceExcerpt": "slajd 40: Krótkotrwały stres powoduje chwilowy wzrost aktywności układu immunologicznego. Długotrwały może go jednak osłabić",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-55",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Długotrwale podwyższony kortyzol osłabia odporność m.in. dlatego, że:"
+      ],
+      "correct": [
+        "ogranicza syntezę białek, także odpornościowych"
+      ],
+      "distractors": [
+        "zwiększa syntezę białek odpornościowych",
+        "obniża metabolizm i poziom cukru",
+        "pobudza układ przywspółczulny",
+        "zwiększa liczbę limfocytów we krwi",
+        "blokuje wydzielanie adrenaliny",
+        "uszkadza wyłącznie śluzówkę żołądka"
+      ],
+      "explanation": "Wysoki kortyzol: większy metabolizm i cukier we krwi (energia), ale mniejsza synteza białek, też związanych z odpornością.",
+      "sourceExcerpt": "Ilustracja (schemat, slajd 40): Długotrwale podwyższony poziom kortyzolu → Ogranicza syntezę białek. Czyli wytwarza mniej białek, również tych związanych z działaniem układu immunologicznego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-56",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Częsta złość i wrogość (Booth-Kewley i Friedman, 1987) koreluje z:"
+      ],
+      "correct": [
+        "częstszymi chorobami serca"
+      ],
+      "distractors": [
+        "rzadszymi chorobami serca",
+        "lepszą odpornością",
+        "niższym ciśnieniem krwi",
+        "wolniejszym tętnem",
+        "lepszą pamięcią",
+        "rzadszymi wrzodami"
+      ],
+      "explanation": "Złość i wrogość ↔ częstsze choroby serca; wsparcie społeczne ↔ łagodniejsze reakcje na stres (Uchino i in., 1996).",
+      "sourceExcerpt": "slajd 41: Częsta złość i wrogość koreluje z częstszymi chorobami serca. Booth-Kewley, Friedman (1987)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-57",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wsparcie społeczne (Uchino, Cacioppo, Kiecolt-Glaser, 1996) koreluje z:"
+      ],
+      "correct": [
+        "łagodniejszą reakcją na stres"
+      ],
+      "distractors": [
+        "silniejszą reakcją na stres – wyższym ciśnieniem i tętnem",
+        "częstszymi chorobami serca",
+        "wyższym poziomem kortyzolu rano",
+        "osłabieniem układu immunologicznego",
+        "częstszą chorobą wrzodową",
+        "brakiem jakiejkolwiek reakcji stresowej"
+      ],
+      "explanation": "Wsparcie społeczne koreluje z łagodniejszymi reakcjami na stres: niższe ciśnienie krwi, wolniejsze tętno.",
+      "sourceExcerpt": "slajd 41: Wsparcie społeczne koreluje z łagodniejszymi reakcjami na stres (niższe ciśnienie krwi i wolniejsze tętno).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-58",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Wywołane stresem duże stężenie glukokortykoidów zwiększa ryzyko:"
+      ],
+      "correct": [
+        "alergii"
+      ],
+      "distractors": [
+        "anemii",
+        "krótkowzroczności",
+        "hipotonii",
+        "daltonizmu",
+        "zaćmy",
+        "padaczki"
+      ],
+      "explanation": "Choroby psychosomatyczne: glukokortykoidy → alergie; stres a choroby autoimmunologiczne, krążenia, wrzodowa; przypuszczalnie depresja, schizofrenia.",
+      "sourceExcerpt": "slajd 42: Wywołane stresem duże stężenie glukokortykoidów zwiększa ryzyko występowania alergii.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-59",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "„Zachowanie chorobowe” (zmęczenie, utrata apetytu, problemy ze snem, anhedonia) jest normalnie adaptacyjne, ponieważ:"
+      ],
+      "correct": [
+        "zmusza do oszczędzania energii na walkę z chorobą"
+      ],
+      "distractors": [
+        "zwiększa aktywność i chęć kontaktu z innymi",
+        "przyspiesza produkcję adrenaliny i dopaminy",
+        "zapobiega powstawaniu wrzodów",
+        "wzmacnia pamięć o źródle choroby",
+        "obniża poziom kortyzolu do zera",
+        "pobudza apetyt i odbudowę białek"
+      ],
+      "explanation": "Zachowanie chorobowe wywołuje reakcja układu immunologicznego; normalnie adaptacyjne (oszczędzanie energii), ale w chorobach psychosomatycznych może nie sprzyjać wyleczeniu.",
+      "sourceExcerpt": "slajd 42: Normalnie jest to adaptacyjne (zmusza nas do oszczędzania energii na walkę z chorobą)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-60",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Stres a choroba wrzodowa – stres:"
+      ],
+      "correct": [
+        "nie powoduje jej, ale zwiększa ryzyko"
+      ],
+      "distractors": [
+        "jest jej jedyną przyczyną",
+        "chroni przed nią",
+        "nie ma z nią żadnego związku",
+        "powoduje ją tylko u kobiet",
+        "powoduje ją zawsze w ciągu doby",
+        "leczy ją przez aktywację współczulnego"
+      ],
+      "explanation": "Stres nie powoduje, ale zwiększa ryzyko choroby wrzodowej; dodatkowo H. pylori (ponad 70% populacji).",
+      "sourceExcerpt": "slajd 43: Stres nie powoduje, ale zwiększa ryzyko choroby wrzodowej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-61",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "W mechanizmie choroby wrzodowej żołądek uszkadza własną błonę śluzową, gdy:"
+      ],
+      "correct": [
+        "między stresami włącza się przywspółczulny i żołądek pracuje bez pokarmu"
+      ],
+      "distractors": [
+        "współczulny w stresie zwiększa wydzielanie soków żołądkowych",
+        "kortyzol bezpośrednio rozpuszcza śluzówkę żołądka",
+        "adrenalina sprawia, że żołądek przestaje wydzielać śluz",
+        "przywspółczulny hamuje pracę żołądka po posiłku",
+        "hipokamp przestaje hamować oś HPA",
+        "bakterie wytwarzają kortyzol w żołądku"
+      ],
+      "explanation": "Stres → współczulny hamuje żołądek (mniej soków); w przerwie między stresami przywspółczulny go aktywuje (więcej soków, skurcze) → bez pokarmu soki uszkadzają śluzówkę.",
+      "sourceExcerpt": "Ilustracja (schemat, slajd 43): Aktywacja współczulnego → hamowanie pracy żołądka → W przerwie między sytuacjami stresowymi aktywuje się przywspółczulny → żołądek wydziela więcej soków niż zwykle… Przy braku pokarmu wydzielina żołądka uszkadza jego własną błonę śluzową",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-62",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Bakterie Helicobacter pylori, zwiększające ryzyko wrzodów, występują w żołądkach:"
+      ],
+      "correct": [
+        "ponad 70% populacji"
+      ],
+      "distractors": [
+        "ok. 5% populacji",
+        "ok. 20% populacji",
+        "ok. 40% populacji",
+        "ponad 95% populacji",
+        "tylko u osób zestresowanych",
+        "tylko u dzieci"
+      ],
+      "explanation": "H. pylori obecne w żołądkach ponad 70% populacji dodatkowo zwiększają ryzyko wrzodów.",
+      "sourceExcerpt": "Ilustracja (schemat, slajd 43): Bakterie helicobacter pylori obecne w żołądkach ponad 70% populacji dodatkowo zwiększają ryzyko powstawania wrzodów",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Prezentacja: Neuronalne podłoże stresu"
+}
