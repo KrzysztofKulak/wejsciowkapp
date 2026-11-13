@@ -1,0 +1,882 @@
+{
+  "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+  "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+  "chapterTitle": "Metody inwazyjne i bezinwazyjne",
+  "sourceHash": "2264644379db95b6be4cbd4945e1f8d9820276fd",
+  "questions": [
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-01",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Badania na ludziach zatwierdza:"
+      ],
+      "correct": [
+        "komisja bioetyczna"
+      ],
+      "distractors": [
+        "lokalna komisja etyczna do spraw doświadczeń na zwierzętach",
+        "Światowe Stowarzyszenie Lekarzy",
+        "sąd rejonowy",
+        "ministerstwo zdrowia",
+        "rada wydziału",
+        "kierownik laboratorium"
+      ],
+      "explanation": "Etyka: Komisja Bioetyczna – badania na ludziach; lokalna komisja etyczna ds. doświadczeń na zwierzętach – zwierzęta. Deklaracja Helsińska, ustawy z 2015 i 1997.",
+      "sourceExcerpt": "Komisja Bioetyczna – dotyczy ludzi; Lokalna komisja etyczna do spraw doświadczeń na zwierzętach – dotyczy zwierząt",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-02",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Eksperyment ostry to eksperyment:"
+      ],
+      "correct": [
+        "na zwierzęciu w narkozie, badający funkcje narządów wewnętrznych"
+      ],
+      "distractors": [
+        "na przytomnym zwierzęciu, służący badaniom nad zachowaniem",
+        "na człowieku w pełni przytomnym, bez znieczulenia",
+        "przeprowadzany wyłącznie metodami nieinwazyjnymi",
+        "polegający na wielokrotnym obrazowaniu mózgu",
+        "na zwierzęciu po trwałym usunięciu kory",
+        "przeprowadzany wyłącznie na hodowlach komórek"
+      ],
+      "explanation": "Eksperyment ostry – zwierzę w narkozie, funkcje narządów wewnętrznych; chroniczny – zwierzę przytomne (po ew. zabiegach w narkozie), badania zachowania.",
+      "sourceExcerpt": "Eksperyment ostry – wykonywany na zwierzęciu w narkozie, pozwala badać funkcje narządów wewnętrznych i ich czynności",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-03",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Eksperyment chroniczny to eksperyment:"
+      ],
+      "correct": [
+        "na przytomnym zwierzęciu, służący badaniom nad zachowaniem"
+      ],
+      "distractors": [
+        "na zwierzęciu w narkozie, badający funkcje narządów wewnętrznych",
+        "na człowieku w pełni przytomnym, bez znieczulenia",
+        "przeprowadzany wyłącznie metodami nieinwazyjnymi",
+        "polegający na wielokrotnym obrazowaniu mózgu",
+        "na zwierzęciu po trwałym usunięciu kory",
+        "przeprowadzany wyłącznie na hodowlach komórek"
+      ],
+      "explanation": "Eksperyment chroniczny – na przytomnym zwierzęciu, po ew. wstępnych zabiegach pod narkozą; służy badaniom nad zachowaniem.",
+      "sourceExcerpt": "Eksperyment chroniczny – przeprowadzany na przytomnym zwierzęciu, po ew. wstępnych zabiegach pod narkozą, służy do badań nad zachowaniem",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-04",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Stereotaksja to metoda:"
+      ],
+      "correct": [
+        "precyzyjnego trafiania w wybrany ośrodek mózgu"
+      ],
+      "distractors": [
+        "obrazowania budowy mózgu polem magnetycznym",
+        "rejestrowania aktywności elektrycznej kory",
+        "usuwania całej kory mózgowej",
+        "znakowania aktywnych ośrodków glukozą",
+        "pobudzania mózgu polem magnetycznym przez czaszkę",
+        "badania aktywności mięśni"
+      ],
+      "explanation": "Stereotaksja – precyzyjne trafianie w wybrany ośrodek mózgu; aparat stereotaktyczny ustawia np. elektrodę.",
+      "sourceExcerpt": "Stereotaksja – metoda do precyzyjnego trafiania w wybrany ośrodek mózgu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-05",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Pobudzanie osmotyczne polega na wprowadzeniu do mózgu:"
+      ],
+      "correct": [
+        "hipertonicznego roztworu chlorku sodu"
+      ],
+      "distractors": [
+        "miniaturowych termod z wodą (ośrodki temperatury)",
+        "cienkich elektrod w postaci drutów",
+        "substancji modyfikującej aktywność neuronów do komór",
+        "znakowanej 2-deoksyglukozy",
+        "kolchicyny wyłączającej neurony",
+        "lidokainy blokującej neuroprzekaźnictwo"
+      ],
+      "explanation": "Pobudzanie: elektryczne (elektrody), chemiczne (substancje do tkanki/komór), osmotyczne (hipertoniczny NaCl – pragnienie), termiczne (termody – ośrodki temperatury).",
+      "sourceExcerpt": "Osmotyczne – wprowadzanie do mózgu hipertonicznego roztworu chlorku sodu (głównie ośrodki pragnienia)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-06",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Pobudzanie termiczne wykorzystuje:"
+      ],
+      "correct": [
+        "termody – rurki z wodą o określonej temperaturze"
+      ],
+      "distractors": [
+        "hipertoniczny roztwór chlorku sodu",
+        "cienkie elektrody w postaci płytek",
+        "substancje wstrzykiwane do komór mózgu",
+        "znakowaną 2-deoksyglukozę",
+        "silne pole magnetyczne",
+        "promieniowanie rentgenowskie"
+      ],
+      "explanation": "Termiczne: miniaturowe termody (rurki z wodą o określonej temperaturze) – głównie ośrodki odczuwania temperatury; zimnem można też blokować.",
+      "sourceExcerpt": "Termiczne – wprowadzanie miniaturowych termatod (cienkie rurki, przez które przepływa woda o określonej temperaturze)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-07",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Usunięcie całej kory mózgowej to:"
+      ],
+      "correct": [
+        "dekortykacja"
+      ],
+      "distractors": [
+        "lobotomia",
+        "stereotaksja",
+        "lezja",
+        "autoradiografia",
+        "knock-out",
+        "preparat pretrygeminalny"
+      ],
+      "explanation": "Blokowanie: mechaniczne usuwanie (ablacja, ekstyrpacja; dekortykacja – cała kora), prąd (lezje), zamrożenie, substancje chemiczne.",
+      "sourceExcerpt": "Mechaniczne usuwanie – ablacja lub ekstrypacja; dekortykacja (cała kora)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-08",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Lezje w badaniach mózgu to:"
+      ],
+      "correct": [
+        "lokalne uszkodzenia mózgu"
+      ],
+      "distractors": [
+        "całkowite usunięcie kory mózgowej",
+        "trwałe usunięcie genu",
+        "obszary znakowane radioaktywną glukozą",
+        "przecięcia pnia mózgu",
+        "fale EEG o niskiej częstotliwości",
+        "skupiska naczyń krwionośnych"
+      ],
+      "explanation": "Uszkadzanie prądem: elektroda; uszkodzenie obejmuje też sąsiednie włókna; lezje – lokalne uszkodzenia mózgu.",
+      "sourceExcerpt": "Uszkadzanie prądem elektrycznym – … lezje – lokalne uszkodzenia mózgu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-09",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Kolchicyna i związki ekscytotoksyczne są w badaniach mózgu używane do:"
+      ],
+      "correct": [
+        "trwałego lub czasowego wyłączania neuronów"
+      ],
+      "distractors": [
+        "pobudzania ośrodków pragnienia",
+        "znakowania aktywnych ośrodków",
+        "obrazowania budowy mózgu",
+        "rejestrowania potencjałów wywołanych",
+        "stymulacji mózgu przez czaszkę",
+        "wprowadzania obcego genu"
+      ],
+      "explanation": "Blokowanie substancjami chemicznymi: trwałe lub czasowe wyłączenie neuronów (ekscytotoksyny, kolchicyna, blokery układów przekaźnikowych).",
+      "sourceExcerpt": "Substancje chemiczne – mogą trwale lub czasowo wyłączać czynności neuronów; związki ekscytotoksyczne, kolchicyna",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-10",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "W metodzie genetycznej „knock-out” oznacza:"
+      ],
+      "correct": [
+        "usunięcie genu"
+      ],
+      "distractors": [
+        "wprowadzenie obcego genu",
+        "mutację punktową",
+        "usunięcie całej kory",
+        "przecięcie pnia mózgu",
+        "zablokowanie neuronu lidokainą",
+        "uszkodzenie prądem"
+      ],
+      "explanation": "Metoda genetyczna: mutacje, knock-out (usunięcie genu), wprowadzenie obcego genu.",
+      "sourceExcerpt": "knock out (usunięcie genu)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-11",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Metoda znakowanej 2-deoksyglukozy pokazuje:"
+      ],
+      "correct": [
+        "które ośrodki były bardziej aktywne"
+      ],
+      "distractors": [
+        "które geny zostały usunięte",
+        "jaka jest grubość kory mózgowej",
+        "jak przebiegają drogi piramidowe",
+        "jaki jest rytm fal EEG",
+        "gdzie znajdują się kości czaszki",
+        "jak szybko przewodzą nerwy"
+      ],
+      "explanation": "2-deoksyglukoza: pokazuje ośrodki o zwiększonej aktywności; autoradiografia – skrawki mózgu sprawdzane pod kątem promieniowania.",
+      "sourceExcerpt": "Metoda znakowanej 2-deoksyglukozy – pokazuje, które ośrodki mózgu cechowała zwiększona aktywność; wykorzystuje metodę autoradiografii",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-12",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Preparat pretrygeminalny powstaje przez:"
+      ],
+      "correct": [
+        "przecięcie pnia mózgu na wysokości mostu"
+      ],
+      "distractors": [
+        "odcięcie okolicy przedczołowej od reszty mózgu",
+        "usunięcie całej kory mózgowej",
+        "przecięcie ciała modzelowatego",
+        "usunięcie móżdżku",
+        "zniszczenie miejsca sinawego prądem",
+        "usunięcie genu kodującego receptor"
+      ],
+      "explanation": "Preparat pretrygeminalny: przecięcie pnia mózgu przed korzeniami nerwów trójdzielnych; preparat nieruchomy, bez bodźców sensorycznych poza wzrokowymi.",
+      "sourceExcerpt": "Preparat pretrygeminalny – całkowite przecięcie pnia mózgu na poziomie przedniej części mostu, przed korzeniami nerwów trójdzielnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-13",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Lobotomia polegała na:"
+      ],
+      "correct": [
+        "odcięciu okolicy przedczołowej mózgu"
+      ],
+      "distractors": [
+        "całkowitym przecięciu pnia mózgu na poziomie mostu",
+        "usunięciu całej kory mózgowej",
+        "przecięciu ciała modzelowatego",
+        "wprowadzeniu elektrody do podwzgórza",
+        "usunięciu móżdżku",
+        "wstrzyknięciu lidokainy do komór mózgu"
+      ],
+      "explanation": "Lobotomia: przecięcie/uszkodzenie okolicy przedczołowej; miała „uspokajać” chorych; pokazała rolę płatów czołowych.",
+      "sourceExcerpt": "Lobotomia – Polega na przecięciu/uszkodzeniu okolicy przedczołowej od reszty mózgu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-14",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Skutki lobotomii pokazały, że płaty czołowe odgrywają ważną rolę m.in. w:"
+      ],
+      "correct": [
+        "podejmowaniu decyzji i pamięci roboczej"
+      ],
+      "distractors": [
+        "odbieraniu bodźców wzrokowych z siatkówki",
+        "regulacji oddychania i krążenia",
+        "odczuwaniu temperatury otoczenia",
+        "koordynacji ruchów przez móżdżek",
+        "produkcji melatoniny w nocy",
+        "odruchu połykania i kaszlu"
+      ],
+      "explanation": "Płaty czołowe: decyzje, pamięć robocza, inicjacja i przebieg działań, procesy percepcyjne, działania celowe.",
+      "sourceExcerpt": "płaty czołowe pełnią ważną rolę w: podejmowaniu decyzji, pamięci roboczej, inicjacji i przebiegu działań…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-15",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Lidokaina w badaniach mózgu:"
+      ],
+      "correct": [
+        "czasowo blokuje neuroprzekaźnictwo"
+      ],
+      "distractors": [
+        "trwale usuwa neurony",
+        "znakuje aktywne ośrodki",
+        "pobudza ośrodki pragnienia",
+        "wywołuje mutacje genów",
+        "służy jako kontrast w PET",
+        "wzmacnia sygnał EEG"
+      ],
+      "explanation": "Lidokaina – substancja przeciwbólowa, czasowo blokująca neuroprzekaźnictwo.",
+      "sourceExcerpt": "Lidokaina – substancja przeciwbólowa czasowo blokująca neuroprzekaźnictwo",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-16",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Do badania budowy mózgu służą:"
+      ],
+      "correct": [
+        "TK i MRI"
+      ],
+      "distractors": [
+        "EEG i MEG",
+        "PET i fMRI",
+        "TMS i EMG",
+        "EEG i PET",
+        "MEG i fMRI",
+        "TMS i EEG"
+      ],
+      "explanation": "Metody wg tego, co badamy: aktywność neuronalna – EEG, MEG; budowa – TK, MRI; funkcjonowanie – PET, fMRI; dodatkowo TMS (stymulacja), EMG (mięśnie).",
+      "sourceExcerpt": "Budowa mózgu – TK, MRI",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-17",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Do badania funkcjonowania mózgu służą:"
+      ],
+      "correct": [
+        "PET i fMRI"
+      ],
+      "distractors": [
+        "EEG i MEG",
+        "TK i MRI",
+        "TMS i EMG",
+        "TK i EEG",
+        "MEG i MRI",
+        "EMG i TK"
+      ],
+      "explanation": "Funkcjonowanie – PET, fMRI; budowa – TK, MRI; aktywność neuronalna – EEG, MEG.",
+      "sourceExcerpt": "funkcjonowanie mózgu – PET, fMRI",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-18",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Przezczaszkowa stymulacja magnetyczna (TMS):"
+      ],
+      "correct": [
+        "umożliwia stymulację mózgu"
+      ],
+      "distractors": [
+        "rejestruje aktywność mięśni",
+        "obrazuje budowę kości",
+        "mierzy pole magnetyczne mózgu",
+        "znakuje aktywne komórki glukozą",
+        "rejestruje fale EEG",
+        "obrazuje przepływ krwi"
+      ],
+      "explanation": "Dodatkowo: TMS – stymulacja mózgu; EMG – badanie mięśni; testy neuropsychologiczne.",
+      "sourceExcerpt": "TMS – umożliwia stymulację mózgu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-19",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Główną zaletą EEG jest:"
+      ],
+      "correct": [
+        "bardzo dobra dokładność czasowa"
+      ],
+      "distractors": [
+        "dokładna lokalizacja źródła sygnału",
+        "odporność na zakłócenia ruchowe",
+        "krótki czas zakładania elektrod",
+        "brak potrzeby specjalisty do odczytu",
+        "obrazowanie struktur podkorowych",
+        "obrazowanie budowy kości"
+      ],
+      "explanation": "EEG: plusy – dokładność czasowa, niski koszt; minusy – trudna lokalizacja źródła, zakłócenia ruchowe i mięśniowe, czas zakładania i badania, specjalista do odczytu.",
+      "sourceExcerpt": "EEG – plusy: b dobra dokładność czasowa, relatywnie niski koszt",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-20",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Wadą EEG jest:"
+      ],
+      "correct": [
+        "trudność lokalizacji źródła sygnału"
+      ],
+      "distractors": [
+        "słaba dokładność czasowa",
+        "bardzo wysoki koszt",
+        "dawka promieniowania jonizującego",
+        "konieczność podania znacznika",
+        "silne pole magnetyczne",
+        "konieczność narkozy"
+      ],
+      "explanation": "EEG – minusy: trudna lokalizacja źródła sygnału, zakłócenia, czas przygotowania, potrzeba specjalisty.",
+      "sourceExcerpt": "EEG – minus: trudność lokalizacji źródła sygnału",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-21",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "EEG i MEG pozwalają widzieć aktywność:"
+      ],
+      "correct": [
+        "tylko struktur korowych"
+      ],
+      "distractors": [
+        "także głębokich struktur podkorowych",
+        "wyłącznie móżdżku",
+        "wyłącznie pnia mózgu",
+        "wyłącznie mięśni szkieletowych",
+        "całego układu nerwowego jednakowo",
+        "tylko rdzenia kręgowego"
+      ],
+      "explanation": "EEG rejestruje aktywność dużych populacji neuronów, głównie korowych; EEG i MEG widzą tylko struktury korowe.",
+      "sourceExcerpt": "EEG, MEG – pozwala widzieć aktywność tylko struktur korowych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-22",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Potencjał ERP N400 to odpowiedź wrażliwa na:"
+      ],
+      "correct": [
+        "dopasowanie znaczenia słowa do kontekstu"
+      ],
+      "distractors": [
+        "rozpoznawanie istotnych bodźców i aktualizację pamięci roboczej",
+        "natężenie bodźca dźwiękowego",
+        "ruchy gałek ocznych",
+        "poziom glukozy we krwi",
+        "przejście w głęboki sen",
+        "napięcie mięśni twarzy"
+      ],
+      "explanation": "ERP (potencjały związane ze zdarzeniami): N400 – dopasowanie znaczenia słowa do kontekstu; P300 – uwaga, rozpoznawanie istotnych bodźców, aktualizacja kontekstu w pamięci roboczej.",
+      "sourceExcerpt": "n400 – odpowiedź wrażliwa na dopasowanie znaczenia słowa do kontekstu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-23",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Potencjał ERP P300 wiąże się z:"
+      ],
+      "correct": [
+        "uwagą i rozpoznawaniem istotnych bodźców"
+      ],
+      "distractors": [
+        "dopasowaniem znaczenia słowa do kontekstu",
+        "głębokim snem NREM",
+        "ruchami mięśni szkieletowych",
+        "odczuwaniem temperatury",
+        "regulacją rytmu serca",
+        "rozpoznawaniem twarzy"
+      ],
+      "explanation": "P300 – uwaga, rozpoznawanie istotnych bodźców, aktualizacja kontekstu w pamięci roboczej; N400 – znaczenie słowa w kontekście.",
+      "sourceExcerpt": "p300 – uwaga, rozpoznawanie istotnych bodźców, aktualizacja kontekstu w pamięci roboczej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-24",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Magnetoencefalografia (MEG) rejestruje:"
+      ],
+      "correct": [
+        "pole magnetyczne mózgu"
+      ],
+      "distractors": [
+        "aktywność elektryczną mięśni",
+        "budowę kości czaszki",
+        "rozkład znakowanej glukozy",
+        "przepływ krwi w naczyniach",
+        "promieniowanie rentgenowskie",
+        "odruchy źreniczne"
+      ],
+      "explanation": "MEG – pole magnetyczne mózgu; bardzo drogie, przez to bardzo rzadko wykonywane.",
+      "sourceExcerpt": "MEG – pole magnetyczne mózgu, magnetoencefalografia; mega drogie, przez to b. rzadko robimy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-25",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Elektromiografia (EMG):"
+      ],
+      "correct": [
+        "rejestruje aktywność elektryczną mięśni"
+      ],
+      "distractors": [
+        "rejestruje pole magnetyczne mózgu",
+        "obrazuje budowę mózgu",
+        "umożliwia stymulację mózgu",
+        "pokazuje aktywne ośrodki znakowaną glukozą",
+        "rejestruje fale alfa i beta",
+        "obrazuje przepływ krwi w mózgu"
+      ],
+      "explanation": "EMG – metoda uzupełniająca: aktywność elektryczna mięśni; wymaga pełnej współpracy pacjenta; wynik wymaga interpretacji klinicznej.",
+      "sourceExcerpt": "EMG – emg rejestruje aktywność elektryczną mięśni; wymaga pełnej współpracy od pacjenta",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-26",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "W pozytonowej tomografii emisyjnej (PET) kontrastem jest:"
+      ],
+      "correct": [
+        "sztuczny analog glukozy"
+      ],
+      "distractors": [
+        "hipertoniczny roztwór chlorku sodu",
+        "jod wstrzykiwany do kości",
+        "silne pole magnetyczne i fale radiowe",
+        "lidokaina blokująca neurony",
+        "woda o określonej temperaturze",
+        "kolchicyna wyłączająca neurony"
+      ],
+      "explanation": "PET: kontrast – sztuczny analog glukozy, wnika do aktywnych komórek i jest widoczny w badaniu radiologicznym (pracujące neurony potrzebują glukozy).",
+      "sourceExcerpt": "PET – kontrast → sztuczny analog glukozy: wnika do aktywnych komórek i jest potem widziany poprzez badanie radiologiczne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-27",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Tomografia komputerowa, w odróżnieniu od rezonansu magnetycznego:"
+      ],
+      "correct": [
+        "nie rozróżnia istoty białej i szarej"
+      ],
+      "distractors": [
+        "dokładnie rozróżnia istotę białą i szarą",
+        "nie pokazuje kości",
+        "nie wykrywa wylewów",
+        "trwa od 15 do 60 minut",
+        "nie wykorzystuje promieniowania",
+        "jest bezpieczna w ciąży bez ograniczeń"
+      ],
+      "explanation": "TK: szybka, kości wyraźnie, cień tkanek miękkich, guzy, wylewy – bez rozróżnienia istoty białej i szarej; MRI – bardziej szczegółowy.",
+      "sourceExcerpt": "Tomografia – mechanizm szybki; kości wyraźnie, cień tkanek miękkich, … bez rozróżnienia na białą, szarą materię",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-28",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rezonans magnetyczny (MRI) wykorzystuje:"
+      ],
+      "correct": [
+        "silne pole magnetyczne i fale radiowe"
+      ],
+      "distractors": [
+        "promieniowanie rentgenowskie",
+        "analog glukozy jako kontrast",
+        "elektrody na skórze głowy",
+        "pole magnetyczne samego mózgu",
+        "promieniowanie jonizujące",
+        "impulsy prądu do mięśni"
+      ],
+      "explanation": "TK – promieniowanie rentgenowskie (jonizujące); MRI – silne pole magnetyczne i fale radiowe, bez promieniowania.",
+      "sourceExcerpt": "Ilustracja (tabela „Porównanie metod obrazowania”): Technologia: TK – promieniowanie rentgenowskie (RTG); MRI – silne pole magnetyczne i fale radiowe",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-29",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Badanie rezonansem magnetycznym (MRI) trwa zwykle:"
+      ],
+      "correct": [
+        "15–60 minut"
+      ],
+      "distractors": [
+        "kilka sekund",
+        "kilka minut",
+        "2–3 godziny",
+        "całą dobę",
+        "około 1 minuty",
+        "od 3 do 5 minut"
+      ],
+      "explanation": "Czas: TK – bardzo krótki (kilka minut); MRI – długi (15–60 minut).",
+      "sourceExcerpt": "Ilustracja (tabela „Porównanie metod obrazowania”): Czas badania: TK – Bardzo krótki (kilka minut); MRI – Długi (od 15 do 60 minut)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-30",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Przy nagłych urazach, krwawieniach i badaniu kości częściej stosuje się:"
+      ],
+      "correct": [
+        "tomografię komputerową"
+      ],
+      "distractors": [
+        "rezonans magnetyczny",
+        "elektroencefalografię",
+        "magnetoencefalografię",
+        "elektromiografię",
+        "stymulację magnetyczną (TMS)",
+        "funkcjonalny rezonans (fMRI)"
+      ],
+      "explanation": "Zastosowanie: TK – kości, płuca, krwawienia, nagłe urazy; MRI – mózg, stawy, mięśnie, rdzeń, tkanki miękkie.",
+      "sourceExcerpt": "Ilustracja (tabela „Porównanie metod obrazowania”): Zastosowanie: TK – Kości, płuca, krwawienia, nagłe urazy; MRI – Mózg, stawy, mięśnie, rdzeń kręgowy, tkanki miękkie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-31",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Dawka promieniowania jonizującego towarzyszy badaniu:"
+      ],
+      "correct": [
+        "tomografią komputerową"
+      ],
+      "distractors": [
+        "rezonansem magnetycznym",
+        "elektroencefalografią",
+        "magnetoencefalografią",
+        "elektromiografią",
+        "stymulacją magnetyczną",
+        "funkcjonalnym rezonansem"
+      ],
+      "explanation": "TK – tak (promieniowanie jonizujące); MRI – brak (bezpieczny w ciąży przy braku przeciwwskazań).",
+      "sourceExcerpt": "Ilustracja (tabela „Porównanie metod obrazowania”): Promieniowanie: TK – TAK (dawka promieniowania jonizującego); MRI – BRAK (bezpieczne dla kobiet w ciąży, jeśli brak przeciwwskazań)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-32",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rytm EEG charakterystyczny dla głębokiego snu NREM (najwolniejsze fale, osoba trudna do wybudzenia) to:"
+      ],
+      "correct": [
+        "delta (0,5–4 Hz)"
+      ],
+      "distractors": [
+        "theta (3–7 Hz)",
+        "alfa (8–12 Hz)",
+        "beta (13–30 Hz)",
+        "gamma (30–80 Hz)",
+        "theta (30–80 Hz)",
+        "alfa (0,5–4 Hz)"
+      ],
+      "explanation": "Delta 0,5–4 Hz – najwolniejsze fale, głęboki sen NREM.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): DELTA, 0,5–4 Hz: Najwolniejsze fale. Charakterystyczne dla głębokiego snu NREM.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-33",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rytm EEG pojawiający się przy zasypianiu, senności i płytkim śnie, ale też przy intensywnym angażowaniu pamięci roboczej, to:"
+      ],
+      "correct": [
+        "theta (3–7 Hz)"
+      ],
+      "distractors": [
+        "delta (0,5–4 Hz)",
+        "alfa (8–12 Hz)",
+        "beta (13–30 Hz)",
+        "gamma (30–80 Hz)",
+        "delta (13–30 Hz)",
+        "alfa (0,5–4 Hz)"
+      ],
+      "explanation": "Theta 3–7 Hz – senność, płytki sen, też procesy pamięciowe i uwagowe (zasypianie, pamięć robocza).",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): THETA, 3–7 Hz: Występują podczas senności i płytkiego snu, ale także w określonych procesach pamięciowych i uwagowych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-34",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Osoba siedzi spokojnie z zamkniętymi oczami. W jej EEG dominuje rytm:"
+      ],
+      "correct": [
+        "alfa (8–12 Hz)"
+      ],
+      "distractors": [
+        "delta (0,5–4 Hz)",
+        "theta (3–7 Hz)",
+        "beta (13–30 Hz)",
+        "gamma (30–80 Hz)",
+        "delta (13–30 Hz)",
+        "theta (30–80 Hz)"
+      ],
+      "explanation": "Alfa 8–12 Hz – spokojne czuwanie, zwłaszcza przy zamkniętych oczach.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): ALFA, 8–12 Hz: Typowe dla spokojnego czuwania, zwłaszcza przy zamkniętych oczach.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-35",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Osoba w skupieniu rozwiązuje zadanie matematyczne. W jej EEG dominuje rytm:"
+      ],
+      "correct": [
+        "beta (13–30 Hz)"
+      ],
+      "distractors": [
+        "delta (0,5–4 Hz)",
+        "theta (3–7 Hz)",
+        "alfa (8–12 Hz)",
+        "gamma (30–80 Hz)",
+        "delta (13–30 Hz)",
+        "theta (30–80 Hz)"
+      ],
+      "explanation": "Beta 13–30 Hz – aktywne czuwanie, przetwarzanie informacji, procesy ruchowe.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): BETA, 13–30 Hz: Związane z aktywnym czuwaniem, przetwarzaniem informacji i procesami ruchowymi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-36",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rytm EEG związany z integracją informacji sensorycznej, np. rozpoznawaniem obiektu na podstawie różnych cech wzrokowych, to:"
+      ],
+      "correct": [
+        "gamma (30–80 Hz)"
+      ],
+      "distractors": [
+        "delta (0,5–4 Hz)",
+        "theta (3–7 Hz)",
+        "alfa (8–12 Hz)",
+        "beta (13–30 Hz)",
+        "delta (13–30 Hz)",
+        "theta (30–80 Hz)"
+      ],
+      "explanation": "Gamma 30–80 Hz – przetwarzanie bodźców, integracja informacji sensorycznej, pamięć.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): GAMMA, 30–80 Hz: Związane m.in. z przetwarzaniem bodźców, integracją informacji sensorycznej i pamięcią.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-37",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rytm alfa w EEG ma częstotliwość:"
+      ],
+      "correct": [
+        "8–12 Hz"
+      ],
+      "distractors": [
+        "0,5–4 Hz",
+        "3–7 Hz",
+        "13–30 Hz",
+        "30–80 Hz",
+        "80–120 Hz",
+        "1–2 Hz"
+      ],
+      "explanation": "Delta 0,5–4 · theta 3–7 · alfa 8–12 · beta 13–30 · gamma 30–80 Hz.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): ALFA – 8–12 Hz",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "cwiczenia-biologiczne-podstawy-zachowan-metody-inwazyjne-i-bezinwazyjne-38",
+      "bookId": "cwiczenia-biologiczne-podstawy-zachowan",
+      "chapterId": "metody-inwazyjne-i-bezinwazyjne",
+      "stems": [
+        "Rytm beta w EEG ma częstotliwość:"
+      ],
+      "correct": [
+        "13–30 Hz"
+      ],
+      "distractors": [
+        "0,5–4 Hz",
+        "3–7 Hz",
+        "8–12 Hz",
+        "30–80 Hz",
+        "80–120 Hz",
+        "1–2 Hz"
+      ],
+      "explanation": "Delta 0,5–4 · theta 3–7 · alfa 8–12 · beta 13–30 · gamma 30–80 Hz.",
+      "sourceExcerpt": "Ilustracja (tabela „Spontaniczna aktywność – rytmy”): BETA – 13–30 Hz",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

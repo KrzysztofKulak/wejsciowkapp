@@ -153,6 +153,8 @@ p300 - uwaga, rozpoznawanie istotnych bodźców, aktualizacja kontekstu w pamię
 
 magnetoencefalografia 
 
+mega drogie, przez to b. rzadko robimy 
+
 ### EMG - układ nerwowo mięśniowy
 
 metoda uzupełniająca
@@ -186,3 +188,17 @@ pracujące neurony wymagają stałej dostawy substratów energetycznych (glukoz
 kontrast → sztuczny analog glukozy: wnika do aktywnych komórek i jest potem widziany poprzez badanie radiologiczne
 
 #### FMRI
+
+> 
+
+  Tomografia - mechanizm szybki
+
+  kości wyraźnie, cień tkanek miękkich, guzy - skupisko naczyń krwionośnych, incydenty naczyniowe: wylewy itp, bez rozróżnienia na białą, szarą materię 
+
+  Rezonans - bardziej szczegółowy
+
+  EEG, MEG - pozwala widzieć aktywność tylko struktur korowych
+
+> 
+
+  Rytmy aktywności (Alfa, beta, gamma itp.) nauczyć się który jest kiedy!!!

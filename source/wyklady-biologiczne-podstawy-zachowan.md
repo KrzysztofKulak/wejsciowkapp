@@ -424,7 +424,7 @@ Drogi dopaminoergiczne - układ nagrody
   Synapsy się reorganizują w trakcie życia człowieka.
 
   [image: ]
-  <!-- img: img/41175c03-f28a-80e0-adae-f98533e5102f.jpg -->
+  <!-- img: img/41175c03-f28a-80e0-adae-f98533e5102f.png -->
 
   Gdy mózg jest wystawiony na mniej bodźców → liczba neuronów związanych z tymi bodźcami się redukuje.
 
@@ -707,3 +707,245 @@ Waży średnio 1250-1500 g., czyli 2-2.5% masy ciała, które zużywa 1/4 tlenu 
 > 
 
   **Współczynik encefalizacji **- to wskaźnik w biologii i ewolucjonizmie, który określa stosunek rzeczywistej masy mózgu danego organizmu do masy mózgu, jakiej należałoby się spodziewać u zwierzęcia o takich samych rozmiarach ciała
+
+  13:30-15:45
+
+### Półkule mózgowe
+
+Stanowią mózg właściwy osadzony na pniu mózgu.
+
+Rozdzielone są **szczeliną mózgu**.
+
+W głębi połączone **ciałem modzelowatymi** zwanym też ***spoidłem wielkim***.
+
+[image: ]
+<!-- img: img/41275c03-f28a-8065-8fe7-c85f5145481b.png -->
+
+## Pień mózgu
+
+### **Rdzeń przedłużony**
+
+Tu drogi piramidowe łączące k. nerwowy kory mózgowej i k. rogów przednich rdzenia
+
+Funkcje - odruchy - ssanie, żucie, kaszel, połykanie, mruganie powiekami, wymioty, ruchy oddechowe
+
+Ośrodek oddechowy (pobudzone przez CO2 i nerw błędny)
+
+Regulacja czynności serca (hamowanie akcji serca, odruch Aschnera (nacisk na oczy spowalnia serce), Goltza (uderzenie w splot słoneczny spowalnia serce)
+
+Ośrodek naczynioruchowy (rozszerza naczynia krwionośne)
+
+Wydzielanie potu
+
+Ośrodek regulujący przemianę materii 
+
+### Most
+
+zbudowany z włókien nerwowych łączących korę mózgową z rdzeniem z rdzeniem przedłużonym, rdzeniem kręgowym i z móżdżkiem
+
+tutaj krzyżują się nerwy (kontralateralność)
+
+Stacja łącznikowa mózgu z móżdżkiem
+
+Gra też rolę w czasie snu - tu powstają marzenia senne (REM)
+
+produkcja noradrenaliny 
+
+udział w wyzwalaniu reakcji stresowej, wzmacnianiu zachowań lękowych i stresu pourazowego.
+
+aktywowane też przez stresory fizykalne (spadek ciśnienia, hipoglikemia, zaburzenia termoregulacji)
+
+**Jądra mostu **- sen, oddychanie, połykanie, kontrola pęcherza moczowego, równowaga, smak, motoryka gałek ocznych, ekspresja mięśni twarzy, czucie twarzowe
+
+Most odpowiada za porażenie przydenne (paraliż senny) - podczas zasypiania, objawia się porażeniem mięśni (katapleksja) przy zachowaniu pełnej świadomości.
+
+**Miejsce sinawe: **aktywacja związana ze stresorami fizykalnymi (np hipoglikemia, spadek ciśnienia krwi) i psychologicznymi. Rola w regulacji stopnia pobudzenia mózgu, fazy snu REM, niektórych funkcjach autonomicznych (np. termoregulacji). Tu produkowana jest noradrenalina. Udział w wyzwalaniu reakcji stresowej. Gra rolę we wzmacnianiu zachowań lękowych i w zespole stresu pourazowego 
+
+### Śródmózgowie
+
+#### Pokrywa
+
+Postać blaszki czworaczej. 
+
+- *Wzgórki tylne* związane z odruchami słuchowymi, np. zwrot głowy w kierunku dźwięki. 
+- *Wzgórki przednie* związane są drogami wzrokowymi - kierują odruchami oka i źrenicy.
+#### Nakrywka
+
+jądra motoryczne z układu pozapiramidowego jest tu też *twór siatkowaty nakrywki.*
+
+#### Konary mózgu (u ssaków)
+
+Pasma dróg piramidowych. Kontrola motoryki, która zaczyna się w korze mózgowej (u innych zwierząt motoryka jest zwykle poza korą, bardziej instynktowna).
+
+> 
+
+  Twór siatkowaty - układ koordynujący ruchy mięśni, warunkuje wzbudzanie/pobudzanie lub hamowanie neuronów rdzenia i wspomaga podwzgórze w kontrol stanu czuwania, odprężenia czy snu. 
+
+  **Część wstępująca** dzieli się na:
+
+  - układ siatkowy wstępujący pobudzający (RAS) - prowadzi impulsację do kory mózgowej, ośrodków autonomicznych oraz ośrodków podkorowych motywacyjnych;
+  - układ wstępujący hamujący (rekrutujący wzgórza) - działa antagonistycznie do RAS, wygasza aktywność bioelektryczną mózgu (spada aktywność ruchowa, sen).
+  **Część zstępująca** - wpływa na czynność ośrodków oddechowych, krążeniowych oraz na napięcie mięśniowe.
+
+## Móżdżek
+
+leży poniżej płatów potylicznych
+
+współdziała z korą mózgową w wykonywaniu ruchów (koordynacja ruchów dowolnych)
+
+brak móżdżku - zaburzenia napięci mięśni (atonia), brak koordynacji ruchów (ataksja), drożeje (astazja), nie można utrzymać pozycji stojącej, szybkie męczenie się (astenia)
+
+#### móżdżkowy zespół poznawczo-emocjonalny (CCAS, zespół Schmahmanna)
+
+zespół deficytów poznawczych (postrzegania przestrzennego oraz afektu). Utrata funkcji wykonawczych to problemy z planowaniem, abstrakcyjnym myśleniem, płynnością werbalną, pamięcią roboczą, deficyty uwagi. Problemy językowe obejmują dysprosodię, agramatyzm. 
+
+## Międzymózgowie
+
+ośrodki motywacyjne związane z mechanizmem unikania i konsumowania.
+
+1. **Wzgórzomózgowie**
+  integruje impulsy z móżdżku i zwojów podstawy - przekazuje je do kory motorycznej
+
+  przekazuje impulsy sensoryczne do kory czuciowej
+
+  odgrywa rolę co do zachowań i zdolności poznawczych (jądro środkowo-grzbietowe ma neuronalne połączenie z korą przedczołową).
+
+  > Uszkodzenie tej części skutkuje:
+- brakiem zainteresowania, obojętnością,
+- zaburzeniami osobowości
+- zaburzeniami zachowań społecznych
+
+2. **Podwzgórze (hypothalamus) **
+  4 gramy. ono zarządza autonomicznym układem nerwowym - reguluje temperaturę, apetyt, metabolizm wody, poziom cukru, wzrastanie, sen i każdą inną czynność, która zachodzi bez myślenia.
+
+  Ośrodki:
+
+  pokarmowy (głodu i sytości) - neurony reagują na poziom glukozy. Są tam neurony reagujące na głód i sytość (osobne). Reagują także na peptydy opioidowe → pobudzają one ośrodek głodu.
+
+  pragnienia (związany z ośrodkiem termoregulacji) - szybko przestaje pracować, przez co stare osoby często się odwadniają
+
+  agresji i ucieczki,
+
+  rozrodczy (męski lub żeński) - ośrodek libida, ośrodek orientacji seksualnej (🤔🤨), kontrola produkcji komórek jajowych/plemników itp. 
+
+3. **Szyszynka**
+  produkuje melatoninę z serotoniny
+
+  hamują dojrzewanie (zaburzenia szyszynki mogą powodować przedwczesne dojrzewanie)
+
+## Odruchy mózgowe
+
+inne od odruchów bezwarunkowych
+
+Tutaj odruch ustępuje nie na skutek usunięcia bodźca, a na skutek usunięcia napędu. Np. pies gdy mięso, reaguje gdy głodny. Procesy napędowe są zlokalizowane w układzie limbicznym
+
+Odruchy: ucieczki, unikania, konsumowania i osiągania. Wywołane odpowiednio przez: awersyjny bodziec pierwotny, sygnał tego bodźca, atrakcyjny bodziec, jego sygnał.
+
+W habituacji dużą rolę odgrywają płaty czołowe.
+
+## Kresomózgowie
+
+### Półkule
+
+Skupisko tkanki nerwowej (zwoje i bruzdy) odpowiedzialne za całą naszą mądrość, kojarzenie, sądy.
+
+Między nimi szczelina podłużna, niżej połączone ciałem modzelowatym.
+
+Wewnątrz komory boczne.
+
+Substancja szara jest kilkuwarstwowa (grubość 1,4-4,5 mm) - kora mózgowa
+
+Każda półkula to cztery płaty:
+
+1. **czołowy** (od bruzdy środkowej ku przodowi)
+  kora motoryczna, ośrodki mowy, ośrodek pisania, zachowania złożone — np. hamowanie popędów.
+
+2. **ciemieniowy - pola czuciowe skóry (dotyk, ból, temperatura), rozpoznanie przedmiotów, ocena odległości, wielkości, kształtu)**
+3. **skroniowy** - węch, słuch 
+4. potyliczny - pole wzrokowe 
+> 
+
+  Prozopagnozja
+
+  zaburzenie percepcji wzrokowej, polegające na upośledzeniu zdolności rozpoznawania twarzy, a niektórych przypadkach także ich wyrazu emocjonalnego, przy niezaburzonej percepcji innych obiektów. 
+
+Kora orbitofrontalna 
+
+Opuszka węchowa - malutka
+
+#### **Insula **
+
+lub płat wyspowy, to część kory mózgowej “W środku” mózgu ssaka.
+
+Funkconalne regiony w ludzkiej insuli:
+
+  - sensomotoryczne
+  - węchowo-smakowe
+  - społeczno-emocjonalny (anterior-ventral) 
+  - kognitywny (anterior-dorsal)
+> ventralny - brzuszny
+dorsalny - grzbietowy
+
+Przednia część insuli odpowiada za wstręt.
+
+#### Okolica styku skroniowo-ciemieniowo-potylicznego
+
+kojarzenie intermodalny, inteligencja (analizator analizatorów)
+
+kora asocjacyjna
+
+> 
+
+  Asymetrczność funkcji półkul → raczej **wg nowych badań nieprawda, ogromne uproszczenie → półkule się uzupełniają**
+
+  lewa (jeśli dominująca) - pisanie, mowa, logika
+
+  prawa - sztuka, fantazje, muzyka, rozpoznawanie całościowe, orientacja w przestrzeni
+
+  m.in. prenatalny poziom testosteronu wpływa na wielkość prawej półkuli i cechy z nią związane.  
+
+### Układ rąbkowy (limbiczny)
+
+- brzeżny, limbiczny (węchomózgowie) - najstarcza część kresomózgowia najbliżej nosowego końca ciała
+  - sklepienie mózgu, hipokamp, ciało migdałowate, jądra przegrody, zakręt obrzeży
+  - zajmuje się zmysłem powonienia
+### Jądra (zwoje) podstawy
+
+## 3 klasy ruchów
+
+### dowolne
+
+steroawne z najwyższego poziomu układu nerwowego (w sprzężeniach zwrotnych z móżdżkiem i jądrami podstawy). Są wyuczone i ich skuteczność ulepsza się wraz z treningiem.
+
+### reakcje odruchowe
+
+### rytmiczne wzorce ruchowe
+
+chód, bieg, żucie, jazda na rowerze (kombinacja ruchów dowolnych i odruchowych)
+
+## Układ ruchowy
+
+#### Drogi piramidowe -
+
+od k. piramidowych w korze
+
+[image: ]
+<!-- img: img/41275c03-f28a-808c-8130-fb23dc474828.png -->
+
+#### Drogi układu pozapiramidowego
+
+współdziała z piramidowyum
+
+zwoje podst. kresomózgowia.
+
+gałka blada, prążkowanie, twór siatkowaty rdzenia i nakrywki… itp.
+
+reguluje napięcie mięśni, zarządza automatyzmami ruchowymi, np. po nauczeniu się to: chodzenie, pływanie, jeżdżenie na łyśwach
+
+> praksje z wiekiem ulegają pogorszeniu
+
+#### Zwoje podstawy
+
+znajdują się głęboko i zbudowane są z substancji szarej
+
+????

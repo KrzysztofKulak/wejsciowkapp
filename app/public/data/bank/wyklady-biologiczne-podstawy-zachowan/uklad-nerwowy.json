@@ -2,7 +2,7 @@
   "bookId": "wyklady-biologiczne-podstawy-zachowan",
   "chapterId": "uklad-nerwowy",
   "chapterTitle": "Układ nerwowy",
-  "sourceHash": "72c712be948cea367a9dda6845b9016d40c8363b",
+  "sourceHash": "20df5fe89834eef0d8cf5ff9e2c521405f27dd45",
   "questions": [
     {
       "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-01",
@@ -626,6 +626,1042 @@
       ],
       "explanation": "Przeciwna noga podtrzymuje ciało: prostowniki kurczą się, zginacze są hamowane; drogi wstępujące niosą informację o bólu i zmianie postawy.",
       "sourceExcerpt": "Ilustracja (Odruch skrzyżowany wyprostny): Extensors contract as weight shifts to left leg; flexors inhibited.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-28",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Półkule mózgowe są w głębi połączone:"
+      ],
+      "correct": [
+        "ciałem modzelowatym"
+      ],
+      "distractors": [
+        "szczeliną podłużną mózgu",
+        "mostem",
+        "konarami mózgu",
+        "blaszką czworaczą",
+        "tworem siatkowatym",
+        "rdzeniem przedłużonym"
+      ],
+      "explanation": "Półkule rozdziela szczelina (podłużna) mózgu, a w głębi łączy je ciało modzelowate (spoidło wielkie).",
+      "sourceExcerpt": "Rozdzielone są szczeliną mózgu. W głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim. Ilustracja (przekrój strzałkowy mózgu): Ciało modzelowate (spoidło wielkie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-29",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ośrodki odruchów ssania, połykania, kaszlu i wymiotów oraz ośrodek oddechowy znajdują się w:"
+      ],
+      "correct": [
+        "rdzeniu przedłużonym"
+      ],
+      "distractors": [
+        "móżdżku",
+        "śródmózgowiu",
+        "wzgórzomózgowiu",
+        "szyszynce",
+        "płacie skroniowym",
+        "ciele modzelowatym"
+      ],
+      "explanation": "Rdzeń przedłużony: odruchy (ssanie, żucie, kaszel, połykanie, mruganie, wymioty, oddech), ośrodek oddechowy, regulacja serca, naczynioruchowy, pot, przemiana materii.",
+      "sourceExcerpt": "Rdzeń przedłużony – Funkcje – odruchy – ssanie, żucie, kaszel, połykanie, mruganie powiekami, wymioty, ruchy oddechowe; Ośrodek oddechowy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-30",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ośrodek oddechowy w rdzeniu przedłużonym jest pobudzany przez:"
+      ],
+      "correct": [
+        "CO2 i nerw błędny",
+        "dwutlenek węgla i nerw błędny"
+      ],
+      "distractors": [
+        "tlen i nerw trójdzielny",
+        "glukozę i nerw wzrokowy",
+        "melatoninę i nerw twarzowy",
+        "noradrenalinę z szyszynki",
+        "spadek CO2 i nerw słuchowy",
+        "serotoninę i nerw węchowy"
+      ],
+      "explanation": "Ośrodek oddechowy (rdzeń przedłużony) pobudzają CO2 i nerw błędny.",
+      "sourceExcerpt": "Ośrodek oddechowy (pobudzone przez CO2 i nerw błędny)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-31",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch Aschnera polega na tym, że:"
+      ],
+      "correct": [
+        "nacisk na gałki oczne spowalnia pracę serca"
+      ],
+      "distractors": [
+        "uderzenie w splot słoneczny spowalnia pracę serca",
+        "nacisk na gałki oczne przyspiesza pracę serca",
+        "uderzenie w splot słoneczny przyspiesza oddech",
+        "nacisk na szyję rozszerza naczynia krwionośne",
+        "dźwięk powoduje zwrot głowy w jego kierunku",
+        "światło zwęża źrenicę drugiego oka"
+      ],
+      "explanation": "Rdzeń przedłużony reguluje serce: odruch Aschnera (nacisk na oczy spowalnia serce), odruch Goltza (uderzenie w splot słoneczny spowalnia serce).",
+      "sourceExcerpt": "Regulacja czynności serca (hamowanie akcji serca, odruch Aschnera (nacisk na oczy spowalnia serce), Goltza (uderzenie w splot słoneczny spowalnia serce)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-32",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch Goltza polega na tym, że:"
+      ],
+      "correct": [
+        "uderzenie w splot słoneczny spowalnia pracę serca"
+      ],
+      "distractors": [
+        "nacisk na gałki oczne spowalnia pracę serca",
+        "uderzenie w splot słoneczny przyspiesza pracę serca",
+        "nacisk na gałki oczne przyspiesza oddech",
+        "uderzenie w kolano wywołuje jego wyprost",
+        "dźwięk powoduje zwrot głowy w jego kierunku",
+        "nacisk na brzuch rozszerza naczynia krwionośne"
+      ],
+      "explanation": "Goltz: uderzenie w splot słoneczny spowalnia serce; Aschner: nacisk na oczy spowalnia serce.",
+      "sourceExcerpt": "Goltza (uderzenie w splot słoneczny spowalnia serce)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-33",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Struktura pnia mózgu będąca stacją łącznikową mózgu z móżdżkiem, w której powstają marzenia senne (REM), to:"
+      ],
+      "correct": [
+        "most"
+      ],
+      "distractors": [
+        "rdzeń przedłużony",
+        "śródmózgowie",
+        "podwzgórze",
+        "szyszynka",
+        "wzgórzomózgowie",
+        "ciało modzelowate"
+      ],
+      "explanation": "Most: włókna łączące korę z rdzeniem przedłużonym, rdzeniem kręgowym i móżdżkiem; krzyżowanie dróg; sen REM i marzenia senne; noradrenalina (miejsce sinawe).",
+      "sourceExcerpt": "Most – Stacja łącznikowa mózgu z móżdżkiem. Gra też rolę w czasie snu – tu powstają marzenia senne (REM)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-34",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W moście krzyżują się drogi nerwowe, czego skutkiem jest:"
+      ],
+      "correct": [
+        "kontralateralność – półkula steruje przeciwną stroną ciała"
+      ],
+      "distractors": [
+        "ipsilateralność – półkula steruje tą samą stroną ciała",
+        "dominacja lewej półkuli we wszystkich funkcjach",
+        "brak połączeń między półkulami",
+        "sterowanie ruchem wyłącznie przez móżdżek",
+        "przewodzenie wyłącznie impulsów czuciowych",
+        "niezależność ruchów od kory mózgowej"
+      ],
+      "explanation": "W moście krzyżują się nerwy (kontralateralność): lewa półkula kory ruchowej steruje prawą stroną ciała, a lewa kora czuciowa odbiera z prawej.",
+      "sourceExcerpt": "tutaj krzyżują się nerwy (kontralateralność). Ilustracja (kora ruchowa i czuciowa – homunkulus): Left hemisphere section controls the body's right side",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-35",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Kora ruchowa lewej półkuli steruje:"
+      ],
+      "correct": [
+        "prawą stroną ciała"
+      ],
+      "distractors": [
+        "lewą stroną ciała",
+        "obiema stronami ciała jednakowo",
+        "tylko mięśniami twarzy",
+        "tylko kończynami dolnymi",
+        "wyłącznie narządami wewnętrznymi",
+        "tylko ruchami gałek ocznych"
+      ],
+      "explanation": "Ilustracja: kora ruchowa (output) lewej półkuli steruje prawą stroną ciała; kora czuciowa (input) lewej półkuli odbiera informacje z prawej strony.",
+      "sourceExcerpt": "Ilustracja (kora ruchowa i czuciowa – homunkulus): Output: Motor cortex (Left hemisphere section controls the body's right side)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-36",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Porażenie przysenne (paraliż senny), za które odpowiada most, to:"
+      ],
+      "correct": [
+        "porażenie mięśni przy zasypianiu przy pełnej świadomości"
+      ],
+      "distractors": [
+        "utrata świadomości przy zachowanej pracy mięśni",
+        "nagłe zaśnięcie w ciągu dnia bez porażenia",
+        "drgawki mięśni w głębokim śnie NREM",
+        "chodzenie we śnie bez świadomości",
+        "przyspieszenie oddechu podczas snu REM",
+        "brak marzeń sennych w fazie REM"
+      ],
+      "explanation": "Most odpowiada za porażenie przysenne: przy zasypianiu porażenie mięśni (katapleksja) przy zachowanej pełnej świadomości.",
+      "sourceExcerpt": "Most odpowiada za porażenie przydenne (paraliż senny) – podczas zasypiania, objawia się porażeniem mięśni (katapleksja) przy zachowaniu pełnej świadomości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-37",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Miejsce sinawe, aktywowane przez stresory fizykalne (np. hipoglikemię) i psychologiczne, gra rolę we wzmacnianiu:"
+      ],
+      "correct": [
+        "zachowań lękowych i PTSD"
+      ],
+      "distractors": [
+        "zachowań konsumpcyjnych i sytości",
+        "odruchów słuchowych i wzrokowych",
+        "rozpoznawania twarzy",
+        "koordynacji ruchów dowolnych",
+        "produkcji melatoniny i dojrzewania",
+        "kojarzenia intermodalnego"
+      ],
+      "explanation": "Miejsce sinawe: noradrenalina, pobudzenie mózgu, sen REM, termoregulacja, wyzwalanie reakcji stresowej, wzmacnianie lęku i PTSD.",
+      "sourceExcerpt": "Miejsce sinawe: aktywacja związana ze stresorami fizykalnymi … i psychologicznymi … Gra rolę we wzmacnianiu zachowań lękowych i w zespole stresu pourazowego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-38",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Pokrywa śródmózgowia ma postać:"
+      ],
+      "correct": [
+        "blaszki czworaczej"
+      ],
+      "distractors": [
+        "ciała modzelowatego",
+        "konarów mózgu",
+        "tworu siatkowatego",
+        "opuszki węchowej",
+        "zakrętu obręczy",
+        "szczeliny podłużnej"
+      ],
+      "explanation": "Śródmózgowie: pokrywa (blaszka czworacza – wzgórki przednie i tylne), nakrywka (jądra pozapiramidowe, twór siatkowaty), konary mózgu (drogi piramidowe).",
+      "sourceExcerpt": "Pokrywa – Postać blaszki czworaczej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-39",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Wzgórki tylne blaszki czworaczej są związane z:"
+      ],
+      "correct": [
+        "odruchami słuchowymi"
+      ],
+      "distractors": [
+        "odruchami oka i źrenicy",
+        "odruchem ssania i połykania",
+        "koordynacją ruchów dowolnych",
+        "regulacją snu i czuwania",
+        "rozpoznawaniem twarzy",
+        "kontrolą pęcherza moczowego"
+      ],
+      "explanation": "Wzgórki tylne – odruchy słuchowe (zwrot głowy w stronę dźwięku); wzgórki przednie – drogi wzrokowe, odruchy oka i źrenicy.",
+      "sourceExcerpt": "Wzgórki tylne związane z odruchami słuchowymi, np. zwrot głowy w kierunku dźwięku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-40",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Wzgórki przednie blaszki czworaczej są związane z:"
+      ],
+      "correct": [
+        "drogami wzrokowymi – odruchami oka i źrenicy"
+      ],
+      "distractors": [
+        "odruchami słuchowymi – zwrotem głowy w stronę dźwięku",
+        "odruchami ssania i połykania",
+        "koordynacją ruchów dowolnych",
+        "regulacją temperatury ciała",
+        "produkcją melatoniny",
+        "kontrolą oddychania"
+      ],
+      "explanation": "Wzgórki przednie – odruchy oka i źrenicy; wzgórki tylne – odruchy słuchowe.",
+      "sourceExcerpt": "Wzgórki przednie związane są drogami wzrokowymi – kierują odruchami oka i źrenicy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-41",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Konary mózgu (u ssaków) to:"
+      ],
+      "correct": [
+        "pasma dróg piramidowych"
+      ],
+      "distractors": [
+        "pasma dróg wzrokowych",
+        "skupiska jąder pozapiramidowych",
+        "część tworu siatkowatego",
+        "połączenie półkul mózgu",
+        "część układu limbicznego",
+        "zwoje podstawy"
+      ],
+      "explanation": "Konary mózgu – pasma dróg piramidowych; kontrola motoryki zaczynająca się w korze.",
+      "sourceExcerpt": "Konary mózgu (u ssaków) – Pasma dróg piramidowych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-42",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Układ siatkowaty wstępujący pobudzający (RAS):"
+      ],
+      "correct": [
+        "pobudza korę i ośrodki podkorowe"
+      ],
+      "distractors": [
+        "wygasza aktywność bioelektryczną mózgu i sprzyja snowi",
+        "wpływa na ośrodki oddechowe i napięcie mięśni",
+        "produkuje melatoninę z serotoniny",
+        "łączy obie półkule mózgu",
+        "odpowiada za odruchy oka i źrenicy",
+        "koordynuje ruchy dowolne z korą"
+      ],
+      "explanation": "Twór siatkowaty, część wstępująca: RAS – pobudza (impulsy do kory, ośrodków autonomicznych i motywacyjnych); układ hamujący (rekrutujący wzgórza) – wygasza aktywność, sen. Część zstępująca – oddech, krążenie, napięcie mięśni.",
+      "sourceExcerpt": "układ siatkowy wstępujący pobudzający (RAS) – prowadzi impulsację do kory mózgowej, ośrodków autonomicznych oraz ośrodków podkorowych motywacyjnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-43",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Układ wstępujący hamujący tworu siatkowatego (rekrutujący wzgórza):"
+      ],
+      "correct": [
+        "wygasza aktywność mózgu, sprzyja snowi"
+      ],
+      "distractors": [
+        "prowadzi impulsację pobudzającą do kory mózgowej",
+        "wpływa na ośrodki oddechowe i krążeniowe",
+        "zwiększa napięcie mięśniowe",
+        "przekazuje impulsy wzrokowe do kory",
+        "pobudza ośrodek głodu",
+        "koordynuje ruchy dowolne z móżdżkiem"
+      ],
+      "explanation": "Układ wstępujący hamujący działa antagonistycznie do RAS: wygasza aktywność mózgu, spada aktywność ruchowa, sen.",
+      "sourceExcerpt": "układ wstępujący hamujący (rekrutujący wzgórza) – działa antagonistycznie do RAS, wygasza aktywność bioelektryczną mózgu (spada aktywność ruchowa, sen)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-44",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Móżdżek współdziała z korą mózgową w:"
+      ],
+      "correct": [
+        "koordynacji ruchów dowolnych"
+      ],
+      "distractors": [
+        "rozpoznawaniu twarzy",
+        "produkcji melatoniny",
+        "regulacji głodu i sytości",
+        "odruchu kaszlu",
+        "kojarzeniu intermodalnym",
+        "odczuwaniu wstrętu"
+      ],
+      "explanation": "Móżdżek (poniżej płatów potylicznych) współdziała z korą w wykonywaniu ruchów – koordynacja ruchów dowolnych.",
+      "sourceExcerpt": "współdziała z korą mózgową w wykonywaniu ruchów (koordynacja ruchów dowolnych)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-45",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Brak koordynacji ruchów przy uszkodzeniu móżdżku to:"
+      ],
+      "correct": [
+        "ataksja"
+      ],
+      "distractors": [
+        "atonia",
+        "astazja",
+        "astenia",
+        "afazja",
+        "prozopagnozja",
+        "katapleksja"
+      ],
+      "explanation": "Brak móżdżku: atonia (zaburzenia napięcia mięśni), ataksja (brak koordynacji), astazja (nie można ustać), astenia (szybkie męczenie się).",
+      "sourceExcerpt": "brak móżdżku – zaburzenia napięcia mięśni (atonia), brak koordynacji ruchów (ataksja), … nie można utrzymać pozycji stojącej, szybkie męczenie się (astenia)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-46",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Astenia po uszkodzeniu móżdżku to:"
+      ],
+      "correct": [
+        "szybkie męczenie się"
+      ],
+      "distractors": [
+        "brak koordynacji ruchów",
+        "zaburzenie napięcia mięśni",
+        "niemożność utrzymania pozycji stojącej",
+        "utrata mowy",
+        "nieumiejętność rozpoznawania twarzy",
+        "porażenie mięśni przy zasypianiu"
+      ],
+      "explanation": "Astenia – szybkie męczenie się; ataksja – brak koordynacji; atonia – napięcie mięśni; astazja – nie można ustać.",
+      "sourceExcerpt": "szybkie męczenie się (astenia)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-47",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Móżdżkowy zespół poznawczo-emocjonalny (CCAS, zespół Schmahmanna) obejmuje m.in.:"
+      ],
+      "correct": [
+        "problemy z planowaniem i dysprozodię"
+      ],
+      "distractors": [
+        "wyłącznie zaburzenia koordynacji ruchów",
+        "utratę wzroku i słuchu",
+        "przedwczesne dojrzewanie płciowe",
+        "brak odruchu ssania i kaszlu",
+        "porażenie mięśni przy zasypianiu",
+        "utratę czucia skórnego"
+      ],
+      "explanation": "CCAS: deficyty poznawcze i afektywne – funkcje wykonawcze (planowanie, myślenie abstrakcyjne, płynność słowna, pamięć robocza, uwaga), język (dysprozodia, agramatyzm).",
+      "sourceExcerpt": "móżdżkowy zespół poznawczo-emocjonalny (CCAS, zespół Schmahmanna) – … problemy z planowaniem, abstrakcyjnym myśleniem, płynnością werbalną, pamięcią roboczą … dysprosodię, agramatyzm",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-48",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Uszkodzenie wzgórzomózgowia (jądra środkowo-grzbietowego połączonego z korą przedczołową) skutkuje m.in.:"
+      ],
+      "correct": [
+        "obojętnością, zmianami osobowości"
+      ],
+      "distractors": [
+        "ataksją i atonią mięśni",
+        "utratą odruchu kaszlu",
+        "przedwczesnym dojrzewaniem",
+        "brakiem odruchów źrenicznych",
+        "odwodnieniem u osób starszych",
+        "wzmożonym apetytem i głodem"
+      ],
+      "explanation": "Wzgórzomózgowie: przekazuje impulsy z móżdżku i zwojów podstawy do kory ruchowej, sensoryczne do czuciowej; uszkodzenie → brak zainteresowania, obojętność, zaburzenia osobowości i zachowań społecznych.",
+      "sourceExcerpt": "Uszkodzenie tej części skutkuje: brakiem zainteresowania, obojętnością, zaburzeniami osobowości, zaburzeniami zachowań społecznych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-49",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ważąca ok. 4 g struktura międzymózgowia zarządzająca autonomicznym układem nerwowym (temperatura, apetyt, gospodarka wodna, sen) to:"
+      ],
+      "correct": [
+        "podwzgórze"
+      ],
+      "distractors": [
+        "wzgórze",
+        "szyszynka",
+        "most",
+        "móżdżek",
+        "rdzeń przedłużony",
+        "ciało modzelowate"
+      ],
+      "explanation": "Podwzgórze (4 g) zarządza autonomicznym układem: temperatura, apetyt, woda, cukier, wzrastanie, sen; ośrodki głodu i sytości, pragnienia, agresji i ucieczki, rozrodczy.",
+      "sourceExcerpt": "Podwzgórze (hypothalamus) – 4 gramy. ono zarządza autonomicznym układem nerwowym – reguluje temperaturę, apetyt, metabolizm wody, poziom cukru, wzrastanie, sen",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-50",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Osoby starsze często się odwadniają, ponieważ:"
+      ],
+      "correct": [
+        "ośrodek pragnienia w podwzgórzu szybko przestaje pracować"
+      ],
+      "distractors": [
+        "ośrodek głodu w podwzgórzu pracuje zbyt intensywnie",
+        "szyszynka przestaje produkować melatoninę",
+        "móżdżek traci kontrolę nad mięśniami",
+        "rdzeń przedłużony przestaje wydzielać pot",
+        "most przestaje produkować noradrenalinę",
+        "kora potyliczna słabiej przetwarza bodźce"
+      ],
+      "explanation": "Ośrodek pragnienia (związany z termoregulacją) szybko przestaje pracować, przez co starsi ludzie się odwadniają.",
+      "sourceExcerpt": "pragnienia (związany z ośrodkiem termoregulacji) – szybko przestaje pracować, przez co stare osoby często się odwadniają",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-51",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ośrodek głodu w podwzgórzu pobudzają m.in.:"
+      ],
+      "correct": [
+        "peptydy opioidowe"
+      ],
+      "distractors": [
+        "melatonina",
+        "noradrenalina z mostu",
+        "kortyzol z rdzenia",
+        "acetylocholina",
+        "wysoki poziom glukozy",
+        "hormony szyszynki"
+      ],
+      "explanation": "Ośrodek pokarmowy: osobne neurony głodu i sytości reagują na glukozę i na peptydy opioidowe (pobudzają głód).",
+      "sourceExcerpt": "Reagują także na peptydy opioidowe → pobudzają one ośrodek głodu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-52",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Szyszynka produkuje:"
+      ],
+      "correct": [
+        "melatoninę z serotoniny"
+      ],
+      "distractors": [
+        "serotoninę z melatoniny",
+        "noradrenalinę z dopaminy",
+        "dopaminę z tyrozyny",
+        "kortyzol z cholesterolu",
+        "adrenalinę z noradrenaliny",
+        "oksytocynę z wazopresyny"
+      ],
+      "explanation": "Szyszynka produkuje melatoninę z serotoniny i hamuje dojrzewanie (zaburzenia → przedwczesne dojrzewanie).",
+      "sourceExcerpt": "Szyszynka – produkuje melatoninę z serotoniny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-53",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Zaburzenia pracy szyszynki mogą powodować:"
+      ],
+      "correct": [
+        "przedwczesne dojrzewanie"
+      ],
+      "distractors": [
+        "opóźnione dojrzewanie",
+        "ataksję móżdżkową",
+        "prozopagnozję",
+        "paraliż senny",
+        "odwodnienie organizmu",
+        "utratę węchu"
+      ],
+      "explanation": "Szyszynka hamuje dojrzewanie; jej zaburzenia mogą dać przedwczesne dojrzewanie.",
+      "sourceExcerpt": "hamują dojrzewanie (zaburzenia szyszynki mogą powodować przedwczesne dojrzewanie)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-54",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruchy mózgowe, w odróżnieniu od bezwarunkowych, ustępują na skutek usunięcia:"
+      ],
+      "correct": [
+        "napędu (np. głodu)"
+      ],
+      "distractors": [
+        "bodźca",
+        "receptora",
+        "efektora",
+        "neuronu pośredniczącego",
+        "kory ruchowej",
+        "sygnału bodźca"
+      ],
+      "explanation": "Odruchy mózgowe ustępują po usunięciu napędu, nie bodźca (pies reaguje na mięso, gdy jest głodny); procesy napędowe – układ limbiczny.",
+      "sourceExcerpt": "Tutaj odruch ustępuje nie na skutek usunięcia bodźca, a na skutek usunięcia napędu. Np. pies gdy mięso, reaguje gdy głodny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-55",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Procesy napędowe odpowiedzialne za odruchy mózgowe są zlokalizowane w:"
+      ],
+      "correct": [
+        "układzie limbicznym"
+      ],
+      "distractors": [
+        "móżdżku",
+        "rdzeniu przedłużonym",
+        "płacie potylicznym",
+        "szyszynce",
+        "rdzeniu kręgowym",
+        "blaszce czworaczej"
+      ],
+      "explanation": "Procesy napędowe są zlokalizowane w układzie limbicznym.",
+      "sourceExcerpt": "Procesy napędowe są zlokalizowane w układzie limbicznym",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-56",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch unikania jest wywoływany przez:"
+      ],
+      "correct": [
+        "sygnał bodźca awersyjnego"
+      ],
+      "distractors": [
+        "awersyjny bodziec pierwotny",
+        "atrakcyjny bodziec",
+        "sygnał bodźca atrakcyjnego",
+        "usunięcie napędu",
+        "bodziec neutralny",
+        "usunięcie bodźca"
+      ],
+      "explanation": "Odruchy mózgowe: ucieczki – awersyjny bodziec pierwotny; unikania – jego sygnał; konsumowania – atrakcyjny bodziec; osiągania – jego sygnał.",
+      "sourceExcerpt": "Odruchy: ucieczki, unikania, konsumowania i osiągania. Wywołane odpowiednio przez: awersyjny bodziec pierwotny, sygnał tego bodźca, atrakcyjny bodziec, jego sygnał.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-57",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Odruch osiągania jest wywoływany przez:"
+      ],
+      "correct": [
+        "sygnał bodźca atrakcyjnego"
+      ],
+      "distractors": [
+        "atrakcyjny bodziec",
+        "awersyjny bodziec pierwotny",
+        "sygnał bodźca awersyjnego",
+        "usunięcie napędu",
+        "bodziec neutralny",
+        "usunięcie bodźca"
+      ],
+      "explanation": "Osiąganie – sygnał bodźca atrakcyjnego; konsumowanie – sam atrakcyjny bodziec.",
+      "sourceExcerpt": "Odruchy: … konsumowania i osiągania. Wywołane odpowiednio przez: … atrakcyjny bodziec, jego sygnał.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-58",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "W habituacji dużą rolę odgrywają płaty:"
+      ],
+      "correct": [
+        "czołowe"
+      ],
+      "distractors": [
+        "potyliczne",
+        "skroniowe",
+        "ciemieniowe",
+        "wyspowe",
+        "limbiczne",
+        "móżdżku"
+      ],
+      "explanation": "W habituacji dużą rolę odgrywają płaty czołowe.",
+      "sourceExcerpt": "W habituacji dużą rolę odgrywają płaty czołowe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-59",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Kora motoryczna, ośrodki mowy i pisania oraz hamowanie popędów to funkcje płata:"
+      ],
+      "correct": [
+        "czołowego"
+      ],
+      "distractors": [
+        "ciemieniowego",
+        "skroniowego",
+        "potylicznego",
+        "wyspowego (insuli)",
+        "limbicznego",
+        "móżdżku"
+      ],
+      "explanation": "Czołowy – kora ruchowa, mowa, pisanie, zachowania złożone (hamowanie popędów); ciemieniowy – czucie skórne, ocena wielkości i kształtu; skroniowy – węch, słuch; potyliczny – wzrok.",
+      "sourceExcerpt": "czołowy (od bruzdy środkowej ku przodowi) – kora motoryczna, ośrodki mowy, ośrodek pisania, zachowania złożone – np. hamowanie popędów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-60",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Pola czuciowe skóry (dotyk, ból, temperatura) oraz ocena odległości, wielkości i kształtu to funkcje płata:"
+      ],
+      "correct": [
+        "ciemieniowego"
+      ],
+      "distractors": [
+        "czołowego",
+        "skroniowego",
+        "potylicznego",
+        "wyspowego (insuli)",
+        "limbicznego",
+        "móżdżku"
+      ],
+      "explanation": "Płat ciemieniowy: czucie skórne, rozpoznawanie przedmiotów, ocena odległości, wielkości, kształtu.",
+      "sourceExcerpt": "ciemieniowy – pola czuciowe skóry (dotyk, ból, temperatura), rozpoznanie przedmiotów, ocena odległości, wielkości, kształtu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-61",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Węch i słuch to funkcje płata:"
+      ],
+      "correct": [
+        "skroniowego"
+      ],
+      "distractors": [
+        "czołowego",
+        "ciemieniowego",
+        "potylicznego",
+        "wyspowego (insuli)",
+        "limbicznego",
+        "móżdżku"
+      ],
+      "explanation": "Płat skroniowy – węch, słuch.",
+      "sourceExcerpt": "skroniowy – węch, słuch",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-62",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Pole wzrokowe znajduje się w płacie:"
+      ],
+      "correct": [
+        "potylicznym"
+      ],
+      "distractors": [
+        "czołowym",
+        "ciemieniowym",
+        "skroniowym",
+        "wyspowym",
+        "limbicznym",
+        "móżdżku"
+      ],
+      "explanation": "Płat potyliczny – pole wzrokowe.",
+      "sourceExcerpt": "potyliczny – pole wzrokowe. Ilustracja (przekrój strzałkowy mózgu): Płat potyliczny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-63",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Prozopagnozja to:"
+      ],
+      "correct": [
+        "upośledzenie rozpoznawania twarzy przy niezaburzonej percepcji innych obiektów"
+      ],
+      "distractors": [
+        "upośledzenie rozpoznawania przedmiotów przy zachowanym rozpoznawaniu twarzy",
+        "utrata zdolności mówienia przy zachowanym rozumieniu",
+        "brak koordynacji ruchów dowolnych po uszkodzeniu móżdżku",
+        "porażenie mięśni przy zasypianiu przy pełnej świadomości",
+        "niezdolność odczuwania wstrętu po uszkodzeniu insuli",
+        "utrata węchu po uszkodzeniu opuszki węchowej"
+      ],
+      "explanation": "Prozopagnozja – zaburzenie percepcji wzrokowej: upośledzone rozpoznawanie twarzy (czasem ich wyrazu emocjonalnego), inne obiekty bez zmian.",
+      "sourceExcerpt": "Prozopagnozja – zaburzenie percepcji wzrokowej, polegające na upośledzeniu zdolności rozpoznawania twarzy … przy niezaburzonej percepcji innych obiektów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-64",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przednia część insuli (płata wyspowego) odpowiada za odczuwanie:"
+      ],
+      "correct": [
+        "wstrętu"
+      ],
+      "distractors": [
+        "strachu",
+        "głodu",
+        "pragnienia",
+        "bólu",
+        "przyjemności",
+        "zmęczenia"
+      ],
+      "explanation": "Insula: regiony sensomotoryczne, węchowo-smakowe, społeczno-emocjonalny (przednio-brzuszny), kognitywny (przednio-grzbietowy); przednia część – wstręt.",
+      "sourceExcerpt": "Przednia część insuli odpowiada za wstręt.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-65",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Okolica styku skroniowo-ciemieniowo-potylicznego, nazywana „analizatorem analizatorów”, odpowiada za:"
+      ],
+      "correct": [
+        "kojarzenie intermodalne"
+      ],
+      "distractors": [
+        "odruchy słuchowe i wzrokowe",
+        "koordynację ruchów dowolnych",
+        "odczuwanie wstrętu",
+        "produkcję melatoniny",
+        "regulację głodu i sytości",
+        "marzenia senne (REM)"
+      ],
+      "explanation": "Styk skroniowo-ciemieniowo-potyliczny: kora asocjacyjna, kojarzenie intermodalne, inteligencja („analizator analizatorów”).",
+      "sourceExcerpt": "Okolica styku skroniowo-ciemieniowo-potylicznego – kojarzenie intermodalny, inteligencja (analizator analizatorów), kora asocjacyjna",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-66",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Według nowszych badań popularny podział funkcji na „logiczną” lewą i „artystyczną” prawą półkulę:"
+      ],
+      "correct": [
+        "to uproszczenie – półkule się uzupełniają"
+      ],
+      "distractors": [
+        "jest w pełni potwierdzony u wszystkich ludzi",
+        "dotyczy tylko osób leworęcznych",
+        "dotyczy tylko kobiet",
+        "jest odwrotny – lewa odpowiada za sztukę",
+        "dotyczy wyłącznie dzieci",
+        "jest prawdziwy tylko dla mowy"
+      ],
+      "explanation": "Asymetria funkcji półkul – wg nowych badań raczej nieprawda, ogromne uproszczenie; półkule się uzupełniają.",
+      "sourceExcerpt": "Asymetrczność funkcji półkul → raczej wg nowych badań nieprawda, ogromne uproszczenie → półkule się uzupełniają",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-67",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na wielkość prawej półkuli i związane z nią cechy wpływa m.in. prenatalny poziom:"
+      ],
+      "correct": [
+        "testosteronu"
+      ],
+      "distractors": [
+        "melatoniny",
+        "serotoniny",
+        "kortyzolu",
+        "noradrenaliny",
+        "glukozy",
+        "dopaminy"
+      ],
+      "explanation": "Prenatalny poziom testosteronu wpływa na wielkość prawej półkuli i cechy z nią związane.",
+      "sourceExcerpt": "m.in. prenatalny poziom testosteronu wpływa na wielkość prawej półkuli i cechy z nią związane",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-68",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Kora mózgowa (substancja szara półkul) ma grubość:"
+      ],
+      "correct": [
+        "1,4–4,5 mm"
+      ],
+      "distractors": [
+        "0,1–0,5 mm",
+        "5–10 mm",
+        "1–2 cm",
+        "10–14 mm",
+        "0,5–1 mm",
+        "2–3 cm"
+      ],
+      "explanation": "Substancja szara półkul jest kilkuwarstwowa, grubości 1,4–4,5 mm – to kora mózgowa.",
+      "sourceExcerpt": "Substancja szara jest kilkuwarstwowa (grubość 1,4-4,5 mm) – kora mózgowa",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-69",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Najstarszą częścią kresomózgowia, nazywaną też węchomózgowiem, jest:"
+      ],
+      "correct": [
+        "układ limbiczny"
+      ],
+      "distractors": [
+        "kora czołowa",
+        "płat potyliczny",
+        "móżdżek",
+        "ciało modzelowate",
+        "kora asocjacyjna",
+        "zwoje podstawy mózgu"
+      ],
+      "explanation": "Układ rąbkowy (limbiczny, węchomózgowie) – najstarsza część kresomózgowia: sklepienie, hipokamp, ciało migdałowate, jądra przegrody, zakręt obręczy; powonienie.",
+      "sourceExcerpt": "brzeżny, limbiczny (węchomózgowie) – najstarcza część kresomózgowia … zajmuje się zmysłem powonienia. Ilustracja (przekrój strzałkowy mózgu): Układ limbiczny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-70",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Chód, bieg, żucie i jazda na rowerze to przykłady:"
+      ],
+      "correct": [
+        "rytmicznych wzorców ruchowych"
+      ],
+      "distractors": [
+        "reakcji odruchowych",
+        "ruchów wyłącznie dowolnych",
+        "odruchów mózgowych",
+        "odruchów bezwarunkowych",
+        "ruchów mimowolnych",
+        "odruchów monosynaptycznych"
+      ],
+      "explanation": "3 klasy ruchów: dowolne (wyuczone, ulepszane treningiem), reakcje odruchowe, rytmiczne wzorce ruchowe (kombinacja dowolnych i odruchowych).",
+      "sourceExcerpt": "rytmiczne wzorce ruchowe – chód, bieg, żucie, jazda na rowerze (kombinacja ruchów dowolnych i odruchowych)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-71",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Ruchy dowolne:"
+      ],
+      "correct": [
+        "są wyuczone, a ich skuteczność rośnie z treningiem"
+      ],
+      "distractors": [
+        "są wrodzone i nie zmieniają się z treningiem",
+        "są sterowane wyłącznie z rdzenia kręgowego",
+        "nie wymagają udziału móżdżku",
+        "ustępują po usunięciu napędu",
+        "są zawsze rytmiczne i automatyczne",
+        "są sterowane wyłącznie przez układ pozapiramidowy"
+      ],
+      "explanation": "Ruchy dowolne – sterowane z najwyższego poziomu (w sprzężeniu z móżdżkiem i jądrami podstawy), wyuczone, ulepszane treningiem.",
+      "sourceExcerpt": "dowolne – sterowane z najwyższego poziomu układu nerwowego … Są wyuczone i ich skuteczność ulepsza się wraz z treningiem.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-72",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Układ pozapiramidowy, współdziałający z piramidowym:"
+      ],
+      "correct": [
+        "reguluje napięcie mięśni i automatyzmy ruchowe"
+      ],
+      "distractors": [
+        "odpowiada za odczuwanie wstrętu",
+        "produkuje melatoninę z serotoniny",
+        "przekazuje impulsy wzrokowe do kory",
+        "reguluje głód i pragnienie",
+        "steruje odruchem kaszlu i wymiotów",
+        "odpowiada za kojarzenie intermodalne"
+      ],
+      "explanation": "Układ pozapiramidowy (zwoje podstawy, gałka blada, prążkowie, twór siatkowaty) reguluje napięcie mięśni i automatyzmy (chodzenie, pływanie, łyżwy).",
+      "sourceExcerpt": "reguluje napięcie mięśni, zarządza automatyzmami ruchowymi, np. po nauczeniu się to: chodzenie, pływanie, jeżdżenie na łyżwach",
       "difficulty": 2,
       "status": "ok"
     }
