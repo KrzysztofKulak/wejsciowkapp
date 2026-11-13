@@ -143,6 +143,18 @@
           "title": "Wykład 4. Jak prowadzi się badania w psychologii?",
           "questionCount": 32,
           "cheatsheet": true
+        },
+        {
+          "id": "wyklad-5",
+          "title": "Wykład 5. Wielkie prądy - psychologia do starożytności do usamodzielnia się jako nauki",
+          "questionCount": 50,
+          "cheatsheet": true
+        },
+        {
+          "id": "wyklad-6",
+          "title": "Wykład 6. Wielkie prądy - psychoanaliza",
+          "questionCount": 45,
+          "cheatsheet": true
         }
       ]
     },
@@ -177,7 +189,7 @@
         {
           "id": "wyklad-1-cz-2",
           "title": "Wykład 1 (cz. 2)",
-          "questionCount": 34,
+          "questionCount": 38,
           "cheatsheet": true
         },
         {
@@ -201,7 +213,7 @@
         {
           "id": "wyklad-5",
           "title": "Wykład 5. Ja i inni",
-          "questionCount": 11,
+          "questionCount": 36,
           "cheatsheet": true
         }
       ]

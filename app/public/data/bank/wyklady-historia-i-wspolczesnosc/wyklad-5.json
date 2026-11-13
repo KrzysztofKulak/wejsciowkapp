@@ -1,0 +1,1218 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-5",
+  "chapterTitle": "Wykład 5. Wielkie prądy - psychologia do starożytności do usamodzielnia się jako nauki",
+  "sourceHash": "987913e53bbe13a66d42181a2326f361bf9e341b",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W dziejach myśli psychologicznej okres Rzymu (od III w. p.n.e.) to przede wszystkim:"
+      ],
+      "correct": [
+        "kopiowanie dorobku Greków przy niewielkim rozwoju",
+        "przejmowanie myśli greckiej i raczej zastój niż rozwój"
+      ],
+      "distractors": [
+        "powstanie i intensywny rozwój refleksji nad duszą",
+        "delikatne próby ożywienia po długim zastoju",
+        "uświadomienie sobie przez psychologię własnej odrębności",
+        "silny rozwój dzięki nadwyżkom z mechanizacji",
+        "wyodrębnienie się nauk ścisłych z filozofii",
+        "zakładanie pierwszych laboratoriów psychologicznych"
+      ],
+      "explanation": "Kalendarium: Grecja – powstanie i rozwój; Rzym – kopiowanie, niewielki rozwój, raczej zastój; renesans – próby ożywienia; oświecenie – rozwój; koniec XIX w. – psychologia świadoma samej siebie.",
+      "sourceExcerpt": "Rzym (III wiek p.n.e.) – kopiowanie i niewielki rozwój, ale raczej zastój",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Moment, w którym psychologia staje się świadoma samej siebie, przypada na:"
+      ],
+      "correct": [
+        "koniec XIX wieku",
+        "schyłek XIX stulecia"
+      ],
+      "distractors": [
+        "renesans (XVI wiek)",
+        "oświecenie (XVIII wiek)",
+        "starożytną Grecję (VI w. p.n.e.)",
+        "starożytny Rzym (III w. p.n.e.)",
+        "rozkwit religii monoteistycznych",
+        "połowę XVII wieku"
+      ],
+      "explanation": "Kalendarium kończy się na końcu XIX wieku, gdy psychologia staje się świadoma samej siebie (np. laboratorium Wundta, 1879).",
+      "sourceExcerpt": "Koniec XIX wieku – psychologia staje się świadoma samej siebie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Myślenie psychologiczne, które zaczyna się od ogólnego pytania (np. „czy dusza jest nieśmiertelna?”) i szuka na nie odpowiedzi, to nurt:",
+        "Nurt „od góry” w myśleniu psychologicznym ma charakter:"
+      ],
+      "correct": [
+        "filozoficzny",
+        "filozoficzny („od góry”)"
+      ],
+      "distractors": [
+        "fizjologiczny",
+        "biologiczny",
+        "empiryczny („od dołu”)",
+        "eksperymentalny",
+        "humoralny",
+        "introspekcyjny"
+      ],
+      "explanation": "„Od góry” – stawiam pytanie i szukam odpowiedzi (filozofia); „od dołu” – obserwuję fenomen i dociekam mechanizmu (fizjologia/biologia).",
+      "sourceExcerpt": "Od góry – Zadaję sobie pytanie „czy dusza jest nieśmiertelna” i szukam odpowiedzi – filozoficzny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Obserwowanie fenomenu (np. że tętno wzrasta przy niektórych ludziach) i dociekanie jego mechanizmu to podejście:"
+      ],
+      "correct": [
+        "„od dołu” – fizjologiczne (biologiczne)"
+      ],
+      "distractors": [
+        "„od góry” – filozoficzne",
+        "„od góry” – teologiczne",
+        "majeutyczne (sokratejskie)",
+        "mentalistyczne (kartezjańskie)",
+        "ontologiczne (badanie bytów)",
+        "„od góry” – spekulatywne"
+      ],
+      "explanation": "„Od dołu”: obserwuję zjawisko i szukam jego mechanizmu – nurt fizjologiczny/biologiczny.",
+      "sourceExcerpt": "Od dołu – Obserwuję jakiś fenomen – „tętno ludzi wzrasta przy niektórych ludziach” i staram się dociec, jaki jest jego mechanizm – fizjologiczny/biologiczny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Alkmeon z Krotonu jako prawdopodobnie pierwszy wskazał jako siedlisko nous (duszy, umysłu):",
+        "Według Alkmeona z Krotonu siedliskiem nous (umysłu) jest:"
+      ],
+      "correct": [
+        "mózg"
+      ],
+      "distractors": [
+        "serce",
+        "wątroba",
+        "krew",
+        "płuca",
+        "przepona",
+        "rdzeń kręgowy"
+      ],
+      "explanation": "Alkmeon badał układ nerwowy zwierząt i jako jeden z pierwszych wskazał mózg zamiast serca.",
+      "sourceExcerpt": "najpewniej pierwszy z badaczy wskazał mózg zamiast serca jako siedlisko nous (dusza, umysł)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Alkmeon z Krotonu łączył oko z mózgiem, zakładając, że łączy je:"
+      ],
+      "correct": [
+        "„rurka powietrzna”",
+        "przewód, którym płynie powietrze"
+      ],
+      "distractors": [
+        "naczynie wypełnione krwią",
+        "kanał wypełniony żółcią",
+        "strumień atomów",
+        "przewód z płynem mózgowym",
+        "struna przewodząca drgania",
+        "nić utkana z flegmy"
+      ],
+      "explanation": "Alkmeon powiązał oko z mózgiem; łączyć je miała „rurka powietrzna”.",
+      "sourceExcerpt": "powiązał oko z mózgiem, zakładał że łączy je „rurka powietrzna”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Demokryt tłumaczył myślenie jako:"
+      ],
+      "correct": [
+        "zmiany atomów w mózgu wywołane kontaktem z atomami świata",
+        "przekształcenia atomów mózgu pod wpływem atomów z otoczenia"
+      ],
+      "distractors": [
+        "przypominanie sobie wiedzy, którą dusza już posiada",
+        "ruch humorów wywołany kontaktem ze światem",
+        "działanie rozumnej części duszy umieszczonej w czaszce",
+        "przepływ powietrza rurką łączącą oko z mózgiem",
+        "analizę danych zmysłowych grupowanych w idee proste",
+        "pracę umysłu mieszczącego się w sercu"
+      ],
+      "explanation": "Demokryt: nie ma prawdy, są atomy; atomy w mózgu zmieniają się w kontakcie z atomami świata i te zmiany to myślenie.",
+      "sourceExcerpt": "Demokryt – nie ma prawdy, są atomy → są one także w mózgu zmieniają się na skutek kontaktu z atomami świata. Te zmiany → myślenie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Protagoras zauważał, że jeśli jedynym źródłem prawdy są zmysły, a ludzie widzą rzeczy różnie, to:",
+        "Rozumowanie Protagorasa o zmysłach prowadziło do wniosku, że:"
+      ],
+      "correct": [
+        "można wątpić, czy w ogóle istnieje prawda obiektywna",
+        "nie wiadomo, czy może istnieć jedna, obiektywna prawda"
+      ],
+      "distractors": [
+        "prawdę trzeba sobie przypomnieć, bo tkwi w duszy",
+        "prawdę wydobywa się, zadając pytania",
+        "prawdą są wyłącznie atomy i ich ruch",
+        "prawdę daje dopiero sekcja zwierząt",
+        "prawdę poznaje się przez wiarę, a nie zmysły",
+        "prawdę zapewnia szósty zmysł – zdrowy rozsądek"
+      ],
+      "explanation": "Protagoras: skoro zmysły są jedynym źródłem prawdy, a ludzie widzą różnie – czy prawda może istnieć?",
+      "sourceExcerpt": "Protagoras – jeśli jedne źródło prawdy, to zmysły → a ludzie widzą rzeczy różnie → to czy może istnieć prawda?",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Hipokrates traktował choroby psychiki jak:",
+        "W ujęciu Hipokratesa choroby psychiczne to:"
+      ],
+      "correct": [
+        "choroby ciała, a nie kary boskie",
+        "zwykłe choroby ciała, nie kary zsyłane przez bogów"
+      ],
+      "distractors": [
+        "kary zsyłane przez bogów",
+        "skutek opętania przez złe duchy",
+        "następstwo grzechu",
+        "przejaw braku cnoty",
+        "zaburzenie ruchu atomów w sercu",
+        "skutek nieprzypomnienia sobie wiedzy przez duszę"
+      ],
+      "explanation": "Hipokrates traktował choroby psychiki jak choroby ciała, opracował teorię humoralną i antycypował psychosomatykę.",
+      "sourceExcerpt": "Traktował choroby psychiki jak choroby ciała (a nie boskie kary)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Hipokrates opracował teorię:"
+      ],
+      "correct": [
+        "humoralną"
+      ],
+      "distractors": [
+        "atomistyczną",
+        "idei",
+        "majeutyczną",
+        "dualistyczną",
+        "mentalistyczną",
+        "trójdzielną"
+      ],
+      "explanation": "Teorię humoralną opracował Hipokrates, a rozwinął Galen.",
+      "sourceExcerpt": "Opracował teorię humoralną",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Traktując choroby psychiki jak choroby ciała, Hipokrates antycypował istnienie:",
+        "Hipokrates jako pierwszy przewidział istnienie:"
+      ],
+      "correct": [
+        "psychosomatyki",
+        "zaburzeń psychosomatycznych"
+      ],
+      "distractors": [
+        "nieświadomości",
+        "nieświadomości zbiorowej",
+        "wyuczonej bezradności",
+        "odruchów warunkowych",
+        "mechanizmów obronnych",
+        "zaburzeń dysocjacyjnych"
+      ],
+      "explanation": "Hipokrates antycypował istnienie psychosomatyki – związku psychiki i ciała w chorobie.",
+      "sourceExcerpt": "Antycypował istnienie psychosomatyki",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Metoda majeutyczna Sokratesa polega na:"
+      ],
+      "correct": [
+        "wydobywaniu z człowieka tkwiącej w nim wiedzy przez zadawanie pytań",
+        "„rodzeniu” wiedzy, która już jest w człowieku, za pomocą pytań"
+      ],
+      "distractors": [
+        "zdobywaniu wiedzy przez sekcje zwierząt",
+        "wyprowadzaniu wiedzy wyłącznie z danych zmysłowych",
+        "systematycznym opisywaniu własnych wrażeń zmysłowych",
+        "obserwowaniu zjawiska i dociekaniu jego mechanizmu",
+        "swobodnym kojarzeniu treści przez rozmówcę",
+        "przekazywaniu gotowej wiedzy przez nauczyciela"
+      ],
+      "explanation": "Sokrates: wiedza nie rodzi się z doświadczenia, już tkwi w człowieku – pytając, „rodzi się” ją (majeutyka = sztuka położnicza).",
+      "sourceExcerpt": "Wiedza nie rodzi się z doświadczenia, ale już tkwi w człowieku → pytając się ją „rodzi”, wydobywa ← metoda majeutyczna",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Platon uważał, że do wiedzy dochodzi się przez:"
+      ],
+      "correct": [
+        "odkrycie (przypomnienie) jej w sobie",
+        "przypomnienie sobie wiedzy, która już jest w nas"
+      ],
+      "distractors": [
+        "doświadczenie zmysłowe",
+        "sekcje i obserwację zwierząt",
+        "analizę danych zmysłowych grupowanych w idee",
+        "eksperymenty prowadzone w laboratorium",
+        "obserwację przyrody i otaczającego świata",
+        "ruch atomów w mózgu"
+      ],
+      "explanation": "Platon: zmysły nie doprowadzają do wiedzy – trzeba ją odkryć/przypomnieć w sobie.",
+      "sourceExcerpt": "zmysły nie doprowadzają do wiedzy → wiedzę trzeba odkryć (przypomnieć) ją w sobie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-14",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W koncepcji trójdzielnej duszy Platona część impulsywna znajduje się na wysokości:",
+        "Platon umieszczał impulsywną część duszy na wysokości:"
+      ],
+      "correct": [
+        "mostka"
+      ],
+      "distractors": [
+        "czaszki",
+        "brzucha",
+        "serca",
+        "wątroby",
+        "miednicy",
+        "karku"
+      ],
+      "explanation": "Platon: dusza rozumna – czaszka, impulsywna – wysokość mostka, zmysłowa – wysokość brzucha; części łączy kręgosłup.",
+      "sourceExcerpt": "Rozumna (czaszka), impulsywna (wysokość mostka), zmysłowa (wysokość brzucha)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-15",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Części duszy w koncepcji Platona łączy:"
+      ],
+      "correct": [
+        "kręgosłup"
+      ],
+      "distractors": [
+        "serce",
+        "krwiobieg",
+        "„rurka powietrzna”",
+        "układ nerwów czaszkowych",
+        "przepona",
+        "mózg"
+      ],
+      "explanation": "Dusza Platona potrzebuje energii i dzieli się na trzy części łączone kręgosłupem.",
+      "sourceExcerpt": "Dzieli się na trzy części łączone kręgosłupem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-16",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Arystoteles umieszczał umysł w sercu, a mózgowi przypisywał funkcję:"
+      ],
+      "correct": [
+        "chłodzenia"
+      ],
+      "distractors": [
+        "pamięci",
+        "widzenia",
+        "myślenia",
+        "czucia",
+        "oddychania",
+        "trawienia"
+      ],
+      "explanation": "Arystoteles uznał, że umysł mieści się w sercu (po ranach głowy można wyzdrowieć, po ranach serca – nie), a mózg je chłodzi.",
+      "sourceExcerpt": "uznał, że umysł mieści się w sercu (po ranach głowy można wyzdrowieć, a po ranach serca nie), a mózg je chłodzi",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-17",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W koncepcji duszy trójdzielnej Arystotelesa dusza wegetatywna odpowiada za:",
+        "Dusza wegetatywna według Arystotelesa to:"
+      ],
+      "correct": [
+        "odżywianie, wzrost i rozmnażanie"
+      ],
+      "distractors": [
+        "ruch i postrzeganie",
+        "myślenie i rozumowanie",
+        "ruch, postrzeganie i myślenie",
+        "emocje i pożądania",
+        "pamięć i wyobraźnię",
+        "rozum i wolną wolę"
+      ],
+      "explanation": "Arystoteles: wegetatywna – odżywianie, wzrost, rozmnażanie (rośliny, zwierzęta, ludzie); zmysłowa – ruch, postrzeganie (zwierzęta, ludzie); rozumna – myślenie (ludzie).",
+      "sourceExcerpt": "wegetatywna – odżywianie, wzrost, rozmnażanie (rośliny – zwierzęta – ludzie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-18",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Duszę zmysłową (ruch, postrzeganie) Arystoteles przypisywał:"
+      ],
+      "correct": [
+        "zwierzętom i ludziom",
+        "ludziom i zwierzętom"
+      ],
+      "distractors": [
+        "tylko ludziom",
+        "roślinom, zwierzętom i ludziom",
+        "tylko zwierzętom",
+        "roślinom i zwierzętom",
+        "tylko roślinom",
+        "roślinom i ludziom"
+      ],
+      "explanation": "Dusza zmysłowa – zwierzęta i ludzie; wegetatywna – także rośliny; rozumna – tylko ludzie.",
+      "sourceExcerpt": "zmysłowa – ruch, postrzeganie (zwierzęta – ludzie)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-19",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Arystoteles przewidział, że lepiej zapamiętuje się zdarzenia, które:",
+        "Zdaniem Arystotelesa łatwiej zapamiętać zdarzenia, które:"
+      ],
+      "correct": [
+        "wywołują silne emocje lub często się powtarzają",
+        "budzą silne emocje albo są często powtarzane"
+      ],
+      "distractors": [
+        "są neutralne emocjonalnie i jednorazowe",
+        "dotyczą innych ludzi, a nie nas samych",
+        "zostały zapisane na piśmie",
+        "są nieoczekiwane i przyjemne",
+        "zdarzyły się we wczesnym dzieciństwie",
+        "zostały wyparte z pamięci"
+      ],
+      "explanation": "Arystoteles: lepiej pamiętamy zdarzenia z silnymi emocjami lub często powtarzane.",
+      "sourceExcerpt": "przewidział, że lepiej zapamiętuje się zdarzenia, którym towarzyszą silne emocje, lub które się często powtarzają",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-20",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W przeciwieństwie do Platona Arystoteles uważał, że zmysły:",
+        "Arystoteles, inaczej niż Platon, twierdził, że zmysły:"
+      ],
+      "correct": [
+        "dają nam kontakt z rzeczywistością",
+        "zapewniają kontakt z rzeczywistością"
+      ],
+      "distractors": [
+        "nie prowadzą do żadnej wiedzy",
+        "są nieistotne wobec rozumu",
+        "zawsze zwodzą i nie wolno im ufać",
+        "służą jedynie do chłodzenia umysłu",
+        "pozwalają przypomnieć sobie świat idei",
+        "tkwią w duszy rozumnej w czaszce"
+      ],
+      "explanation": "Platon: ważne idee i rozum, zmysły nieistotne. Arystoteles: ważna przyroda, zmysły dają kontakt z rzeczywistością; „w świadomości nie ma niczego, czego nie dostarczyły zmysły”.",
+      "sourceExcerpt": "Arystoteles – zmysły i spostrzeganie dają nam kontakt z rzeczywistością; w świadomości nie ma niczego, czego nie dostarczyły tam zmysły",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-21",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "„Charaktery” Teofrasta to:"
+      ],
+      "correct": [
+        "satyryczne portrety ludzkich cech"
+      ],
+      "distractors": [
+        "pierwsza klasyfikacja emocji",
+        "traktat o czterech humorach",
+        "opis siedmiu nerwów czaszkowych",
+        "studia przypadków chorych",
+        "rozważania o duszy",
+        "opis trzech części duszy"
+      ],
+      "explanation": "Teofrast (Rzym) napisał „Charaktery” – portrety literackie wyśmiewające, ale też opisujące cechy ludzkie.",
+      "sourceExcerpt": "napisał Charaktery – portrety literackie wyśmiewające (ale też opisujące) cechy ludzkie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-22",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Galen, lekarz i anatom, podjął pierwsze próby:"
+      ],
+      "correct": [
+        "klasyfikacji emocji",
+        "sklasyfikowania emocji"
+      ],
+      "distractors": [
+        "umieszczenia umysłu w mózgu",
+        "pomiaru wrażeń zmysłowych",
+        "leczenia hipnozą",
+        "opisu dwóch form nieświadomości",
+        "eksperymentalnego badania umysłu",
+        "podziału duszy na trzy części"
+      ],
+      "explanation": "Galen: pierwsze próby klasyfikacji emocji (negatywne – gniew i agresja, pozytywne), rozwinął teorię humoralną.",
+      "sourceExcerpt": "pierwsze próby klasyfikacji emocji (negatywne – gniew i agresja, pozytywne)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-23",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Na podstawie sekcji makaków Galen wykazał, że tętnicami:",
+        "Sekcje makaków pozwoliły Galenowi stwierdzić, że w tętnicach:"
+      ],
+      "correct": [
+        "nie płynie powietrze",
+        "nie ma powietrza"
+      ],
+      "distractors": [
+        "płynie powietrze z płuc",
+        "płynie powietrze prosto z serca",
+        "płynie żółć",
+        "płynie flegma",
+        "krąży „fluid uniwersalny”",
+        "płynie tchnienie z mózgu"
+      ],
+      "explanation": "Galen opisał różnice między tętnicami (udowodnił, że nie płynie nimi powietrze) a żyłami, na sekcjach makaków.",
+      "sourceExcerpt": "różnice między tętnicami (udowodnił, że nie płynie nimi powietrze) i żyłami (na sekcjach makaków)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-24",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Galen opisał nerwy czaszkowe w liczbie:",
+        "Ile nerwów czaszkowych opisał Galen?"
+      ],
+      "correct": [
+        "siedmiu",
+        "7"
+      ],
+      "distractors": [
+        "dwunastu",
+        "pięciu",
+        "dziewięciu",
+        "trzech",
+        "dziesięciu",
+        "czterech"
+      ],
+      "explanation": "Galen opisał 7 nerwów czaszkowych i zastawki serca.",
+      "sourceExcerpt": "Opisał 7 nerwów czaszkowych, zastawki serca",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-25",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Hypatia z Aleksandrii, neoplatońska filozofka i matematyczka, jest współcześnie symbolem:",
+        "Postać Hypatii z Aleksandrii symbolizuje dziś:"
+      ],
+      "correct": [
+        "konfliktu i odchodzącego świata starożytnego",
+        "konfliktu oraz odchodzącego świata"
+      ],
+      "distractors": [
+        "narodzin psychologii eksperymentalnej",
+        "rozkwitu medycyny rzymskiej",
+        "triumfu teorii humoralnej",
+        "przejścia od ontologii do epistemologii",
+        "renesansowego ożywienia nauki",
+        "początków psychoanalizy"
+      ],
+      "explanation": "Hypatia – neoplatonka zlinczowana po sporze z biskupem Cyrylem; współcześnie symbol konfliktu i odchodzącego świata.",
+      "sourceExcerpt": "współcześnie symbol konfliktu, ale też symbol odchodzącego świata",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-26",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Afrykańska idea ubuntu („jestem, bo jesteśmy”) ujmuje osobę jako:"
+      ],
+      "correct": [
+        "relację – ważna jest wspólnota"
+      ],
+      "distractors": [
+        "samowystarczalną jednostkę",
+        "zbiór doświadczeń zmysłowych",
+        "materię pozostającą w ruchu",
+        "duszę uwięzioną w ciele",
+        "równowagę pięciu elementów",
+        "siłę życiową tonal"
+      ],
+      "explanation": "Ubuntu: osoba jako relacja, znaczenie wspólnoty dla dobrostanu; równowaga jednostki z przodkami i środowiskiem.",
+      "sourceExcerpt": "ubuntu (jestem, bo jesteśmy – osoba jako relacja, znaczenie wspólnoty dla dobrostanu)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-27",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W konfucjonizmie zdrowie wiązano z:"
+      ],
+      "correct": [
+        "równowagą emocji (pięć elementów)",
+        "równowagą emocji opartą na pięciu elementach"
+      ],
+      "distractors": [
+        "równowagą czterech humorów",
+        "równowagą jednostki z przodkami",
+        "spójnością wspólnoty ayllu",
+        "regulacją cykli życia przez kalendarz",
+        "muzyką regulującą nastrój",
+        "wyzbyciem się wszelkich emocji"
+      ],
+      "explanation": "Chiny (konfucjonizm): kultywacja cnót, samodoskonalenie, wychowanie; równowaga emocji (pięć elementów) jako zdrowie.",
+      "sourceExcerpt": "konfucjonizm – … równowaga emocji (pięć elementów) jako zdrowie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-28",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W świecie arabskim muzykę traktowano jako:"
+      ],
+      "correct": [
+        "sposób regulacji nastroju",
+        "narzędzie regulowania nastroju"
+      ],
+      "distractors": [
+        "kalendarzowy rytuał regulujący cykle życia",
+        "źródło grzechu odbierającego kontrolę",
+        "objaw zaburzeń nastroju",
+        "metodę przypominania sobie idei",
+        "praktykę regulacji uwagi (uważność)",
+        "sposób na równowagę z przodkami"
+      ],
+      "explanation": "Świat arabski: emocje, poznanie, muzyka jako regulacja nastroju; kliniczna opieka nad chorymi umysłowo, studia przypadków.",
+      "sourceExcerpt": "emocje, poznanie, muzyka jako regulacja nastroju",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-29",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Tonal i yollotl to w myśli Azteków:",
+        "Aztekowie posługiwali się pojęciami tonal i yollotl, oznaczającymi:"
+      ],
+      "correct": [
+        "siły życiowe",
+        "dwie siły życiowe"
+      ],
+      "distractors": [
+        "wspólnotę rodową",
+        "praktyki kalendarzowe",
+        "uzdrowicieli i mediatorów",
+        "dwie części umysłu",
+        "dwa rodzaje temperamentu",
+        "kategorie emocji"
+      ],
+      "explanation": "Aztekowie: tonal i yollotl (siły życiowe) – etyka, wychowanie, dyscyplina emocji. Inkowie: ayllu (wspólnota). Majowie: rytuały kalendarzowe.",
+      "sourceExcerpt": "Aztekowie: tonal i yollotl (siły życiowe) – etyka, wychowanie i dyscyplina emocji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-30",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Ayllu w kulturze Inków to:",
+        "Inkaskie ayllu oznacza:"
+      ],
+      "correct": [
+        "wspólnota służąca spójności i radzeniu sobie z afektem"
+      ],
+      "distractors": [
+        "siła życiowa kierująca emocjami i wychowaniem",
+        "kalendarz rytuałów regulujących cykle życia",
+        "uzdrowiciel pośredniczący między ludźmi a przodkami",
+        "praktyka uważności i regulacji uwagi",
+        "równowaga pięciu elementów jako zdrowie",
+        "taniec derwiszów regulujący nastrój"
+      ],
+      "explanation": "Inkowie: ayllu (wspólnota) i rytuał jako narzędzia spójności i radzenia sobie z afektem.",
+      "sourceExcerpt": "Inkowie: ayllu (wspólnota) i rytuał jako narzędzia spójności i radzenia sobie z afektem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-31",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Święty Augustyn porównywał pamięć do:"
+      ],
+      "correct": [
+        "komnaty wypełnionej wspomnieniami",
+        "komnata pełna wspomnień"
+      ],
+      "distractors": [
+        "czystej karty zapisywanej przez zmysły",
+        "magazynu idei prostych",
+        "strumienia atomów w mózgu",
+        "zbioru wrażeń grupowanych w obiekty",
+        "chłodnej części serca",
+        "szóstego zmysłu łączącego wrażenia"
+      ],
+      "explanation": "Augustyn: pamięć to komnata wypełniona wspomnieniami – czasem przychodzą same, czasem trzeba je wyjąć.",
+      "sourceExcerpt": "Pamięć to komnata, wypełniona wspomnieniami (czasem przychodzą same, czasem trzeba je wyjąć).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-32",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Święty Augustyn uważał duszę za wieczną, ponieważ:",
+        "Argument świętego Augustyna za wiecznością duszy brzmiał:"
+      ],
+      "correct": [
+        "sama dusza podpowiada nam istnienie wieczności",
+        "dusza sama podsuwa nam myśl o wieczności"
+      ],
+      "distractors": [
+        "nie da się pomyśleć, że umysł nie istnieje",
+        "po ranach głowy można wyzdrowieć",
+        "dusza składa się z niezniszczalnych atomów",
+        "tylko część poznająca przez wiarę jest nieśmiertelna",
+        "wiedza tkwi w człowieku od urodzenia",
+        "ciało i umysł są odrębnymi substancjami"
+      ],
+      "explanation": "Augustyn: dusza jest wieczna, bo sama dusza podpowiada nam istnienie wieczności.",
+      "sourceExcerpt": "Uważał, że dusza jest wieczna, bo sama dusza nam podpowiada istnienie wieczności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-33",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Według świętego Augustyna żądze cielesne:",
+        "Święty Augustyn twierdził, że pożądanie cielesne:"
+      ],
+      "correct": [
+        "odbierają umysłowi kontrolę nad sytuacją i wolną wolę",
+        "pozbawiają umysł kontroli i wolnej woli"
+      ],
+      "distractors": [
+        "są źródłem całej energii psychicznej",
+        "służą zachowaniu jednostki i gatunku",
+        "wzmacniają rozumną część duszy",
+        "są neutralną funkcją duszy wegetatywnej",
+        "uczą duszę rozpoznawać wieczność",
+        "pomagają przypomnieć sobie świat idei"
+      ],
+      "explanation": "Augustyn: żądze cielesne odbierają umysłowi kontrolę i wolną wolę; gdyby nie grzech pierworodny, ludzie rozmnażaliby się bez przyjemności.",
+      "sourceExcerpt": "Żądze cielesne odbierają umysłowi kontrolę nad sytuacją i wolną wolę.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-34",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Święty Tomasz dodał do pięciu zmysłów szósty – zdrowy rozsądek – którego zadaniem jest:"
+      ],
+      "correct": [
+        "łączenie wrażeń z różnych zmysłów w jeden obiekt"
+      ],
+      "distractors": [
+        "poznawanie prawdy za pomocą wiary",
+        "przypominanie sobie wiedzy wrodzonej",
+        "dzielenie emocji na bolesne i przyjemne",
+        "chłodzenie umysłu mieszczącego się w sercu",
+        "przewidywanie przyszłych zdarzeń",
+        "odróżnianie snu od jawy"
+      ],
+      "explanation": "Tomasz: pięć zmysłów + zdrowy rozsądek, który mówi, że różne bodźce (np. przy jedzeniu jabłka) pochodzą od jednego obiektu.",
+      "sourceExcerpt": "Opisał pięć zmysłów + szósty → zdrowy rozsądek (… szósty nam mówi/agreguje, że one wszystkie pochodzą od jednego jabłka)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-35",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W dwuczęściowym umyśle opisanym przez świętego Tomasza nieśmiertelna jest część, która:",
+        "Święty Tomasz uważał za nieśmiertelną tę część umysłu, która:"
+      ],
+      "correct": [
+        "tworzy idee i poznaje prawdę za pomocą wiary",
+        "tworzy idee i dochodzi do prawdy przez wiarę"
+      ],
+      "distractors": [
+        "analizuje dane, integruje je i wydaje osądy",
+        "łączy wrażenia z pięciu zmysłów",
+        "odpowiada za odżywianie i wzrost",
+        "steruje ruchem i postrzeganiem",
+        "przechowuje wspomnienia w komnacie",
+        "dzieli emocje na kategorie"
+      ],
+      "explanation": "Tomasz: pierwsza część umysłu – analiza danych, rozumienie, integracja, osądy; druga – tworzy idee, poznaje prawdę przez wiarę; tylko druga jest nieśmiertelna.",
+      "sourceExcerpt": "Dwuczęściowy umysł → pierwsza: analiza danych, rozumienie, integracja, osądy; druga: tworzy idee, poznaje prawdę za pomocą wiary. Tylko druga jest nieśmiertelna.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-36",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Święty Tomasz dzielił emocje na kategorie oparte na:",
+        "Podział emocji u świętego Tomasza opierał się na:"
+      ],
+      "correct": [
+        "bólu albo przyjemności",
+        "przykrości (bólu) lub przyjemności"
+      ],
+      "distractors": [
+        "czterech humorach",
+        "pięciu elementach",
+        "gniewie i agresji",
+        "popędzie życia i śmierci",
+        "sile i trwałości bodźca",
+        "rozumie i wierze"
+      ],
+      "explanation": "Tomasz dzielił emocje na kategorie oparte albo o ból, albo o przyjemność.",
+      "sourceExcerpt": "Emocje dzielił na kategorie, oparte albo o ból, albo o przyjemność.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-37",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Kartezjusz zmienił paradygmat filozofii z ontologicznego na:",
+        "Zmiana wprowadzona przez Kartezjusza to przejście od badania bytów do paradygmatu:"
+      ],
+      "correct": [
+        "mentalistycznego"
+      ],
+      "distractors": [
+        "teologicznego",
+        "fizjologicznego",
+        "empirystycznego",
+        "materialistycznego",
+        "humoralnego",
+        "majeutycznego"
+      ],
+      "explanation": "Kartezjusz: zmiana paradygmatu z ontologicznego (badanie bytów) na mentalistyczny (czy poznanie jest prawdziwe?).",
+      "sourceExcerpt": "zmiana paradygmatu z ontologicznego (badanie bytów, istnienia) na mentalistyczny (czy poznanie jest prawdziwe?)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-38",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Epistemologia to nauka o:"
+      ],
+      "correct": [
+        "poznaniu"
+      ],
+      "distractors": [
+        "bycie",
+        "duszy",
+        "moralności",
+        "materii",
+        "chorobach",
+        "państwie"
+      ],
+      "explanation": "Ontologia – nauka o bycie, o przedmiotach; epistemologia – nauka o poznaniu.",
+      "sourceExcerpt": "Ontologia – nauka o bycie, o przedmiotach. Epistemologia – nauka o poznaniu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-39",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Dualizm kartezjański zakłada, że rzeczywistość fizyczna i umysłowa:",
+        "Według dualizmu Kartezjusza materia i umysł:"
+      ],
+      "correct": [
+        "są odrębnymi substancjami",
+        "stanowią dwie odrębne substancje"
+      ],
+      "distractors": [
+        "są jedną substancją w ruchu",
+        "składają się z tych samych atomów",
+        "są dwoma przejawami humorów",
+        "są tak samo deterministyczne",
+        "powstają z danych zmysłowych",
+        "łączą się w szóstym zmyśle"
+      ],
+      "explanation": "Dualizm kartezjański: rzeczywistość fizyczna (materia, determinizm) i umysłowa (myśl, świadomość, wolność) to odrębne substancje.",
+      "sourceExcerpt": "Dualizm Kartezjański → rzeczywistość fizyczna … i umysłowa … są odrębnymi substancjami",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-40",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Tomasz Hobbes w „Lewiatanie” jako lekarstwo na to, że ludzie są z natury sobie wrodzy, proponował:"
+      ],
+      "correct": [
+        "umowę społeczną, najlepiej w formie państwa autokratycznego",
+        "umowa społeczna, np. państwo – najlepiej autokratyczne"
+      ],
+      "distractors": [
+        "powrót do życia we wspólnocie bez państwa",
+        "wychowanie w duchu cnót konfucjańskich",
+        "demokrację bezpośrednią opartą na rozumie",
+        "władzę kościoła nad państwem świeckim",
+        "samodoskonalenie metodą majeutyczną",
+        "odrzucenie własności i umów"
+      ],
+      "explanation": "Hobbes: ludzie z natury są sobie wrodzy → umowa społeczna, np. państwo (najlepiej autokratyczne); wszystko, także myślenie, to materia w ruchu.",
+      "sourceExcerpt": "ludzie z natury są sobie wrodzy → rozwiązanie: umowa społeczna, np. w formie państwa (najlepiej autokratycznego)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-41",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Tomasz Hobbes uważał, że myślenie, jak wszystko, jest:"
+      ],
+      "correct": [
+        "materią pozostającą w ruchu",
+        "materia w ruchu"
+      ],
+      "distractors": [
+        "odrębną substancją niematerialną",
+        "darem poznawanym przez wiarę",
+        "przypominaniem sobie idei",
+        "działaniem duszy w sercu",
+        "zbiorem wrażeń bez „ja”",
+        "przejawem fluidu uniwersalnego"
+      ],
+      "explanation": "Hobbes: wszystko (także myślenie) jest materią pozostającą w ruchu.",
+      "sourceExcerpt": "wszystko (także myślenie) jest materią pozostającą w ruchu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-42",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "John Locke uważał, że idee w ludzkich umysłach są:"
+      ],
+      "correct": [
+        "efektem analizy danych zmysłowych przez umysł"
+      ],
+      "distractors": [
+        "samoistnymi bytami istniejącymi niezależnie",
+        "wrodzonymi treściami do przypomnienia",
+        "zmianami atomów w mózgu pod wpływem świata",
+        "dziełem szóstego zmysłu, czyli rozsądku",
+        "darem poznawanym wyłącznie przez wiarę",
+        "przejawem odrębnej substancji myślącej"
+      ],
+      "explanation": "Locke: idee nie są samoistnymi bytami – to efekt analizy danych zmysłowych; bodźce → wrażenia → obiekty → idee proste → złożone → abstrakcyjne.",
+      "sourceExcerpt": "idee zawarte w ludzkich umysłach nie są samoistnymi bytami, a efektem analizy danych zmysłowych dokonywanej przez umysł",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-43",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W koncepcji Johna Locke'a idee proste grupują się w:"
+      ],
+      "correct": [
+        "idee złożone, a te w abstrakcyjne"
+      ],
+      "distractors": [
+        "wrażenia, a te w bodźce",
+        "obiekty, a te we wrażenia",
+        "bodźce, a te w wrażenia",
+        "idee wrodzone, a te w proste",
+        "sądy i fenomeny zainteresowania",
+        "przedstawienia, a te w sądy"
+      ],
+      "explanation": "Locke: bodźce tworzą wrażenia, wrażenia → obiekty → idee proste → idee złożone → idee abstrakcyjne.",
+      "sourceExcerpt": "idee proste grupują się w idee złożone, a te w idee abstrakcyjne tworzące nowe idee",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-44",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "David Hume w „Traktacie o naturze ludzkiej” zakwestionował:"
+      ],
+      "correct": [
+        "związki przyczynowo-skutkowe",
+        "związki przyczynowe"
+      ],
+      "distractors": [
+        "istnienie atomów",
+        "rolę doświadczenia w poznaniu",
+        "istnienie świata zewnętrznego",
+        "teorię humoralną",
+        "możliwość eksperymentalnego badania umysłu",
+        "rolę zmysłów w tworzeniu idei"
+      ],
+      "explanation": "Hume: człowiek jako zbiór doświadczeń („ja” zamiast duszy); kwestionuje związki przyczynowo-skutkowe.",
+      "sourceExcerpt": "człowiek jako zbiór doświadczeń → „ja” zamiast duszy; kwestionuje związki przyczynowo skutkowe",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-45",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Empiryzm genetyczny (J.S. Mill) to pogląd, że:",
+        "Zgodnie z empiryzmem genetycznym:"
+      ],
+      "correct": [
+        "wszelka wiedza jednostki pochodzi wyłącznie z doświadczenia, a jej sądy są nabyte",
+        "cała wiedza człowieka pochodzi z doświadczenia, a sądy są nabyte"
+      ],
+      "distractors": [
+        "jedynym kryterium prawdziwości wiedzy jest doświadczenie",
+        "twierdzenia naukowe można wypracować tylko dzięki doświadczeniu",
+        "część wiedzy jest wrodzona, a doświadczenie ją uruchamia",
+        "wiedza tkwi w człowieku i trzeba ją wydobyć pytaniami",
+        "wiedza pochodzi z rozumu, a zmysły są nieistotne",
+        "o wiedzy rozstrzygają geny przekazywane przez rodziców"
+      ],
+      "explanation": "Mill: empiryzm genetyczny – wiedza wyłącznie z doświadczenia, sądy nabyte; epistemologiczny – doświadczenie jedynym kryterium wiedzy; metodologiczny – twierdzenia naukowe tylko dzięki doświadczeniu.",
+      "sourceExcerpt": "empiryzm genetyczny (wszelka wiedza jednostka ludzkiej pochodzi wyłącznie z doświadczenia, a jej sądy są nabyte)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-46",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Empiryzm epistemologiczny (J.S. Mill) głosi, że:",
+        "Zgodnie z empiryzmem epistemologicznym:"
+      ],
+      "correct": [
+        "jedynym kryterium wiedzy jest doświadczenie",
+        "doświadczenie jest jedynym kryterium wiedzy"
+      ],
+      "distractors": [
+        "wszelka wiedza jednostki pochodzi wyłącznie z doświadczenia",
+        "twierdzenia naukowe wypracowuje się tylko dzięki doświadczeniu",
+        "wiedza jest wrodzona i trzeba ją przypomnieć",
+        "zmysły nie dają kontaktu z rzeczywistością",
+        "poznanie prawdy umożliwia wiara",
+        "kryterium wiedzy jest zgodność z autorytetem"
+      ],
+      "explanation": "Empiryzm epistemologiczny: doświadczenie jedynym kryterium wiedzy (genetyczny – skąd wiedza; metodologiczny – jak uprawiać naukę).",
+      "sourceExcerpt": "epistemologiczny (jedynym kryterium wiedzy jest doświadczenie)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-47",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "John Stuart Mill twierdził, że umysł:",
+        "Według J.S. Milla umysł:"
+      ],
+      "correct": [
+        "można i należy badać narzędziami eksperymentalnymi",
+        "powinno się badać za pomocą eksperymentu"
+      ],
+      "distractors": [
+        "nie podlega badaniu naukowemu",
+        "można poznać wyłącznie przez wiarę",
+        "należy badać tylko metodą majeutyczną",
+        "jest odrębną substancją niedostępną nauce",
+        "mieści się w sercu, a mózg go chłodzi",
+        "poznaje się wyłącznie przez sekcje zwierząt"
+      ],
+      "explanation": "Mill: umysł można badać za pomocą narzędzi eksperymentalnych i należy to robić.",
+      "sourceExcerpt": "umysł można badać za pomocą narzędzi eksperymentalnych i należy to robić",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-48",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Prawo Webera-Fechnera opisuje związek między:",
+        "Gustaw Fechner, analizując wrażenia zmysłowe, sformułował prawo (Webera-Fechnera) dotyczące związku między:"
+      ],
+      "correct": [
+        "zmianą natężenia bodźca a zmianą jego odczuwania",
+        "zmianą siły bodźca a zmianą wrażenia"
+      ],
+      "distractors": [
+        "siłą emocji a trwałością wspomnienia",
+        "pobudzeniem a sprawnością działania",
+        "wrażeniami a ideami prostymi",
+        "częstością bodźca a jego zapamiętaniem",
+        "natężeniem bodźca a czasem reakcji",
+        "ruchem atomów a myśleniem"
+      ],
+      "explanation": "Fechner analizował wrażenia zmysłowe; prawo Webera-Fechnera – związek między zmianą natężenia bodźca a zmianą jego odczuwania.",
+      "sourceExcerpt": "prawo Webera-Fechnera – związek pomiędzy zmianą natężenia bodźca a zmianą jego odczuwania",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-49",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Franz Brentano, krytyk introspekcjonizmu, wyróżnił trzy klasy zjawisk psychicznych:",
+        "Trzy klasy zjawisk psychicznych według Brentana to:"
+      ],
+      "correct": [
+        "przedstawienia, sądy i fenomeny zainteresowania"
+      ],
+      "distractors": [
+        "wrażenia, idee proste i idee złożone",
+        "wrażenia, uczucia i wyobrażenia zmysłowe",
+        "przedstawienia, emocje i popędy życia",
+        "spostrzeżenia, pojęcia i sądy logiczne",
+        "ego, persona i nieświadomość zbiorowa",
+        "doznania, myśli i działania celowe"
+      ],
+      "explanation": "Brentano – zwolennik psychologii empirycznej, krytyk introspekcjonizmu; trzy klasy: przedstawienia, sądy, fenomeny zainteresowania.",
+      "sourceExcerpt": "trzy klasy zjawisk psychicznych: przedstawienia, sądy, fenomeny zainteresowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-50",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Pierwsze w historii laboratorium psychologiczne Wilhelm Wundt założył:",
+        "Laboratorium psychologiczne Wundta – pierwsze w historii – powstało:"
+      ],
+      "correct": [
+        "w 1879 roku w Lipsku",
+        "w Lipsku w 1879 roku"
+      ],
+      "distractors": [
+        "w 1879 roku w Wiedniu",
+        "w 1897 roku w Lipsku",
+        "w 1859 roku w Berlinie",
+        "w 1879 roku w Paryżu",
+        "w 1889 roku w Lipsku",
+        "w 1869 roku w Heidelbergu"
+      ],
+      "explanation": "1879, Lipsk: Wundt zakłada pierwsze laboratorium psychologiczne i Instytut Psychologii – psychologia jako nauka empiryczna, nie filozofia.",
+      "sourceExcerpt": "1879, Lipsk – Wundt zakłada w Lipsku pierwsze w historii laboratorium psychologiczne oraz instytut Psychologii",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

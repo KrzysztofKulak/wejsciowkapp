@@ -836,6 +836,104 @@
       "sourceExcerpt": "Egotystyczne podstawy rezygnacji ze sprawowania kontroli: np. ludzie nie chcą brać na siebie rzeczy, które mają mały zysk, a duże ryzyko.",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-cz-2-35",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-1-cz-2",
+      "stems": [
+        "W eksperymencie Seligmana z 24 psami w skrzynce wahadłowej bierne pozostało około 70% psów z grupy:",
+        "W eksperymencie Seligmana z 24 psami grupa, w której około 70% psów pozostało biernych w skrzynce wahadłowej, to grupa:"
+      ],
+      "correct": [
+        "bez możliwości ucieczki",
+        "pozbawionej możliwości ucieczki"
+      ],
+      "distractors": [
+        "ucieczki",
+        "kontrolnej",
+        "mogącej wyłączyć prąd",
+        "sprzężonej z grupą kontrolną",
+        "nagradzanej za ucieczkę",
+        "bez wstrząsów w fazie testowej"
+      ],
+      "explanation": "Wykres: bierne pozostało ok. 70% psów z grupy bez możliwości ucieczki, ok. 10% z kontrolnej i żaden z grupy ucieczki.",
+      "sourceExcerpt": "Ilustracja (wykres: średni czas ucieczki w skrzynce wahadłowej i % psów, które pozostały bierne; grupy: ucieczka, kontrolna, niemożność ucieczki): Niemożność ucieczki – ok. 70% biernych; kontrolna – ok. 10%; ucieczka – 0%.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-cz-2-36",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-1-cz-2",
+      "stems": [
+        "W eksperymencie Seligmana z 24 psami średni czas ucieczki w skrzynce wahadłowej psów z grupy ucieczki (mogących wcześniej wyłączyć prąd) w porównaniu z grupą kontrolną był:"
+      ],
+      "correct": [
+        "podobny (ok. 20)",
+        "zbliżony – ok. 20 w obu grupach"
+      ],
+      "distractors": [
+        "ponad dwukrotnie dłuższy",
+        "ponad dwukrotnie krótszy",
+        "trzykrotnie dłuższy",
+        "nieskończony – psy nie uciekały",
+        "dziesięciokrotnie krótszy",
+        "o połowę dłuższy"
+      ],
+      "explanation": "Wykres: średni czas ucieczki – grupa ucieczki ≈ kontrolna ≈ 20; grupa bez możliwości ucieczki ≈ 48–49 (ponad dwukrotnie dłużej).",
+      "sourceExcerpt": "Ilustracja (wykres: średni czas ucieczki w skrzynce wahadłowej i % psów, które pozostały bierne; grupy: ucieczka, kontrolna, niemożność ucieczki): Średni czas ucieczki: ucieczka ok. 21, kontrolna ok. 21, niemożność ucieczki ok. 49.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-cz-2-37",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-1-cz-2",
+      "stems": [
+        "W eksperymencie Seligmana z 24 psami psy z grupy bez możliwości ucieczki uciekały w skrzynce wahadłowej średnio:"
+      ],
+      "correct": [
+        "ponad dwa razy dłużej niż pozostałe grupy",
+        "ponad dwukrotnie dłuższy niż w pozostałych grupach"
+      ],
+      "distractors": [
+        "tak samo szybko jak pozostałe grupy",
+        "dwa razy szybciej niż pozostałe grupy",
+        "nieco krócej niż grupa kontrolna",
+        "dłużej niż grupa ucieczki, ale krócej niż kontrolna",
+        "pięć razy dłużej niż pozostałe grupy",
+        "krócej niż grupa ucieczki"
+      ],
+      "explanation": "Wykres: grupa bez możliwości ucieczki ≈ 48–49 vs ok. 20 w grupie ucieczki i kontrolnej.",
+      "sourceExcerpt": "Ilustracja (wykres: średni czas ucieczki w skrzynce wahadłowej i % psów, które pozostały bierne; grupy: ucieczka, kontrolna, niemożność ucieczki): Średni czas ucieczki: ucieczka ok. 21, kontrolna ok. 21, niemożność ucieczki ok. 49.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-1-cz-2-38",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-1-cz-2",
+      "stems": [
+        "W eksperymencie Seligmana z 24 psami spośród psów z grupy ucieczki (mogących wcześniej wyłączyć prąd) bierne w skrzynce wahadłowej pozostało:",
+        "Odsetek psów z grupy ucieczki, które pozostały bierne w skrzynce wahadłowej, wyniósł:"
+      ],
+      "correct": [
+        "0% – żaden pies",
+        "żaden pies (0%)"
+      ],
+      "distractors": [
+        "około 10%",
+        "około 20%",
+        "około 50%",
+        "około 70%",
+        "około 90%",
+        "wszystkie psy"
+      ],
+      "explanation": "Wykres: w grupie ucieczki biernych 0%, w kontrolnej ok. 10%, w grupie bez możliwości ucieczki ok. 70%.",
+      "sourceExcerpt": "Ilustracja (wykres: średni czas ucieczki w skrzynce wahadłowej i % psów, które pozostały bierne; grupy: ucieczka, kontrolna, niemożność ucieczki): Ucieczka – 0% biernych; kontrolna – ok. 10%; niemożność ucieczki – ok. 70%.",
+      "difficulty": 2,
+      "status": "ok"
     }
   ]
 }

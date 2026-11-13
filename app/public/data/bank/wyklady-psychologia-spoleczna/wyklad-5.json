@@ -2,7 +2,7 @@
   "bookId": "wyklady-psychologia-spoleczna",
   "chapterId": "wyklad-5",
   "chapterTitle": "Wykład 5. Ja i inni",
-  "sourceHash": "44fa611ab35f4c46b69326785d8d72783ed37d97",
+  "sourceHash": "749b2c4f6760be6647f0b9e51e62eeaf6d92d509",
   "questions": [
     {
       "id": "wyklady-psychologia-spoleczna-wyklad-5-01",
@@ -264,6 +264,608 @@
       ],
       "explanation": "Negatywne rzeczy przypisujemy bardziej grupie niż sobie, a pozytywne odwrotnie; u Polaków ten efekt jest słabszy.",
       "sourceExcerpt": "Myślimy, że negatywne rzeczy bardziej prawdopodobnie zdarzą się w naszej grupie, niż nam konkretnie, a pozytywne odwrotnie. Polacy mają słabszy ten efekt pozytywny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-12",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Prawidłowość, zgodnie z którą pozytywne wydarzenia wydają się atrakcyjniejsze, gdy są nieoczekiwane, a negatywne – bardziej przykre, gdy są nieoczekiwane, to:",
+        "Zjawisko polegające na tym, że nieoczekiwany sukces cieszy bardziej, a nieoczekiwana porażka boli bardziej niż przewidziane, nazywa się:"
+      ],
+      "correct": [
+        "prawo Feathera"
+      ],
+      "distractors": [
+        "efekt Marks-Irwina",
+        "pesymizm defensywny",
+        "nierealistyczny optymizm",
+        "lęk przed sukcesem",
+        "autoafirmacja",
+        "depresyjny realizm"
+      ],
+      "explanation": "Prawo Feathera: wydarzenia nieoczekiwane (pozytywne i negatywne) przeżywamy silniej niż oczekiwane – stąd „na pewno źle mi pójdzie”.",
+      "sourceExcerpt": "Prawo Feathera – ludzie spostrzegają pozytywne wydarzenia jako bardziej atrakcyjne gdy są one nieoczekiwane niż gdy ich oczekują, a negatywne zdarzenia jako bardziej przykre gdy są nieoczekiwane",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-13",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Student przed egzaminem powtarza „na pewno źle mi pójdzie”, dzięki czemu porażka mniej go zasmuci, a sukces bardziej ucieszy. Mechanizm ten opisuje:",
+        "Nastawienie „na pewno mi nie pójdzie”, sprawiające, że ewentualna porażka mniej boli, a sukces bardziej cieszy, wyjaśnia:"
+      ],
+      "correct": [
+        "prawo Feathera"
+      ],
+      "distractors": [
+        "efekt Marks-Irwina",
+        "nierealistyczny optymizm",
+        "autoafirmacja",
+        "lęk przed sukcesem",
+        "teoria porównań społecznych",
+        "orientacja walidacyjna"
+      ],
+      "explanation": "Przykład prawa Feathera: obniżanie oczekiwań → porażka mniej przykra, sukces przyjemniejszy.",
+      "sourceExcerpt": "„Na pewno źle mi pójdzie na egzaminie…” – jak się nie uda, to się mniej smucimy, a jak się uda, to się bardziej cieszymy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-14",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Efekt Marks-Irwina polega na tym, że ludzie:",
+        "Zgodnie z efektem Marks-Irwina ludzie:"
+      ],
+      "correct": [
+        "zawyżają prawdopodobieństwo wydarzeń pozytywnych",
+        "przeceniają szanse wystąpienia zdarzeń pozytywnych"
+      ],
+      "distractors": [
+        "zaniżają prawdopodobieństwo wydarzeń pozytywnych",
+        "silniej przeżywają wydarzenia nieoczekiwane",
+        "zawyżają prawdopodobieństwo wydarzeń negatywnych",
+        "wzbudzają w sobie pesymistyczne oczekiwania",
+        "kompensują porażkę sukcesem w innej sferze",
+        "unikają zadań, które mogą ich zdiagnozować"
+      ],
+      "explanation": "Efekt Marks-Irwina: zawyżanie prawdopodobieństwa wydarzeń pozytywnych (nieco kłóci się z prawem Feathera).",
+      "sourceExcerpt": "Efekt Marks-Irwina – Ludzie zawyżają prawdopodobieństwo wydarzeń pozytywnych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-15",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Wzbudzanie w sobie nierealistycznych, pesymistycznych oczekiwań, które motywuje do przygotowania się do zadania (Cantor i Norem), to:",
+        "Strategia polegająca na celowym nastawianiu się pesymistycznie, by zmobilizować się do przygotowań, nazywa się:"
+      ],
+      "correct": [
+        "pesymizm defensywny"
+      ],
+      "distractors": [
+        "samoutrudnianie",
+        "prawo Feathera",
+        "lęk przed sukcesem",
+        "depresyjny realizm",
+        "wyuczona bezradność",
+        "autoafirmacja"
+      ],
+      "explanation": "Pesymizm defensywny (Cantor i Norem) – nierealistycznie pesymistyczne oczekiwania motywujące do przygotowań.",
+      "sourceExcerpt": "Pesymizm defensywny – wzbudzanie w sobie nierealistycznych, pesymistycznych oczekiwań, motywujące do przygotowywania się do zadania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-16",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W badaniu nad pesymizmem defensywnym studentki-pesymistki, którym w krótkiej terapii zalecono myślenie optymistyczne:",
+        "Pesymistki, które w ramach krótkoterminowej terapii nakłaniano do optymistycznego myślenia, przed egzaminem:"
+      ],
+      "correct": [
+        "do ostatnich 2–3 dni miały niski stres, potem bardzo wysoki lęk"
+      ],
+      "distractors": [
+        "przez cały czas miały niski poziom lęku i stresu",
+        "wchodziły na egzamin z przeciętnym poziomem lęku",
+        "miały wysoki lęk od początku, a tuż przed egzaminem niski",
+        "osiągały lepsze wyniki niż pozostałe pesymistki",
+        "przestały się uczyć, bo nie odczuwały zagrożenia",
+        "miały lęk taki sam jak studentki optymistki"
+      ],
+      "explanation": "Pesymistki bez terapii: wysoki lęk motywował do nauki → na egzamin z przeciętnym lękiem. Po terapii „optymistycznej”: niski stres, ale 2–3 dni przed egzaminem lęk bardzo wysoki.",
+      "sourceExcerpt": "Studentki (wcześniej pesymistki) które poddano krótkoterminowej terapii nakłaniającej do myślenia optymistycznego – miały niski poziom stresu aż do ostatnich 2-3 dni → tuż przed egzaminem lęk stawał się bardzo wysoki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-17",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Studentki, które od początku były pesymistyczne i nie przechodziły żadnej terapii, wchodziły na egzamin:",
+        "W badaniu nad pesymizmem defensywnym pesymistki pozostawione bez interwencji przystępowały do egzaminu:"
+      ],
+      "correct": [
+        "z przeciętnym poziomem lęku",
+        "z umiarkowanym, przeciętnym lękiem"
+      ],
+      "distractors": [
+        "z bardzo wysokim poziomem lęku",
+        "bez żadnego lęku",
+        "z lękiem wyższym niż na początku",
+        "nieprzygotowane, bo lęk je paraliżował",
+        "z lękiem rosnącym w ostatnich 2–3 dniach",
+        "z lękiem niższym niż optymistki"
+      ],
+      "explanation": "Pesymistki od początku miały wysoki lęk, który motywował je do nauki – na egzamin wchodziły z przeciętnym lękiem.",
+      "sourceExcerpt": "Studentki które były pesymistyczne od początku miały wysoki lęk, ale motywowało je to do nauki i wchodziły z przeciętnym poziomem lęku na egzamin.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-18",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Lęk przed sukcesem opisany przez Matinę Horner dawniej obserwowano tylko u kobiet. Obecnie:",
+        "Współcześnie lęk przed sukcesem (M. Horner):"
+      ],
+      "correct": [
+        "pojawia się czasem, bez zróżnicowania płciowego",
+        "występuje niekiedy, niezależnie od płci"
+      ],
+      "distractors": [
+        "nadal występuje tylko u kobiet",
+        "występuje już tylko u mężczyzn",
+        "nie występuje w ogóle",
+        "dotyczy głównie dzieci",
+        "występuje u wszystkich, częściej u mężczyzn",
+        "dotyczy wyłącznie sportowców"
+      ],
+      "explanation": "Horner: kiedyś kobiety przewidywały złe zakończenia historii o sukcesie kobiety; dziś złe zakończenia zdarzają się czasem, bez zróżnicowania płciowego.",
+      "sourceExcerpt": "kiedyś: tylko u kobiet … dzisiaj: złe zakończenie zdarza się czasem, bez zróżnicowania płciowego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-19",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Gdy ktoś zawiedzie w jednym aspekcie swojego życia i próbuje zrobić coś dobrego w innej sferze, mamy do czynienia z:"
+      ],
+      "correct": [
+        "autoafirmacją"
+      ],
+      "distractors": [
+        "samoutrudnianiem",
+        "pesymizmem defensywnym",
+        "kreowaniem konsensusu",
+        "racjonalizacją",
+        "porównaniem społecznym w dół",
+        "orientacją walidacyjną"
+      ],
+      "explanation": "Autoafirmacja – po porażce w jednej sferze robimy coś dobrego w innej. Obrona wysokiej samooceny to jedna z najsilniejszych motywacji.",
+      "sourceExcerpt": "Autoafirmacja – gdy ktoś zawiedzie w jednym aspekcie swojego życia, często próbuje zrobić coś dobrego w innej sferze.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-20",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Koncepcja opanowania trwogi (Pyszczynski, Greenberg, Solomon) zakłada, że samoocena jest buforem chroniącym przed lękiem:"
+      ],
+      "correct": [
+        "przed śmiercią"
+      ],
+      "distractors": [
+        "przed wykluczeniem społecznym",
+        "przed sukcesem",
+        "przed porażką na egzaminie",
+        "przed oceną innych",
+        "przed utratą kontroli",
+        "przed bliskością"
+      ],
+      "explanation": "Samoocena jako bufor: przed lękiem przed śmiercią (opanowanie trwogi – Pyszczynski, Greenberg, Solomon) i przed wykluczeniem społecznym (Tice).",
+      "sourceExcerpt": "lękiem przed śmiercią (koncepcja opanowania trwogi Pyszczynskiego, Greenberga i Solomona)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-21",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W koncepcji Tice samoocena jest buforem chroniącym przed lękiem:"
+      ],
+      "correct": [
+        "przed wykluczeniem społecznym"
+      ],
+      "distractors": [
+        "przed śmiercią",
+        "przed sukcesem",
+        "przed porażką zadaniową",
+        "przed utratą kontroli",
+        "przed chorobą somatyczną",
+        "przed oceną społeczną"
+      ],
+      "explanation": "Tice: samoocena chroni przed lękiem przed wykluczeniem społecznym; opanowanie trwogi – przed lękiem przed śmiercią.",
+      "sourceExcerpt": "lękiem przed wykluczeniem społecznym (koncepcja Tice)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-22",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Wymiary samooceny dzieli się na:"
+      ],
+      "correct": [
+        "centralne, ważne (ale niecentralne) i peryferyczne",
+        "centralne, ważne niecentralne oraz peryferyczne"
+      ],
+      "distractors": [
+        "realne, idealne i powinnościowe",
+        "walidacyjne, konserwatywne i egotystyczne",
+        "poznawcze, motywacyjne i emocjonalne",
+        "prywatne, publiczne i zbiorowe",
+        "jawne, ukryte i nieświadome",
+        "stałe, zmienne i sytuacyjne"
+      ],
+      "explanation": "Struktura wymiarów samooceny: centralne (podstawa), ważne ale niecentralne, peryferyczne.",
+      "sourceExcerpt": "Wymiary centralne – podstawa; Wymiary ważne, ale niecentralne; Wymiary peryferyczne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-23",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Przykładem samoutrudnieniowej reakcji behawioralnej jest:",
+        "Do behawioralnych form samoutrudniania należy:"
+      ],
+      "correct": [
+        "prokrastynacja",
+        "odkładanie przygotowań na później (prokrastynacja)"
+      ],
+      "distractors": [
+        "staranne przygotowanie się do zadania",
+        "wybór zadania o umiarkowanej trudności",
+        "zrobienie czegoś dobrego w innej sferze",
+        "szukanie rzetelnej informacji zwrotnej",
+        "porównywanie się z lepszymi od siebie",
+        "przyznanie się do porażki przed innymi"
+      ],
+      "explanation": "Samoutrudnieniowe reakcje behawioralne: środki farmakologiczne, alkohol, niewkładanie wysiłku, prokrastynacja, wybór bardzo trudnego zadania, ułatwianie zadania rywalowi itd.",
+      "sourceExcerpt": "Samoutrudnieniowe reakcje behawioralne: … niewkładanie wysiłku w przygotowanie się do zadania | prokrastynacja | wybór bardzo trudnego zadania …",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-24",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Niewkładanie wysiłku w zadanie jako forma samoutrudniania to egotystyczna interpretacja:",
+        "Samoutrudnianie przez niewkładanie wysiłku w zadanie bywa ujmowane jako egotystyczna interpretacja:"
+      ],
+      "correct": [
+        "wyuczonej bezradności"
+      ],
+      "distractors": [
+        "pesymizmu defensywnego",
+        "prawa Feathera",
+        "dysonansu poznawczego",
+        "efektu Marks-Irwina",
+        "lęku przed sukcesem",
+        "porównań społecznych"
+      ],
+      "explanation": "Niewkładanie wysiłku w zadanie – egotystyczna interpretacja wyuczonej bezradności.",
+      "sourceExcerpt": "niewkładanie wysiłku w zadanie (egotystyczna interpretacja wyuczonej bezradności)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-25",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Hipochondria, skarżenie się na traumatyczne zdarzenia i nasilenie symptomów lęku to formy samoutrudniania polegające na:"
+      ],
+      "correct": [
+        "odczuwaniu i demonstrowaniu własnych słabości",
+        "odczuwania i demonstrowania własnych słabości"
+      ],
+      "distractors": [
+        "reakcjach behawioralnych",
+        "spostrzeganiu utrudnień w sytuacji zadaniowej",
+        "kreowaniu konsensusu",
+        "unikaniu sprawowania kontroli",
+        "wyborze nieodpowiedniego partnera",
+        "ułatwianiu zadania rywalowi"
+      ],
+      "explanation": "Samoutrudnianie: reakcje behawioralne; odczuwanie i demonstrowanie słabości (lęk, hipochondria, traumy, nieśmiałość, depresyjność…); spostrzeganie utrudnień w sytuacji.",
+      "sourceExcerpt": "Odczuwanie i demonstrowanie własnych słabości: nasilenie symptomów lęku, hipochondria, skarżenie się na traumatyczne zdarzenia, nieśmiałość, depresyjność…",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-26",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Postrzeganie niesprawiedliwości albo niekorzystnych warunków wykonywania zadania jako forma samoutrudniania to:",
+        "Samoutrudnianie polegające na dostrzeganiu przeszkód w partnerze interakcji lub warunkach zadania to:"
+      ],
+      "correct": [
+        "spostrzeganie utrudnień sytuacyjnych",
+        "dostrzeganie utrudnień w sytuacji"
+      ],
+      "distractors": [
+        "demonstrowanie własnych słabości",
+        "samoutrudnieniowa reakcja behawioralna",
+        "autoafirmacja w innej sferze",
+        "pesymizm defensywny",
+        "kreowanie fałszywego konsensusu",
+        "lęk przed sukcesem"
+      ],
+      "explanation": "Spostrzeganie utrudnień w sytuacji zadaniowej: percepcja partnera interakcji, warunków zadania, niesprawiedliwości.",
+      "sourceExcerpt": "Spostrzeganie utrudnień w sytuacji zadaniowej: percepcja przyszłego partnera interakcji, percepcja warunków, spostrzeganie niesprawiedliwości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-27",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Samoutrudnianie jest strategią:"
+      ],
+      "correct": [
+        "prywatną i publiczną, nasilaną przy świadkach"
+      ],
+      "distractors": [
+        "wyłącznie prywatną, ukrywaną przed innymi",
+        "wyłącznie publiczną, stosowaną przy świadkach",
+        "prywatną, słabnącą w obecności świadków",
+        "publiczną, znikającą w samotności",
+        "prywatną, niezależną od obecności innych",
+        "publiczną, stosowaną tylko przez mężczyzn"
+      ],
+      "explanation": "Samoutrudnianie jest i prywatne, i publiczne; nasila się przy świadkach.",
+      "sourceExcerpt": "Samoutrudnianie strategią prywatną, czy publiczną? Oba. Nasila się przy świadkach.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-28",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Kobiety i mężczyźni w samoutrudnianiu:",
+        "Różnice płci w samoutrudnianiu polegają na tym, że:"
+      ],
+      "correct": [
+        "nie różnią się skłonnością, a jedynie jego formami",
+        "mają podobną skłonność, ale wybierają inne formy"
+      ],
+      "distractors": [
+        "różnią się skłonnością – mężczyźni samoutrudniają częściej",
+        "różnią się skłonnością – kobiety samoutrudniają częściej",
+        "nie różnią się ani skłonnością, ani formami",
+        "różnią się tylko tym, czy robią to przy świadkach",
+        "różnią się tylko częstością prokrastynacji",
+        "nie różnią się formami, a jedynie skłonnością"
+      ],
+      "explanation": "Brak różnic płci w skłonności do samoutrudniania; różnice w formach: mężczyźni – reakcje behawioralne, kobiety – odczuwanie i demonstrowanie słabości.",
+      "sourceExcerpt": "Nie ma różnic jeśli chodzi o skłonność, ale różnica jest w formach",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-29",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "W porównaniu z mężczyznami kobiety częściej samoutrudniają sobie przez:"
+      ],
+      "correct": [
+        "odczuwanie i demonstrowanie własnych słabości",
+        "demonstrowanie i odczuwanie własnych słabości"
+      ],
+      "distractors": [
+        "reakcje behawioralne",
+        "picie alkoholu przed zadaniem",
+        "wybór bardzo trudnego zadania",
+        "niewkładanie wysiłku w zadanie",
+        "ułatwianie zadania rywalowi",
+        "przyjmowanie środków farmakologicznych"
+      ],
+      "explanation": "Mężczyźni częściej – reakcje behawioralne; kobiety częściej – odczuwanie i demonstrowanie własnych słabości.",
+      "sourceExcerpt": "Mężczyźni częściej utrudniają sobie przez reakcje behawioralne. Kobiety częściej utrudniają sobie przez demonstrowanie i odczuwanie własnych słabości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-30",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Sportowcy, którzy sobie samoutrudniają, zwykle:",
+        "Badania sportowców pokazują, że ci, którzy samoutrudniają:"
+      ],
+      "correct": [
+        "osiągają lepsze wyniki",
+        "mają lepsze wyniki"
+      ],
+      "distractors": [
+        "osiągają gorsze wyniki",
+        "częściej rezygnują z kariery",
+        "częściej ulegają kontuzjom",
+        "mają wyniki takie jak pozostali",
+        "osiągają słabsze wyniki przy publiczności",
+        "szybciej się wypalają"
+      ],
+      "explanation": "Samoutrudnianie niekoniecznie przeszkadza: sportowcy samoutrudniający mają zwykle lepsze wyniki; człowiek najlepiej działa przy średnim pobudzeniu.",
+      "sourceExcerpt": "Niekoniecznie: Sportowcy, którzy sobie samoutrudniają, mają zwykle lepsze wyniki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-31",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Człowiek działa najlepiej przy poziomie pobudzenia:"
+      ],
+      "correct": [
+        "średnim",
+        "umiarkowanym (średnim)"
+      ],
+      "distractors": [
+        "bardzo wysokim",
+        "bardzo niskim",
+        "maksymalnym",
+        "zerowym",
+        "rosnącym bez ograniczeń",
+        "niskim"
+      ],
+      "explanation": "Człowiek najlepiej działa na średnich poziomach pobudzenia (stąd samoutrudnianie może pomagać).",
+      "sourceExcerpt": "Człowiek najlepiej działa na średnich poziomach pobudzenia.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-32",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Do genezy syndromu chronicznego samoutrudniania należy sytuacja, w której rodzice:"
+      ],
+      "correct": [
+        "nagradzali dziecko tylko w jednej sferze",
+        "chwalili dziecko wyłącznie w jednej dziedzinie"
+      ],
+      "distractors": [
+        "nagradzali dziecko w wielu różnych sferach",
+        "w ogóle nie interesowali się osiągnięciami dziecka",
+        "karali dziecko za każdy sukces",
+        "zachęcali dziecko do realistycznej samooceny",
+        "unikali chwalenia dziecka przy innych",
+        "pozwalali dziecku wybierać łatwe zadania"
+      ],
+      "explanation": "Geneza: rodzice nagradzali tylko jedną sferę (porażki nie da się zrekompensować sukcesem gdzie indziej) lub popisywali się dzieckiem (narcyzm rodziców).",
+      "sourceExcerpt": "Rodzice nagradzali człowieka w jednej tylko sferze (niepowodzenie w tej sferze nie może być rekompensowane sukcesem w innej).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-33",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Popisywanie się dzieckiem w towarzystwie przez narcystycznych rodziców sprzyja u dziecka:"
+      ],
+      "correct": [
+        "chronicznego samoutrudniania"
+      ],
+      "distractors": [
+        "pesymizmu defensywnego",
+        "depresyjnego realizmu",
+        "orientacji walidacyjnej",
+        "lęku przed śmiercią",
+        "zbieżności ja realnego i idealnego",
+        "autoafirmacji"
+      ],
+      "explanation": "Geneza chronicznego samoutrudniania: rodzice nagradzający jedną sferę lub popisujący się dzieckiem (narcyzm rodziców).",
+      "sourceExcerpt": "Rodzice nastawieni na popisywanie się dzieckiem w towarzystwie (narcyzm rodziców)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-34",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Według wskazówek diagnozy chronicznego samoutrudniania (S. Berglas) syndrom ten zaczyna się zwykle:"
+      ],
+      "correct": [
+        "przed ważnym pierwszym zdarzeniem w życiu"
+      ],
+      "distractors": [
+        "po długiej serii sukcesów zawodowych",
+        "we wczesnym dzieciństwie, jeszcze przed szkołą",
+        "po przejściu na emeryturę",
+        "po pierwszej porażce w mało ważnej sferze",
+        "w okresie pełnej stabilizacji życiowej",
+        "po poważnym wypadku losowym"
+      ],
+      "explanation": "Berglas: nasilenie przed codziennymi zadaniami ważnymi dla ego; symptomy (alkohol, środki uspokajające, bóle psychogenne, astma, wypadki); początek przed ważnym pierwszym zdarzeniem; w biografii sukcesy i plany.",
+      "sourceExcerpt": "Początek przed ważnym pierwszym zdarzeniem (egzamin na studia, pierwsze małżeństwo, etc.)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-35",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Do najczęstszych symptomów chronicznego samoutrudniania (S. Berglas) należą:",
+        "Typowe objawy chronicznego samoutrudniania według Berglasa to:"
+      ],
+      "correct": [
+        "alkohol, środki uspokajające, bóle psychogenne, astma"
+      ],
+      "distractors": [
+        "halucynacje, urojenia i omamy słuchowe",
+        "nadmierna pewność siebie i ryzykanctwo",
+        "bezsenność, gorączka i wysypka skórna",
+        "perfekcjonizm i nadmierne przygotowanie",
+        "agresja wobec innych i wandalizm",
+        "utrata pamięci i dezorientacja w czasie"
+      ],
+      "explanation": "Najczęstsze symptomy: picie alkoholu, nadużywanie środków uspokajających, bóle psychogenne, astma, skłonność do ulegania wypadkom.",
+      "sourceExcerpt": "Najczęściej spotykanymi symptomami: picie alkoholu, nadużywanie środków uspokajających, bóle psychogenne, astma, skłonność do ulegania wypadkom losowym",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-psychologia-spoleczna-wyklad-5-36",
+      "bookId": "wyklady-psychologia-spoleczna",
+      "chapterId": "wyklad-5",
+      "stems": [
+        "Obok samoutrudniania przejawem orientacji egotystycznej jest:",
+        "Innym niż samoutrudnianie przykładem orientacji egotystycznej jest:"
+      ],
+      "correct": [
+        "unikanie zadań diagnostycznych",
+        "omijanie zadań, które mogłyby zdiagnozować możliwości"
+      ],
+      "distractors": [
+        "poszukiwanie zadań diagnostycznych",
+        "dążenie do trafnej i dokładnej samooceny",
+        "podtrzymywanie spójności przekonań o sobie",
+        "szukanie krytycznej informacji zwrotnej",
+        "branie odpowiedzialności za porażki",
+        "chętne sprawowanie kontroli"
+      ],
+      "explanation": "Inne przykłady orientacji egotystycznej: unikanie zadań diagnostycznych, kreowanie consensusu, generowanie przyczyn dodatkowych, ułatwianie zadania innym, unikanie sprawowania kontroli.",
+      "sourceExcerpt": "Inne przykłady orientacji egotystycznej: unikanie zadań diagnostycznych, kreowanie consensusu, generowanie przyczyn dodatkowych, ułatwianie zadania innym, unikanie sprawowania kontroli",
       "difficulty": 2,
       "status": "ok"
     }

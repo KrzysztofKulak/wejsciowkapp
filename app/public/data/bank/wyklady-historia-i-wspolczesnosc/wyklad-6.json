@@ -1,0 +1,1090 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-6",
+  "chapterTitle": "Wykład 6. Wielkie prądy - psychoanaliza",
+  "sourceHash": "c6940d3c2b527d02f08a1cef3ffab5d5e360f996",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Magnetyzm zwierzęcy w ujęciu Franza Antona Mesmera to:"
+      ],
+      "correct": [
+        "niewidoczny „fluid uniwersalny” obecny w każdym organizmie",
+        "niewidzialny fluid uniwersalny, obecny w każdym organizmie"
+      ],
+      "distractors": [
+        "pole magnetyczne wytwarzane przez mózg",
+        "energia libido kierowana na innych ludzi",
+        "skłonność zwierząt do uległości wobec człowieka",
+        "stan skupionej uwagi i podatności na sugestię",
+        "siła życiowa tonal opisywana przez Azteków",
+        "przyciąganie między terapeutą a pacjentem"
+      ],
+      "explanation": "Mesmer zakładał istnienie „fluidu uniwersalnego” – magnetyzmu zwierzęcego – w każdym organizmie; wpływając na niego, chciał leczyć choroby, zwłaszcza psychiczne.",
+      "sourceExcerpt": "Mesmer zakładał, że istnieje „fluid uniwersalny” – „magnetyzm zwierzęcy”, obecny w każdym organizmie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Mesmer twierdził, że wpływając na magnetyzm zwierzęcy, można:"
+      ],
+      "correct": [
+        "leczyć choroby, zwłaszcza psychiczne",
+        "leczyć choroby, szczególnie psychiczne"
+      ],
+      "distractors": [
+        "wywołać wyparcie traumatycznych wspomnień",
+        "odczytać treść nieświadomości zbiorowej",
+        "zmierzyć natężenie wrażeń zmysłowych",
+        "przewidywać przyszłe zdarzenia",
+        "wzmacniać popęd śmierci",
+        "poprawić pamięć roboczą"
+      ],
+      "explanation": "Mesmer twierdził, że wpływając na magnetyzm zwierzęcy, można leczyć choroby (zwłaszcza psychiczne).",
+      "sourceExcerpt": "Twierdził, że wpływając na niego można leczyć choroby (zwłaszcza psychiczne)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Jean-Martin Charcot przejął z mesmeryzmu zainteresowanie:"
+      ],
+      "correct": [
+        "hipnozą"
+      ],
+      "distractors": [
+        "snami",
+        "humorami",
+        "afazją",
+        "frenologią",
+        "lobotomią",
+        "atomami"
+      ],
+      "explanation": "Charcot przejął z mesmeryzmu zainteresowanie hipnozą; stan w hipnozie nazywał „histerią”.",
+      "sourceExcerpt": "przejął z mesmeryzmu zainteresowanie hipnozą",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Charcot uważał, że stan hipnozy („histeria”) może wystąpić:"
+      ],
+      "correct": [
+        "tylko u osób z psychopatologią",
+        "wyłącznie przy zaburzeniach psychicznych"
+      ],
+      "distractors": [
+        "u każdej zdrowej osoby",
+        "głównie u małych dzieci",
+        "tylko u osób bardzo inteligentnych",
+        "wyłącznie u mężczyzn",
+        "tylko pod wpływem magnesów",
+        "jedynie podczas snu nocnego"
+      ],
+      "explanation": "Charcot: hipnoza („histeria”) tylko u osób z psychopatologią. Dziś wiadomo, że to stan prawidłowo funkcjonującego umysłu.",
+      "sourceExcerpt": "Uważał, że może wystąpić tylko u osób z zaburzeniami psychopatologicznymi.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Według współczesnej wiedzy hipnoza to stan:"
+      ],
+      "correct": [
+        "prawidłowo funkcjonującego umysłu",
+        "umysłu funkcjonującego prawidłowo"
+      ],
+      "distractors": [
+        "występujący tylko przy psychopatologii",
+        "tożsamy z histerią",
+        "charakterystyczny dla zaburzeń dysocjacyjnych",
+        "płytkiego snu bez świadomości",
+        "całkowitej utraty kontroli nad zachowaniem",
+        "wywoływany przepływem fluidu"
+      ],
+      "explanation": "Dziś: hipnoza to stan prawidłowo funkcjonującego umysłu (zogniskowana uwaga, ograniczona świadomość innych bodźców, częściowo zawieszony krytyczny osąd).",
+      "sourceExcerpt": "Dziś wiemy, że jest inaczej – to stan prawidłowo funkcjonującego umysłu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Według definicji APA (Division 30, 2014) hipnoza to stan świadomości obejmujący:"
+      ],
+      "correct": [
+        "skupioną uwagę, ograniczoną świadomość bodźców peryferyjnych i zwiększoną reaktywność na sugestie",
+        "skupienie uwagi, zawężoną świadomość bodźców peryferyjnych i większą podatność na sugestie"
+      ],
+      "distractors": [
+        "rozproszoną uwagę, poszerzoną świadomość bodźców peryferyjnych i zwiększoną reaktywność na sugestie",
+        "skupioną uwagę, poszerzoną świadomość bodźców peryferyjnych i obniżoną reaktywność na sugestie",
+        "rozproszoną uwagę, ograniczoną świadomość bodźców centralnych i obniżoną reaktywność na sugestie",
+        "skupioną uwagę, pełną świadomość bodźców peryferyjnych i zwiększony krytycyzm wobec sugestii",
+        "utratę świadomości, brak pamięci zdarzeń i całkowitą uległość wobec hipnotyzera",
+        "rozproszoną uwagę, ograniczoną świadomość bodźców peryferyjnych i zwiększony krytycyzm"
+      ],
+      "explanation": "APA Div. 30 (2014): skupiona uwaga + ograniczona świadomość bodźców peryferyjnych + zwiększona zdolność reagowania na sugestie.",
+      "sourceExcerpt": "„Hipnoza to stan świadomości obejmujący skupioną uwagę, ograniczoną świadomość bodźców peryferyjnych i zwiększoną zdolność reagowania na sugestie”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W stanie hipnozy krytyczny osąd osoby hipnotyzowanej zostaje:",
+        "W hipnozie krytyczny osąd danej osoby jest:"
+      ],
+      "correct": [
+        "częściowo zawieszony",
+        "częściowo wyłączony"
+      ],
+      "distractors": [
+        "całkowicie zniesiony",
+        "wyostrzony",
+        "nienaruszony",
+        "przeniesiony na hipnotyzera",
+        "trwale osłabiony",
+        "zastąpiony wolnymi skojarzeniami"
+      ],
+      "explanation": "Hipnoza: uwaga zogniskowana, świadomość bodźców spoza ogniska ograniczona, krytyczny osąd częściowo zawieszony.",
+      "sourceExcerpt": "podczas którego krytyczny osąd danej osoby zostaje częściowo zawieszony",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "„Histerię” leczoną przez Charcota dziś opisalibyśmy przede wszystkim jako:"
+      ],
+      "correct": [
+        "zaburzenia dysocjacyjne lub nerwice",
+        "zaburzenia dysocjacyjne albo nerwice"
+      ],
+      "distractors": [
+        "zaburzenia psychotyczne",
+        "zaburzenia osobowości borderline",
+        "choroby neurodegeneracyjne",
+        "zaburzenia odżywiania",
+        "zespół stresu pourazowego",
+        "padaczkę skroniową"
+      ],
+      "explanation": "Dawną „histerię” dziś nazwalibyśmy zaburzeniami dysocjacyjnymi (DSM-IV) lub nerwicami.",
+      "sourceExcerpt": "Dziś powiedzielibyśmy o zaburzeniach dysocjacyjnych … lub nerwicach",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Zaburzenia dysocjacyjne (DSM-IV) to:"
+      ],
+      "correct": [
+        "rozłączenie funkcji normalnie połączonych (świadomość, pamięć, tożsamość, percepcja)"
+      ],
+      "distractors": [
+        "nadmierna ekstrawersja, płaczliwość i demonstracyjność zachowań w kontaktach z ludźmi",
+        "nieprawidłowe funkcjonowanie macicy wywołujące objawy somatyczne i emocjonalne",
+        "stan zogniskowanej uwagi, zawężonej świadomości i zwiększonej podatności na sugestię",
+        "przenoszenie emocji z właściwego obiektu na terapeutę w trakcie leczenia",
+        "przedostawanie się treści nieświadomych do zachowania w postaci pomyłek",
+        "kompensacja poczucia niższości z dzieciństwa dążeniem do mocy i wyższości"
+      ],
+      "explanation": "DSM-IV: dysocjacja – rozłączenie funkcji normalnie połączonych (świadomość, pamięć, tożsamość, percepcja).",
+      "sourceExcerpt": "zaburzenia dysocjacyjne (według DSM-IV – rozłączenie funkcji normalnie połączonych: świadomość, pamięć, tożsamość, percepcja)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Dawniej uważano, że „histeria” dotyczy wyłącznie kobiet, ponieważ jej przyczyną miała być:"
+      ],
+      "correct": [
+        "nieprawidłowo funkcjonująca macica",
+        "nieprawidłowa praca macicy"
+      ],
+      "distractors": [
+        "nadwyżka czarnej żółci",
+        "nadmiar libido",
+        "zaburzenie fluidu uniwersalnego",
+        "wyparty kompleks Elektry",
+        "nadmierna wrażliwość nerwów czaszkowych",
+        "zbyt silna persona"
+      ],
+      "explanation": "Dawniej uznawano, że „histeria” dotyczy wyłącznie kobiet (przyczyną miała być nieprawidłowo funkcjonująca macica); dziś wiadomo, że takie zaburzenia dotyczą obu płci.",
+      "sourceExcerpt": "kiedyś uznawano, że wyłącznie kobiet (powodem miała być nieprawidłowo funkcjonująca macica)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Założenie psychoanalizy, że zachowania i przeżycia mają swoje przyczyny, także nieuświadomione, to:",
+        "Przekonanie, że każde zachowanie i przeżycie ma przyczynę, również nieuświadomioną, nazywa się:"
+      ],
+      "correct": [
+        "determinizm psychiczny"
+      ],
+      "distractors": [
+        "konflikt psychiczny",
+        "nieświadomość psychiczna",
+        "mechanizm obronny",
+        "dualizm psychofizyczny",
+        "empiryzm genetyczny",
+        "psychosomatyka"
+      ],
+      "explanation": "Założenia psychoanalizy: determinizm psychiczny, nieświadomość, konflikt psychiczny, znaczenie dzieciństwa, mechanizmy obronne.",
+      "sourceExcerpt": "Determinizm psychiczny: zachowania i przeżycia mają swoje przyczyny, także nieuświadomione.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Założenie psychoanalizy, że sprzeczne potrzeby, pragnienia i normy mogą wywoływać napięcie, to:"
+      ],
+      "correct": [
+        "konflikt psychiczny"
+      ],
+      "distractors": [
+        "determinizm psychiczny",
+        "nieświadomość",
+        "mechanizm obronny",
+        "przeniesienie",
+        "dysocjacja",
+        "kompensacja"
+      ],
+      "explanation": "Konflikt psychiczny: sprzeczne potrzeby, pragnienia i normy wywołują napięcie.",
+      "sourceExcerpt": "Konflikt psychiczny: sprzeczne potrzeby, pragnienia i normy mogą wywoływać napięcie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Psychoanaliza zakłada, że jednostka może regulować trudne emocje i konflikty bez pełnej świadomości tych procesów. Służą temu:"
+      ],
+      "correct": [
+        "mechanizmy obronne"
+      ],
+      "distractors": [
+        "czynności pomyłkowe",
+        "wolne skojarzenia",
+        "popędy życia",
+        "procesy świadome",
+        "persona i ego",
+        "wgląd i interpretacja"
+      ],
+      "explanation": "Mechanizmy obronne: jednostka reguluje trudne emocje i konflikty bez pełnej świadomości tych procesów.",
+      "sourceExcerpt": "Mechanizmy obronne: jednostka może regulować trudne emocje i konflikty bez pełnej świadomości tych procesów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-14",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Freud wyróżniał dwie formy nieświadomości: to, co nigdy nie zostało zwerbalizowane, oraz to, co:",
+        "Obok treści, które nigdy nie zostały zwerbalizowane, drugą formą nieświadomości według Freuda jest to, co:"
+      ],
+      "correct": [
+        "było uświadomione, ale uległo wyparciu",
+        "było kiedyś świadome, lecz zostało wyparte"
+      ],
+      "distractors": [
+        "jest wspólne całemu rodzajowi ludzkiemu",
+        "pochodzi od przodków przez archetypy",
+        "nigdy nie dotarło do zmysłów",
+        "zostało zapomniane z powodu upływu czasu",
+        "jest dostępne introspekcji",
+        "dotyczy wyłącznie snów"
+      ],
+      "explanation": "Freud: dwie formy nieświadomości – co nie było zwerbalizowane oraz co było uświadomione, ale uległo wyparciu.",
+      "sourceExcerpt": "deklaracja na temat dwóch form nieświadomości: co nie było zwerbalizowane; co było uświadomione, ale uległo wyparciu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-15",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Popęd śmierci (Thanatos) według Freuda to tendencja do:",
+        "Thanatos w teorii Freuda oznacza dążenie do:"
+      ],
+      "correct": [
+        "destrukcji, agresji i stanu nieorganicznego"
+      ],
+      "distractors": [
+        "podtrzymania życia, rozwoju i tworzenia",
+        "zachowania jednostki i całego gatunku",
+        "miłości, twórczości i więzi z innymi",
+        "kompensacji poczucia niższości wobec innych",
+        "adaptacji do rzeczywistości społecznej",
+        "spełniania wypartych pragnień we śnie"
+      ],
+      "explanation": "Thanatos – destrukcja, agresja, powrót do stanu nieorganicznego (brak napięcia, śmierć); Eros – życie, rozwój, tworzenie, libido.",
+      "sourceExcerpt": "Popęd śmierci (Thanatos) – reprezentuje tendencję do destrukcji, agresji i powrotu do stanu nieorganicznego",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-16",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Popęd życia (Eros) według Freuda związany jest z energią:"
+      ],
+      "correct": [
+        "libido"
+      ],
+      "distractors": [
+        "Thanatos",
+        "persona",
+        "nous",
+        "fluid uniwersalny",
+        "tonal",
+        "anima"
+      ],
+      "explanation": "Eros: wszystkie siły podtrzymujące życie, rozwój i tworzenie; związany z energią libido.",
+      "sourceExcerpt": "Popęd życia (Eros) … Związany jest z energią libido, która napędza miłość, pragnienie, twórczość, potrzebę więzi i reprodukcji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-17",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Libido w ujęciu Freuda to:"
+      ],
+      "correct": [
+        "szeroko rozumiany popęd seksualny – podstawowy czynnik popędowy",
+        "podstawowy czynnik popędowy, czyli szeroko rozumiany popęd seksualny"
+      ],
+      "distractors": [
+        "popęd do destrukcji i powrotu do stanu nieorganicznego",
+        "dążenie do mocy wynikające z poczucia niższości",
+        "obszar nieświadomości wspólny całemu gatunkowi",
+        "część psyche adaptująca do rzeczywistości społecznej",
+        "uniwersalny fluid krążący w każdym organizmie",
+        "tendencja do przenoszenia emocji na terapeutę"
+      ],
+      "explanation": "Libido – podstawowy czynnik popędowy (szeroko rozumiany popęd seksualny): wszelkie pozytywne doświadczenia z ciałem własnym lub cudzym.",
+      "sourceExcerpt": "Libido – podstawowy czynnik popędowy (szeroko rozumiany popęd seksualny)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-18",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Podstawową metodą badawczą Freuda były:"
+      ],
+      "correct": [
+        "studia przypadków",
+        "opisy pojedynczych przypadków (case studies)"
+      ],
+      "distractors": [
+        "eksperymenty laboratoryjne z grupą kontrolną",
+        "badania sondażowe na dużych próbach",
+        "metaanalizy badań klinicznych",
+        "obserwacje zwierząt w skrzynkach",
+        "pomiary progów wrażliwości zmysłowej",
+        "testy psychometryczne"
+      ],
+      "explanation": "Metoda Freuda: głównie studia przypadków (Anna O., Dora, Mały Hans); stąd zarzut braku grup kontrolnych.",
+      "sourceExcerpt": "Głównie studia przypadków",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-19",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Anna O. (Berta Pappenheim), leczona przez Josefa Breuera, po kilkunastu latach:",
+        "Losy Anny O. (Berty Pappenheim) po zakończeniu leczenia u Breuera były takie, że:"
+      ],
+      "correct": [
+        "sama wyzdrowiała i stała się przeciwniczką psychoanalizy",
+        "wyzdrowiała sama i została zdecydowaną przeciwniczką psychoanalizy"
+      ],
+      "distractors": [
+        "została psychoanalityczką i uczennicą Freuda",
+        "wyzdrowiała dzięki terapii prowadzonej przez ojca",
+        "zmarła w zakładzie psychiatrycznym",
+        "wyzdrowiała dopiero po analizie snów u Freuda",
+        "do końca życia pozostała w transie",
+        "wyleczyła się hipnozą u Charcota"
+      ],
+      "explanation": "Breuer leczył Annę O. (czasem 2× dziennie), arbitralnie uznał ją za zdrową; po kilkunastu latach sama wyzdrowiała i stała się przeciwniczką psychoanalizy.",
+      "sourceExcerpt": "Po kilkunastu latach sama wyzdrowiała i stała się absolutną przeciwniczką psychoanalizy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-20",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Transe Anny O., nazywane przez nią „chmurą”, obejmowały:",
+        "Stany określane przez Annę O. jako „chmura” to:"
+      ],
+      "correct": [
+        "halucynacje węży i czaszek",
+        "halucynacje (węże i czaszki)"
+      ],
+      "distractors": [
+        "napady lęku przed końmi",
+        "przejęzyczenia i pomyłki",
+        "sny o powodziach i zlodowaceniach",
+        "ataki płaczu i demonstracyjności",
+        "lęk przed wykluczeniem",
+        "zaniki pamięci świeżych zdarzeń"
+      ],
+      "explanation": "Anna O.: transe („chmura”) – halucynacje węży i czaszek → kaszel, afazja, paraliż, niemożność picia (jadła arbuzy).",
+      "sourceExcerpt": "Transe nazywane „chmurą” – halucynacje: węże i czaszki",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-21",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Podczas pracy z Dorą (Idą Bauer) Freud zaobserwował przenoszenie emocji z właściwego obiektu na terapeutę, czyli:",
+        "Zjawisko zaobserwowane przez Freuda u Dory (Idy Bauer) – przenoszenie emocji z właściwego obiektu na terapeutę – to:"
+      ],
+      "correct": [
+        "przeniesienie"
+      ],
+      "distractors": [
+        "projekcja",
+        "identyfikacja",
+        "sublimacja",
+        "racjonalizacja",
+        "wyparcie",
+        "regresja"
+      ],
+      "explanation": "Dora: przeniesienie (emocje z właściwego obiektu → terapeuta) i znaczenie analizy snów; feministki zarzucają relacji wykorzystywanie.",
+      "sourceExcerpt": "Freud zaobserwował u niej efekt przeniesienia (przenoszenie emocji z właściwego obiektu na terapeutę)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-22",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Przy pracy z Dorą (Idą Bauer), oprócz przeniesienia, Freud zwrócił uwagę na znaczenie:",
+        "Przypadek Dory (Idy Bauer) uświadomił Freudowi, obok przeniesienia, wagę:"
+      ],
+      "correct": [
+        "analizy snów"
+      ],
+      "distractors": [
+        "hipnozy",
+        "przejęzyczeń",
+        "kompleksu kastracyjnego",
+        "terapii prowadzonej przez rodzica",
+        "wolnych skojarzeń",
+        "metaanaliz"
+      ],
+      "explanation": "Przy Dorze Freud zaobserwował przeniesienie i zwrócił uwagę na analizę snów.",
+      "sourceExcerpt": "oraz zwrócił uwagę na znaczenie analizy snów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-23",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W przypadku Małego Hansa (Herberta Grafa), który bał się koni, terapię prowadził:",
+        "Psychoanalityczną terapię lęku Małego Hansa przed końmi prowadził:"
+      ],
+      "correct": [
+        "ojciec chłopca według wskazówek Freuda",
+        "ojciec Hansa, kierując się wskazówkami Freuda"
+      ],
+      "distractors": [
+        "Freud osobiście w swoim gabinecie",
+        "Josef Breuer za pomocą hipnozy",
+        "Charcot w szpitalu Salpêtrière",
+        "Carl Gustav Jung",
+        "matka chłopca według wskazówek Junga",
+        "Alfred Adler w szkole"
+      ],
+      "explanation": "Mały Hans (5 lat) bał się koni; terapię prowadził ojciec wg wskazówek Freuda i uznał lęk za przeniesiony lęk kastracyjny przed ojcem.",
+      "sourceExcerpt": "psychoanalityczną terapię prowadził ojciec Hansa w oparciu o wskazówki Freuda",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-24",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Lęk Małego Hansa przed końmi uznano w toku terapii za:"
+      ],
+      "correct": [
+        "przeniesiony lęk kastracyjny przed ojcem"
+      ],
+      "distractors": [
+        "skutek ugryzienia przez konia w dzieciństwie",
+        "przeniesiony lęk przed utratą matki",
+        "wrodzoną fobię przed dużymi zwierzętami",
+        "objaw histerii dziedziczonej po matce",
+        "przeniesiony lęk przed własną śmiercią",
+        "wyuczoną bezradność wobec ojca"
+      ],
+      "explanation": "Ojciec Hansa uznał, że lęk przed końmi jest przeniesionym lękiem (kastracyjnym) przed ojcem.",
+      "sourceExcerpt": "ojciec Hansa uznał, że lęk przed końmi jest przeniesionym lękiem (kastracyjnym) przed ojcem",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-25",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Czynności pomyłkowe w psychoanalizie to:",
+        "Freudowskie pomyłki (czynności pomyłkowe) to:"
+      ],
+      "correct": [
+        "przejęzyczenia, przez które przedostają się treści nieświadome",
+        "pomyłki i przejęzyczenia ujawniające treści z podświadomości"
+      ],
+      "distractors": [
+        "przypadkowe błędy wynikające wyłącznie ze zmęczenia",
+        "błędne interpretacje snów dokonywane przez terapeutę",
+        "pomyłki diagnostyczne popełniane przez Charcota",
+        "objawy zaburzeń dysocjacyjnych opisane w DSM-IV",
+        "zniekształcenia pamięci wywołane sugestią terapeuty",
+        "błędy popełniane z powodu niskiej inteligencji"
+      ],
+      "explanation": "Czynności pomyłkowe – pomyłki, przejęzyczenia będące wynikiem przedostawania się treści z podświadomości.",
+      "sourceExcerpt": "Czynności pomyłkowe – pomyłki, przejęzyczenia, będące wynikiem przedostawania się treści z podświadomości",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-26",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Karl Popper zarzucał psychoanalizie, że jest:",
+        "Główny zarzut Poppera wobec psychoanalizy dotyczył tego, że jest ona:"
+      ],
+      "correct": [
+        "niefalsyfikowalna",
+        "niesprawdzalna (niefalsyfikowalna)"
+      ],
+      "distractors": [
+        "zbyt biologiczna",
+        "nadmiernie eksperymentalna",
+        "zbyt optymistyczna",
+        "oparta na badaniach zwierząt",
+        "zbyt kosztowna",
+        "skupiona na świadomości"
+      ],
+      "explanation": "Zarzuty: niesprawdzalna, niefalsyfikowalna (Popper), potwierdzanie własnych założeń, studia przypadków, subiektywność, brak grup kontrolnych.",
+      "sourceExcerpt": "jest niesprawdzalna, niefalsyfikowalna (Popper, K.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-27",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Teza Freuda, że sny zawierają ukryte, symboliczne spełnienie pragnień, w świetle współczesnych badań:",
+        "Freudowska teoria snów jako ukrytego spełnienia pragnień według współczesnej wiedzy:"
+      ],
+      "correct": [
+        "nie ma przekonujących dowodów jako teoria uniwersalna"
+      ],
+      "distractors": [
+        "ma dobre wsparcie empiryczne w wielu badaniach",
+        "została potwierdzona w licznych metaanalizach",
+        "jest najlepiej udokumentowaną częścią psychoanalizy",
+        "dotyczy wyłącznie snów dzieci i nastolatków",
+        "została potwierdzona badaniami aktywności mózgu",
+        "jest uznawana za w pełni dowiedzioną"
+      ],
+      "explanation": "Co pozostało z Freuda: sny jako symboliczne spełnienie pragnień – brak przekonujących dowodów jako uniwersalnej teorii.",
+      "sourceExcerpt": "Sny zawierają ukryte, symboliczne spełnienie pragnień (brak przekonujących dowodów jako uniwersalnej teorii)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-28",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Przekonanie, że wyparte wspomnienia traumatyczne można wiarygodnie odzyskać w terapii, dziś ocenia się tak, że:",
+        "W świetle współczesnych badań odzyskiwanie w terapii wypartych wspomnień traumatycznych:"
+      ],
+      "correct": [
+        "jest nieuzasadnione, a sugestia sprzyja fałszywym wspomnieniom"
+      ],
+      "distractors": [
+        "ma bardzo dobre wsparcie empiryczne w badaniach",
+        "jest skuteczne, jeśli terapia trwa odpowiednio długo",
+        "udaje się wiarygodnie tylko w stanie hipnozy",
+        "jest dziś standardem w leczeniu zespołu stresu",
+        "zawsze odtwarza prawdziwy przebieg zdarzeń",
+        "dotyczy wyłącznie traum z wczesnego dzieciństwa"
+      ],
+      "explanation": "Wyparte wspomnienia traumatyczne – brak podstaw do uogólnienia; sugestia może sprzyjać fałszywym wspomnieniom.",
+      "sourceExcerpt": "Wyparte wspomnienia traumatyczne można wiarygodnie odzyskać dzięki terapii (brak podstaw do takiego uogólnienia, a sugestia może sprzyjać powstawaniu fałszywych wspomnień)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-29",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Spośród idei Freuda dobre wsparcie empiryczne ma teza, że:",
+        "Z dorobku Freuda dobrze potwierdzona empirycznie jest teza, że:"
+      ],
+      "correct": [
+        "ludzie nie zawsze rozumieją motywy własnego działania",
+        "ludzie nie zawsze rozumieją, dlaczego działają"
+      ],
+      "distractors": [
+        "sny zawierają ukryte, symboliczne spełnienie pragnień",
+        "wyparte wspomnienia traumy można wiarygodnie odzyskać",
+        "„histeria” dotyczy wyłącznie kobiet",
+        "hipnoza występuje tylko przy psychopatologii",
+        "fobie dzieci to przeniesiony lęk kastracyjny",
+        "całe zachowanie napędza wyłącznie libido"
+      ],
+      "explanation": "Dobre wsparcie: ludzie nie zawsze rozumieją motywy własnego działania; brak dowodów: sny jako spełnienie pragnień, odzyskiwanie wypartych wspomnień.",
+      "sourceExcerpt": "Ludzie nie zawsze rozumieją motywy własnego działania (dobre wsparcie empiryczne)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-30",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Alfred Adler uważał, że przeżywane od dziecka poczucie małej wartości prowadzi do:"
+      ],
+      "correct": [
+        "pragnienia mocy i wyższości (kompensacji)",
+        "dążenia do mocy i wyższości, czyli kompensacji"
+      ],
+      "distractors": [
+        "wyparcia popędów seksualnych",
+        "przeniesienia emocji na terapeutę",
+        "powrotu do stanu nieorganicznego",
+        "rozszczepienia świadomości i tożsamości",
+        "wyuczonej bezradności",
+        "rozbudowy persony kosztem duszy"
+      ],
+      "explanation": "Adler: poczucie małej wartości → pragnienie mocy i wyższości → kompensacja poczucia niższości.",
+      "sourceExcerpt": "Od dziecka przeżywamy z uwagi na własne braki poczucie małej wartości; To z kolei powoduje pragnienie mocy i wyższości; kompensacja poczucia niższości",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-31",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Do zerwania Carla Gustava Junga z Freudem doszło według Junga z powodu:"
+      ],
+      "correct": [
+        "braku akceptacji dla motywowania wszystkiego libido",
+        "niezgody na wyjaśnianie wszystkiego libido"
+      ],
+      "distractors": [
+        "sporu o skuteczność hipnozy",
+        "odrzucenia przez Junga istnienia nieświadomości",
+        "krytyki studiów przypadków",
+        "sporu o poczucie niższości",
+        "różnicy zdań co do roli matki",
+        "konfliktu o przypadek Anny O."
+      ],
+      "explanation": "Jung – najpierw przyjaciel „namaszczony” przez Freuda; zerwanie przez brak akceptacji dla motywowania wszystkiego libido.",
+      "sourceExcerpt": "Zdaniem Junga – przez brak akceptacji dla motywowania wszystkiego libido",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-32",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W modelu psyche Junga podsystem odpowiedzialny za adaptację jednostki do rzeczywistości społecznej to:",
+        "Według Junga za przystosowanie do rzeczywistości społecznej odpowiada:"
+      ],
+      "correct": [
+        "persona"
+      ],
+      "distractors": [
+        "ego",
+        "dusza",
+        "anima",
+        "nieświadomość indywidualna",
+        "nieświadomość zbiorowa",
+        "animus"
+      ],
+      "explanation": "Psyche Junga: ego (środowisko zewnętrzne), persona (rzeczywistość społeczna), dusza (rzeczywistość wewnętrzna; anima/animus), nieświadomość indywidualna, nieświadomość zbiorowa.",
+      "sourceExcerpt": "persony – odpowiedzialnej za adaptację jednostki do rzeczywistości społecznej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-33",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W modelu psyche Junga dusza to podsystem, który:"
+      ],
+      "correct": [
+        "adaptuje do rzeczywistości wewnętrznej i dopełnia personę",
+        "przystosowuje do rzeczywistości wewnętrznej, będąc przeciwieństwem persony"
+      ],
+      "distractors": [
+        "adaptuje psyche do środowiska zewnętrznego",
+        "odpowiada za adaptację do rzeczywistości społecznej",
+        "jest wspólny całemu rodzajowi ludzkiemu",
+        "zawiera materiał oderwany od świadomości jednostki",
+        "jest nieśmiertelny i poznaje prawdę przez wiarę",
+        "chłodzi umysł i reguluje emocje"
+      ],
+      "explanation": "Dusza (Jung) – adaptuje do rzeczywistości wewnętrznej; anima/animus; przeciwieństwo i dopełnienie persony.",
+      "sourceExcerpt": "duszy – adaptującej do rzeczywistości wewnętrznej podmiotu … Dusza jest przeciwieństwem i dopełnieniem persony.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-34",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Anima w psychologii Junga to:"
+      ],
+      "correct": [
+        "kobieca strona męskiej psychiki",
+        "kobiecy aspekt psychiki mężczyzny"
+      ],
+      "distractors": [
+        "męski archetyp kobiecej psychiki",
+        "kobieca strona kobiecej psychiki",
+        "maska przybierana w relacjach społecznych",
+        "energia popędu życia",
+        "obszar nieświadomości wspólny gatunkowi",
+        "ego adaptujące do świata zewnętrznego"
+      ],
+      "explanation": "Dusza dzieli się na animę (kobieca strona męskiej psychiki) i animusa (męski archetyp kobiecej psychiki).",
+      "sourceExcerpt": "Anima (kobieca strona męskiej psychiki) i Animus (męski archetyp kobiecej psychiki)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-35",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Nieświadomość zbiorowa według Junga to:",
+        "Jung opisał nieświadomość zbiorową jako:"
+      ],
+      "correct": [
+        "obszar nieświadomego wspólny całemu rodzajowi ludzkiemu",
+        "nieświadomy obszar wspólny całemu gatunkowi ludzkiemu"
+      ],
+      "distractors": [
+        "materiał oderwany od pola świadomości jednostki",
+        "treści, które były świadome, ale zostały wyparte",
+        "treści, które nigdy nie zostały zwerbalizowane",
+        "część psyche adaptująca do rzeczywistości społecznej",
+        "zbiór wspomnień danej rodziny",
+        "nieświadome przejęzyczenia i pomyłki"
+      ],
+      "explanation": "Jung: nieświadomość indywidualna – materiał oderwany od świadomości jednostki; zbiorowa – wspólna całemu rodzajowi ludzkiemu.",
+      "sourceExcerpt": "nieświadomości zbiorowej – czyli obszaru nieświadomego, wspólnego całemu rodzajowi ludzkiemu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-36",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Potwierdzeniem istnienia nieświadomości zbiorowej były dla Junga:",
+        "Za dowód istnienia nieświadomości zbiorowej Jung uznawał:"
+      ],
+      "correct": [
+        "jego sny z lat 1913–1914 o powodziach i lodzie w Europie"
+      ],
+      "distractors": [
+        "studia przypadków Anny O. i Dory opisane przez Freuda",
+        "wyniki metaanaliz skuteczności różnych terapii",
+        "przejęzyczenia jego pacjentów podczas analizy",
+        "eksperymenty z hipnozą prowadzone przez Charcota",
+        "podobieństwa mitów Azteków, Majów i Inków",
+        "fobie zwierzęce u dzieci, np. lęk przed końmi"
+      ],
+      "explanation": "Dowód Junga: jego sny z 1913 i 1914 r. przedstawiające powodzie i zlodowacenia w Europie przed wybuchem I wojny światowej.",
+      "sourceExcerpt": "Potwierdzeniem istnienia nieświadomości zbiorowej, dla Junga były jego sny z lat 1913 i 1914 przedstawiające powodzie i zlodowacenia w Europie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-37",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Karen Horney, współtwórczyni neopsychoanalizy, w przeciwieństwie do Freuda podkreślała w wyjaśnianiu zachowań:",
+        "Karen Horney, inaczej niż Freud, wskazywała jako źródło zachowań na:"
+      ],
+      "correct": [
+        "wymiar społeczny i kulturowy",
+        "czynniki społeczne i kulturowe"
+      ],
+      "distractors": [
+        "czynniki biologiczne",
+        "popęd śmierci",
+        "nieświadomość zbiorową",
+        "poczucie niższości z dzieciństwa",
+        "dziedziczność temperamentu",
+        "czynniki humoralne"
+      ],
+      "explanation": "Horney: Freud – biologiczne powody zachowań; Horney – wymiar społeczny i kulturowy („Neurotyczna osobowość naszych czasów”, 1937).",
+      "sourceExcerpt": "O ile Freud wskazywał na biologiczne powody zachowań, Horney wskazywała na wymiar społeczny i kulturowy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-38",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Główną metodą badania wewnętrznych konfliktów we współczesnej terapii psychodynamicznej są:"
+      ],
+      "correct": [
+        "wolne skojarzenia"
+      ],
+      "distractors": [
+        "hipnoza",
+        "testy psychometryczne",
+        "eksperymenty",
+        "zadania domowe",
+        "ćwiczenia ekspozycyjne",
+        "kwestionariusze"
+      ],
+      "explanation": "Zasady terapii psychodynamicznej: m.in. wolne skojarzenia jako główna metoda badania konfliktów; interpretacja przeniesienia, obron i symptomów; wgląd kluczowy dla sukcesu.",
+      "sourceExcerpt": "użycie wolnych skojarzeń jako głównej metody badania wewnętrznych konfliktów i problemów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-39",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Współczesna terapia psychodynamiczna za szczególnie ważny dla sukcesu terapii uznaje:"
+      ],
+      "correct": [
+        "wgląd"
+      ],
+      "distractors": [
+        "hipnoza",
+        "farmakoterapia",
+        "trening umiejętności",
+        "ekspozycja na bodziec",
+        "sugestia",
+        "nagradzanie zachowań"
+      ],
+      "explanation": "Zasady terapii psychodynamicznej: wiara we wgląd jako szczególnie ważny dla sukcesu terapii.",
+      "sourceExcerpt": "wiara we wgląd jako szczególnie ważny dla sukcesu terapii",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-40",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Według metaanalizy Hoppena i in. (2023) w leczeniu PTSD przewagę nad terapiami nieskoncentrowanymi na traumie miała:"
+      ],
+      "correct": [
+        "TF-CBT (CBT skoncentrowana na traumie)"
+      ],
+      "distractors": [
+        "terapia psychodynamiczna",
+        "DBT (dialektyczna terapia behawioralna)",
+        "terapia schematów",
+        "terapia interpersonalna",
+        "aktywizacja behawioralna",
+        "terapia skoncentrowana na przeniesieniu"
+      ],
+      "explanation": "PTSD (Hoppen i in., 2023, 157 RCT): różne terapie skuteczne, ale TF-CBT miała przewagę nad nieskoncentrowanymi na traumie.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): PTSD – Hoppen i in. (2023), 157 RCT: Różne formy psychoterapii były skuteczne, ale TF-CBT miała przewagę nad terapiami nieskoncentrowanymi na traumie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-41",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W metaanalizie dotyczącej zaburzenia panicznego (Papola i in., 2022) po wykluczeniu badań o wysokim ryzyku błędu przewagę utrzymała:"
+      ],
+      "correct": [
+        "tylko CBT",
+        "wyłącznie terapia poznawczo-behawioralna"
+      ],
+      "distractors": [
+        "tylko krótkoterminowa terapia psychodynamiczna",
+        "CBT i terapia psychodynamiczna w równym stopniu",
+        "tylko terapia interpersonalna",
+        "tylko farmakoterapia",
+        "tylko DBT",
+        "żadna z badanych terapii"
+      ],
+      "explanation": "Zaburzenie paniczne (Papola i in., 2022, 136 RCT): CBT i krótkoterminowa terapia psychodynamiczna korzystne, ale po wykluczeniu badań wysokiego ryzyka błędu przewagę utrzymała tylko CBT.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): Zaburzenie paniczne – Papola i in. (2022), 136 RCT: CBT i krótkoterminowa terapia psychodynamiczna wykazywały korzystne wyniki, ale po wykluczeniu badań o wysokim ryzyku błędu przewagę utrzymała tylko CBT.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-42",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Metaanaliza Storebø i in. (2024) dotycząca osobowości borderline (BPD) wykazała, że:",
+        "W leczeniu osobowości borderline (Storebø i in., 2024):"
+      ],
+      "correct": [
+        "brak mocnych dowodów na przewagę jednej terapii"
+      ],
+      "distractors": [
+        "zdecydowaną przewagę ma DBT",
+        "jedyną skuteczną metodą jest terapia schematów",
+        "skuteczna jest tylko terapia przeniesienia",
+        "psychoterapia nie przynosi żadnych korzyści",
+        "najlepsze wyniki daje TF-CBT",
+        "przewagę ma wyłącznie klasyczna CBT"
+      ],
+      "explanation": "BPD (Storebø i in., 2024, 25 badań): korzyści z DBT, terapii schematów, terapii skoncentrowanej na przeniesieniu i innych; brak mocnych dowodów na przewagę jednej.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): BPD – Storebø i in. (2024), 25 badań: Korzyści wykazywały DBT, terapia schematów, terapia skoncentrowana na przeniesieniu i inne metody. Nie ma mocnych dowodów na przewagę jednej terapii nad pozostałymi.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-43",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "W metaanalizie dotyczącej depresji (Fukumori i in., 2024) interwencje psychoterapeutyczne łączone z farmakoterapią:",
+        "Metaanaliza Fukumoriego i in. (2024) nad depresją pokazała, że połączenie psychoterapii z farmakoterapią:"
+      ],
+      "correct": [
+        "często wypadały lepiej niż sama psychoterapia"
+      ],
+      "distractors": [
+        "wypadały gorzej niż sama psychoterapia",
+        "nie różniły się od samej psychoterapii",
+        "były skuteczne tylko w połączeniu z CBT",
+        "wypadały gorzej niż sama farmakoterapia",
+        "nie były w tej metaanalizie badane",
+        "okazały się całkowicie nieskuteczne"
+      ],
+      "explanation": "Depresja (Fukumori i in., 2024, 100 RCT): CBT, psychodynamiczna, interpersonalna i aktywizacja behawioralna skuteczne; wiele interwencji łączonych z farmakoterapią lepszych niż sama psychoterapia.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): Depresja – Fukumori i in. (2024), 100 RCT: CBT, terapia psychodynamiczna, interpersonalna i aktywizacja behawioralna były skuteczne. Wiele interwencji łączonych z farmakoterapią wypadało lepiej niż sama psychoterapia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-44",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Ogólny wniosek z porównania metaanaliz skuteczności psychoterapii w różnych zaburzeniach brzmi:",
+        "Zestawienie metaanaliz skuteczności psychoterapii prowadzi do wniosku, że:"
+      ],
+      "correct": [
+        "żadna szkoła nie ma przewagi we wszystkich diagnozach",
+        "nie ma jednej szkoły terapii najlepszej we wszystkich diagnozach"
+      ],
+      "distractors": [
+        "CBT jest najskuteczniejsza we wszystkich zaburzeniach",
+        "terapia psychodynamiczna jest nieskuteczna",
+        "psychoterapia działa tylko z lekami",
+        "wszystkie terapie są równie skuteczne w każdym zaburzeniu",
+        "skuteczność zależy wyłącznie od terapeuty",
+        "metaanalizy nie pozwalają porównywać terapii"
+      ],
+      "explanation": "Uwaga pod tabelą: porównania dotyczą konkretnych interwencji dla określonych zaburzeń; brak przewagi jednej szkoły we wszystkich diagnozach.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): Uwaga: porównania dotyczą konkretnych interwencji dla określonych zaburzeń; brak przewagi jednej szkoły we wszystkich diagnozach.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-45",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-6",
+      "stems": [
+        "Według metaanalizy Papoli i in. (2024) w leczeniu lęku uogólnionego (GAD) najmocniejsze dowody długoterminowe dotyczyły:"
+      ],
+      "correct": [
+        "CBT",
+        "terapia poznawczo-behawioralna"
+      ],
+      "distractors": [
+        "terapia psychodynamiczna",
+        "terapia interpersonalna",
+        "DBT",
+        "terapia schematów",
+        "farmakoterapia",
+        "aktywizacja behawioralna"
+      ],
+      "explanation": "GAD (Papola i in., 2024, 65 RCT): CBT i terapie trzeciej fali skuteczniejsze od standardowej opieki; najmocniejsze dowody długoterminowe – CBT.",
+      "sourceExcerpt": "Ilustracja (tabela „Najważniejsze metaanalizy – porównanie skuteczności psychoterapii”): GAD – Papola i in. (2024), 65 RCT: CBT i terapie trzeciej fali były skuteczniejsze od standardowej opieki. Najmocniejsze dowody długoterminowe dotyczyły CBT.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

@@ -327,13 +327,454 @@ Korelacja jest miarą współzmienności
 
 Artykuł Cialdiniego “We have to break up”
 
+# Wykład 5. Wielkie prądy - psychologia do starożytności do usamodzielnia się jako nauki
+
+## Kalendarium
+
+- Grecja (VI wiek p.n.e.) – powstanie i rozwój
+- Rzym (III wiek p.n.e.) – kopiowanie i niewielki
+rozwój, ale raczej zastój
+- Rozkwit religii monoteistycznych – raczej zastój
+- Renesans (XVI wiek) – delikatne próby ożywienia
+- Europa i oświecenie (XVIII wiek) – rozwój
+- Koniec XIX wieku – psychologia staje się świadoma
+samej siebie
+
+## Próby opisu
+
+Myślenie psychologiczne wywodzi się z dwóch nurtów:
+
+**Od góry **
+
+Zadaję sobie pytanie “czy dusza jest nieśmiertelna” i szukam odpowiedzi
+
+*filozoficzny*
+
+**Od dołu** 
+
+Obserwuję jakiś fenomen - “tętno ludzi wzrasta przy niektórych ludziach” i staram się dociec, jaki jest jego mechanizm
+
+*fizjologiczny/biologiczny*
+
+## Grecka filozofia
+
+myśliciele > empirycy
+
+#### Alkmeon z Krotonu
+
+- pierwsze badania nad budową i działaniem układu nerwowego zwierząt
+- najpewniej pierwszy z badaczy (naukowców, myślicieli), wskazał mózg zamiast serca jako siedlisko *nous *(dusza, umysł) 
+- powiązał oko z mózgiem, zakładał że łączy je “rurka powietrzna”
+#### Protagoras i Demokryt
+
+- poszukiwanie “prawdy obiektywnej”
+- Protagoras - jeśli jedne źródło prawdy, to zmysły → a ludzie widzą rzeczy różnie → to czy może istnieć prawda?
+- Demokryt - nie ma prawdy, są atomy (cząsteczki budujące świat) → są one także w mózgu zmieniają się na skutek kontaktu z atomami świata. Te zmiany → myślenie. 
+#### Hipokrates
+
+- Traktował choroby psychiki jak choroby ciała (a nie boskie kary)
+- Opracował teorię humoralną 
+- Antycypował istnienie psychosomatyki
+#### Sokrates
+
+- Wiedza nie rodzi się z doświadczenia, ale już tkwi w człowieku → pytając się ją “rodzi”, wydobywa ← ***metoda majeutyczna***
+#### Platon
+
+- uczeń Sokratesa
+- zmysły nie doprowadzają do wiedzy → wiedzę trzeba odkryć (przypomnieć) ją w sobie
+- Dusza potrzebuje do działania energii. Dzieli się na trzy części łączone kręgosłupem:
+  - Rozumna (czaszka)
+  - impulsywna (wysokość mostka)
+  - zmysłowa (wysokość brzucha)
+#### Arystoteles
+
+- Uczeń Platona
+- Dużo bardziej zorientowany biologicznie 
+- sekcje zwierząt → źródło wiedzy
+- uznał, że umysł mieści się w sercu (po ranach głowy można wyzdrowieć, a po ranach serca nie), a mózg je chłodzi.
+- Dusza trójdzielna:
+  - wegetatywna - odżywianie, wzrost, rozmnażanie (rośliny - zwierzęta - ludzie)
+  - zmysłowa - ruch, postrzeganie (zwierzęta - ludzie)
+  - rozumna - myślenie (ludzie)
+- przewidział, że lepiej zapamiętuje się zdarzenia, którym towarzyszą silne emocje, lub które się często powtarzają
+- wytyczył podstawowe dziedziny wiedzy i wymyślił dla nich nazwy używane do dziś
+- autor technicznych terminów używanych do dziś takich jak indukcja, dynamika, energia, substancja, atrybut itp.
+Platon
+
+- ważne idee i ich światy
+- zmysły nieistotne, ważny rozum
+- najwyższy poziom rzeczywistości jest w rozumie i myśleniu
+Arystoteles
+
+- ważna przyroda i otaczający świat
+- zmysły i spostrzeganie dają nam kontakt z rzeczywistością
+- w świadomości nie ma niczego, czego nie dostarczyły tam zmysły
+## Rzymska filozofa
+
+Podejście utylitarne, nieistotne rozważania o duszy.
+
+#### Teofrast
+
+- napisał *Charaktery *- portrety literackie wyśmiewające (ale też opisujące) cechy ludzkie
+#### Galen
+
+- Lekarz i anatom
+- pierwsze próby klasyfikacji emocji (negatywne - gniew i agresja, pozytywne)
+- Rozwinął teorię humoralną
+- Związek pomiędzy emocjami a ciałem
+- Opisał 7 nerwów czaszkowych, zastawki serca, różnice między tętnicami (udowodnił, że nie płynie nimi powietrze) i żyłami (na sekcjach makaków)
+- twierdził, że powietrze trafia do serca bezpośrednio z płuc
+#### Hypatia z Aleksandrii
+
+współcześnie symbol konfliktu, ale też symbol odchodzącego świata
+
+- neoplatonka, filozofka i matematyczka 
+- weszła w spór z biskupem świętym Cyrylem z Aleksandrem, który podburzył tłum przeciwko niej oskarżeniami o satanizm i magię, została zlinczowana
+## Poza Europą
+
+### Indie
+
+- idee jaźni, higiena psychiczna i temperament, uważność, praktyki regulacji uwagi/afektu
+### Chiny
+
+- konfucjonizm - kultywacją cnót, samodoskonalenia, rola wychowania, dobroć natury vs potrzeba dyscypliny, równowaga emocji (pięć elementów) jako zdrowie
+### Świat arabski
+
+- emocje, poznanie, muzyka jako regulacja nastroju
+- kliniczna opieka nad chorymi umysłowo, studia przypadków
+- opisy zaburzeń nastroju, poznania
+- tańczący derwisze
+### Afryka
+
+ubuntu (jestem, bo jesteśmy - osoba jako relacja, znaczenie wspólnoty dla dobrostanu)
+
+rola uzdrowicieli/mediatorów; równowaga jednostki z przodkami i środowiskiem
+
+> 
+
+  nie do nauki: polecajka literacka od profesora: Mike Resnick - Kirinyaga
+
+### Ameryki prekolumbijskie
+
+Aztekowie: tonal i yollotl (siły życiowe) - etyka, wychowanie i dyscyplina emocji
+
+Majowie: praktyki rytualne i kalendarzowe jako regulacja cykli życia/psychiki
+
+Inkowei: ayllu (wspólnota) i rytuał jako narzędzia spójności i radzenia sobie z afektem
+
+## Wieki średnie
+
+### Święty Augustyn
+
+Nahulał się za młodego i po trzydziestce się nawrócił.
+
+Wczesny - filozof, późny - teolog
+
+Nie ufał do końca zmysłom.
+
+Ewolucja w podejściu do seksu: Żądze cielesne odbierają umysłowi kontrolę nad sytuacją i wolną wolę. Gdyby nie grzech pierworodny → ludzie znaleźliby sposób na rozmnażanie się bez przyjemności i grzechu.
+
+Dusza ~= umysł
+
+Pamięć to komnata, wypełniona wspomnieniami (czasem przychodzą same, czasem trzeba je wyjąć).
+
+Uważał, że dusza jest wieczna, bo sama dusza nam podpowiada istnienie wieczności.
+
+### Święty Tomasz
+
+“Suma Teologii” - największe dzieło 
+
+raczej kontynuator/komentator niż oryginalny twórca.
+
+Odwoływał się do Arystotelesa.
+
+Opisał pięć zmysłów + szósty →  zdrowy rozsądek (że gdy jemy jabłko i czujemy bodźce różne zmysłami, to szósty nam mówi/agreguje, że one wszystkie pochodzą od jednego jabłka).
+
+Dwuczęściowy umysł → pierwsza: analiza danych, rozumienie, integracja, osądy; druga: tworzy idee, poznaje prawdę za pomocą wiary. Tylko druga jest nieśmiertelna.
+
+Emocje dzielił na kategorie, oparte albo o ból, albo o przyjemność.
+
+## Renesans
+
+kolonializm → bogactwo i nadwyżki
+
+proch strzelniczy → wynalazcy i nauka zaburzają porządek społeczny
+
+woynalzienie czcionki i prasy drukarskiej → skuteczniejsze dzielenie się ideami
+
+#### Kartezjusz
+
+- Filzof, matematyk, fizyk, *ojciec nowoczesnej filozofii*
+- zmiana paradygmatu z ontologicznego (badanie bytów, istnienia) na mentalistyczny (czy poznanie jest prawdziwe?)
+- Ontologia - nauka o bycie, o przedmiotach
+- Epistemologia - nauka o poznaniu
+- Moment wyodrębnienia się z filozofii nauk ścisłych i nauk przyrodniczych
+- Krytyka opierania się na nienaukowych założeniach
+- “*Cogito ergo sum*” (nie mogę pomyśleć, że nie istnieje mój umysł, bo to sprzeczność)
+- Dualizm Kartezjański → rzeczywistość fizyczna (zbudowana z materii, jest deterministyczna itp.) i umysłowa (myśl i świadomość, obszar wolności) są odrębnymi substancjami
+#### Tomasz Hobbes
+
+“Lewiatan, czyli materia, forma, wiładza państwa kościelnego i świeckiego”
+
+- ludzie z natury są sobie wrodzy → rozwiązanie: umowa społeczna, np. w formie państwa (najlepiej autokratycznego)
+- wszystko (także myślenie) jest materią pozostającą w ruchu)
+## Europa i oświecenie (XVIII wiek)
+
+Silny rozwój nauki i techniki, wzrost mechanizacji przemysłu (zwłaszcza w Anglii i Szkocji) → duże nadwyżki finansowe → możliwość utrzymywania filozofów.
+
+Duże zmiany społeczne → nie ma już w Europie niewolnictwa *per se*.
+
+#### John Locke
+
+- idee zawarte w ludzkich umysłach nie są samoistnymi bytami, a efektem analizy danych zmysłowych dokonywanej przez umysł.
+- bodźce tworzą w umyśle wrażenia, wrażenia grupowane są w obiekty, te z kolei w idee proste.
+- idee proste grupują się w idee złożone, a te w idee abstrakcyjne tworzące nowe idee itp.
+#### David Hume
+
+“Traktat o naturze ludzkiej.”
+
+- człowiek jako zbiór doświadczeń → “ja” zamiast duszy
+- kwestionuje związki przyczynowo skutkowe
+#### John Stuart Mill
+
+- umysł można badać za pomocą narzędzi eksperymentalnych i należy to robić
+- empiryzm genetyczny (wszelka wiedza jednostka ludzkiej pochodzi wyłącznie z doświadczenia, a jej sądy są nabyte), epistemologiczny (jedynym kryterium wiedzy jest doświadczenie), metodologiczny (prawdziwe twierdzenia naukowe mogą być wypracowane tylko dzięki doświadczeniu, doświadczenie warunkuje prawomocność).
+- pierwszy feminista (?)  (”The Subjection of women”)
+## Koniec XIX wieku
+
+psychologia staje się “świadoma samej siebie”
+
+#### Gustaw Teodor Fechner
+
+- analizował wrażenia zmysłowe
+- prawo Webera-Fechnera
+  - związek pomiędzy zmianą natężenia bodźca a zmianą jego odczuwania
+  - …
+#### Franc Brentano
+
+- zwolennik psychologii empirycznej
+- krytyk introspekcjonizmu
+- trzy klasy zjawisk psychicznych:
+  - przedstawienia
+  - sądy
+  - fenomeny zainteresowania
+#### Wilehelm Wundt
+
+- Psychologia to nie filozofia
+- Psychologia jako nauka empiryczna
+- kurs “Psychologia fizlojologiczna”.
+> 
+
+  1879, Lipsk
+
+  Wundt zakłada w Lipsku pierwsze w historii laboratorium psychologiczne oraz instytut Psychologii
+
+# Wykład 6. Wielkie prądy - psychoanaliza
+
+## Mesmeryzm
+
+Franz Anton Mesmer
+
+Magnetyzm zwierzęcy - zakładał istnienie niewidocznych pływów i sił w otaczającej nas rzeczywistości
+
+Mesmer zakładał, że istnieje “fluid uniwersalny” - “magnetyzm zwierzęcy”, obecny w każdym organizmie”
+
+Twierdził, że wpływając na niego można leczyć choroby (zwłaszcza psychiczne)
+
+#### Jean-Martin Charcot
+
+przejął z mesmeryzmu zainteresowanie hipnozą
+
+stan podczas hipnozy = “histeria”.
+
+Uważał, że może wystąpić tylko u osób z zaburzeniami psychopatologicznymi.
+
+> 
+
+  Dziś wiemy, że jest inaczej – to stan prawidłowo
+funkcjonującego umysłu, w którym:
+
+  1. uwaga danej osoby jest mocno zogniskowana na
+określonych bodźcach
+  2. świadomość bodźców pochodzących spoza obszaru
+zogniskowania uwagi jest znacznie ograniczona
+  3. podczas którego krytyczny osąd danej osoby zostaje
+częściowo zawieszony
+  American Psychological
+Association, Division 30 (2014):
+“Hipnoza to stan świadomości obejmujący skupioną
+uwagę, ograniczoną świadomość bodźców
+peryferyjnych i zwiększoną zdolność reagowania na
+sugestie”
+Stan ten może być wywoływany za pomocą
+odpowiednich instrukcji a osoba hipnotyzowana
+może doświadczać zmian w sposobie postrzegania,
+odczuwania, pamiętania lub kontrolowania własnego
+zachowania.
+
+## Charcot
+
+“Leczył” “histerię”:
+
+- Dziś powiedzielibyśmy o zaburzeniach
+dysocjacyjnych (według DSM-IV – rozłączenie
+funkcji normalnie połączonych: świadomość,
+pamięć, tożsamość, percepcja) lub nerwicach
+- Nadmierna ekstrawersja, emocjonalność,
+płaczliwość, demonstracyjność zachowań
+- Dziś wiemy, że takie zaburzenia dotyczą zarówno
+mężczyzn jak i kobiet, kiedyś uznawano, że
+wyłącznie kobiet (powodem miała być
+nieprawidłowo funkcjonująca macica)
+Miał wielu znanych uczniów:
+
+- Freud
+- Babiński
+- Pierre Janet
+- Gheorghe Marinescu
+- Georges Gilles de la Tourette
+- Erno Jendrassik
+- Kinnosuke Miura
+- Alfred Binet
+## Sigmund Freud
+
+1856-1939
+
+Lekarz neurolog, twórca psychoanalizy
+
+## Psychoanaliza - podstawowe założenia
+
+- Determinizm psychiczny: zachowania i przeżycia mają
+swoje przyczyny, także nieuświadomione.
+- Nieświadomość: część procesów psychicznych
+pozostaje niedostępna introspekcji.
+- Konflikt psychiczny: sprzeczne potrzeby, pragnienia i
+normy mogą wywoływać napięcie.
+- Znaczenie dzieciństwa: wczesne doświadczenia mogą
+wpływać na późniejsze funkcjonowanie.
+- Mechanizmy obronne: jednostka może regulować
+trudne emocje i konflikty bez pełnej świadomości tych
+procesów.
+> 
+
+  bieg procesów świadomych, zachowanie, dążenia przesądzone są przez nieuświadomiony siły afektywne
+
+  deklaracja na temat dwóch form nieświadomości:
+
+  - co nie było zwerbalizowane
+  - co było uświadomione, ale uległo wyparciu
+
+Freud wyróżnił dwa główne typy popędów:
+
+- Popęd życia (Eros) – obejmuje wszystkie siły dążące do
+podtrzymania życia, rozwoju i tworzenia. Związany jest z energią
+libido, która napędza miłość, pragnienie, twórczość, potrzebę
+więzi i reprodukcji. Celem jest zachowanie jednostki i gatunku.
+- Popęd śmierci (Thanatos) – reprezentuje tendencję do
+destrukcji, agresji i powrotu do stanu nieorganicznego (braku
+napięcia, spokoju, czyli śmierci). Przejawia się w zachowaniach
+autodestrukcyjnych i agresywnych wobec innych.
+Freud uważał, że życie psychiczne człowieka to nieustanna gra między Erosem a Thanatosem – między dążeniem do życia, miłości i tworzenia a popędem ku zniszczeniu i śmierci.
+
+> 
+
+  Libido - podstawowy czynnik popędowy (szeroko rozumiany popęd seksualny)
+
+  Wszelkie formy pozytywnych doświadczeń z ciałem własnym lub cudzym
+
+  przesunięcie libido na innych → kompleks Edypa i Elektry
+
+## Metoda
+
+Głównie studia przypadków:
+
+### Anna O. (Berta Pappenheim)
+
+Transe nazywane “chmurą” - halucynacje: węże i czaszki →  kaszel, afazja, paraliż, niemożność przyjmowania płynów (jadła arbuzy by się nawodnić)
+
+Leczył ją Josef Breuer (hipnoterapeuta), czasem nawet dwa razy dziennie, arbitralnie uznał, że jest zdrowa, ona go odprawiła. 
+
+Po kilkunastu latach sama wyzdrowiała i stała się absolutną przeciwniczką psychoanalizy. 
+
+### Dora (Ida Bauer)
+
+Przyszła z kaszlem i chrypą.
+
+Podczas pracy z nią Freud zaobserwował u niej efekt przeniesienia (przenoszenie emocji z właściwego obiektu na terapeutę), oraz zwrócił uwagę na znaczenie analizy snów.
+
+Środowiska feministyczne zarzucają, że ta relacja była wykorzystująca (po części romantyczno-seksualna).
+
+### Mały Hans
+
+Herbert Graf
+
+Zaczął się bać koni w wieku pięciu lat → psychoanalityczną terapię prowadził ojciec Hansa w oparciu o wskazówki Freuda → w trakcie terapii ojciec Hansa uznał, że lęk przed końmi jest przeniesionym lękiem (kastracyjnym) przed ojcem.
+
+## Freudowskie pomyłki
+
+Czynności pomyłkowe - pomyłki, przejęzyczenia, będące wynikiem przedostawania się treści z podświadomości
+
+## Problemy z psychoanalizą:
+
+- jest niesprawdzalna, niefalsyfikowalna (Popper, K.)
+- potwierdzanie własnych założeń
+- badania przypadków
+- subiektywność interpretacji
+- brak wystarczających grup kontrolnych
+## Co pozostało z Freuda:
+
+- Nieświadome procesy wpływają na zachowanie (ale nie cała teoria nieświadomości Freuda)
+- Wczesne doświadczenia wpływają na rozwój (inne mechanizmy)
+- Ludzie nie zawsze rozumieją motywy własnego działania (dobre wsparcie empiryczne)
+- Konflikty i regulacja emocji wpływają na zachowanie (dobre wsparcie dla wybranych mechanizmów
+- Sny zawierają ukryte, symboliczne spełnienie pragnień (brak przekonujących dowodów jako uniwersalnej teorii)
+- Wyparte wspomnienia traumatyczne można wiarygodnie odzyskać dzięki terapii (brak podstaw do takiego uogólnienia, a sugestia może sprzyjać powstawaniu fałszywych wspomnień)
+## Następcy Freuda
+
+### Alfred Adler
+
+- Od dziecka przeżywamy z uwagi na własne braki poczucie małej wartości
+- To z kolei powoduje pragnienie mocy i wyższości
+- kompensacja poczucia niższości
+- ważny, ale niedoceniony wkład w psychologię współczesną
+### Carl Gustav Jung
+
+- Najpierw przyjaciel i „namaszczony” przez Freuda, później doszło do zerwania
+- Zdaniem Junga – przez brak akceptacji dla motywowania wszystkiego libido
+#### Psyche według Junga
+
+- Perspektywa samoregulującego się systemu składającego się z pięciu podsystemów
+1. ego/ja – adaptującego psyche do środowiska zewnętrznego
+2. persony – odpowiedzialnej za adaptację jednostki do rzeczywistości społecznej
+3. duszy – adaptującej do rzeczywistości wewnętrznej podmiotu, dzieli się ona na dwa rodzaje: Anima (kobieca strona męskiej psychiki) i Animus (męski archetyp kobiecej psychiki). Dusza jest przeciwieństwem i dopełnieniem persony.
+4. nieświadomości indywidualnej – zawierającej materiał oderwany od pola świadomości jednostki
+5. nieświadomości zbiorowej – czyli obszaru nieświadomego, wspólnego całemu rodzajowi ludzkiemu.
+- Potwierdzeniem istnienia nieświadomości zbiorowej, dla Junga były jego sny z lat 1913 i 1914 przedstawiające powodzie i zlodowacenia w Europie, poprzedzające wybuch pierwszej wojny światowej.
+### Karen Horney
+
+- Współtwórczyni neopsychoanalizy
+- O ile Freud wskazywał na biologiczne powody zachowań, Horney wskazywała na wymiar społeczny i kulturowy
+- Najsłynniejsze dzieło – “Neurotyczna osobowość naszych czasów” (1937)
+### Zasady (współczesnej) terapii psychodynamicznej
+
+• nacisk na znaczenie wewnątrzpsychicznych, nieświadomych konfliktów oraz ich związek z rozwojem;
+• postrzeganie mechanizmów obronnych jako wytwarzanych w celu uniknięcia konsekwencji konfliktu;
+• wiara, że psychopatologia wyrasta z doświadczeń wczesnego dzieciństwa;
+• pogląd, że wewnętrzne reprezentacje doświadczeń powstają
+wokół relacji interpersonalnych
+• przekonanie, że kwestie życiowe i ich dynamika replikują się w relacji klient-terapeuta jako przeniesienie i przeciwprzeniesienie
+• użycie wolnych skojarzeń jako głównej metody badania wewnętrznych konfliktów i problemów;
+• skupienie się na interpretacjach przeniesienia, mechanizmów obronnych oraz bieżących symptomów;
+• wiara we wgląd jako szczególnie ważny dla sukcesu terapii.
+
+## Najważniejsze metaanalizy - porównanie skuteczności psychoterapii
+
+[image: ]
+<!-- img: img/41275c03-f28a-809c-b988-c3409d080383.png -->
+
+### to, co nadejdzie…….
+
 Niektóre tematy będą złączone między wykładami (bo jest ich 14, a wyk. 12)
-
-Wykład 3: Myślenie naukowe i myślenie potoczne
-
-Wykład 4: Jak prowadzi się badania w psychologii
-
-Wykład 5: Wielkie prądy - psychologia do starożytności do usamodzielnienia się jako nauki
 
 Wykład 6: Wielkie prądy - psychoanaliza
 

@@ -256,6 +256,7 @@ Psy w grupie 2 nie mają możliwości wyłączania prądu, ale są sprzężone z
 Średni czas ucieczki w skrzynce wahadłowej i procent psów, które pozostały bierne.
 
 [image: ]
+<!-- img: img/3ef75c03-f28a-80df-9e05-eaf156e5bec4.png -->
 
 ### Deficyty bezradnościowe
 
@@ -801,3 +802,112 @@ Generalnie populacja (ludzie dobrze przystosowani i zdrowi psychicznie) ma tende
   Myślimy, że negatywne rzeczy bardziej prawdopodobnie zdarzą się w naszej grupie, niż nam konkretnie, a pozytywne odwrotnie.
 
   Polacy mają słabszy ten efekt pozytywny.
+
+ 17:45-19:15
+
+## Brak pozytywnych złudzeń
+
+> 
+
+  Prawo Feathera - ludzie spostrzegają pozytywne wydarzenia jako bardziej atrakcyjne gdy są one nieoczekiwane niż gdy ich oczekują, a negatywne zdarzenia jako bardziej przykre gdy są nieoczekiwane, niż gdy się ich spodziewają.
+
+  “Na pewno źle mi pójdzie na egzaminie…” - jak się nie uda, to się mniej smucimy, a jak się uda, to się bardziej cieszymy.
+
+#### Efekt Marks-Irwina
+
+Ludzie zawyżają prawdopodobieństwo wydarzeń pozytywnych. (kłóci się nieco z prawem Feathera)
+
+#### Pesymizm defensywny (Cantor i Morem)
+
+wzbudzanie w sobie nierealistycznych, pesymistycznych oczekiwań, motywujące do przygotowywania się do zadania.
+
+> Studentki które były pesymistyczne od początku miały wysoki lęk, ale motywowało je to do nauki i wchodziły z przeciętnym poziomem lęku na egzamin. Studentki (wcześniej pesymistki) które poddano krótkoterminowej terapii nakłaniającej do myślenia optymistycznego - miały niski poziom stresu aż do ostatnich 2-3 dni → tuż przed egzaminem lęk stawał się bardzo wysoki.
+
+#### Lęk przed sukcesem (Matina Horner)
+
+kiedyś: tylko u kobiet - kobiety przewidywały złe zakończenia w przedstawionej historii sukcesów kobiety. 
+
+dzisiaj: złe zakończenie zdarza się czasem, bez zróżnicowania płciowego.
+
+## Samoocena
+
+> Obrona wysokiej samooceny jest jedną z najwyższych motywacji jednostek w społeczeństwie
+
+**Autoafirmacja** - gdy ktoś zawiedzie w jednym aspekcie swojego życia, często próbuje zrobić coś dobrego w innej sferze.
+
+#### Po co samoocena
+
+- jest to syngalizator “rób - nie rób”, “dobrze - źle” 
+- jest to bufor chroniący przed:
+  - lękiem przed śmiercią (koncepcja opanowania trwogi Pyszczynskiego, Greenberga i Solomona)
+  - lękiem przed wykluczeniem społecznym (koncepcja Tice)
+### Struktura wymiarów samooceny
+
+#### Wymiary centralne - podstawa
+
+#### Wymiary ważne, ale niecentralne
+
+#### Wymiary peryferyczne
+
+### Samoutrudnieniowe reakcje behawioralne
+
+środki farmakologiczne | picie alkoholu | niewkładanie wysiłku w zadanie (egotystyczna interpretacja wyuczonej bezradności) | niewkładanie wysiłku w przygotowanie się do zadania | prokrastynacja | wybór bardzo trudnego zadania | uczynienie zadania trudniejszym | wybór nieodpowiedniego partnera | zaangażowanie altruistyczne | ułatwienie zadania rywalowi 
+
+ale także:
+
+##### Odczuwanie i demonstrowanie własnych słabości:
+
+- nasilenie symptomów lęku
+- hipochondria
+- skarżenie się na traumatyczne zdarzenia
+- nieśmiałość
+- depresyjność
+- pogorszenie nastroju
+- intruzywne myśli (pogorszenie funkcjonowania poznawczego)
+- otyłość ( 🤔 )
+lub też:
+
+##### Spostrzeganie utrudnień w sytuacji zadaniowej:
+
+- percepcja przyszłego partnera interakcji
+- percepcja warunków, w których wykonuje się zadanie
+- spostrzeganie niesprawiedliwości
+### Samoutrudnianie strategią prywatną, czy publiczną?
+
+Oba. Nasila się przy świadkach.
+
+#### Czy samoutrudnianie jest zróżnicowane płciowo?
+
+Nie ma różnic jeśli chodzi o skłonność, ale różnica jest w formach:
+
+Mężczyźni częściej utrudniają sobie przez reakcje behawioralne.
+
+Kobiety częściej utrudniają sobie przez demonstrowanie i odczuwanie własnych słabości.
+
+### Czy samoutrudnianie przeszkadza
+
+Niekoniecznie: Sportowcy, którzy sobie samoutrudniają, mają zwykle lepsze wyniki.
+
+> 
+
+  Człowiek najlepiej działa na średnich poziomach pobudzenia.
+
+## Strategiczne vs chroniczne samoutrudnianie
+
+### Geneza syndromu chronicznego samoutrudniania
+
+- Rodzice nagradzali człowieka w jednej tylko sferze (niepowodzenie w tej sferze nie może być rekompensowane sukcesem w innej).
+- Rodzice nastawieni na popisywanie się dzieckiem w towarzystwie (narcyzm rodziców)
+#### 5 wskazówek diagnozy chronicznego samoutrudniania (S. Berglas)
+
+1. Nasilenie samoutrudniania przed codziennymi zadaniami w sferze ważnej dla ego
+2. Njaczęściej spotykanymi symptomami: picie alkoholu, nadużywanie środków uspokajających, bóle psychogenne, astma, skłonność do ulegania wypadkom losowym
+3. Początek przed ważnym pierwszym zdarzeniem (egzamin na studia, pierwsze małżeństwo, etc.)
+4. W biografii obecne sukcesy, obecnie snucie planów na przyszłość.
+### Inne przykłady orientacji egotystycznej
+
+- unikanie zadań diagnostycznych 
+- kreowanie *consensusu*
+- generowanie przyczyn dodatkowych
+- ułatwianie zadania innym
+- unikanie sprawowania kontroli

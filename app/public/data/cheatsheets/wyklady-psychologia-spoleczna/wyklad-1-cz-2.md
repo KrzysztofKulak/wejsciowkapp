@@ -36,6 +36,12 @@
 
 - **Faza treningowa** – pies dostaje wstrząsy, których **nie może uniknąć**; **faza testowa** – **skrzynka wahadłowa**, z której da się uciec.
 - Eksperyment z **24 psami**: (1) grupa ucieczki – dotknięcie płyty głową wyłącza prąd · (2) grupa **sprzężona** bez możliwości wyłączenia · (3) kontrolna. Grupa 2 potem **nie uciekała**.
+
+  | Grupa | Średni czas ucieczki | % psów biernych |
+  | --- | --- | --- |
+  | ucieczki | ok. 20 | **0%** |
+  | kontrolna | ok. 20 | ok. 10% |
+  | **bez możliwości ucieczki** | ok. 49 (**ponad 2× dłużej**) | ok. **70%** |
 - **Deficyty bezradnościowe**:
   - **poznawcze** – nie dostrzega związku reakcja–wzmocnienie,
   - **motywacyjne** – spada motywacja do nowych reakcji,
