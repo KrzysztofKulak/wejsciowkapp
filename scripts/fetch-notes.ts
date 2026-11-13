@@ -5,7 +5,8 @@
 import { NotionAPI } from "notion-client";
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { execFileSync } from "node:child_process";
-import { resolve } from "node:path";
+import { join, resolve } from "node:path";
+import { tmpdir } from "node:os";
 
 type Decoration = [string, any[]?];
 type RichText = Decoration[];
@@ -279,7 +280,7 @@ async function renderBlock(rm: RecordMap, b: Block, indent: number, pageDepth: n
 
 mkdirSync(resolve(root, "source"), { recursive: true });
 /**
- * PDF source (e.g. lecture slides): text via `pdftotext -layout` (poppler). Written as one chapter:
+ * PDF source (e.g. lecture slides; Google Slides links are exported to PDF first): text via `pdftotext -layout` (poppler). Written as one chapter:
  * "# <title>" (page title) + "## <chapter>" so the normal splitter picks it up.
  * These files are git-ignored (source/prezentacja-*.md): the repo is public and slides are third-party material.
  */
@@ -295,10 +296,23 @@ function renderPdf(src: Source): string {
   return `# ${src.title}\n\n## ${src.chapter ?? "slajdy"}\n\n${text}\n`;
 }
 
+/** Google Slides shared "anyone with the link": download the deck as PDF (no auth) to a temp file. */
+async function downloadSlides(url: string): Promise<string> {
+  const id = url.match(/docs\.google\.com\/presentation\/d\/([\w-]+)/)![1];
+  const res = await fetch(`https://docs.google.com/presentation/d/${id}/export/pdf`);
+  if (!res.ok || !res.headers.get("content-type")?.includes("pdf")) {
+    throw new Error(`Could not export Google Slides ${id} as PDF (HTTP ${res.status}); is the deck shared as "anyone with the link"?`);
+  }
+  const path = join(tmpdir(), `slides-${id}.pdf`);
+  writeFileSync(path, Buffer.from(await res.arrayBuffer()));
+  return path;
+}
+
 for (const src of sources) {
-  if (src.pdf) {
-    if (!src.id || !src.title) throw new Error("PDF sources need `id` and `title`");
-    const md = renderPdf(src);
+  const slides = src.url && /docs\.google\.com\/presentation\//.test(src.url);
+  if (src.pdf || slides) {
+    if (!src.id || !src.title) throw new Error("PDF and Google Slides sources need `id` and `title`");
+    const md = renderPdf(slides ? { ...src, pdf: await downloadSlides(src.url!) } : src);
     const dest = resolve(root, `source/${src.id}.md`);
     writeFileSync(dest, md);
     console.log(`Wrote ${dest} (from PDF): ${md.split(/\s+/).filter(Boolean).length} words`);
