@@ -1,0 +1,634 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-3",
+  "chapterTitle": "Rozdział 3",
+  "sourceHash": "ed44dae5883e59c8189ec09ab525db095b5d10bf",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Organizacja naszych uprzednich doświadczeń z jakimś rodzajem zdarzeń, osób czy obiektów to:"
+      ],
+      "correct": [
+        "schemat poznawczy"
+      ],
+      "distractors": [
+        "prototyp",
+        "prototypowość",
+        "asymilacja",
+        "ucieleśnienie",
+        "prymowanie",
+        "heurystyka dostępności",
+        "efekt kontrastu"
+      ],
+      "explanation": "Schemat poznawczy – organizacja uprzednich doświadczeń z danym rodzajem zdarzeń, osób, obiektów; jego rdzeniem jest prototyp.",
+      "sourceExcerpt": "Schemat poznawczy – organizacja naszych uprzednich doświadczeń z jakimś rodzajem zdarzeń, osób, czy obiektów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Egzemplarz najbardziej typowy, najlepiej spełniający schemat, to:"
+      ],
+      "correct": [
+        "prototyp"
+      ],
+      "distractors": [
+        "schemat poznawczy",
+        "prototypowość",
+        "skrypt",
+        "schemat cechy",
+        "asymilacja",
+        "ucieleśnienie",
+        "prymowanie"
+      ],
+      "explanation": "Prototyp – najbardziej typowy, „idealny” egzemplarz; prototypowość – zasada, wg której prototyp jest rdzeniem znaczeniowym schematu.",
+      "sourceExcerpt": "Prototyp – egzemplarz najbardziej typowy i najlepiej spełniający schemat, idealny.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zasada budowania schematów, według której rdzeniem znaczeniowym schematu jest najbardziej typowy egzemplarz, to:"
+      ],
+      "correct": [
+        "prototypowość"
+      ],
+      "distractors": [
+        "schemat poznawczy",
+        "prototyp",
+        "skrypt",
+        "schemat cechy",
+        "asymilacja",
+        "ucieleśnienie",
+        "prymowanie"
+      ],
+      "explanation": "Prototypowość – zasada budowy schematu: rdzeniem jest prototyp.",
+      "sourceExcerpt": "Prototypowość – zasada budowania schematów, wg której rdzeniem znaczeniowym schematu jest prototyp",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Umysłowa reprezentacja typowego ciągu zdarzeń i działań, np. wizyty u lekarza, to:"
+      ],
+      "correct": [
+        "skrypt (scenariusz)",
+        "skrypt"
+      ],
+      "distractors": [
+        "prototyp",
+        "prototypowość",
+        "schemat cechy",
+        "asymilacja",
+        "ucieleśnienie",
+        "prymowanie",
+        "heurystyka dostępności"
+      ],
+      "explanation": "Skrypt (scenariusz) – umysłowa reprezentacja zdarzeń, działań lub ich ciągów (np. wizyta lekarska).",
+      "sourceExcerpt": "Skrypt (scenariusz) – umysłową reprezentacja zdarzeń, działań lub ich ciągów (np wizyta lekarska)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Schematy cech (np. inteligencja, wrogość) odzwierciedlają zmienność ludzi i wnioskujemy o nich głównie na podstawie:"
+      ],
+      "correct": [
+        "zachowania"
+      ],
+      "distractors": [
+        "wyglądu twarzy",
+        "pochodzenia społecznego",
+        "wieku i płci",
+        "ubioru",
+        "deklaracji danej osoby",
+        "opinii innych osób"
+      ],
+      "explanation": "Schematy cech – odzwierciedlenie zmienności ludzi (inteligencja, wrogość), wnioskowane głównie z zachowania.",
+      "sourceExcerpt": "Schematy cech – odzwierciedlenie pewnej zmienności ludzi, np. Inteligencja, wrogość itp (wnioskowane głównie po zachowaniu)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Trzy główne warunki użycia schematu to jego:"
+      ],
+      "correct": [
+        "wykształcenie, aktywizacja i stosowalność do informacji"
+      ],
+      "distractors": [
+        "wykształcenie, wieloznaczność i spadek jakości przetwarzania",
+        "aktywizacja, prototypowość i wyrazistość",
+        "prototypowość, asymilacja i kontrast",
+        "wieloznaczność, aktywizacja i ucieleśnienie",
+        "stosowalność, automatyczność i wyrazistość",
+        "wykształcenie, kontrast i asymilacja"
+      ],
+      "explanation": "Główne warunki: wykształcenie, aktywizacja (percepcyjna lub przedpercepcyjna), stosowalność. Dodatkowe: wieloznaczność danych, spadek jakości warunków przetwarzania.",
+      "sourceExcerpt": "Trzy główne warunki użycia schematu: Wykształcenie schematu; Aktywizacja schematu; Stosowalność schematu do przetwarzanej informacji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Aktywizacja schematu o charakterze przedpercepcyjnym polega na tym, że:"
+      ],
+      "correct": [
+        "oczekuję schematu w sytuacji (z doświadczenia lub prymowania)"
+      ],
+      "distractors": [
+        "doświadczyłem bodźca, który przywołał schemat",
+        "schemat aktywizuje się dopiero po zakończeniu sytuacji",
+        "schemat jest stosowalny do przetwarzanej informacji",
+        "dane są wieloznaczne, więc schemat ma większy wpływ",
+        "schemat tworzy się od nowa przy każdym spostrzeżeniu",
+        "system refleksyjny zostaje czasowo wyłączony"
+      ],
+      "explanation": "Aktywizacja percepcyjna – doświadczyłem bodźca przywołującego schemat; przedpercepcyjna – oczekuję schematu (z doświadczenia lub prymowania).",
+      "sourceExcerpt": "charakter percepcyjny – doświadczyłem bodźca przywołującego schemat i przedpercepcyjny – oczekuję tego schematu w sytuacji (z doświadczenia lub prymowania)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Wpływ schematu na przetwarzanie informacji jest tym większy, im:"
+      ],
+      "correct": [
+        "bardziej wieloznaczne są dane"
+      ],
+      "distractors": [
+        "bardziej jednoznaczne są dane",
+        "lepsze są warunki przetwarzania informacji",
+        "mniej znany jest schemat",
+        "bardziej kontrolowane jest przetwarzanie",
+        "więcej czasu ma osoba na decyzję",
+        "mniej dostępny jest schemat w pamięci"
+      ],
+      "explanation": "Warunki dodatkowe: wieloznaczność danych (im większa, tym większy wpływ schematu) oraz spadek jakości warunków przetwarzania.",
+      "sourceExcerpt": "Wieloznaczność danych (im większa, tym większy wpływ schematu); Spadek jakości warunków przetwarzania informacji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Przetwarzanie informacji, które pojawia się bez intencji, jest bezwysiłkowe, szybkie i przebiega poza świadomością, to przetwarzanie:"
+      ],
+      "correct": [
+        "automatyczne"
+      ],
+      "distractors": [
+        "kontrolowane",
+        "intencjonalne",
+        "dowolne",
+        "wysiłkowe",
+        "refleksyjne",
+        "uświadomione"
+      ],
+      "explanation": "Automatyczne: bez intencji, wbrew woli, bezwysiłkowe, szybkie, nie zużywa uwagi i pamięci roboczej, poza świadomością. Kontrolowane: intencjonalne, dowolne, wysiłkowe, powolne, uświadomione.",
+      "sourceExcerpt": "Automatyczne: Pojawia się bez intencji podmiotu … Jest bezwysiłkowe, szybkie … Pojawia się i przebiega poza świadomością podmiotu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Przetwarzanie automatyczne nie pochłania:"
+      ],
+      "correct": [
+        "uwagi i pamięci roboczej"
+      ],
+      "distractors": [
+        "żadnych bodźców z otoczenia",
+        "pamięci długotrwałej",
+        "informacji ze schematów",
+        "energii z pożywienia",
+        "czasu – trwa zero sekund",
+        "skojarzeń z pamięci"
+      ],
+      "explanation": "Proces automatyczny jest bezwysiłkowy, szybki i nie pochłania operacyjnych zasobów umysłu (uwagi i pamięci roboczej).",
+      "sourceExcerpt": "Jest bezwysiłkowe, szybkie i nie pochłania operacyjnych zasobów umysłu (uwagi i pamięci roboczej)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Z dwóch równolegle działających systemów przetwarzania (refleksyjnego i impulsywnego) czasowo wyłączany może być system:"
+      ],
+      "correct": [
+        "refleksyjny"
+      ],
+      "distractors": [
+        "impulsywny",
+        "żaden z nich",
+        "oba jednocześnie zawsze",
+        "automatyczny",
+        "skojarzeniowy",
+        "percepcyjny"
+      ],
+      "explanation": "Systemy działają równolegle; impulsywny działa szybko i zawsze, refleksyjny może być czasowo wyłączony.",
+      "sourceExcerpt": "System refleksyjny i impulsywny działają równolegle … ale refleksyjny może być czasowo wyłączany.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "System impulsywny składa się z elementów skojarzonych na zasadzie:"
+      ],
+      "correct": [
+        "podobieństwa i współwystępowania"
+      ],
+      "distractors": [
+        "relacji semantycznych wyrażanych zdaniami",
+        "wewnętrznej zgodności logicznej",
+        "negacji i wnioskowania",
+        "prawdy i fałszu",
+        "intencji i celu",
+        "hierarchii statusu"
+      ],
+      "explanation": "Impulsywny: skojarzenia przez podobieństwo i współwystępowanie, aktywizacja jak fala pobudzenia, szybki, działa zawsze. Refleksyjny: relacje semantyczne, wiedza deklaratywna, zasada zgodności.",
+      "sourceExcerpt": "System impulsywny – składa się z elementów skojarzonych za pomocą podobieństwa i współwystępowania, ich aktywizacja ma charakter rozchodzącej się w pamięci fali pobudzenia",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Tylko system refleksyjny umożliwia:"
+      ],
+      "correct": [
+        "negację i reprezentowanie przyszłości"
+      ],
+      "distractors": [
+        "szybkie działanie bez przerwy",
+        "skojarzenia przez podobieństwo",
+        "rozchodzenie się fali pobudzenia w pamięci",
+        "działanie bez żadnego wysiłku",
+        "reagowanie mimo woli podmiotu",
+        "przetwarzanie poza świadomością"
+      ],
+      "explanation": "System refleksyjny: wiedza deklaratywna, myślenie i wnioskowanie; umożliwia negację, ocenę prawdy/fałszu, reprezentowanie przyszłości; może być wyłączony.",
+      "sourceExcerpt": "System refleksyjny … Umożliwia negację, rozważanie, czy coś jest prawdą czy fałszem i reprezentowanie przyszłości.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Informacje jednoznacznie sprzeczne ze schematem zapamiętujemy trafniej. To:"
+      ],
+      "correct": [
+        "efekt sprzeczności"
+      ],
+      "distractors": [
+        "efekt zgodności",
+        "efekt asymilacji",
+        "efekt kontrastu",
+        "błąd nadużycia schematu",
+        "efekt wyrazistości",
+        "efekt czarnej owcy"
+      ],
+      "explanation": "Lepiej pamiętamy rzeczy pasujące do schematu lub mu przeczące: sprzeczności – trafniej (efekt sprzeczności); zgodności – łatwiej, ale bywają zmyślone (efekt zgodności).",
+      "sourceExcerpt": "Sprzeczności zapamiętujemy trafniej – efekt sprzeczności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Informacje zgodne ze schematem łatwiej sobie przypominamy, ale bywają one zmyślone. To:"
+      ],
+      "correct": [
+        "efekt zgodności"
+      ],
+      "distractors": [
+        "efekt sprzeczności",
+        "efekt asymilacji",
+        "efekt kontrastu",
+        "efekt wyrazistości",
+        "efekt czarnej owcy",
+        "efekt prototypowości"
+      ],
+      "explanation": "Efekt zgodności – zgodne ze schematem łatwiej wspominamy, ale bywają zmyślone; efekt sprzeczności – sprzeczne pamiętamy trafniej.",
+      "sourceExcerpt": "Zgodności łatwiej wspominamy, ale bywają one zmyślone – efekt zgodności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Podciągnięcie wieloznacznych danych pod schemat, przez pryzmat którego obserwuje się sytuację, to:"
+      ],
+      "correct": [
+        "asymilacja"
+      ],
+      "distractors": [
+        "akomodacja",
+        "prototypowość",
+        "efekt kontrastu",
+        "ucieleśnienie",
+        "efekt sprzeczności",
+        "stosowalność schematu"
+      ],
+      "explanation": "Asymilacja (w przetwarzaniu) – dopasowanie wieloznacznych danych do schematu; to samo słowo opisuje też efekt kontekstu (ocena zbliżona do otoczenia).",
+      "sourceExcerpt": "Asymilacja – podciągnięcie wieloznacznych danych pod schemat, przez którego pryzmat sytuacja jest obserwowana.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-17",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "„Przypominanie” sobie faktów, które tylko wywnioskowaliśmy na podstawie schematu, to:"
+      ],
+      "correct": [
+        "błąd nadużycia schematu"
+      ],
+      "distractors": [
+        "efekt sprzeczności",
+        "efekt kontrastu",
+        "prototypowość",
+        "aktywizacja przedpercepcyjna",
+        "efekt wyrazistości",
+        "ucieleśnienie"
+      ],
+      "explanation": "Błędy nadużycia schematu – „pamiętamy” fakty wywnioskowane ze schematu; dodawanie elementów schematu to przejaw rekonstruktywnej pamięci.",
+      "sourceExcerpt": "Błędy naduzycia schematu – „przypominanie” sobie faktów, które tylko wywnioskowaliśmy na podstawie schematu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-18",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Dodawanie w pamięci elementów schematu do osoby, która ich nie miała, świadczy o tym, że pamięć ma charakter:"
+      ],
+      "correct": [
+        "rekonstruktywny"
+      ],
+      "distractors": [
+        "reprodukcyjny",
+        "fotograficzny",
+        "wyłącznie percepcyjny",
+        "nieselektywny",
+        "w pełni kontrolowany",
+        "dosłowny"
+      ],
+      "explanation": "Dodawanie elementów schematu – przykład konstruującego przetwarzania, przejaw rekonstruktywnego charakteru pamięci.",
+      "sourceExcerpt": "Dodawanie elementów schematu do przedstawiciela, który ich nie posiadał – przykład konstruującego przetwarzania -> przejaw rekonstruktywnego charakteru pamięci",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-19",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Skrypty wykonujemy w sposób bezmyślny i bezwiedny, dopóki:"
+      ],
+      "correct": [
+        "koszty są niewielkie, a sytuacja standardowa"
+      ],
+      "distractors": [
+        "koszty są wysokie, a sytuacja nietypowa",
+        "jesteśmy w złym nastroju",
+        "dane są jednoznaczne",
+        "ktoś nas obserwuje",
+        "system impulsywny jest wyłączony",
+        "sytuacja jest nowa i zaskakująca"
+      ],
+      "explanation": "Dopóki koszty są niewielkie i sytuacja standardowa, skrypty wykonujemy bezmyślnie i bezwiednie.",
+      "sourceExcerpt": "Dopóki koszty są niewielki i sytuacja standardowa, wykonujemy skrypty w sposób bezmyślny i bezwiedny.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-20",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Osoba wyróżniająca się w grupie („status solisty”) jest zwykle:"
+      ],
+      "correct": [
+        "oceniana bardziej krańcowo"
+      ],
+      "distractors": [
+        "gorzej zapamiętywana i oceniana łagodniej",
+        "oceniana tak samo jak pozostali",
+        "postrzegana jako mniej wpływowa",
+        "rzadziej kategoryzowana",
+        "oceniana zawsze pozytywnie",
+        "pomijana w ocenach grupy"
+      ],
+      "explanation": "Wyrazistość: wyróżniający się są lepiej pamiętani, przypisuje się im większy wpływ na grupę, oceny są bardziej krańcowe, rośnie kategoryzacja.",
+      "sourceExcerpt": "Wyrazistość – wyróżnianie się sprawia, że ludzie bardziej zapamiętują i przypisują większy wpływ na działania grupy, oceniane są bardziej krańcowo … – status solisty",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-21",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Oceniamy kogoś dobrze, bo otaczają go osoby oceniane dobrze. To:"
+      ],
+      "correct": [
+        "efekt asymilacji"
+      ],
+      "distractors": [
+        "efekt kontrastu",
+        "efekt sprzeczności",
+        "efekt zgodności",
+        "efekt czarnej owcy",
+        "efekt wyrazistości",
+        "ucieleśnienie"
+      ],
+      "explanation": "Efekt asymilacji – ocena przesuwa się w stronę otoczenia; efekt kontrastu – w przeciwną stronę.",
+      "sourceExcerpt": "Efekt asymilacji – oceniamy cię dobrze, bo otaczają Cię osoby oceniane dobrze",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-22",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Oceniamy kogoś dobrze, bo otaczają go osoby oceniane źle. To:"
+      ],
+      "correct": [
+        "efekt kontrastu"
+      ],
+      "distractors": [
+        "efekt asymilacji",
+        "efekt sprzeczności",
+        "efekt zgodności",
+        "efekt czarnej owcy",
+        "efekt wyrazistości",
+        "ucieleśnienie"
+      ],
+      "explanation": "Efekt kontrastu – ocena przesuwa się od otoczenia; asymilacja – ku otoczeniu.",
+      "sourceExcerpt": "Efekt kontrastu – oceniamy Cię dobrze, bo otaczają Cię osoby oceniane źle",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-23",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Zgodnie z modelem włączania–wyłączania, gdy oceniany niewiele różni się od otoczenia, pojawia się:"
+      ],
+      "correct": [
+        "asymilacja"
+      ],
+      "distractors": [
+        "kontrast",
+        "efekt sprzeczności",
+        "efekt czarnej owcy",
+        "status solisty",
+        "błąd nadużycia schematu",
+        "efekt zgodności"
+      ],
+      "explanation": "Model włączania–wyłączania: kontekst włącza ocenianego do grupy (asymilacja) lub go wyłącza (kontrast); małe różnice – asymilacja, duże – kontrast.",
+      "sourceExcerpt": "Przy różnicach małych – asymilacja. Przy różnicach dużych – kontrast",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-24",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "W porównaniu z kontrastem asymilacja jest:"
+      ],
+      "correct": [
+        "częstsza i bardziej automatyczna"
+      ],
+      "distractors": [
+        "rzadsza i bardziej kontrolowana",
+        "częstsza, ale bardziej kontrolowana",
+        "rzadsza, ale bardziej automatyczna",
+        "równie częsta i równie automatyczna",
+        "spotykana tylko przy dużych różnicach",
+        "spotykana tylko w złym nastroju"
+      ],
+      "explanation": "Asymilacja jest częstsza i bardziej automatyczna niż kontrast.",
+      "sourceExcerpt": "Asymilacja jest częstsza i bardziej automatyczna niż kontrast",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-25",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Ludzie w dobrym nastroju, w porównaniu z ludźmi w złym nastroju:"
+      ],
+      "correct": [
+        "słabiej odróżniają dobre argumenty od złych"
+      ],
+      "distractors": [
+        "lepiej odróżniają dobre argumenty od złych",
+        "rzadziej popadają w skrypty",
+        "słabiej ulegają heurystyce dostępności",
+        "dokładniej analizują każdą informację",
+        "rzadziej korzystają ze schematów",
+        "mocniej ważą informacje negatywne"
+      ],
+      "explanation": "Dobry nastrój: łatwiej popadamy w skrypty, mocniej ulegamy heurystyce dostępności, słabiej rozróżniamy argumenty w perswazji; zły nastrój – odwrotnie.",
+      "sourceExcerpt": "Ludzie w dobrym nastroju łatwiej popadają w skrypty, mocniej ulegają heurystyce dostępności, słabiej rozróżniają dobre i złe argumenty w perswazji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-26",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Informacje pozytywne, w porównaniu z negatywnymi:"
+      ],
+      "correct": [
+        "przetwarzamy szybciej"
+      ],
+      "distractors": [
+        "ważą więcej w naszych ocenach",
+        "przetwarzamy wolniej i węziej",
+        "zapamiętujemy trafniej, bo przeczą schematom",
+        "traktujemy jako mniej spójne",
+        "wywołują węższe skojarzenia",
+        "ignorujemy w dobrym nastroju"
+      ],
+      "explanation": "Informacje negatywne ważą więcej; pozytywne przetwarzamy szybciej, mają szersze skojarzenia i wydają się bardziej spójne.",
+      "sourceExcerpt": "Informacje negatywne ważą więcej. Informacje pozytywne przetwarzamy szybciej, mamy szersze skojarzenia i traktujemy je jako bardziej spójne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-27",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Osoby trzymające ciepły napój oceniają innych jako „cieplejszych”. To przykład:"
+      ],
+      "correct": [
+        "ucieleśnienia"
+      ],
+      "distractors": [
+        "efektu asymilacji",
+        "efektu kontrastu",
+        "prototypowości",
+        "efektu wyrazistości",
+        "heurystyki dostępności",
+        "aktywizacji przedpercepcyjnej"
+      ],
+      "explanation": "Ucieleśnienie: odczucia z ciała wpływają na sąd (ciepły napój → ludzie „cieplejsi”, twarda kulka → twarze męskie; postura → poczucie władzy).",
+      "sourceExcerpt": "Ucieleśnienie – odczucia z ciała wpływają na sąd, np trzymając ciepły napój oceniamy ludzi jako bardziej ciepłych",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

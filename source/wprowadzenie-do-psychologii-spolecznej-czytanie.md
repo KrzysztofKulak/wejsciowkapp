@@ -460,3 +460,145 @@ Większość autoreprbezentacji nie odbiega daleko od przekonań osoby na włas
 1. Indywidualne
 2. Relacyjne
 3. Wspólnotowe (bardzo daleko za dwoma górnymi)
+# Rozdział 3
+
+Schemat poznawczy - organizacja naszych uprzednich doświadczeń z jakimś rodzajem zdarzeń, osób, czy obiektów
+
+Prototypowość - zasada budowania schematów, wg której rdzeniem znaczeniowym schematu jest prototyp
+
+Prototyp - egzemplarz najbardziej typowy i najlepiej spełniający schemat, idealny.
+
+Skrypt (scenariusz) - umysłową reprezentacja zdarzeń, działań lub ich ciągów (np wizyta lekarska)
+
+Schematy cech - odzwierciedlenie pewnej zmienności ludzi, np. Inteligencja, wrogość itp (wnioskowane głównie po zachowaniu)
+
+## Trzy główne warunki użycia schematu:
+
+Wykształcenie schematu
+
+Aktywizacja schematu 
+
+charakter percepcyjny - doświadczyłem bodźca przywołującego schemat
+
+ i przedpercepcyjny - oczekuję tego schematu w sytuacji (z doświadczenia lub prymowania)
+
+Stosowalność schematu do przetwarzanej informacji
+
+### Dwa warunki dodatkowe:
+
+Wieloznaczność danych (im większa, tym większy wpływ schematu)
+
+Spadek jakości warunków przetwarzania informacji.
+
+Wymiar, na którym można ułożyć procesy umysłowe: automatyczne do kontrolowanego przetwarzanie informacji
+
+Automatyczne:
+
+1. Pojawia się bez intencji podmiotu
+2. W odpowiedzi na pewne bodźce mimo lub wbrew woli podmiotu
+3. Jest bezwysiłkowe, szybkie i nie pochłania operacyjnych zasobów umysłu (uwagi i pamięci roboczej)
+4. Pojawia się i przebiega poza świadomością podmiotu
+Kontrolowane:
+
+Intencjonalne, dowolne, wysiłkowe, powolne i uświadomione przez podmiot
+
+System refleksyjny i impulsywny działają równolegle, spostrzeganie i działanie jest  efektem ich działania, ale refleksyjny może być czasowo wyłączany.
+
+System refleksyjny - składa się z elementów połączonych relacjami semantycznymi, które wyrażają się zdaniami składającymi się na deklaratywny ujęty w słowa system wiedzy, który rządzi się zasadą wewnetrznej zgodnosci, aktywizowana wiedza może być rozbudowywana za pomocą myślenia i wyciągania wniosków; może być czasowo wyłączony. Umożliwia negację, rozważanie, czy coś jest prawdą czy fałszem i reprezentowanie przyszłości.
+
+System impulsywny - składa się z elementów skojarzonych za pomocą podobieństwa i współwystępowania, ich aktywizacja ma charakter rozchodzącej się w pamięci fali pobudzenia; dziala szybko i działa zawsze.
+
+Selektywność pamięci: można przez nią pominąć element, ale także zapamiętać element, którego nie było
+
+Lepiej zapamiętujemy rzeczy, które pasują lub jednoznacznie przeczą schematowi. Sprzeczności zapamiętujemy trafniej - efekt sprzeczności. Zgodności łatwiej wspominamy, ale bywają one zmyślone - efekt zgodności.
+
+Asymilacja - podciągnięcie wieloznacznych danych pod schemat, przez którego pryzmat sytuacja jest obserwowana.
+
+Dodawanie elementów schematu do przedstawiciela, który ich nie posiadał - przykład konstruującego przetwarzania -> przejaw rekonstruktywnego charakteru pamięci
+
+Błędy naduzycia schematu - „przypominanie” sobie faktów, które tylko wywnioskowaliśmy na podstawie schematu
+
+Skrypty - umysłowe reprezentacje ciągów zdarzeń (schematy działań i zdarzeń)
+
+Dopóki koszty są niewielki i sytuacja standardowa, wykonujemy skrypty w sposób bezmyślny i bezwiedny.
+
+Wpływ kontekstu na sądy
+
+Wyrazistość - wyróżnianie się sprawia, że ludzie bardziej zapamiętują i przypisują większy wpływ na działania grupy, oceniane są bardziej krańcowo, zwiększa kategoryzację (wg cechy, która wyróżnia) - status solisty
+
+Efekt asymilacji - oceniamy cię dobrze, bo otaczają Cię osoby oceniane dobrze
+
+Efekt kontrastu - oceniamy Cię dobrze, bo otaczają Cię osoby oceniane źle
+
+Model włączania wyłączania: informacja kontekstowa włącza lub wyłącza ocenianego w grupę, w efekcie asymilując lub kontrastując.
+
+Przy różnicach małych - asymilacja. Przy różnicach dużych - kontrast
+
+Asymilacja jest częstsza i bardziej automatyczna niż kontrast
+
+Ludzie w dobrym nastroju łatwiej popadają w skrypty, mocniej ulegają heurystyce dostępności, słabiej rozróżniają dobre i złe argumenty w perswazji. Ludzie w nastroju złym na odwrót.
+
+Informacje negatywne ważą więcej.
+
+Informacje pozytywne przetwarzamy szybciej, mamy szersze skojarzenia i traktujemy je jako bardziej spójne.
+
+Ucieleśnienie - odczucia z ciała wpływają na sąd, np trzymając ciepły napój oceniamy ludzi jako bardziej ciepłych, trzymając twardą kulkę częściej oceniamy twarze jako męskie. Postura ciała wpływa na poczucie władzy.
+
+# Rozdział 18
+
+Grupa - dwie lub więcej osób, które:
+
+1. Komunikują się ze sobą i wzajemnie na siebie wpływają, szczególnie w bezpośrednich kontaktach
+2. Mają poczucie przynależności do siebie nawzajem („my”)
+3. Mają wspólny cel
+Zwykle występuje też struktura: osoby, role, komunikacja, różnicowanie się statusu, normy, spójność grupowa
+
+Pozycja społeczna - miejsce w grupie związane z funkcją, jaką spełnia się wobec całej grupy 
+
+Rola społeczna - wzorzec zachowań, których grupa oczekuje od osób zajmujących określoną w niej pozycje
+
+Status - prestiż, jakim osoby sa obdarzane w grupie i poza nią 
+
+## Tożsamość:
+
+Indywidualna - co mnie subiektywnie odróżnia od innych członków grupy własnej 
+
+Społeczna - co odróżnia mnie jako członka grupy własnej od grup obcych.
+
+Tożsamość indywidualna wydaje sie być najważniejsza (przynajmniej w motywacyjnym sensie)
+
+### Wymiary tożsamości grupowej:
+
+Ważność - jak ważną częścią własnego ja jest przynależność do grupy
+
+Zaangażowanie - motywacja do działania na rzecz dobra grupy, nawet kosztem własnych, indywidualnych interesów 
+
+Podporządkowanie - stopień szacunku i podporządkowania się normom, symbolom i przywódcom grupy
+
+Poczucie wyższości - przekonanie, że grupa własna jest lepsza od innych
+
+> 
+
+  Narcyzm kolektywny - podbudowane silnymi emocjami, a nierealistyczne przekonanie o wielkości i wybitności własnej grupy, np narodowej lub rasowej. Wiąże się ze skłonnością do agresji w stosunkach międzynarodowych. Jest silny u osób u utajonej niskiej ocenie własnego narodu.
+
+Cztery wymiary dotyczą wszystkich grup o dostatecznej bytowości.
+
+Bytowość grupy - spostrzegany stopień jej realnego istnienia (jak bardzo jest koherentną całością) 
+
+esencjalizm przynależności - przekonanie o niezmienności i niezastepowalnosci przynależności do grupy 
+
+Wzrost bytowosci zwiększa spostrzegany esencjalizm i na odwrót
+
+## Normy grupowe
+
+Reguły określające właściwe i niewłaściwe sposoby zachowania jej członków. Podzielane przez członków nakazy i zakazy co do sposobu myślenia, postępowania i odczuwania.
+
+> 
+
+  Zjawisko czarnej owcy - silniejsze reakcje na łamanie lub przestrzeganie zasad grupy gdy to członek grupy własnej, niż obcej.
+
+### Hierarchia statusu
+
+Status wewnątrzgrupowy - względna ważność jednostki w porównaniu z innymi członkami grupy. Wyraża się stopniem w jakim jednostka obdarzana jest w grupie uwaga, respektem i prestiżem. Zależy od przesłanek formalnych i nieformalnych, a przed wszystkim stopnia, w jakim jest zbliżona do prototypu członka grupy.
+
+Zwycięstwo w rywalizacji i wysoka pozycja zwiększa testosteron.

@@ -175,6 +175,18 @@
           "title": "Rozdział 6",
           "questionCount": 50,
           "cheatsheet": true
+        },
+        {
+          "id": "rozdzial-3",
+          "title": "Rozdział 3",
+          "questionCount": 27,
+          "cheatsheet": true
+        },
+        {
+          "id": "rozdzial-18",
+          "title": "Rozdział 18",
+          "questionCount": 16,
+          "cheatsheet": true
         }
       ]
     },

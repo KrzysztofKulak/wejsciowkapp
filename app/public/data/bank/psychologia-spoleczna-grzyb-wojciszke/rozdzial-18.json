@@ -1,0 +1,379 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-18",
+  "chapterTitle": "Rozdział 18",
+  "sourceHash": "ddbbb0676fbb1b94a019b60f725b86e694989d97",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Według definicji grupa to dwie lub więcej osób, które m.in.:"
+      ],
+      "correct": [
+        "mają poczucie „my” i wspólny cel"
+      ],
+      "distractors": [
+        "przebywają przypadkowo w tym samym miejscu",
+        "są do siebie podobne z wyglądu",
+        "nie komunikują się, ale mają wspólne cechy",
+        "należą do tej samej kategorii statystycznej",
+        "mają taki sam status społeczny",
+        "nie wpływają na siebie nawzajem"
+      ],
+      "explanation": "Grupa: 2+ osoby, które komunikują się i wpływają na siebie (zwł. bezpośrednio), mają poczucie przynależności („my”) i wspólny cel; zwykle też struktura.",
+      "sourceExcerpt": "Grupa – dwie lub więcej osób, które: Komunikują się ze sobą i wzajemnie na siebie wpływają … Mają poczucie przynależności do siebie nawzajem („my”); Mają wspólny cel",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Miejsce w grupie związane z funkcją, jaką spełnia się wobec całej grupy, to:"
+      ],
+      "correct": [
+        "pozycja społeczna"
+      ],
+      "distractors": [
+        "rola społeczna",
+        "status",
+        "norma grupowa",
+        "tożsamość społeczna",
+        "bytowość grupy",
+        "spójność grupowa",
+        "esencjalizm przynależności"
+      ],
+      "explanation": "Pozycja – miejsce/funkcja w grupie; rola – oczekiwany od zajmującego pozycję wzorzec zachowań; status – prestiż w grupie i poza nią.",
+      "sourceExcerpt": "Pozycja społeczna – miejsce w grupie związane z funkcją, jaką spełnia się wobec całej grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Wzorzec zachowań, których grupa oczekuje od osób zajmujących określoną pozycję, to:"
+      ],
+      "correct": [
+        "rola społeczna"
+      ],
+      "distractors": [
+        "pozycja społeczna",
+        "status",
+        "norma grupowa",
+        "tożsamość społeczna",
+        "bytowość grupy",
+        "spójność grupowa",
+        "esencjalizm przynależności"
+      ],
+      "explanation": "Rola społeczna – oczekiwany wzorzec zachowań dla danej pozycji.",
+      "sourceExcerpt": "Rola społeczna – wzorzec zachowań, których grupa oczekuje od osób zajmujących określoną w niej pozycje",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Prestiż, jakim osoby są obdarzane w grupie i poza nią, to:"
+      ],
+      "correct": [
+        "status"
+      ],
+      "distractors": [
+        "pozycja",
+        "rola",
+        "norma",
+        "władza",
+        "tożsamość",
+        "bytowość"
+      ],
+      "explanation": "Status – prestiż w grupie i poza nią; status wewnątrzgrupowy zależy przede wszystkim od podobieństwa do prototypu członka grupy.",
+      "sourceExcerpt": "Status – prestiż, jakim osoby sa obdarzane w grupie i poza nią",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Tożsamość społeczna to:"
+      ],
+      "correct": [
+        "to, co odróżnia mnie jako członka grupy od grup obcych"
+      ],
+      "distractors": [
+        "to, co odróżnia mnie od innych członków mojej grupy",
+        "prestiż, jakim cieszę się poza grupą",
+        "wzorzec zachowań oczekiwany od mojej pozycji",
+        "przekonanie, że moja grupa jest lepsza od innych",
+        "stopień, w jakim grupa realnie istnieje",
+        "moja funkcja wobec całej grupy"
+      ],
+      "explanation": "Tożsamość indywidualna – co odróżnia mnie od członków grupy własnej; społeczna – co odróżnia mnie jako członka grupy od grup obcych.",
+      "sourceExcerpt": "Społeczna – co odróżnia mnie jako członka grupy własnej od grup obcych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Najważniejsza (przynajmniej w sensie motywacyjnym) wydaje się tożsamość:"
+      ],
+      "correct": [
+        "indywidualna"
+      ],
+      "distractors": [
+        "społeczna",
+        "narodowa",
+        "zawodowa",
+        "rodzinna",
+        "zbiorowa",
+        "kolektywna"
+      ],
+      "explanation": "Tożsamość indywidualna wydaje się najważniejsza, przynajmniej motywacyjnie.",
+      "sourceExcerpt": "Tożsamość indywidualna wydaje sie być najważniejsza (przynajmniej w motywacyjnym sensie)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Wymiar tożsamości grupowej oznaczający motywację do działania na rzecz grupy, nawet kosztem własnych interesów, to:"
+      ],
+      "correct": [
+        "zaangażowanie"
+      ],
+      "distractors": [
+        "ważność",
+        "podporządkowanie",
+        "poczucie wyższości",
+        "bytowość",
+        "esencjalizm",
+        "spójność grupowa"
+      ],
+      "explanation": "Wymiary tożsamości grupowej: ważność (jak ważna część ja), zaangażowanie (działanie dla grupy kosztem siebie), podporządkowanie (normy, symbole, przywódcy), poczucie wyższości.",
+      "sourceExcerpt": "Zaangażowanie – motywacja do działania na rzecz dobra grupy, nawet kosztem własnych, indywidualnych interesów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Wymiar tożsamości grupowej oznaczający stopień szacunku dla norm, symboli i przywódców grupy oraz podporządkowania się im, to:"
+      ],
+      "correct": [
+        "podporządkowanie"
+      ],
+      "distractors": [
+        "ważność",
+        "zaangażowanie",
+        "poczucie wyższości",
+        "bytowość",
+        "esencjalizm",
+        "spójność grupowa"
+      ],
+      "explanation": "Podporządkowanie – szacunek i uległość wobec norm, symboli i przywódców grupy.",
+      "sourceExcerpt": "Podporządkowanie – stopień szacunku i podporządkowania się normom, symbolom i przywódcom grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Wymiar tożsamości grupowej opisujący, jak ważną częścią własnego ja jest przynależność do grupy, to:"
+      ],
+      "correct": [
+        "ważność"
+      ],
+      "distractors": [
+        "wyższość",
+        "bytowość",
+        "spójność",
+        "lojalność",
+        "zaangażowanie",
+        "wierność"
+      ],
+      "explanation": "Ważność – jak ważną częścią ja jest przynależność do grupy.",
+      "sourceExcerpt": "Ważność – jak ważną częścią własnego ja jest przynależność do grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Narcyzm kolektywny to:"
+      ],
+      "correct": [
+        "nierealistyczne przekonanie o wielkości i wybitności własnej grupy"
+      ],
+      "distractors": [
+        "realistyczna, wysoka ocena osiągnięć własnej grupy",
+        "przekonanie o niezmienności przynależności do grupy",
+        "spostrzegany stopień realnego istnienia grupy",
+        "silniejsza reakcja na łamanie norm przez członków własnej grupy",
+        "motywacja do działania dla grupy kosztem siebie",
+        "nadmiernie wysoka ocena samego siebie"
+      ],
+      "explanation": "Narcyzm kolektywny – podbudowane silnymi emocjami, nierealistyczne przekonanie o wielkości własnej grupy (np. narodowej); wiąże się z agresją międzynarodową; silny przy utajonej niskiej ocenie własnego narodu.",
+      "sourceExcerpt": "Narcyzm kolektywny – podbudowane silnymi emocjami, a nierealistyczne przekonanie o wielkości i wybitności własnej grupy, np narodowej lub rasowej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Narcyzm kolektywny jest silny u osób, które:"
+      ],
+      "correct": [
+        "mają utajoną niską ocenę własnego narodu"
+      ],
+      "distractors": [
+        "mają jawnie i skrycie wysoką ocenę własnego narodu",
+        "nie identyfikują się z żadną grupą",
+        "mają realistyczną ocenę własnej grupy",
+        "mają niski poziom zaangażowania w grupę",
+        "żyją od dawna za granicą",
+        "należą do wielu różnych grup"
+      ],
+      "explanation": "Narcyzm kolektywny jest silny u osób z utajoną niską oceną własnego narodu; wiąże się ze skłonnością do agresji w stosunkach międzynarodowych.",
+      "sourceExcerpt": "Jest silny u osób u utajonej niskiej ocenie własnego narodu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Spostrzegany stopień realnego istnienia grupy (to, jak bardzo jest koherentną całością), to:"
+      ],
+      "correct": [
+        "bytowość grupy"
+      ],
+      "distractors": [
+        "pozycja społeczna",
+        "rola społeczna",
+        "status",
+        "norma grupowa",
+        "tożsamość społeczna",
+        "spójność grupowa",
+        "esencjalizm przynależności"
+      ],
+      "explanation": "Bytowość – spostrzegany stopień realnego istnienia grupy; esencjalizm przynależności – przekonanie o jej niezmienności i niezastępowalności; wzajemnie się wzmacniają.",
+      "sourceExcerpt": "Bytowość grupy – spostrzegany stopień jej realnego istnienia (jak bardzo jest koherentną całością)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Wzrost spostrzeganej bytowości grupy:"
+      ],
+      "correct": [
+        "zwiększa esencjalizm przynależności – i odwrotnie"
+      ],
+      "distractors": [
+        "zmniejsza esencjalizm przynależności",
+        "nie ma związku z esencjalizmem przynależności",
+        "zwiększa esencjalizm, ale nie odwrotnie",
+        "zmniejsza zaangażowanie członków grupy",
+        "osłabia wszystkie wymiary tożsamości",
+        "dotyczy tylko grup nieformalnych"
+      ],
+      "explanation": "Wzrost bytowości zwiększa spostrzegany esencjalizm i na odwrót.",
+      "sourceExcerpt": "Wzrost bytowosci zwiększa spostrzegany esencjalizm i na odwrót",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Silniejsze reakcje na łamanie (lub przestrzeganie) norm przez członka grupy własnej niż obcej to:"
+      ],
+      "correct": [
+        "zjawisko czarnej owcy"
+      ],
+      "distractors": [
+        "narcyzm kolektywny",
+        "esencjalizm przynależności",
+        "efekt kontrastu",
+        "status solisty",
+        "efekt asymilacji",
+        "bytowość grupy"
+      ],
+      "explanation": "Zjawisko czarnej owcy – silniej reagujemy na łamanie/przestrzeganie norm przez „swoich” niż „obcych”.",
+      "sourceExcerpt": "Zjawisko czarnej owcy – silniejsze reakcje na łamanie lub przestrzeganie zasad grupy gdy to członek grupy własnej, niż obcej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Status wewnątrzgrupowy zależy przede wszystkim od tego, w jakim stopniu jednostka:"
+      ],
+      "correct": [
+        "jest zbliżona do prototypu członka grupy"
+      ],
+      "distractors": [
+        "różni się od pozostałych członków grupy",
+        "ma wysoki status poza grupą",
+        "najdłużej należy do grupy",
+        "najczęściej łamie normy grupy",
+        "ma najwyższe dochody w grupie",
+        "jest najstarsza w grupie"
+      ],
+      "explanation": "Status wewnątrzgrupowy – uwaga, respekt i prestiż w grupie; zależy od przesłanek formalnych i nieformalnych, przede wszystkim od zbliżenia do prototypu członka grupy.",
+      "sourceExcerpt": "Zależy od przesłanek formalnych i nieformalnych, a przed wszystkim stopnia, w jakim jest zbliżona do prototypu członka grupy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18",
+      "stems": [
+        "Zwycięstwo w rywalizacji i wysoka pozycja w hierarchii:"
+      ],
+      "correct": [
+        "zwiększają poziom testosteronu"
+      ],
+      "distractors": [
+        "obniżają poziom testosteronu",
+        "nie wpływają na hormony",
+        "zwiększają poziom kortyzolu",
+        "obniżają status wewnątrzgrupowy",
+        "zmniejszają bytowość grupy",
+        "osłabiają tożsamość społeczną"
+      ],
+      "explanation": "Zwycięstwo w rywalizacji i wysoka pozycja zwiększają testosteron.",
+      "sourceExcerpt": "Zwycięstwo w rywalizacji i wysoka pozycja zwiększa testosteron.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}
