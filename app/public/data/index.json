@@ -179,13 +179,19 @@
         {
           "id": "rozdzial-3",
           "title": "Rozdział 3",
-          "questionCount": 27,
+          "questionCount": 30,
           "cheatsheet": true
         },
         {
           "id": "rozdzial-18",
           "title": "Rozdział 18",
           "questionCount": 16,
+          "cheatsheet": true
+        },
+        {
+          "id": "rozdzial-18-notatki-ai",
+          "title": "Rozdział 18 – notatki AI (s. 448–473)",
+          "questionCount": 85,
           "cheatsheet": true
         }
       ]

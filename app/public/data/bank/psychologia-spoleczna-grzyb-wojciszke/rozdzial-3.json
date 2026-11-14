@@ -629,6 +629,76 @@
       "sourceExcerpt": "Ucieleśnienie – odczucia z ciała wpływają na sąd, np trzymając ciepły napój oceniamy ludzi jako bardziej ciepłych",
       "difficulty": 1,
       "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-28",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Schemat poznawczy opisujący typową, powtarzalną sekwencję zdarzeń w określonej sytuacji (np. wizyta w restauracji) to:"
+      ],
+      "correct": [
+        "skrypt"
+      ],
+      "distractors": [
+        "heurystyka",
+        "stereotyp",
+        "prototyp",
+        "atrybucja",
+        "autoschemat",
+        "kategoria"
+      ],
+      "explanation": "Skrypt (scenariusz) – reprezentacja ciągów zdarzeń i działań; prototyp – najbardziej typowy egzemplarz; stereotyp – schemat grupy.",
+      "sourceExcerpt": "Skrypt (scenariusz) – umysłową reprezentacja zdarzeń, działań lub ich ciągów (np wizyta lekarska)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-29",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Czym w psychologii społecznej jest schemat?"
+      ],
+      "correct": [
+        "strukturą wiedzy zawierającą uogólnione informacje",
+        "organizacją uprzednich doświadczeń z danym rodzajem obiektów"
+      ],
+      "distractors": [
+        "zbiorem wszystkich naszych cech, umiejętności, relacji społecznych",
+        "tymczasowym stanem emocjonalnym wpływającym na ocenę",
+        "sekwencją zdarzeń, której wykonania oczekuje od nas społeczeństwo",
+        "najbardziej typowym egzemplarzem danej kategorii",
+        "regułą szybkiego wnioskowania na podstawie dostępności",
+        "zbiorem norm obowiązujących w danej grupie"
+      ],
+      "explanation": "Schemat poznawczy – organizacja uprzednich doświadczeń (uogólniona wiedza) o rodzaju zdarzeń, osób, obiektów.",
+      "sourceExcerpt": "Schemat poznawczy – organizacja naszych uprzednich doświadczeń z jakimś rodzajem zdarzeń, osób, czy obiektów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-3-30",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-3",
+      "stems": [
+        "Co jest konieczne, żeby schemat poznawczy został użyty w danej sytuacji?"
+      ],
+      "correct": [
+        "schemat musi być aktywizowany (percepcyjnie lub przedpercepcyjnie)"
+      ],
+      "distractors": [
+        "osoba musi być pod wpływem intensywnych emocji",
+        "osoba musi mieć motywację do świadomego przetwarzania informacji",
+        "sytuacja musi być dla osoby nowa, nietypowa",
+        "dane muszą być całkowicie jednoznaczne",
+        "osoba musi być w złym nastroju",
+        "system impulsywny musi być wyłączony"
+      ],
+      "explanation": "Główne warunki użycia schematu: wykształcenie, aktywizacja (percepcyjna lub przedpercepcyjna), stosowalność.",
+      "sourceExcerpt": "Trzy główne warunki użycia schematu: Wykształcenie schematu; Aktywizacja schematu – charakter percepcyjny … i przedpercepcyjny; Stosowalność schematu",
+      "difficulty": 1,
+      "status": "ok"
     }
   ]
 }

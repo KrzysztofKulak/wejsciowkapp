@@ -27,6 +27,13 @@
 ## Trudność
 - Średnia: wymaga znajomości nazw pojęć z notatek i odróżniania ich od sąsiednich. Nie są to pytania podchwytliwe. Skala w banku: 1 = rozpoznanie definicji, 2 = zastosowanie do sytuacji, 3 = subtelne rozróżnienie bliskich pojęć.
 
+## Druga próbka – prowadzący ćwiczeń (5 pytań z Rozdz. 3 i 18, 2026-11-14)
+- **Forma trzonu:** obok zdań dokończeniowych („…to:”, „…jest:”) także pytania wprost („Czym w psychologii społecznej jest schemat?”, „Co jest konieczne, żeby…?”). Autor i rok badania/teorii w trzonie jako kontekst (Tajfel, Turner, 1979).
+- **Opcje to często pełne zdania lub równoważniki** („Podnosi skuteczność w zadaniach łatwych, a obniża w trudnych”, „Strukturą wiedzy zawierającą uogólnione informacje”), o podobnej długości i identycznej formie gramatycznej.
+- **Poprawna odpowiedź = podręcznikowa definicja lub główny wniosek** (np. warunek użycia schematu – aktywizacja; skutek przynależności – faworyzowanie grupy własnej i deprecjacja obcej).
+- **Dystraktory:** (a) permutacje tej samej zależności (łatwe/trudne × podnosi/obniża – wszystkie 4 kombinacje), (b) sąsiednie pojęcia z tego samego rozdziału (heurystyka, stereotyp, prototyp vs skrypt), (c) wiarygodnie brzmiące, ale ogólne twierdzenia spoza teorii (emocje, motywacja, nowość sytuacji, satysfakcja z życia).
+- **Trudność:** raczej rozpoznanie definicji i głównych wniosków niż szczegóły liczbowe; mniej podchwytliwe niż próbka z Rozdz. 5.
+
 ## Reprezentatywne przykłady
 1. „Mechanizm, zgodnie z którym własne potknięcia tłumaczymy czynnikami zewnętrznymi, a identyczne potknięcia innych ludzi - ich cechami charakteru, nazywa się:” → Asymetrią aktor-obserwator (dystraktory: Atrybucją obronną, Heurystyką dostępności, Błędem konfirmacji).
 2. „Małżonkowie zapytani o to, jaki procent obowiązków domowych jest wykonywany przez nich, a jaki przez partnera, w badaniach istotnie przeceniali wkład własny (Ross, Sicoly, 1979). Zjawisko potencjalnie tłumaczące te wyniki to:” → egocentryzm atrybucyjny.

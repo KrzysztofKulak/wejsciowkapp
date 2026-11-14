@@ -1,0 +1,1964 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-18-notatki-ai",
+  "chapterTitle": "Rozdział 18 – notatki AI (s. 448–473)",
+  "sourceHash": "ada2a188ab5b02ea7c184579123d46f4fb0f0e88",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Badania nad facylitacją i hamowaniem społecznym pokazują, że bycie obserwowanym:"
+      ],
+      "correct": [
+        "podnosi skuteczność w zadaniach łatwych, a obniża w trudnych"
+      ],
+      "distractors": [
+        "podnosi skuteczność w zadaniach trudnych, a obniża w łatwych",
+        "podnosi skuteczność w zadaniach łatwych i trudnych",
+        "obniża skuteczność w zadaniach łatwych i trudnych",
+        "nie wpływa na skuteczność w zadaniach łatwych ani trudnych",
+        "podnosi skuteczność tylko u osób o niskiej samoocenie",
+        "obniża skuteczność tylko w zadaniach fizycznych"
+      ],
+      "explanation": "Zajonc (1965): obecność innych nasila reakcję dominującą – w łatwych zadaniach poprawną (facylitacja), w trudnych błędną (hamowanie); potwierdza metaanaliza Bond i Titus (1983).",
+      "sourceExcerpt": "s. 463: Teza Zajonca, iż obecność innych podnosi skuteczność działania w zadaniach łatwych, a obniża w zadaniach trudnych, okazała się ogólnie prawdziwa w metaanalizie ponad 240 badań (Bond i Titus, 1983).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według teorii tożsamości społecznej (Tajfel, Turner, 1979) niemal nieuniknioną konsekwencją przynależności do grupy jest:"
+      ],
+      "correct": [
+        "faworyzowanie grupy własnej i deprecjacja grupy obcej"
+      ],
+      "distractors": [
+        "zwiększenie deklarowanej satysfakcji z życia",
+        "zradykalizowanie poglądów członków grupy",
+        "spadek ważności tożsamości indywidualnej",
+        "zanik różnic statusu między członkami grupy",
+        "wzrost tolerancji wobec grup obcych",
+        "rezygnacja z własnych celów osobistych"
+      ],
+      "explanation": "Teoria tożsamości społecznej: poczucie wyższości grupy własnej wynika niemal automatycznie z podziału świata na swoich i obcych oraz z tendencji do dowartościowania siebie.",
+      "sourceExcerpt": "s. 451: Teoria tożsamości społecznej zakłada, że takie przekonanie jest niemal automatyczną konsekwencją podziału świata społecznego na swoich i obcych w połączeniu z powszechną tendencją do dowartościowania siebie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Osoby dysponujące gęstą siecią kontaktów społecznych:"
+      ],
+      "correct": [
+        "lepiej znoszą stres i rzadziej zapadają na depresję"
+      ],
+      "distractors": [
+        "gorzej znoszą stres, bo mają więcej zobowiązań",
+        "częściej zapadają na depresję z powodu przeciążenia",
+        "mają słabiej funkcjonujący układ immunologiczny",
+        "żyją krócej z powodu konfliktów w grupie",
+        "nie różnią się zdrowiem od osób samotnych",
+        "są szczęśliwsze, ale częściej chorują"
+      ],
+      "explanation": "Grupy dają wsparcie społeczne (Kaniasty 2001): gęsta sieć kontaktów → lepsze znoszenie stresu, mniej depresji, więcej szczęścia, lepsza odporność, dłuższe życie.",
+      "sourceExcerpt": "s. 448: osoby dysponujące gęstą siecią kontaktów społecznych lepiej znoszą stresy, rzadziej zapadają na depresję i inne zaburzenia psychiczne, są szczęśliwi, mają lepiej funkcjonujący układ immunologiczny, a nawet żyją dłużej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Duża ruchliwość ludzi (przechodzenie z grupy do grupy) i ulotność tożsamości społecznych to cecha:"
+      ],
+      "correct": [
+        "świata współczesnego"
+      ],
+      "distractors": [
+        "świata przednowoczesnego",
+        "wyłącznie kultur kolektywistycznych",
+        "wyłącznie małych grup nieformalnych",
+        "grup o wysokiej bytowości",
+        "społeczeństw feudalnych",
+        "wyłącznie grup internetowych"
+      ],
+      "explanation": "Współcześnie – ruchliwość i ulotność tożsamości; w świecie przednowoczesnym większość życia spędzano w grupach wyznaczonych urodzeniem (poszerzona rodzina).",
+      "sourceExcerpt": "s. 449: Duża ruchliwość ludzi (przechodzenie z grupy do grupy) i ulotność tożsamości społecznych zdaje się być coraz wyraźniejszą własnością współczesnego świata, w odróżnieniu od świata przednowoczesnego",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Szef kuchni ma wyższy prestiż niż szeregowy kucharz, ale niższy niż dyrektor restauracji. Ta różnica dotyczy:"
+      ],
+      "correct": [
+        "statusu"
+      ],
+      "distractors": [
+        "roli",
+        "normy",
+        "bytowości",
+        "spójności",
+        "tożsamości",
+        "funkcji"
+      ],
+      "explanation": "Status – prestiż w grupie i poza nią; rola – oczekiwany wzorzec zachowań; pozycja – miejsce związane z funkcją wobec grupy.",
+      "sourceExcerpt": "s. 449: status, czyli prestiż, jakim obdarzane są w grupie i poza nią. Pozycja szefa kuchni ma wyższy prestiż niż szeregowego kucharza, ale niższy od dyrektora restauracji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Jan Kowalski wśród innych Polaków czuje się przede wszystkim sobą, a w kontaktach z Rosjanami – przede wszystkim Polakiem. Takie przewidywanie formułuje:"
+      ],
+      "correct": [
+        "teoria autokategoryzacji"
+      ],
+      "distractors": [
+        "stanowisko indywidualistyczne",
+        "stanowisko kolektywistyczne",
+        "model kolektywnego wysiłku",
+        "teoria dysonansu poznawczego",
+        "model popędu Zajonca",
+        "koncepcja argumentacji perswazyjnej"
+      ],
+      "explanation": "Indywidualistyczne: najważniejsza tożsamość indywidualna; kolektywistyczne: grupowa; autokategoryzacja: indywidualna wobec swoich, grupowa w kontaktach z obcymi.",
+      "sourceExcerpt": "s. 449: wedle trzeciego stanowiska sformułowanego przez teorię autokategoryzacji tożsamość indywidualna odgrywa kluczową rolę w stosunku do członków grupy własnej, natomiast w kontaktach z członkami grupy obcej zasadnicze znaczenie ma tożsamość grupowa",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Metaanaliza Gaertnera i zespołu (2002) wykazała, że reakcje obronne są silniejsze po ataku na:"
+      ],
+      "correct": [
+        "pozytywny wizerunek jednostki niż grupy własnej"
+      ],
+      "distractors": [
+        "pozytywny wizerunek grupy własnej niż jednostki",
+        "wizerunek grupy obcej niż własnej",
+        "wizerunek przywódcy niż szeregowego członka",
+        "tożsamość narodową niż organizacyjną",
+        "wizerunek grupy w kulturach indywidualistycznych niż kolektywistycznych",
+        "tożsamość grupową tylko u osób silnie utożsamionych"
+      ],
+      "explanation": "Tożsamość indywidualna wydaje się najważniejsza motywacyjnie: obrona i reakcje na podwyższenie wizerunku silniejsze dla ja indywidualnego (niezależnie od siły utożsamienia); ale tylko 18 badań z kultur indywidualistycznych.",
+      "sourceExcerpt": "s. 449: reakcje były istotnie silniejsze po ataku na pozytywny wizerunek jednostki, niż po ataku na pozytywny wizerunek grupy własnej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Ograniczeniem metaanalizy wskazującej na prymat tożsamości indywidualnej jest to, że:"
+      ],
+      "correct": [
+        "badania pochodziły tylko z kultur indywidualistycznych"
+      ],
+      "distractors": [
+        "badania pochodziły tylko z kultur kolektywistycznych",
+        "badano wyłącznie dzieci i młodzież",
+        "nie mierzono w ogóle reakcji obronnych",
+        "objęła ponad 240 badań różnej jakości",
+        "badano wyłącznie grupy internetowe",
+        "pominięto tożsamość indywidualną badanych"
+      ],
+      "explanation": "18 badań, 37 porównań – tylko kultury indywidualistyczne (amerykańska, angielska); w kolektywistycznych może być inaczej.",
+      "sourceExcerpt": "s. 450: metaanaliza ta opiera się na stosunkowo niewielkiej liczbie badań (18 badań, 37 porównań), z których wszystkie przeprowadzono w kulturach indywidualistycznych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W kwestionariuszu tożsamości grupowej (Roccas i in., 2008) twierdzenie „Rozmawiając o członkach tej grupy, mówię raczej MY niż ONI” mierzy:"
+      ],
+      "correct": [
+        "ważność"
+      ],
+      "distractors": [
+        "wyższość",
+        "oddanie",
+        "posłuszeństwo",
+        "bytowość",
+        "lojalność",
+        "esencjalizm"
+      ],
+      "explanation": "Ważność – definiowanie siebie przez przynależność („my” vs „oni”).",
+      "sourceExcerpt": "Tabela 18.1 (s. 450): Ważność – wskaźnik 15. Rozmawiając o członkach tej grupy, mówię raczej MY niż ONI",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W kwestionariuszu tożsamości grupowej (Roccas i in., 2008) twierdzenie „Krytykowanie mojej grupy to akt nielojalności” mierzy:"
+      ],
+      "correct": [
+        "podporządkowanie"
+      ],
+      "distractors": [
+        "ważność",
+        "zaangażowanie",
+        "poczucie wyższości",
+        "bytowość",
+        "esencjalizm",
+        "spójność"
+      ],
+      "explanation": "Podporządkowanie – szacunek i uległość wobec norm, symboli, przywódców; odrzucanie wszelkiej krytyki grupy.",
+      "sourceExcerpt": "Tabela 18.1 (s. 450): Podporządkowanie – wskaźnik 12. Krytykowanie mojej grupy to akt nielojalności",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zaangażowanie pracowników w firmę zatrudnienia silnie przewiduje:"
+      ],
+      "correct": [
+        "ich produktywność i brak intencji zmiany pracy"
+      ],
+      "distractors": [
+        "częstsze absencje i rotację",
+        "spadek zachowań obywatelskich w pracy",
+        "wzrost konfliktów z przełożonymi",
+        "niższą produktywność przy wyższej satysfakcji",
+        "wyłącznie wyższe zarobki",
+        "większą skłonność do próżniactwa"
+      ],
+      "explanation": "Meyer, Stanley, Herscovitch, Topolnytsky (2002): zaangażowanie → produktywność, zachowania obywatelskie, brak absencji i intencji zmiany pracy.",
+      "sourceExcerpt": "s. 450: zaangażowanie pracowników w firmę zatrudnienia silnie przewiduje ich produktywność, zachowania obywatelskie w miejscu pracy oraz brak absencji i intencji zmiany pracy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Kolektywizm pionowy (Triandis i Gelfand, 1998) w odróżnieniu od poziomego opiera się na:"
+      ],
+      "correct": [
+        "hierarchii i bezwzględnym podporządkowaniu przywódcom"
+      ],
+      "distractors": [
+        "silnym powiązaniu z innymi członkami i wspólnocie celów",
+        "równości i współzależności członków grupy",
+        "konkurencji jednostek o status",
+        "niezależności jednostki od grupy",
+        "dobrowolnej współpracy bez przywódców",
+        "wyłącznie więzach rodzinnych"
+      ],
+      "explanation": "Pionowy – hierarchia, podporządkowanie symbolom i przywódcom (ślepy patriotyzm, totalitaryzm); poziomy – powiązanie, współzależność, wspólnota celów.",
+      "sourceExcerpt": "s. 451: kolektywizmu pionowego, czyli takiej organizacji społeczności, która zasadza się na stosunkach hierarchicznych i bezwzględnym podporządkowaniu jednostek symbolom grupy i przywódcom (w odróżnieniu od kolektywizmu poziomego…)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Narcyzm kolektywny wiąże się z agresją wobec grup obcych, ponieważ:"
+      ],
+      "correct": [
+        "nasila spostrzeganie obcych jako zagrażających i obelżywych"
+      ],
+      "distractors": [
+        "obniża identyfikację z grupą własną",
+        "osłabia wrażliwość na krytykę grupy własnej",
+        "wynika wyłącznie ze ślepego patriotyzmu",
+        "zwiększa realistyczną ocenę grupy własnej",
+        "nasila potrzebę współpracy międzygrupowej",
+        "występuje tylko u osób o niskiej samoocenie jawnej"
+      ],
+      "explanation": "Golec de Zavala i in. (2009): narcyzm narodowy → agresja międzygrupowa (odwet za przewiny, które nie muszą istnieć), nadwrażliwość na krytykę; niezależnie od ślepego patriotyzmu, autorytaryzmu i SDO.",
+      "sourceExcerpt": "s. 451: narcyzm narodowy (kolektywny) wiąże się ze skłonnością do agresji w stosunkach międzygrupowych, ponieważ nasila skłonność do spostrzegania przedstawicieli grup obcych jako zagrażających i obelżywych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Narcyzm kolektywny jest najsilniejszy u osób, które:"
+      ],
+      "correct": [
+        "deklarują pozytywną samoocenę narodową, a utajoną mają niską"
+      ],
+      "distractors": [
+        "deklarują i utajenie mają wysoką samoocenę narodową",
+        "deklarują niską, a utajoną mają wysoką samoocenę narodową",
+        "deklarują i utajenie mają niską samoocenę narodową",
+        "nie identyfikują się z własnym narodem",
+        "wierzą, że inni podzielają ich pozytywną ocenę",
+        "mają realistyczną ocenę własnej grupy"
+      ],
+      "explanation": "Ryc. 18.1: najwyższy narcyzm (~5,5) – wysoka deklarowana + niska utajona (IAT) samoocena grupowa; ambiwalentny stosunek do własnej grupy.",
+      "sourceExcerpt": "Ilustracja (ryc. 18.1, s. 451): wysoka samoocena deklarowana – narcyzm ok. 5,5 przy niskiej utajonej, ok. 4,3 przy wysokiej; niska deklarowana – ok. 3,1–3,2",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Wspólnym elementem współczesnego nacjonalizmu i narcyzmu kolektywnego jest (Cichocka i Cisłak, 2020):"
+      ],
+      "correct": [
+        "waga uznania grupy własnej przez inne grupy"
+      ],
+      "distractors": [
+        "przekonanie o równej wartości grup",
+        "obojętność wobec opinii innych grup",
+        "niska jawna ocena własnej grupy",
+        "dążenie do współpracy z grupami obcymi",
+        "odrzucanie symboli i przywódców",
+        "brak poczucia wyższości grupy"
+      ],
+      "explanation": "Krańcowe poczucie wyższości – nacjonalizm i narcyzm kolektywny; kluczowe wspólne: waga uznania grupy przez innych.",
+      "sourceExcerpt": "s. 451: oba te pojęcia (współczesny nacjonalizm i kolektywny narcyzm) mają więcej znaczących elementów wspólnych, wśród których kluczowym jest przekonanie o istotnej wadze uznania grupy własnej przez inne grupy",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W porównaniu z mieszkańcami Pomorza paczka przyjaciół lub rodzina to grupa o:"
+      ],
+      "correct": [
+        "wyższej bytowości"
+      ],
+      "distractors": [
+        "niższej bytowości",
+        "niższej spójności",
+        "mniejszym esencjalizmie",
+        "słabszej wspólnocie losu",
+        "mniejszym podobieństwie członków",
+        "niższej ważności dla członków"
+      ],
+      "explanation": "Wysoka bytowość: trwałe, wyraźnie oddzielone, członkowie podobni, częste kontakty, wspólne cele i los (przyjaciele, rodzina); niska – mieszkańcy Pomorza.",
+      "sourceExcerpt": "s. 452: Przykładem grupy o wysokiej bytowości jest zżyta ze sobą paczka przyjaciół lub rodzina; przykładem grupy o niskiej bytowości – mieszkańcy Pomorza.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-17",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Ludzie, mówiąc np. o „genetycznym, polskim patriotyzmie”, przejawiają skłonność do:"
+      ],
+      "correct": [
+        "esencjalnego spostrzegania grup"
+      ],
+      "distractors": [
+        "depersonalizacji grupy obcej",
+        "polaryzacji grupowej",
+        "facylitacji społecznej",
+        "próżniactwa społecznego",
+        "konwersji pod wpływem mniejszości",
+        "kompensacji społecznej"
+      ],
+      "explanation": "Rothbart i Taylor (1992): grupy spostrzegane jak gatunki biologiczne – z niezbywalną naturą; choć kategorie społeczne to sztuczne wytwory (dziecko Francuzów wychowane w Polsce będzie Polakiem).",
+      "sourceExcerpt": "s. 452: Rothbart i Taylor (1992) zauważyli, że ludzie skłonni są do takiego esencjalnego spostrzegania grup społecznych (np. mówiąc o „genetycznym, polskim patriotyzmie”)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-18",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Podkreślanie wspólnej przyszłości i jasnych granic Unii Europejskiej (Castano, Yzerbyt, Bourguignon, 2003) spowodowało:"
+      ],
+      "correct": [
+        "wzrost identyfikacji belgijskich studentów z Unią"
+      ],
+      "distractors": [
+        "spadek identyfikacji studentów z Unią",
+        "wzrost niechęci wobec Unii u wszystkich badanych",
+        "brak jakichkolwiek zmian w identyfikacji",
+        "spadek spostrzeganej bytowości Unii",
+        "wzrost identyfikacji tylko u przeciwników Unii",
+        "wzrost identyfikacji wyłącznie z Belgią"
+      ],
+      "explanation": "Eksperymentalne nasilanie bytowości grupy → wzrost ważności i zaangażowania (wyjątek: osoby z negatywnym stosunkiem do Unii).",
+      "sourceExcerpt": "s. 452: Castano, Yzerbyt i Bourguignon (2003) podnosili na różne sposoby bytowość Unii Europejskiej … co powodowało wzrost identyfikacji belgijskich studentów z Unią",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-19",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Udział w krótkotrwałych grupach (koncert, spotkanie rowerowe, demonstracja) według badań Besty i zespołu (2018):"
+      ],
+      "correct": [
+        "podnosi poczucie skuteczności – tym bardziej, im silniejsza identyfikacja"
+      ],
+      "distractors": [
+        "obniża poczucie własnej skuteczności wszystkich uczestników",
+        "nie ma wpływu, bo grupy chwilowe nie mają bytowości",
+        "podnosi skuteczność tylko u osób słabo identyfikujących się",
+        "wywołuje głównie próżniactwo społeczne uczestników",
+        "zwiększa wyłącznie lęk uczestników przed oceną",
+        "obniża identyfikację uczestników z grupami stałymi"
+      ],
+      "explanation": "Nawet grupy chwilowe nagradzają: uczestnicy mieli wyższe poczucie własnej skuteczności, tym wyższe, im silniej identyfikowali się z grupą.",
+      "sourceExcerpt": "s. 452: osoby biorące udział w takich wydarzeniach miały między innymi lepsze poczucie własnej skuteczności, przy czym było ono tym wyższe, im bardziej identyfikowały się z grupą",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-20",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Kibice przestrzegają norm (chodzenie na mecze, dopingowanie „swoich”); gdyby przestali, grupa przestałaby istnieć. Ilustruje to funkcję norm polegającą na tym, że:"
+      ],
+      "correct": [
+        "decydują o trwaniu grupy"
+      ],
+      "distractors": [
+        "przyczyniają się do osiągania celów",
+        "tworzą rzeczywistość społeczną",
+        "określają relacje grupy z otoczeniem",
+        "obniżają spójność grupy",
+        "zastępują hierarchię statusu",
+        "eliminują potrzebę komunikacji"
+      ],
+      "explanation": "Funkcje norm: osiąganie celów („klient nasz pan”), trwanie grupy (zwł. nieformalnej – kibice), tworzenie rzeczywistości społecznej (22 mężczyzn za piłką), relacje z otoczeniem.",
+      "sourceExcerpt": "s. 452: Po drugie, decydują o trwaniu grupy. W szczególności w wypadku grup nieformalnych … Jeżeli grupa kibiców jakiejś drużyny piłkarskiej przestanie przestrzegać norm … to po prostu przestanie istnieć.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-21",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W badaniu Marquesa, Yzerbyta i Leyensa (1988) biali belgijscy studenci, którzy przedkładali naukę nad imprezowanie (wbrew normie swojej grupy), byli oceniani:"
+      ],
+      "correct": [
+        "gorzej niż studenci z Maghrebu zachowujący się tak samo"
+      ],
+      "distractors": [
+        "lepiej niż studenci z Maghrebu zachowujący się tak samo",
+        "tak samo jak studenci z Maghrebu",
+        "lepiej niż ich koledzy imprezujący",
+        "neutralnie, bo nauka jest pożądana",
+        "gorzej tylko przez studentów z Maghrebu",
+        "lepiej przez osoby o wysokim statusie"
+      ],
+      "explanation": "Zjawisko czarnej owcy: łamanie norm silniej potępiane, a ich przestrzeganie bardziej pochwalane u członków grupy własnej niż obcej.",
+      "sourceExcerpt": "s. 453: biali belgijscy studenci byli bardziej negatywnie oceniani od wywodzących się z Maghrebu czarnoskórych studentów, jeżeli przedkładali naukę nad imprezowanie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-22",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Najbardziej negatywnie oceniany jest członek grupy, który łamie jej normę i jest:"
+      ],
+      "correct": [
+        "pełnoprawnym członkiem grupy własnej"
+      ],
+      "distractors": [
+        "nowym członkiem grupy własnej",
+        "pełnoprawnym członkiem grupy obcej",
+        "nowym członkiem grupy obcej",
+        "przywódcą grupy obcej",
+        "osobą spoza obu grup",
+        "członkiem o najniższym statusie"
+      ],
+      "explanation": "Ryc. 18.2 (Pinto i in. 2010): pełnoprawny członek grupy własnej postępujący sprzecznie z normą – 2,83 (najgorzej), bo najbardziej zagraża tożsamości grupy; prawdziwa czarna owca – odszczepieniec, dotąd najbardziej typowy.",
+      "sourceExcerpt": "Ilustracja (ryc. 18.2, s. 453): pełnoprawny członek grupy własnej – zgodnie 6,14, sprzecznie 2,83; nowy członek własnej 5,56/3,44; obcej 5,66/3,85 i 5,32/3,48",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-23",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Status wewnątrzgrupowy zależy przede wszystkim od tego, w jakim stopniu dana osoba:"
+      ],
+      "correct": [
+        "jest zbliżona do prototypu członka grupy"
+      ],
+      "distractors": [
+        "różni się od pozostałych członków",
+        "jest lubiana przez członków grupy obcej",
+        "długo należy do grupy",
+        "łamie normy grupy",
+        "ma wysokie dochody poza grupą",
+        "unika bezpośredniej rywalizacji"
+      ],
+      "explanation": "Status: przesłanki formalne (pozycja) i nieformalne (zasługi), przede wszystkim zbliżenie do prototypu – idealnego reprezentanta grupy (Hogg 2001).",
+      "sourceExcerpt": "s. 453: a przede wszystkim stopień, w jakim dana osoba jest zbliżona do prototypu, czyli idealnego reprezentanta grupy, który najlepiej ją uosabia (Hogg, 2001)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-24",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Po przegranej rywalizacji u przegrywających obserwuje się wzrost wydzielania:"
+      ],
+      "correct": [
+        "kortyzolu"
+      ],
+      "distractors": [
+        "testosteronu",
+        "dopaminy",
+        "oksytocyny",
+        "melatoniny",
+        "serotoniny",
+        "adrenaliny i testosteronu"
+      ],
+      "explanation": "Wygrana → testosteron (nawet w szachach, u kibiców wygrywającej drużyny); przegrana → kortyzol (wyższy też u osób z niższych klas i podporządkowanych).",
+      "sourceExcerpt": "s. 453: u osób przegrywających rywalizację następuje wzrost wydzielania kortyzolu (hormonu stresu), którego poziom jest także wyższy u dzieci i dorosłych z niższych klas społecznych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-25",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Wzrost testosteronu po wygranej rywalizacji obserwuje się:"
+      ],
+      "correct": [
+        "nawet u kibiców wygrywającej drużyny"
+      ],
+      "distractors": [
+        "wyłącznie przy walce fizycznej",
+        "tylko u kobiet",
+        "tylko u przegranych",
+        "wyłącznie u dzieci",
+        "tylko w grupach o niskiej bytowości",
+        "nigdy w grach umysłowych"
+      ],
+      "explanation": "Wygrana podnosi testosteron, nawet jeśli nie dotyczy walki fizycznej (szachy); podobne efekty u kibiców wygrywającej drużyny.",
+      "sourceExcerpt": "s. 453: wygrana rywalizacja powoduje wzrost testosteronu, nawet jeżeli nie dotyczy walki fizycznej, lecz gry w szachy, a podobne efekty – co więcej – pojawiają się u kibiców wygrywającej drużyny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-26",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Dziewczynki w szkole osiągają wyższy status głównie przez:"
+      ],
+      "correct": [
+        "popularność i przyjaźnie z wieloma dziewczynkami"
+      ],
+      "distractors": [
+        "bezpośrednią konfrontację z rywalkami",
+        "walkę fizyczną z innymi dziećmi",
+        "otwartą konfrontację z chłopcami",
+        "podporządkowanie się nauczycielom",
+        "unikanie wszelkich kontaktów z rówieśnikami",
+        "rywalizację sportową z innymi"
+      ],
+      "explanation": "Crick (1996): chłopcy – bezpośrednia konfrontacja; dziewczynki – popularność i przyjaźnie; z rywalkami – ignorowanie, izolacja, plotki, rujnowanie reputacji.",
+      "sourceExcerpt": "s. 454: dziewczynki osiągają wyższy status przez wzrost popularności i zawieranie przyjaźni z dużą liczbą innych dziewczynek. Unikają bezpośredniej konfrontacji z rywalkami",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-27",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W nowo powstającej grupie pierwszym stałym zróżnicowaniem jest:"
+      ],
+      "correct": [
+        "porządek ważności (dominacji) członków"
+      ],
+      "distractors": [
+        "podział na role zadaniowe",
+        "pojawienie się norm grupowych",
+        "wybór formalnego przywódcy",
+        "podział na podgrupy przyjaciół",
+        "ustalenie wspólnego celu",
+        "wykształcenie tożsamości grupowej"
+      ],
+      "explanation": "Hierarchie formują się bardzo wcześnie – rozwojowo już u 2–3-latków, a w nowej grupie porządek dominacji jest pierwszym stałym zróżnicowaniem.",
+      "sourceExcerpt": "s. 454: porządek ważności (dominacji) poszczególnych członków to pierwsze stałe zróżnicowanie, pojawiające się w nowo powstającej grupie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-28",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Ludzie przeceniają to, jak bardzo są lubiani, ale swój status w grupie spostrzegają:"
+      ],
+      "correct": [
+        "trafnie, bo inni karzą jego przecenianie"
+      ],
+      "distractors": [
+        "z dużym przecenieniem",
+        "z dużym niedocenieniem",
+        "zupełnie przypadkowo",
+        "trafnie tylko w grupach internetowych",
+        "trafnie tylko w kulturach kolektywistycznych",
+        "trafnie tylko w dzieciństwie"
+      ],
+      "explanation": "Anderson, Ames, Gosling (2008): status spostrzegany trafnie; przecenianie statusu jest karane przez innych jako szkodliwe dla celów grupy.",
+      "sourceExcerpt": "s. 454: status jest spostrzegany w sposób trafny. Na ogół nie przeceniamy swojego statusu wewnątrzgrupowego, ponieważ inni członkowie grupy karzą takie zachowania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-29",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W badaniu Manera i współpracowników (2008) najdłużej patrzono na zdjęcia:"
+      ],
+      "correct": [
+        "mężczyzn o wysokim statusie i atrakcyjnych kobiet"
+      ],
+      "distractors": [
+        "kobiet o wysokim statusie i atrakcyjnych mężczyzn",
+        "wyłącznie osób tej samej płci co badany",
+        "osób o niskim statusie obu płci",
+        "wyłącznie atrakcyjnych mężczyzn",
+        "dominujących kobiet i nieatrakcyjnych mężczyzn",
+        "wszystkich osób jednakowo długo"
+      ],
+      "explanation": "Ryc. 18.3: dominujący mężczyźni 58, atrakcyjne kobiety 60, atrakcyjni mężczyźni 50, dominujące kobiety 41 (punkt obojętności 50%); niezależnie od płci badanego; automatyczne (pierwsze 4 s).",
+      "sourceExcerpt": "Ilustracja (ryc. 18.3, s. 454): czas patrzenia – dominujący mężczyźni 58, dominujące kobiety 41, atrakcyjni mężczyźni 50, atrakcyjne kobiety 60",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-30",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Gdy grupa podejmuje decyzje, osoby o wyższym statusie:"
+      ],
+      "correct": [
+        "zabierają głos pierwsze, mówią częściej i dłużej"
+      ],
+      "distractors": [
+        "zabierają głos ostatnie i mówią najkrócej",
+        "mają gorszy dostęp do potrzebnych informacji",
+        "częściej podporządkowują się sugestiom innych",
+        "mają mniejszy wpływ na ostateczną decyzję",
+        "mówią rzadziej, ale znacznie dłużej",
+        "unikają wypowiadania się w dyskusji"
+      ],
+      "explanation": "Wysoki status: lepszy dostęp do informacji, większy wpływ, pierwsze zabieranie głosu, częściej i dłużej; inni chętniej się podporządkowują.",
+      "sourceExcerpt": "s. 454: osoby o wyższym statusie mają lepszy dostęp do informacji i większy wpływ na przebieg i wynik procesu decyzyjnego. Zabierają głos jako pierwsi, mówią częściej i dłużej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-31",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Wzrost statusu jednostki zwiększa jej skłonność do:"
+      ],
+      "correct": [
+        "karania łamiących normy, zwłaszcza o niższym statusie"
+      ],
+      "distractors": [
+        "ściślejszego przestrzegania norm we własnym zachowaniu",
+        "pobłażania osobom o niższym statusie",
+        "unikania monitorowania zachowań innych",
+        "karania wyłącznie osób o wyższym statusie",
+        "rezygnacji z udziału w decyzjach grupy",
+        "zapominania twarzy oszustów o niskim statusie"
+      ],
+      "explanation": "Wyższy status → monitorowanie i karanie łamiących (głównie o niższym statusie), ale słabsze przestrzeganie norm we własnym zachowaniu (zwł. przy władzy).",
+      "sourceExcerpt": "s. 455: Wzrost statusu jednostki pociąga za sobą wzrost jej skłonności do monitorowania zgodności zachowania pozostałych członków grupy z obowiązującymi ich normami oraz wzrost skłonności do karania tych, którzy je łamią. … kierowane głównie na osoby o statusie niższym niż własny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-32",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według reguł komunikowania wysokiego statusu (Fiske, 2010) uprzejmość i dobre maniery mówcy:"
+      ],
+      "correct": [
+        "zwiększają sympatię, ale mogą obniżać respekt"
+      ],
+      "distractors": [
+        "zwiększają i sympatię, i respekt",
+        "obniżają i sympatię, i respekt",
+        "obniżają sympatię, ale zwiększają respekt",
+        "nie mają wpływu na odbiór mówcy",
+        "są najważniejszą oznaką dominacji",
+        "świadczą o pochodzeniu z niższych klas"
+      ],
+      "explanation": "Reguła 8 – nie przejmuj się dobrymi manierami: uprzejmość → sympatia, ale mniejszy respekt; brak uprzejmości – zauważalna oznaka dominacji.",
+      "sourceExcerpt": "Tabela 18.2 (s. 455): 8. Nie przejmuj się dobrymi manierami – Uprzejmość i dobre maniery wywołują wzrost sympatyczności mówcy, ale mogą obniżać respekt, jakim obdarzają go inni.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-33",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według reguł komunikowania wysokiego statusu (Fiske, 2010) zbyt szybkie mówienie odbierane jest jako wyraz:"
+      ],
+      "correct": [
+        "niepewności i lęku"
+      ],
+      "distractors": [
+        "pewności siebie i kompetencji",
+        "wiarygodności i władzy",
+        "wysokiego statusu",
+        "dobrych manier",
+        "bezpośredniości",
+        "solidarności z rozmówcą"
+      ],
+      "explanation": "Reguła 3 – mów szybko, ale nie za szybko: szybko = pewność siebie i wiarygodność; zbyt szybko = niepewność i lęk.",
+      "sourceExcerpt": "Tabela 18.2 (s. 455): 3. Mów szybko, ale nie za szybko – Szybkie mówienie odbierane jest jako wyraz pewności siebie i wiarygodności; zbyt szybkie – jako wyraz niepewności i lęku",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-34",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Ludzie wierzą, że wysoki status wiąże się z liczbą uśmiechów i częstością dotykania innych, ale badania (Hall, Coats i LeBeau, 2005):"
+      ],
+      "correct": [
+        "nie potwierdziły takiego związku"
+      ],
+      "distractors": [
+        "potwierdziły, że osoby o wysokim statusie częściej się uśmiechają",
+        "potwierdziły, że osoby o wysokim statusie częściej dotykają innych",
+        "wykazały, że to najsilniejsze wskaźniki statusu",
+        "wykazały odwrotny związek u kobiet",
+        "potwierdziły go tylko w grupach mężczyzn",
+        "nie badały wskaźników niewerbalnych"
+      ],
+      "explanation": "Potwierdzone: silniejsza ekspresja emocji mimiką, zrelaksowana pozycja, przerywanie, mówienie głośniej, mniejszy dystans. Niepotwierdzone: uśmiechy, dotykanie, gestykulacja, zmiany pozycji.",
+      "sourceExcerpt": "s. 455: nie stwierdzono, by status był skorelowany z liczbą uśmiechów, częstością dotykania innych osób i siebie, intensywnością gestykulacji czy częstością zmiany pozycji ciała, choć ludzie powszechnie w to wierzą",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-35",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Spójność grupy (Festinger, 1950) to:"
+      ],
+      "correct": [
+        "suma sił skłaniających jednostkę do pozostania w grupie"
+      ],
+      "distractors": [
+        "stopień podobieństwa poglądów członków grupy",
+        "spostrzegany stopień realnego istnienia grupy",
+        "przekonanie o niezmienności przynależności",
+        "liczba norm obowiązujących w grupie",
+        "prestiż jednostki w grupie i poza nią",
+        "zgodność celów grupy z celami jednostki"
+      ],
+      "explanation": "Spójność – suma sił skłaniających do pozostania; 3 źródła: atrakcyjność członków, zadania (zaangażowanie), całej grupy (duma grupowa).",
+      "sourceExcerpt": "s. 456: Cechą dobrego zespołu jest spójność rozumiana jako suma sił skłaniających jednostkę do pozostania w grupie (Festinger, 1950)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-36",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Rytuały przejścia (np. obrzędy inicjacyjne wymagające wysiłku lub upokorzenia) zwiększają spójność grupy, ponieważ:"
+      ],
+      "correct": [
+        "ludzie, uzasadniając wysiłek, podnoszą wartość grupy"
+      ],
+      "distractors": [
+        "pozwalają zidentyfikować wkład każdego członka",
+        "obniżają lęk przed oceną nowych członków",
+        "zmniejszają liczbę członków grupy",
+        "zwiększają różnorodność składu grupy",
+        "uczą nowych członków norm grup obcych",
+        "zastępują hierarchię statusu"
+      ],
+      "explanation": "Grupa tym spójniejsza, im trudniej do niej wejść: uzasadniając poniesiony wysiłek, ludzie podnoszą wartość grupy i dumę z przynależności (np. „fala” w wojsku).",
+      "sourceExcerpt": "s. 456: Uzasadniając poniesiony wysiłek, ludzie podnoszą we własnych oczach wartość grupy i dumę z przynależności do niej.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-37",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Spójność grupy jest tym większa, im:"
+      ],
+      "correct": [
+        "większe jest zewnętrzne zagrożenie grupy"
+      ],
+      "distractors": [
+        "więcej liczy członków",
+        "łatwiej ją opuścić",
+        "mniejsze są jej dotychczasowe sukcesy",
+        "łatwiej do niej wejść",
+        "bardziej zróżnicowane są poglądy",
+        "słabsza jest identyfikacja z grupą"
+      ],
+      "explanation": "Spójność rośnie, im mniej członków, trudniej opuścić, większe sukcesy i większe zewnętrzne zagrożenie (politycy oferujący „wroga”).",
+      "sourceExcerpt": "s. 456: spójność grupy jest tym większa, im mniej liczy członków, im trudniej ją opuścić, im większe są jej dotychczasowe sukcesy oraz im większe jest zewnętrzne zagrożenie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-38",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Związek spójności grupy z jej skutecznością jest najsilniejszy w:"
+      ],
+      "correct": [
+        "zespołach sportowych"
+      ],
+      "distractors": [
+        "grupach tworzonych na potrzeby eksperymentu",
+        "dużych grupach o niskiej bytowości",
+        "grupach nieznajomych",
+        "tłumie",
+        "grupach internetowych",
+        "grupach o dużej liczebności"
+      ],
+      "explanation": "Mullen i Copper (1994): średnio r = 0,25; w grupach eksperymentalnych nieznajomych r = 0,16, w zespołach sportowych r = 0,54.",
+      "sourceExcerpt": "s. 456: w grupach tworzonych z nieznających się uprzednio osób związek spójności ze skutecznością jest bardzo słaby (r = 0,16) … a największą wartość osiąga w zespołach sportowych (r = 0,54)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-39",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Z trzech składników spójności o związku spójności ze skutecznością grupy najbardziej decyduje:"
+      ],
+      "correct": [
+        "zaangażowanie w zadanie"
+      ],
+      "distractors": [
+        "wzajemna atrakcyjność członków",
+        "duma grupowa",
+        "liczebność grupy",
+        "lęk przed oceną",
+        "status przywódcy",
+        "podobieństwo poglądów"
+      ],
+      "explanation": "Mullen i Copper: najważniejsze zaangażowanie w wykonywane zadanie (bardziej niż wzajemne lubienie czy duma); wpływ dwustronny.",
+      "sourceExcerpt": "s. 456: Bezapelacyjnie najważniejszym aspektem spójności okazało się tu zaangażowanie członków grupy w wykonywane zadanie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-40",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W kulturach przedprzemysłowych (Cohen, Montoya i Insko, 2006) im większa lojalność wewnątrzgrupowa plemienia, tym:"
+      ],
+      "correct": [
+        "słabsza agresja wewnątrz grupy i silniejsza wobec obcych"
+      ],
+      "distractors": [
+        "silniejsza agresja wewnątrz grupy i słabsza wobec obcych",
+        "słabsza agresja wewnątrz grupy i wobec obcych",
+        "silniejsza agresja wewnątrz grupy i wobec obcych",
+        "częściej potępia się wojny zewnętrzne",
+        "mniejsza spójność plemienia",
+        "rzadziej występuje plemienność moralności"
+      ],
+      "explanation": "Tab. 18.3: przy wysokiej i bardzo wysokiej lojalności wojny najczęściej pochwalane (25 i 23 społeczeństwa); ciemna strona spójności – plemienność.",
+      "sourceExcerpt": "s. 457: im większy stopień lojalności wewnętrznej plemienia (czyli spójność), tym słabsza agresja wewnątrzgrupowa oraz tym silniejsza agresja międzygrupowa (Cohen, Montoya i Insko, 2006)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-41",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Społeczne podzielanie rzeczywistości motywowane jest przede wszystkim potrzebą:"
+      ],
+      "correct": [
+        "afiliacji i poznania"
+      ],
+      "distractors": [
+        "władzy i dominacji",
+        "osiągnięć i rywalizacji",
+        "autonomii i niezależności",
+        "bezpieczeństwa fizycznego",
+        "unikania kar",
+        "zysku materialnego"
+      ],
+      "explanation": "Hardin i Higgins (1996): utrzymywanie porozumienia ze swoimi zaspokaja potrzebę afiliacji i poznania (świat zrozumiały, stały, przewidywalny, kontrolowalny).",
+      "sourceExcerpt": "s. 457: Są motywowani do utrzymywania porozumienia z członkami własnej grupy i podzielania z nimi poglądów, ponieważ pozwala to zaspokoić potrzebę afiliacji … równocześnie zaspokoić potrzebę poznania",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-42",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zjawisko „powiedzieć znaczy uwierzyć” polega na tym, że:"
+      ],
+      "correct": [
+        "dopasowany do słuchacza opis zniekształca pamięć faktów"
+      ],
+      "distractors": [
+        "powtarzanie informacji zawsze poprawia jej pamięć",
+        "ludzie mówią wyłącznie to, w co już wierzą",
+        "słuchacze przejmują poglądy mówiącego",
+        "publiczne zobowiązanie zwiększa konsekwencję",
+        "mniejszość przekonuje większość do swoich racji",
+        "opowiadanie zdarzeń zawsze poprawia ich pamięć"
+      ],
+      "explanation": "Higgins i Rholes (1978): opis Donalda dostosowany do lubiącego/nielubiącego go słuchacza; później pamięć o Donaldzie zgodna z komunikatem.",
+      "sourceExcerpt": "Ramka Jak to się robi 18 (s. 458): ludzie dostosowują wygłaszane komunikaty do tego, co myśli audytorium, takie dostosowanie zniekształca zaś pamięć pierwotnych informacji",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-43",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Niemieccy studenci opisywali Donalda słuchaczowi-Niemcowi albo słuchaczowi-Turkowi (Echterhoff i in., 2008). Zniekształcenie pamięci zgodne z komunikatem wystąpiło:"
+      ],
+      "correct": [
+        "tylko przy słuchaczu z grupy własnej (Niemcu)"
+      ],
+      "distractors": [
+        "tylko przy słuchaczu z grupy obcej (Turku)",
+        "przy obu słuchaczach w równym stopniu",
+        "przy żadnym ze słuchaczy",
+        "tylko wtedy, gdy komunikat był negatywny",
+        "tylko przy słuchaczu, który nie rozpoznał Donalda",
+        "tylko gdy badanym płacono"
+      ],
+      "explanation": "Ryc. 18.4: komunikaty dostosowywano do obu, ale pamięć zniekształcała się tylko przy Niemcu – brak motywacji do podzielania rzeczywistości z obcym.",
+      "sourceExcerpt": "Ilustracja (ryc. 18.4, s. 458): pamięć – Niemiec: poz. 1,57, neg. 0,1; Turek: poz. 0,44, neg. 0,64; następcze zniekształcenie pamięci występowało jedynie w komunikacie adresowanym do innego Niemca",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-44",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Badani upodabniali poziom swoich automatycznych uprzedzeń rasowych do eksperymentatorki w antyrasistowskiej koszulce (Sinclair i in., 2005), gdy była ona:"
+      ],
+      "correct": [
+        "uprzejma i lubiana"
+      ],
+      "distractors": [
+        "nieuprzejma i nielubiana",
+        "obca rasowo",
+        "osobą o niskim statusie",
+        "nieobecna podczas pomiaru",
+        "ubrana w koszulkę bez hasła",
+        "anonimowa"
+      ],
+      "explanation": "Podzielanie rzeczywistości z lubianymi: upodobnienie uprzedzeń do lubianej eksperymentatorki, nie do nielubianej; całkowicie automatyczne (twarze 17 ms).",
+      "sourceExcerpt": "s. 458: ludzie upodabniali poziom swoich uprzedzeń do eksperymentatora lubianego, a to z kolei nie miało miejsca w wypadku eksperymentatora nielubianego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-45",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Grupocentryzm (Kruglanski i in., 2006) to:"
+      ],
+      "correct": [
+        "syndrom grupy jako źródła pewnej wiedzy o świecie"
+      ],
+      "distractors": [
+        "przekonanie, że własna grupa jest moralnie lepsza",
+        "tendencja do dzielenia się informacjami niepodzielanymi",
+        "spadek wysiłku przy działaniu razem z innymi",
+        "uskrajnianie decyzji grupy po dyskusji",
+        "postrzeganie grupy jako koherentnej całości",
+        "uleganie mniejszości w sprawach istotnych"
+      ],
+      "explanation": "Grupocentryzm – 8 symptomów funkcjonowania grupy jako dostarczyciela jasnej i pewnej wiedzy; wynika z wysokiej potrzeby domknięcia poznawczego lub presji (czas, zagrożenie, hałas).",
+      "sourceExcerpt": "s. 459: grupocentryzm – zestaw ośmiu symptomów poznawczego i społecznego funkcjonowania grupy, pojawiający się w sytuacji, kiedy grupa staje się dla swoich członków dostarczycielem jasnej i pewnej wiedzy na temat rzeczywistości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-46",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Wzrost potrzeby domknięcia poznawczego w grupie nasila:"
+      ],
+      "correct": [
+        "odrzucanie dysydentów i akceptację konformistów"
+      ],
+      "distractors": [
+        "tolerancję różnorodności składu grupy",
+        "demokratyczne podejmowanie decyzji",
+        "otwartość na zmiany i nowe normy",
+        "pozytywne oceny grup obcych",
+        "dzielenie się informacjami niepodzielanymi",
+        "krytykowanie liderów grupy"
+      ],
+      "explanation": "Tab. 18.4: wzrost PDP – nacisk na jednolitość, autokratyczne przywództwo, nietolerancja różnorodności, odrzucanie dysydentów, faworyzacja swoich, konserwatyzm.",
+      "sourceExcerpt": "Tabela 18.4 (s. 457): Odrzucanie dysydentów i wzrost akceptacji konformistów – Wzrost PDP nasila odrzucanie osób o odmiennych niż grupa poglądach…",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-47",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Tendencyjna komunikacja informacji podzielanych polega na tym, że członkowie grupy:"
+      ],
+      "correct": [
+        "częściej poruszają informacje znane wszystkim niż znane tylko sobie"
+      ],
+      "distractors": [
+        "częściej poruszają informacje znane tylko sobie niż znane wszystkim",
+        "ukrywają wszystkie posiadane informacje",
+        "poruszają wyłącznie informacje negatywne",
+        "dzielą się informacjami tylko z przywódcą",
+        "ignorują informacje podane przez większość",
+        "poruszają informacje proporcjonalnie do ich ważności"
+      ],
+      "explanation": "Stasser (1992): przeciętny członek częściej porusza informacje podzielane niż niepodzielane; tendencja bardzo silna (r = 0,65).",
+      "sourceExcerpt": "s. 459: tendencyjną komunikację informacji podzielanych polegającą na tym, że przeciętny członek grupy częściej porusza w dyskusji i przekazuje innym te komunikaty, które już znają (a więc informacje podzielane), niż te, które on tylko posiada",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-48",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W badaniu Stassera i in. (1989) instrukcja nakazująca strukturowanie dyskusji (by nie pominąć istotnych informacji):"
+      ],
+      "correct": [
+        "jeszcze zwiększyła przewagę informacji podzielanych"
+      ],
+      "distractors": [
+        "zlikwidowała przewagę informacji podzielanych",
+        "odwróciła przewagę na korzyść niepodzielanych",
+        "nie miała żadnego wpływu",
+        "zmniejszyła liczbę poruszanych informacji",
+        "działała tylko w grupach trzyosobowych",
+        "zwiększyła tylko udział informacji niepodzielanych"
+      ],
+      "explanation": "Ryc. 18.5: podzielane poruszane częściej; przewaga większa w grupach 6-os. (0,45 vs 0,3) i największa przy strukturowaniu (0,65 vs 0,23).",
+      "sourceExcerpt": "Ilustracja (ryc. 18.5, s. 459): ustrukturowana, 6 osób – podzielana 0,65, niepodzielana 0,23; nieustrukturowana, 6 osób – 0,45 vs 0,3",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-49",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Kluczową przyczyną częstszego poruszania informacji podzielanych jest chęć:"
+      ],
+      "correct": [
+        "pokazania się jako osoba kompetentna"
+      ],
+      "distractors": [
+        "ukrycia własnej niewiedzy przed przywódcą",
+        "przyspieszenia podjęcia decyzji",
+        "zaszkodzenia rywalom w grupie",
+        "uniknięcia odpowiedzialności za decyzję",
+        "zwiększenia różnorodności opinii",
+        "ochrony informacji poufnych"
+      ],
+      "explanation": "Wittenbaum i in. (1999): podzielane informacje oceniane jako ważniejsze i trafniejsze; poruszający je uchodzą za kompetentnych – sposób podwyższania statusu.",
+      "sourceExcerpt": "s. 460: Kluczową rolę odgrywa tu zupełnie inny czynnik, jakim jest budowanie własnego statusu – chęć pokazania się jako osoba kompetentna zarówno sobie, jak i innym członkom grupy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-50",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Członkowie grupy chętniej dzielą się informacjami niepodzielanymi, gdy:"
+      ],
+      "correct": [
+        "dobrze się znają przed zadaniem"
+      ],
+      "distractors": [
+        "widzą się po raz pierwszy",
+        "grupa jest bardzo liczna",
+        "dyskusja jest ściśle ustrukturowana",
+        "rywalizują o status w grupie",
+        "są pod silną presją czasu",
+        "mają wysoką potrzebę domknięcia"
+      ],
+      "explanation": "Gruenfeld i in. (1996): znajomi nie muszą potwierdzać kompetencji, więc chętniej dzielą się niepowtarzalnymi informacjami.",
+      "sourceExcerpt": "s. 460: partnerzy dobrze się znający jeszcze przed przystąpieniem do zadania chętniej dzielą się niepowtarzalnymi informacjami z resztą grupy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-51",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Z cech skutecznej mniejszości proponowanych przez Moscoviciego (konsekwentne odstępstwo) najsolidniejsze poparcie empiryczne zyskała:"
+      ],
+      "correct": [
+        "konsekwencja poglądów mniejszości"
+      ],
+      "distractors": [
+        "otwartość na argumenty większości",
+        "publiczna obrona stanowiska",
+        "wysoki status członków mniejszości",
+        "duża liczebność mniejszości",
+        "uprzejmość wobec większości",
+        "ukrywanie poglądów do czasu zaufania"
+      ],
+      "explanation": "Konsekwentne odstępstwo: zaangażowanie, konsekwencja, otwartość, publiczna obrona; najlepiej potwierdzona rola konsekwencji (ale uporczywość może być widziana jako tępy upór).",
+      "sourceExcerpt": "s. 460: Spośród tych proponowanych cech skutecznej mniejszości tylko rola konsekwencji zyskała sobie solidniejsze poparcie w dotychczasowych badaniach empirycznych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-52",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Dwufazowa strategia mniejszości (Hollander, 1964) polega na tym, że odstępcy:"
+      ],
+      "correct": [
+        "najpierw ulegają większości, by zdobyć zaufanie, a potem ujawniają poglądy"
+      ],
+      "distractors": [
+        "od początku konsekwentnie i publicznie głoszą swoje poglądy",
+        "najpierw ujawniają poglądy, a potem ulegają większości",
+        "przekonują większość wyłącznie liczbą argumentów",
+        "odwołują się tylko do rosnącej liczebności mniejszości",
+        "w ogóle nie ujawniają swoich poglądów",
+        "opuszczają grupę i tworzą nową"
+      ],
+      "explanation": "Hollander: faza 1 – zachowują poglądy dla siebie, ulegają większości (kredyt zaufania); faza 2 – ujawniają poglądy sprzeczne z większością.",
+      "sourceExcerpt": "s. 460: W fazie pierwszej odstępcy zachowują swoje poglądy dla siebie, a na zewnątrz ulegają większości, aby uzyskać jej zaufanie i akceptację. Dopiero później … ujawniają swoje poglądy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-53",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Informacja, że dwa lata temu datek na organizację ekologiczną przekazywało 17% ankietowanych, a teraz 48% (Mortensen i in., 2019), zwiększała skłonność do pomocy bardziej niż sama informacja o 48%, bo mniejszość:"
+      ],
+      "correct": [
+        "pokazuje, że jej liczebność rośnie"
+      ],
+      "distractors": [
+        "jest bardziej wiarygodna od większości",
+        "ma wyższy status społeczny",
+        "wywołuje silniejsze uleganie publiczne",
+        "stosuje strategię dwufazową",
+        "jest mniej wyrazista od większości",
+        "przedstawia więcej argumentów"
+      ],
+      "explanation": "Mniejszość może wpływać, pokazując, że to prawda istotnie jest mniejszością, ale jej liczebność dynamicznie rośnie.",
+      "sourceExcerpt": "s. 461: Mniejszość może także wywierać wpływ na większość, odwołując się do dynamiki zmian – pokazując, że co prawda istotnie jest mniejszością, ale jednocześnie jej liczebność dynamicznie rośnie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-54",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według Moscoviciego (1980) wpływ większości wywołuje głównie uleganie, a wpływ mniejszości:"
+      ],
+      "correct": [
+        "konwersję – rzeczywistą, często ukrytą zmianę poglądów"
+      ],
+      "distractors": [
+        "uleganie – publiczne powtarzanie opinii bez akceptacji",
+        "reaktancję – zmianę poglądów na przeciwne",
+        "polaryzację – uskrajnienie poglądów większości",
+        "próżniactwo – spadek wysiłku poznawczego",
+        "depersonalizację – myślenie o sobie jako o egzemplarzu kategorii",
+        "konformizm zewnętrzny bez zmiany przekonań"
+      ],
+      "explanation": "Uleganie – konformizm zewnętrzny (publicznie powtarzam, prywatnie nie akceptuję); konwersja (nawrócenie) – rzeczywista zmiana, niekoniecznie ujawniana publicznie.",
+      "sourceExcerpt": "s. 461: wpływy większości wywołują uleganie – konformizm zewnętrzny … natomiast wpływy mniejszości powodują konwersję (nawrócenie) – rzeczywistą zmianę poglądów, niekoniecznie jednak ujawnianą w opiniach publicznie głoszonych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-55",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Metaanaliza Wood i in. (1994) wykazała, że w miarach prywatnych pośrednich wpływ mniejszości jest:"
+      ],
+      "correct": [
+        "ponad dwukrotnie silniejszy od wpływu większości"
+      ],
+      "distractors": [
+        "ponad dwukrotnie słabszy od wpływu większości",
+        "praktycznie równy zeru w każdej mierze",
+        "dokładnie taki sam jak wpływ większości",
+        "silniejszy tylko w miarach publicznych",
+        "nieistotny statystycznie we wszystkich miarach",
+        "silniejszy wyłącznie w grupach kobiet"
+      ],
+      "explanation": "Ryc. 18.6: w miarach prywatnych pośrednich mniejszość silniejsza od większości; w bezpośrednich prywatnych i publicznych słabsza, ale > 0.",
+      "sourceExcerpt": "s. 461: w wypadku miar prywatnych i pośrednich wpływy mniejszości są wręcz ponaddwukrotnie silniejsze od wpływów większości",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-56",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według Moscoviciego oddziaływanie mniejszości wywołuje proces walidacji, czyli:"
+      ],
+      "correct": [
+        "skupienie się na spornej kwestii i szukanie prawdy"
+      ],
+      "distractors": [
+        "porównywanie się z osobami stanowiącymi większość",
+        "automatyczne przyjęcie opinii mniejszości",
+        "ukrywanie własnych poglądów przed grupą",
+        "odrzucenie mniejszości jako mało wiarygodnej",
+        "przekonywanie odstępców przez większość",
+        "uskrajnianie poglądów grupy po dyskusji"
+      ],
+      "explanation": "Większość → proces porównywania (uwaga na osobach); mniejszość → walidacji (uwaga na spornej kwestii); stąd wpływ mniejszości promieniuje na powiązane treści.",
+      "sourceExcerpt": "s. 461: wpływ mniejszości wywołuje proces walidacji (sprawdzania trafności) opinii, czyli poszukiwania gdzie leży prawda, dzięki czemu uwaga i aktywność umysłowa ludzi koncentrują się na spornej kwestii",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-57",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Badania Charlan Nemeth (1986) pokazały, że pod wpływem mniejszości ludzie:"
+      ],
+      "correct": [
+        "myślą bardziej twórczo – nawet gdy mniejszość nie ma racji"
+      ],
+      "distractors": [
+        "myślą bardziej heurystycznie i automatycznie",
+        "znajdują mniej poprawnych rozwiązań",
+        "myślą twórczo tylko, gdy mniejszość ma rację",
+        "szybciej ulegają opinii większości",
+        "przestają myśleć o przedmiocie sporu",
+        "przetwarzają informacje mniej starannie"
+      ],
+      "explanation": "Niezgoda z mniejszością → bardziej kontrolowane przetwarzanie, twórczość, więcej poprawnych rozwiązań (nawet gdy mniejszość się myli); z większością – heurystyczne.",
+      "sourceExcerpt": "s. 462: jednostki poddane wpływowi mniejszości zaczynają myśleć w bardziej twórczy, oryginalny sposób … Co ciekawe, różnice te występują nawet wtedy, kiedy mniejszość nie ma racji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-58",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według Maassa, Westa i Cialdiniego (1987) komunikaty mniejszości są przetwarzane bardziej świadomie m.in. dlatego, że mniejszość:"
+      ],
+      "correct": [
+        "jest bardziej wyrazista"
+      ],
+      "distractors": [
+        "jest bardziej wiarygodna",
+        "zawsze ma rację",
+        "ma wyższy status",
+        "wywołuje silniejszy stres",
+        "jest liczniejsza",
+        "jest mniej konsekwentna"
+      ],
+      "explanation": "3 różnice: mniejszość bardziej wyrazista (figura na tle), mniej wiarygodna (świadome przetwarzanie), jej niezłomność bardziej jednoznaczna.",
+      "sourceExcerpt": "s. 462: mniejszość jest z natury rzeczy bardziej wyrazista i jawi się jako figura na tle większości. W większym stopniu przyciąga uwagę, dzięki czemu jednostka bardziej świadomie przetwarza jej komunikaty",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-59",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Norman Triplett (1898) zaobserwował, że dzieci nawijające żyłkę na kołowrotek w obecności rówieśników:"
+      ],
+      "correct": [
+        "nawijały szybciej niż pracujące samotnie"
+      ],
+      "distractors": [
+        "nawijały wolniej niż pracujące samotnie",
+        "nawijały tak samo jak pracujące samotnie",
+        "popełniały więcej błędów",
+        "szybciej się męczyły i przerywały",
+        "pracowały wolniej tylko przy trudnym zadaniu",
+        "unikały zadania"
+      ],
+      "explanation": "Jedno z pierwszych badań psychologii społecznej – facylitacja społeczna (ułatwienie) przy łatwym zadaniu.",
+      "sourceExcerpt": "s. 463: Dzieci działające w obecności innych wykonujących to samo działanie rówieśników okazały się skuteczniejsze – w tym samym czasie nawinęły więcej żyłki od pracujących samotnie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-60",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zgodnie z popędowym modelem Zajonca obecność innych:"
+      ],
+      "correct": [
+        "podnosi pobudzenie, a to nasila reakcję dominującą"
+      ],
+      "distractors": [
+        "rozprasza uwagę i zawęża jej pole",
+        "wywołuje lęk przed oceną negatywną",
+        "obniża pobudzenie i reakcje dominujące",
+        "zwiększa motywację tylko w zadaniach trudnych",
+        "zmniejsza liczbę sygnałów do przetworzenia",
+        "wywołuje próżniactwo społeczne"
+      ],
+      "explanation": "Model popędu (Zajonc 1980a): obecność innych → wzrost pobudzenia (popędu) → tendencja do reakcji dominującej (łatwe – poprawna, trudne – niepoprawna); teoria Hulla–Spence’a.",
+      "sourceExcerpt": "Ilustracja (ryc. 18.7, s. 464): Model popędu Roberta Zajonca – Obecność innych → Wzrost pobudzenia (popędu) → Wzrost tendencji do wykonania reakcji dominującej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-61",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zgodnie z modelem uwagi Reubena Barona (1986) obecność innych prowadzi do:"
+      ],
+      "correct": [
+        "zawężenia pola uwagi poświęcanej zadaniu"
+      ],
+      "distractors": [
+        "wzrostu tendencji do reakcji dominującej",
+        "lęku przed negatywną oceną",
+        "poszerzenia pola uwagi",
+        "spadku pobudzenia",
+        "wzrostu motywacji do dzielenia się informacjami",
+        "spadku identyfikacji z grupą"
+      ],
+      "explanation": "Model uwagi: obecność innych → rozproszenie uwagi (obciążenie) → zawężenie pola uwagi → łatwe: ignorowanie nieistotnych sygnałów (wzrost), trudne: też istotnych (spadek).",
+      "sourceExcerpt": "Ilustracja (ryc. 18.7, s. 464): Model uwagi Reubena Barona – Obecność innych → Rozproszenie uwagi (obciążenie poznawcze) → Zawężenie pola uwagi poświęcanej zadaniu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-62",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Obecność innych poprawia wykonanie zadania Stroopa (Huguet i in., 1999). Wynik ten najlepiej wyjaśnia:"
+      ],
+      "correct": [
+        "model uwagi Barona"
+      ],
+      "distractors": [
+        "model popędu Zajonca",
+        "koncepcja lęku przed oceną",
+        "model kolektywnego wysiłku",
+        "teoria autokategoryzacji",
+        "koncepcja argumentacji perswazyjnej",
+        "prawo Yerkesa–Dodsona"
+      ],
+      "explanation": "Dla Zajonca Stroop to zadanie trudne (dominuje czytanie) – przewidywałby spadek; dla Barona łatwe (jeden nieistotny sygnał) – zawężenie uwagi ułatwia ignorowanie treści słów → spadek interferencji.",
+      "sourceExcerpt": "s. 465: obecność innych powoduje w zadaniu Stroopa wzrost poziomu wykonania, czyli ułatwia uczestnikom ignorowanie treści słów (spadek efektu interferencji). Wyniki te są zgodne z modelem uwagi",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-63",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Efekty facylitacji i hamowania występują nawet wtedy, gdy obserwator ma zasłonięte oczy, a także u karaluchów. Przemawia to przeciw wyjaśnieniu w kategoriach:"
+      ],
+      "correct": [
+        "lęku przed oceną (Cottrell)"
+      ],
+      "distractors": [
+        "samej obecności innych (Zajonc)",
+        "zawężenia pola uwagi (Baron)",
+        "rozproszenia uwagi przez innych",
+        "wzrostu pobudzenia",
+        "reakcji dominującej",
+        "trudności zadania"
+      ],
+      "explanation": "Liczy się sama obecność innych, nie lęk przed oceną; kompetencja obserwatorów nie nasilała efektu; efekty u zwierząt (Zajonc, Heingartner, Herman 1969).",
+      "sourceExcerpt": "s. 464: Przemawia to raczej za tezą Zajonca, że liczy się sama obecność innych, a nie za tezą Cottrella, że liczy się lęk przed negatywną oceną",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-64",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Obecność innych poprawia funkcjonowanie, niezależnie od trudności zadania, osób:"
+      ],
+      "correct": [
+        "o wysokiej samoocenie i ekstrawertywnych"
+      ],
+      "distractors": [
+        "o niskiej samoocenie i neurotycznych",
+        "introwertywnych i lękowych",
+        "z wysoką potrzebą domknięcia",
+        "o niskim statusie w grupie",
+        "nowych w grupie",
+        "nastawionych negatywistycznie"
+      ],
+      "explanation": "Uziel (2007): inni pomagają nastawionym pozytywnie (wysoka samoocena, ekstrawersja), przeszkadzają negatywistycznym (niska samoocena, neurotyzm).",
+      "sourceExcerpt": "s. 465: sama obecność innych poprawia funkcjonowanie tych o wysokiej samoocenie i ekstrawertywnych, natomiast pogarsza funkcjonowanie tych z samooceną niską i skłonnościami do neurotyzmu (Uziel, 2007)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-65",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "W badaniu Ringelmanna przy ciągnięciu liny ośmioosobowe zespoły osiągały poziom wykonania wynoszący około:"
+      ],
+      "correct": [
+        "49% sumy wyników indywidualnych"
+      ],
+      "distractors": [
+        "85% sumy wyników indywidualnych",
+        "100% sumy wyników indywidualnych",
+        "120% sumy wyników indywidualnych",
+        "71% sumy wyników indywidualnych",
+        "25% sumy wyników indywidualnych",
+        "91% sumy wyników indywidualnych"
+      ],
+      "explanation": "Efekt Ringelmanna: zespoły 3-os. – 85%, 8-os. – 49% wysiłku w porównaniu z działaniem w pojedynkę.",
+      "sourceExcerpt": "s. 466: w zespołach trzyosobowych wkładali w to zadanie 85% wysiłku (przyjmując za 100% poziom wykonania w pojedynkę), w zespołach ośmioosobowych zaś – zaledwie 49%",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-66",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Efekt próżniactwa społecznego wynika głównie ze:"
+      ],
+      "correct": [
+        "spadku indywidualnej motywacji"
+      ],
+      "distractors": [
+        "strat koordynacyjnych",
+        "zmęczenia fizycznego",
+        "braku umiejętności",
+        "lęku przed oceną",
+        "konfliktów w grupie",
+        "nadmiaru informacji"
+      ],
+      "explanation": "Steiner (1972) preferował straty koordynacyjne, ale efekt pojawia się, gdy badani tylko sądzą, że działają razem (zawiązane oczy – Ingham i in. 1974), więc kluczowy jest spadek motywacji.",
+      "sourceExcerpt": "s. 466: wiele badań świadczy o tym, że efekt próżniactwa wynika głównie ze spadku indywidualnej motywacji. … występuje ono także wtedy, gdy badani są tylko przekonani, że działają razem z innymi",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-67",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według modelu kolektywnego wysiłku (Karau i Williams, 1993) motywacja jednostki w grupie zależy m.in. od przekonania, że:"
+      ],
+      "correct": [
+        "wzrost własnego wysiłku podniesie wykonanie całej grupy"
+      ],
+      "distractors": [
+        "inni członkowie grupy wykonają pracę za nią",
+        "jej wkładu nie da się zidentyfikować",
+        "grupa jest liczniejsza od innych grup",
+        "zyski grupy nie przełożą się na osobiste",
+        "jej wkład łatwo zastąpić wkładem innych",
+        "zadanie jest proste i mało ważne"
+      ],
+      "explanation": "3 przekonania: własny wysiłek → wykonanie grupy; wykonanie grupy → zyski grupy (instrumentalność); zyski grupy → osobiste korzyści (materialne i psychiczne).",
+      "sourceExcerpt": "s. 466: (1) przekonania, że wzrost własnego wysiłku pociąga za sobą wzrost poziomu wykonania całej grupy, (2) przekonania o instrumentalności … (3) przekonania o wielkości własnych korzyści",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-68",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Czynnikiem najsilniej modyfikującym efekt próżniactwa społecznego jest:"
+      ],
+      "correct": [
+        "identyfikowalność wkładu jednostki"
+      ],
+      "distractors": [
+        "rodzaj wysiłku (fizyczny, umysłowy)",
+        "wiek członków grupy",
+        "obecność publiczności",
+        "kolor stroju zespołu",
+        "plan eksperymentalny badania",
+        "pora dnia wykonania zadania"
+      ],
+      "explanation": "Harkins i Szymanski (1987): wystarczy możliwość identyfikacji wkładu (lub jasny standard) – efekt zanika; rodzaj wysiłku nie wpływał na EPS.",
+      "sourceExcerpt": "s. 467: Czynnikiem najsilniej modyfikującym efekt próżniactwa jest możliwość identyfikacji indywidualnego wkładu jednostki we wspólny wynik grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-69",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Efekt kompensacji społecznej (odwrócenie próżniactwa) pojawia się, gdy:"
+      ],
+      "correct": [
+        "grupa jest spójna, a po partnerach oczekuje się niskiego wykonania"
+      ],
+      "distractors": [
+        "grupa jest duża, a wkładu jednostki nie da się zidentyfikować",
+        "członkowie oczekują po partnerach bardzo wysokiego wykonania",
+        "zadanie jest proste, mało ważne i nudne dla członków",
+        "grupa składa się wyłącznie z mężczyzn z kultury Zachodu",
+        "członkowie zupełnie się nie znają i nie identyfikują",
+        "grupa nie jest oceniana jako całość, lecz indywidualnie"
+      ],
+      "explanation": "Karau i Williams: kompensacja – w grupie wyższe wyniki niż w pojedynkę, gdy grupa spójna, a po partnerach oczekuje się niskiego wykonania (szczególnie przy ważnych zadaniach).",
+      "sourceExcerpt": "s. 467: efektem kompensacji społecznej, który się pojawia, kiedy działająca razem grupa jest spójna, a jej członkowie spodziewają się po partnerach niskiego poziomu wykonania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-70",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Efekt próżniactwa społecznego jest najsilniejszy w grupach:"
+      ],
+      "correct": [
+        "złożonych z samych mężczyzn"
+      ],
+      "distractors": [
+        "złożonych z samych kobiet",
+        "mieszanych płciowo",
+        "azjatyckich",
+        "bardzo ważnych dla członków",
+        "wykonujących złożone zadania",
+        "ocenianych jako całość"
+      ],
+      "explanation": "Tab. 18.6: EPS słabnie w grupach kobiet i azjatyckich (kolektywizm, współpraca), najwyższy w grupach męskich; zanika przy złożonych zadaniach i ważnej grupie.",
+      "sourceExcerpt": "Tabela 18.6 (s. 468): Płeć – EPS słabnie (ale pozostaje istotny) w grupach złożonych z samych kobiet, jest istotnie wyższy w grupach mieszanych, a najwyższy w grupach obejmujących samych mężczyzn",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-71",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Badania nad burzą mózgów wykazały, że grupy w porównaniu z osobami działającymi w pojedynkę:"
+      ],
+      "correct": [
+        "tworzą mniej pomysłów, choć ich członkowie sądzą inaczej"
+      ],
+      "distractors": [
+        "tworzą więcej pomysłów dzięki reakcji łańcuchowej",
+        "tworzą tyle samo pomysłów",
+        "tworzą więcej, ale gorszych pomysłów",
+        "tworzą mniej pomysłów i wiedzą o tym",
+        "tworzą więcej pomysłów tylko przy krytyce",
+        "zawsze tworzą lepsze pomysły"
+      ],
+      "explanation": "Karau i Williams; Mullen, Johnson, Salas (1991): grupy tworzą mniej pomysłów; uczestnicy ulegają złudzeniu wzrostu produktywności (Paulus i Dzindolet 1993).",
+      "sourceExcerpt": "s. 467: badania … w znacznej większości dowodzą wręcz, że grupy tworzą mniej pomysłów niż poszczególne osoby działające w pojedynkę",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-72",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Spadek uwagi i gorsze zapamiętanie cudzej wypowiedzi przez osobę, która ma mówić bezpośrednio po niej, to:"
+      ],
+      "correct": [
+        "efekt następnego w kolejce"
+      ],
+      "distractors": [
+        "efekt próżniactwa społecznego",
+        "efekt kompensacji społecznej",
+        "hamowanie społeczne",
+        "zjawisko czarnej owcy",
+        "efekt interferencji",
+        "tendencyjna komunikacja"
+      ],
+      "explanation": "Bond (1985): przygotowywanie własnego komunikatu pochłania zasoby; jedna z przyczyn niskiej skuteczności burzy mózgów.",
+      "sourceExcerpt": "s. 467: efekt następnego w kolejce – spadek uwagi przykładanej do cudzej wypowiedzi i gorsze zapamiętywanie jej treści przez osoby, które bezpośrednio po niej mają występować (Bond, 1985)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-73",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zjawisko odkryte przez Jamesa Stonera (1968) jako „ryzykowne przesunięcie” okazało się w dalszych badaniach:"
+      ],
+      "correct": [
+        "polaryzacją grupową – decyzje są bardziej krańcowe"
+      ],
+      "distractors": [
+        "próżniactwem społecznym – grupy mniej się starają",
+        "zawsze większą ostrożnością grup",
+        "syndromem myślenia grupowego",
+        "efektem kompensacji społecznej",
+        "konwersją pod wpływem mniejszości",
+        "rozproszeniem odpowiedzialności"
+      ],
+      "explanation": "Grupy formułują decyzje nie tyle bardziej ryzykowne, ile bardziej krańcowe – polaryzacja (uskrajnienie): ostrożniejsze przy dylematach ostrożnych, ryzykowniejsze przy ryzykownych.",
+      "sourceExcerpt": "s. 469: Badania te ujawniły, że grupy formułują decyzje nie tyle bardziej ryzykowne niż jednostki, ile bardziej krańcowe, co nazwano polaryzacją grupową",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-74",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Wyjaśnienie polaryzacji grupowej w kategoriach rozpraszania odpowiedzialności odrzucono, ponieważ:"
+      ],
+      "correct": [
+        "nie tłumaczy wzrostu ostrożności po dyskusji"
+      ],
+      "distractors": [
+        "nie tłumaczy wzrostu ryzykanctwa po dyskusji",
+        "dotyczy tylko grup dużych",
+        "zostało potwierdzone tylko u zwierząt",
+        "przewiduje brak zmian po dyskusji",
+        "dotyczy tylko decyzji finansowych",
+        "nie da się go zbadać"
+      ],
+      "explanation": "Rozproszenie odpowiedzialności tłumaczy ryzykanctwo, ale nie ostrożność; odrzucono też wzrost zaangażowania w dyskusji (wystarczy samo wysłuchanie argumentów).",
+      "sourceExcerpt": "s. 469: Odrzucono wyjaśnienie w kategoriach rozpraszania odpowiedzialności między różnych członków grupy (które tłumaczy wzrost ryzykanctwa, ale nie tłumaczy wzrostu ostrożności)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-75",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Według koncepcji argumentacji perswazyjnej polaryzacja grupowa wynika z tego, że:"
+      ],
+      "correct": [
+        "członkowie dostarczają sobie argumentów za początkowym poglądem"
+      ],
+      "distractors": [
+        "członkowie chcą wydać się osobami o słuszniejszych poglądach",
+        "członkowie rozpraszają odpowiedzialność za podjętą decyzję",
+        "grupa izoluje się od otoczenia i ekspertów",
+        "przywódca narzuca grupie swoje własne zdanie",
+        "członkowie mają wysoką potrzebę domknięcia",
+        "członkowie redukują dysonans, opuszczając grupę"
+      ],
+      "explanation": "Argumentacja perswazyjna (Burnstein 1982): wsparcie i nowe argumenty dla początkowego poglądu – kula śnieżna; silniejszy wyznacznik niż porównania społeczne (Isenberg 1986).",
+      "sourceExcerpt": "s. 469: Koncepcja argumentacji perswazyjnej upatruje powody polaryzacji w uzyskiwaniu przez jednostki stałego wsparcia od innych dla poglądu początkowego i nowych, przekonujących argumentów na jego rzecz",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-76",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Badani podnosili wysokość zakładów w grze losowej, gdy tylko poznali wysokość cudzych zakładów, bez żadnych argumentów (Blascovich i in., 1975). To dowód na wyjaśnienie polaryzacji w kategoriach:"
+      ],
+      "correct": [
+        "porównań społecznych"
+      ],
+      "distractors": [
+        "argumentacji perswazyjnej",
+        "rozpraszania odpowiedzialności",
+        "tendencyjnej komunikacji",
+        "model popędu",
+        "próżniactwa społecznego",
+        "konsekwentnego odstępstwa"
+      ],
+      "explanation": "Porównania społeczne (Sanders i Baron 1977): sama wiedza o stanowisku innych (norma ryzykanctwa) wystarcza do uskrajnienia; argumenty nie są potrzebne.",
+      "sourceExcerpt": "s. 470: W obu warunkach grupowych wystąpił ryzykancki wzrost wysokości zakładów … i był on niemalże tak samo silny przy dyskusji grupowej, jak i przy samej tylko informacji o cudzych zakładach",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-77",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Spośród dwóch wyjaśnień polaryzacji grupowej silniejszym wyznacznikiem okazała się:"
+      ],
+      "correct": [
+        "argumentacja perswazyjna"
+      ],
+      "distractors": [
+        "porównania społeczne",
+        "rozproszenie odpowiedzialności",
+        "facylitacja społeczna",
+        "potrzeba domknięcia poznawczego",
+        "próżniactwo społeczne",
+        "depersonalizacja"
+      ],
+      "explanation": "Oba wyjaśnienia dobrze poparte (Isenberg 1986), ale argumentacja perswazyjna wyraźnie silniejsza; w realnych warunkach działają łącznie.",
+      "sourceExcerpt": "s. 470: oddziaływanie argumentacji perswazyjnej jest wyraźnie silniejszym wyznacznikiem polaryzacji niż same porównania społeczne",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-78",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Syndrom myślenia grupowego (Janis, 1982) to podejmowanie błędnych decyzji, ponieważ:"
+      ],
+      "correct": [
+        "dążenie do spójności wygrywa z merytoryczną oceną"
+      ],
+      "distractors": [
+        "grupa ma zbyt mało informacji niepodzielanych",
+        "członkowie grupy w ogóle się nie znają",
+        "w grupie brakuje wyraźnego przywódcy",
+        "grupa jest zbyt liczna i niespójna",
+        "członkowie obniżają wysiłek w działaniu razem",
+        "mniejszość narzuca grupie swoje zdanie"
+      ],
+      "explanation": "Janis: NASA – Challenger, Zatoka Świń, Wietnam, Afganistan; wewnętrzna dynamika (motywacja do spójności) wygrywa z merytoryką.",
+      "sourceExcerpt": "s. 470: syndrom myślenia grupowego, którego istotą jest podejmowanie błędnych decyzji przez zespół wskutek tego, że wewnętrzna dynamika grupowa (głównie motywacja do utrzymania spójności) przeważa nad motywacją do podjęcia decyzji merytorycznie zasadnych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-79",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Do warunków sprzyjających syndromowi myślenia grupowego należy:"
+      ],
+      "correct": [
+        "izolacja od otoczenia i dyrektywny przywódca"
+      ],
+      "distractors": [
+        "niska spójność grupy",
+        "systematyczne procedury oceny rozwiązań",
+        "brak stresu i dużo czasu",
+        "otwartość na ekspertów z zewnątrz",
+        "demokratyczny styl przywództwa",
+        "duża różnorodność składu grupy"
+      ],
+      "explanation": "Warunki: silna spójność, izolacja, brak systematycznych procedur, dyrektywny przywódca, silny stres i brak nadziei na lepsze rozwiązanie.",
+      "sourceExcerpt": "s. 470: Warunki sprzyjające pojawianiu się tego syndromu to silna spójność grupy, jej izolacja od szerszego otoczenia, brak systematycznie stosowanych procedur poszukiwania i oceny rozwiązań, dyrektywny przywództwo … silny stres",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-80",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Nacisk na dysydentów w grupie ulegającej myśleniu grupowemu prowadzi do:"
+      ],
+      "correct": [
+        "autocenzury i złudzenia jednomyślności"
+      ],
+      "distractors": [
+        "wzrostu twórczości grupy",
+        "lepszego przeglądu alternatyw",
+        "konwersji większości",
+        "rozwiązania grupy",
+        "zwiększenia liczby planów awaryjnych",
+        "polaryzacji w stronę ostrożności"
+      ],
+      "explanation": "Symptomy: złudzenie bezpieczeństwa i optymizm, moralna wyższość, kolektywne racjonalizacje, stereotypizacja oponentów, nacisk na dysydentów → autocenzura i złudzenie jednomyślności.",
+      "sourceExcerpt": "s. 470: W grupie pojawia się silny nacisk na dysydentów … czego skutkiem są autocenzura i złudzenie jednomyślności",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-81",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Główną słabością koncepcji syndromu myślenia grupowego jest to, że:"
+      ],
+      "correct": [
+        "opiera się głównie na analizie przypadków"
+      ],
+      "distractors": [
+        "została obalona w setkach eksperymentów",
+        "dotyczy wyłącznie decyzji biznesowych",
+        "nie opisuje żadnych symptomów",
+        "zakłada niską spójność grup",
+        "pochodzi z badań na zwierzętach",
+        "opiera się wyłącznie na metaanalizach"
+      ],
+      "explanation": "Analiza przypadków (decyzje polityczne) – metoda tworzenia, nie sprawdzania hipotez; nieliczne badania korelacyjne/eksperymentalne (Aldag i Fuller 1993).",
+      "sourceExcerpt": "s. 472: cała koncepcja syndromu myślenia grupowego opiera się na analizie przypadków … która jest metodą raczej tworzenia niż sprawdzania hipotez",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-82",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Teoria autokategoryzacji (Turner i in., 1987) wyróżnia trzy poziomy kategoryzowania siebie:"
+      ],
+      "correct": [
+        "ludzki, społeczny i osobisty"
+      ],
+      "distractors": [
+        "indywidualny, rodzinny i narodowy",
+        "biologiczny, psychiczny i społeczny",
+        "realny, idealny i powinnościowy",
+        "osobisty, relacyjny i kolektywny",
+        "nadrzędny, równorzędny i zbiorowy",
+        "ważność, zaangażowanie i podporządkowanie"
+      ],
+      "explanation": "Tab. 18.7: ludzki (nadrzędny – bycie człowiekiem), społeczny (pośredni – grupa własna vs obce), osobisty (podrzędny – cechy indywidualne vs inni członkowie grupy własnej).",
+      "sourceExcerpt": "Tabela 18.7 (s. 471): Ludzki (nadrzędny) – bycie człowiekiem; Społeczny (pośredni) – przynależność do grupy własnej; Osobisty (podrzędny) – indywidualne cechy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-83",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Studentka psychologii w grupie samych koleżanek z roku myśli o sobie jako o osobie życzliwej i inteligentnej. Według teorii autokategoryzacji kategoryzuje się na poziomie:"
+      ],
+      "correct": [
+        "osobistym"
+      ],
+      "distractors": [
+        "społecznym",
+        "ludzkim",
+        "nadrzędnym",
+        "międzygrupowym",
+        "narodowym",
+        "zbiorowym"
+      ],
+      "explanation": "Wśród członków grupy własnej (interakcja interpersonalna) – poziom osobisty; w obecności obcych (międzygrupowa) – społeczny (kobieta, Polka).",
+      "sourceExcerpt": "s. 471: W obecności członków tylko grupy własnej (same dziewczyny studiujące psychologię) kategoryzujemy siebie na poziomie osobistym, myśląc o własnej życzliwości lub inteligencji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-84",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Zasada metakontrastu głosi, że kategoryzujemy ludzi tak, aby:"
+      ],
+      "correct": [
+        "różnice wewnątrz kategorii były mniejsze od różnic między kategoriami"
+      ],
+      "distractors": [
+        "różnice wewnątrz kategorii były większe od różnic między kategoriami",
+        "każda osoba należała do jak największej liczby kategorii",
+        "kategorie były jak najliczniejsze",
+        "własna kategoria była oceniana negatywnie",
+        "ignorować różnice między kategoriami",
+        "kategorie zmieniały się jak najczęściej"
+      ],
+      "explanation": "Metakontrast: różnice wewnątrzkategorialne < międzykategorialne; im lepiej spełnione, tym więcej informacji daje kategoryzacja.",
+      "sourceExcerpt": "s. 471: proces wyboru kategorii rządzi się zasadą metakontrastu – kategoryzujemy ludzi, w tym siebie, w taki sposób, aby różnice między osobami zaliczonymi do tej samej kategorii były mniejsze od różnic między osobami zaliczonymi do różnych kategorii",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-18-notatki-ai-85",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-18-notatki-ai",
+      "stems": [
+        "Myślenie o sobie jako o przedstawicielu kategorii, w pełni zastępowalnym dowolnym innym egzemplarzem tej kategorii, to:"
+      ],
+      "correct": [
+        "depersonalizacja"
+      ],
+      "distractors": [
+        "deindywidualizacja",
+        "esencjalizm",
+        "konwersja",
+        "polaryzacja",
+        "facylitacja",
+        "autoafirmacja"
+      ],
+      "explanation": "Depersonalizacja (Turner) – podstawa tożsamości społecznej i powstawania grupy (wspólne „my” vs „oni”); prowadzi do ulegania autostereotypom i stereotypizacji obcych.",
+      "sourceExcerpt": "s. 471: Turner i zespół nazywają ten proces depersonalizacją, co oznacza myślenie o sobie jako o przedstawicielu pewnej kategorii, który jest w pełni zastępowalny dowolnym innym egzemplarzem tej samej kategorii",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "“Psychologia Społeczna” Grzyb, Wojciszke"
+}
