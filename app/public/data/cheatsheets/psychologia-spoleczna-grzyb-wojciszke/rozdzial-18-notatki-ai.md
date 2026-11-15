@@ -83,7 +83,18 @@
 
 - Rozbieżność opinii = dysonans (Festinger 1957) → perswazja, uleganie lub odejście z grupy.
 - Dzielenie się informacjami przewiduje skuteczność (r = 0,46), ale działa **tendencyjna komunikacja informacji podzielanych** – częściej mówimy to, co wszyscy wiedzą (Stasser 1992; r = 0,65).
-- Ryc. 18.5: przewaga rośnie w **większych grupach** i, paradoksalnie, przy **strukturowaniu dyskusji** (0,65 vs 0,23).
+- Badanie Stassera, Taylora i Hanny (1989, ryc. 18.5): grupy 3- i 6-osobowe wybierały prezesa; część informacji o kandydatach znali wszyscy, część – tylko jedna osoba. Wyniki (jaką część informacji danego rodzaju poruszono):
+
+| Dyskusja | Grupa | Znane wszystkim | Znane jednej osobie |
+| --- | --- | --- | --- |
+| swobodna | 3 osoby | 0,15 | 0,10 |
+| swobodna | 6 osób | 0,45 | 0,30 |
+| ustrukturowana | 3 osoby | 0,35 | 0,22 |
+| ustrukturowana | 6 osób | **0,65** | **0,23** |
+
+  - Informacje znane wszystkim są omawiane **częściej** niż znane jednej osobie.
+  - Ta różnica jest **większa w większych grupach** – informację znaną wielu ktoś po prostu częściej wspomni.
+  - Polecenie, by uporządkować dyskusję i nie pominąć żadnej istotnej informacji, miało wydobyć wiedzę jednostek, a **powiększyło różnicę**: grupy jeszcze częściej mówiły o tym, co i tak wszyscy wiedzieli.
 - Przyczyna: **budowanie statusu** – mówiący znane rzeczy wydają się kompetentni (Wittenbaum i in. 1999). Lekarstwo: zespół z osób, które **znają się wcześniej** (Gruenfeld i in. 1996).
 
 ### Wpływ większości i mniejszości
