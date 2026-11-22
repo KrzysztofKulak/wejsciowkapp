@@ -55,6 +55,24 @@
       "title": "Prezentacja: Neuronalne podłoże stresu",
       "id": "prezentacja-neuronalne-podloze-stresu",
       "chapter": "slajdy 1–44"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Downloads/Behawioryzm i uczenie się.pdf",
+      "title": "Prezentacja: Behawioryzm i uczenie się",
+      "id": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapter": "slajdy 1–32"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Downloads/Psychologia humanistyczna.pdf",
+      "title": "Prezentacja: Psychologia humanistyczna",
+      "id": "prezentacja-psychologia-humanistyczna",
+      "chapter": "slajdy 1–24"
+    },
+    {
+      "pdf": "/Users/krzysztofk/Downloads/teoria konstruktów poznawczych - Kelly.pdf",
+      "title": "Prezentacja: Teoria konstruktów osobistych Kelly'ego",
+      "id": "prezentacja-teoria-konstruktow-kelly",
+      "chapter": "slajdy 1–6"
     }
   ],
   "chapterPattern": "(Rozdz(?:ia[łl])?\\.?\\s+\\d+|Wykład\\s+\\d+|str\\.\\s*\\d+(?:\\s*[–-]\\s*\\d+)?|slajdy\\s+\\d+(?:\\s*[–-]\\s*\\d+)?)",
@@ -69,7 +87,8 @@
     "prezentacja-historia-psychologii-psychologia-jako-nauka": "prezentacja-psychologia-jako-nauka",
     "prezentacja-psychoanaliza-w-wydaniu-freudowskim": "prezentacja-psychoanaliza-freudowska",
     "wyklady-biologiczne-podstawy-zachowan": "wyklady-biologiczne-podstawy-zachowan",
-    "cwiczenia-biologiczne-podstawy-zachowan": "cwiczenia-biologiczne-podstawy-zachowan"
+    "cwiczenia-biologiczne-podstawy-zachowan": "cwiczenia-biologiczne-podstawy-zachowan",
+    "prezentacja-teoria-konstruktow-osobistych-kelly-ego": "prezentacja-teoria-konstruktow-kelly"
   },
   "subjects": [
     {
@@ -80,7 +99,10 @@
         "psychologia-podejscia-oraz-koncepcje-tavris",
         "prezentacja-psychologia-jako-nauka",
         "prezentacja-psychoanaliza-freudowska",
-        "wyklady-historia-i-wspolczesnosc"
+        "wyklady-historia-i-wspolczesnosc",
+        "prezentacja-behawioryzm-i-uczenie-sie",
+        "prezentacja-psychologia-humanistyczna",
+        "prezentacja-teoria-konstruktow-kelly"
       ]
     },
     {

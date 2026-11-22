@@ -1,0 +1,476 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-7",
+  "chapterTitle": "Wykład 7. Wielkie prądy - behawioryzm",
+  "sourceHash": "287040fa390be54c1fb56bb5544ac57039a29a9f",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Watson proponował analizować zachowanie najlepiej w układzie:"
+      ],
+      "correct": [
+        "S–R (bodziec – reakcja)"
+      ],
+      "distractors": [
+        "S–O–R (bodziec – organizm – reakcja)",
+        "R–S (reakcja – wzmocnienie)",
+        "id – ego – superego",
+        "ja realne – ja idealne",
+        "konstrukt – przewidywanie",
+        "potrzeba – działanie"
+      ],
+      "explanation": "Watson: obiektywne zdarzenia w układzie S–R; brak fundamentalnej różnicy między ludźmi a zwierzętami.",
+      "sourceExcerpt": "Analizowanie obiektywnych zdarzeń. Najlepiej w układzie S-R (stimulus - reaction)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Według Watsona między ludźmi a zwierzętami:"
+      ],
+      "correct": [
+        "nie ma fundamentalnej różnicy"
+      ],
+      "distractors": [
+        "istnieje różnica jakościowa – tylko ludzie się uczą",
+        "różnicę stanowi wyłącznie świadomość",
+        "nie da się prowadzić porównań",
+        "różnica polega na wolnej woli człowieka",
+        "różnicą są wrodzone konstrukty",
+        "różnicę stanowi tendencja aktualizująca"
+      ],
+      "explanation": "Behawioryzm Watsona: brak fundamentalnej różnicy ludzie–zwierzęta (stąd badania na zwierzętach).",
+      "sourceExcerpt": "Brak fundamentalnej różnicy między ludźmi a zwierzętami.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Założenie behawioryzmu, że pojęcia psychologiczne trzeba sprowadzić do obiektywnie mierzalnych (tempo, liczba reakcji, czas), a nie opisów odczuwanych stanów, to:"
+      ],
+      "correct": [
+        "fizykalizm"
+      ],
+      "distractors": [
+        "funkcjonalizm",
+        "pragmatyzm",
+        "empiryzm",
+        "pozytywizm",
+        "introspekcjonizm",
+        "strukturalizm"
+      ],
+      "explanation": "Fundamenty: fizykalizm (mierzalne pojęcia), funkcjonalizm (funkcja zamiast przyczyny), pragmatyzm (sprawy praktyczne), empiryzm (środowisko kształtuje), pozytywizm (wiedza z doświadczenia, poprawna metodologia).",
+      "sourceExcerpt": "Fizykalizm – Pojęcia psychologiczne powinny być sprowadzone do pojęć fizycznych, czyli takich, które dają się obiektywnie mierzyć",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Założenie behawioryzmu, w którym pojęcie przyczyny zachowania zastępuje się jego funkcją (jak wygląda zachowanie i po co ktoś się w nie angażuje), to:"
+      ],
+      "correct": [
+        "funkcjonalizm"
+      ],
+      "distractors": [
+        "fizykalizm",
+        "pragmatyzm",
+        "empiryzm",
+        "pozytywizm",
+        "introspekcjonizm",
+        "strukturalizm"
+      ],
+      "explanation": "Funkcjonalizm – funkcja zachowania zamiast przyczyny; następstwa i współwystępowanie zdarzeń.",
+      "sourceExcerpt": "Funkcjonalizm – Pojęcie przyczyny zachowania zastępuje funkcja zachowania. … Jak zachowanie wygląda i po co ktoś się w nie angażuje.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Założenie behawioryzmu, że badania powinny dotyczyć spraw o znaczeniu praktycznym i społecznym, to:"
+      ],
+      "correct": [
+        "pragmatyzm"
+      ],
+      "distractors": [
+        "fizykalizm",
+        "funkcjonalizm",
+        "empiryzm",
+        "pozytywizm",
+        "introspekcjonizm",
+        "strukturalizm"
+      ],
+      "explanation": "Pragmatyzm – zajmować się sprawami praktycznie i społecznie istotnymi.",
+      "sourceExcerpt": "Pragmatyzm – W badaniach należy zajmować się sprawami o znaczeniu praktyczny, które są istotne społecznie.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Założenie behawioryzmu, że to środowisko kreuje nasze zachowania, których uczymy się na drodze doświadczenia, to:"
+      ],
+      "correct": [
+        "empiryzm"
+      ],
+      "distractors": [
+        "fizykalizm",
+        "funkcjonalizm",
+        "pragmatyzm",
+        "pozytywizm",
+        "introspekcjonizm",
+        "strukturalizm"
+      ],
+      "explanation": "Empiryzm – środowisko kształtuje zachowanie przez doświadczenie.",
+      "sourceExcerpt": "Empiryzm – To środowisko kreuje nasze zachowania (uczymy się ich na drodze doświadczenia).",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Metafora „czarnej skrzynki” w behawioryzmie oznacza, że:"
+      ],
+      "correct": [
+        "umysł między bodźcem a reakcją nie jest badany"
+      ],
+      "distractors": [
+        "umysł jest głównym przedmiotem badań psychologii",
+        "każdą reakcję wyjaśnia się nieświadomym popędem",
+        "bodziec i reakcja są od siebie niezależne",
+        "zachowanie zależy wyłącznie od genów",
+        "zawartość umysłu bada się introspekcją",
+        "o zachowaniu decydują zmienne pośredniczące"
+      ],
+      "explanation": "Bodziec → CZARNA SKRZYNKA (mózg, układ poznawczy) → reakcja; nie mamy do niej dostępu i nie próbujemy go mieć.",
+      "sourceExcerpt": "Bodziec → CZARNA SKRZYNKA (nasz mózg, układ poznawczy) → Reakcja. Nie mamy dostępu do czarnej skrzynki i nie próbujemy go mieć.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Pawłow zaobserwował zjawisko warunkowania, gdy psy zaczęły się ślinić na:"
+      ],
+      "correct": [
+        "kroki karmiciela, zanim poczuły karmę"
+      ],
+      "distractors": [
+        "widok innych jedzących psów",
+        "dźwięk dzwonka po podaniu karmy",
+        "zapach karmy podanej do pyska",
+        "ból wywołany przez prąd",
+        "widok białego szczura w klatce",
+        "naciśnięcie dźwigni w skrzynce"
+      ],
+      "explanation": "Pawłow (fizjolog, badał trawienie psów) zauważył reakcję ślinianek na dźwięk butów karmiciela – zanim pojawiła się karma.",
+      "sourceExcerpt": "Zaobserwował reakcję ślinianek psów na dźwięk butów karmiciela (zanim poczuły karmę)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Warunkowanie klasyczne bywa nazywane warunkowaniem:"
+      ],
+      "correct": [
+        "I typu"
+      ],
+      "distractors": [
+        "II typu",
+        "III typu",
+        "zastępczym",
+        "wtórnym",
+        "wyższym",
+        "sprawczym"
+      ],
+      "explanation": "Warunkowanie klasyczne – I typu; sprawcze – II typu.",
+      "sourceExcerpt": "Warunkowanie klasyczne (I typu) … Warunkowanie sprawcze (II typu)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "W eksperymentach Pawłowa, aby warunkowanie zadziałało, odstęp między bodźcem warunkowym a bezwarunkowym nie mógł być zbyt duży i wynosił:"
+      ],
+      "correct": [
+        "około 0,5 sekundy"
+      ],
+      "distractors": [
+        "około 5 sekund",
+        "około 30 sekund",
+        "około 5 minut",
+        "około godziny",
+        "około doby",
+        "dowolnie długo"
+      ],
+      "explanation": "Odstęp czasowy między bodźcami nie może być zbyt duży – u psów Pawłowa 0,5 s.",
+      "sourceExcerpt": "By warunkowo zadziałało odstęp czasowy pomiędzy bodźcem bezwarunkowym nie może być zbyt duży (u psów Pawłowa 0,5 sekundy).",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Najważniejsza różnica warunkowania sprawczego w stosunku do klasycznego polega na:"
+      ],
+      "correct": [
+        "aktywności podmiotu, który sam działa"
+      ],
+      "distractors": [
+        "braku jakiegokolwiek wzmocnienia",
+        "dotyczeniu tylko reakcji mimowolnych",
+        "obecności bodźca bezwarunkowego",
+        "ograniczeniu wyłącznie do ludzi",
+        "braku uczenia się w klasycznym",
+        "konieczności obserwacji modela"
+      ],
+      "explanation": "W warunkowaniu sprawczym podmiot jest aktywny (działa i doświadcza konsekwencji); w klasycznym zdarzenia dzieją się warunkowanej istocie.",
+      "sourceExcerpt": "Najważniejsza różnica w stosunku do warunkowania klasycznego → aktywność podmiotu. W typie I: rzeczy dzieją się warunkowanej istocie.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Głodny ptak w klatce przechodzi kolejne fazy warunkowania sprawczego. Po fazie losowych zachowań, przypadkowego naciśnięcia dźwigni i natychmiastowego pojawienia się pokarmu następuje:"
+      ],
+      "correct": [
+        "przejście do zachowań intencjonalnych"
+      ],
+      "distractors": [
+        "wygaszenie reakcji na dźwignię",
+        "generalizacja na inne klatki",
+        "powrót do zachowań losowych",
+        "reakcja bezwarunkowa na pokarm",
+        "kara pozytywna za naciskanie",
+        "obserwacja innego, starszego ptaka"
+      ],
+      "explanation": "Fazy: 1 – losowe zachowania; 2 – przypadkowe naciśnięcie dźwigni; 3 – natychmiastowy pokarm; 4 – zachowania intencjonalne.",
+      "sourceExcerpt": "Faza 1 - losowe zachowania; Faza 2 - przypadkowe naciśnięcie dźwigni; Faza 3 - natychmiastowe pojawienie się pokarmu; Faza 4 - przejście z losowych zachowań do intencjonalnych",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Karanie negatywne to:"
+      ],
+      "correct": [
+        "odebranie bodźca apetytywnego – coś dobrego odbieramy"
+      ],
+      "distractors": [
+        "podanie bodźca awersyjnego – coś złego dajemy",
+        "usunięcie bodźca awersyjnego – coś złego zabieramy",
+        "podanie bodźca apetytywnego – coś dobrego dajemy",
+        "brak jakiejkolwiek konsekwencji zachowania",
+        "skojarzenie dwóch bodźców ze sobą",
+        "obserwowanie kary u innej osoby"
+      ],
+      "explanation": "WP: dajemy coś dobrego; WN: zabieramy coś złego; KP: dajemy coś złego; KN: odbieramy coś dobrego.",
+      "sourceExcerpt": "Karanie negatywne → Odebranie bodźca apetytywnego = Coś dobrego odbieramy",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-14",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Wzmocnienie negatywne to:"
+      ],
+      "correct": [
+        "usunięcie bodźca awersyjnego – coś złego zabieramy"
+      ],
+      "distractors": [
+        "odebranie bodźca apetytywnego – coś dobrego odbieramy",
+        "podanie bodźca awersyjnego – coś złego dajemy",
+        "podanie bodźca apetytywnego – coś dobrego dajemy",
+        "brak jakiejkolwiek konsekwencji zachowania",
+        "skojarzenie dwóch bodźców ze sobą",
+        "obserwowanie nagrody u innej osoby"
+      ],
+      "explanation": "Wzmocnienie negatywne = zabieramy coś złego (bodziec awersyjny) → zachowanie częstsze.",
+      "sourceExcerpt": "Wzmocnienie negatywne → Usunięcie bodźca awersyjnego = Coś złego zabieramy",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-15",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Bodziec apetytywny to bodziec:"
+      ],
+      "correct": [
+        "przyjemny, pożądany przez organizm"
+      ],
+      "distractors": [
+        "nieprzyjemny, którego organizm unika",
+        "obojętny, niewywołujący reakcji",
+        "bezwarunkowy, wywołujący odruch",
+        "warunkowy, wyuczony przez skojarzenie",
+        "podprogowy, niezauważany",
+        "wywołujący reakcję lękową"
+      ],
+      "explanation": "Apetytywny – przyjemny (dajemy go we wzmocnieniu pozytywnym, odbieramy w karze negatywnej); awersyjny – przykry.",
+      "sourceExcerpt": "Wzmocnienie pozytywne → Podanie bodźca apetytywnego = Coś dobrego dajemy",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-16",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Edward Tolman, krytyk Watsona, zastąpił schemat S–R schematem S–O–R, w którym O oznacza:"
+      ],
+      "correct": [
+        "zmienne pośredniczące"
+      ],
+      "distractors": [
+        "obserwację modela",
+        "odruch bezwarunkowy",
+        "obiekt wzmacniający",
+        "operant",
+        "otoczenie fizyczne",
+        "osobowość nieświadomą"
+      ],
+      "explanation": "Tolman (neobehawioryzm): ten sam bodziec daje różne reakcje i odwrotnie → między S a R są zmienne pośredniczące (O).",
+      "sourceExcerpt": "Dodał więc S→O→R, gdzie O to zmienne pośredniczące.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-17",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Tolman uzasadniał potrzebę zmiany schematu S–R tym, że:"
+      ],
+      "correct": [
+        "ten sam bodziec może dać różne reakcje"
+      ],
+      "distractors": [
+        "każdy bodziec daje zawsze tę samą reakcję",
+        "reakcje w ogóle nie zależą od bodźców",
+        "zwierzęta nie reagują na żadne bodźce",
+        "zachowanie wyjaśniają same wzmocnienia",
+        "introspekcja jest jedyną dobrą metodą",
+        "reakcje są całkowicie wrodzone"
+      ],
+      "explanation": "Podstawa krytyki: ten sam S daje różne R, różne S ten sam R – więc muszą działać zmienne pośredniczące.",
+      "sourceExcerpt": "Podstawa: ten sam S daje różne R, albo różne S ten sam R, albo ten sam R z różnych S itp.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-7-18",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-7",
+      "stems": [
+        "Współcześnie zamiast czystego behawioryzmu stosuje się raczej terapie z grupy:"
+      ],
+      "correct": [
+        "CBT"
+      ],
+      "distractors": [
+        "psychoanalizy",
+        "Gestalt",
+        "egzystencjalnej",
+        "hipnozy",
+        "rogeriańskiej",
+        "transpersonalnej"
+      ],
+      "explanation": "Dziś: grupa CBT – poprawa jakości życia przez modyfikację zachowań i sposobu myślenia.",
+      "sourceExcerpt": "Dziś: Raczej grupa CBT zamiast czystego behawioryzmu. Cel → poprawa jakości życia, co osiąga się poprzez modyfikację zachowań i sposobu myślenia",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    }
+  ]
+}

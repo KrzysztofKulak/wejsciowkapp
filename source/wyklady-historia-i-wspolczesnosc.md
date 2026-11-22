@@ -772,6 +772,300 @@ wokół relacji interpersonalnych
 [image: ]
 <!-- img: img/41275c03-f28a-809c-b988-c3409d080383.png -->
 
+# Wykład 7. Wielkie prądy - behawioryzm
+
+## John Broadus Watson
+
+1878-1958
+
+1913 - “Psychologia, jak widzi ją behawiorysta”
+
+Odrzucenie introspekcji i analizowanie świadomości 
+
+Analizowanie obiektywnych zdarzeń 
+
+Najlepiej w układzie S-R (stimulus - reaction)
+
+Brak fundamentalnej różnicy między ludźmi a zwierzętami.
+
+Eksperyment małego Alberta
+
+W wyniku romansu Watsona z asystentką, został on wydalony z uczelni i poszedł pracować w reklamach kawy, papierosów, kremy, produkty do pielęgnacji dla dzieci.
+
+Zajął się też promocją pasty do zębów/mycia zębów in general (koncept “acid-mouth”).
+
+## Fundamenty behawioryzmu
+
+#### Fizykalizm
+
+Pojęcia psychologiczne powinny być sprowadzone do pojęć fizycznych, czyli takich, które dają się obiektywnie mierzyć (tempo reakcji, liczba reakcji, czas, a **nie: **opis odczuwanego stanu, przeświadczenia itp.)
+
+#### Funkcjonalizm
+
+Pojęcie przyczyny zachowania zastępuje funkcja zachowania. Następstwa i współwystępowanie zdarzeń, a nie ich przyczynowość. **Jak** zachowanie wygląda i **po co** ktoś się w nie angażuje. 
+
+#### Pragmatyzm
+
+W badaniach należy zajmować się sprawami o znaczeniu praktyczny, które są istotne społecznie.
+
+#### Empiryzm
+
+To środowisko kreuje nasze zachowania (uczymy się ich na drodze doświadczenia). 
+
+#### Pozytywizm
+
+Wiedza płynąca z doświadczenia jest najważniejsza.
+
+Żeby wiedza płynąca z doświadczenia była wiarygodna, musimy prowadzić nasze badania w porządny, poprawny metodologicznie sposób.
+
+## Metafora czarnej skrzynki
+
+Bodziec → CZARNA SKRZYNKA (nasz mózg, układ poznawczy) → Reakcja
+
+Nie mamy dostępu do czarnej skrzynki i nie próbujemy go mieć.
+
+## Burrhus F. Skinner
+
+1904-1990
+
+Skrzynka Skinnera - przyrząd do eksperymentów na myszach/szczurach (dźwignia, światła, głośniki, podajnik jedzenia, kratka rażająca prądem.
+
+## Iwan Piotrowicz Pawłow
+
+1849-1936
+
+Rosyjski fizjolog, nagroda nobla w 1904. 
+
+Na ostatnim roku przygotowań do zostania popem przeczytał “Odruchy Mózgowe” Sieczenowa i zrezygnował z kontynuacji kariery duchownego.
+
+Badał fizjologię trawienia u psów.
+
+Zaobserwował reakcję ślinianek psów na dźwięk butów karmiciela (zanim poczuły karmę)
+
+### Warunkowanie klasyczne (I typu)
+
+Forma uczenia się, w której początkowo neutralny bodziec zaczyna wywoływać pożądaną reakcję (wcześniej wywoływaną tylko przez bodziec bezwarunkowy)
+
+Bodziec warunkowy (wcześniej niekojarzony z reakcją) po serii wzmocnień sam jest w stanie wywoływać reakcję.
+
+By warunkowo zadziałało odstęp czasowy pomiędzy bodźcem bezwarunkowym nie może być zbyt duży (u psów Pawłowa 0,5 sekundy).
+
+## Thorndike
+
+Badania nad kurczakami w labiryncie (uczyły się one).
+
+Skrzynki problemowe (dla kotów/gołębi)
+
+### Prawo efektu
+
+Reakcja, która spowodowała satysfakcjonujący rezultat, w danej sytuacji, będzie z większym prawdopodobieństwem powtarzana w przyszłości (i na odwrót →  niesatyfakcjonujący rezultat/brak satysfakcji, będzie z omijana w przyszłości)
+
+### Warunkowanie sprawcze (II typu)
+
+Najważniejsze pojęcie: wzmocnienie vs hamowanie
+
+Głodny ptak w klatce 
+
+Faza 1 - losowe zachowania
+
+Faza 2 - przypadkowe naciśnięcie dźwigni
+
+Faza 3 - natychmiastowe pojawienie się pokarmu
+
+Faza 4 - przejście z losowych zachowań do intencjonalnych
+
+> 
+
+  Najważniejsza różnica w stosunku do warunkowania klasycznego → aktywność podmiotu. W typie I: rzeczy **dzieją się warunkowanej istocie.**
+
+1. Wzmocnienie pozytywne → Podanie bodźca apetytywnego = Coś dobrego dajemy
+2. Wzmocnienie negatywne → Usunięcie bodźca awersyjnego = Coś złego zabieramy 
+3. Karanie pozytywne → Podanie bodźca awersyjnego = Coś złego dajemy
+4. Karanie negatywne → Odebranie bodźca apetytywnego = Coś dobrego odbieramy
+## Neobehawioryzm
+
+## Edward Tolman
+
+1886-1959
+
+Od 1922 krytyk Watsona i zwolennik zmiany w fundamencie S-R.
+
+Podstawa: ten sam S daje różne R, albo różne S ten sam R, albo ten sam R z różnych S itp.
+
+Dodał więc S→O→R, gdzie O to zmienne pośredniczące.
+
+## Dziś
+
+Raczej grupa CBT zamiast czystego behawioryzmu.
+
+Cel → poprawa jakości życia, co osiąga się poprzez modyfikację zachowań i sposobu myślenia
+
+# Wykład 8. Wielkie prądy - psychologia humanistyczna
+
+Klient jako **podmiot**, a nie przedmiot.
+
+## Postulaty
+
+[wstaw slajd]
+
+## Zewnątrzsterowność i wewnątrzsterowność
+
+Julian Rotter: w oparciu o behawioryzm opisał: Locus of Control - umiejscowienie poczucia kontroli
+
+> Pozycja w kwestionariuszu to *item*.
+
+Psychologia zakłada, że człowiek jest wewnątrzsterowny domyślnie.
+
+Twierdzi, że w każdym człowieku jest potencjał wewnątrz sterowności, który realizuje się kiedy nic go nie powstrzymuje.
+
+### Samoaktualizacja
+
+Stałe dążenie do realizacji swojego potencjału rozwijania talentów i możliwości, proces stawania się “tym, kim się chce być”
+
+Dążenie do wewnętrznej spójności, jedności z samym sobą, spełnienia swojego przeznaczenia lub powołania.
+
+## Abraham Maslow
+
+Współtwórca i jeden z najważniejszych badaczy psychologii humanistycznej i (później) psychologii transpersonalnej.
+
+### Hierarchiczny model potrzeb
+
+Potrzeba samorealizacji
+
+Potrzeba uznania
+
+Potrzeba przynależności i miłości
+
+Potrzeba bezpieczeństwa
+
+Potrzeby fizjologiczne
+
+## Carl Rogers
+
+1902-1987
+
+Psycholog ze znaczącym dorobkiem w obszarze pedagogiki
+
+Autor specyficznego podejścia psychoterapeutycznego skoncentrowanego na kliencie (albo orientacją niekierowaną)
+
+### Teoria osobowości Rogersa
+
+uważał, że nie jest “skończona”, “teoria w drodze”
+
+subiektywny punkt widzenia - nie ma prawdy obiektywnej
+
+Pole fenomenologiczne - wewnętrzne poznawcza koncepcja rzeczywistości, składa się z doświadczeń świadomych i nieświadomych. Doświadczenia świadome: symboliczne, głównie słowne, czynnościowe. Doświadczenia nieświadome: subcepcja - nieświadome akty pamięci.
+
+Człowiek z natury jest dobry.
+
+Tendencja aktualizująca - jest to wrodzona dążność organizmu do rozwoju wszystkich jego możliwości w sposób, który służy zachowaniu czy udoskonaleniu tegoż organizmu.
+
+Organizm reaguje na pole fenomenlogoczine jako zorganizowana całość - podejście holistyczne.
+
+Organizm jest systemem zorganizowanym w jedną całość i zmiana w jakiejś jednej części powoduje zmiany w innych jego częściach.
+
+### Szkołą terapeutyczna
+
+Terapia skoncentrowana na kliencie (psychoterapia rogersowska, rogeriańska)
+
+Cele terapii:
+
+1. samorealizacja pacjenta
+2. zwiększenie poczucia własnej wartości
+Pole fenomenologiczne jest poznawczą reprezentacją rzeczywistości.
+
+Praca nad niezgodnościami - między spostrzeganiem ja a doświadczeniem organizmu; międzyja realnym i ja idealnym.
+
+### Różne ja
+
+realne - idealne - powinnościowe
+
+## Charlotte Buhler
+
+1893-1974
+
+Z domu Małachowski. Niemiecka psycholożka, badaczka w obszarach psychologii rozwojowej i humanistycznej w 1938 wyemigrowała do Norwegii a później do USA, z Norwegii wyjechała w ostatniej chwili. 
+
+Stwierdziła, że człowiek rozwija się całe życie (prekursorka life-span development).
+
+Ustaliła rodzaje inteligencji (skrystalizowana i płynna) itp.
+
+## Gordon Allport
+
+#### Teoria cech
+
+mamy w sobie *cechy *i *stany*
+
+Cechy - względnie stałe
+
+Stany - chwilowe
+
+Cechy nie można zaobserwować bezpośrednio, tylko przez zachowanie.
+
+Jaki jest związek między cechami, a sytuacjami?
+
+Nie tylko poprzez reakcję uwidocznioną w zachowaniu, ale także poprzez dobór sytuacji.
+
+Trzy poziomy cech:
+
+- Dominujące - rzadkie, tworzące się latami, dominujące w postaci danej osoby (nie wszyscy je mają)
+- Centralne - główne cechy (od 5 do 10) kształtujące osobowość konkretnej jednostki (mamy je wszyscy)
+- Wtórne - bardziej powierzchowne i przez to mniej istotne, pojawiają się jedynie okazjonalne, są stymulowane przez bodźce.
+Badania nad teorią były zbudowane na 55 studentach. Allport nie chciał wprowadzać bardziej zaawansowanych statystyk.
+
+### Psychologia transpersonalna
+
+Odklejone nieco, wyrośnięte z humanistycznej i nieco porzucone.
+
+#### Timothy Leary
+
+Filozof, pisarz, psycholog, prof. na Harvardzie
+
+Jeden z inicjatorów powstania ruchu hippisowskiego
+
+Entuzjasta LSD (uznał je za sakrament w założonej przez siebie w Lidze Duchowych Odkryć).
+
+> “Turn on, tune in, drop out”
+
+Przyczynił się do śmierci kobiety i poszedł za to do więzienia.
+
+## Viktor Frankl
+
+Doktor filozofii, profesor neurologii i psychiatrii.
+
+Więzień trzech różnych obozów koncentracyjnych.
+
+“Człowiek w poszukiwaniu sensu”.
+
+Zaczynał terapię od pytania: “Dlaczego nie popełni pan/pani samobójstwa?” 
+
+## Terapia humanistyczna
+
+“Terapia MHM” - terapeuta dużo się zgadza, potakuje, nie robi dużo aktywnie
+
+opozycja do behawioryzmu i psychoanalizy
+
+klient, nie pacjent
+
+### Triada Rogersa
+
+Trzy filary:
+
+1. Akceptacja - tego, co klient mówi, myśli, jak postrzega sytuację, w której się znajduje. Terapeuta odpowiedzialny jest za stworzenie takiej atmosfery, w której klient będzie bezwarunkowo akceptowany.
+2. Empatia - współodczuwanie z klientem.
+3. Autentyczność terapeuty - nie może leczyć alkoholizmu samemu pijąc.
+### Terapia egzystencjalna
+
+Viktor Frankl
+
+Nie ma sztywnych zasad - terapeuta dostosowuje się do indywidualności pacjenta/kleinta
+
+Daleko posunięta autentyczność terapeuty (może dzielić się odczuciami, emocjami, płakać itp.)
+
+Podejście holistyczne - bez podziału na psychę i somę
+
+> *“Skończona długość życia nakłada na człowieka odpowiedzialność za własną egzystencję, przestrzegany system wartości i realizację własnego potencjału*”
+
 ### to, co nadejdzie…….
 
 Niektóre tematy będą złączone między wykładami (bo jest ich 14, a wyk. 12)

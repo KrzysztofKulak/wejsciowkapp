@@ -1,0 +1,847 @@
+{
+  "bookId": "prezentacja-psychologia-humanistyczna",
+  "chapterId": "slajdy-1-24",
+  "chapterTitle": "slajdy 1–24",
+  "sourceHash": "d2b8b1f5e651b4bcc427720ef0adbb12ba54aa29",
+  "questions": [
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-01",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Psychologia humanistyczna bywa nazywana „trzecią siłą”, ponieważ powstała obok:"
+      ],
+      "correct": [
+        "psychoanalizy i behawioryzmu"
+      ],
+      "distractors": [
+        "psychologii poznawczej i ewolucyjnej",
+        "behawioryzmu i psychologii poznawczej",
+        "psychoanalizy i psychologii Gestalt",
+        "strukturalizmu i funkcjonalizmu",
+        "psychologii społecznej i rozwojowej",
+        "neuropsychologii i psychiatrii"
+      ],
+      "explanation": "Trzecia siła: psychoanaliza – psychologia humanistyczna – behawioryzm.",
+      "sourceExcerpt": "Slajd 2: Trzecia siła – Psychoanaliza, Psychologia humanistyczna, Behawioryzm",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-02",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Nurt humanistyczny powstał jako wyraz buntu przeciwko:"
+      ],
+      "correct": [
+        "determinizmowi psychoanalizy i behawioryzmu"
+      ],
+      "distractors": [
+        "indeterminizmowi psychologii poznawczej",
+        "metodzie eksperymentalnej Wundta",
+        "teorii konstruktów osobistych",
+        "religii i filozofii",
+        "badaniom nad uczeniem się ludzi",
+        "terapiom skoncentrowanym na kliencie"
+      ],
+      "explanation": "Humaniści sprzeciwiali się wyjaśnianiu człowieka nieświadomymi popędami (psychoanaliza) lub bodźcami środowiska (behawioryzm).",
+      "sourceExcerpt": "Slajd 3: Nurt humanistyczny powstał jako wyraz buntu przeciwko determinizmowi psychoanalizy i behawioryzmu",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-03",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Psychologia humanistyczna kładzie nacisk na:"
+      ],
+      "correct": [
+        "wolną wolę, potencjał rozwojowy i holizm"
+      ],
+      "distractors": [
+        "nieświadome popędy i konflikty z dzieciństwa",
+        "wpływ bodźców środowiska na reakcje",
+        "czarną skrzynkę między bodźcem a reakcją",
+        "obiektywny pomiar obserwowalnych zachowań",
+        "genetyczne uwarunkowania cech osobowości",
+        "karę jako główną metodę wychowania"
+      ],
+      "explanation": "Nacisk: wolna wola i świadome kierowanie sobą, potencjał rozwojowy, holizm (człowiek jako całość).",
+      "sourceExcerpt": "Slajd 3: Kładzie nacisk na: Wolną wolę i świadome kierowanie sobą. Potencjał rozwojowy człowieka. Holistyczne spojrzenie na człowieka jako całość.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-04",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Kurt Goldstein, badając następstwa uszkodzeń mózgu, zauważył, że ludzi zdrowych od zaburzonych odróżnia:"
+      ],
+      "correct": [
+        "mechanizmy samoregulacji i samorozwoju"
+      ],
+      "distractors": [
+        "większa liczba wzmocnień w dzieciństwie",
+        "silniejsze mechanizmy obronne",
+        "mniejsza liczba konstruktów poznawczych",
+        "lepsza pamięć robocza",
+        "brak nieświadomych konfliktów",
+        "wyższy poziom inteligencji ogólnej"
+      ],
+      "explanation": "Goldstein (inspiracja humanistów): zdrowy organizm ma mechanizmy samoregulacji i samorozwoju; tendencja do samorealizacji to cecha każdej zdrowej osoby.",
+      "sourceExcerpt": "Slajd 3: zdrowy organizm jest wyposażony w mechanizmy samoregulacji i samorozwoju. Tendencja do samorealizacji jest właściwością każdej zdrowej osoby.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-05",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Maslow swoje dociekania nad samorealizacją rozpoczął od prób zrozumienia:"
+      ],
+      "correct": [
+        "podziwianych przez siebie nauczycieli"
+      ],
+      "distractors": [
+        "pacjentów z zaburzeniami psychicznymi",
+        "zachowań zwierząt w laboratorium",
+        "dzieci z rodzin dysfunkcyjnych",
+        "przestępców w więzieniach",
+        "żołnierzy po wojnie",
+        "studentów słabo się uczących"
+      ],
+      "explanation": "Maslow chciał zrozumieć swoich nauczycieli (Max Wertheimer, Ruth Benedict) – „najlepszych reprezentantów rodzaju ludzkiego”.",
+      "sourceExcerpt": "Slajd 6: Punktem wyjścia stały się usiłowania młodego intelektualisty, aby zrozumieć swych nauczycieli, których kochał, uwielbiał i podziwiał",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-06",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Maslow podzielił potrzeby na dwie grupy:"
+      ],
+      "correct": [
+        "potrzeby braku i potrzeby wzrostu"
+      ],
+      "distractors": [
+        "potrzeby wrodzone i nabyte",
+        "potrzeby świadome i nieświadome",
+        "potrzeby indywidualne i społeczne",
+        "potrzeby pozytywne i negatywne",
+        "potrzeby centralne i peryferyjne",
+        "potrzeby ciała i potrzeby duszy"
+      ],
+      "explanation": "Hierarchia Maslowa: potrzeby braku (fizjologiczne, bezpieczeństwa, przynależności, szacunku) i wzrostu (poznawcze, estetyczne, samorealizacja, transcendencja).",
+      "sourceExcerpt": "Slajd 8: Abraham Maslow opracował hierarchię potrzeb, dzieląc je na potrzeby braku i potrzeby wzrostu",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-07",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Potrzeby braku, w odróżnieniu od potrzeb wzrostu:"
+      ],
+      "correct": [
+        "są zaspokajane dla redukcji napięcia i zależą od otoczenia"
+      ],
+      "distractors": [
+        "dostarczają pozytywnych emocji i nie zależą od otoczenia",
+        "nie tworzą hierarchii i mogą się zastępować",
+        "pojawiają się dopiero po samorealizacji",
+        "dotyczą wiedzy, piękna i moralności",
+        "są zaspokajane tylko przez samego człowieka",
+        "nie mają wpływu na zachowanie"
+      ],
+      "explanation": "Braku: redukcja napięcia, zależą od otoczenia. Wzrostu: pozytywne emocje, zaspokojenie niezależne od otoczenia.",
+      "sourceExcerpt": "Slajd 8: Potrzeby braku: Zaspokajane dla redukcji napięcia. Zależą od otoczenia. Potrzeby wzrostu: Dostarczają pozytywnych emocji. Zaspokojenie ich jest niezależne od otoczenia.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-08",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Potrzeby wzrostu (poznawcze, estetyczne, moralne, transcendencji):"
+      ],
+      "correct": [
+        "nie tworzą hierarchii – mogą płynnie zastępować jedna drugą"
+      ],
+      "distractors": [
+        "tworzą ścisłą hierarchię jak potrzeby braku",
+        "są zaspokajane dla redukcji napięcia",
+        "zależą przede wszystkim od otoczenia",
+        "pojawiają się przed potrzebami fizjologicznymi",
+        "są właściwe tylko dzieciom",
+        "dotyczą wyłącznie zdrowia fizycznego"
+      ],
+      "explanation": "Potrzeby wzrostu nie tworzą hierarchii – mogą płynnie zastępować jedna drugą.",
+      "sourceExcerpt": "Slajd 11: Potrzeby wzrostu nie tworzą hierarchii – mogą płynnie zastępować jedna drugą",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-09",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Samoaktualizacja (samorealizacja) według Maslowa to:"
+      ],
+      "correct": [
+        "ciągłe dążenie do rozwinięcia swojego potencjału"
+      ],
+      "distractors": [
+        "jednorazowe osiągnięcie pełnego zadowolenia",
+        "zaspokojenie wszystkich potrzeb fizjologicznych",
+        "uzyskanie szacunku i uznania innych osób",
+        "redukcja napięcia wywołanego brakiem",
+        "dopasowanie się do oczekiwań otoczenia",
+        "pomaganie innym w ich własnym rozwoju"
+      ],
+      "explanation": "Samoaktualizacja – ciągłe dążenie do realizacji wewnętrznego potencjału i pełnego rozwinięcia wrodzonych talentów i predyspozycji.",
+      "sourceExcerpt": "Slajd 10: Samoaktualizacja / samorealizacja ciągłe dążenie do realizacji swojego wewnętrznego potencjału oraz do pełnego rozwinięcia wrodzonych talentów i predyspozycji",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-10",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Do potrzeb braku według Maslowa należy potrzeba:"
+      ],
+      "correct": [
+        "szacunku"
+      ],
+      "distractors": [
+        "samorealizacji",
+        "estetyczna",
+        "poznawcza",
+        "transcendencji",
+        "moralna",
+        "twórczości"
+      ],
+      "explanation": "Potrzeby braku: fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku. Wzrostu: poznawcze, estetyczne, moralne, transcendencji, samorealizacja.",
+      "sourceExcerpt": "Slajd 9: Potrzeby braku – fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-11",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Pożywienie, woda, sen i schronienie to przedmiot najbardziej elementarnych potrzeb. Według Maslowa jest to:"
+      ],
+      "correct": [
+        "potrzeba fizjologiczna"
+      ],
+      "distractors": [
+        "potrzeba bezpieczeństwa",
+        "potrzeba przynależności i miłości",
+        "potrzeba szacunku (uznania)",
+        "potrzeba poznawcza",
+        "potrzeba estetyczna",
+        "potrzeba samorealizacji",
+        "potrzeba transcendencji"
+      ],
+      "explanation": "Fizjologiczne – pożywienie, schronienie, woda, sen, prokreacja; niezaspokojone zaburzają organizm na najbardziej podstawowym poziomie.",
+      "sourceExcerpt": "Slajd 9: potrzeby fizjologiczne – najbardziej elementarne potrzeby pożywienia, schronienia, wody, snu, prokreacji",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-12",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Pani Ewa po przeprowadzce przede wszystkim montuje zamki, szuka stałej pracy i umowy na czas nieokreślony. Najsilniej działa tu:"
+      ],
+      "correct": [
+        "potrzeba bezpieczeństwa"
+      ],
+      "distractors": [
+        "potrzeba fizjologiczna",
+        "potrzeba przynależności i miłości",
+        "potrzeba szacunku (uznania)",
+        "potrzeba poznawcza",
+        "potrzeba estetyczna",
+        "potrzeba samorealizacji",
+        "potrzeba transcendencji"
+      ],
+      "explanation": "Bezpieczeństwo – brak zagrożeń, unikanie bólu i lęku, stabilność środowiska, redukowanie niepewności.",
+      "sourceExcerpt": "Slajd 9: potrzeby bezpieczeństwa braku zagrożeń, unikania bólu, cierpienia i lęku, a także stabilności w środowisku oraz redukowania niepewności",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-13",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Student pierwszego roku bardzo chce zostać zaakceptowany przez nową grupę i znaleźć bliskich przyjaciół. Najsilniej działa tu:"
+      ],
+      "correct": [
+        "potrzeba przynależności i miłości"
+      ],
+      "distractors": [
+        "potrzeba fizjologiczna",
+        "potrzeba bezpieczeństwa",
+        "potrzeba szacunku (uznania)",
+        "potrzeba poznawcza",
+        "potrzeba estetyczna",
+        "potrzeba samorealizacji",
+        "potrzeba transcendencji"
+      ],
+      "explanation": "Przynależność i miłość – bycie akceptowanym, kochanym, tworzenie jedności, przynależność do grupy, wspólnoty.",
+      "sourceExcerpt": "Slajd 9: potrzeba przynależności i miłości – każdy pragnie być akceptowany i kochany, tworzyć z kimś jedność, przynależeć do grupy, wspólnoty",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-14",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Pracownik podejmuje coraz trudniejsze zadania, by udowodnić sobie i innym, że jest wart uznania i awansu. Najsilniej działa tu:"
+      ],
+      "correct": [
+        "potrzeba szacunku (uznania)"
+      ],
+      "distractors": [
+        "potrzeba fizjologiczna",
+        "potrzeba bezpieczeństwa",
+        "potrzeba przynależności i miłości",
+        "potrzeba poznawcza",
+        "potrzeba estetyczna",
+        "potrzeba samorealizacji",
+        "potrzeba transcendencji"
+      ],
+      "explanation": "Szacunek – ze strony innych i dla siebie; sprostanie wyzwaniom, by udowodnić, że jest się wartym szacunku.",
+      "sourceExcerpt": "Slajd 9: potrzeba szacunku – ze strony innych, ale także dla siebie samego (stara się sprostać zadaniom i wyzwaniom udowadniając sobie i innym, że jest wart szacunku)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-15",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Emerytowana nauczycielka poświęca czas, by pomagać młodym ludziom w rozwijaniu ich talentów i realizacji potencjału. Według 8-stopniowej piramidy Maslowa kieruje nią:"
+      ],
+      "correct": [
+        "potrzeba transcendencji"
+      ],
+      "distractors": [
+        "potrzeba fizjologiczna",
+        "potrzeba bezpieczeństwa",
+        "potrzeba przynależności i miłości",
+        "potrzeba szacunku (uznania)",
+        "potrzeba poznawcza",
+        "potrzeba estetyczna",
+        "potrzeba samorealizacji"
+      ],
+      "explanation": "Transcendencja – na szczycie rozszerzonej piramidy: pomoc innym w samorealizacji.",
+      "sourceExcerpt": "Ilustracja (slajd 12, piramida potrzeb): od dołu – biologiczne i fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku (uznania), poznawcze, estetyczne, samorealizacja, transcendencja (pomoc innym w samorealizacji)",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-16",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Osoba z zachwytem odwiedza muzea i dba o harmonię i piękno swojego otoczenia. Najsilniej działa tu:"
+      ],
+      "correct": [
+        "potrzeba estetyczna"
+      ],
+      "distractors": [
+        "potrzeba fizjologiczna",
+        "potrzeba bezpieczeństwa",
+        "potrzeba przynależności i miłości",
+        "potrzeba szacunku (uznania)",
+        "potrzeba poznawcza",
+        "potrzeba samorealizacji",
+        "potrzeba transcendencji"
+      ],
+      "explanation": "Potrzeby estetyczne – piękno, równowaga, forma (potrzeby wzrostu).",
+      "sourceExcerpt": "Ilustracja (slajd 12, piramida potrzeb): od dołu – biologiczne i fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku (uznania), poznawcze, estetyczne, samorealizacja, transcendencja (pomoc innym w samorealizacji)",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-17",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "W rozszerzonej, 8-stopniowej piramidzie potrzeb Maslowa na samym szczycie znajduje się:"
+      ],
+      "correct": [
+        "transcendencja – pomoc innym w samorealizacji"
+      ],
+      "distractors": [
+        "samorealizacja – osobisty rozwój",
+        "potrzeba szacunku – osiągnięcia i reputacja",
+        "potrzeby poznawcze – wiedza i znaczenie",
+        "potrzeby estetyczne – piękno i forma",
+        "potrzeba przynależności – rodzina i związek",
+        "potrzeby fizjologiczne – jedzenie i sen"
+      ],
+      "explanation": "Od dołu: fizjologiczne, bezpieczeństwa, przynależności, szacunku, poznawcze, estetyczne, samorealizacja, transcendencja.",
+      "sourceExcerpt": "Ilustracja (slajd 12, piramida potrzeb): od dołu – biologiczne i fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku (uznania), poznawcze, estetyczne, samorealizacja, transcendencja (pomoc innym w samorealizacji)",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-18",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "W rozszerzonej piramidzie potrzeb Maslowa potrzeby poznawcze (wiedza, znaczenie, samoświadomość) znajdują się bezpośrednio nad potrzebami:"
+      ],
+      "correct": [
+        "szacunku (uznania)"
+      ],
+      "distractors": [
+        "estetycznymi",
+        "bezpieczeństwa",
+        "przynależności i miłości",
+        "fizjologicznymi",
+        "samorealizacji",
+        "transcendencji"
+      ],
+      "explanation": "Kolejność: … przynależności → szacunku → poznawcze → estetyczne → samorealizacja → transcendencja.",
+      "sourceExcerpt": "Ilustracja (slajd 12, piramida potrzeb): od dołu – biologiczne i fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku (uznania), poznawcze, estetyczne, samorealizacja, transcendencja (pomoc innym w samorealizacji)",
+      "difficulty": 3,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-19",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Na zarzut braku empirycznej weryfikacji piramidy potrzeb Maslow odpowiadał m.in., że:"
+      ],
+      "correct": [
+        "osoby wychowane w miłości mogą nie podlegać hierarchii"
+      ],
+      "distractors": [
+        "piramida została potwierdzona w tysiącach badań",
+        "potrzeby wzrostu zawsze poprzedzają potrzeby braku",
+        "pełny brzuch jest cenniejszy niż szacunek do siebie",
+        "hierarchia dotyczy wyłącznie zwierząt laboratoryjnych",
+        "żadne potrzeby nie wpływają na zachowanie dorosłych",
+        "samorealizacja jest dostępna tylko w dzieciństwie"
+      ],
+      "explanation": "Maslow: dorośli wychowani w bezpieczeństwie i miłości mogą nie podlegać determinizmowi potrzeb podstawowych; szacunek do siebie ceniony wyżej niż pełny brzuch.",
+      "sourceExcerpt": "Slajd 14: osoby, które wzrastały w sprzyjającej atmosferze poczucia bezpieczeństwa i miłości jako dorosłe nie muszą podlegać determinizmowi potrzeb podstawowych",
+      "difficulty": 3,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-20",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Carl Rogers doszedł do wniosku, że natura ludzka jest z gruntu dobra, obserwując, że jego pacjenci:"
+      ],
+      "correct": [
+        "zmieniali się na lepsze dzięki samej akceptującej atmosferze"
+      ],
+      "distractors": [
+        "zmieniali się dopiero po zastosowaniu nagród i kar",
+        "zdrowieli dopiero po trafnej interpretacji ich snów",
+        "poprawiali się wyłącznie po treningu nowych zachowań",
+        "nie zmieniali się mimo akceptującej atmosfery",
+        "zmieniali się dopiero po zmianie swoich konstruktów",
+        "zdrowieli głównie dzięki hipnozie i sugestii"
+      ],
+      "explanation": "Rogers: bez innych interwencji niż wspierająca atmosfera ludzie stawali się lepsi, odchodząc od nieautentycznych póz agresji i lęku.",
+      "sourceExcerpt": "Slajd 16: Osoby w terapii nie były poddawane żadnym innym interwencjom poza wspierającą atmosferą spotkania, co doprowadziło Rogersa do sformułowania podstawowego założenia – natura ludzka jest zasadniczo dobra",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-21",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Według Rogersa wrodzony biologiczny potencjał rozwojowy człowieka zależy:"
+      ],
+      "correct": [
+        "najpierw od środowiska, potem też od własnej aktywności"
+      ],
+      "distractors": [
+        "wyłącznie od genów, niezależnie od środowiska",
+        "wyłącznie od wzmocnień otrzymanych w dzieciństwie",
+        "tylko od aktywności własnej, już od urodzenia",
+        "najpierw od własnej aktywności, potem od środowiska",
+        "wyłącznie od nieświadomych popędów i konfliktów",
+        "tylko od jakości terapii, którą odbędzie"
+      ],
+      "explanation": "Rogers: człowiek ma wrodzony potencjał rozwojowy, początkowo zależny od środowiska, później także od własnej aktywności.",
+      "sourceExcerpt": "Slajd 17: człowiek dysponuje wrodzonym biologicznym potencjałem rozwojowym, który początkowo zależny jest od środowiska, a następnie także od aktywności własnej osoby",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-22",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Rogers podkreślał znaczenie bezwarunkowej akceptacji w wychowaniu dzieci, ponieważ:"
+      ],
+      "correct": [
+        "we wczesnym życiu samoocena odzwierciedla to, jak oceniają nas inni"
+      ],
+      "distractors": [
+        "dzieci nie potrzebują szacunku dla samych siebie",
+        "akceptacja zastępuje potrzeby fizjologiczne",
+        "akceptacja jest najsilniejszym wzmocnieniem negatywnym",
+        "samoocena jest całkowicie wrodzona",
+        "dzieci uczą się wyłącznie przez obserwację",
+        "akceptacja eliminuje potrzebę samorealizacji"
+      ],
+      "explanation": "Każdy potrzebuje szacunku dla siebie (pozytywnej samooceny); u dziecka samoocena odbija oceny innych – stąd bezwarunkowa akceptacja.",
+      "sourceExcerpt": "Slajd 18: W początkowych etapach życia samoocena jest odzwierciedleniem tego jak oceniają nas inni. Stąd doniosłe znaczenie bezwarunkowej akceptacji w wychowywaniu dzieci.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-23",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Pole fenomenologiczne w teorii Rogersa to:"
+      ],
+      "correct": [
+        "ogół doświadczeń, szerszy niż pole świadomości"
+      ],
+      "distractors": [
+        "ta część doświadczeń, którą da się zwerbalizować",
+        "zbiór wyuczonych reakcji na bodźce",
+        "system osobistych konstruktów poznawczych",
+        "część nieświadomości wypartej przez ego",
+        "obraz siebie, jaki mają o nas inni",
+        "hierarchia potrzeb człowieka"
+      ],
+      "explanation": "Pole fenomenologiczne – wszystko, co dzieje się w organizmie i może być dostępne świadomości; świadomość to tylko jego zwerbalizowana część.",
+      "sourceExcerpt": "Slajd 19: Ogół doświadczeń tworzy pole fenomenologiczne, które nie jest tożsame z polem świadomości",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-24",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Świadomość w teorii Rogersa obejmuje tę część pola fenomenologicznego, która:"
+      ],
+      "correct": [
+        "jest możliwa do zwerbalizowania"
+      ],
+      "distractors": [
+        "została wyparta przez mechanizmy obronne",
+        "jest dostępna tylko w hipnozie",
+        "dotyczy wyłącznie potrzeb fizjologicznych",
+        "jest wspólna wszystkim ludziom",
+        "została wzmocniona przez otoczenie",
+        "zawiera konstrukty peryferyjne"
+      ],
+      "explanation": "Świadomość = komponent pola fenomenologicznego możliwy do zwerbalizowania; u zdrowej osoby większość doświadczeń można zwerbalizować.",
+      "sourceExcerpt": "Slajd 19: Świadomość zawiera ten komponent pola fenomenologicznego, który jest możliwy do zwerbalizowania",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-25",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Według Rogersa lęk pojawia się, gdy:"
+      ],
+      "correct": [
+        "doświadczenia są obronnie zniekształcane"
+      ],
+      "distractors": [
+        "większość doświadczeń zostaje zwerbalizowana",
+        "pole fenomenologiczne pokrywa się ze świadomością",
+        "osoba otrzymuje bezwarunkową akceptację",
+        "ja realne jest zgodne z ja idealnym",
+        "osoba kieruje się własną intuicją",
+        "terapeuta jest wobec klienta autentyczny"
+      ],
+      "explanation": "Im większa część pola fenomenologicznego poza świadomością (zniekształcanie, zaprzeczanie), tym silniejsze napięcie i lęk.",
+      "sourceExcerpt": "Slajd 20: Jeśli doświadczenia są obronnie zniekształcane lub jeśli świadomość im zaprzecza, pojawia się lęk.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-26",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Kongruencja w teorii Rogersa to:"
+      ],
+      "correct": [
+        "spójność między polem fenomenologicznym a świadomością"
+      ],
+      "distractors": [
+        "podświadome spostrzeganie doświadczeń",
+        "rozbieżność między ja realnym a ja idealnym",
+        "zgodność zachowania z oczekiwaniami innych",
+        "całkowite stłumienie doświadczeń",
+        "dopasowanie konstruktów do rzeczywistości",
+        "bezwarunkowa akceptacja ze strony innych"
+      ],
+      "explanation": "Kongruencja – spójność pola fenomenologicznego i świadomości; subcepcja – podświadome spostrzeganie doświadczeń.",
+      "sourceExcerpt": "Slajd 20: Kongruencja: spójność między polem fenomenologicznym a świadomością. Subcepcja: podświadome spostrzeganie doświadczeń.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-27",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Subcepcja w teorii Rogersa to:"
+      ],
+      "correct": [
+        "podświadome spostrzeganie doświadczeń"
+      ],
+      "distractors": [
+        "spójność pola fenomenologicznego ze świadomością",
+        "zwerbalizowana część doświadczeń",
+        "obronne zaprzeczanie doświadczeniom",
+        "akceptacja siebie mimo wad",
+        "rozbieżność ja realnego i idealnego",
+        "wczuwanie się w świat klienta"
+      ],
+      "explanation": "Subcepcja – organizm rejestruje doświadczenia bez udziału świadomości.",
+      "sourceExcerpt": "Slajd 20: Subcepcja: podświadome spostrzeganie doświadczeń.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-28",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Według Rogersa znacząca rozbieżność między ja realnym (jaki jestem) a ja idealnym (jaki chciałbym być) prowadzi do:"
+      ],
+      "correct": [
+        "braku samoakceptacji i osobistego przystosowania"
+      ],
+      "distractors": [
+        "pełnej samorealizacji i spełnienia",
+        "wzrostu kongruencji i spójności ja",
+        "silniejszej intuicji i wglądu w siebie",
+        "lepszego kontaktu z doświadczeniem",
+        "wzmocnienia pozytywnej samooceny",
+        "zaspokojenia potrzeby szacunku"
+      ],
+      "explanation": "Koncepcja siebie: ja realne i ja idealne; duża rozbieżność → brak samoakceptacji, brak osobistego przystosowania.",
+      "sourceExcerpt": "Slajd 21: Ja realne (jaki jestem) oraz Ja idealne (jaki chciałbym być) – gdy jest pomiędzy nimi znacząca rozbieżność – brak samoakceptacji, brak osobistego przystosowania",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-29",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Terapia skoncentrowana na kliencie (Rogers) ma charakter:"
+      ],
+      "correct": [
+        "niedyrektywny"
+      ],
+      "distractors": [
+        "dyrektywny",
+        "behawioralny",
+        "interpretacyjny",
+        "awersyjny",
+        "farmakologiczny",
+        "instruktażowy"
+      ],
+      "explanation": "Terapia niedyrektywna: tworzy środowisko sprzyjające samorealizacji i usuwa bariery dla naturalnego dobra.",
+      "sourceExcerpt": "Slajd 22: Terapia skoncentrowana na kliencie – Ma charakter niedyrektywny",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-30",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Według Rogersa powodzenie terapii zależy od:"
+      ],
+      "correct": [
+        "autentyczności, akceptacji i empatii terapeuty"
+      ],
+      "distractors": [
+        "trafnych interpretacji snów i przeniesienia",
+        "konsekwentnego stosowania wzmocnień i kar",
+        "zmiany centralnych konstruktów klienta",
+        "szybkiej i trafnej diagnozy terapeuty",
+        "dyrektywnych poleceń i zadań terapeuty",
+        "ekspozycji klienta na bodziec lękowy"
+      ],
+      "explanation": "3 warunki: autentyczność terapeuty, pełna akceptacja (bezwarunkowo pozytywne nastawienie), empatyczne zrozumienie.",
+      "sourceExcerpt": "Slajd 24: autentyczności terapeuty, pełnej akceptacji, bezwarunkowo pozytywnego nastawienia do klienta, wrażliwego, precyzyjnego i empatycznego zrozumienia",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-31",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Terapeuta mówi do klientki: „Słyszę, że pod tą złością jest dużo żalu, że nikt cię nie wysłuchał”. W ujęciu Rogersa to przejaw:"
+      ],
+      "correct": [
+        "empatii"
+      ],
+      "distractors": [
+        "kongruencji",
+        "interpretacji",
+        "wzmocnienia",
+        "subcepcji",
+        "konfrontacji",
+        "modelowania"
+      ],
+      "explanation": "Empatia – wejście w świat percepcji klienta, wrażliwość na odczuwane znaczenia i komunikowanie ich, z odłożeniem swoich poglądów.",
+      "sourceExcerpt": "Slajd 23: Empatyczny sposób bycia z drugą osobą … Oznacza wejście w osobisty świat jej percepcji … Empatia obejmuje również komunikowanie twoich odczuć na temat świata tej osoby",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-32",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Empatia w ujęciu Rogersa wymaga od terapeuty, by na jakiś czas:"
+      ],
+      "correct": [
+        "odłożył na bok swoje poglądy i wartości"
+      ],
+      "distractors": [
+        "narzucił klientowi własne wartości",
+        "ocenił zachowanie klienta",
+        "ukrył przed klientem swoje odczucia",
+        "skupił się na zachowaniu, a nie przeżyciach",
+        "zinterpretował nieświadome motywy",
+        "nagradzał pożądane wypowiedzi"
+      ],
+      "explanation": "Empatia: trwanie w relacji oznacza odłożenie swoich poglądów i wartości, by bez uprzedzeń wejść w świat drugiego człowieka.",
+      "sourceExcerpt": "Slajd 23: na jakiś czas odkładasz na bok swoje poglądy i wartości, aby bez uprzedzeń wejść w świat drugiego człowieka",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Prezentacja: Psychologia humanistyczna"
+}

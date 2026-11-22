@@ -18,8 +18,11 @@
       "books": [
         "psychologia-i-zycie-zimbardo",
         "psychologia-podejscia-oraz-koncepcje-tavris",
+        "prezentacja-behawioryzm-i-uczenie-sie",
         "prezentacja-psychoanaliza-freudowska",
+        "prezentacja-psychologia-humanistyczna",
         "prezentacja-psychologia-jako-nauka",
+        "prezentacja-teoria-konstruktow-kelly",
         "wyklady-historia-i-wspolczesnosc"
       ]
     },
@@ -89,6 +92,18 @@
       ]
     },
     {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie",
+      "title": "Prezentacja: Behawioryzm i uczenie się",
+      "chapters": [
+        {
+          "id": "slajdy-1-32",
+          "title": "slajdy 1–32",
+          "questionCount": 66,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
       "id": "prezentacja-psychoanaliza-freudowska",
       "title": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
       "chapters": [
@@ -107,6 +122,18 @@
       ]
     },
     {
+      "id": "prezentacja-psychologia-humanistyczna",
+      "title": "Prezentacja: Psychologia humanistyczna",
+      "chapters": [
+        {
+          "id": "slajdy-1-24",
+          "title": "slajdy 1–24",
+          "questionCount": 32,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
       "id": "prezentacja-psychologia-jako-nauka",
       "title": "Prezentacja: Historia psychologii. Psychologia jako nauka",
       "chapters": [
@@ -114,6 +141,18 @@
           "id": "slajdy-1-20",
           "title": "slajdy 1–20",
           "questionCount": 34,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly",
+      "title": "Prezentacja: Teoria konstruktów osobistych Kelly'ego",
+      "chapters": [
+        {
+          "id": "slajdy-1-6",
+          "title": "slajdy 1–6",
+          "questionCount": 12,
           "cheatsheet": true
         }
       ]
@@ -157,6 +196,18 @@
           "title": "Wykład 6. Wielkie prądy - psychoanaliza",
           "questionCount": 45,
           "cheatsheet": true
+        },
+        {
+          "id": "wyklad-7",
+          "title": "Wykład 7. Wielkie prądy - behawioryzm",
+          "questionCount": 18,
+          "cheatsheet": true
+        },
+        {
+          "id": "wyklad-8",
+          "title": "Wykład 8. Wielkie prądy - psychologia humanistyczna",
+          "questionCount": 19,
+          "cheatsheet": true
         }
       ]
     },
@@ -192,6 +243,12 @@
           "id": "rozdzial-18-notatki-ai",
           "title": "Rozdział 18 – notatki AI (s. 448–473)",
           "questionCount": 85,
+          "cheatsheet": true
+        },
+        {
+          "id": "rozdzial-19-notatki-ai",
+          "title": "Rozdział 19 – notatki AI (s. 474–501)",
+          "questionCount": 142,
           "cheatsheet": true
         }
       ]
@@ -372,6 +429,45 @@
           "bookId": "psychologia-podejscia-oraz-koncepcje-tavris",
           "chapterId": "rozdzial-2",
           "questionCount": 31
+        }
+      ],
+      "cheatsheet": true
+    },
+    {
+      "id": "wejsciowka-2-behawioryzm-psychologia-humanistyczna-i-poznawcza",
+      "title": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
+      "tag": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
+      "questionCount": 225,
+      "sources": [
+        {
+          "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+          "chapterId": "slajdy-1-32",
+          "questionCount": 66
+        },
+        {
+          "bookId": "prezentacja-psychologia-humanistyczna",
+          "chapterId": "slajdy-1-24",
+          "questionCount": 32
+        },
+        {
+          "bookId": "prezentacja-teoria-konstruktow-kelly",
+          "chapterId": "slajdy-1-6",
+          "questionCount": 12
+        },
+        {
+          "bookId": "psychologia-i-zycie-zimbardo",
+          "chapterId": "behawioryzm-notatki-ai",
+          "questionCount": 78
+        },
+        {
+          "bookId": "wyklady-historia-i-wspolczesnosc",
+          "chapterId": "wyklad-7",
+          "questionCount": 18
+        },
+        {
+          "bookId": "wyklady-historia-i-wspolczesnosc",
+          "chapterId": "wyklad-8",
+          "questionCount": 19
         }
       ],
       "cheatsheet": true

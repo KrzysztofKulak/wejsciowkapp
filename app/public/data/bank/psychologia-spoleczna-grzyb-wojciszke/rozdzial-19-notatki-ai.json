@@ -1,0 +1,3276 @@
+{
+  "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+  "chapterId": "rozdzial-19-notatki-ai",
+  "chapterTitle": "Rozdział 19 – notatki AI (s. 474–501)",
+  "sourceHash": "a89d42747d9ad72b6fd41d8512ae690c93aeaa4f",
+  "questions": [
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-01",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według modelu treści stereotypu (MTS) grupy o wysokim statusie są spostrzegane przede wszystkim jako:"
+      ],
+      "correct": [
+        "kompetentne (sprawcze)"
+      ],
+      "distractors": [
+        "ciepłe (wspólnotowe)",
+        "ciepłe, ale niekompetentne",
+        "niekompetentne i zimne",
+        "przyjazne i bierne",
+        "moralne i uczciwe",
+        "zagrażające i wrogie"
+      ],
+      "explanation": "MTS: status (hierarchia) → spostrzegana kompetencja; konflikt/rywalizacja → spostrzegana wspólnotowość (ciepło).",
+      "sourceExcerpt": "s. 482: Zgodnie z przewidywaniami okazało się, że grupom o wysokim statusie przypisywano więcej kompetencji (ale nie wspólnotowości) niż grupom o statusie niskim (Caprariello, Cuddy i Fiske, 2009)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-02",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Dyrektor i sekretarka (Conway, Pizzamiglio i Mount, 1996) zachowują się odmiennie, bo wymagają tego ich role, a jednak dyrektor jest spostrzegany jako kompetentny, a sekretarka jako wspólnotowa. Odpowiada za to:"
+      ],
+      "correct": [
+        "podstawowy błąd atrybucji"
+      ],
+      "distractors": [
+        "efekt jednorodności grupy obcej",
+        "zagrożenie stereotypem",
+        "efekt sprężyny",
+        "infrahumanizacja",
+        "rekategoryzacja",
+        "międzygrupowa asymetria językowa"
+      ],
+      "explanation": "Zachowania wynikające z ról przypisujemy osobowości (błąd atrybucji) – stąd osoby o wysokim statusie wydają się kompetentne.",
+      "sourceExcerpt": "s. 482: Dyrektor i jego sekretarka zachowują się odmiennie, ponieważ tego wymagają pełnione przez nich role, jednak z powodu podstawowego błędu atrybucji ulegamy złudzeniu, że dyrektor jest obdarzony kompetencją, a nie wspólnotowością",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-03",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy, które nie rywalizują z naszą, spostrzegamy jako:"
+      ],
+      "correct": [
+        "ciepłe i życzliwe"
+      ],
+      "distractors": [
+        "kompetentne i sprawcze",
+        "zimne i nieprzyjazne",
+        "niekompetentne i bierne",
+        "zagrażające i wrogie",
+        "jednorodne i nudne",
+        "wyraziste i dziwne"
+      ],
+      "explanation": "Drugi wymiar MTS – rywalizacja/konflikt: grupy nierywalizujące – obdarzone wspólnotowością (ciepłe); rywalizujące – nieprzyjazne, wrogie.",
+      "sourceExcerpt": "s. 482: Grupy nierywalizujące z naszą spostrzegane są jako obdarzone cnotami wspólnotowymi, czyli są miłe, przyjazne, życzliwe i układne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-04",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W badaniu Russella i Fiske (2008) osoba, z którą badani mieli rywalizować („zwycięzca bierze wszystko”), w porównaniu z partnerem współpracy była oceniana jako:"
+      ],
+      "correct": [
+        "mniej wspólnotowa – i to jeszcze przed interakcją"
+      ],
+      "distractors": [
+        "bardziej wspólnotowa przed interakcją",
+        "mniej kompetentna, ale bardziej ciepła",
+        "tak samo ciepła jak partner współpracy",
+        "chłodniejsza dopiero po rozegraniu gry",
+        "bardziej kompetentna i bardziej ciepła",
+        "zupełnie obojętna emocjonalnie"
+      ],
+      "explanation": "Ryc. 19.4: wspólnotowość przed interakcją – rywalizacja 5,52 vs współpraca 6,33; po – 5,72 vs 6,53; różnica utrzymała się mimo identycznej gry.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.4, s. 482): ocena wspólnotowości przed interakcją – rywalizacja 5,52, współpraca 6,33; po interakcji – 5,72 i 6,53",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-05",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Zróżnicowanie grup na wymiarze sprawczości wynika według MTS z ich:"
+      ],
+      "correct": [
+        "położenia w hierarchii statusu"
+      ],
+      "distractors": [
+        "stopnia wzajemnej rywalizacji",
+        "liczebności",
+        "wieku członków",
+        "podobieństwa do grupy własnej",
+        "przynależności religijnej",
+        "języka, którym się posługują"
+      ],
+      "explanation": "Spostrzeganie na wymiarze sprawczości wynika ze zróżnicowania statusu, a na wymiarze wspólnotowości – z przyjazności lub rywalizacji.",
+      "sourceExcerpt": "s. 482: spostrzeganie grup na wymiarze sprawczości wynika z ich zróżnicowania statusu i je podtrzymuje, natomiast spostrzeganie grup na wymiarze wspólnotowości wynika z ich zróżnicowania pod względem przyjazności lub rywalizacji",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-06",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Emocjonalne reakcje na człowieka wywołane jego przynależnością do jakiejś grupy to:"
+      ],
+      "correct": [
+        "uprzedzenia"
+      ],
+      "distractors": [
+        "stereotypy",
+        "dyskryminacja",
+        "kategoryzacje",
+        "normy grupowe",
+        "mity legitymizujące",
+        "atrybucje"
+      ],
+      "explanation": "Stereotypy – struktury wiedzy (gotowe sądy); uprzedzenia – reakcje emocjonalne; dyskryminacja – zachowania.",
+      "sourceExcerpt": "s. 482: Stereotypy są powiązane z uprzedzeniami, czyli reakcjami emocjonalnymi na innego człowieka powstającymi nie z powodu jego indywidualnych własności, lecz z powodu jego przynależności do jakiejś stereotypizowanej grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-07",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Zachowania kierowane na członków różnych grup są silniej powiązane z:"
+      ],
+      "correct": [
+        "uprzedzeniami niż ze stereotypami"
+      ],
+      "distractors": [
+        "stereotypami niż z uprzedzeniami",
+        "wiedzą o grupie niż z emocjami",
+        "liczebnością grupy",
+        "statusem obserwatora",
+        "językiem opisu grupy",
+        "przypadkowymi czynnikami"
+      ],
+      "explanation": "Wpływ stereotypów na zachowanie jest zapośredniczony emocjami (Dovidio, Esses, Beach, Gaertner 2002).",
+      "sourceExcerpt": "s. 483: zachowania kierowane na członków różnych grup są silniej powiązane z uprzedzeniami niż z samymi stereotypami, a sądy i oceny wpływają na zachowanie za pośrednictwem emocji",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-08",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Anna Kowalska ubiega się o awans, ale zostaje oceniona jako nienadająca się na wysokie stanowisko i spotyka się z niechęcią, bo łamie stereotyp kobiecości. Ten mechanizm:"
+      ],
+      "correct": [
+        "podtrzymuje status quo – stereotyp, że władza jest męska"
+      ],
+      "distractors": [
+        "obala stereotyp, że władza jest męska",
+        "dowodzi, że kobiety są mniej skuteczne",
+        "jest przykładem rekategoryzacji",
+        "wynika z zagrożenia stereotypem u oceniających",
+        "jest przykładem efektu sprężyny",
+        "dotyczy wyłącznie grup obcych"
+      ],
+      "explanation": "Dyskryminacja zwrotnie wzmacnia relacje międzygrupowe; Anna pozostaje podwładną, podtrzymując stereotyp, choć kobiety i mężczyźni u władzy nie różnią się skutecznością.",
+      "sourceExcerpt": "s. 483: To podtrzymuje status quo stosunków międzygrupowych – Anna pozostaje na pozycji podwładnej, podtrzymując stereotyp, że władza jest dziedziną męską. Nie ma on nic wspólnego z rzeczywistością",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-09",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy spostrzegane jako wspólnotowe (ciepłe), ale mało kompetentne – np. staruszkowie czy kobiety w tradycyjnych rolach – budzą:"
+      ],
+      "correct": [
+        "litość"
+      ],
+      "distractors": [
+        "zawiść",
+        "pogarda",
+        "podziw",
+        "wstręt",
+        "lęk",
+        "duma"
+      ],
+      "explanation": "Litość – grupy ciepłe, mało sprawcze; emocja ambiwalentna: współczucie + smutek + ukryte poczucie wyższości (stereotyp paternalistyczny).",
+      "sourceExcerpt": "Ilustracja (ryc. 19.5, s. 483; Cuddy, Fiske, Glick 2007): oś pionowa – ciepło, pozioma – kompetencja; litość (ciepło wysokie, kompetencja niska), podziw (oba wysokie), pogarda (oba niskie), zawiść (kompetencja wysoka, ciepło niskie); aktywne ułatwianie (góra), aktywne szkodzenie (dół), bierne ułatwianie (prawo), bierne szkodzenie (lewo)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-10",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy kompetentne, ale wyzute ze wspólnotowości – np. bogacze, którzy „eksploatują innych” – budzą:"
+      ],
+      "correct": [
+        "zawiść"
+      ],
+      "distractors": [
+        "litość",
+        "pogarda",
+        "podziw",
+        "wstręt",
+        "lęk",
+        "duma"
+      ],
+      "explanation": "Zawiść – wysoka pozycja i złe intencje; łączy wrogość i smutek, często prowadzi do moralnego oburzenia.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.5, s. 483; Cuddy, Fiske, Glick 2007): oś pionowa – ciepło, pozioma – kompetencja; litość (ciepło wysokie, kompetencja niska), podziw (oba wysokie), pogarda (oba niskie), zawiść (kompetencja wysoka, ciepło niskie); aktywne ułatwianie (góra), aktywne szkodzenie (dół), bierne ułatwianie (prawo), bierne szkodzenie (lewo)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-11",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy pozbawione zarówno sprawczości, jak i wspólnotowości – np. bezdomni czy narkomani – budzą:"
+      ],
+      "correct": [
+        "pogardę"
+      ],
+      "distractors": [
+        "litość",
+        "zawiść",
+        "podziw",
+        "wdzięczność",
+        "dumę",
+        "nadzieję"
+      ],
+      "explanation": "Pogarda – niski status i wrogie intencje spostrzegane jako kontrolowane (osobista odpowiedzialność); towarzyszą jej gniew, obrzydzenie, niechęć.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.5, s. 483; Cuddy, Fiske, Glick 2007): oś pionowa – ciepło, pozioma – kompetencja; litość (ciepło wysokie, kompetencja niska), podziw (oba wysokie), pogarda (oba niskie), zawiść (kompetencja wysoka, ciepło niskie); aktywne ułatwianie (góra), aktywne szkodzenie (dół), bierne ułatwianie (prawo), bierne szkodzenie (lewo)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-12",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS przyjazne grupy o wysokiej pozycji, obdarzone cnotami sprawczymi i wspólnotowymi, budzą:"
+      ],
+      "correct": [
+        "podziw"
+      ],
+      "distractors": [
+        "litość",
+        "zawiść",
+        "pogardę",
+        "wstręt",
+        "lęk",
+        "współczucie"
+      ],
+      "explanation": "Podziw – grupy sprawcze i wspólnotowe, np. grupy dominujące, do których należymy; zasłużenie wysokie wyniki.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.5, s. 483; Cuddy, Fiske, Glick 2007): oś pionowa – ciepło, pozioma – kompetencja; litość (ciepło wysokie, kompetencja niska), podziw (oba wysokie), pogarda (oba niskie), zawiść (kompetencja wysoka, ciepło niskie); aktywne ułatwianie (góra), aktywne szkodzenie (dół), bierne ułatwianie (prawo), bierne szkodzenie (lewo)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-13",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Litość jest emocją ambiwalentną, ponieważ łączy:"
+      ],
+      "correct": [
+        "współczucie, smutek i wyższość"
+      ],
+      "distractors": [
+        "wrogość i smutek z zazdrości",
+        "gniew, obrzydzenie i nienawiść",
+        "podziw, szacunek i zazdrość",
+        "lęk, napięcie i fascynację",
+        "dumę, wstyd i poczucie winy",
+        "radość, ulgę i wdzięczność"
+      ],
+      "explanation": "Litość: pozytywne współczucie + negatywny smutek + mniej lub bardziej ukryte poczucie wyższości wobec obiektów stereotypu paternalistycznego.",
+      "sourceExcerpt": "s. 483: Jest emocją ambiwalentną – obejmuje zarówno pozytywne współczucie, jak i negatywny smutek oraz mniej lub bardziej ukryte poczucie wyższości w stosunku do osób stanowiących obiekty stereotypu paternalistycznego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-14",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Litość pojawia się (Weiner, 2005), gdy zły los osoby jest widziany jako:"
+      ],
+      "correct": [
+        "nieintencjonalny i poza jej kontrolą"
+      ],
+      "distractors": [
+        "zawiniony przez nią samą",
+        "zamierzony i kontrolowany",
+        "wynik jej wysokiego statusu",
+        "skutek jej wrogich intencji",
+        "zasłużona kara",
+        "chwilowy i nieistotny"
+      ],
+      "explanation": "Nieszczęśnik, który „sam się urządził” (odpowiedzialny za swój los), budzi nie litość, lecz pogardę lub gniew.",
+      "sourceExcerpt": "s. 483: Litość pojawia się wtedy, kiedy negatywne wyniki czy stan osoby są widziane jako nieintencjonalne i pozostające poza kontrolą nieszczęśnika, który popadł w tarapaty (Weiner, 2005)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-15",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Zawiść zawiera w sobie:"
+      ],
+      "correct": [
+        "wrogość i smutek"
+      ],
+      "distractors": [
+        "współczucie i poczucie wyższości",
+        "podziw i wdzięczność",
+        "obrzydzenie i lęk",
+        "radość i dumę",
+        "gniew i wstyd",
+        "ulgę i nadzieję"
+      ],
+      "explanation": "Zawiść: wrogość (obiekt osiągnął coś, co mu się nie należy) + smutek (podmiot tego nie osiągnął) → często moralne oburzenie.",
+      "sourceExcerpt": "s. 483: Zawiść zawiera w sobie wrogość (obiekt zawiści osiągnął coś pożądanego, co mu się jednak nie należy) i smutek (bo przeżywający emocje podmiot tego nie osiągnął)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-16",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS zachowania wobec grup różnią się na dwóch wymiarach:"
+      ],
+      "correct": [
+        "ułatwianie–szkodzenie, aktywność–bierność"
+      ],
+      "distractors": [
+        "ciepło–chłód, kompetencja–jej brak",
+        "izolacja–dyskryminacja grup obcych",
+        "faworyzacja–deprecjacja grup obcych",
+        "rekategoryzacja–dekategoryzacja grup",
+        "animalizacja–mechanizacja obcych",
+        "uleganie–konwersja pod wpływem grup"
+      ],
+      "explanation": "Ułatwianie–szkodzenie (czy działanie jest dla grupy korzystne) i aktywność–bierność (otwarte działanie vs zaniechanie).",
+      "sourceExcerpt": "s. 484: MTS zakłada dwa wymiary zróżnicowania działań kierowanych pod adresem owych grup. Po pierwsze, ułatwianie–szkodzenie … Po drugie, aktywność–pasywność",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-17",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Pomaganie członkom jakiejś grupy, wspieranie ich, zatrudnianie i awansowanie to w ujęciu MTS:"
+      ],
+      "correct": [
+        "aktywne ułatwianie"
+      ],
+      "distractors": [
+        "aktywne szkodzenie",
+        "bierne ułatwianie",
+        "bierne szkodzenie",
+        "izolacja",
+        "rekategoryzacja",
+        "infrahumanizacja"
+      ],
+      "explanation": "Aktywne ułatwianie – otwarte działania na rzecz zysku grupy (pomoc, wsparcie, ochrona, zatrudnienie, awans, przyjaźń).",
+      "sourceExcerpt": "s. 484: Aktywne ułatwianie to działania otwarcie skierowane na spowodowanie zysku jakiejś grupy: pomaganie, wspieranie i chronienie członków danej grupy przez ich popieranie, zatrudnianie, awansowanie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-18",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Atakowanie członków stereotypizowanej grupy, znieważanie ich i odrzucanie w bezpośrednich kontaktach to w ujęciu MTS:"
+      ],
+      "correct": [
+        "aktywne szkodzenie"
+      ],
+      "distractors": [
+        "aktywne ułatwianie",
+        "bierne ułatwianie",
+        "bierne szkodzenie",
+        "izolacja",
+        "rekategoryzacja",
+        "infrahumanizacja"
+      ],
+      "explanation": "Aktywne szkodzenie – działania jawnie skierowane na spowodowanie strat (atak, znieważanie, tyranizowanie, odrzucanie).",
+      "sourceExcerpt": "s. 484: Aktywne szkodzenie to działania jawnie skierowane na spowodowanie strat członków stereotypizowanych grupy – atakowanie, znieważanie, tyranizowanie, odrzucanie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-19",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Firma niechętnie, z konieczności zatrudnia członków odrzucanej grupy, bo ich umiejętności przyniosą jej korzyść. Zyski tej grupy są tu produktem ubocznym. W ujęciu MTS to:"
+      ],
+      "correct": [
+        "bierne ułatwianie"
+      ],
+      "distractors": [
+        "aktywne ułatwianie",
+        "aktywne szkodzenie",
+        "bierne szkodzenie",
+        "izolacja",
+        "rekategoryzacja",
+        "infrahumanizacja"
+      ],
+      "explanation": "Bierne ułatwianie – wymuszone współdziałanie; zyski członków grupy to jedynie produkt uboczny (np. zatrudnianie grupy odrzucanej, ale kompetentnej).",
+      "sourceExcerpt": "s. 484: Bierne ułatwianie to wymuszone współdziałanie z członkami danej grupy, przy czym zyski członków stereotypizowanej grupy są głównym celem…",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-20",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Pomijanie członków pewnej grupy przy awansach, ignorowanie ich i unikanie z nimi kontaktu to w ujęciu MTS:"
+      ],
+      "correct": [
+        "bierne szkodzenie"
+      ],
+      "distractors": [
+        "aktywne ułatwianie",
+        "aktywne szkodzenie",
+        "bierne ułatwianie",
+        "izolacja",
+        "rekategoryzacja",
+        "infrahumanizacja"
+      ],
+      "explanation": "Bierne szkodzenie – wyrządzanie krzywdy przez zaniechanie: pomijanie (np. w awansie), ignorowanie, wykluczanie, unikanie kontaktu.",
+      "sourceExcerpt": "s. 484: Wreszcie bierne szkodzenie to wyrządzanie krzywdy przez zaniechanie, pomijanie (np. w awansie), ignorowanie, wykluczanie czy unikanie kontaktu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-21",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy spostrzegane jako pozbawione wspólnotowości (zimne) spotykają się przede wszystkim z:"
+      ],
+      "correct": [
+        "aktywnym szkodzeniem"
+      ],
+      "distractors": [
+        "aktywnym ułatwianiem",
+        "biernym ułatwianiem",
+        "litością i opieką",
+        "podziwem",
+        "rekategoryzacją",
+        "pozytywną dyskryminacją"
+      ],
+      "explanation": "Ułatwianie–szkodzenie pokrywa się z ciepłem: ciepłe grupy → aktywne ułatwianie; zimne → aktywne szkodzenie (zapośredniczone zawiścią lub pogardą).",
+      "sourceExcerpt": "s. 485: grupy spostrzegane jako pozbawione wspólnotowości spotykają się z aktywnym szkodzeniem, co dla grup pozbawionych wspólnotowości, ale sprawczych, jest zapośredniczone emocją zawiści, dla grup pozbawionych wspólnotowości zaś, a przy tym pozbawionych sprawczości – emocją pogardy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-22",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według MTS grupy spostrzegane jako mało kompetentne spotykają się przede wszystkim z:"
+      ],
+      "correct": [
+        "biernym szkodzeniem"
+      ],
+      "distractors": [
+        "biernym ułatwianiem",
+        "aktywnym ułatwianiem",
+        "podziwem",
+        "zawiścią",
+        "rekategoryzacją",
+        "awansowaniem"
+      ],
+      "explanation": "Aktywność–pasywność pokrywa się z kompetencją: na grupy niekompetentne reagujemy biernie (szkodzenie – litość lub pogarda), na kompetentne – aktywnie / bierne ułatwianie.",
+      "sourceExcerpt": "s. 485: grupy widziane jako pozbawione sprawczości spotykają się z biernym szkodzeniem, co dla grup pozbawionych sprawczości, a przy tym wspólnotowych, jest zapośredniczone emocją litości, dla grup zaś pozbawionych zarówno sprawczości, jak i wspólnotowości – emocją pogardy",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-23",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Wymiar ułatwianie–szkodzenie w zachowaniach międzygrupowych pokrywa się według MTS z wymiarem:"
+      ],
+      "correct": [
+        "wspólnotowości (ciepła)"
+      ],
+      "distractors": [
+        "sprawczości (kompetencji)",
+        "statusu ekonomicznego",
+        "liczebności grupy",
+        "wieku członków",
+        "jednorodności grupy",
+        "aktywności–pasywności"
+      ],
+      "explanation": "Grupy ciepłe mają dobre intencje – wspieramy je; zimne podejrzewamy o złe – szkodzimy im. Aktywność–pasywność pokrywa się z kompetencją.",
+      "sourceExcerpt": "s. 485: Jak ilustruje rycina 19.5, ułatwianie–szkodzenie w kontaktach międzygrupowych pokrywa się z wymiarem wspólnotowości (ciepła)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-24",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Cichocka i Cisłak (2020) sugerują, że nacjonalizm można postrzegać jako przykład:"
+      ],
+      "correct": [
+        "kolektywnego narcyzmu"
+      ],
+      "distractors": [
+        "patriotyzmu konstruktywnego",
+        "rekategoryzacji",
+        "efektu jednorodności grupy obcej",
+        "zagrożenia stereotypem",
+        "kompensacji społecznej",
+        "dekategoryzacji"
+      ],
+      "explanation": "Problem 19: nacjonalizm jako kolektywny narcyzm – manifestacje polityczna, międzygrupowa i wewnątrzgrupowa.",
+      "sourceExcerpt": "s. 484: Aleksandra Cichocka i Aleksandra Cisłak (2020) sugerują, że można na nacjonalizm patrzeć jeszcze inaczej – jako na przykład działania kolektywnego narcyzmu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-25",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badania Barbary Weigl (1999) wykazały, że stereotypy etniczne pojawiają się u dzieci:"
+      ],
+      "correct": [
+        "wcześnie i w gotowej już postaci"
+      ],
+      "distractors": [
+        "dopiero w okresie dorastania",
+        "tylko wobec grup, z którymi dzieci często się stykają",
+        "wyłącznie pod wpływem rodziców",
+        "dopiero po kontakcie z grupą obcą",
+        "stopniowo, wraz z doświadczeniami z członkami grup",
+        "wyłącznie u dzieci z wielkich miast"
+      ],
+      "explanation": "Siedmiolatki ze Śląska Opolskiego oceniały Cyganów i Żydów gorzej niż Niemców, a Niemców gorzej niż Polaków – stereotypy wcześnie i „gotowe”.",
+      "sourceExcerpt": "s. 485: Badając dzieci i młodzież w różnym wieku, Weigl stwierdziła … że pojawiają się one wcześnie i w „gotowej” już postaci",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-26",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy dzieci i rodziców są bardzo zbliżone, ale indywidualne korelacje między nimi są słabe. Sugeruje to, że dzieci przejmują stereotypy:"
+      ],
+      "correct": [
+        "od szerszego otoczenia społecznego"
+      ],
+      "distractors": [
+        "bezpośrednio od swoich rodziców",
+        "z własnych kontaktów z członkami grup",
+        "dzięki wrodzonym schematom umysłu",
+        "wyłącznie z podręczników szkolnych",
+        "głównie od starszego rodzeństwa",
+        "z kontaktów z grupami obcymi"
+      ],
+      "explanation": "Słaba korelacja dziecko–rodzic przy podobieństwie stereotypów pokoleń → źródłem jest szersze otoczenie społeczne.",
+      "sourceExcerpt": "s. 485: skorelowanie indywidualnych stereotypów dzieci z rodzicami jest z reguły słabe, co sugeruje, że dzieci przejmują je nie tyle bezpośrednio od rodziców, ile od szerszego otoczenia społecznego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-27",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Bezpośrednim dowodem na społeczną naturę stereotypów jest to, że stereotypowe sądy słabną, gdy:"
+      ],
+      "correct": [
+        "podważy się przekonanie, że swoi myślą stereotypowo"
+      ],
+      "distractors": [
+        "osoba otrzyma informację o własnej porażce w teście",
+        "aktywizuje się wspólną kategorię studenta",
+        "osoba przez kilka minut świadomie tłumi stereotyp",
+        "osoba jest akurat w bardzo dobrym nastroju",
+        "zwiększy się liczebność ocenianej grupy obcej",
+        "zadanie wymaga dużego wysiłku umysłowego"
+      ],
+      "explanation": "Stereotypy to społeczne konstrukcje – wytwory konsensusu; słabną, gdy podważy się przekonanie o ich podzielaniu przez swoich (Kofta, Narkiewicz-Jodko, Drogosz 2000).",
+      "sourceExcerpt": "s. 485: Bezpośrednim dowodem ich społecznej natury jest słabnięcie stereotypowych sądów u jednostek, u których podważono przekonanie, że inni członkowie grupy własnej myślą o danej grupie w stereotypowy sposób",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-28",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W badaniach nad seryjnym przekazywaniem informacji („głuchy telefon”, Lyons i Kashima, 2003) w kolejnych rundach:"
+      ],
+      "correct": [
+        "informacje zgodne ze stereotypem przetrwały, a sprzeczne szybko znikały"
+      ],
+      "distractors": [
+        "informacje sprzeczne ze stereotypem przetrwały, a zgodne znikały",
+        "oba rodzaje informacji zanikały w tym samym tempie",
+        "informacje zgodne znikały szybciej, gdy stereotyp był znany",
+        "przekaz był wierny niezależnie od stereotypu",
+        "informacje sprzeczne wzmacniały się z każdą rundą",
+        "zapominano głównie informacje neutralne"
+      ],
+      "explanation": "Ryc. 19.6: zgodne ze stereotypem przekazywane niemal w całości; proporcja sprzecznych spadała – o ile stereotyp był społecznie podzielany.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.6, s. 486): proporcja informacji zgodnych ze stereotypem ~1 → ~0,9; sprzecznych ~0,6 → ~0,1 w 4 kolejnych rundach odtwarzania",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-29",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Przewaga przekazywania informacji zgodnych ze stereotypem w łańcuchu osób zanikała, gdy:"
+      ],
+      "correct": [
+        "kolejni badani nie znali stereotypu"
+      ],
+      "distractors": [
+        "kolejni badani dobrze znali stereotyp",
+        "informacje przekazywano na piśmie",
+        "łańcuch przekazu był bardzo długi",
+        "badani należeli do grupy obcej",
+        "stereotyp był bardzo negatywny",
+        "badani działali pod presją czasu"
+      ],
+      "explanation": "Warunkiem zjawiska jest społeczne podzielanie stereotypu (wszyscy go znają).",
+      "sourceExcerpt": "s. 486: Warunkiem występowania tego zjawiska jest społeczne podzielanie stereotypu oraz wiedza kolejnych osób, że wszyscy go znają, natomiast gdy kolejni badani nie znali stereotypu albo sądzili, że inni go nie znają, przewaga odwzorowania informacji zgodnych zanikała",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-30",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Opisywanie pozytywnych zachowań grupy własnej i negatywnych grupy obcej abstrakcyjnie („byli agresywni”), a negatywnych zachowań swoich i pozytywnych obcych – konkretnie („krzyczeli i wymachiwali pałkami”), to:"
+      ],
+      "correct": [
+        "międzygrupowa asymetria językowa"
+      ],
+      "distractors": [
+        "ostateczny błąd atrybucji",
+        "efekt jednorodności grupy obcej",
+        "infrahumanizacja",
+        "efekt sprężyny",
+        "rekategoryzacja",
+        "zagrożenie stereotypem"
+      ],
+      "explanation": "Maass (1999): opisy abstrakcyjne sugerują stałe cechy, konkretne – pojedyncze epizody; tak subtelnie przekazujemy stereotypy.",
+      "sourceExcerpt": "s. 486: międzygrupowa asymetria językowa, polegająca na abstrakcyjnym opisie zachowań i zdarzeń stawiających w dobrym świetle członków grupy własnej, a w złym świetle – członków grup obcych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-31",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Polscy i niemieccy kibice pobili się po meczu. Zgodnie z międzygrupową asymetrią językową polska prasa najpewniej napisze o niemieckich kibicach:"
+      ],
+      "correct": [
+        "„byli agresywni” (opis abstrakcyjny)",
+        "że byli agresywni – opisem w kategoriach cech"
+      ],
+      "distractors": [
+        "„krzyczeli i wymachiwali pałkami” (opis konkretny)",
+        "„zachowali się wyjątkowo spokojnie”",
+        "„kilku z nich wyszło na boisko” (opis epizodu)",
+        "„byli tacy sami jak nasi”",
+        "„zostali sprowokowani przez innych”",
+        "„jeden z nich kopnął kosz”"
+      ],
+      "explanation": "Negatywne zachowania obcych → opis abstrakcyjny (stała cecha, powtórzy się); negatywne zachowania swoich → konkretny epizod (Maass i Arcuri 1999).",
+      "sourceExcerpt": "s. 486: Nasi dziennikarze napiszą, że polscy kibice krzyczeli i wymachiwali pałkami, za to niemieccy byli hałaśliwi i agresywni. Niemiecka prasa ujmie to dokładnie odwrotnie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-32",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Nazywanie przywiązania do własnego narodu u siebie „patriotyzmem”, a u innych „nacjonalizmem”, albo mówienie, że Niemcy są skąpi, a Polacy oszczędni, to przykład przekazywania stereotypów przez:"
+      ],
+      "correct": [
+        "język i etykiety"
+      ],
+      "distractors": [
+        "seryjny przekaz informacji",
+        "kontakt międzygrupowy",
+        "minimalną sytuację grupową",
+        "zagrożenie stereotypem",
+        "tłumienie stereotypów",
+        "dekategoryzację osób"
+      ],
+      "explanation": "Łatwo zauważalnym sposobem przekazywania stereotypów jest używanie negatywnych określeń dla tego, co u swoich określamy pozytywnie.",
+      "sourceExcerpt": "s. 486: Zamiłowanie do własnego narodu u Polaków nazywamy więc patriotyzmem, jednak w odniesieniu do Niemców lub Ukraińców używamy negatywnego terminu „nacjonalizm” (poza tym Niemcy są skąpi, a Polacy oszczędni itd.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-33",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Teoria kategoryzacji społecznych upatruje źródła stereotypów w:"
+      ],
+      "correct": [
+        "zwykłym kategoryzowaniu ludzi przez umysł"
+      ],
+      "distractors": [
+        "konfliktach interesów między grupami",
+        "hierarchii statusu w społeczeństwie",
+        "przekazach kulturowych i reklamach",
+        "wrodzonej niechęci do wszystkich obcych",
+        "nieświadomych popędach agresywnych",
+        "zagrożeniu samooceny jednostki"
+      ],
+      "explanation": "Stereotypy jako uboczny skutek kategoryzowania – narzędzie umysłowe: nie trzeba „uczyć się” każdej osoby, można wyjść poza informacje, oszczędzić zasoby.",
+      "sourceExcerpt": "s. 487: teoria kategoryzacji społecznych, która upatruje przyczyn stereotypów w samych procesach poznawczych. Zakłada ona, iż są ubocznym skutkiem skądinąd normalnego funkcjonowania ludzkiego umysłu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-34",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Henri Tajfel (1981) wykazał, że nałożenie kategoryzacji na cechę ciągłą (np. płci na agresywność) prowadzi do:"
+      ],
+      "correct": [
+        "przecenienia różnic między kategoriami i niedocenienia różnic w ich obrębie"
+      ],
+      "distractors": [
+        "niedocenienia różnic między kategoriami i przecenienia różnic w ich obrębie",
+        "przecenienia różnic i między kategoriami, i w ich obrębie",
+        "zaniku spostrzeganych różnic między kategoriami",
+        "dokładnego spostrzegania różnic",
+        "spostrzegania kategorii jako bardziej zróżnicowanych",
+        "zaniku różnic w obrębie kategorii i między nimi"
+      ],
+      "explanation": "Kategoryzacja: wzrost spostrzeganych różnic międzykategorialnych + spadek wewnątrzkategorialnych (kobiety widziane jako bardziej jednakowo łagodne).",
+      "sourceExcerpt": "s. 487: (1) wzrostu spostrzeganych różnic międzykategorialnych oraz (2) spadku spostrzeganych różnic wewnątrzkategorialnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-35",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Marian i Leszek, obaj bokserzy, wydają się nam bardziej do siebie podobni (obaj agresywni), niż gdybyśmy nie znali ich zawodu. To skutek:"
+      ],
+      "correct": [
+        "spadku różnic wewnątrzkategorialnych"
+      ],
+      "distractors": [
+        "wzrostu różnic wewnątrzkategorialnych",
+        "dekategoryzacji obu bokserów",
+        "efektu sprężyny w ocenach",
+        "infrahumanizacji grupy obcej",
+        "ostatecznego błędu atrybucji",
+        "rekategoryzacji do grupy sportowców"
+      ],
+      "explanation": "Gdy dwie osoby są w tej samej kategorii, spostrzegamy je jako podobniejsze; gdy w różnych (bokser i szachista) – jako bardziej różne.",
+      "sourceExcerpt": "s. 487: kiedy dwie osoby są widziane jako przedstawiciele tej samej kategorii (Marian i Leszek to bokserzy), spostrzegamy je jako podobniejsze do siebie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-36",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Przekonanie, że „oni (np. Chińczycy) są wszyscy tacy sami”, i częstsze mylenie członków grupy obcej niż własnej to:"
+      ],
+      "correct": [
+        "efekt jednorodności grupy obcej"
+      ],
+      "distractors": [
+        "faworyzacja grupy własnej",
+        "międzygrupowa asymetria językowa",
+        "infrahumanizacja",
+        "ostateczny błąd atrybucji",
+        "zagrożenie stereotypem",
+        "efekt sprężyny"
+      ],
+      "explanation": "Efekt jednorodności grupy obcej – z niewielkiej znajomości i kodowania danych o obcych jako informacji o grupie (a o swoich – o osobach).",
+      "sourceExcerpt": "s. 487: Ten efekt jednorodności grupy obcej wyraża się nie tylko w przekonaniu, że „oni (Chińczycy, ginekolodzy, mężczyźni) są wszyscy tacy sami”, lecz także w faktycznie częstszym myleniu członków grupy obcej niż własnej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-37",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Efekt jednorodności grupy obcej wynika m.in. z tego, że dane o członkach grupy obcej kodujemy jako informacje o:"
+      ],
+      "correct": [
+        "grupie, a o swoich – o osobach"
+      ],
+      "distractors": [
+        "osobach, a o swoich – o grupie",
+        "grupie, tak samo jak o swoich",
+        "osobach, tak samo jak o swoich",
+        "zachowaniach, a nie o cechach",
+        "wyglądzie, a nie o charakterze",
+        "statusie, a nie o intencjach"
+      ],
+      "explanation": "Hildegarda i Heidegunda zostaną zapamiętane jako Niemki (i pomylone), a Zuzia i Krysia – jako konkretne osoby.",
+      "sourceExcerpt": "s. 487: skłonności do kodowania danych o członkach grupy obcej jako informacji o grupie, danych o członkach grupy własnej zaś jako informacji o poszczególnych osobach",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-38",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W minimalnej sytuacji międzygrupowej (Tajfel, 1969) badanych podzielono na grupy według rzekomej preferencji obrazów Klee lub Kandinsky'ego, bez żadnej interakcji. Wynik pokazał, że:"
+      ],
+      "correct": [
+        "sam arbitralny podział wystarcza do faworyzacji grupy własnej"
+      ],
+      "distractors": [
+        "bez rzeczywistej interakcji nie pojawia się faworyzacja",
+        "faworyzacja wymaga konfliktu interesów",
+        "badani nagradzali bardziej grupę obcą",
+        "badani dzielili nagrody całkowicie równo",
+        "faworyzacja pojawia się dopiero po kilku tygodniach",
+        "podział na grupy obniżył samoocenę badanych"
+      ],
+      "explanation": "Pozbawiona znaczenia różnica (my – zwolennicy Klee, oni – Kandinsky'ego) wystarcza do faworyzacji swoich.",
+      "sourceExcerpt": "s. 488: Okazało się, że ta sama w sobie pozbawiona znaczenia (arbitralna) różnica między uczestnikami eksperymentu wystarczała do pojawienia się podziału na grupę własną (my) i grupę obcą (oni)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-39",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Bardziej pozytywne ocenianie i traktowanie członków grupy własnej niż identycznych osób, które do niej nie należą, to:"
+      ],
+      "correct": [
+        "faworyzacja grupy własnej"
+      ],
+      "distractors": [
+        "deprecjacja grupy obcej",
+        "efekt jednorodności grupy obcej",
+        "rekategoryzacja",
+        "infrahumanizacja",
+        "dekategoryzacja",
+        "efekt sprężyny"
+      ],
+      "explanation": "Faworyzacja grupy własnej (pozytywne reakcje na swoich) + deprecjacja grupy obcej (gorsze reakcje na obcych) = preferencja grupy własnej; faworyzacja jest silniejsza.",
+      "sourceExcerpt": "s. 488: faworyzacji grupy własnej, czyli bardziej pozytywnych ocen i zachowań kierowanych na członków grupy własnej niż na identyczne osoby, które nie są członkami tej grupy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-40",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Gorsze reagowanie na członków grup obcych niż na identyczne osoby, których do żadnej grupy się nie zalicza, to:"
+      ],
+      "correct": [
+        "deprecjacja grupy obcej"
+      ],
+      "distractors": [
+        "faworyzacja grupy własnej",
+        "dyskryminacja pozytywna",
+        "efekt jednorodności grupy obcej",
+        "dekategoryzacja",
+        "infrahumanizacja",
+        "izolacja społeczna"
+      ],
+      "explanation": "Deprecjacja grupy obcej – gorsze reakcje na obcych niż na osoby neutralne; wraz z faworyzacją składa się na preferencję grupy własnej.",
+      "sourceExcerpt": "s. 488: deprecjacja grupy obcej, czyli gorsze reagowanie na członków grup obcych niż na identyczne osoby, których do nich nie zaliczają",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-41",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Z dwóch składników preferencji grupy własnej silniejsza okazuje się zwykle:"
+      ],
+      "correct": [
+        "faworyzacja grupy własnej"
+      ],
+      "distractors": [
+        "deprecjacja grupy obcej",
+        "obie są tak samo silne",
+        "żadna nie występuje w badaniach",
+        "deprecjacja, ale tylko u dzieci",
+        "faworyzacja, ale tylko w Polsce",
+        "deprecjacja w sytuacji minimalnej"
+      ],
+      "explanation": "Wiele danych przekonuje, że faworyzacja grupy własnej (pozytywne reagowanie na swoich) jest silniejsza od deprecjacji grup obcych.",
+      "sourceExcerpt": "s. 488: Wiele danych przekonuje, że faworyzacja grupy własnej (pozytywne reagowanie na swoich) jest silniejsza od deprecjacji grup obcych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-42",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Polscy licealiści (Łukaszewski, 1999) przypisywali najwięcej pozytywnych cech z 30 możliwych:"
+      ],
+      "correct": [
+        "Polakom"
+      ],
+      "distractors": [
+        "Niemcom",
+        "Rosjanom",
+        "Czechom",
+        "Francuzom",
+        "Anglikom",
+        "Ukraińcom"
+      ],
+      "explanation": "Preferencja grupy własnej: Polacy 18,7 cech, Niemcy 13,49, Rosjanie 8,90.",
+      "sourceExcerpt": "s. 488: Polscy licealiści na przykład przypisują Polakom znacznie więcej zalet (średnio 18,7 na 30 możliwych) niż Niemcom (13,49) czy przedstawicielom jakiejkolwiek innej narodowości",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-43",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Przypisywanie pozytywnych zachowań grupy własnej czynnikom wewnętrznym, a negatywnych – sytuacji (i odwrotnie dla grupy obcej) to:"
+      ],
+      "correct": [
+        "ostateczny błąd atrybucji"
+      ],
+      "distractors": [
+        "podstawowy błąd atrybucji",
+        "egotyzm atrybucyjny",
+        "efekt jednorodności grupy obcej",
+        "międzygrupowa asymetria językowa",
+        "infrahumanizacja",
+        "efekt fałszywej powszechności"
+      ],
+      "explanation": "Ostateczny błąd atrybucji (Pettigrew 1979) – międzygrupowy odpowiednik egotyzmu atrybucyjnego.",
+      "sourceExcerpt": "s. 488: Nazywane jest to ostatecznym błędem atrybucji (Pettigrew, 1979) i bardzo przypomina wzorzec atrybucji na poziomie jednostek opisywany w podrozdziale 7.2.1",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-44",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Metaanaliza Kundy i Thagarda (1996) wykazała, że na ocenę konkretnej osoby:"
+      ],
+      "correct": [
+        "informacje zindywidualizowane wpływają znacznie silniej niż stereotypy"
+      ],
+      "distractors": [
+        "stereotypy wpływają znacznie silniej niż informacje zindywidualizowane",
+        "stereotypy i informacje indywidualne wpływają tak samo",
+        "stereotypy nie mają żadnego wpływu",
+        "wpływają tylko stereotypy, gdy brak innych danych",
+        "informacje indywidualne nie mają wpływu",
+        "wpływ zależy wyłącznie od płci oceniającego"
+      ],
+      "explanation": "Wpływ informacji zindywidualizowanej r = 0,71; stereotypów r = 0,25 – nawet gdy były jedyną informacją.",
+      "sourceExcerpt": "s. 488: wpływ zindywidualizowanych informacji na oceny osób, których te informacje dotyczą, jest bardzo silny (r = 0,71), podczas gdy wpływ stereotypów jest znacznie słabszy (r = 0,25), nawet wtedy, kiedy stanowią one jedyną dostępną przesłankę ocen",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-45",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według teorii usprawiedliwiania systemu stopień antagonizmu między grupą stereotypizowaną a własną jest usprawiedliwiany ocenami jej:"
+      ],
+      "correct": [
+        "wspólnotowości"
+      ],
+      "distractors": [
+        "sprawczości",
+        "inteligencji",
+        "liczebności",
+        "religijności",
+        "atrakcyjności",
+        "pracowitości"
+      ],
+      "explanation": "Antagonizm uzasadniany wspólnotowością (przyjazne – ciepłe, nieprzyjazne – zimne); pozycja w hierarchii – sprawczością (nadrzędne kompetentne, podporządkowane niekompetentne).",
+      "sourceExcerpt": "s. 488: stopień antagonizmu między jakąś stereotypizowaną grupą a grupą własną jest usprawiedliwiany i podtrzymywany ocenami ich wspólnotowości (grupy przyjazne są spostrzegane jako ciepłe, grupy nieprzyjazne zaś jako zimne)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-46",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Spostrzeganie ludzi biednych jako „biednych, ale szczęśliwych” lub „biednych, ale uczciwych” służy:"
+      ],
+      "correct": [
+        "przywróceniu wiary w sprawiedliwość świata"
+      ],
+      "distractors": [
+        "obniżeniu statusu grup dominujących",
+        "rekategoryzacji biednych i bogatych",
+        "redukcji zagrożenia stereotypem",
+        "zwiększeniu dyskryminacji biednych",
+        "obaleniu stereotypów",
+        "zmianie hierarchii statusu"
+      ],
+      "explanation": "Niskie położenie kompensowane dowartościowaniem na wymiarach niezwiązanych ze statusem – każdy ma jakieś cnoty i świat jest sprawiedliwy.",
+      "sourceExcerpt": "s. 489: Niskie położenie w hierarchii społecznej jest więc kompensowane ofiarom systemu przez ich dowartościowanie na wymiarach niezwiązanych ze statusem (biedny, ale szczęśliwy; biedny, ale uczciwy), dzięki czemu każdy ma jakieś cnoty i wiara w sprawiedliwość świata zostaje przywrócona",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-47",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Kay, Jost i Young (2005) pokazali, że ofiary systemu są spostrzegane negatywnie pod tymi względami, które:"
+      ],
+      "correct": [
+        "uznaje się za przyczynę ich złej sytuacji"
+      ],
+      "distractors": [
+        "nie mają związku z ich sytuacją",
+        "są cenione w grupie własnej",
+        "wynikają z ich wysokiego statusu",
+        "zostały im narzucone przez innych",
+        "dotyczą ich wyglądu",
+        "są całkowicie niewidoczne"
+      ],
+      "explanation": "Negatywnie – na wymiarach przyczynowych (biedni mniej inteligentni, otyli bez samokontroli); pozytywnie – na wymiarach niezwiązanych (biedni szczęśliwsi, uczciwsi).",
+      "sourceExcerpt": "s. 489: Są one spostrzegane negatywnie pod tymi względami, które ludzie uznają za przyczynę ich złej sytuacji – na przykład ludzie biedni są uważani za mniej inteligentnych, otyli za pozbawionych samokontroli",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-48",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W warunkach dużego zagrożenia systemu (Kay, Jost i Young, 2005) osoby otyłe były widziane jako:"
+      ],
+      "correct": [
+        "towarzyskie, ale niezbyt pracowite"
+      ],
+      "distractors": [
+        "pracowite, ale nietowarzyskie",
+        "pracowite i towarzyskie",
+        "ani pracowite, ani towarzyskie",
+        "inteligentne, ale nieszczęśliwe",
+        "szczęśliwe, ale nieinteligentne",
+        "ani inteligentne, ani szczęśliwe"
+      ],
+      "explanation": "Ryc. 19.7: duże zagrożenie – otyli: pracowici 3,56, towarzyscy 5,41; osoby u władzy: inteligentni 7,39, szczęśliwi 3,96.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.7, s. 489): osoby otyłe – małe zagrożenie: pracowici 4,79, towarzyscy 4,62; duże zagrożenie: pracowici 3,56, towarzyscy 5,41",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-49",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotyp jako struktura wiedzy (schemat) wpływa na oceny ludzi, bo steruje:"
+      ],
+      "correct": [
+        "poszukiwaniem i zapamiętywaniem informacji"
+      ],
+      "distractors": [
+        "wyłącznie emocjami wobec całej grupy",
+        "tylko prostymi zachowaniami ruchowymi",
+        "jedynie decyzjami o charakterze ekonomicznym",
+        "wyłącznie oceną samego siebie",
+        "tylko percepcją kolorów i kształtów",
+        "wyłącznie pamięcią proceduralną"
+      ],
+      "explanation": "Stereotypy, jak inne schematy, sterują procesami poszukiwania, rozumienia i zapamiętywania informacji o konkretnych osobach.",
+      "sourceExcerpt": "s. 490: Jak wszystkie inne schematy wiedzy stereotypy są strukturami wiedzy sterującymi procesami poszukiwania, rozumienia i zapamiętywania informacji o konkretnych osobach",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-50",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Biali studenci współpracujący z Japonką aktywizowali stereotyp Azjaty, ale nie wtedy, gdy równocześnie musieli pamiętać ośmiocyfrową liczbę (Gilbert i Hixon, 1991). Wskazuje to, że aktywizacja stereotypu:"
+      ],
+      "correct": [
+        "wymaga wolnych zasobów umysłowych"
+      ],
+      "distractors": [
+        "jest zawsze w pełni automatyczna",
+        "zależy wyłącznie od poziomu uprzedzeń",
+        "nasila się przy obciążeniu pamięci",
+        "dotyczy tylko członków grup własnych",
+        "wymaga świadomej decyzji osoby",
+        "nie występuje u białych studentów"
+      ],
+      "explanation": "Aktywizowanie stereotypu wymaga wolnych zasobów; procesy automatyczne zwykle ich nie potrzebują.",
+      "sourceExcerpt": "s. 490: zaktywizowanie stereotypu nie jest całkowicie automatyczne, ponieważ wymaga wolnych zasobów umysłowych",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-51",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Model Kundy i Spencera (2003) odróżnia aktywizację stereotypu od jego:"
+      ],
+      "correct": [
+        "zastosowania"
+      ],
+      "distractors": [
+        "wygaszenia",
+        "tłumienia",
+        "przekazywania",
+        "dziedziczenia",
+        "rekategoryzacji",
+        "kategoryzacji"
+      ],
+      "explanation": "Aktywizacja – mierzona m.in. czasem reakcji; zastosowanie – treścią ocen (np. Kim oceniany jako pracowitszy od Janka przy identycznym zachowaniu).",
+      "sourceExcerpt": "s. 490: Model ten odróżnia aktywizację stereotypu od jego zastosowania. Zastosowanie jest mierzone po prostu treścią ocen",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-52",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według modelu Kundy i Spencera na aktywizację i zastosowanie stereotypów wpływają trzy motywy:"
+      ],
+      "correct": [
+        "zrozumienie, samoocena, unikanie uprzedzeń"
+      ],
+      "distractors": [
+        "status, rywalizacja i chęć zysku",
+        "lęk, gniew i pogarda wobec obcych",
+        "kontakt, wiedza i empatia wobec innych",
+        "rekategoryzacja, dekategoryzacja, tłumienie",
+        "uwaga, pamięć i motywacja do działania",
+        "litość, zawiść i podziw dla grup"
+      ],
+      "explanation": "Motywy: zrozumienia (orientacja w sytuacji), dążenia do pozytywnej samooceny, unikania uprzedzeń.",
+      "sourceExcerpt": "s. 490: aktywizacja oraz zastosowanie stereotypów pozostają pod wpływem trzech motywów czy też sytuacyjnie zaktywizowanych celów osoby dokonującej ocen. Pierwszym motywem jest zrozumienie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-53",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Studenci z niskimi ocenami oceniali swoje profesorki jako mniej kompetentne niż profesorów, a studenci z wysokimi ocenami – jednakowo (Sinclair i Kunda, 2000). Ilustruje to wpływ na stereotypizację motywu:"
+      ],
+      "correct": [
+        "dążenia do pozytywnej samooceny"
+      ],
+      "distractors": [
+        "unikania uprzedzeń",
+        "zrozumienia sytuacji",
+        "kontaktu międzygrupowego",
+        "rekategoryzacji",
+        "zagrożenia stereotypem",
+        "podzielania rzeczywistości"
+      ],
+      "explanation": "Negatywne myślenie o grupach obcych to prosty sposób na chwilowe poprawienie samooceny, zwłaszcza gdy przedstawiciele tych grup jej zagrażają.",
+      "sourceExcerpt": "s. 491: Jednak studenci otrzymujący niskie stopnie oceniają swoje profesorki jako mniej kompetentne niż profesorów (Sinclair i Kunda, 2000)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-54",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badani, którzy źle wypadli w teście inteligencji, oceniali dziewczynę pasującą do stereotypu „żydowskiej księżniczki” gorzej niż ci, którzy wypadli dobrze, a im gorzej ją ocenili, tym bardziej rosła ich samoocena (Fein i Spencer, 1997). Wynika z tego, że:"
+      ],
+      "correct": [
+        "stereotypizacja innych może odbudowywać zagrożoną samoocenę"
+      ],
+      "distractors": [
+        "stereotypizacja zawsze obniża samoocenę",
+        "samoocena nie ma związku ze stereotypami",
+        "porażka zmniejsza stosowanie stereotypów",
+        "stereotypy działają tylko wobec grupy własnej",
+        "dobre wyniki nasilają stereotypizację",
+        "stereotypy aktywizują się tylko przy sukcesie"
+      ],
+      "explanation": "Zastosowanie stereotypów bywa skuteczną reakcją na zagrożenie samooceny.",
+      "sourceExcerpt": "s. 491: im gorzej ci pierwsi myśleli o dziewczynie, tym bardziej podnosiła im się samoocena mierzona na samym końcu badania (Fein i Spencer, 1997)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-55",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Motyw unikania uprzedzeń (np. u osób silnie identyfikujących się z wartością „równość”) hamuje przede wszystkim:"
+      ],
+      "correct": [
+        "zastosowanie stereotypów"
+      ],
+      "distractors": [
+        "aktywizację stereotypów",
+        "kategoryzowanie ludzi",
+        "emocje wobec grupy własnej",
+        "kontakt z grupami obcymi",
+        "samoocenę oceniającego",
+        "przekazywanie stereotypów"
+      ],
+      "explanation": "Unikanie uprzedzeń (lub wrażenia, że się jest uprzedzonym) zwykle hamuje zastosowanie, niekoniecznie aktywizację (Plant i Devine 1998).",
+      "sourceExcerpt": "s. 491: unikanie uprzedzeń jest celem, który zwykle hamuje zastosowanie (choć niekoniecznie aktywizację) stereotypów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-56",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Jan Kowalski czuje się obrażony, gdy obcokrajowiec mówi, że Polacy to pijacy, choć nigdy go nie spotkał. Siła jego gniewu zależy przede wszystkim od:"
+      ],
+      "correct": [
+        "identyfikacji z Polakami i jej aktywizacji"
+      ],
+      "distractors": [
+        "tego, czy obcokrajowiec zna go osobiście",
+        "liczby osób, które słyszały tę wypowiedź",
+        "jego statusu zawodowego i wykształcenia",
+        "jego wiedzy o kraju obcokrajowca",
+        "tego, czy sam pije alkohol",
+        "liczby jego kontaktów z obcokrajowcami"
+      ],
+      "explanation": "Emocje w imieniu grupy zależą od identyfikacji z grupą i od aktywizacji przynależności (czy w danej chwili myśli o sobie jako o Polaku).",
+      "sourceExcerpt": "s. 491: emocjonalne reagowanie w imieniu grupy zależy od stopnia identyfikacji oraz od aktywizacji przynależności grupowej, czyli tego, czy w danym momencie jednostka myśli o sobie jako o przedstawicielu tej grupy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-57",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Gniew frankofońskich studentów z powodu decyzji flamandzkiego uniwersytetu (Yzerbyt i in., 2003) był znacznie słabszy, gdy aktywizowano:"
+      ],
+      "correct": [
+        "kategorię wspólną z Flamandami"
+      ],
+      "distractors": [
+        "ich przynależność do Walonii",
+        "kategorię „profesorowie”",
+        "pamięć o dawnych konfliktach",
+        "ich osobistą porażkę",
+        "ich tożsamość narodową",
+        "lęk przed oceną innych"
+      ],
+      "explanation": "Gdy aktywizowano kategorię wspólną z innymi (studenci), gniew i chęć protestu były znacznie słabsze.",
+      "sourceExcerpt": "s. 492: Natomiast gniew i protesty były znacznie słabsze, kiedy uczestnikom nie aktywizowano przynależności do grupy wspólnej dla nich i owych nieszczęśników",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-58",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Utrzymywanie dystansu fizycznego i ograniczanie kontaktów z grupami niżej położonymi, w skrajnych przypadkach segregacja, to:"
+      ],
+      "correct": [
+        "izolacja"
+      ],
+      "distractors": [
+        "dyskryminacja",
+        "deprecjacja",
+        "infrahumanizacja",
+        "faworyzacja",
+        "agresja",
+        "stygmatyzacja"
+      ],
+      "explanation": "Dwa podstawowe wzorce zachowań wobec grup niżej położonych: izolacja (dystans, segregacja – apartheid) i dyskryminacja.",
+      "sourceExcerpt": "s. 492: Izolacja społeczna to utrzymywanie dystansu fizycznego, ograniczanie kontaktów, a w skrajnych wypadkach – segregacja, czyli organizowanie życia społecznego w odrębnych i równoległych instytucjach",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-59",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Gdy na dwóch monitorach wyświetlano różne filmy (łatwa wymówka), obok osoby z niepełnosprawnością siadało tylko 17% badanych, a gdy ten sam film (trudna wymówka) – aż 58%. Pokazuje to, że izolacja bywa:"
+      ],
+      "correct": [
+        "kamuflowana wymówkami"
+      ],
+      "distractors": [
+        "całkowicie jawna",
+        "przypadkowa i bez związku z uprzedzeniami",
+        "silniejsza, gdy trudno ją uzasadnić",
+        "dyskryminacją pozytywną",
+        "skutkiem zagrożenia stereotypem",
+        "wyrazem rekategoryzacji"
+      ],
+      "explanation": "Gdy izolacji nie wspiera prawo ani obyczaj, ludzie kamuflują ją wymówkami, by nie wyglądać na uprzedzonych (Snyder, Kleck, Strenta, Mentzer 1979).",
+      "sourceExcerpt": "s. 492: tendencje izolacjonistyczne bywają kamuflowane – ludzie chętnie uciekają się do jakichś wymówek, aby tylko nie wyglądać na kogoś uprzedzonego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-60",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Niewidzialne bariery utrudniające kobietom awans na wyższe stanowiska (np. profesorskie) to przykład:"
+      ],
+      "correct": [
+        "dyskryminacji (szklany sufit)"
+      ],
+      "distractors": [
+        "izolacji (segregacja)",
+        "deprecjacji grupy własnej",
+        "kompensacji społecznej",
+        "dekategoryzacji kobiet",
+        "infrahumanizacji kobiet",
+        "pozytywnego stereotypu"
+      ],
+      "explanation": "Dyskryminacja – gorsze traktowanie grup niżej położonych; klasyczny przykład: szklany sufit (np. tylko 27% profesorów to kobiety).",
+      "sourceExcerpt": "s. 492: Klasycznym przykładem dyskryminacji jest omawiany w ramce Problem 20 (następny rozdział) „szklany sufit”, czyli niewidzialne bariery awansu na wyższe stanowiska",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-61",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Spostrzegana dyskryminacja pogarsza zdrowie, ponieważ:"
+      ],
+      "correct": [
+        "jest stresorem społecznym"
+      ],
+      "distractors": [
+        "nasila zachowania prozdrowotne",
+        "obniża poziom kortyzolu we krwi",
+        "zwiększa samoocenę dyskryminowanych",
+        "zmniejsza ciśnienie krwi",
+        "dotyczy tylko zdrowia psychicznego",
+        "nie ma związku z fizjologią"
+      ],
+      "explanation": "Dyskryminacja → reakcja stresowa (ciśnienie, tętno, kortyzol) → choroby, lęk, depresja, PTSD; wyczerpuje samokontrolę i osłabia zachowania prozdrowotne. Tab. 19.4: zdrowie psychiczne −0,32, fizyczne −0,26, prozdrowotne −0,37.",
+      "sourceExcerpt": "s. 492: Poczucie dyskryminacji jest stresorem społecznym, czyli wywołuje reakcję stresową objawiającą się wzrostem tętna, ciśnienia krwi",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-62",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Otyłe kobiety częściej przypisują negatywne oceny uprzedzeniom oceniających niż własnym niedostatkom (Major i O'Brien, 2005). Takie dyskontowanie negatywnych informacji:"
+      ],
+      "correct": [
+        "chroni samoocenę, ale utrudnia uczenie się"
+      ],
+      "distractors": [
+        "obniża samoocenę i nasila depresję",
+        "ułatwia uczenie się na błędach",
+        "jest przejawem zagrożenia stereotypem",
+        "zwiększa dyskryminację",
+        "dowodzi braku dyskryminacji",
+        "prowadzi do rekategoryzacji"
+      ],
+      "explanation": "Wrażliwość na przejawy dyskryminacji przeciwdziała spadkowi samooceny i depresji, ale bywa, że negatywne oceny są zasłużone – ich hurtowe odrzucanie utrudnia zmianę.",
+      "sourceExcerpt": "s. 493: Takie dyskontowanie (pomniejszanie znaczenia) negatywnej informacji zwrotnej przeciwdziała spadkowi samooceny i przyrostom depresji, choć ma tę wadę, że utrudnia proces uczenia się",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-63",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Model odrzucenia–identyfikacji (Branscombe, Schmitt i Harvey, 1999) zakłada, że przed spadkiem samooceny dyskryminowaną jednostkę chroni:"
+      ],
+      "correct": [
+        "silna identyfikacja z własną grupą mniejszościową"
+      ],
+      "distractors": [
+        "unikanie kontaktu z własną grupą",
+        "przejęcie stereotypu grupy większościowej",
+        "rekategoryzacja do grupy większości",
+        "dyskontowanie wszystkich ocen",
+        "tłumienie myśli o dyskryminacji",
+        "deprecjacja własnej grupy"
+      ],
+      "explanation": "Czarnoskórzy Amerykanie mają nieco wyższą samoocenę niż biali dzięki identyfikacji z grupą („Czarne jest piękne”); podobnie kobiety i osoby starsze.",
+      "sourceExcerpt": "s. 493: model odrzucenia–identyfikacji, zakładający, że utożsamienie się z własną mniejszościową grupą chroni jednostkę przed spadkiem samooceny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-64",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Bezpośrednia walka grup mniejszościowych o równouprawnienie (np. sufrażystki) jest na co dzień niezwykle rzadka m.in. z powodu:"
+      ],
+      "correct": [
+        "małych szans i mitów legitymizujących"
+      ],
+      "distractors": [
+        "braku dyskryminacji w społeczeństwie",
+        "zbyt wysokiej samooceny mniejszości",
+        "efektu jednorodności grupy obcej",
+        "zakazu prawnego w większości krajów",
+        "przewagi liczebnej grup mniejszościowych",
+        "faworyzacji grupy obcej przez mniejszość"
+      ],
+      "explanation": "Bezpośrednia walka – rzadka: brak szans na wygraną (mniejszości są słabsze) i mity legitymizujące istniejący porządek.",
+      "sourceExcerpt": "s. 493: jednak na co dzień bezpośrednia walka z dyskryminacją jest zjawiskiem niezwykle rzadkim, prawdopodobnie z braku szans na wygraną (mniejszości są z definicji słabsze), a także z powodu wielu wspominanych już mitów legitymizujących istniejący porządek społeczny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-65",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Spadek sprawności działania w dziedzinie objętej stereotypem pod wpływem samej świadomości, że jest się członkiem grupy, która może się okazać w niej gorsza, to:"
+      ],
+      "correct": [
+        "zagrożenie stereotypem"
+      ],
+      "distractors": [
+        "efekt sprężyny",
+        "samospełniające się proroctwo nauczyciela",
+        "efekt jednorodności grupy obcej",
+        "infrahumanizacja",
+        "wyuczona bezradność",
+        "hamowanie społeczne"
+      ],
+      "explanation": "Zagrożenie stereotypem – odkrył Claude Steele (1997): studentki Stanford i trudne zadania z matematyki.",
+      "sourceExcerpt": "s. 493: zagrożenie stereotypem, czyli spadek sprawności działania w dziedzinach nim objętych pod wpływem samej świadomości, że oto jest się członkiem stereotypizowanej grupy, który może okazać się (raz jeszcze) gorszy w danej dziedzinie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-66",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W badaniu Steele'a (1997) studentki rozwiązywały trudny test z matematyki. Znacznie gorzej wypadły te, którym:"
+      ],
+      "correct": [
+        "niczego nie powiedziano o teście"
+      ],
+      "distractors": [
+        "powiedziano, że test jest „sprawiedliwy płciowo”",
+        "pozwolono pracować w grupie z kolegami",
+        "dano wyraźnie więcej czasu na test",
+        "obiecano nagrodę za dobry wynik",
+        "pokazano wcześniej wyniki mężczyzn",
+        "powiedziano, że test jest bardzo łatwy"
+      ],
+      "explanation": "Ryc. 19.8: test różnicujący płeć – kobiety 5,5 vs mężczyźni 26,5; test „sprawiedliwy” – 18 vs 19,5. Spadek nie wynikał z niskich zdolności (selekcja, losowy przydział).",
+      "sourceExcerpt": "Ilustracja (ryc. 19.8, s. 494): test różnicuje płeć – kobiety 5,5, mężczyźni 26,5; test nie różnicuje płci – kobiety 18, mężczyźni 19,5",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-67",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według Schmadera, Johnsa i Forbesa (2008) zagrożenie stereotypem obniża wyniki, ponieważ wszystkie trzy zachodzące wtedy procesy:"
+      ],
+      "correct": [
+        "zmniejszają zasoby pamięci operacyjnej"
+      ],
+      "distractors": [
+        "zwiększają zasoby pamięci operacyjnej",
+        "obniżają poziom kortyzolu we krwi",
+        "poprawiają koncentrację na zadaniu",
+        "zmniejszają ostrożność w działaniu",
+        "zwiększają motywację wewnętrzną",
+        "automatyzują wykonanie zadania"
+      ],
+      "explanation": "Procesy: reakcja stresowa (kortyzol uszkadza pamięć operacyjną), śledzenie własnego zachowania, tłumienie myśli – wszystkie pochłaniają pamięć roboczą.",
+      "sourceExcerpt": "s. 494: Wszystkie trzy procesy przyczyniają się więc do zmniejszenia zasobów pamięci operacyjnej, co jest bezpośrednim powodem pogorszenia wyników",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-68",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Do procesów odpowiedzialnych za skutki zagrożenia stereotypem należy m.in.:"
+      ],
+      "correct": [
+        "śledzenie oznak porażki"
+      ],
+      "distractors": [
+        "rekategoryzacja grupy własnej",
+        "spadek ciśnienia krwi i tętna",
+        "całkowite odprężenie przed zadaniem",
+        "wzrost zasobów pamięci operacyjnej",
+        "przypisywanie sukcesów innym",
+        "obniżenie wydzielania kortyzolu"
+      ],
+      "explanation": "Trzy procesy: reakcja stresowa, śledzenie własnego zachowania (lęk przed porażką), tłumienie myśli o obawach.",
+      "sourceExcerpt": "s. 493: Po drugie, zagrożenie stereotypem inicjuje procesy uważnego śledzenia własnego zachowania i ewentualnych oznak nadchodzącej porażki",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-69",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Słabsze przypisywanie członkom grup obcych specyficznie ludzkich (wtórnych) emocji, takich jak współczucie czy melancholia, niż członkom grupy własnej to:"
+      ],
+      "correct": [
+        "infrahumanizacja"
+      ],
+      "distractors": [
+        "animalizacja",
+        "mechanizacja",
+        "deprecjacja grupy obcej",
+        "efekt jednorodności grupy obcej",
+        "zagrożenie stereotypem",
+        "międzygrupowa asymetria językowa"
+      ],
+      "explanation": "Infrahumanizacja (Leyens i in. 2000) – łagodna forma dehumanizacji; emocji pierwotnych (strach, gniew – wspólnych ze zwierzętami) nie różnicuje się.",
+      "sourceExcerpt": "s. 494: infrahumanizacja, którą pokazali Jacques-Philippe Leyens i zespół (2000). Jest to tendencja do słabszego przypisywania specyficznie ludzkich emocji członkom grup obcych niż członkom grupy własnej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-70",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Kofta i Mirosławska (2004) wykazali infrahumanizację w minimalnej sytuacji międzygrupowej. Oznacza to, że infrahumanizacja dotyczy:"
+      ],
+      "correct": [
+        "każdej grupy obcej"
+      ],
+      "distractors": [
+        "tylko grup skonfliktowanych",
+        "wyłącznie grup etnicznych",
+        "tylko emocji pierwotnych",
+        "wyłącznie grupy własnej",
+        "tylko dzieci i młodzieży",
+        "wyłącznie zwierząt hodowlanych"
+      ],
+      "explanation": "Infrahumanizacja pojawia się wobec każdej grupy obcej – nawet utworzonej według preferencji estetycznych.",
+      "sourceExcerpt": "s. 494: infrahumanizacja pojawia się nie tylko w odniesieniu do grup, z którymi jesteśmy skonfliktowani, lecz dotyczy po prostu członków innej grupy niż własna",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-71",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W badaniach nad infrahumanizacją (ryc. 19.9) badani przypisywali członkom grupy własnej, w porównaniu z obcą:"
+      ],
+      "correct": [
+        "więcej emocji wtórnych, a pierwotnych podobnie"
+      ],
+      "distractors": [
+        "więcej emocji pierwotnych, a wtórnych podobnie",
+        "mniej emocji wtórnych i pierwotnych",
+        "więcej emocji obu rodzajów",
+        "mniej emocji wtórnych, a więcej pierwotnych",
+        "tyle samo emocji obu rodzajów",
+        "wyłącznie emocje negatywne"
+      ],
+      "explanation": "Ryc. 19.9: emocje wtórne – „my” ok. 3,9, „oni” ok. 2,9; emocje pierwotne – bez wyraźnej różnicy.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.9, s. 494): liczba emocji wtórnych przypisywanych grupie „my” ok. 3,9, grupie „oni” ok. 2,9; emocje pierwotne ok. 3,0–3,1 w obu grupach",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-72",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Spostrzeganie obcych jako podobnych do zwierząt („To insekty!”) i odmawianie im cech specyficznie ludzkich (kultura, racjonalność, dojrzałość) to:"
+      ],
+      "correct": [
+        "animalizacja"
+      ],
+      "distractors": [
+        "mechanizacja",
+        "infrahumanizacja",
+        "rekategoryzacja",
+        "deprecjacja",
+        "izolacja",
+        "dekategoryzacja"
+      ],
+      "explanation": "Haslam (2006): animalizacja – odmawianie cech specyficznie ludzkich, wiąże się z wstrętem i pogardą; mechanizacja – odmawianie cech natury ludzkiej (ciepło, otwartość, głębia), wiąże się z chłodem i dystansem.",
+      "sourceExcerpt": "s. 496: animalizacja obcych jest połączona z odmawianiem im specyficznie ludzkich cech (takich jak kultura, dojrzałość, racjonalizm czy poszanowanie norm) oraz takimi emocjami, jak wstręt i pogarda",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-73",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Spostrzeganie obcych jako podobnych do maszyn („To roboty!”), z odmawianiem im ciepła emocjonalnego i otwartości, to:"
+      ],
+      "correct": [
+        "mechanizacja"
+      ],
+      "distractors": [
+        "animalizacja",
+        "infrahumanizacja",
+        "rekategoryzacja",
+        "deprecjacja",
+        "segregacja",
+        "dekategoryzacja"
+      ],
+      "explanation": "Mechanizacja – odmawianie cech stanowiących element natury ludzkiej (ciepło, otwartość, głębia); towarzyszy jej chłód i dystans emocjonalny.",
+      "sourceExcerpt": "s. 496: mechanizacja jest połączona z odmawianiem obcym cech stanowiących element ludzkiej natury (np. ciepła emocjonalność i współpraca, umysłowa otwartość i głębia), czemu towarzyszy chłód i emocjonalne dystansowanie się",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-74",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Bilewicz, Imhoff i Drogosz (2011) pokazali, że osoby jedzące mięso, w porównaniu z wegetarianami, przypisują zwierzętom hodowlanym:"
+      ],
+      "correct": [
+        "mniej emocji wtórnych i cech ludzkich"
+      ],
+      "distractors": [
+        "więcej emocji wtórnych i cech ludzkich",
+        "tyle samo emocji co wegetarianie",
+        "więcej emocji wtórnych niż ludziom",
+        "więcej cech ludzkich niż wegetarianie",
+        "mniej emocji pierwotnych, a więcej wtórnych",
+        "tyle samo cech ludzkich co psom"
+      ],
+      "explanation": "Mięsożercy silniej dehumanizują zwierzęta (z wyjątkiem domowych, np. psów), co likwiduje moralne opory przed ich zabijaniem i spożyciem.",
+      "sourceExcerpt": "s. 496: Wegetarianie przypisują zwierzętom więcej emocji wtórnych i cech specyficznie ludzkich niż „mięsożercy” – ci ostatni bardziej więc dehumanizują zwierzęta (z wyjątkiem niejadalnych, takich jak psy)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-75",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W Polsce najwięcej osób przejawia poglądy charakterystyczne dla antysemityzmu (Bulska, Winiewski, Bilewicz, 2024):"
+      ],
+      "correct": [
+        "spiskowego"
+      ],
+      "distractors": [
+        "tradycyjnego",
+        "wtórnego",
+        "religijnego",
+        "ekonomicznego",
+        "rasowego",
+        "narodowego"
+      ],
+      "explanation": "Trzy rodzaje: tradycyjny (religijny, ≤10% „zdecydowanie tak”), wtórny (Holokaust jako narzędzie, ok. 19% zdecydowanie się zgadza), spiskowy – najczęstszy.",
+      "sourceExcerpt": "s. 495: Zdecydowanie najwięcej osób przejawia w Polsce poglądy charakterystyczne dla antysemityzmu spiskowego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-76",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Antysemityzm związany z uznawaniem Holokaustu za narzędzie wyłudzania odszkodowań, często poprzedzany deklaracją „Ja nie jestem antysemitą, ale…”, to antysemityzm:"
+      ],
+      "correct": [
+        "wtórny"
+      ],
+      "distractors": [
+        "tradycyjny",
+        "spiskowy",
+        "religijny",
+        "kulturowy",
+        "rasowy",
+        "narodowy"
+      ],
+      "explanation": "Antysemityzm wtórny – Holokaust jako narzędzie; zaprzeczanie lub umniejszanie; częsta deklaracja braku antysemityzmu.",
+      "sourceExcerpt": "s. 495: Ten rodzaj charakteryzuje się uznawaniem Holokaustu za narzędzie, dzięki któremu Żydzi wyłudzają odszkodowania od wielu państw świata",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-77",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Związku z prawicowością poglądów NIE odnotowano w przypadku antysemityzmu:"
+      ],
+      "correct": [
+        "tradycyjnego"
+      ],
+      "distractors": [
+        "wtórnego",
+        "spiskowego",
+        "wtórnego i spiskowego",
+        "każdego rodzaju",
+        "żadnego – wszystkie się wiążą",
+        "tylko wtórnego"
+      ],
+      "explanation": "Wtórny i spiskowy wiążą się z poglądami prawicowymi; tradycyjny (religijny) – nie.",
+      "sourceExcerpt": "s. 495: Zarówno antysemityzm wtórny, jak i spiskowy wiążą się z poglądami politycznymi … Takiego związku nie odnotowano w wypadku antysemityzmu tradycyjnego",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-78",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badania OBOP i CBOS od lat 90. pokazują w Polsce wobec Żydów:"
+      ],
+      "correct": [
+        "spadek deklarowanej niechęci i wzrost sympatii"
+      ],
+      "distractors": [
+        "wzrost niechęci i spadek sympatii",
+        "stały, niezmienny poziom niechęci",
+        "zanik sympatii i niechęci",
+        "wzrost niechęci w każdym roku",
+        "spadek sympatii przy stałej niechęci",
+        "wahania bez żadnego trendu"
+      ],
+      "explanation": "Ryc. 19.10: niechęć ok. 50% (1993) → ok. 30%, sympatia ok. 15% → ok. 30%; linie przecinają się ok. 2008–2009. W kryzysach rośnie niechęć do grup „zaradnych” lub „spiskujących” (kozioł ofiarny).",
+      "sourceExcerpt": "Ilustracja (ryc. 19.10, s. 495): niechęć do Żydów ok. 50 (1993) spada do ok. 30 (2020); sympatia ok. 15 rośnie do ok. 30; przecięcie ok. 2008",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-79",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Zgodnie z teorią kontaktu (Allport, 1954) kontakt najsilniej redukuje uprzedzenia, gdy członkowie obu grup:"
+      ],
+      "correct": [
+        "mają podobny status, wspólne cele i współpracują"
+      ],
+      "distractors": [
+        "rywalizują ze sobą o ograniczone zasoby",
+        "mają wyraźnie różny status i różne cele",
+        "spotykają się rzadko, przypadkowo i krótko",
+        "nie znają nawzajem swoich celów ani wartości",
+        "unikają rozmów o dzielących ich różnicach",
+        "są oddzieleni przez odrębne instytucje"
+      ],
+      "explanation": "Cztery warunki optymalne: podobny status, wspólne cele, współpraca, wsparcie władz/prawa/obyczaju.",
+      "sourceExcerpt": "s. 497: kiedy spełnia on cztery dodatkowe warunki: członkowie obu grup mają podobny status i wspólne cele, wzajemnie współpracują, kontakty owe są wspierane przez władze, prawo lub obyczaj (Allport, 1954)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-80",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "„Klasa układanka” Elliota Aronsona polega na tym, że uczniowie z różnych grup etnicznych:"
+      ],
+      "correct": [
+        "pracują razem nad zadaniem wymagającym wkładu każdego"
+      ],
+      "distractors": [
+        "rywalizują ze sobą o najlepszą ocenę w klasie",
+        "uczą się w osobnych, jednorodnych etnicznie klasach",
+        "słuchają wykładów nauczyciela o tolerancji",
+        "oceniają się nawzajem anonimowo po każdej lekcji",
+        "pracują indywidualnie nad tym samym zadaniem",
+        "obserwują dorosłych współpracujących ze sobą"
+      ],
+      "explanation": "Np. każde dziecko dostaje inny fragment życiorysu Kolumba – zespół poradzi sobie tylko dzięki wkładowi wszystkich; uprzedzenia wyraźnie spadały (gdy współpraca kończyła się sukcesem).",
+      "sourceExcerpt": "s. 497: Polega ona na dzieleniu uczniów w klasie na zespoły w taki sposób, by w każdym znalazły się dzieci o różnym pochodzeniu etnicznym. Zespół otrzymuje wspólne zadanie … które może rozwiązać tylko pod warunkiem wniesienia pewnego wkładu przez każdego członka zespołu",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-81",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Metoda klasy układanki działa głównie wtedy, gdy:"
+      ],
+      "correct": [
+        "współpraca kończy się sukcesem"
+      ],
+      "distractors": [
+        "współpraca kończy się porażką",
+        "dzieci rywalizują ze sobą",
+        "nauczyciel karze za uprzedzenia",
+        "zespoły są jednorodne etnicznie",
+        "zadanie jest bardzo łatwe",
+        "dzieci pracują w ciszy"
+      ],
+      "explanation": "Porażka często kończy się obwinianiem przedstawicieli grup mniejszościowych.",
+      "sourceExcerpt": "s. 497: Metoda ta działa głównie wtedy, gdy współpracę wieńczy sukces, porażka bowiem często kończy się obwinianiem przedstawicieli grup mniejszościowych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-82",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Metaanaliza Pettigrewa i Tropp (2006), obejmująca setki badań, wykazała, że do redukcji uprzedzeń:"
+      ],
+      "correct": [
+        "wystarcza w zasadzie każdy rodzaj kontaktu"
+      ],
+      "distractors": [
+        "konieczne są wszystkie cztery warunki Allporta",
+        "kontakt w ogóle nie wystarcza",
+        "kontakt działa tylko u dzieci",
+        "kontakt działa tylko w USA",
+        "kontakt nasila uprzedzenia wobec chorych psychicznie",
+        "potrzebna jest rywalizacja między grupami"
+      ],
+      "explanation": "Warunki optymalne nieco nasilają efekt, ale kontakt osłabia uprzedzenia też w suboptymalnych; działa w każdym wieku i na każdym kontynencie (pozytywne efekty w ponad 90% badań).",
+      "sourceExcerpt": "s. 497: potężna metaanaliza obejmująca setki badań z udziałem ćwierci miliona uczestników pokazała, że w zasadzie każdy rodzaj kontaktu wystarcza do redukcji uprzedzeń",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-83",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Kontakt międzygrupowy działa najsilniej w odniesieniu do uprzedzeń wobec:"
+      ],
+      "correct": [
+        "osób homoseksualnych"
+      ],
+      "distractors": [
+        "osób chorych psychicznie",
+        "osób starszych",
+        "osób niesprawnych psychicznie",
+        "mniejszości rasowych",
+        "dzieci",
+        "osób niesprawnych fizycznie"
+      ],
+      "explanation": "Tab. 19.5: najsilniej wobec homoseksualistów (d = 0,56), najsłabiej wobec chorych psychicznie i starszych (0,37) – choć redukuje każdy rodzaj uprzedzeń.",
+      "sourceExcerpt": "Tabela 19.5 (s. 497): Homoseksualiści 0,56; Niesprawni fizycznie 0,49; Mniejszość rasowa 0,43; Niesprawni psychicznie 0,43; Chorzy psychicznie 0,37; Osoby stare 0,37",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-84",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według metaanalizy Pettigrewa i Tropp (2008) najsilniejszymi pośrednikami wpływu kontaktu na redukcję uprzedzeń są:"
+      ],
+      "correct": [
+        "spadek lęku i wzrost empatii"
+      ],
+      "distractors": [
+        "przyrost wiedzy o grupie obcej",
+        "wzrost lęku i spadek empatii",
+        "zmiana statusu grup",
+        "częstsze stosowanie stereotypów",
+        "rywalizacja i porównania",
+        "tłumienie stereotypów"
+      ],
+      "explanation": "Wiedza, emocje (spadek lęku międzygrupowego) i empatia są mediatorami; lęk i empatia działają znacznie silniej niż wiedza – oddziaływania na emocje redukują uprzedzenia skuteczniej.",
+      "sourceExcerpt": "s. 498: Spadek lęku i wzrost empatii okazały się jednak pośrednikami znacznie silniejszymi od przyrostu samej wiedzy",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-85",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Myślenie o Adamie z AWF-u nie jako o studencie AWF-u, lecz jako o studencie w ogóle, dzięki czemu powstaje wspólne „my”, to:"
+      ],
+      "correct": [
+        "rekategoryzacja"
+      ],
+      "distractors": [
+        "dekategoryzacja",
+        "infrahumanizacja",
+        "deprecjacja",
+        "tłumienie stereotypu",
+        "efekt sprężyny",
+        "segregacja"
+      ],
+      "explanation": "Rekategoryzacja – zmiana kategorii na szerszą, obejmującą też spostrzegającego; dekategoryzacja – spostrzeganie innych jako konkretnych jednostek.",
+      "sourceExcerpt": "s. 498: Jeżeli spotykasz Adama z AWF-u, to możesz o nim myśleć nie jako o studencie AWF-u, tylko o studencie w ogóle, dzięki czemu uzyskacie wspólne „my” i to będzie przykład rekategoryzacji",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-86",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Myślenie o Adamie nie jako o studencie AWF-u, lecz jako o inteligentnym brunecie z nieśmiałym uśmiechem, który buja w obłokach, to:"
+      ],
+      "correct": [
+        "dekategoryzacja"
+      ],
+      "distractors": [
+        "rekategoryzacja",
+        "infrahumanizacja",
+        "efekt jednorodności grupy obcej",
+        "tłumienie stereotypu",
+        "faworyzacja grupy własnej",
+        "stereotypizacja"
+      ],
+      "explanation": "Dekategoryzacja – zaniechanie kategorii; spostrzeganie innych w sposób spersonalizowany, jako konkretnych jednostek.",
+      "sourceExcerpt": "s. 498: Jeżeli myślisz o Adamie nie jako o studencie AWF-u, lecz jako o inteligentnym brunecie z trochę nieśmiałym uśmiechem i skłonnością do bujania w obłokach, będzie to przykład dekategoryzacji",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-87",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W badaniu Gaertnera i zespołu (1989) zarówno rekategoryzacja, jak i dekategoryzacja zmniejszyły preferencję grupy własnej, ale:"
+      ],
+      "correct": [
+        "rekategoryzacja podniosła oceny obcych, a dekategoryzacja obniżyła swoich"
+      ],
+      "distractors": [
+        "rekategoryzacja obniżyła oceny swoich, a dekategoryzacja podniosła obcych",
+        "obie podniosły oceny obcych w dokładnie tym samym stopniu",
+        "obie obniżyły oceny obcych i nasiliły preferencję grupy własnej",
+        "żadna nie wpłynęła na oceny obcych, zmieniły się tylko oceny swoich",
+        "dekategoryzacja nasiliła preferencję grupy własnej, a rekategoryzacja nie",
+        "obie nasiliły preferencję grupy własnej w porównaniu z kontrolą"
+      ],
+      "explanation": "Ryc. 19.12: rekategoryzacja – własna 5,71, obca 5,54; kontrolne – 5,8 i 5,31; dekategoryzacja – 5,39 i 5,12.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.12, s. 498): rekategoryzacja (jedna grupa) – grupa własna 5,71, obca 5,54; kontrolne (dwie grupy) – 5,8 i 5,31; dekategoryzacja (jednostki) – 5,39 i 5,12",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-88",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Patricia Devine (1989) podprogowo aktywizowała stereotyp osoby czarnoskórej, a badani oceniali potem niejednoznacznie opisaną osobę jako bardziej agresywną – niezależnie od poziomu swoich uprzedzeń. Dla wielu psychologów był to argument, że:"
+      ],
+      "correct": [
+        "automatycznym stereotypom trudno zaradzić"
+      ],
+      "distractors": [
+        "stereotypy działają tylko u osób uprzedzonych",
+        "tłumienie stereotypów jest zawsze skuteczne",
+        "aktywizacja stereotypu wymaga świadomości",
+        "stereotypy wcale nie wpływają na oceny",
+        "kontakt z obcymi nasila uprzedzenia",
+        "rekategoryzacja całkowicie usuwa stereotypy"
+      ],
+      "explanation": "Wielu psychologów jest sceptycznych wobec kontrolowania stereotypów – są automatyczne i trudne do kontroli.",
+      "sourceExcerpt": "s. 499: Zjawisko to występowało niezależnie od natężenia uprzedzeń w stosunku do czarnoskórych, co było dla wielu psychologów dodatkowym argumentem, że na automatycznie aktywizowane stereotypy „nie ma rady”",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-89",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Wzrost wpływu stereotypu na spostrzeganie i zachowanie, gdy człowiek przestaje się kontrolować po wcześniejszym tłumieniu, to:"
+      ],
+      "correct": [
+        "efekt sprężyny"
+      ],
+      "distractors": [
+        "zagrożenie stereotypem",
+        "efekt jednorodności",
+        "infrahumanizacja",
+        "rekategoryzacja",
+        "ostateczny błąd atrybucji",
+        "asymetria językowa"
+      ],
+      "explanation": "Efekt sprężyny – paradoksalny wzrost dostępności stereotypu jako skutek prób jego kontrolowania (jak z niemyśleniem o białych niedźwiedziach).",
+      "sourceExcerpt": "s. 499: Próby kontrolowania stereotypu mogą też powodować efekt sprężyny, czyli wzrost wpływu stereotypu na spostrzeganie i zachowanie, gdy człowiek już przestaje się kontrolować",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-90",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badani, którzy najpierw tłumili stereotyp skinheada, w drugim opisie (już bez instrukcji) pisali charakterystyki (Macrae, Milne i Bodenhausen, 1994):"
+      ],
+      "correct": [
+        "bardziej stereotypowe niż grupa kontrolna"
+      ],
+      "distractors": [
+        "mniej stereotypowe niż grupa kontrolna",
+        "tak samo stereotypowe jak grupa kontrolna",
+        "całkowicie pozbawione stereotypów",
+        "bardziej pozytywne niż za pierwszym razem",
+        "krótsze niż w pierwszym opisie",
+        "identyczne z pierwszym opisem"
+      ],
+      "explanation": "Tab. 19.6: pierwszy opis – tłumienie 5,54 vs kontrola 6,95; drugi – 7,83 vs 7,08 (stereotyp wrócił ze zdwojoną siłą); szybsze rozpoznawanie słów stereotypowych (571 vs 690 ms); siadanie dalej od rzeczy skinheada (5,25 vs 4,41 krzesła).",
+      "sourceExcerpt": "Tabela 19.6 (s. 499): Eksperyment 1 – pierwszy opis: tłumienie 5,54, kontrolne 6,95; drugi opis: 7,83 i 7,08",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-91",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Tłumienie stereotypów okazuje się skuteczne na dłuższą metę pod warunkiem, że:"
+      ],
+      "correct": [
+        "jest często trenowane i się automatyzuje"
+      ],
+      "distractors": [
+        "jest stosowane tylko bardzo rzadko",
+        "odbywa się wyłącznie siłą samej woli",
+        "dotyczy tylko jednego, wybranego stereotypu",
+        "osoba ma bardzo wysoką samoocenę",
+        "towarzyszy mu rywalizacja z innymi",
+        "jest wymuszone przez inne osoby"
+      ],
+      "explanation": "Proces kontroli można zautomatyzować, więc efekt sprężyny nie jest nieuchronny (van Knippenberg i Dijksterhuis 2000).",
+      "sourceExcerpt": "s. 501: stereotypu stanowi więc na dłuższą metę skuteczny sposób kontroli stereotypu, wszakże pod warunkiem, że jest wystarczająco często trenowane",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-92",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Teoria tożsamości społecznej (Tajfel i Turner, 1979, 1986) zakłada m.in., że ważnym źródłem pozytywnej samooceny jest:"
+      ],
+      "correct": [
+        "przynależność do cenionych grup społecznych"
+      ],
+      "distractors": [
+        "unikanie przynależności do jakichkolwiek grup",
+        "porównywanie się wyłącznie z grupą własną",
+        "sukces osiągnięty w samotności",
+        "członkostwo w grupach o niskim statusie",
+        "brak kategoryzacji społecznych",
+        "ocena przez grupy obce"
+      ],
+      "explanation": "Założenia: (1) skłonność do kategoryzowania; (2) zawsze jedna kategoria to „my”, pozostałe – „oni”; (3) przynależność do cenionych grup – źródło samooceny.",
+      "sourceExcerpt": "Ramka Teoria 19 (s. 499): (3) ważnym źródłem pozytywnej samooceny jest dla ludzi przynależność do cenionych grup społecznych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-93",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według teorii tożsamości społecznej faworyzacja grupy własnej i deprecjacja obcej dotyczą przede wszystkim wymiarów:"
+      ],
+      "correct": [
+        "ważnych, definiujących hierarchię"
+      ],
+      "distractors": [
+        "nieważnych, niezwiązanych z hierarchią",
+        "wszystkich wymiarów w jednakowym stopniu",
+        "wyłącznie wyglądu zewnętrznego członków",
+        "tylko cech ważnych dla grupy obcej",
+        "wyłącznie emocji pierwotnych",
+        "wyłącznie wymiarów wybranych losowo"
+      ],
+      "explanation": "Zjawiska te dotyczą jedynie wymiarów ważnych, definiujących hierarchię; nie dotyczą wymiarów nieważnych.",
+      "sourceExcerpt": "Ramka Teoria 19 (s. 499): Zjawiska te dotyczą jedynie wymiarów ważnych, na których opiera się hierarchia międzygrupowa, nie dotyczą zaś wymiarów nieważnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-94",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Lekarze oceniają swoją grupę wyżej od pielęgniarek pod względem wiedzy medycznej, ale pod względem opiekuńczości – ważnej dla pielęgniarek – ta przewaga znika lub się odwraca. Ilustruje to, że preferencja grupy własnej:"
+      ],
+      "correct": [
+        "zależy od ważności wymiaru dla grupy wyższej"
+      ],
+      "distractors": [
+        "występuje jednakowo na każdym wymiarze",
+        "pojawia się tylko u grup o niskim statusie",
+        "w ogóle nie zależy od statusu grupy",
+        "dotyczy tylko wymiarów nieważnych",
+        "jest silniejsza u pielęgniarek na każdym wymiarze",
+        "znika całkowicie w zawodach medycznych"
+      ],
+      "explanation": "Metaanaliza 84 badań (Bettencourt i in. 2001, ryc. 19.13): grupy o wysokim statusie silnie preferują siebie na wymiarach dla nich ważnych; na wymiarach ważnych dla grupy niższej preferencja jest odwrócona.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.13, s. 500): różnica status wysoki – niski; wymiary ważne dla wysokiego statusu – preferencja swoich 0,79; nieważne – 0,27; ważne dla niskiego statusu – −1,15",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-95",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Dwa podstawowe wymiary stosunków międzygrupowych to:"
+      ],
+      "correct": [
+        "hierarchia statusu i antagonizmy"
+      ],
+      "distractors": [
+        "kompetencja i ciepło grup",
+        "izolacja i dyskryminacja",
+        "faworyzacja i deprecjacja",
+        "rekategoryzacja i dekategoryzacja",
+        "animalizacja i mechanizacja",
+        "aktywność i pasywność działań"
+      ],
+      "explanation": "Hierarchia (prestiż i zasoby) + antagonizmy (konflikt interesów, konflikty symboliczne o wartości, lęk międzygrupowy, negatywne stereotypy). MTS: kompetencja z hierarchii, ciepło z antagonizmu.",
+      "sourceExcerpt": "s. 501: Dwa podstawowe wymiary stosunków międzygrupowych to hierarchia statusu (prestiżu oraz władzy i zasobów materialnych) tudzież antagonizmy międzygrupowe",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-96",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Schemat reprezentujący grupę wyodrębnioną z uwagi na łatwo zauważalną cechę (np. płeć, narodowość, wiek), zwykle nadmiernie uproszczony i niepodatny na zmiany, to:"
+      ],
+      "correct": [
+        "stereotyp"
+      ],
+      "distractors": [
+        "uprzedzenie",
+        "dyskryminacja",
+        "etnocentryzm",
+        "piętno",
+        "prototyp",
+        "mit legitymizujący"
+      ],
+      "explanation": "Stereotyp – schemat (sądy) o grupie; uprzedzenie – stosunek emocjonalny; dyskryminacja – zachowanie. Stereotyp: uproszczony, nadogólny, niepodatny na zmiany, społecznie podzielany.",
+      "sourceExcerpt": "s. 474: Stereotyp to schemat reprezentujący grupę lub rodzaj osób wyodrębnionych z uwagi na jakąś łatwo zauważalną cechę określającą ich społeczną tożsamość",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-97",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Uprzedzenie to:"
+      ],
+      "correct": [
+        "stosunek do członków grupy z powodu ich członkostwa"
+      ],
+      "distractors": [
+        "wrogie zachowanie wobec osób z grupy z powodu ich członkostwa",
+        "zbiór sądów o typowych cechach członków danej grupy",
+        "silna dewaluacja osoby łamiącej powszechną normę",
+        "przekonanie, że grupa obca knuje przeciw nam spisek",
+        "uzasadnianie istniejącej hierarchii społecznej",
+        "odrzucanie wyłącznie osób o innym kolorze skóry"
+      ],
+      "explanation": "Uprzedzenie – stosunek (emocjonalny) z powodu przynależności; najczęstsze postaci: etnocentryzm, rasizm, nacjonalizm, szowinizm, seksizm.",
+      "sourceExcerpt": "s. 474: uprzedzenie, czyli negatywny lub (rzadziej) pozytywny stosunek do członków jakiejś grupy utrzymywany z tego powodu, że są jej członkami",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-98",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Pomijanie kobiet przy awansie z tego tylko powodu, że są kobietami, to przykład:"
+      ],
+      "correct": [
+        "dyskryminacji"
+      ],
+      "distractors": [
+        "stereotypu",
+        "uprzedzenia",
+        "etnocentryzmu",
+        "piętnowania",
+        "samoupośledzania",
+        "infrahumanizacji"
+      ],
+      "explanation": "Stereotyp kobiecości: sądy (kobiety uległe, bierne, opiekuńcze); uprzedzenie: niechęć do kobiet; dyskryminacja: zachowanie – pomijanie kobiet przy awansie.",
+      "sourceExcerpt": "s. 474: Stereotyp jest zatem zbiorem sądów … uprzedzenie to stosunek emocjonalny (jak niechęć do kobiet), dyskryminacja zaś to zachowania (jak pomijanie kobiet przy awansie)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-99",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Odrzucanie osób należących do grup kulturowo lub rasowo odmiennych przy akceptowaniu osób kulturowo podobnych to:"
+      ],
+      "correct": [
+        "etnocentryzm"
+      ],
+      "distractors": [
+        "seksizm",
+        "szowinizm",
+        "rasizm symboliczny",
+        "stereotyp spiskowy",
+        "deprecjacja grupy własnej",
+        "dekategoryzacja"
+      ],
+      "explanation": "Najczęstsze postaci uprzedzeń: etnocentryzm, rasizm (np. antysemityzm), nacjonalizm, szowinizm, seksizm.",
+      "sourceExcerpt": "s. 474: Najczęstsze postaci uprzedzeń: etnocentryzm – odrzucanie osób należących do grup kulturowo i/lub rasowo odmiennych, a akceptowanie osób kulturowo podobnych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-100",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotyp, w którym grupa obca jest traktowana jak pojedynczy, wrogi byt dążący przez niejawne działania do zapanowania nad naszą grupą (Kofta, 2001), to stereotyp:"
+      ],
+      "correct": [
+        "spiskowy"
+      ],
+      "distractors": [
+        "paternalistyczny",
+        "zawistny",
+        "jednorodnie negatywny",
+        "symboliczny",
+        "kastowy",
+        "merytokratyczny"
+      ],
+      "explanation": "Stereotyp spiskowy – grupa jako jeden byt intencjonalny dążący do władzy przez skryte, skoordynowane działania; członkowie – egoistyczni, wzajemnie się popierający wykonawcy celów grupy.",
+      "sourceExcerpt": "s. 474: pewne stereotypy polegają na traktowaniu grupy obcej jako pojedynczego bytu intencjonalnego, podobnego do wrogiej nam osoby. Istotą takiego stereotypu spiskowego jest przeświadczenie, że określona grupa obca dąży do zapanowania nad naszą grupą przez niejawne i podstępne działania",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-101",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy spiskowe powstają przede wszystkim w sytuacji:"
+      ],
+      "correct": [
+        "długotrwałego konfliktu dużych grup o zasoby"
+      ],
+      "distractors": [
+        "krótkiej współpracy małych grup",
+        "przypadkowego podziału ludzi na grupy",
+        "dobrobytu i stabilności gospodarczej",
+        "kontaktu w warunkach równego statusu",
+        "rekategoryzacji grup do jednej kategorii",
+        "braku kontaktów z grupą obcą"
+      ],
+      "explanation": "Stereotypy spiskowe – długotrwały konflikt grup narodowościowych lub religijnych; wyjaśniają klęski i kryzysy, dają moralne uzasadnienie dyskryminacji i dehumanizacji.",
+      "sourceExcerpt": "s. 474: Tego rodzaju stereotypy powstają w wypadku długotrwałego konfliktu dużych grup społecznych (narodowościowych i religijnych) o zasoby ekonomiczne, władzę czy terytorium",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-102",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Kofta i Sędek (1995) wykazali, że spiskowy stereotyp Żydów najsilniej przewidywał poziom uprzedzeń:"
+      ],
+      "correct": [
+        "tuż przed wyborami parlamentarnymi"
+      ],
+      "distractors": [
+        "tuż po wyborach parlamentarnych",
+        "w okresie wakacyjnym",
+        "równie silnie przez cały rok",
+        "wyłącznie u osób młodych",
+        "tylko w czasie świąt religijnych",
+        "tuż po zakończeniu kampanii"
+      ],
+      "explanation": "Ryc. 19.1: przed wyborami beta stereotypu spiskowego 0,52 (cechy −0,09); po wyborach 0,19 (cechy 0,09) – w kampanii rośnie aktualność władzy i konfliktów.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.1, s. 475): przed wyborami – stereotyp spiskowy 0,52, cechy −0,09; po wyborach – 0,19 i 0,09",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-103",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W końcu XX wieku stereotyp spiskowy wobec Żydów wyznawała w Polsce (badania Kofty):"
+      ],
+      "correct": [
+        "około jedna trzecia Polaków"
+      ],
+      "distractors": [
+        "około 5% Polaków",
+        "niemal wszyscy Polacy",
+        "około dwóch trzecich Polaków",
+        "wyłącznie najstarsi Polacy",
+        "nikt z badanych",
+        "około połowa Polaków"
+      ],
+      "explanation": "Ok. 1/3 Polaków; nowsze badania – pozytywne zmiany (Winiewski, Matera, Bulska 2020); wobec Niemców i Rosjan – wyraźnie słabiej.",
+      "sourceExcerpt": "s. 475: Badania Kofty pokazują, że znaczna część Polaków (około jednej trzeciej) jeszcze w końcu XX wieku wyznawała taki stereotyp spiskowy w odniesieniu do Żydów",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-104",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Teoria dominacji społecznej (Pratto, Sidanius i Levin, 2006) zakłada, że społeczeństwa wytwarzają trzy rodzaje hierarchii grupowej:"
+      ],
+      "correct": [
+        "wiekową, płci i arbitralną"
+      ],
+      "distractors": [
+        "klasową, kastową i religijną",
+        "ekonomiczną, polityczną i kulturową",
+        "formalną, nieformalną i rodzinną",
+        "narodową, etniczną i zawodową",
+        "prestiżu, władzy i zasobów",
+        "wiekową, klasową i zawodową"
+      ],
+      "explanation": "Hierarchie: wiekowe (dorośli > dzieci), płci (mężczyźni > kobiety), arbitralne (klasowe, kastowe, narodowe, religijne – różna treść w różnych społeczeństwach).",
+      "sourceExcerpt": "s. 475: społeczeństwa wytwarzają trzy rodzaje systemów hierarchii grupowej: hierarchie wiekowe … hierarchie płci … oraz hierarchie arbitralne",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-105",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Podział kastowy w Indiach to przykład hierarchii:"
+      ],
+      "correct": [
+        "arbitralnej"
+      ],
+      "distractors": [
+        "wiekowej",
+        "płci",
+        "merytokratycznej",
+        "wspólnotowej",
+        "symbolicznej",
+        "płci i wieku"
+      ],
+      "explanation": "Hierarchie arbitralne – różna treść: kasty w Indiach (oparte na urodzeniu, nieelastyczne), w Polsce – podział zawodowy (wykształcenie, plastyczny).",
+      "sourceExcerpt": "s. 476: hierarchie arbitralne są wypełniane bardzo różną treścią w różnych społeczeństwach. W społeczeństwie indyjskim kluczową rolę odgrywa podział kastowy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-106",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "We współczesnym społeczeństwie polskim dominuje hierarchia oparta na:"
+      ],
+      "correct": [
+        "podziale zawodowym, czyli wykształceniu"
+      ],
+      "distractors": [
+        "urodzeniu, czyli kaście",
+        "religii wyznawanej przez rodzinę",
+        "pochodzeniu narodowym",
+        "wieku osób",
+        "majątku odziedziczonym po przodkach",
+        "przynależności politycznej"
+      ],
+      "explanation": "W Polsce – podział zawodowy oparty na wykształceniu, więc z natury dość plastyczny; prestiż zawodów od lat 70. zmieniał się niewiele.",
+      "sourceExcerpt": "s. 476: We współczesnym społeczeństwie polskim dominuje z kolei podział zawodowy, opierający się na wykształceniu, a więc z natury dość plastyczny",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-107",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Najwyższy prestiż wśród zawodów w Polsce w badaniu CBOS z 2019 roku miał:"
+      ],
+      "correct": [
+        "strażak"
+      ],
+      "distractors": [
+        "profesor uniwersytetu",
+        "minister",
+        "lekarz",
+        "sędzia",
+        "ksiądz",
+        "poseł na sejm"
+      ],
+      "explanation": "Tab. 19.1 (2019): strażak 88, górnik i pielęgniarka 81, profesor 80; na końcu m.in. działacz partii politycznej (44).",
+      "sourceExcerpt": "Tabela 19.1 (s. 476): Strażak – 2019: 88; Profesor uniwersytetu – 80; Działacz partii politycznej – 44",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-108",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Najniżej w rankingu prestiżu zawodów w Polsce w 2019 roku (CBOS) znalazł się:"
+      ],
+      "correct": [
+        "działacz partii politycznej"
+      ],
+      "distractors": [
+        "pracownik sprzątający",
+        "robotnik budowlany niewykwalifikowany",
+        "rolnik indywidualny",
+        "sprzedawca w sklepie",
+        "referent w biurze",
+        "makler giełdowy"
+      ],
+      "explanation": "Tab. 19.1: działacz partii 44 – najniżej; sprzątaczka 71, robotnik budowlany niewykwalifikowany 63.",
+      "sourceExcerpt": "Tabela 19.1 (s. 476): Działacz partii politycznej – 2019: 44",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-109",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Główna zmiana w prestiżu zawodów w Polsce od lat 70. polegała na:"
+      ],
+      "correct": [
+        "niewielkim spadku cenionych i dużym wzroście nisko cenionych"
+      ],
+      "distractors": [
+        "dużym spadku cenionych i spadku nisko cenionych",
+        "całkowitym odwróceniu kolejności wszystkich zawodów",
+        "braku jakichkolwiek zmian w ocenach prestiżu",
+        "wzroście prestiżu ministrów, posłów i polityków",
+        "spadku prestiżu wszystkich zawodów fizycznych",
+        "zrównaniu prestiżu wszystkich zawodów w kraju"
+      ],
+      "explanation": "Minister, lekarz, profesor – niewielki spadek; rolnik, kupiec, robotnik niewykwalifikowany – duży wzrost → bardziej egalitarnie, ale względne pozycje podobne.",
+      "sourceExcerpt": "s. 477: Główna zmiana polegała na niewielkim spadku prestiżu zawodów niegdyś wysoko cenionych (minister, lekarz, profesor uniwersytetu) i dużym wzroście prestiżu zawodów kiedyś cenionych nisko",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-110",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Społecznie podzielane wartości i przekonania przypisujące więcej wartości przedstawicielom wyżej położonych grup, które uzasadniają istniejący porządek, to:"
+      ],
+      "correct": [
+        "mity legitymizujące"
+      ],
+      "distractors": [
+        "stereotypy spiskowe",
+        "normy egalitarne",
+        "konflikty symboliczne",
+        "kategoryzacje społeczne",
+        "piętna społeczne",
+        "lęki międzygrupowe"
+      ],
+      "explanation": "Mity legitymizujące – np. stereotypy grup, ideologie (merytokratyczna) – kluczowe dla stabilności hierarchii.",
+      "sourceExcerpt": "s. 477: kluczową rolę odgrywają tu mity legitymizujące istniejący porządek społeczny, czyli społecznie podzielane wartości, postawy i przekonania przypisujące więcej wartości i ważności przedstawicielom wyżej położonych grup społecznych",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-111",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Przekonanie, że system powinien nagradzać zdolności i kwalifikacje, więc sukces powinni osiągać ci, którym się on należy, to ideologia:"
+      ],
+      "correct": [
+        "merytokratyczna"
+      ],
+      "distractors": [
+        "egalitarna",
+        "paternalistyczna",
+        "kastowa",
+        "spiskowa",
+        "kolektywistyczna",
+        "symboliczna"
+      ],
+      "explanation": "Ideologia merytokratyczna – przykład mitu legitymizującego.",
+      "sourceExcerpt": "s. 477: Przykładem jest ideologia merytokratyczna, czyli przekonanie, że system powinien nagradzać zdolności i kwalifikacje jednostek, a więc sukces powinni osiągać ci, którym on się należy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-112",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badania Domańskiego i CBOS pokazały, że Polacy uważają nierówności dochodów za zbyt duże, ale rzeczywiste i pożądane zarobki różnych zawodów korelują w stopniu:"
+      ],
+      "correct": [
+        "niemal doskonałym (r = 0,99)"
+      ],
+      "distractors": [
+        "zerowym (r = 0)",
+        "słabym (r = 0,25)",
+        "umiarkowanym (r = 0,50)",
+        "ujemnym (r = −0,60)",
+        "bardzo słabym ujemnym (r = −0,10)",
+        "słabym ujemnym (r = −0,29)"
+      ],
+      "explanation": "r = 0,99 – Polacy nie kwestionują zasadności nierówności, tylko ich skalę (przedsiębiorca 21× więcej od sprzątaczki, pożądane 8×).",
+      "sourceExcerpt": "s. 477: te dwie wartości korelują w stopniu niemal doskonałym (r = 0,99)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-113",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według badań CBOS Polacy sądzą, że prywatny przedsiębiorca zarabia 21 razy więcej od sprzątaczki, a za pożądany stan uważają, by zarabiał:"
+      ],
+      "correct": [
+        "„tylko” 8 razy więcej"
+      ],
+      "distractors": [
+        "tyle samo co sprzątaczka",
+        "„tylko” 2 razy więcej",
+        "aż 40 razy więcej",
+        "tyle samo co obecnie",
+        "mniej niż sprzątaczka",
+        "„tylko” 30 razy więcej"
+      ],
+      "explanation": "Nierówności oparte na zasługach uznawane za zbyt wielkie, ale ich zasadność niekwestionowana.",
+      "sourceExcerpt": "s. 477: ludzie są przekonani, że prywatny przedsiębiorca zarabia 21 razy więcej od sprzątaczki, a za pożądany stan rzeczy uważają sytuację, w której zarabiałby „tylko” 8 razy więcej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-114",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W społeczeństwach o silnie ustabilizowanej hierarchii członkowie grup upośledzonych przejawiają:"
+      ],
+      "correct": [
+        "słabą preferencję swoich i pozytywne postawy wobec uprzywilejowanych"
+      ],
+      "distractors": [
+        "silną preferencję swoich i silną deprecjację grup wyższych",
+        "wyłącznie wrogie postawy wobec grup uprzywilejowanych",
+        "silną deprecjację własnej grupy i obojętność wobec innych",
+        "takie same postawy jak grupy uprzywilejowane wobec siebie",
+        "brak jakichkolwiek postaw wobec innych grup społecznych",
+        "silną preferencję grup obcych i wrogość wobec swoich"
+      ],
+      "explanation": "Np. Afroamerykanie silniej niż biali sądzą, że czarnoskórzy są leniwi; preferencje widać zwłaszcza w miarach ukrytych (Jost, Banaji, Nosek 2004); dotyczy np. USA, nie Polski.",
+      "sourceExcerpt": "s. 477: w społeczeństwach o silnie ustabilizowanej hierarchii członkowie grup upośledzonych przejawiają jedynie słabą skłonność do preferowania grupy własnej (a czasami nawet jej brak), a także niewielką skłonność do deprecjonowania grup stojących wyżej",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-115",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W klasycznych badaniach preferencji lalek przez dziewczynki w wieku przedszkolnym:"
+      ],
+      "correct": [
+        "czarnoskóre dziewczynki, podobnie jak białe, wolały białe lalki"
+      ],
+      "distractors": [
+        "czarnoskóre dziewczynki wolały wyłącznie czarnoskóre lalki",
+        "żadna grupa nie miała preferencji",
+        "białe dziewczynki wolały czarnoskóre lalki",
+        "preferencje zależały tylko od koloru ubrania lalki",
+        "dziewczynki wybierały lalki losowo",
+        "białe dziewczynki nie chciały bawić się żadną lalką"
+      ],
+      "explanation": "Wczesny przejaw pozytywnych postaw grup upośledzonych wobec grup uprzywilejowanych.",
+      "sourceExcerpt": "s. 477: białe dziewczynki wolały bawić się lalkami białymi, czarnoskóre ujawniały podobne preferencje",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-116",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Kobiety uważające, że zasługują na niższą płacę niż mężczyźni, oraz nisko opłacani z niższymi wymaganiami finansowymi przejawiają:"
+      ],
+      "correct": [
+        "samoupośledzanie"
+      ],
+      "distractors": [
+        "piętnowanie",
+        "faworyzację grupy własnej",
+        "rasizm symboliczny",
+        "zagrożenie stereotypem",
+        "dekategoryzację",
+        "lęk międzygrupowy"
+      ],
+      "explanation": "Samoupośledzanie (Pfeifer i Stephan 2019; Pelham i Hetts 2001) – wynika z zakotwiczenia aspiracji; dla systemu utrwala dominację i status quo.",
+      "sourceExcerpt": "s. 477: Innym mechanizmem podtrzymującym hierarchię jest samoupośledzanie przejawiane przez grupy położone niżej w hierarchii. Kobiety na przykład uważają, że zasługują na niższą płacę niż mężczyźni",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-117",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Silna dewaluacja osoby spostrzeganej jako łamiąca powszechną normę – z powodu cechy (np. otyłości), czynu (np. zdrady) lub przynależności do odrzucanej grupy – to:"
+      ],
+      "correct": [
+        "piętnowanie (stygmatyzacja)"
+      ],
+      "distractors": [
+        "samoupośledzanie",
+        "dekategoryzacja",
+        "rasizm symboliczny",
+        "ostateczny błąd atrybucji",
+        "efekt jednorodności grupy obcej",
+        "konflikt symboliczny"
+      ],
+      "explanation": "Napiętnowani budzą lęk i pogardę, odbierani jako zagrożenie porządku, doznają wykluczenia (Heatherton i in. 2008); piętno to wytwór społeczności i zmienia się z normami.",
+      "sourceExcerpt": "s. 477: Napiętnowanie to silna dewaluacja jakiejś osoby spostrzeganej jako łamiąca powszechną normę społeczną przez posiadanie jakiejś cechy (np. deformacja twarzy, otyłość), dokonania jakiegoś czynu (zdrada, pedofilia) czy przynależności do odrzucanej grupy społecznej",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-118",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Piętnowanie zmienia się w czasie (dawniej piętnowano np. osoby rozwiedzione czy niezamężne matki), ponieważ piętno:"
+      ],
+      "correct": [
+        "wytworem społeczności"
+      ],
+      "distractors": [
+        "wrodzone i biologiczne",
+        "zależne tylko od wyglądu",
+        "zawsze obiektywnie słuszne",
+        "typowe tylko dla grup etnicznych",
+        "niezależne od norm",
+        "takie samo w każdej epoce"
+      ],
+      "explanation": "Piętno jest zawsze wytworem społeczności, a skoro normy się zmieniają, zmieniają się też grupy napiętnowane.",
+      "sourceExcerpt": "s. 478: Piętno zawsze jest wytworem społeczności, a skoro normy społeczne się zmieniają, to zmianie ulegają i grupy napiętnowane",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-119",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Sytuacja, w której dwie grupy współzawodniczą o te same, niewystarczające dla wszystkich zasoby (gra o sumie zerowej), to:"
+      ],
+      "correct": [
+        "rzeczywisty konflikt interesów"
+      ],
+      "distractors": [
+        "konflikt symboliczny",
+        "lęk międzygrupowy",
+        "negatywne stereotypy",
+        "zagrożenie wartości grupy własnej",
+        "hierarchia wiekowa",
+        "efekt jednorodności"
+      ],
+      "explanation": "Pięć źródeł antagonizmu: rzeczywisty konflikt interesów, konflikt symboliczny, lęk międzygrupowy, negatywne stereotypy, zagrożenie wartości grupy własnej.",
+      "sourceExcerpt": "s. 478: Rzeczywisty konflikt interesów to sytuacja, w której dwie grupy współzawodniczą o te same niewystarczające dla wszystkich zasoby",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-120",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W eksperymencie Sherifa (1961) na obozie letnim chłopców podzielonych na Orły i Grzechotniki antagonizm między grupami narastał po:"
+      ],
+      "correct": [
+        "meczach rywalizacji grup"
+      ],
+      "distractors": [
+        "wspólnym wykonaniu zadania",
+        "wspólnych posiłkach",
+        "zamianie członków między grupami",
+        "rozmowach o uprzedzeniach",
+        "obejrzeniu filmu o tolerancji",
+        "wspólnej wycieczce do lasu"
+      ],
+      "explanation": "Klasyczna ilustracja rzeczywistego konfliktu interesów; konflikt zażegnano, stawiając przed grupami wspólne cele.",
+      "sourceExcerpt": "s. 478: Po kilku meczach o charakterze grupowej rywalizacji antagonizm między chłopcami przybrał na sile … (później konflikt ten zażegnano, stawiając przed obiema grupami wspólne cele)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-121",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Konflikt między Orłami i Grzechotnikami w eksperymencie Sherifa zażegnano, wprowadzając:"
+      ],
+      "correct": [
+        "wspólne cele dla obu grup"
+      ],
+      "distractors": [
+        "kary za bójki",
+        "dalszą rywalizację sportową",
+        "rozdzielenie obozów",
+        "nagrody dla zwycięzców",
+        "nowych przywódców",
+        "wykłady o równości"
+      ],
+      "explanation": "Wspólne (synergiczne) cele redukują antagonizm.",
+      "sourceExcerpt": "s. 478: później konflikt ten zażegnano, stawiając przed obiema grupami wspólne cele",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-122",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Negatywne postawy wobec imigrantów (McLaren, 2003) są najsilniejsze wśród niżej położonych warstw społecznych, ponieważ:"
+      ],
+      "correct": [
+        "są dla nich konkurencją o pracę"
+      ],
+      "distractors": [
+        "wykonują zawody o najwyższym prestiżu",
+        "mają z nimi najmniej kontaktów",
+        "zagrażają ich wartościom religijnym",
+        "wyższe warstwy są bardziej uprzedzone",
+        "rzadko korzystają z opieki społecznej",
+        "nie konkurują z nimi o żadne dobra"
+      ],
+      "explanation": "Teoria rzeczywistego konfliktu interesów: imigranci podejmują najmniej wdzięczne prace → konkurencja dla niżej położonych; dla wyżej położonych – brak zagrożenia.",
+      "sourceExcerpt": "s. 479: Imigranci podejmują się zwykle najbardziej niewdzięcznych zajęć (za mniejszą płacę), stanowią więc faktyczną konkurencję dla osób z grup niżej położonych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-123",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Osoby homoseksualne nie zagrażają realnym interesom większości, a mimo to są uważane za zagrożenie dla wartości moralnych. Źródłem tego antagonizmu jest:"
+      ],
+      "correct": [
+        "konflikt symboliczny (wartości)"
+      ],
+      "distractors": [
+        "rzeczywisty konflikt interesów",
+        "lęk międzygrupowy",
+        "negatywne stereotypy",
+        "zagrożenie wartości grupy własnej",
+        "hierarchia wiekowa",
+        "efekt jednorodności"
+      ],
+      "explanation": "Nie wszystkie antagonizmy wynikają z interesów materialnych – konflikt symboliczny dotyczy wartości.",
+      "sourceExcerpt": "s. 479: aczkolwiek osoby o takiej orientacji nie zagrażają żadnym ich realnym interesom. Mimo to są uważane za zagrożenie dla wartości moralnych",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-124",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Teoria rasizmu symbolicznego (Kinder i Sears, 1981) tłumaczy współczesne uprzedzenia białych do czarnoskórych w USA tym, że ci drudzy są spostrzegani jako:"
+      ],
+      "correct": [
+        "łamiący wartości, np. równość"
+      ],
+      "distractors": [
+        "konkurencja w dostępie do pracy i opieki społecznej",
+        "zagrożenie fizyczne dla białych",
+        "grupa o niższej inteligencji",
+        "grupa spiskująca w celu przejęcia władzy",
+        "grupa o wyższym statusie ekonomicznym",
+        "grupa przybyła niedawno do USA"
+      ],
+      "explanation": "Rasizm symboliczny – konflikt wartości (np. akcja wyrównywania szans jako naruszenie równości); wyjaśnia też uprzedzenia do imigrantów silniej niż konflikt interesów.",
+      "sourceExcerpt": "s. 479: współczesnym powodem uprzedzeń rasowych białych do czarnoskórych w USA jest spostrzeganie tych drugich jako łamiących kluczowe wartości, takie jak równość … i konieczność zapracowania indywidualnym wysiłkiem na własny sukces",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-125",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według metaanalizy (Riek, Mania i Gaertner, 2006) wpływ różnych zagrożeń międzygrupowych na negatywne postawy wobec grupy obcej jest:"
+      ],
+      "correct": [
+        "silniejszy przy niskim statusie grupy obcej"
+      ],
+      "distractors": [
+        "silniejszy przy wysokim statusie grupy",
+        "taki sam bez względu na status",
+        "zerowy dla konfliktu rzeczywistego",
+        "najsilniejszy dla wartości grupy własnej",
+        "silny tylko wobec grup religijnych",
+        "najsłabszy przy niskim statusie grupy"
+      ],
+      "explanation": "Tab. 19.2: niski status – konflikt rzeczywisty 1,09, lęk 1,22; wysoki – 0,72 i 0,82; zagrożenie wartości grupy własnej ogółem tylko 0,43.",
+      "sourceExcerpt": "Tabela 19.2 (s. 479): ogółem – konflikt rzeczywisty 0,92, symboliczny 1,01, lęk 1,04, negatywne stereotypy 0,98, wartość grupy własnej 0,43; niski status – 1,09/1,01/1,22/1,04; wysoki – 0,72/0,72/0,82/0,61",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-126",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Ze źródeł negatywnych postaw wobec grup obcych najsłabiej działa (metaanaliza Riek i in., 2006):"
+      ],
+      "correct": [
+        "zagrożenie wartości grupy własnej"
+      ],
+      "distractors": [
+        "rzeczywisty konflikt interesów grup",
+        "konflikt symboliczny dotyczący wartości",
+        "lęk międzygrupowy w kontaktach z obcymi",
+        "negatywne stereotypy grupy obcej",
+        "lęk przed kontaktem z obcymi",
+        "hierarchia wiekowa w społeczeństwie"
+      ],
+      "explanation": "Tab. 19.2: zagrożenie wartości grupy własnej d = 0,43; pozostałe ok. 0,9–1,04.",
+      "sourceExcerpt": "Tabela 19.2 (s. 479): Wartość grupy własnej – 0,43 (pozostałe zagrożenia 0,92–1,04)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-127",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Strach i niepewność w kontakcie z członkami grupy obcej, wynikające z podejrzewania ich o wrogie intencje i z nieznajomości ich wzorców myślenia, to:"
+      ],
+      "correct": [
+        "lęk międzygrupowy"
+      ],
+      "distractors": [
+        "rzeczywisty konflikt interesów",
+        "konflikt symboliczny",
+        "negatywne stereotypy",
+        "zagrożenie wartości grupy własnej",
+        "hierarchia wiekowa",
+        "efekt jednorodności"
+      ],
+      "explanation": "Zintegrowana teoria uprzedzeń (Stephan i Stephan 2000): konflikty interesów i wartości + lęk międzygrupowy + negatywne stereotypy.",
+      "sourceExcerpt": "s. 479: Lęk międzygrupowy to strach i niepewność w kontakcie z członkami grupy obcej wynikające z podejrzewania ich o wrogie intencje, a także z nieznajomości wzorców ich myślenia i postępowania",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-128",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Amerykańskie studentki silnie identyfikujące się z USA, po obejrzeniu walki, w której Rosjanin pobił Amerykanina, oceniały gorzej Rosjan (i innych obcokrajowców). To przykład reakcji na:"
+      ],
+      "correct": [
+        "zagrożenie wartości grupy własnej"
+      ],
+      "distractors": [
+        "rzeczywisty konflikt interesów",
+        "konflikt symboliczny",
+        "lęk międzygrupowy",
+        "negatywne stereotypy",
+        "hierarchia wiekowa",
+        "efekt jednorodności"
+      ],
+      "explanation": "Branscombe i Wann (1994): spadek samooceny kolektywnej → negatywne sądy o obcych → zwrotnie podnoszą samoocenę kolektywną; tylko u silnie identyfikujących się.",
+      "sourceExcerpt": "s. 479: studentki ze Stanów Zjednoczonych oglądające mecz bokserski, w którym rosyjski zawodnik sromotnie pobił amerykańskiego, doznawały spadku samooceny kolektywnej … Prowadziło to do wzrostu negatywnych sądów na temat Rosjan",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-129",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według modelu treści stereotypu (Fiske i in.) dwa podstawowe wymiary treści wszystkich stereotypów grupowych to:"
+      ],
+      "correct": [
+        "kompetencja i ciepło"
+      ],
+      "distractors": [
+        "inteligencja i uroda",
+        "status i liczebność",
+        "moralność i wiara",
+        "ekstrawersja i lęk",
+        "konflikt i pomoc",
+        "wiek i płeć"
+      ],
+      "explanation": "MTS: sprawczość (kompetencja) i wspólnotowość (ciepło) – niezależne wymiary treści stereotypów.",
+      "sourceExcerpt": "s. 480: sprawczość (którą autorzy nazywają kompetencją) i wspólnotowość (którą autorzy nazywają ciepłem) są także dwoma podstawowymi wymiarami treści stereotypów",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-130",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Model treści stereotypu bywa krytykowany m.in. za to, że:"
+      ],
+      "correct": [
+        "słabiej działa w krajach rozwarstwionych"
+      ],
+      "distractors": [
+        "nie uwzględnia wymiaru kompetencji",
+        "opiera się tylko na badaniach z Polski",
+        "dotyczy wyłącznie stereotypów płci",
+        "zakłada jeden wymiar treści stereotypów",
+        "pomija emocje związane ze stereotypami",
+        "w ogóle nie przewiduje żadnych emocji"
+      ],
+      "explanation": "Ograniczenia MTS: brak uwzględnienia specyfiki kulturowej; mniejsza trafność w krajach o wysokim rozwarstwieniu lub delegitymizacji władzy (np. Polska).",
+      "sourceExcerpt": "s. 480: bywa na przykład oskarżany o brak uwzględnienia specyfiki kulturowej i w związku z tym mniejszą trafność przewidywań w krajach wysokiego rozwarstwienia społecznego czy wysokiej delegitymizacji władzy (jak na przykład Polska)",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-131",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy grup kompetentnych, ale pozbawionych ciepła (np. bogaci, w USA Żydzi czy Japończycy), to:"
+      ],
+      "correct": [
+        "stereotypy zawistne"
+      ],
+      "distractors": [
+        "stereotypy paternalistyczne",
+        "stereotypy jednorodnie negatywne",
+        "stereotypy jednorodnie pozytywne",
+        "stereotypy spiskowe",
+        "stereotypy symboliczne",
+        "stereotypy kastowe"
+      ],
+      "explanation": "Tab. 19.3: zawistne – kompetencja, brak ciepła (bogaci, Żydzi, Japończycy) – emocja zawiść.",
+      "sourceExcerpt": "Tabela 19.3 (s. 480): stereotypy zawistne – kompetencja, brak ciepła: bogaci, Żydzi, Japończycy",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-132",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy grup ciepłych, ale pozbawionych kompetencji (np. gospodynie domowe, osoby starsze, inwalidzi), to:"
+      ],
+      "correct": [
+        "stereotypy paternalistyczne"
+      ],
+      "distractors": [
+        "stereotypy zawistne",
+        "stereotypy jednorodnie negatywne",
+        "stereotypy jednorodnie pozytywne",
+        "stereotypy spiskowe",
+        "stereotypy symboliczne",
+        "stereotypy kastowe"
+      ],
+      "explanation": "Tab. 19.3: paternalistyczne – ciepło, brak kompetencji – emocja litość.",
+      "sourceExcerpt": "Tabela 19.3 (s. 480): stereotypy paternalistyczne – ciepło, brak kompetencji: gospodynie domowe, osoby starsze, inwalidzi",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-133",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy grup pozbawionych zarówno kompetencji, jak i ciepła (np. bezdomni, biedni, żyjący z zasiłku), to:"
+      ],
+      "correct": [
+        "stereotypy jednorodnie negatywne"
+      ],
+      "distractors": [
+        "stereotypy zawistne",
+        "stereotypy paternalistyczne",
+        "stereotypy jednorodnie pozytywne",
+        "stereotypy spiskowe",
+        "stereotypy symboliczne",
+        "stereotypy kastowe"
+      ],
+      "explanation": "Jednorodnie negatywne – „głupi i źli”, szkodliwi, pasożyty; główna reakcja – pogarda.",
+      "sourceExcerpt": "Tabela 19.3 (s. 480): stereotypy jednorodnie negatywne – brak ciepła, brak kompetencji: biedni, bezdomni, żyjący z zasiłku",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-134",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy grup „głównego nurtu” – kompetentnych i ciepłych (np. klasa średnia, grupy odniesienia) – to:"
+      ],
+      "correct": [
+        "stereotypy jednorodnie pozytywne"
+      ],
+      "distractors": [
+        "stereotypy zawistne",
+        "stereotypy paternalistyczne",
+        "stereotypy jednorodnie negatywne",
+        "stereotypy spiskowe",
+        "stereotypy symboliczne",
+        "stereotypy kastowe"
+      ],
+      "explanation": "Jednorodnie pozytywne – grupy, do których należy lub aspiruje większość społeczeństwa; główna emocja – podziw.",
+      "sourceExcerpt": "Tabela 19.3 (s. 480): stereotypy jednorodnie pozytywne – ciepło i kompetencja: grupy „głównego nurtu”, grupy odniesienia, klasa średnia",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-135",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Stereotypy zawistne i paternalistyczne nazywa się ambiwalentnymi, ponieważ:"
+      ],
+      "correct": [
+        "plus na jednym wymiarze, minus na drugim"
+      ],
+      "distractors": [
+        "są pozytywne na obu wymiarach treści",
+        "są negatywne na obu wymiarach treści",
+        "zmieniają się z dnia na dzień",
+        "dotyczą wyłącznie grupy własnej",
+        "nie budzą żadnych emocji",
+        "dotyczą tylko jednej osoby"
+      ],
+      "explanation": "Zawistne: kompetentni, ale zimni; paternalistyczne: ciepli, ale niekompetentni. Ok. 80% stereotypów jest niejednorodnych.",
+      "sourceExcerpt": "s. 480: Dwa pozostałe rodzaje stereotypów są bardziej interesujące, ponieważ mają charakter ambiwalentny",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-136",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Badania MTS w USA i 17 innych krajach pokazały, że stereotypów niejednorodnych (z przewagą jednego wymiaru) jest:"
+      ],
+      "correct": [
+        "około 80%"
+      ],
+      "distractors": [
+        "około 5%",
+        "około 20%",
+        "około 50%",
+        "dokładnie 100%",
+        "żadnych",
+        "około 30%"
+      ],
+      "explanation": "Większość (ok. 80%) stereotypów jest niejednorodna; sprawczość i wspólnotowość są odrębne, ale negatywnie skorelowane na poziomie grup.",
+      "sourceExcerpt": "s. 481: Większość stereotypów okazuje się niejednorodna – około 80% stereotypizowanych grup przypisuje się więcej sprawczości niż wspólnotowości, bądź odwrotnie",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-137",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Na poziomie grup sprawczość i wspólnotowość są:"
+      ],
+      "correct": [
+        "odrębne, ale negatywnie skorelowane"
+      ],
+      "distractors": [
+        "identyczne",
+        "silnie pozytywnie skorelowane",
+        "zawsze równe",
+        "całkowicie nieistotne",
+        "odrębne i pozytywnie skorelowane",
+        "ujemnie skorelowane u jednostek"
+      ],
+      "explanation": "Grupy widziane jako sprawcze często spostrzega się jako pozbawione wspólnotowości – i odwrotnie.",
+      "sourceExcerpt": "s. 481: sprawczość i wspólnotowość są wprawdzie odrębne, ale negatywnie skorelowane na poziomie grup – to znaczy grupy widziane jako sprawcze często są też spostrzegane jako pozbawione wspólnotowości",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-138",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Profesor wydaje się mądrzejszy od asystenta, a jego dowcipy śmieszniejsze. Według MTS ilustruje to, że kompetencję przypisuje się tak, by:"
+      ],
+      "correct": [
+        "uzasadniać istniejącą hierarchię statusu"
+      ],
+      "distractors": [
+        "podważać istniejącą hierarchię statusu",
+        "obniżać samoocenę grup wyższych",
+        "zwiększać rywalizację między grupami",
+        "chronić grupy o niskim statusie",
+        "zmniejszać nierówności dochodów",
+        "ukrywać różnice w zarobkach"
+      ],
+      "explanation": "Położenie w hierarchii ujednoznacznia dwuznaczne informacje i uzasadnia hierarchię jako merytoryczną; korelacja status–kompetencja ok. 0,81.",
+      "sourceExcerpt": "s. 481: MTS zakłada, że kompetencja członków różnych grup społecznych jest im przypisywana w taki sposób, który uzasadnia istniejącą hierarchię statusu",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-139",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Korelacja między statusem grupy a przypisywaną jej kompetencją w badaniach w różnych krajach (Cuddy, Fiske, Glick, 2008) wynosi średnio około:"
+      ],
+      "correct": [
+        "0,81"
+      ],
+      "distractors": [
+        "0,10",
+        "0,29",
+        "−0,29",
+        "0,45",
+        "−0,81",
+        "0,99"
+      ],
+      "explanation": "Bardzo silna (0,81); wadą jest korelacyjny charakter tych danych – stąd badania eksperymentalne z fikcyjnymi grupami. Konflikt–ciepło: średnio tylko −0,29.",
+      "sourceExcerpt": "s. 481: grupy o wyższym statusie są spostrzegane jako bardziej kompetentne, a korelacja ta jest bardzo silna i wynosi średnio 0,81",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-140",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Sądy usprawiedliwiające hierarchię formułują częściej osoby, które (Oldmeadow i Fiske, 2007):"
+      ],
+      "correct": [
+        "silniej wierzą w sprawiedliwość porządku społecznego"
+      ],
+      "distractors": [
+        "silniej wierzą w niesprawiedliwość porządku",
+        "należą do grup o najniższym statusie",
+        "mają najmniej kontaktów z innymi grupami",
+        "odrzucają ideologię merytokratyczną",
+        "są najmłodsze w społeczeństwie",
+        "są najstarsze w społeczeństwie"
+      ],
+      "explanation": "Też ci, którzy wierzą, że niektóre grupy są „z natury” bardziej uprzywilejowane.",
+      "sourceExcerpt": "s. 481: Takie sądy usprawiedliwiające hierarchię są w większym stopniu formułowane przez osoby skądinąd silniej wierzące w sprawiedliwość porządku społecznego",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-141",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Według modelu treści stereotypu (ryc. 19.3) kolejność ogniw prowadzących od struktury społecznej do zachowania to:"
+      ],
+      "correct": [
+        "stereotypy (sądy) → uprzedzenia (emocje) → dyskryminacja (zachowanie)"
+      ],
+      "distractors": [
+        "uprzedzenia (emocje) → stereotypy (sądy) → dyskryminacja (zachowanie)",
+        "dyskryminacja (zachowanie) → stereotypy (sądy) → uprzedzenia (emocje)",
+        "stereotypy (sądy) → dyskryminacja (zachowanie) → uprzedzenia (emocje)",
+        "uprzedzenia (emocje) → dyskryminacja (zachowanie) → stereotypy (sądy)",
+        "dyskryminacja (zachowanie) → uprzedzenia (emocje) → stereotypy (sądy)",
+        "stereotypy (sądy) → struktura społeczna → uprzedzenia (emocje)"
+      ],
+      "explanation": "Struktura społeczna (hierarchia → kompetencja, konflikty → ciepło) → stereotypy → uprzedzenia → dyskryminacja → sprzężenie zwrotne do struktury.",
+      "sourceExcerpt": "Ilustracja (ryc. 19.3, s. 481): Struktura społeczna → Kompetencja / Ciepło → Stereotypy (sądy i oceny) → Uprzedzenia (emocje) → Dyskryminacja (zachowanie)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-142",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Korelacja między rywalizacją grup a spostrzeganym brakiem wspólnotowości wynosi średnio około −0,29, czyli jest:"
+      ],
+      "correct": [
+        "znacznie słabsza niż korelacja status–kompetencja"
+      ],
+      "distractors": [
+        "znacznie silniejsza niż korelacja status–kompetencja",
+        "dokładnie taka sama jak korelacja status–kompetencja",
+        "zerowa we wszystkich badaniach",
+        "dodatnia i bardzo silna",
+        "nieistotna dla modelu MTS",
+        "niemal doskonała, jak dla dochodów"
+      ],
+      "explanation": "Status–kompetencja ok. 0,81; rywalizacja–wspólnotowość ok. −0,29 (przyczyna różnicy niejasna).",
+      "sourceExcerpt": "s. 482: choć korelacja ta wynosi średnio tylko −0,29, a więc jest zacznie niższa od korelacji status–sprawczość",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "“Psychologia Społeczna” Grzyb, Wojciszke"
+}

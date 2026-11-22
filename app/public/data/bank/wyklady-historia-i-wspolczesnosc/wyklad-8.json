@@ -1,0 +1,502 @@
+{
+  "bookId": "wyklady-historia-i-wspolczesnosc",
+  "chapterId": "wyklad-8",
+  "chapterTitle": "Wykład 8. Wielkie prądy - psychologia humanistyczna",
+  "sourceHash": "5f4e81fb9f85812804a9b86a966a3a890400bc3f",
+  "questions": [
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-01",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "W psychologii humanistycznej klient jest traktowany jako:"
+      ],
+      "correct": [
+        "podmiot, a nie przedmiot"
+      ],
+      "distractors": [
+        "przedmiot oddziaływań terapeuty",
+        "organizm reagujący na bodźce",
+        "zbiór nieświadomych popędów",
+        "obiekt warunkowania",
+        "przypadek do zdiagnozowania",
+        "bierny odbiorca interpretacji"
+      ],
+      "explanation": "Humanizm: klient (nie pacjent) jako podmiot.",
+      "sourceExcerpt": "Klient jako podmiot, a nie przedmiot.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-02",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Julian Rotter opisał umiejscowienie poczucia kontroli (locus of control), czyli podział na osoby:"
+      ],
+      "correct": [
+        "wewnątrzsterowne i zewnątrzsterowne"
+      ],
+      "distractors": [
+        "introwertywne i ekstrawertywne",
+        "z potrzebami braku i wzrostu",
+        "o konstruktach centralnych i peryferyjnych",
+        "o cechach i stanach",
+        "kongruentne i niekongruentne",
+        "aktywne i reaktywne"
+      ],
+      "explanation": "Rotter (w oparciu o behawioryzm): locus of control – zewnątrz- i wewnątrzsterowność.",
+      "sourceExcerpt": "Julian Rotter: w oparciu o behawioryzm opisał: Locus of Control - umiejscowienie poczucia kontroli",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-03",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Psychologia humanistyczna zakłada, że człowiek z natury jest:"
+      ],
+      "correct": [
+        "wewnątrzsterowny, gdy nic go nie powstrzymuje"
+      ],
+      "distractors": [
+        "zewnątrzsterowny – zachowanie wyznacza środowisko",
+        "sterowany przez nieświadome popędy",
+        "reaktywny wobec aktywnego środowiska",
+        "pozbawiony wolnej woli i wyboru",
+        "kierowany wyłącznie przez potrzeby braku",
+        "zdeterminowany przez swoje geny"
+      ],
+      "explanation": "Humanizm: domyślnie wewnątrzsterowność – potencjał realizuje się, kiedy nic go nie blokuje.",
+      "sourceExcerpt": "Psychologia zakłada, że człowiek jest wewnątrzsterowny domyślnie. Twierdzi, że w każdym człowieku jest potencjał wewnątrz sterowności, który realizuje się kiedy nic go nie powstrzymuje.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-04",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "W hierarchicznym modelu potrzeb Maslowa (5 poziomów) najniżej znajdują się potrzeby:"
+      ],
+      "correct": [
+        "fizjologiczne"
+      ],
+      "distractors": [
+        "bezpieczeństwa",
+        "przynależności i miłości",
+        "uznania",
+        "samorealizacji",
+        "estetyczne",
+        "transcendencji"
+      ],
+      "explanation": "5 poziomów (od dołu): fizjologiczne, bezpieczeństwa, przynależności i miłości, uznania, samorealizacji.",
+      "sourceExcerpt": "Hierarchiczny model potrzeb: Potrzeba samorealizacji, Potrzeba uznania, Potrzeba przynależności i miłości, Potrzeba bezpieczeństwa, Potrzeby fizjologiczne",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-05",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Abraham Maslow jest, obok psychologii humanistycznej, jednym z twórców psychologii:"
+      ],
+      "correct": [
+        "transpersonalnej"
+      ],
+      "distractors": [
+        "behawioralnej",
+        "poznawczej",
+        "psychoanalitycznej",
+        "ewolucyjnej",
+        "Gestalt",
+        "społecznej"
+      ],
+      "explanation": "Maslow – współtwórca humanistycznej i (później) transpersonalnej.",
+      "sourceExcerpt": "Współtwórca i jeden z najważniejszych badaczy psychologii humanistycznej i (później) psychologii transpersonalnej.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-06",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Tendencja aktualizująca w teorii Rogersa to:"
+      ],
+      "correct": [
+        "wrodzona dążność do rozwoju możliwości"
+      ],
+      "distractors": [
+        "wyuczona skłonność do szukania nagród",
+        "nieświadome dążenie do redukcji napięcia",
+        "potrzeba podporządkowania się innym",
+        "skłonność do powtarzania wzmocnień",
+        "obronne zniekształcanie doświadczeń",
+        "dążenie do zaspokojenia potrzeb braku"
+      ],
+      "explanation": "Tendencja aktualizująca – wrodzona dążność do rozwoju możliwości, służąca zachowaniu i udoskonaleniu organizmu.",
+      "sourceExcerpt": "Tendencja aktualizująca - jest to wrodzona dążność organizmu do rozwoju wszystkich jego możliwości w sposób, który służy zachowaniu czy udoskonaleniu tegoż organizmu.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-07",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Rogers uważał, że organizm reaguje na pole fenomenologiczne jako zorganizowana całość, a zmiana jednej części powoduje zmiany w innych. To podejście:"
+      ],
+      "correct": [
+        "holistyczne"
+      ],
+      "distractors": [
+        "redukcjonistyczne",
+        "behawiorystyczne",
+        "mechanistyczne",
+        "atomistyczne",
+        "deterministyczne",
+        "fizykalistyczne"
+      ],
+      "explanation": "Holizm – organizm jako zorganizowana całość.",
+      "sourceExcerpt": "Organizm reaguje na pole fenomenlogoczine jako zorganizowana całość - podejście holistyczne.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-08",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Rogers określał swoją teorię osobowości jako:"
+      ],
+      "correct": [
+        "„teorię w drodze” – nieskończoną"
+      ],
+      "distractors": [
+        "ostatecznie potwierdzoną empirycznie",
+        "zamknięty system praw",
+        "kontynuację behawioryzmu",
+        "teorię obiektywnej prawdy",
+        "teorię czarnej skrzynki",
+        "teorię cech"
+      ],
+      "explanation": "Rogers: teoria „nieskończona”, „teoria w drodze”; subiektywny punkt widzenia – nie ma prawdy obiektywnej.",
+      "sourceExcerpt": "uważał, że nie jest “skończona”, “teoria w drodze”; subiektywny punkt widzenia - nie ma prawdy obiektywnej",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-09",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Celami terapii skoncentrowanej na kliencie są:"
+      ],
+      "correct": [
+        "samorealizacja klienta i zwiększenie poczucia własnej wartości"
+      ],
+      "distractors": [
+        "wygaszenie niepożądanych reakcji warunkowych",
+        "uświadomienie wypartych konfliktów z dzieciństwa",
+        "zmiana zachowania przez wzmocnienia i kary",
+        "przyjęcie przez klienta poglądów terapeuty",
+        "dokładna diagnoza zaburzenia",
+        "zwiększenie posłuszeństwa wobec norm"
+      ],
+      "explanation": "Cele: samorealizacja pacjenta, wzrost poczucia własnej wartości; praca nad niezgodnościami (ja – doświadczenie organizmu; ja realne – ja idealne).",
+      "sourceExcerpt": "Cele terapii: samorealizacja pacjenta; zwiększenie poczucia własnej wartości",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-10",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Charlotte Bühler uchodzi za prekursorkę podejścia, zgodnie z którym:"
+      ],
+      "correct": [
+        "człowiek rozwija się przez całe życie"
+      ],
+      "distractors": [
+        "rozwój kończy się w okresie dojrzewania",
+        "osobowość jest w pełni ukształtowana w wieku 5 lat",
+        "rozwój zależy wyłącznie od wzmocnień",
+        "dorośli nie zmieniają już swoich konstruktów",
+        "rozwój to wyłącznie dojrzewanie biologiczne",
+        "człowiek nie ma potencjału rozwojowego"
+      ],
+      "explanation": "Bühler: rozwój przez całe życie – prekursorka life-span development.",
+      "sourceExcerpt": "Stwierdziła, że człowiek rozwija się całe życie (prekursorka life-span development).",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-11",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "W teorii Gordona Allporta cechy to właściwości:"
+      ],
+      "correct": [
+        "względnie stałe, widoczne w zachowaniu"
+      ],
+      "distractors": [
+        "chwilowe i bardzo zmienne",
+        "obserwowalne zawsze bezpośrednio",
+        "zawsze całkowicie nieświadome",
+        "wyuczone wyłącznie przez wzmocnienia",
+        "identyczne u wszystkich ludzi",
+        "zależne wyłącznie od sytuacji"
+      ],
+      "explanation": "Allport: cechy – względnie stałe; stany – chwilowe; cech nie obserwujemy bezpośrednio, tylko przez zachowanie.",
+      "sourceExcerpt": "Cechy - względnie stałe. Stany - chwilowe. Cechy nie można zaobserwować bezpośrednio, tylko przez zachowanie.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-12",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Według Allporta cechy, które występują u każdego człowieka w liczbie od 5 do 10 i które kształtują jego osobowość, to cechy:"
+      ],
+      "correct": [
+        "centralne"
+      ],
+      "distractors": [
+        "dominujące",
+        "wtórne",
+        "peryferyjne",
+        "przepuszczalne",
+        "bezwarunkowe",
+        "sytuacyjne"
+      ],
+      "explanation": "Dominujące – rzadkie, nie każdy je ma; centralne – 5–10, ma je każdy; wtórne – powierzchowne, okazjonalne.",
+      "sourceExcerpt": "Centralne - główne cechy (od 5 do 10) kształtujące osobowość konkretnej jednostki (mamy je wszyscy)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-13",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Według Allporta rzadkie cechy, tworzące się latami i dominujące w postaci danej osoby (nie każdy je ma), to cechy:"
+      ],
+      "correct": [
+        "dominujące"
+      ],
+      "distractors": [
+        "centralne",
+        "wtórne",
+        "peryferyjne",
+        "nieprzepuszczalne",
+        "warunkowe",
+        "przejściowe"
+      ],
+      "explanation": "Dominujące – rzadkie, tworzą się latami; nie wszyscy je mają.",
+      "sourceExcerpt": "Dominujące - rzadkie, tworzące się latami, dominujące w postaci danej osoby (nie wszyscy je mają)",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-14",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Według Allporta powierzchowne cechy, pojawiające się okazjonalnie pod wpływem bodźców, to cechy:"
+      ],
+      "correct": [
+        "wtórne"
+      ],
+      "distractors": [
+        "centralne",
+        "dominujące",
+        "przepuszczalne",
+        "bezwarunkowe",
+        "stałe",
+        "kardynalne"
+      ],
+      "explanation": "Wtórne – powierzchowne, mniej istotne, okazjonalne, stymulowane przez bodźce.",
+      "sourceExcerpt": "Wtórne - bardziej powierzchowne i przez to mniej istotne, pojawiają się jedynie okazjonalne, są stymulowane przez bodźce.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-15",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Według Allporta cechy wiążą się z sytuacjami nie tylko przez reakcje widoczne w zachowaniu, ale także przez:"
+      ],
+      "correct": [
+        "dobór sytuacji przez osobę"
+      ],
+      "distractors": [
+        "wzmocnienia w danej sytuacji",
+        "wyparcie danej sytuacji",
+        "obserwację modeli w sytuacji",
+        "kongruencję z sytuacją",
+        "konstrukty centralne osoby",
+        "potrzeby braku osoby"
+      ],
+      "explanation": "Związek cech z sytuacjami: przez reakcje w zachowaniu i przez dobór sytuacji.",
+      "sourceExcerpt": "Jaki jest związek między cechami, a sytuacjami? Nie tylko poprzez reakcję uwidocznioną w zachowaniu, ale także poprzez dobór sytuacji.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-16",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Viktor Frankl, więzień obozów koncentracyjnych i autor „Człowieka w poszukiwaniu sensu”, rozwinął terapię:"
+      ],
+      "correct": [
+        "egzystencjalną"
+      ],
+      "distractors": [
+        "behawioralną",
+        "skoncentrowaną na kliencie",
+        "psychoanalityczną",
+        "konstruktów osobistych",
+        "transpersonalną z użyciem LSD",
+        "awersyjną"
+      ],
+      "explanation": "Frankl – terapia egzystencjalna: brak sztywnych zasad, daleko posunięta autentyczność terapeuty, holizm (psyche + soma).",
+      "sourceExcerpt": "Terapia egzystencjalna – Viktor Frankl",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-17",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "W terapii egzystencjalnej terapeuta:"
+      ],
+      "correct": [
+        "może dzielić się swoimi emocjami"
+      ],
+      "distractors": [
+        "ściśle trzyma się jednego protokołu",
+        "nie okazuje klientowi żadnych emocji",
+        "dzieli człowieka na psychę i somę",
+        "stosuje głównie wzmocnienia i kary",
+        "interpretuje przeniesienie klienta",
+        "unika kontaktu osobistego z klientem"
+      ],
+      "explanation": "Terapia egzystencjalna: brak sztywnych zasad, dostosowanie do klienta, daleko posunięta autentyczność (może dzielić się emocjami, płakać), holizm.",
+      "sourceExcerpt": "Daleko posunięta autentyczność terapeuty (może dzielić się odczuciami, emocjami, płakać itp.)",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-18",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Według Triady Rogersa terapeuta, który sam nadużywa alkoholu, nie powinien leczyć alkoholizmu, ponieważ zabrakłoby:"
+      ],
+      "correct": [
+        "autentyczności"
+      ],
+      "distractors": [
+        "empatii",
+        "akceptacji",
+        "subcepcji",
+        "dyrektywności",
+        "interpretacji",
+        "wzmocnienia"
+      ],
+      "explanation": "Triada Rogersa: akceptacja, empatia, autentyczność (nie może leczyć alkoholizmu samemu pijąc).",
+      "sourceExcerpt": "Autentyczność terapeuty - nie może leczyć alkoholizmu samemu pijąc.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "wyklady-historia-i-wspolczesnosc-wyklad-8-19",
+      "bookId": "wyklady-historia-i-wspolczesnosc",
+      "chapterId": "wyklad-8",
+      "stems": [
+        "Terapia humanistyczna, w odróżnieniu od behawioryzmu i psychoanalizy, mówi o osobie w terapii jako o:"
+      ],
+      "correct": [
+        "kliencie, a nie pacjencie"
+      ],
+      "distractors": [
+        "pacjencie, a nie kliencie",
+        "obiekcie badań",
+        "przypadku klinicznym",
+        "organizmie reagującym",
+        "badanym",
+        "podopiecznym terapeuty"
+      ],
+      "explanation": "Terapia humanistyczna: opozycja do behawioryzmu i psychoanalizy; „klient, nie pacjent”.",
+      "sourceExcerpt": "opozycja do behawioryzmu i psychoanalizy; klient, nie pacjent",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    }
+  ]
+}

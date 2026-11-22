@@ -1,0 +1,321 @@
+{
+  "bookId": "prezentacja-teoria-konstruktow-kelly",
+  "chapterId": "slajdy-1-6",
+  "chapterTitle": "slajdy 1–6",
+  "sourceHash": "1c08435d6e3811b978b99deafcfa7719b6b8c020",
+  "questions": [
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-01",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Teoria konstruktów osobistych George'a Kelly'ego uchodzi za:"
+      ],
+      "correct": [
+        "pierwszą teorię kognitywną (poznawczą)"
+      ],
+      "distractors": [
+        "pierwszą teorię behawiorystyczną",
+        "kontynuację psychoanalizy Freuda",
+        "odmianę teorii społecznego uczenia się",
+        "teorię potrzeb wzrostu",
+        "pierwszą teorię humanistyczną",
+        "teorię cech osobowości"
+      ],
+      "explanation": "Kelly – pierwsza teoria kognitywna; człowiek jako aktywny obserwator szukający sensu i formułujący przewidywania.",
+      "sourceExcerpt": "Slajd 2: Pierwsza teoria kognitywna",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-02",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Według Kelly'ego człowiek funkcjonuje jak:"
+      ],
+      "correct": [
+        "naukowiec testujący hipotezy o świecie"
+      ],
+      "distractors": [
+        "bierny odbiorca bodźców ze środowiska",
+        "zbiór nieświadomych popędów i konfliktów",
+        "organizm dążący do redukcji napięcia",
+        "naśladowca zachowań innych ludzi",
+        "maszyna reagująca na wzmocnienia",
+        "istota sterowana przez potrzeby braku"
+      ],
+      "explanation": "Człowiek jako naukowiec: porządkuje informacje, na ich podstawie stawia i testuje hipotezy (przewidywania).",
+      "sourceExcerpt": "Slajd 3: Człowiek jako naukowiec testujący rzeczywistość. Na bazie usystematyzowanych informacji stawia i testuje hipotezy",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-03",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Fundamentem przewidywań człowieka są według Kelly'ego:"
+      ],
+      "correct": [
+        "konstrukty poznawcze"
+      ],
+      "distractors": [
+        "wzmocnienia z przeszłości",
+        "wyparte treści",
+        "wrodzone odruchy",
+        "potrzeby braku",
+        "obserwowane wzorce",
+        "reakcje warunkowe"
+      ],
+      "explanation": "Konstrukty poznawcze = skategoryzowane informacje o świecie, podstawa przewidywań.",
+      "sourceExcerpt": "Slajd 3: Fundamentem przewidywań są skategoryzowane info o świecie nazwane konstruktami poznawczymi",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-04",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Według Kelly'ego konstrukt osobisty powstaje, gdy:"
+      ],
+      "correct": [
+        "co najmniej dwa elementy są podobne i kontrastują z trzecim"
+      ],
+      "distractors": [
+        "jeden element zostanie skojarzony z nagrodą",
+        "dwa elementy wystąpią jednocześnie",
+        "osoba zaobserwuje zachowanie modela",
+        "bodziec obojętny połączy się z bezwarunkowym",
+        "zostaną zaspokojone potrzeby braku",
+        "osoba uświadomi sobie wyparte treści"
+      ],
+      "explanation": "Konstrukt powstaje przez klasyfikację doświadczeń: co najmniej 3 elementy – dwa podobne, kontrastujące z trzecim.",
+      "sourceExcerpt": "Slajd 4: konstrukt jest sposobem, w jaki co najmniej dwa elementy są podobne i kontrastują z trzecim. Muszą być co najmniej trzy elementy w danym kontekście.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-05",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Każdy konstrukt osobisty według Kelly'ego jest:"
+      ],
+      "correct": [
+        "dwubiegunowy (podobieństwo – różnica)"
+      ],
+      "distractors": [
+        "jednobiegunowy (tylko podobieństwo)",
+        "wielobiegunowy (pięć biegunów)",
+        "całkowicie nieświadomy",
+        "wrodzony i niezmienny",
+        "identyczny u wszystkich ludzi",
+        "oparty na wzmocnieniach"
+      ],
+      "explanation": "Konstrukt jest dwubiegunowy, np. poważny – zabawny.",
+      "sourceExcerpt": "Slajd 4: Każdy konstrukt jest dwubiegunowy, jeden biegun opisuje podobieństwo, drugi – różnicę, np. poważny – zabawny",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-06",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Konstrukty kluczowe dla tożsamości, których zmiana wpływa na cały system, to konstrukty:"
+      ],
+      "correct": [
+        "centralne"
+      ],
+      "distractors": [
+        "peryferyjne",
+        "przepuszczalne",
+        "nieprzepuszczalne",
+        "warunkowe",
+        "zastępcze",
+        "bezwarunkowe"
+      ],
+      "explanation": "Centralne – kluczowe dla tożsamości; peryferyjne – łatwiejsze do zmiany; przepuszczalne – przyjmują nowe dane; nieprzepuszczalne – sztywne.",
+      "sourceExcerpt": "Slajd 5: Konstrukty centralne: kluczowe dla tożsamości, zmiana wpływa na cały system.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-07",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Konstrukty łatwiejsze do zmiany, o mniejszym wpływie na cały system, to konstrukty:"
+      ],
+      "correct": [
+        "peryferyjne"
+      ],
+      "distractors": [
+        "centralne",
+        "nieprzepuszczalne",
+        "przepuszczalne",
+        "bezwarunkowe",
+        "dominujące",
+        "wtórne"
+      ],
+      "explanation": "Peryferyjne – łatwiejsze do zmiany, mniejszy wpływ na system.",
+      "sourceExcerpt": "Slajd 5: Konstrukty peryferyjne: łatwiejsze do zmiany, mniejszy wpływ na system.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-08",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Konstrukty, które pozwalają na włączanie nowych danych, Kelly nazwał:"
+      ],
+      "correct": [
+        "przepuszczalnymi"
+      ],
+      "distractors": [
+        "nieprzepuszczalnymi",
+        "centralnymi",
+        "peryferyjnymi",
+        "warunkowymi",
+        "dwubiegunowymi",
+        "wtórnymi"
+      ],
+      "explanation": "Przepuszczalne – pozwalają na nowe dane; nieprzepuszczalne – sztywne, odporne na zmiany.",
+      "sourceExcerpt": "Slajd 5: Konstrukty przepuszczalne: pozwalają na nowe dane. Konstrukty nieprzepuszczalne: sztywne, odporne na zmiany.",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-09",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Osoba sztywno trzyma się przekonania „ludzie są albo z nami, albo przeciwko nam” i żadne nowe doświadczenia go nie zmieniają. W terminologii Kelly'ego to konstrukt:"
+      ],
+      "correct": [
+        "nieprzepuszczalny"
+      ],
+      "distractors": [
+        "przepuszczalny",
+        "peryferyjny",
+        "warunkowy",
+        "zastępczy",
+        "dwubiegunowy z trzema biegunami",
+        "neutralny"
+      ],
+      "explanation": "Nieprzepuszczalny – sztywny, odporny na zmiany, nie przyjmuje nowych danych.",
+      "sourceExcerpt": "Slajd 5: Konstrukty nieprzepuszczalne: sztywne, odporne na zmiany.",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-10",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Według Kelly'ego pacjent cierpiący z powodu swojego sposobu widzenia świata może:"
+      ],
+      "correct": [
+        "zmienić „okulary” albo zmienić zachowanie"
+      ],
+      "distractors": [
+        "jedynie odreagować wyparte emocje",
+        "tylko poddać się karom za złe zachowanie",
+        "jedynie zaspokoić potrzeby braku",
+        "wyłącznie naśladować terapeutę",
+        "tylko zażywać leki",
+        "wyłącznie czekać na samoistną poprawę"
+      ],
+      "explanation": "Pacjent jako badacz: zmiana systemu konstruktów (wykorzystując przepuszczalność) lub eksperymentowanie z nowym zachowaniem.",
+      "sourceExcerpt": "Slajd 6: pacjent niezadowolony i cierpiący z powodu specyficznego sposobu widzenia świata i związanego z nim zachowania może zrobić dwie rzeczy: zmienić „okulary” lub zachowanie",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-11",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "Terapeuta prosi pesymistycznego klienta, by przez tydzień spróbował oceniać zdarzenia tak, jak zrobiłby to optymista. W ujęciu Kelly'ego terapeuta:"
+      ],
+      "correct": [
+        "zachęca do zmiany punktu widzenia"
+      ],
+      "distractors": [
+        "interpretuje nieświadome konflikty",
+        "stosuje karę pozytywną za pesymizm",
+        "wygasza jego reakcję warunkową",
+        "zaspokaja jego potrzebę bezpieczeństwa",
+        "okazuje bezwarunkową akceptację",
+        "warunkuje go klasycznie"
+      ],
+      "explanation": "Terapia konstruktów: motywowanie do spojrzenia oczami innych (pesymista z punktu widzenia optymisty), wprowadzanie nowych konstruktów.",
+      "sourceExcerpt": "Slajd 6: Motywowanie pacjenta do spojrzenia na świat z innego punktu widzenia … (np. pesymista patrzy z punktu widzenia optymisty)",
+      "difficulty": 2,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    },
+    {
+      "id": "prezentacja-teoria-konstruktow-kelly-slajdy-1-6-12",
+      "bookId": "prezentacja-teoria-konstruktow-kelly",
+      "chapterId": "slajdy-1-6",
+      "stems": [
+        "W terapii opartej na teorii Kelly'ego pacjent jest traktowany jako:"
+      ],
+      "correct": [
+        "badacz"
+      ],
+      "distractors": [
+        "obiekt",
+        "pacjent",
+        "uczeń",
+        "przypadek",
+        "odbiorca",
+        "organizm"
+      ],
+      "explanation": "Pacjent jako badacz – eksperymentuje z nowym zachowaniem i zmienia system konstruktów.",
+      "sourceExcerpt": "Slajd 6: Teoria Konstruktów Osobistych w terapii – Pacjent jako badacz",
+      "difficulty": 1,
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Prezentacja: Teoria konstruktów osobistych Kelly'ego"
+}
