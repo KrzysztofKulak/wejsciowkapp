@@ -61,18 +61,17 @@
         "Jan Strelau, badając odziedziczalność temperamentu, wskazał, że cechy temperamentu są:"
       ],
       "correct": [
-        "w około 40% dziedziczne, a w 50–60% środowiskowe",
-        "dziedziczne w ok. 40%, środowiskowe w 50–60%"
+        "częściowo dziedziczne, bardziej środowiskowe"
       ],
       "distractors": [
-        "w około 90% dziedziczne, a w 10% środowiskowe",
-        "w całości środowiskowe, bez udziału genów",
-        "w całości dziedziczne, bez udziału środowiska",
-        "w 50–60% dziedziczne, a w 40% środowiskowe",
-        "dziedziczne wyłącznie u osób z rodzin bliźniaczych",
-        "niezależne zarówno od genów, jak i środowiska"
+        "całkowicie dziedziczne",
+        "całkowicie środowiskowe",
+        "w większej mierze dziedziczne niż środowiskowe",
+        "niezależne od genów i środowiska",
+        "dziedziczne tylko u mężczyzn",
+        "ukształtowane wyłącznie w okresie płodowym"
       ],
-      "explanation": "Strelau: cechy temperamentu są w ok. 40% genetyczne, a w 50–60% środowiskowe; da się już wskazywać fragmenty genomu za nie odpowiedzialne.",
+      "explanation": "Strelau: ok. 40% dziedziczne, 50–60% środowiskowe – temperament zależy od obu czynników.",
       "sourceExcerpt": "Jan Strelau - badania nad odziedziczalnością cech temperamentu.",
       "difficulty": 1,
       "status": "ok"

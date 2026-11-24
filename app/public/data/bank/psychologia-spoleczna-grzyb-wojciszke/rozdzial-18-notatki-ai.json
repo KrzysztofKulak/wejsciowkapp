@@ -1481,22 +1481,22 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-18-notatki-ai",
       "stems": [
-        "W badaniu Ringelmanna przy ciągnięciu liny ośmioosobowe zespoły osiągały poziom wykonania wynoszący około:"
+        "W badaniu Ringelmanna z ciągnięciem liny im więcej osób ciągnęło razem, tym:"
       ],
       "correct": [
-        "49% sumy wyników indywidualnych"
+        "mniej wysiłku wkładała każda z nich"
       ],
       "distractors": [
-        "85% sumy wyników indywidualnych",
-        "100% sumy wyników indywidualnych",
-        "120% sumy wyników indywidualnych",
-        "71% sumy wyników indywidualnych",
-        "25% sumy wyników indywidualnych",
-        "91% sumy wyników indywidualnych"
+        "więcej wysiłku wkładała każda z nich",
+        "tyle samo wysiłku wkładała każda z nich",
+        "większy był wynik niż suma indywidualnych",
+        "szybciej rosła motywacja każdej osoby",
+        "lepiej oceniano wkład każdego członka",
+        "mniej zależało od liczebności grupy"
       ],
-      "explanation": "Efekt Ringelmanna: zespoły 3-os. – 85%, 8-os. – 49% wysiłku w porównaniu z działaniem w pojedynkę.",
+      "explanation": "Efekt Ringelmanna (próżniactwo społeczne): 3 os. – 85%, 8 os. – 49% wysiłku z pracy w pojedynkę.",
       "sourceExcerpt": "s. 466: w zespołach trzyosobowych wkładali w to zadanie 85% wysiłku (przyjmując za 100% poziom wykonania w pojedynkę), w zespołach ośmioosobowych zaś – zaledwie 49%",
-      "difficulty": 2,
+      "difficulty": 1,
       "status": "ok"
     },
     {

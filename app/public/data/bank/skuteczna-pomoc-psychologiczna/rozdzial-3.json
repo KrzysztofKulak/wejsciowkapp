@@ -37,18 +37,17 @@
         "Niektórzy antropolodzy uważają, że na poziomie niewerbalnym odbywa się:"
       ],
       "correct": [
-        "około dwóch trzecich całej komunikacji",
-        "mniej więcej 2/3 komunikacji"
+        "większa część całej komunikacji"
       ],
       "distractors": [
-        "około jednej trzeciej komunikacji",
-        "niemal cała komunikacja",
-        "około jednej dziesiątej komunikacji",
-        "dokładnie połowa komunikacji",
-        "mniej niż jedna czwarta komunikacji",
-        "około 90% komunikacji"
+        "niewielka część komunikacji",
+        "wyłącznie komunikacja emocji",
+        "cała komunikacja dzieci",
+        "tylko komunikacja z obcymi",
+        "żadna istotna komunikacja",
+        "jedynie komunikacja zwierząt"
       ],
-      "explanation": "Przekazy niewerbalne stanowią podstawę relacji; niektórzy antropolodzy szacują je na dwie trzecie komunikacji.",
+      "explanation": "Część antropologów uważa, że aż ok. dwie trzecie komunikacji jest niewerbalne – stąd waga sygnałów niewerbalnych w pomaganiu.",
       "sourceExcerpt": "Niektórzy antropolodzy uważają nawet, że dwie trzecie całej komunikacji odbywa się na poziomie niewerbalnym.",
       "difficulty": 2,
       "status": "ok"

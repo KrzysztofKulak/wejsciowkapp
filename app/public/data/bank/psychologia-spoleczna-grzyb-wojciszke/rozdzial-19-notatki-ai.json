@@ -2352,29 +2352,6 @@
       "status": "ok"
     },
     {
-      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-103",
-      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
-      "chapterId": "rozdzial-19-notatki-ai",
-      "stems": [
-        "W końcu XX wieku stereotyp spiskowy wobec Żydów wyznawała w Polsce (badania Kofty):"
-      ],
-      "correct": [
-        "około jedna trzecia Polaków"
-      ],
-      "distractors": [
-        "około 5% Polaków",
-        "niemal wszyscy Polacy",
-        "około dwóch trzecich Polaków",
-        "wyłącznie najstarsi Polacy",
-        "nikt z badanych",
-        "około połowa Polaków"
-      ],
-      "explanation": "Ok. 1/3 Polaków; nowsze badania – pozytywne zmiany (Winiewski, Matera, Bulska 2020); wobec Niemców i Rosjan – wyraźnie słabiej.",
-      "sourceExcerpt": "s. 475: Badania Kofty pokazują, że znaczna część Polaków (około jednej trzeciej) jeszcze w końcu XX wieku wyznawała taki stereotyp spiskowy w odniesieniu do Żydów",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-104",
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-19-notatki-ai",
@@ -2441,52 +2418,6 @@
       "explanation": "W Polsce – podział zawodowy oparty na wykształceniu, więc z natury dość plastyczny; prestiż zawodów od lat 70. zmieniał się niewiele.",
       "sourceExcerpt": "s. 476: We współczesnym społeczeństwie polskim dominuje z kolei podział zawodowy, opierający się na wykształceniu, a więc z natury dość plastyczny",
       "difficulty": 1,
-      "status": "ok"
-    },
-    {
-      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-107",
-      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
-      "chapterId": "rozdzial-19-notatki-ai",
-      "stems": [
-        "Najwyższy prestiż wśród zawodów w Polsce w badaniu CBOS z 2019 roku miał:"
-      ],
-      "correct": [
-        "strażak"
-      ],
-      "distractors": [
-        "profesor uniwersytetu",
-        "minister",
-        "lekarz",
-        "sędzia",
-        "ksiądz",
-        "poseł na sejm"
-      ],
-      "explanation": "Tab. 19.1 (2019): strażak 88, górnik i pielęgniarka 81, profesor 80; na końcu m.in. działacz partii politycznej (44).",
-      "sourceExcerpt": "Tabela 19.1 (s. 476): Strażak – 2019: 88; Profesor uniwersytetu – 80; Działacz partii politycznej – 44",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-108",
-      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
-      "chapterId": "rozdzial-19-notatki-ai",
-      "stems": [
-        "Najniżej w rankingu prestiżu zawodów w Polsce w 2019 roku (CBOS) znalazł się:"
-      ],
-      "correct": [
-        "działacz partii politycznej"
-      ],
-      "distractors": [
-        "pracownik sprzątający",
-        "robotnik budowlany niewykwalifikowany",
-        "rolnik indywidualny",
-        "sprzedawca w sklepie",
-        "referent w biurze",
-        "makler giełdowy"
-      ],
-      "explanation": "Tab. 19.1: działacz partii 44 – najniżej; sprzątaczka 71, robotnik budowlany niewykwalifikowany 63.",
-      "sourceExcerpt": "Tabela 19.1 (s. 476): Działacz partii politycznej – 2019: 44",
-      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -2563,44 +2494,21 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-19-notatki-ai",
       "stems": [
-        "Badania Domańskiego i CBOS pokazały, że Polacy uważają nierówności dochodów za zbyt duże, ale rzeczywiste i pożądane zarobki różnych zawodów korelują w stopniu:"
+        "Polacy uważają nierówności dochodów za zbyt duże, ale ich wyobrażenia o rzeczywistych i pożądanych zarobkach zawodów niemal się pokrywają. Wynika z tego, że:"
       ],
       "correct": [
-        "niemal doskonałym (r = 0,99)"
+        "kwestionują skalę nierówności, nie ich zasadność"
       ],
       "distractors": [
-        "zerowym (r = 0)",
-        "słabym (r = 0,25)",
-        "umiarkowanym (r = 0,50)",
-        "ujemnym (r = −0,60)",
-        "bardzo słabym ujemnym (r = −0,10)",
-        "słabym ujemnym (r = −0,29)"
+        "kwestionują sam sens istnienia nierówności",
+        "uważają, że wszyscy powinni zarabiać tyle samo",
+        "chcą odwrócić hierarchię zarobków zawodów",
+        "nie mają zdania o nierównościach dochodów",
+        "uważają obecne nierówności za zbyt małe",
+        "oceniają zarobki niezależnie od zawodu"
       ],
-      "explanation": "r = 0,99 – Polacy nie kwestionują zasadności nierówności, tylko ich skalę (przedsiębiorca 21× więcej od sprzątaczki, pożądane 8×).",
+      "explanation": "Rzeczywiste i pożądane zarobki korelują niemal doskonale (r = 0,99); Polacy chcieliby mniejszych różnic, ale nie kwestionują merytokratycznego porządku – działanie mitów legitymizujących.",
       "sourceExcerpt": "s. 477: te dwie wartości korelują w stopniu niemal doskonałym (r = 0,99)",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-113",
-      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
-      "chapterId": "rozdzial-19-notatki-ai",
-      "stems": [
-        "Według badań CBOS Polacy sądzą, że prywatny przedsiębiorca zarabia 21 razy więcej od sprzątaczki, a za pożądany stan uważają, by zarabiał:"
-      ],
-      "correct": [
-        "„tylko” 8 razy więcej"
-      ],
-      "distractors": [
-        "tyle samo co sprzątaczka",
-        "„tylko” 2 razy więcej",
-        "aż 40 razy więcej",
-        "tyle samo co obecnie",
-        "mniej niż sprzątaczka",
-        "„tylko” 30 razy więcej"
-      ],
-      "explanation": "Nierówności oparte na zasługach uznawane za zbyt wielkie, ale ich zasadność niekwestionowana.",
-      "sourceExcerpt": "s. 477: ludzie są przekonani, że prywatny przedsiębiorca zarabia 21 razy więcej od sprzątaczki, a za pożądany stan rzeczy uważają sytuację, w której zarabiałby „tylko” 8 razy więcej",
       "difficulty": 2,
       "status": "ok"
     },
@@ -3115,20 +3023,20 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-19-notatki-ai",
       "stems": [
-        "Badania MTS w USA i 17 innych krajach pokazały, że stereotypów niejednorodnych (z przewagą jednego wymiaru) jest:"
+        "Badania MTS w wielu krajach pokazały, że większość stereotypów grup jest:"
       ],
       "correct": [
-        "około 80%"
+        "niejednorodna – z przewagą jednego wymiaru"
       ],
       "distractors": [
-        "około 5%",
-        "około 20%",
-        "około 50%",
-        "dokładnie 100%",
-        "żadnych",
-        "około 30%"
+        "jednorodnie pozytywna na obu wymiarach",
+        "jednorodnie negatywna na obu wymiarach",
+        "pozbawiona wymiaru kompetencji",
+        "pozbawiona wymiaru ciepła",
+        "zupełnie neutralna emocjonalnie",
+        "identyczna we wszystkich krajach"
       ],
-      "explanation": "Większość (ok. 80%) stereotypów jest niejednorodna; sprawczość i wspólnotowość są odrębne, ale negatywnie skorelowane na poziomie grup.",
+      "explanation": "Ok. 80% stereotypów jest ambiwalentnych – więcej kompetencji niż ciepła albo odwrotnie.",
       "sourceExcerpt": "s. 481: Większość stereotypów okazuje się niejednorodna – około 80% stereotypizowanych grup przypisuje się więcej sprawczości niż wspólnotowości, bądź odwrotnie",
       "difficulty": 2,
       "status": "ok"
@@ -3184,20 +3092,20 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-19-notatki-ai",
       "stems": [
-        "Korelacja między statusem grupy a przypisywaną jej kompetencją w badaniach w różnych krajach (Cuddy, Fiske, Glick, 2008) wynosi średnio około:"
+        "Badania MTS w różnych krajach pokazują, że status grupy a przypisywana jej kompetencja:"
       ],
       "correct": [
-        "0,81"
+        "są ze sobą bardzo silnie powiązane"
       ],
       "distractors": [
-        "0,10",
-        "0,29",
-        "−0,29",
-        "0,45",
-        "−0,81",
-        "0,99"
+        "nie mają ze sobą żadnego związku",
+        "są ze sobą powiązane ujemnie",
+        "są powiązane tylko w Polsce",
+        "wiążą się słabiej niż konflikt z ciepłem",
+        "wiążą się tylko u grup obcych",
+        "zależą wyłącznie od płci badanych"
       ],
-      "explanation": "Bardzo silna (0,81); wadą jest korelacyjny charakter tych danych – stąd badania eksperymentalne z fikcyjnymi grupami. Konflikt–ciepło: średnio tylko −0,29.",
+      "explanation": "Korelacja status–kompetencja ok. 0,81 (bardzo silna), konflikt–ciepło tylko ok. −0,29; wada: dane korelacyjne.",
       "sourceExcerpt": "s. 481: grupy o wyższym statusie są spostrzegane jako bardziej kompetentne, a korelacja ta jest bardzo silna i wynosi średnio 0,81",
       "difficulty": 2,
       "status": "ok"

@@ -74,7 +74,7 @@
         {
           "id": "behawioryzm-notatki-ai",
           "title": "Behawioryzm – notatki AI (Rozdz. 6, s. 226–244; Rozdz. 15, s. 677–688)",
-          "questionCount": 171,
+          "questionCount": 170,
           "cheatsheet": true
         }
       ]
@@ -188,7 +188,7 @@
         {
           "id": "wyklad-5",
           "title": "Wykład 5. Wielkie prądy - psychologia do starożytności do usamodzielnia się jako nauki",
-          "questionCount": 50,
+          "questionCount": 49,
           "cheatsheet": true
         },
         {
@@ -248,7 +248,7 @@
         {
           "id": "rozdzial-19-notatki-ai",
           "title": "Rozdział 19 – notatki AI (s. 474–501)",
-          "questionCount": 142,
+          "questionCount": 138,
           "cheatsheet": true
         }
       ]
@@ -266,7 +266,7 @@
         {
           "id": "wyklad-1-cz-2",
           "title": "Wykład 1 (cz. 2)",
-          "questionCount": 38,
+          "questionCount": 37,
           "cheatsheet": true
         },
         {
@@ -362,7 +362,7 @@
         {
           "id": "slajdy-1-44",
           "title": "slajdy 1–44",
-          "questionCount": 62,
+          "questionCount": 61,
           "cheatsheet": true
         }
       ]
@@ -437,7 +437,7 @@
       "id": "wejsciowka-2-behawioryzm-psychologia-humanistyczna-i-poznawcza",
       "title": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
       "tag": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
-      "questionCount": 225,
+      "questionCount": 224,
       "sources": [
         {
           "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
@@ -457,7 +457,7 @@
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "behawioryzm-notatki-ai",
-          "questionCount": 78
+          "questionCount": 77
         },
         {
           "bookId": "wyklady-historia-i-wspolczesnosc",

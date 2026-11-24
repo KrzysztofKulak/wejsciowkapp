@@ -243,20 +243,20 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-7",
       "stems": [
-        "W eksperymentach Pawłowa, aby warunkowanie zadziałało, odstęp między bodźcem warunkowym a bezwarunkowym nie mógł być zbyt duży i wynosił:"
+        "Aby warunkowanie klasyczne zadziałało, odstęp czasowy między bodźcem warunkowym a bezwarunkowym musi być:"
       ],
       "correct": [
-        "około 0,5 sekundy"
+        "krótki (u psów Pawłowa ułamek sekundy)"
       ],
       "distractors": [
-        "około 5 sekund",
-        "około 30 sekund",
-        "około 5 minut",
-        "około godziny",
-        "około doby",
-        "dowolnie długo"
+        "bardzo długi (kilka godzin)",
+        "dowolny, bez znaczenia",
+        "co najmniej kilkudniowy",
+        "równy dokładnie minucie",
+        "odwrócony – najpierw bodziec bezwarunkowy",
+        "coraz dłuższy z każdą próbą"
       ],
-      "explanation": "Odstęp czasowy między bodźcami nie może być zbyt duży – u psów Pawłowa 0,5 s.",
+      "explanation": "Odstęp nie może być zbyt duży – u psów Pawłowa ok. 0,5 s.",
       "sourceExcerpt": "By warunkowo zadziałało odstęp czasowy pomiędzy bodźcem bezwarunkowym nie może być zbyt duży (u psów Pawłowa 0,5 sekundy).",
       "difficulty": 2,
       "tags": [

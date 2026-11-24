@@ -559,31 +559,6 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-24",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-5",
-      "stems": [
-        "Galen opisał nerwy czaszkowe w liczbie:",
-        "Ile nerwów czaszkowych opisał Galen?"
-      ],
-      "correct": [
-        "siedmiu",
-        "7"
-      ],
-      "distractors": [
-        "dwunastu",
-        "pięciu",
-        "dziewięciu",
-        "trzech",
-        "dziesięciu",
-        "czterech"
-      ],
-      "explanation": "Galen opisał 7 nerwów czaszkowych i zastawki serca.",
-      "sourceExcerpt": "Opisał 7 nerwów czaszkowych, zastawki serca",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-25",
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-5",

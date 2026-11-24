@@ -282,20 +282,20 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Co stało się z George’em Franklinem po skazaniu?"
+        "Sprawa George'a Franklina, skazanego na podstawie „odzyskanego” w terapii wspomnienia córki, jest przytaczana jako przykład tego, że:"
       ],
       "correct": [
-        "po 5 latach wyszedł przez błąd formalny"
+        "wspomnienia „odzyskane” w terapii mogą być niewiarygodne"
       ],
       "distractors": [
-        "odbył całą karę dożywocia",
-        "został uniewinniony dzięki badaniom DNA",
-        "przyznał się do winy w apelacji",
-        "zmarł w więzieniu przed apelacją",
-        "został ułaskawiony po 20 latach",
-        "wyszedł po roku, bo córka odwołała zeznania"
+        "wyparte wspomnienia zawsze odtwarzają prawdziwe zdarzenia",
+        "terapia skutecznie przywraca wszystkie wyparte wspomnienia",
+        "sądy nie powinny brać pod uwagę żadnych zeznań",
+        "wspomnienia z dzieciństwa są zawsze dokładne",
+        "wyparcie dotyczy wyłącznie zdarzeń przyjemnych",
+        "pamięć nie zmienia się pod wpływem sugestii"
       ],
-      "explanation": "Z powodu formalnego błędu w procesie George Franklin został zwolniony po 5 latach. W tym czasie narosły poważne wątpliwości co do prawdziwości wspomnień jego córki.",
+      "explanation": "Franklina skazano na podstawie wspomnienia „odzyskanego” po 20 latach w terapii (później zwolniony z powodu błędu formalnego) – przykład kontrowersji wokół odzyskanych wspomnień.",
       "sourceExcerpt": "Z powodu formalnego błędu w procesie sądowym George Franklin został zwolniony po 5 latach pobytu w więzieniu.",
       "difficulty": 2,
       "status": "ok"
@@ -841,21 +841,20 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Jak leczono 21-letniego studenta bojącego się huku pękających baloników?"
+        "Student bojący się huku pękających baloników od razu przez kilka sesji wytrzymywał huk setek pękających baloników, aż sam zaczął je przebijać. To przykład techniki:"
       ],
       "correct": [
-        "w 3 sesjach znosił huk setek baloników, a na końcu sam przebił ostatnie 115",
-        "zatapianiem: setki pękających baloników w trzech sesjach"
+        "zatapiania (floodingu)"
       ],
       "distractors": [
-        "stopniowym wyobrażaniem sobie coraz głośniejszych dźwięków",
-        "nagradzaniem za każde podejście do balonika",
-        "łączeniem dźwięku z przykrym wstrząsem",
-        "oglądaniem filmów z osobami przebijającymi baloniki",
-        "kilkunastoma sesjami relaksacji bez kontaktu z balonikami",
-        "analizą wspomnień z dziecięcych urodzin"
+        "systematycznego odwrażliwiania",
+        "modelowania uczestniczącego",
+        "terapii awersyjnej",
+        "systemu żetonowego",
+        "treningu relaksacji",
+        "modelowania symbolicznego"
       ],
-      "explanation": "Student wziął udział w trzech sesjach, w czasie których wytrzymywał huk setek pękających baloników; w trzeciej sesji sam powodował pękanie ostatnich 115.",
+      "explanation": "Zatapianie – ekspozycja od razu na pełną sytuację lękową (bez stopniowania, w odróżnieniu od systematycznego odwrażliwiania).",
       "sourceExcerpt": "polecając mu, by wziął udział w trzech sesjach, w czasie których wytrzymywał on huk setek pękających baloników. W trakcie trzeciej sesji student ten był w stanie sam powodować pękanie z hukiem ostatnich 115 baloników",
       "difficulty": 2,
       "status": "ok"
@@ -888,21 +887,20 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "W badaniu osób z lękiem przed lataniem porównującym ekspozycję na lotnisku i w rzeczywistości wirtualnej:",
-        "Jaki był wynik porównania ekspozycji realnej i wirtualnej w leczeniu lęku przed lataniem?"
+        "Badanie osób z lękiem przed lataniem, porównujące ekspozycję na lotnisku z ekspozycją w rzeczywistości wirtualnej, wykazało, że:"
       ],
       "correct": [
-        "obie dały 76% wobec 20% w kontrolnej"
+        "ekspozycja wirtualna była tak samo skuteczna jak realna"
       ],
       "distractors": [
-        "tylko ekspozycja na lotnisku była skuteczna",
-        "tylko rzeczywistość wirtualna była skuteczna",
-        "żadna terapia nie różniła się od kontrolnej",
-        "VR okazała się skuteczna u 20% osób",
-        "w grupie kontrolnej poleciało więcej osób niż w VR",
-        "obie terapie nasiliły lęk przed lataniem"
+        "ekspozycja wirtualna nie dała żadnej poprawy",
+        "ekspozycja realna była wielokrotnie skuteczniejsza",
+        "obie metody były gorsze niż brak terapii",
+        "ekspozycja wirtualna nasiliła lęk przed lataniem",
+        "skuteczna była tylko ekspozycja w wyobraźni",
+        "żadna z grup nie zgodziła się polecieć"
       ],
-      "explanation": "Obydwa typy terapii przyniosły uczestnikom trwałą redukcję lęku: na lot samolotem zgodziło się 76% uczestników w każdej grupie terapeutycznej, w porównaniu z 20% w grupie kontrolnej.",
+      "explanation": "W obu grupach terapeutycznych tyle samo osób (76%) zdecydowało się polecieć, wobec 20% w grupie kontrolnej – VR jest równie skuteczna.",
       "sourceExcerpt": "76% uczestników w każdej z grup terapeutycznych przyjęło to zaproszenie, w porównaniu z tylko 20% osób w grupie kontrolnej",
       "difficulty": 2,
       "status": "ok"
@@ -1373,24 +1371,22 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "W badaniu leczenia uzależnienia od kokainy i opiatów najdłuższą nieprzerwaną abstynencję uzyskała grupa:",
-        "Która grupa w badaniu nad uzależnieniem od kokainy i opiatów najdłużej utrzymywała abstynencję?"
+        "W leczeniu uzależnienia od kokainy i opiatów dodanie do standardowej terapii nagród za czyste próbki moczu (talonów lub losowania nagród):"
       ],
       "correct": [
-        "z losowaniem nagród (7,8 tyg.)",
-        "otrzymująca szansę losowania nagród za czyste próbki"
+        "wydłużyło okres nieprzerwanej abstynencji"
       ],
       "distractors": [
-        "tylko z terapią standardową (4,6 tyg.)",
-        "z talonami (7 tyg.)",
-        "kontrolna bez żadnej terapii",
-        "z terapią awersyjną",
-        "z modelowaniem symbolicznym",
-        "wszystkie grupy miały identyczny wynik"
+        "skróciło okres nieprzerwanej abstynencji",
+        "nie miało żadnego wpływu na abstynencję",
+        "działało wyłącznie u osób bez terapii",
+        "zwiększyło liczbę brudnych próbek",
+        "działało tylko w połączeniu z karą",
+        "pogorszyło wyniki standardowej terapii"
       ],
-      "explanation": "Nieprzerwana abstynencja: terapia standardowa 4,6 tygodnia, talony 7 tygodni, losowanie nagród 7,8 tygodnia.",
+      "explanation": "Kierowanie zbieżnościami: wzmacnianie abstynencji (talony, losowanie nagród) wydłużało abstynencję w porównaniu z samą terapią standardową.",
       "sourceExcerpt": "W grupie, którą poddawano tylko standardowej terapii, było to 4,6 tygodnia. W grupie z talonami wynik ten wynosił 7 tygodni, a w grupie z losowaniem nagród 7,8 tygodnia.",
-      "difficulty": 3,
+      "difficulty": 2,
       "status": "ok"
     },
     {
@@ -1402,18 +1398,17 @@
         "Jak działał system talonów w badaniu nad uzależnieniem?"
       ],
       "correct": [
-        "sprowadzał wartość talonu z powrotem do 1 dolara",
-        "zerował narastającą wartość talonu do 1 dolara"
+        "zerował narastającą wartość talonu"
       ],
       "distractors": [
         "podwajał wartość kolejnego talonu",
-        "nie wpływał na wartość talonów",
-        "oznaczał wykluczenie z badania",
-        "dawał dodatkowe losowanie nagrody",
-        "skutkował wstrząsem elektrycznym",
-        "przenosił uczestnika do grupy kontrolnej"
+        "nie miał wpływu na wartość talonów",
+        "wykluczał osobę z programu na stałe",
+        "zamieniał talon na karę finansową",
+        "przedłużał terapię o miesiąc",
+        "zwiększał wartość talonu o połowę"
       ],
-      "explanation": "Za pierwszą czystą próbkę dawano talon o wartości 1 dol., wartość rosła o 1,5 dol. za każdą kolejną czystą; wynik pozytywny sprowadzał wartość talonu znów do 1 dol.",
+      "explanation": "Wartość talonu rosła z każdą czystą próbką; brudna próbka cofała ją do wartości początkowej – utrata narastającego wzmocnienia.",
       "sourceExcerpt": "Wartość talonu wzrastała o 1,5 dol. za każdym razem, gdy wynik analizy kolejnej próbki moczu był ujemny. Pozytywny wynik badania próbki znów sprowadzał wartość talonu do 1 dol.",
       "difficulty": 3,
       "status": "ok"
@@ -1778,23 +1773,22 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "W badaniu nad fobią węży modelowanie uczestniczące wyeliminowało fobię u:"
+        "Spośród porównywanych metod leczenia fobii węży (modelowanie uczestniczące, symboliczne, odwrażliwianie) najskuteczniejsze okazało się:"
       ],
       "correct": [
-        "11 z 12 osób",
-        "prawie wszystkich badanych (11 z 12)"
+        "modelowanie uczestniczące"
       ],
       "distractors": [
-        "połowy badanych",
-        "3 z 12 osób",
-        "wszystkich osób z grupy kontrolnej",
-        "żadnej osoby",
-        "6 z 12 osób",
-        "1 z 12 osób"
+        "modelowanie symboliczne",
+        "systematyczne odwrażliwianie",
+        "brak jakiejkolwiek terapii",
+        "zatapianie w wyobraźni",
+        "terapia awersyjna",
+        "trening relaksacji"
       ],
-      "explanation": "W grupie poddanej modelowaniu uczestniczącemu wyeliminowano fobię przed wężami u 11 z 12 osób badanych.",
+      "explanation": "Modelowanie uczestniczące (obserwacja modela + własne stopniowe działanie z nim) usunęło fobię u niemal wszystkich (11 z 12); dalej odwrażliwianie i modelowanie symboliczne.",
       "sourceExcerpt": "W grupie poddanej tej procedurze wyeliminowano fobię przed wężami u 11 z 12 osób badanych",
-      "difficulty": 2,
+      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -3025,47 +3019,21 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Jaki odstęp między Sw a Sb jest najlepszy dla reakcji mięśniowych, np. mrugania?"
+        "Optymalny odstęp między bodźcem warunkowym a bezwarunkowym zależy od rodzaju reakcji – w porównaniu z reakcjami trzewiowymi (np. ślinienie) reakcje mięśniowe (np. mruganie) wymagają odstępu:"
       ],
       "correct": [
-        "1 s lub mniej"
+        "krótszego"
       ],
       "distractors": [
-        "5–15 s",
-        "około minuty",
-        "około godziny",
-        "co najmniej 30 s",
-        "dokładnie 10 s",
-        "2–3 minuty"
+        "dłuższego",
+        "takiego samego",
+        "zerowego",
+        "dowolnego",
+        "odwróconego",
+        "losowego"
       ],
-      "explanation": "Dla reakcji mięśniowych (mruganie) najlepszy jest odstęp 1 s lub mniej; dla trzewiowych (tętno, ślinienie) – dłuższy, 5–15 s.",
+      "explanation": "Mięśniowe – krótki odstęp (≤1 s); trzewiowe – dłuższy (5–15 s).",
       "sourceExcerpt": "Dla reakcji mięśniowych, takich jak mruganie, najlepszy jest krótki odstęp, trwający 1 sek. lub mniej.",
-      "difficulty": 3,
-      "status": "ok",
-      "tags": [
-        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
-      ]
-    },
-    {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-124",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Jaki odstęp między Sw a Sb daje najlepsze efekty dla reakcji trzewiowych (np. wydzielanie śliny)?"
-      ],
-      "correct": [
-        "5–15 sekund"
-      ],
-      "distractors": [
-        "poniżej 1 sekundy",
-        "około 1 minuty",
-        "około godziny",
-        "1–2 sekundy",
-        "co najmniej 5 minut",
-        "30–60 sekund"
-      ],
-      "explanation": "Dla reakcji trzewiowych (częstość akcji serca, wydzielanie śliny) najlepsze efekty dają dłuższe odstępy, od 5 do 15 s.",
-      "sourceExcerpt": "Dla reakcji trzewiowych, takich jak częstość akcji serca i wydzielanie śliny, najlepsze efekty dają dłuższe odstępy, od 5 do 15 sek.",
       "difficulty": 3,
       "status": "ok",
       "tags": [
@@ -3749,23 +3717,23 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Badanie narkomanów bliskich śmierci z przedawkowania wykazało, że w 7 z 10 przypadków:"
+        "Narkoman, który zawsze brał heroinę w domu, przedawkowuje po wzięciu zwykłej dawki w nowym, nieznanym miejscu. Według modelu Siegela przyczyną jest to, że:"
       ],
       "correct": [
-        "wzięli heroinę w nowej, nieznanej sytuacji",
-        "zażyli narkotyk w nieznanym otoczeniu"
+        "brak znanych bodźców nie wywołał warunkowej reakcji kompensacyjnej",
+        "nowe otoczenie nie uruchomiło wyuczonej reakcji kompensacyjnej"
       ],
       "distractors": [
-        "wzięli dwa razy większą dawkę niż zwykle",
-        "byli pod wpływem alkoholu",
-        "brali narkotyk pierwszy raz",
-        "zażyli narkotyk w domu",
-        "byli na odwyku",
-        "brali razem z przyjaciółmi"
+        "nowe otoczenie zwiększyło wrażliwość receptorów na lek",
+        "w nowym miejscu nastąpiło wygaszenie tolerancji na lek",
+        "organizm nie zdążył wytworzyć reakcji bezwarunkowej",
+        "nieznane miejsce wywołało generalizację bodźca warunkowego",
+        "stres w nowym otoczeniu wzmocnił działanie narkotyku",
+        "w nowym miejscu zadziałało wzmocnienie negatywne"
       ],
-      "explanation": "W siedmiu z dziesięciu przypadków narkomani wstrzyknęli sobie heroinę w nowej i nieznanej sytuacji (Siegel, 1984); dawka tolerowana w jednej sytuacji może być zbyt wysoka w innej.",
+      "explanation": "Znane otoczenie to bodziec warunkowy wywołujący reakcję kompensacyjną (tolerancję). W nowym miejscu tej reakcji brak, więc zwykła dawka działa jak zbyt duża (Siegel, 1984: 7 z 10 przedawkowań w nowej sytuacji).",
       "sourceExcerpt": "W siedmiu z dziesięciu przypadków narkomani ci wstrzyknęli sobie heroinę w nowej i nieznanej sytuacji (Siegel, 1984).",
-      "difficulty": 2,
+      "difficulty": 3,
       "status": "ok",
       "tags": [
         "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"

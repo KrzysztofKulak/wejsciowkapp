@@ -1410,29 +1410,6 @@
       "sourceExcerpt": "Ilustracja (schemat, slajd 43): Aktywacja współczulnego → hamowanie pracy żołądka → W przerwie między sytuacjami stresowymi aktywuje się przywspółczulny → żołądek wydziela więcej soków niż zwykle… Przy braku pokarmu wydzielina żołądka uszkadza jego własną błonę śluzową",
       "difficulty": 3,
       "status": "ok"
-    },
-    {
-      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-62",
-      "bookId": "prezentacja-neuronalne-podloze-stresu",
-      "chapterId": "slajdy-1-44",
-      "stems": [
-        "Bakterie Helicobacter pylori, zwiększające ryzyko wrzodów, występują w żołądkach:"
-      ],
-      "correct": [
-        "ponad 70% populacji"
-      ],
-      "distractors": [
-        "ok. 5% populacji",
-        "ok. 20% populacji",
-        "ok. 40% populacji",
-        "ponad 95% populacji",
-        "tylko u osób zestresowanych",
-        "tylko u dzieci"
-      ],
-      "explanation": "H. pylori obecne w żołądkach ponad 70% populacji dodatkowo zwiększają ryzyko wrzodów.",
-      "sourceExcerpt": "Ilustracja (schemat, slajd 43): Bakterie helicobacter pylori obecne w żołądkach ponad 70% populacji dodatkowo zwiększają ryzyko powstawania wrzodów",
-      "difficulty": 2,
-      "status": "ok"
     }
   ],
   "bookTitle": "Prezentacja: Neuronalne podłoże stresu"
