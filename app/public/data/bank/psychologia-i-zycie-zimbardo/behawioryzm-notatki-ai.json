@@ -762,31 +762,6 @@
       "status": "ok"
     },
     {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-32",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Co zaskakującego widać w hierarchii lęku egzaminacyjnego studentki (tab. 15.1)?",
-        "Który element studentka umieściła najwyżej w hierarchii lęku egzaminacyjnego?"
-      ],
-      "correct": [
-        "drogę na uczelnię w dniu egzaminu oceniła jako bardziej stresującą niż samo zdawanie",
-        "oczekiwanie na egzamin było dla niej gorsze niż odpowiadanie"
-      ],
-      "distractors": [
-        "najbardziej bała się nocy przed egzaminem",
-        "najsilniejszy lęk budziły pytania egzaminacyjne",
-        "najmniej stresował ją miesiąc przed egzaminem, a najbardziej tydzień przed",
-        "lęk malał w miarę zbliżania się egzaminu",
-        "najbardziej stresowało ją czekanie przed zamkniętymi drzwiami sali",
-        "najwyżej umieściła ogłoszenie wyników"
-      ],
-      "explanation": "Studentka oceniła oczekiwanie na egzamin w najbliższej przyszłości (nr 14: w drodze na uniwersytet w dniu egzaminu) jako bardziej stresujące niż samo jego zdawanie (nr 13).",
-      "sourceExcerpt": "dziewczyna ta oceniła oczekiwanie na egzamin w najbliższej przyszłości (nr 14) jako bardziej stresujące niż samo jego zdawanie (nr 13)",
-      "difficulty": 3,
-      "status": "ok"
-    },
-    {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-33",
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
@@ -1678,8 +1653,8 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "W badaniu nad leczeniem fobii węży (ryc. 15.1) najskuteczniejszą metodą okazało się:",
-        "Która metoda dała najwięcej reakcji zbliżania się do węża?"
+        "W badaniu porównującym metody leczenia fobii węży najskuteczniejszą okazało się:",
+        "Która metoda leczenia fobii węży dała najwięcej reakcji zbliżania się do węża?"
       ],
       "correct": [
         "modelowanie uczestniczące"
@@ -1694,30 +1669,6 @@
       ],
       "explanation": "Ryc. 15.1: modelowanie uczestniczące dało najwięcej reakcji zbliżania (ok. 27–28 wobec ok. 10 na początku); odwrażliwianie i modelowanie symboliczne mniej (ok. 18–20), grupa kontrolna praktycznie bez zmian.",
       "sourceExcerpt": "Wykres przedstawia porównanie liczby reakcji zbliżania się, wykonanych przez osoby badane przed (najbardziej skuteczną) terapią opartą na modelowaniu i po niej",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-71",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Na wykresie z ryc. 15.1 liczba reakcji zbliżania w grupie kontrolnej:",
-        "Jak zmieniła się liczba reakcji zbliżania do węża w grupie kontrolnej?"
-      ],
-      "correct": [
-        "prawie się nie zmieniła"
-      ],
-      "distractors": [
-        "wzrosła do ok. 28",
-        "wzrosła do ok. 20",
-        "spadła do zera",
-        "wzrosła bardziej niż przy odwrażliwianiu",
-        "podwoiła się",
-        "była wyższa niż przy modelowaniu symbolicznym"
-      ],
-      "explanation": "W grupie kontrolnej linia jest niemal płaska: ok. 10 na początku i ok. 11 na końcu. Wszystkie trzy terapie dały wyraźny wzrost.",
-      "sourceExcerpt": "[ryc. 15.1] grupa kontrolna – linia przerywana, pomiar początkowy ok. 10, końcowy ok. 11",
       "difficulty": 2,
       "status": "ok"
     },
@@ -1750,7 +1701,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Osoba z ryc. 15.1, która na końcu trzymała węża, w trakcie terapii:"
+        "W modelowaniu uczestniczącym osoba z fobią węży:"
       ],
       "correct": [
         "obserwowała model i powtarzała jego kroki"
@@ -2055,7 +2006,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Według tab. 15.2 terapia behawioralna zakłada, że ludzie rodzą się:"
+        "Terapia behawioralna zakłada, że ludzie rodzą się:"
       ],
       "correct": [
         "tylko ze zdolnością uczenia się",
@@ -2079,7 +2030,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Zgodnie z tab. 15.2 w terapii behawioralnej zaburzenia zachowania wynikają z:"
+        "W terapii behawioralnej przyjmuje się, że zaburzenia zachowania wynikają z:"
       ],
       "correct": [
         "błędnego uczenia się nieprzystosowawczych zachowań",
@@ -2103,7 +2054,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Jaką rolę pełni wgląd w terapii behawioralnej według tab. 15.2?"
+        "Jaką rolę pełni wgląd w terapii behawioralnej?"
       ],
       "correct": [
         "jest nieistotny i/lub niepotrzebny",
@@ -2127,8 +2078,8 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Rolę terapeuty w terapii behawioralnej tab. 15.2 porównuje do roli:",
-        "Jaką rolę pełni terapeuta behawioralny według tab. 15.2?"
+        "Rolę terapeuty w terapii behawioralnej porównuje się do roli:",
+        "Jaką rolę pełni terapeuta behawioralny?"
       ],
       "correct": [
         "trenera",
@@ -2152,7 +2103,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Terapeuta psychoanalityczny według tab. 15.2 jest emocjonalnie niezaangażowany i neutralny, aby:"
+        "Terapeuta psychoanalityczny jest emocjonalnie niezaangażowany i neutralny, aby:"
       ],
       "correct": [
         "ułatwić wystąpienie reakcji przeniesieniowych",
@@ -2176,7 +2127,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Na czym, według tab. 15.2, koncentruje się terapia behawioralna w perspektywie czasowej?"
+        "Na czym w perspektywie czasowej koncentruje się terapia behawioralna?"
       ],
       "correct": [
         "na analizie i korygowaniu aktualnego zachowania",
@@ -2200,7 +2151,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Stosunek terapii behawioralnej do materiału nieświadomego (tab. 15.2) to:"
+        "Stosunek terapii behawioralnej do materiału nieświadomego to:"
       ],
       "correct": [
         "brak zainteresowania procesami nieświadomymi",
@@ -3263,7 +3214,7 @@
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
       "stems": [
-        "Na ryc. 6.5 stromy gradient generalizacji oznacza, że:"
+        "Stromy gradient generalizacji oznacza, że:"
       ],
       "correct": [
         "reakcja szybko słabnie, gdy barwa się różni",
