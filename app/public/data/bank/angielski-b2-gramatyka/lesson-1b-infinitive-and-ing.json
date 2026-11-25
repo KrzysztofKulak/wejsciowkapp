@@ -1,0 +1,446 @@
+{
+  "bookId": "angielski-b2-gramatyka",
+  "chapterId": "lesson-1b-infinitive-and-ing",
+  "chapterTitle": "Lesson 1B – Infinitive and -ing forms",
+  "sourceHash": "afcdee3247991d6772f46846497485cd2829a29b",
+  "questions": [
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-01",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "I ___ the roof, but I failed. (I attempted it)"
+      ],
+      "correct": [
+        "tried to fix"
+      ],
+      "distractors": [
+        "tried fixing",
+        "tried fix",
+        "tried to fixing",
+        "tried for fixing",
+        "tried fixed",
+        "tried in fixing"
+      ],
+      "explanation": "Try to do – próbować (wysiłek, często bez sukcesu); try doing – wypróbować coś, by sprawdzić, czy działa.",
+      "sourceExcerpt": "Grammar bank 1B: I tried to fix the roof. (I attempted it, but I failed.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-02",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "___ green tea if you have a stomachache. (test it to see if it works)"
+      ],
+      "correct": [
+        "Try drinking"
+      ],
+      "distractors": [
+        "Try to drinking",
+        "Try drink",
+        "Try for drinking",
+        "Trying drink",
+        "Try drunk",
+        "Try in drinking"
+      ],
+      "explanation": "Try doing – wypróbować sposób.",
+      "sourceExcerpt": "Grammar bank 1B: Try drinking green tea if you have a stomachache. (Test it to see if it works.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-03",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "„If you have trouble sleeping, ___ off your phone an hour before bed.” Which form gives advice to test a method?"
+      ],
+      "correct": [
+        "try turning"
+      ],
+      "distractors": [
+        "try to turning",
+        "try turn",
+        "try for turning",
+        "trying turn",
+        "try turned",
+        "try in turning"
+      ],
+      "explanation": "Rada „sprawdź, czy pomoże” – try + -ing.",
+      "sourceExcerpt": "Grammar bank 1B: If you try doing something, you test it to see if it is suitable, useful or works.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-04",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "___ the dog before you leave! (Don't forget!)"
+      ],
+      "correct": [
+        "Remember to feed"
+      ],
+      "distractors": [
+        "Remember feeding",
+        "Remember feed",
+        "Remember to feeding",
+        "Remember fed",
+        "Remember for feeding",
+        "Remembering feed"
+      ],
+      "explanation": "Remember to do – pamiętać, by coś zrobić (najpierw pamiętam, potem robię).",
+      "sourceExcerpt": "Grammar bank 1B: Remember to feed the dog! (Don't forget!)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-05",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "I ___ to school for the first time when I was five."
+      ],
+      "correct": [
+        "remember going"
+      ],
+      "distractors": [
+        "remember to go",
+        "remember go",
+        "remember to going",
+        "remember gone",
+        "remember for going",
+        "remember went"
+      ],
+      "explanation": "Remember doing – mieć wspomnienie czegoś, co się zrobiło.",
+      "sourceExcerpt": "Grammar bank 1B: I remember going to school for the first time when I was five.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-06",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Oh no, I ___ the dog! It's hungry. (I didn't remember to do it)"
+      ],
+      "correct": [
+        "forgot to feed"
+      ],
+      "distractors": [
+        "forgot feeding",
+        "forgot feed",
+        "forgot to feeding",
+        "forgot fed",
+        "forgot for feeding",
+        "forgetting feed"
+      ],
+      "explanation": "Forget to do – nie zrobić czegoś, bo się zapomniało.",
+      "sourceExcerpt": "Grammar bank 1B: I forgot to feed the dog! (I didn't remember.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-07",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "I'll never ___ the Eiffel Tower for the first time – it was amazing. (I'll always have the memory)"
+      ],
+      "correct": [
+        "forget seeing"
+      ],
+      "distractors": [
+        "forget to see",
+        "forget see",
+        "forget to seeing",
+        "forget seen",
+        "forget for seeing",
+        "forget saw"
+      ],
+      "explanation": "Forget doing – (nie) pamiętać, że się coś zrobiło; I'll never forget doing = zawsze będę to pamiętać.",
+      "sourceExcerpt": "Grammar bank 1B: If you forget doing something, you have no memory of it.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-08",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "I ___ my mother. (I stopped what I was doing so I could call her)"
+      ],
+      "correct": [
+        "stopped to call"
+      ],
+      "distractors": [
+        "stopped calling",
+        "stopped call",
+        "stopped to calling",
+        "stopped called",
+        "stopped for calling",
+        "stopping call"
+      ],
+      "explanation": "Stop to do – przerwać coś, żeby zrobić coś innego (cel).",
+      "sourceExcerpt": "Grammar bank 1B: I stopped to call my mother. (I stopped doing something so I could call her.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-09",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "I ___ TV two years ago. (I no longer watch TV)"
+      ],
+      "correct": [
+        "stopped watching"
+      ],
+      "distractors": [
+        "stopped to watch",
+        "stopped watch",
+        "stopped to watching",
+        "stopped watched",
+        "stopped for watching",
+        "stopping watch"
+      ],
+      "explanation": "Stop doing – przestać coś robić (już tego nie robię).",
+      "sourceExcerpt": "Grammar bank 1B: I stopped watching TV two years ago. (I no longer watch TV.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-10",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "„She stopped to smoke.” means that she:"
+      ],
+      "correct": [
+        "paused what she was doing in order to smoke"
+      ],
+      "distractors": [
+        "gave up smoking for good and never smoked again",
+        "tried smoking to see whether she liked it",
+        "remembered that she used to smoke as a teenager",
+        "forgot that she had ever smoked at all",
+        "smoked much less than she used to before",
+        "never smoked again after that day"
+      ],
+      "explanation": "Stop to + bezokolicznik = przerwać inną czynność w celu… (tu: żeby zapalić). Stop smoking = rzucić palenie.",
+      "sourceExcerpt": "Grammar bank 1B: If you stop to do something, you pause what you are doing in order to do something else.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-11",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: My idea is ___ an app."
+      ],
+      "correct": [
+        "to build"
+      ],
+      "distractors": [
+        "building to",
+        "build",
+        "to building",
+        "for build",
+        "built",
+        "for to build"
+      ],
+      "explanation": "Po czasowniku be można użyć bezokolicznika z to.",
+      "sourceExcerpt": "Grammar bank 1B: We can use a to infinitive after the verb be. My idea is to build an app.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-12",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: You should practise every day ___ better."
+      ],
+      "correct": [
+        "to get"
+      ],
+      "distractors": [
+        "for getting",
+        "for get",
+        "getting",
+        "to getting",
+        "get",
+        "for to get"
+      ],
+      "explanation": "Cel wyrażamy bezokolicznikiem z to (nie *for getting*).",
+      "sourceExcerpt": "Grammar bank 1B: You should practise every day to get better.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-13",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: ___ the perfect cup of tea, leave the bag in the water for three minutes."
+      ],
+      "correct": [
+        "To make"
+      ],
+      "distractors": [
+        "For making",
+        "For make",
+        "Making to",
+        "Make",
+        "By make",
+        "For to make"
+      ],
+      "explanation": "Bezokolicznik z to wyraża cel, także na początku zdania.",
+      "sourceExcerpt": "Grammar bank 1B: To make the perfect cup of tea, leave the bag in the water for three minutes.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-14",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: She ran to school ___ late."
+      ],
+      "correct": [
+        "so as not to be"
+      ],
+      "distractors": [
+        "so as to not being",
+        "so not as to be",
+        "for not being",
+        "so as not being",
+        "not so as to be",
+        "so as not be"
+      ],
+      "explanation": "So as (not) to – formalny odpowiednik to + bezokolicznik dla celu; przeczenie: so as not to.",
+      "sourceExcerpt": "Grammar bank 1B: She ran to school so as not to be late.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-15",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: The house was built with big windows ___ in lots of light."
+      ],
+      "correct": [
+        "so as to let"
+      ],
+      "distractors": [
+        "so as letting",
+        "so to let",
+        "for letting",
+        "so as let",
+        "as so to let",
+        "for to let"
+      ],
+      "explanation": "So as to + bezokolicznik – formalnie wyraża cel.",
+      "sourceExcerpt": "Grammar bank 1B: The house was built with big windows so as to let in lots of light.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-16",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Choose the correct option: I passed my exams ___ hard."
+      ],
+      "correct": [
+        "by working"
+      ],
+      "distractors": [
+        "by work",
+        "by to work",
+        "to working",
+        "for work",
+        "by worked",
+        "with to work"
+      ],
+      "explanation": "Po przyimku zawsze forma -ing, nie bezokolicznik.",
+      "sourceExcerpt": "Grammar bank 1B: We use an -ing form, not a to infinitive, after a preposition. I passed my exams by working hard.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-17",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "Which sentence is correct?"
+      ],
+      "correct": [
+        "She's interested in learning Spanish."
+      ],
+      "distractors": [
+        "She's interested in to learn Spanish.",
+        "She's interested in learn Spanish.",
+        "She's interested to learning Spanish.",
+        "She's interested in learned Spanish.",
+        "She's interested for learning Spanish.",
+        "She's interested on learn Spanish."
+      ],
+      "explanation": "Po przyimku (in) – forma -ing.",
+      "sourceExcerpt": "Grammar bank 1B: We use an -ing form, not a to infinitive, after a preposition.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-18",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "„I tried to open the window.” suggests that:"
+      ],
+      "correct": [
+        "I made an effort, but it may not have worked"
+      ],
+      "distractors": [
+        "I opened it just to see if it would help",
+        "I remembered opening it some time before",
+        "I stopped opening it after a while",
+        "I opened it only as a kind of experiment",
+        "I forgot to open it before leaving",
+        "I opened it easily without any effort"
+      ],
+      "explanation": "Try to do = próbować (wysiłek); try doing = sprawdzić efekt.",
+      "sourceExcerpt": "Grammar bank 1B: If you try to do something, you make an attempt to do it.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1b-infinitive-and-ing-19",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1b-infinitive-and-ing",
+      "stems": [
+        "The formal alternative to a to infinitive for expressing purpose is:"
+      ],
+      "correct": [
+        "so as (not) to"
+      ],
+      "distractors": [
+        "in case (not) to",
+        "as long as to",
+        "unless so as to",
+        "provided that to",
+        "by + -ing form",
+        "used to + verb"
+      ],
+      "explanation": "So as (not) to – formalny sposób wyrażenia celu.",
+      "sourceExcerpt": "Grammar bank 1B: We can use so as (not) to as a formal alternative to a to infinitive, to express a purpose.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Angielski B2 – gramatyka"
+}

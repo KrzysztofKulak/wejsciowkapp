@@ -7,7 +7,8 @@
         "wprowadzenie-historia-i-wspolczesnosc",
         "wprowadzenie-do-psychologii-spolecznej",
         "podstawowe-umiejetnosci-psychologiczne",
-        "biologiczne-podstawy-zachowan"
+        "biologiczne-podstawy-zachowan",
+        "angielski-b2"
       ]
     }
   ],
@@ -51,6 +52,13 @@
         "cwiczenia-biologiczne-podstawy-zachowan",
         "prezentacja-neuronalne-podloze-stresu",
         "wyklady-biologiczne-podstawy-zachowan"
+      ]
+    },
+    {
+      "id": "angielski-b2",
+      "title": "Angielski B2",
+      "books": [
+        "angielski-b2-gramatyka"
       ]
     }
   ],
@@ -393,6 +401,36 @@
           "id": "uklad-nerwowy",
           "title": "Układ nerwowy",
           "questionCount": 72,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
+      "id": "angielski-b2-gramatyka",
+      "title": "Angielski B2 – gramatyka",
+      "chapters": [
+        {
+          "id": "conditionals",
+          "title": "Conditionals",
+          "questionCount": 20,
+          "cheatsheet": true
+        },
+        {
+          "id": "lesson-1a-present-perfect",
+          "title": "Lesson 1A – Present perfect simple and continuous",
+          "questionCount": 18,
+          "cheatsheet": true
+        },
+        {
+          "id": "lesson-1b-infinitive-and-ing",
+          "title": "Lesson 1B – Infinitive and -ing forms",
+          "questionCount": 19,
+          "cheatsheet": true
+        },
+        {
+          "id": "past-tenses",
+          "title": "Past tenses",
+          "questionCount": 18,
           "cheatsheet": true
         }
       ]

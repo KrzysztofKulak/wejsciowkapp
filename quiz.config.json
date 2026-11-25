@@ -131,6 +131,13 @@
         "cwiczenia-biologiczne-podstawy-zachowan",
         "prezentacja-neuronalne-podloze-stresu"
       ]
+    },
+    {
+      "id": "angielski-b2",
+      "title": "Angielski B2",
+      "books": [
+        "angielski-b2-gramatyka"
+      ]
     }
   ],
   "semesters": [
@@ -141,7 +148,8 @@
         "wprowadzenie-historia-i-wspolczesnosc",
         "wprowadzenie-do-psychologii-spolecznej",
         "podstawowe-umiejetnosci-psychologiczne",
-        "biologiczne-podstawy-zachowan"
+        "biologiczne-podstawy-zachowan",
+        "angielski-b2"
       ]
     }
   ]

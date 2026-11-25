@@ -1,0 +1,423 @@
+{
+  "bookId": "angielski-b2-gramatyka",
+  "chapterId": "past-tenses",
+  "chapterTitle": "Past tenses",
+  "sourceHash": "7da33162afe3d430924cb317e1773be20ef7430b",
+  "questions": [
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-01",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ to Wrocław in 2020."
+      ],
+      "correct": [
+        "moved"
+      ],
+      "distractors": [
+        "have moved",
+        "was moving",
+        "had been moving",
+        "have been moving",
+        "would move",
+        "move"
+      ],
+      "explanation": "Past simple – zakończona czynność w określonym czasie.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past simple – A finished action at a definite time: I moved to Wrocław in 2020.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-02",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "At 8 pm yesterday I ___, so I didn't answer the phone."
+      ],
+      "correct": [
+        "was working"
+      ],
+      "distractors": [
+        "worked",
+        "have worked",
+        "had worked",
+        "have been working",
+        "work",
+        "would work"
+      ],
+      "explanation": "Past continuous – czynność w trakcie w danym momencie przeszłości.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past continuous – An action in progress at a moment in the past: At 8 pm I was working.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-03",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "When I got to the station, the train ___. I had to wait an hour."
+      ],
+      "correct": [
+        "had already left"
+      ],
+      "distractors": [
+        "already left",
+        "has already left",
+        "was already leaving",
+        "already leaves",
+        "would leave",
+        "had already been leaving"
+      ],
+      "explanation": "Past perfect – czynność wcześniejsza od innej przeszłej.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past perfect – When I got to the station, the train had already left.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-04",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ for an hour when she finally called."
+      ],
+      "correct": [
+        "had been waiting"
+      ],
+      "distractors": [
+        "have been waiting",
+        "was waiting",
+        "waited",
+        "have waited",
+        "am waiting",
+        "would wait"
+      ],
+      "explanation": "Past perfect continuous – jak długo coś trwało do innego momentu w przeszłości.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past perfect continuous – I had been waiting for an hour when she called.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-05",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ dinner when the phone rang."
+      ],
+      "correct": [
+        "was cooking"
+      ],
+      "distractors": [
+        "cooked",
+        "had cooked",
+        "have cooked",
+        "was cooked",
+        "cook",
+        "have been cooking"
+      ],
+      "explanation": "Dłuższa czynność (past continuous) przerwana krótszą (past simple).",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): I was cooking when the phone rang.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-06",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "While I ___, he was watching TV."
+      ],
+      "correct": [
+        "was reading"
+      ],
+      "distractors": [
+        "read",
+        "had read",
+        "have read",
+        "have been reading",
+        "would read",
+        "am reading"
+      ],
+      "explanation": "While + past continuous – dwie czynności równocześnie.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): While I was reading, he was watching TV.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-07",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "„When I arrived, she had left.” means that:"
+      ],
+      "correct": [
+        "she left before I arrived, so I missed her"
+      ],
+      "distractors": [
+        "she left after I arrived",
+        "she left at the same moment I arrived",
+        "she was leaving when I arrived",
+        "she used to leave when I arrived",
+        "she will leave when I arrive",
+        "she had never been there at all"
+      ],
+      "explanation": "Past perfect = wcześniej; When I arrived, she left = wyszła po moim przyjściu.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): When I arrived, she had left means she left before I arrived, so I missed her.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-08",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ in Poznań when I was a student. (past state)"
+      ],
+      "correct": [
+        "used to live"
+      ],
+      "distractors": [
+        "would live",
+        "was used to live",
+        "used to living",
+        "am used to living",
+        "lived to",
+        "had been used to live"
+      ],
+      "explanation": "Used to – przeszłe nawyki i stany; would – tylko powtarzane czynności, nie stany.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): used to + verb is for past habits and past states: I used to live in Poznań. (❌ I would live in Poznań.)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-09",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "Which sentence is INCORRECT?"
+      ],
+      "correct": [
+        "I would live in Poznań when I was a child."
+      ],
+      "distractors": [
+        "Every summer we would go to the lake.",
+        "I used to live in Poznań.",
+        "I used to play football.",
+        "We would often visit our grandparents.",
+        "She used to have long hair.",
+        "I'm used to working from home."
+      ],
+      "explanation": "Would nie wyraża stanów (live, have, know) – tylko powtarzane czynności.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): would + verb is for repeated past actions only, never states (❌ I would live in Poznań.)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-10",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "After two years in London, I ___ driving on the left. (I'm accustomed to it now)"
+      ],
+      "correct": [
+        "am used to"
+      ],
+      "distractors": [
+        "used to",
+        "use to",
+        "would",
+        "was using to",
+        "am use to",
+        "used"
+      ],
+      "explanation": "Be/get used to + -ing = być przyzwyczajonym; used to + verb = dawny nawyk.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): be/get used to + -ing, which means „be accustomed to”: I'm used to working from home.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-11",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ the answer, but I couldn't remember it during the test."
+      ],
+      "correct": [
+        "knew"
+      ],
+      "distractors": [
+        "was knowing",
+        "have been knowing",
+        "had been knowing",
+        "am knowing",
+        "knowed",
+        "was known"
+      ],
+      "explanation": "Know – czasownik stanu, bez form ciągłych.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): ❌ I was knowing the answer. → ✅ I knew the answer.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-12",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ him yesterday at the station."
+      ],
+      "correct": [
+        "saw"
+      ],
+      "distractors": [
+        "have seen",
+        "had seen",
+        "have been seeing",
+        "see",
+        "was seen",
+        "have saw"
+      ],
+      "explanation": "Podany czas zakończony (yesterday) – past simple, nie present perfect.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): ❌ I have seen him yesterday. → ✅ I saw him yesterday.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-13",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ that film – I don't want to watch it again. (no time stated)"
+      ],
+      "correct": [
+        "'ve seen"
+      ],
+      "distractors": [
+        "saw yesterday",
+        "was seeing",
+        "had been seeing",
+        "see",
+        "'d seen yesterday",
+        "was seen"
+      ],
+      "explanation": "Czas nieokreślony – present perfect.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Present perfect: the time isn't stated … I've seen that film.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-14",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "I ___ really busy this week. (the week isn't over)"
+      ],
+      "correct": [
+        "'ve been"
+      ],
+      "distractors": [
+        "was",
+        "had been",
+        "am being",
+        "were",
+        "would be",
+        "be"
+      ],
+      "explanation": "Okres wciąż trwa (this week) – present perfect.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Present perfect … the time period is still going on: I've been busy this week.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-15",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "She got up, ___ and left for work."
+      ],
+      "correct": [
+        "showered"
+      ],
+      "distractors": [
+        "was showering",
+        "had showered",
+        "has showered",
+        "had been showering",
+        "showers",
+        "would shower"
+      ],
+      "explanation": "Seria kolejnych zdarzeń – past simple.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): a series of events: She got up, showered and left.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-16",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "It ___ heavily when I arrived, so I took a taxi."
+      ],
+      "correct": [
+        "was raining"
+      ],
+      "distractors": [
+        "rained",
+        "has rained",
+        "had rained",
+        "rains",
+        "has been raining",
+        "would rain"
+      ],
+      "explanation": "Past continuous – tło wydarzeń w opowiadaniu.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): background to a story: It was raining when I arrived.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-17",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "Every summer when I was a child, we ___ go to the lake."
+      ],
+      "correct": [
+        "would"
+      ],
+      "distractors": [
+        "used",
+        "were used to",
+        "had",
+        "are used to",
+        "would have",
+        "used to going"
+      ],
+      "explanation": "Would + verb – powtarzane czynności w przeszłości.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Every summer we would go to the lake.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-past-tenses-18",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "past-tenses",
+      "stems": [
+        "Why is the past simple vs. present perfect a frequent problem for Polish speakers?"
+      ],
+      "correct": [
+        "Polish has only one past tense"
+      ],
+      "distractors": [
+        "Polish has no past tense",
+        "Polish uses would for past habits",
+        "Polish has no continuous forms",
+        "Polish has three past tenses",
+        "Polish puts will in if-clauses",
+        "Polish has no perfect aspect at all"
+      ],
+      "explanation": "W polskim jest jeden czas przeszły, w angielskim wybór zależy od tego, czy czas jest zakończony/podany.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): This is a frequent problem for Polish speakers, because Polish has only one past tense.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Angielski B2 – gramatyka"
+}

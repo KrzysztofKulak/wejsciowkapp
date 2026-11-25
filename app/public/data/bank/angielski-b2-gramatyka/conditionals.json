@@ -1,0 +1,469 @@
+{
+  "bookId": "angielski-b2-gramatyka",
+  "chapterId": "conditionals",
+  "chapterTitle": "Conditionals",
+  "sourceHash": "0332ec979ba840a670d7e3c69f9c2ca0f3a78417",
+  "questions": [
+    {
+      "id": "angielski-b2-gramatyka-conditionals-01",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If you heat ice, it ___."
+      ],
+      "correct": [
+        "melts"
+      ],
+      "distractors": [
+        "will melt",
+        "would melt",
+        "melted",
+        "would have melted",
+        "has melted",
+        "had melted"
+      ],
+      "explanation": "Zero conditional: fakty i ogólne reguły – present simple w obu częściach.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Zero – Facts that are always true … If you heat ice, it melts.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-02",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If it ___ tomorrow, I'll take the car."
+      ],
+      "correct": [
+        "rains"
+      ],
+      "distractors": [
+        "will rain",
+        "would rain",
+        "rained",
+        "had rained",
+        "is going to rain",
+        "has rained"
+      ],
+      "explanation": "First conditional: realna sytuacja w przyszłości – if + present simple, main clause: will. Nie stawiamy will w zdaniu z if.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): First – If it rains, I'll take the car. ❌ If I will see him… → ✅ If I see him…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-03",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I ___ more time, I would learn Japanese."
+      ],
+      "correct": [
+        "had"
+      ],
+      "distractors": [
+        "have",
+        "will have",
+        "would have",
+        "had had",
+        "would have had",
+        "am having"
+      ],
+      "explanation": "Second conditional: nierealna/mało prawdopodobna sytuacja teraz – if + past simple, would + verb.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Second – If I had more time, I would learn Japanese.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-04",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I had left earlier, I ___ the train."
+      ],
+      "correct": [
+        "would have caught"
+      ],
+      "distractors": [
+        "would catch",
+        "will catch",
+        "had caught",
+        "caught",
+        "would had caught",
+        "will have caught"
+      ],
+      "explanation": "Third conditional: nierealna przeszłość – if + past perfect, would have + past participle.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Third – If I had left earlier, I would have caught the train.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-05",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I ___ known about the party, I would have come."
+      ],
+      "correct": [
+        "had"
+      ],
+      "distractors": [
+        "would have",
+        "have",
+        "would",
+        "had had",
+        "will have",
+        "was"
+      ],
+      "explanation": "W zdaniu z if w 3. trybie – past perfect (had known), nie would have.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): ❌ If I would have known… → ✅ If I had known…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-06",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I ___ you, I would talk to her."
+      ],
+      "correct": [
+        "were"
+      ],
+      "distractors": [
+        "am",
+        "will be",
+        "would be",
+        "had been",
+        "be",
+        "have been"
+      ],
+      "explanation": "If I were you – were dla wszystkich osób (standard); was tylko potocznie.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): „Were” for every person in the second conditional: If I were you…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-07",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I had studied medicine, I ___ a doctor now."
+      ],
+      "correct": [
+        "would be"
+      ],
+      "distractors": [
+        "would have been",
+        "will be",
+        "am",
+        "had been",
+        "would had been",
+        "was"
+      ],
+      "explanation": "Mixed: warunek z przeszłości → skutek teraz: if + past perfect, would + verb.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past condition → present result: If I had studied medicine, I would be a doctor now.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-08",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If I were more organised, I ___ the deadline last week."
+      ],
+      "correct": [
+        "wouldn't have missed"
+      ],
+      "distractors": [
+        "wouldn't miss",
+        "won't miss",
+        "hadn't missed",
+        "didn't miss",
+        "wouldn't had missed",
+        "haven't missed"
+      ],
+      "explanation": "Mixed: cecha teraz → skutek w przeszłości: if + past simple, would have + past participle.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Present condition → past result: If I were more organised, I wouldn't have missed the deadline.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-09",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "I won't go ___ you come with me. (= if you don't come)"
+      ],
+      "correct": [
+        "unless"
+      ],
+      "distractors": [
+        "if",
+        "in case",
+        "as long as",
+        "provided that",
+        "so as",
+        "while"
+      ],
+      "explanation": "Unless = if … not.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Unless means if… not: I won't go unless you come.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-10",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "Take an umbrella ___ it rains. (as a precaution)"
+      ],
+      "correct": [
+        "in case"
+      ],
+      "distractors": [
+        "if",
+        "unless",
+        "as long as",
+        "provided that",
+        "so as",
+        "while"
+      ],
+      "explanation": "In case = na wypadek gdyby (środek ostrożności), nie „jeśli”.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): in case means „as a precaution”, not „if”: Take an umbrella in case it rains.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-11",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "You can borrow my car ___ you drive carefully. (on condition that)"
+      ],
+      "correct": [
+        "as long as"
+      ],
+      "distractors": [
+        "unless",
+        "in case",
+        "so as",
+        "while",
+        "even though",
+        "whether"
+      ],
+      "explanation": "As long as / provided that = pod warunkiem, że.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Other linking words: as long as, provided that, in case.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-12",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "I wish I ___ a bigger flat. (I live in a small one now)"
+      ],
+      "correct": [
+        "had"
+      ],
+      "distractors": [
+        "have",
+        "would have",
+        "had had",
+        "will have",
+        "am having",
+        "would had"
+      ],
+      "explanation": "Wish – żal dotyczący teraźniejszości: past simple.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Present regret: I wish I had a bigger flat.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-13",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "I wish I ___ to the party last night. (I didn't go)"
+      ],
+      "correct": [
+        "had gone"
+      ],
+      "distractors": [
+        "went",
+        "would go",
+        "have gone",
+        "go",
+        "would have went",
+        "had went"
+      ],
+      "explanation": "Wish – żal dotyczący przeszłości: past perfect.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Past regret: I wish I had gone to the party.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-14",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "I wish you ___ interrupting me! (it annoys me)"
+      ],
+      "correct": [
+        "would stop"
+      ],
+      "distractors": [
+        "stopped",
+        "had stopped",
+        "will stop",
+        "stop",
+        "would have stopped",
+        "stopping"
+      ],
+      "explanation": "Wish + would – irytacja cudzym zachowaniem.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Annoyance about someone's behaviour: I wish you would stop interrupting.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-15",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "If you finish early, you ___ go home. (permission)"
+      ],
+      "correct": [
+        "can"
+      ],
+      "distractors": [
+        "would",
+        "would have",
+        "had",
+        "will have",
+        "could have",
+        "are"
+      ],
+      "explanation": "Zamiast will/would można użyć modali: can, might, could.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Modals in place of will/would: If you finish early, you can go.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-16",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "Which sentence is correct?"
+      ],
+      "correct": [
+        "If I see him, I'll tell him."
+      ],
+      "distractors": [
+        "If I will see him, I'll tell him.",
+        "If I would see him, I'll tell him.",
+        "If I'll see him, I tell him.",
+        "If I saw him, I'll tell him.",
+        "If I will see him, I tell him.",
+        "If I would see him, I would told him."
+      ],
+      "explanation": "Nie stawiamy will w zdaniu z if (1. tryb).",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): ❌ If I will see him, I'll tell him. → ✅ If I see him…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-17",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "Which sentence is correct?"
+      ],
+      "correct": [
+        "If I were rich, I would travel the world."
+      ],
+      "distractors": [
+        "If I would be rich, I would travel the world.",
+        "If I will be rich, I would travel the world.",
+        "If I am rich, I would travel the world.",
+        "If I had been rich, I would travel the world last year.",
+        "If I were rich, I will travel the world.",
+        "If I would be rich, I travel the world."
+      ],
+      "explanation": "Second conditional: if + past simple (were), nie would be.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): ❌ If I would be rich… → ✅ If I were rich…",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-18",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "A comma is needed in a conditional sentence:"
+      ],
+      "correct": [
+        "only when the if-clause comes first"
+      ],
+      "distractors": [
+        "only when the main clause comes first",
+        "always, in both orders",
+        "never",
+        "only in the third conditional",
+        "only with unless",
+        "only in mixed conditionals"
+      ],
+      "explanation": "Przecinek po zdaniu z if tylko wtedy, gdy stoi ono na początku.",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Put a comma after the if-clause only when it comes first.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-19",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "„If I had a car…” refers to:"
+      ],
+      "correct": [
+        "the present – but the situation is imaginary"
+      ],
+      "distractors": [
+        "the past – a real situation",
+        "the past – an imaginary situation",
+        "the future – a likely situation",
+        "a general fact that is always true",
+        "a past habit",
+        "the future – an imaginary situation"
+      ],
+      "explanation": "Czasy przeszłe w trybach warunkowych oznaczają nierealność, nie przeszłość: If I had = teraz (nierealnie); If I had had = przeszłość (nierealnie).",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): If I had a car… is about the present, but it's imaginary. If I had had a car… is about the past, and also imaginary.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-conditionals-20",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "conditionals",
+      "stems": [
+        "Which conditional describes something that did NOT happen in the past?"
+      ],
+      "correct": [
+        "third conditional"
+      ],
+      "distractors": [
+        "zero conditional",
+        "first conditional",
+        "second conditional",
+        "present condition → past result",
+        "unless-clause",
+        "wish + would"
+      ],
+      "explanation": "Third – nierealna przeszłość (nie wydarzyło się).",
+      "sourceExcerpt": "Rozmowa o gramatyce (wklejona): Third – An unreal past (it didn't happen).",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Angielski B2 – gramatyka"
+}

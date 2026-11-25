@@ -1,0 +1,423 @@
+{
+  "bookId": "angielski-b2-gramatyka",
+  "chapterId": "lesson-1a-present-perfect",
+  "chapterTitle": "Lesson 1A – Present perfect simple and continuous",
+  "sourceHash": "b6cba10062b7e575792fb7ecea3e39acdbbfc7f6",
+  "questions": [
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-01",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: Oh no, I ___ the bus! (the bus has gone)"
+      ],
+      "correct": [
+        "'ve missed"
+      ],
+      "distractors": [
+        "'ve been missing",
+        "was missing",
+        "miss",
+        "had been missing",
+        "am missing",
+        "'d missed"
+      ],
+      "explanation": "Present perfect simple – czynność zakończona, ważny jest skutek (autobus odjechał).",
+      "sourceExcerpt": "Grammar bank 1A: Oh no, I've missed the bus! (The bus has gone, so the action is completed.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-02",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: I ___ Mandarin for two years, and I still have a lot to learn."
+      ],
+      "correct": [
+        "'ve been learning"
+      ],
+      "distractors": [
+        "'ve learned",
+        "learn",
+        "was learning",
+        "had learned",
+        "am learning",
+        "'d been learning"
+      ],
+      "explanation": "Present perfect continuous – czynność niezakończona, wciąż trwa.",
+      "sourceExcerpt": "Grammar bank 1A: I've been learning Mandarin. (I'm still learning, so the action is not completed.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-03",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: How long ___ Jessica?"
+      ],
+      "correct": [
+        "have you known"
+      ],
+      "distractors": [
+        "have you been knowing",
+        "are you knowing",
+        "were you knowing",
+        "do you know",
+        "had you been knowing",
+        "you have known"
+      ],
+      "explanation": "Know to czasownik stanu (state verb) – z nim present perfect simple, nie continuous.",
+      "sourceExcerpt": "Grammar bank 1A: How long have you known Jessica?",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-04",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: I ___ this car since 2009."
+      ],
+      "correct": [
+        "'ve owned"
+      ],
+      "distractors": [
+        "'ve been owning",
+        "own",
+        "am owning",
+        "owned",
+        "was owning",
+        "'d been owning"
+      ],
+      "explanation": "Own – czasownik stanu: present perfect simple dla stanu trwającego od przeszłości do teraz.",
+      "sourceExcerpt": "Grammar bank 1A: I've owned this car since 2009.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-05",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: We ___ for over forty minutes now!"
+      ],
+      "correct": [
+        "'ve been waiting"
+      ],
+      "distractors": [
+        "'ve been waited",
+        "were been waiting",
+        "had been waited",
+        "are been waiting",
+        "have waiting for",
+        "'re being waiting"
+      ],
+      "explanation": "How long? + czynność długotrwała (wait) – present perfect continuous.",
+      "sourceExcerpt": "Grammar bank 1A: We've been waiting for over forty minutes now!",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-06",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: We ___ more than 100 applicants so far."
+      ],
+      "correct": [
+        "'ve interviewed"
+      ],
+      "distractors": [
+        "'ve been interviewing",
+        "interview",
+        "are interviewing",
+        "had interviewed",
+        "were interviewing",
+        "interviewed"
+      ],
+      "explanation": "How many? – liczymy rezultat: present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: We've interviewed more than 100 applicants. (How many?)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-07",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: He ___ €1,000 for charity."
+      ],
+      "correct": [
+        "'s raised"
+      ],
+      "distractors": [
+        "'s been raising",
+        "raises",
+        "is raising",
+        "had raised",
+        "was raising",
+        "raising"
+      ],
+      "explanation": "How much? – rezultat w liczbach: present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: He's raised €1,000 for charity. (How much?)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-08",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: He ___ on that bench since this morning."
+      ],
+      "correct": [
+        "'s been sitting"
+      ],
+      "distractors": [
+        "'s being sitting",
+        "was been sitting",
+        "had been sat",
+        "is been sitting",
+        "has sitting",
+        "is sitting since"
+      ],
+      "explanation": "Czasowniki długich czynności (sit, stand, wait, stay) + since – present perfect continuous.",
+      "sourceExcerpt": "Grammar bank 1A: He's been sitting on that bench since this morning.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-09",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: She ___ to speak to you all day – call her back!"
+      ],
+      "correct": [
+        "'s been trying"
+      ],
+      "distractors": [
+        "'s been tried",
+        "was been trying",
+        "had been tried",
+        "is been trying",
+        "has trying",
+        "'s being trying"
+      ],
+      "explanation": "Czynność wciąż trwa (jeszcze z tobą nie rozmawiała) – present perfect continuous.",
+      "sourceExcerpt": "Grammar bank 1A: She's been trying to speak to you. (She still hasn't spoken to you, so she's still trying.)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-10",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: I'm afraid she ___ the office – she isn't here now."
+      ],
+      "correct": [
+        "'s left"
+      ],
+      "distractors": [
+        "'s been leaving",
+        "leaves",
+        "is leaving",
+        "was leaving",
+        "'d been leaving",
+        "leave"
+      ],
+      "explanation": "Czynność zakończona ze skutkiem teraz – present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: I'm afraid she's left the office. (She isn't here now, so the action is completed.)",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-11",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: He ___ to work – he always goes by bike."
+      ],
+      "correct": [
+        "'s never driven"
+      ],
+      "distractors": [
+        "'s never been driving",
+        "never drives yet",
+        "was never driving",
+        "'d never been driving",
+        "is never driving",
+        "never has drove"
+      ],
+      "explanation": "Doświadczenia i nawyki z always/ever/never – present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: He's never driven to work, he always goes by bike.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-12",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: I ___ my own bread – I never buy it."
+      ],
+      "correct": [
+        "'ve always baked"
+      ],
+      "distractors": [
+        "'ve always been baking",
+        "was always baking",
+        "'m always baking",
+        "always had baked",
+        "'d always been baking",
+        "always bake yet"
+      ],
+      "explanation": "Always + nawyk – present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: I've always baked my own bread.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-13",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Which sentence focuses on the RESULT of the activity?"
+      ],
+      "correct": [
+        "He's passed all of his exams."
+      ],
+      "distractors": [
+        "He's been studying for his exams.",
+        "He's been revising all week.",
+        "He's been working on his essay.",
+        "He's been preparing for the test.",
+        "He's been reading his notes.",
+        "He's been sitting the exams."
+      ],
+      "explanation": "Simple – skupienie na rezultacie; continuous – na samej czynności.",
+      "sourceExcerpt": "Grammar bank 1A: He's passed all of his exams. (Focuses on the result) / He's been studying for his exams. (Focuses on the activity)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-14",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "The present perfect continuous is used mainly to:"
+      ],
+      "correct": [
+        "focus on the activity itself and its duration"
+      ],
+      "distractors": [
+        "focus on the result of a completed activity",
+        "answer the question „How many?”",
+        "talk about states with verbs like know or own",
+        "describe a finished action at a definite past time",
+        "talk about experiences with ever and never",
+        "describe the result „How far?”"
+      ],
+      "explanation": "Continuous: czynność sama w sobie, How long?, powtarzanie, długie czynności.",
+      "sourceExcerpt": "Grammar bank 1A: We use the present perfect continuous to focus on the activity itself … to answer the question: 'How long?'",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-15",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "In which sentence is there NO important difference between the two forms?"
+      ],
+      "correct": [
+        "Mauro has lived / has been living in Bologna since 2010."
+      ],
+      "distractors": [
+        "I've missed / I've been missing the bus.",
+        "We've interviewed / been interviewing 100 applicants.",
+        "I've known / been knowing Jessica for years.",
+        "He's passed / been passing all his exams.",
+        "I've owned / been owning this car since 2009.",
+        "He's driven / been driving 3,000 km in total."
+      ],
+      "explanation": "Z work, live, study obie formy znaczą praktycznie to samo.",
+      "sourceExcerpt": "Grammar bank 1A: Sometimes there is no important difference … with verbs such as work, live and study. Mauro has lived/has been living in Bologna since 2010.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-16",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: They ___ over 3,000 kilometres this month."
+      ],
+      "correct": [
+        "'ve driven"
+      ],
+      "distractors": [
+        "'ve been driving",
+        "drive",
+        "are driving",
+        "were driving",
+        "had been driving",
+        "drove"
+      ],
+      "explanation": "How far? – rezultat (odległość): present perfect simple.",
+      "sourceExcerpt": "Grammar bank 1A: They've driven over 3,000 kilometres. (How far?)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-17",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Which verb is a state verb, normally NOT used in the present perfect continuous?"
+      ],
+      "correct": [
+        "know"
+      ],
+      "distractors": [
+        "wait",
+        "study",
+        "play",
+        "sit",
+        "write",
+        "stay"
+      ],
+      "explanation": "Czasowniki stanu (know, own, like, believe, understand) – bez form ciągłych.",
+      "sourceExcerpt": "Grammar bank 1A: We use the present perfect simple, NOT the present perfect continuous, with state verbs",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "angielski-b2-gramatyka-lesson-1a-present-perfect-18",
+      "bookId": "angielski-b2-gramatyka",
+      "chapterId": "lesson-1a-present-perfect",
+      "stems": [
+        "Choose the correct option: Your eyes are red. ___ ?"
+      ],
+      "correct": [
+        "Have you been crying"
+      ],
+      "distractors": [
+        "Have you been cried",
+        "Did you cry yet",
+        "Are you crying since",
+        "Had you cried",
+        "Do you cry",
+        "Were you cried"
+      ],
+      "explanation": "Widoczny skutek trwającej czynności – present perfect continuous.",
+      "sourceExcerpt": "Grammar bank 1A: We use the present perfect continuous to focus on the activity itself.",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ],
+  "bookTitle": "Angielski B2 – gramatyka"
+}
