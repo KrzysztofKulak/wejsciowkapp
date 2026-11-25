@@ -6,30 +6,6 @@
   "bookTitle": "Prezentacja: Psychoanaliza w wydaniu Freudowskim",
   "questions": [
     {
-      "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-01",
-      "bookId": "prezentacja-psychoanaliza-freudowska",
-      "chapterId": "slajdy-1-34",
-      "stems": [
-        "Za początek psychoanalizy uznaje się rok 1900, związany z wydaniem przez Freuda dzieła:"
-      ],
-      "correct": [
-        "„Objaśnienie marzeń sennych”"
-      ],
-      "distractors": [
-        "„Wstęp do psychoanalizy”",
-        "„Neurotyczna osobowość naszych czasów”",
-        "„The Principles of Psychology”",
-        "„Psychopatologia życia codziennego”",
-        "„Kultura jako źródło cierpień”",
-        "„Totem i tabu”",
-        "„Poza zasadą przyjemności”"
-      ],
-      "explanation": "„Objaśnienie marzeń sennych” powstało w 1899 r., a za początek psychoanalizy uznaje się 1900 r.",
-      "sourceExcerpt": "1899 powstaje „Objaśnienie marzeń sennych”. Początek Psychoanalizy 1900r.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "prezentacja-psychoanaliza-freudowska-slajdy-1-34-02",
       "bookId": "prezentacja-psychoanaliza-freudowska",
       "chapterId": "slajdy-1-34",

@@ -55,10 +55,30 @@
 
 - **Czarna skrzynka**: reakcję uruchamia popęd, podtrzymuje wzmocnienie; to, co pomiędzy, **nieobserwowalne**, więc nie jest badane.
 
-## Modelowanie – Bandura
+## Modelowanie – Bandura (teoria społecznego uczenia się)
 
-- **Teoria społecznego uczenia się**; agresja dzieci – źródłem **wzorce rodzinne**, nie wzmocnienia (lalka Bobo).
-- **Modelowanie = uczenie się przez obserwację** = u behawiorystów **warunkowanie zastępcze**; uczenie się **bez wzmocnień i kar**.
-- Model: na żywo, na filmie, w lekturze, w opowiadaniu, w instrukcji; postać rzeczywista lub **fikcyjna**.
-- Etapy: **uwaga** (atrakcyjne, znajome, dziwne) → **pamięć** (zrozumienie sensu) → **odtworzenie** motoryczne → **motywacja**.
-- „**Regulacja**” zamiast „wzmacniania”; działa **przed** zachowaniem (nie następczo); potrzebna **świadomość**.
+> **Modelowanie = uczenie się przez obserwację innych** – **bez własnych wzmocnień i kar**. Behawioryści nazywają je **warunkowaniem zastępczym**.
+
+- Skąd się wzięło: agresja dzieci wynika z **wzorców rodzinnych** (modeli), a **nie** ze wzmocnień; badania nad **społecznym modelowaniem agresji** (dorosły bije lalkę Bobo → dzieci robią to samo). Przemoc w TV → agresja widzów przez **obserwację modeli**.
+- **Gdzie może być model**: na żywo, na **filmie**, w **lekturze**, w **opowiadaniach** innych, w **instrukcji obsługi**; postać **rzeczywista lub fikcyjna**, w rzeczywistości lub w wyobraźni.
+
+### 4 warunki uczenia się przez obserwację
+
+| Etap | Na czym polega | Gdy go zabraknie |
+| --- | --- | --- |
+| **Uwaga** | trzeba zauważyć wzorzec; przykuwają ją modele **atrakcyjne, znajome i dziwne** | student patrzy w telefon zamiast na rozwiązanie przy tablicy |
+| **Pamięć (przechowanie)** | zapamiętanie i **zrozumienie sensu** zachowania | widziałam, jak mama robi naleśniki, ale nie pamiętam kolejności |
+| **Odtworzenie (sprawność ruchowa)** | trzeba **umieć** wykonać czynność | pamiętam, jak tata żongluje, ale piłki mi spadają |
+| **Motywacja** | musi być **powód**, by powtórzyć zachowanie | znam przekleństwo brata, ale go nie używam |
+
+### Modelowanie a behawioryzm
+
+| | Warunkowanie sprawcze | Modelowanie |
+| --- | --- | --- |
+| kto dostaje wzmocnienie | **sam uczący się** | **nikt nie musi** (wystarczy obserwacja) |
+| kiedy działa regulacja | **po** zachowaniu (następczo) | **przed** zachowaniem (poprzedzająco) |
+| świadomość | niepotrzebna | **potrzebna** |
+| termin Bandury | wzmacnianie | **regulacja zachowania** („uczenie się bez wzmocnień”) |
+
+- Rozpoznawanie: **kot biegnie na dźwięk puszki** → klasyczne · **dziecko odrabia lekcje dla pochwały** → sprawcze · **nastolatek uczy się tańca z teledysku** → **modelowanie** · **młodszy brat widzi karę starszego i sam przestaje kłamać** → **warunkowanie zastępcze**.
+- **W terapii**: **modelowanie uczestniczące** (obserwuje model i z jego pomocą krok po kroku sam działa – **najskuteczniejsze**, np. fobia węży) vs **modelowanie symboliczne** (ogląda film z modelami).

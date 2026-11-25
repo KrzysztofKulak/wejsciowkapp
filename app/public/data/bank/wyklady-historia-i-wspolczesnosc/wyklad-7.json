@@ -191,20 +191,20 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-7",
       "stems": [
-        "Pawłow zaobserwował zjawisko warunkowania, gdy psy zaczęły się ślinić na:"
+        "W eksperymencie Pawłowa psy zaczęły się ślinić na sam dźwięk kroków karmiciela, zanim dostały karmę. Kroki karmiciela były w tym eksperymencie:"
       ],
       "correct": [
-        "kroki karmiciela, zanim poczuły karmę"
+        "bodźcem warunkowym"
       ],
       "distractors": [
-        "widok innych jedzących psów",
-        "dźwięk dzwonka po podaniu karmy",
-        "zapach karmy podanej do pyska",
-        "ból wywołany przez prąd",
-        "widok białego szczura w klatce",
-        "naciśnięcie dźwigni w skrzynce"
+        "bodźcem bezwarunkowym",
+        "reakcją warunkową",
+        "reakcją bezwarunkową",
+        "wzmocnieniem negatywnym",
+        "karą pozytywną",
+        "bodźcem awersyjnym"
       ],
-      "explanation": "Pawłow (fizjolog, badał trawienie psów) zauważył reakcję ślinianek na dźwięk butów karmiciela – zanim pojawiła się karma.",
+      "explanation": "Kroki (początkowo obojętne) po skojarzeniu z karmą (bodziec bezwarunkowy) same wywołują ślinienie – są bodźcem warunkowym; ślinienie na kroki to reakcja warunkowa.",
       "sourceExcerpt": "Zaobserwował reakcję ślinianek psów na dźwięk butów karmiciela (zanim poczuły karmę)",
       "difficulty": 1,
       "tags": [

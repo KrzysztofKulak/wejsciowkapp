@@ -534,56 +534,6 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-23",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-5",
-      "stems": [
-        "Na podstawie sekcji makaków Galen wykazał, że tętnicami:",
-        "Sekcje makaków pozwoliły Galenowi stwierdzić, że w tętnicach:"
-      ],
-      "correct": [
-        "nie płynie powietrze",
-        "nie ma powietrza"
-      ],
-      "distractors": [
-        "płynie powietrze z płuc",
-        "płynie powietrze prosto z serca",
-        "płynie żółć",
-        "płynie flegma",
-        "krąży „fluid uniwersalny”",
-        "płynie tchnienie z mózgu"
-      ],
-      "explanation": "Galen opisał różnice między tętnicami (udowodnił, że nie płynie nimi powietrze) a żyłami, na sekcjach makaków.",
-      "sourceExcerpt": "różnice między tętnicami (udowodnił, że nie płynie nimi powietrze) i żyłami (na sekcjach makaków)",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-25",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-5",
-      "stems": [
-        "Hypatia z Aleksandrii, neoplatońska filozofka i matematyczka, jest współcześnie symbolem:",
-        "Postać Hypatii z Aleksandrii symbolizuje dziś:"
-      ],
-      "correct": [
-        "konfliktu i odchodzącego świata starożytnego",
-        "konfliktu oraz odchodzącego świata"
-      ],
-      "distractors": [
-        "narodzin psychologii eksperymentalnej",
-        "rozkwitu medycyny rzymskiej",
-        "triumfu teorii humoralnej",
-        "przejścia od ontologii do epistemologii",
-        "renesansowego ożywienia nauki",
-        "początków psychoanalizy"
-      ],
-      "explanation": "Hypatia – neoplatonka zlinczowana po sporze z biskupem Cyrylem; współcześnie symbol konfliktu i odchodzącego świata.",
-      "sourceExcerpt": "współcześnie symbol konfliktu, ale też symbol odchodzącego świata",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "wyklady-historia-i-wspolczesnosc-wyklad-5-26",
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-5",

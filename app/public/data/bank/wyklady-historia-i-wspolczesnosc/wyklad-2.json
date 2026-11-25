@@ -197,55 +197,6 @@
       "sourceExcerpt": "Kurt Lewin - badał skąd bierze się zachowanie człowieka. Równanie Lewina: B = f(p, e).",
       "difficulty": 1,
       "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-09",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-2",
-      "stems": [
-        "Eksperyment „uliczny” Johna Voyevodsky'ego (San Francisco, 1974) pokazał, że dodatkowy znak stopu:"
-      ],
-      "correct": [
-        "zmniejszył liczbę wypadków, obrażenia kierowców i koszty napraw",
-        "wyraźnie ograniczył wypadki i ich skutki"
-      ],
-      "distractors": [
-        "nie miał wpływu na liczbę wypadków",
-        "zwiększył liczbę wypadków przez dezorientację kierowców",
-        "zmniejszył wypadki, ale zwiększył koszty napraw",
-        "działał wyłącznie w godzinach nocnych",
-        "zwiększył prędkość przejazdu przez skrzyżowanie",
-        "skrócił czas reakcji kierowców bez wpływu na wypadki",
-        "pogorszył płynność ruchu bez zmiany bezpieczeństwa"
-      ],
-      "explanation": "Dodatkowy stop zmniejszył częstotliwość wypadków, obrażenia kierowców i koszty napraw o około 60%.",
-      "sourceExcerpt": "John Voyevodsky - eksperyment „uliczny” w 1974 San Francisco - dodatkowy stop zmniejszył częstotliwość wypadków, obrażenia kierowców i koszty napraw o 60%.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-2-10",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-2",
-      "stems": [
-        "Rosalind Franklin, której zdjęcia rentgenowskie umożliwiły odkrycie podwójnej helisy DNA, została pominięta przy Nagrodzie Nobla, ponieważ:"
-      ],
-      "correct": [
-        "w chwili przyznawania nagrody już nie żyła",
-        "zmarła wcześniej na raka"
-      ],
-      "distractors": [
-        "odmówiła przyjęcia nagrody",
-        "nie opublikowała swoich zdjęć",
-        "jej zdjęcia okazały się błędne",
-        "nie miała stopnia doktora",
-        "pracowała w innej dziedzinie nauki",
-        "nie należała do zespołu badawczego"
-      ],
-      "explanation": "Franklin zmarła na raka (ekspozycja na promieniowanie w pracy) i została pominięta przy Noblu, bo już nie żyła (choć możliwe, że i tak by ją pominięto).",
-      "sourceExcerpt": "Rosalind Franklin - Pracowała nad odkryciem podwójnej helisy DNA (zrobiła i opisała zdjęcia, które umożliwiły odkrycie), ale umarła na raka przez ekspozycje na rentgena w trakcie pracy. Została pominięta przy nagrodzie Nobla.",
-      "difficulty": 2,
-      "status": "ok"
     }
   ]
 }

@@ -53,29 +53,6 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-03",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Jean-Martin Charcot przejął z mesmeryzmu zainteresowanie:"
-      ],
-      "correct": [
-        "hipnozą"
-      ],
-      "distractors": [
-        "snami",
-        "humorami",
-        "afazją",
-        "frenologią",
-        "lobotomią",
-        "atomami"
-      ],
-      "explanation": "Charcot przejął z mesmeryzmu zainteresowanie hipnozą; stan w hipnozie nazywał „histerią”.",
-      "sourceExcerpt": "przejął z mesmeryzmu zainteresowanie hipnozą",
-      "difficulty": 1,
-      "status": "ok"
-    },
-    {
       "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-04",
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-6",
@@ -217,30 +194,6 @@
       "explanation": "DSM-IV: dysocjacja – rozłączenie funkcji normalnie połączonych (świadomość, pamięć, tożsamość, percepcja).",
       "sourceExcerpt": "zaburzenia dysocjacyjne (według DSM-IV – rozłączenie funkcji normalnie połączonych: świadomość, pamięć, tożsamość, percepcja)",
       "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-10",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Dawniej uważano, że „histeria” dotyczy wyłącznie kobiet, ponieważ jej przyczyną miała być:"
-      ],
-      "correct": [
-        "nieprawidłowo funkcjonująca macica",
-        "nieprawidłowa praca macicy"
-      ],
-      "distractors": [
-        "nadwyżka czarnej żółci",
-        "nadmiar libido",
-        "zaburzenie fluidu uniwersalnego",
-        "wyparty kompleks Elektry",
-        "nadmierna wrażliwość nerwów czaszkowych",
-        "zbyt silna persona"
-      ],
-      "explanation": "Dawniej uznawano, że „histeria” dotyczy wyłącznie kobiet (przyczyną miała być nieprawidłowo funkcjonująca macica); dziś wiadomo, że takie zaburzenia dotyczą obu płci.",
-      "sourceExcerpt": "kiedyś uznawano, że wyłącznie kobiet (powodem miała być nieprawidłowo funkcjonująca macica)",
-      "difficulty": 1,
       "status": "ok"
     },
     {
@@ -434,62 +387,11 @@
       "status": "ok"
     },
     {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-19",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Anna O. (Berta Pappenheim), leczona przez Josefa Breuera, po kilkunastu latach:",
-        "Losy Anny O. (Berty Pappenheim) po zakończeniu leczenia u Breuera były takie, że:"
-      ],
-      "correct": [
-        "sama wyzdrowiała i stała się przeciwniczką psychoanalizy",
-        "wyzdrowiała sama i została zdecydowaną przeciwniczką psychoanalizy"
-      ],
-      "distractors": [
-        "została psychoanalityczką i uczennicą Freuda",
-        "wyzdrowiała dzięki terapii prowadzonej przez ojca",
-        "zmarła w zakładzie psychiatrycznym",
-        "wyzdrowiała dopiero po analizie snów u Freuda",
-        "do końca życia pozostała w transie",
-        "wyleczyła się hipnozą u Charcota"
-      ],
-      "explanation": "Breuer leczył Annę O. (czasem 2× dziennie), arbitralnie uznał ją za zdrową; po kilkunastu latach sama wyzdrowiała i stała się przeciwniczką psychoanalizy.",
-      "sourceExcerpt": "Po kilkunastu latach sama wyzdrowiała i stała się absolutną przeciwniczką psychoanalizy.",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-20",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Transe Anny O., nazywane przez nią „chmurą”, obejmowały:",
-        "Stany określane przez Annę O. jako „chmura” to:"
-      ],
-      "correct": [
-        "halucynacje węży i czaszek",
-        "halucynacje (węże i czaszki)"
-      ],
-      "distractors": [
-        "napady lęku przed końmi",
-        "przejęzyczenia i pomyłki",
-        "sny o powodziach i zlodowaceniach",
-        "ataki płaczu i demonstracyjności",
-        "lęk przed wykluczeniem",
-        "zaniki pamięci świeżych zdarzeń"
-      ],
-      "explanation": "Anna O.: transe („chmura”) – halucynacje węży i czaszek → kaszel, afazja, paraliż, niemożność picia (jadła arbuzy).",
-      "sourceExcerpt": "Transe nazywane „chmurą” – halucynacje: węże i czaszki",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-21",
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-6",
       "stems": [
-        "Podczas pracy z Dorą (Idą Bauer) Freud zaobserwował przenoszenie emocji z właściwego obiektu na terapeutę, czyli:",
-        "Zjawisko zaobserwowane przez Freuda u Dory (Idy Bauer) – przenoszenie emocji z właściwego obiektu na terapeutę – to:"
+        "Przenoszenie przez pacjenta emocji z właściwego obiektu (np. rodzica) na terapeutę to w psychoanalizie:"
       ],
       "correct": [
         "przeniesienie"
@@ -502,80 +404,8 @@
         "wyparcie",
         "regresja"
       ],
-      "explanation": "Dora: przeniesienie (emocje z właściwego obiektu → terapeuta) i znaczenie analizy snów; feministki zarzucają relacji wykorzystywanie.",
+      "explanation": "Przeniesienie – emocje z właściwego obiektu kierowane na terapeutę; kluczowe zjawisko w terapii psychoanalitycznej i psychodynamicznej.",
       "sourceExcerpt": "Freud zaobserwował u niej efekt przeniesienia (przenoszenie emocji z właściwego obiektu na terapeutę)",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-22",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Przy pracy z Dorą (Idą Bauer), oprócz przeniesienia, Freud zwrócił uwagę na znaczenie:",
-        "Przypadek Dory (Idy Bauer) uświadomił Freudowi, obok przeniesienia, wagę:"
-      ],
-      "correct": [
-        "analizy snów"
-      ],
-      "distractors": [
-        "hipnozy",
-        "przejęzyczeń",
-        "kompleksu kastracyjnego",
-        "terapii prowadzonej przez rodzica",
-        "wolnych skojarzeń",
-        "metaanaliz"
-      ],
-      "explanation": "Przy Dorze Freud zaobserwował przeniesienie i zwrócił uwagę na analizę snów.",
-      "sourceExcerpt": "oraz zwrócił uwagę na znaczenie analizy snów",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-23",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "W przypadku Małego Hansa (Herberta Grafa), który bał się koni, terapię prowadził:",
-        "Psychoanalityczną terapię lęku Małego Hansa przed końmi prowadził:"
-      ],
-      "correct": [
-        "ojciec chłopca według wskazówek Freuda",
-        "ojciec Hansa, kierując się wskazówkami Freuda"
-      ],
-      "distractors": [
-        "Freud osobiście w swoim gabinecie",
-        "Josef Breuer za pomocą hipnozy",
-        "Charcot w szpitalu Salpêtrière",
-        "Carl Gustav Jung",
-        "matka chłopca według wskazówek Junga",
-        "Alfred Adler w szkole"
-      ],
-      "explanation": "Mały Hans (5 lat) bał się koni; terapię prowadził ojciec wg wskazówek Freuda i uznał lęk za przeniesiony lęk kastracyjny przed ojcem.",
-      "sourceExcerpt": "psychoanalityczną terapię prowadził ojciec Hansa w oparciu o wskazówki Freuda",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-24",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Lęk Małego Hansa przed końmi uznano w toku terapii za:"
-      ],
-      "correct": [
-        "przeniesiony lęk kastracyjny przed ojcem"
-      ],
-      "distractors": [
-        "skutek ugryzienia przez konia w dzieciństwie",
-        "przeniesiony lęk przed utratą matki",
-        "wrodzoną fobię przed dużymi zwierzętami",
-        "objaw histerii dziedziczonej po matce",
-        "przeniesiony lęk przed własną śmiercią",
-        "wyuczoną bezradność wobec ojca"
-      ],
-      "explanation": "Ojciec Hansa uznał, że lęk przed końmi jest przeniesionym lękiem (kastracyjnym) przed ojcem.",
-      "sourceExcerpt": "ojciec Hansa uznał, że lęk przed końmi jest przeniesionym lękiem (kastracyjnym) przed ojcem",
       "difficulty": 2,
       "status": "ok"
     },
@@ -731,21 +561,20 @@
       "bookId": "wyklady-historia-i-wspolczesnosc",
       "chapterId": "wyklad-6",
       "stems": [
-        "Do zerwania Carla Gustava Junga z Freudem doszło według Junga z powodu:"
+        "Jung, w odróżnieniu od Freuda, nie zgadzał się na wyjaśnianie wszystkich motywów człowieka:"
       ],
       "correct": [
-        "braku akceptacji dla motywowania wszystkiego libido",
-        "niezgody na wyjaśnianie wszystkiego libido"
+        "energią libido"
       ],
       "distractors": [
-        "sporu o skuteczność hipnozy",
-        "odrzucenia przez Junga istnienia nieświadomości",
-        "krytyki studiów przypadków",
-        "sporu o poczucie niższości",
-        "różnicy zdań co do roli matki",
-        "konfliktu o przypadek Anny O."
+        "nieświadomością zbiorową",
+        "poczuciem niższości",
+        "wpływem kultury",
+        "potrzebą samorealizacji",
+        "wzmocnieniami",
+        "archetypami"
       ],
-      "explanation": "Jung – najpierw przyjaciel „namaszczony” przez Freuda; zerwanie przez brak akceptacji dla motywowania wszystkiego libido.",
+      "explanation": "Jung odrzucał tezę, że wszystko motywuje libido – rozwinął m.in. koncepcję nieświadomości zbiorowej i archetypów.",
       "sourceExcerpt": "Zdaniem Junga – przez brak akceptacji dla motywowania wszystkiego libido",
       "difficulty": 2,
       "status": "ok"
@@ -845,30 +674,6 @@
       "explanation": "Jung: nieświadomość indywidualna – materiał oderwany od świadomości jednostki; zbiorowa – wspólna całemu rodzajowi ludzkiemu.",
       "sourceExcerpt": "nieświadomości zbiorowej – czyli obszaru nieświadomego, wspólnego całemu rodzajowi ludzkiemu",
       "difficulty": 1,
-      "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-6-36",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-6",
-      "stems": [
-        "Potwierdzeniem istnienia nieświadomości zbiorowej były dla Junga:",
-        "Za dowód istnienia nieświadomości zbiorowej Jung uznawał:"
-      ],
-      "correct": [
-        "jego sny z lat 1913–1914 o powodziach i lodzie w Europie"
-      ],
-      "distractors": [
-        "studia przypadków Anny O. i Dory opisane przez Freuda",
-        "wyniki metaanaliz skuteczności różnych terapii",
-        "przejęzyczenia jego pacjentów podczas analizy",
-        "eksperymenty z hipnozą prowadzone przez Charcota",
-        "podobieństwa mitów Azteków, Majów i Inków",
-        "fobie zwierzęce u dzieci, np. lęk przed końmi"
-      ],
-      "explanation": "Dowód Junga: jego sny z 1913 i 1914 r. przedstawiające powodzie i zlodowacenia w Europie przed wybuchem I wojny światowej.",
-      "sourceExcerpt": "Potwierdzeniem istnienia nieświadomości zbiorowej, dla Junga były jego sny z lat 1913 i 1914 przedstawiające powodzie i zlodowacenia w Europie",
-      "difficulty": 2,
       "status": "ok"
     },
     {

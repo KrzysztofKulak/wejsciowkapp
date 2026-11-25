@@ -75,29 +75,6 @@
       "sourceExcerpt": "Uzależnienie społeczne - gdy wykonywanie akcji (np. picie) jest elementem tożsamości społecznej danej grupy.",
       "difficulty": 2,
       "status": "ok"
-    },
-    {
-      "id": "wyklady-historia-i-wspolczesnosc-wyklad-1-04",
-      "bookId": "wyklady-historia-i-wspolczesnosc",
-      "chapterId": "wyklad-1",
-      "stems": [
-        "Kazimierz Twardowski zapisał się w historii jako:"
-      ],
-      "correct": [
-        "ojciec polskiej psychologii"
-      ],
-      "distractors": [
-        "twórca psychoanalizy",
-        "twórca behawioryzmu",
-        "założyciel laboratorium w Lipsku",
-        "badacz dziedziczenia temperamentu",
-        "twórca psychologii postaci",
-        "autor koncepcji tabula rasa"
-      ],
-      "explanation": "Kazimierz Twardowski – ojciec polskiej psychologii.",
-      "sourceExcerpt": "Kazimierz Twardowski - ojciec polskiej psychologii.",
-      "difficulty": 1,
-      "status": "ok"
     }
   ]
 }

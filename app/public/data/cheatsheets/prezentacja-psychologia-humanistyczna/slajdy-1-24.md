@@ -16,16 +16,19 @@
 | które | fizjologiczne, bezpieczeństwa, przynależności i miłości, szacunku | poznawcze, estetyczne, moralne, transcendencji, samorealizacja |
 | hierarchia | tak | **nie** – mogą się płynnie zastępować |
 
-### Piramida (8 poziomów, od dołu)
+### Piramida potrzeb (8 poziomów)
 
-1. **Fizjologiczne** – powietrze, jedzenie, picie, schronienie, sen, seks.
-2. **Bezpieczeństwa** – opieka, porządek, prawo, granice, stabilność, brak lęku.
-3. **Przynależności i miłości** – rodzina, związek, akceptacja, grupa.
-4. **Szacunku (uznania)** – osiągnięcia, status, reputacja; też szacunek do siebie.
-5. **Poznawcze** – wiedza, znaczenie, samoświadomość.
-6. **Estetyczne** – piękno, równowaga, forma.
-7. **Samorealizacja** – osobisty rozwój.
-8. **Transcendencja** – **pomoc innym** w samorealizacji.
+<div class="pyramid">
+<div class="grow" style="width:34%;--lvl:8">Transcendencja<small>pomoc innym w samorealizacji</small></div>
+<div class="grow" style="width:43%;--lvl:7">Samorealizacja<small>osobisty rozwój, realizacja potencjału</small></div>
+<div class="grow" style="width:52%;--lvl:6">Potrzeby estetyczne<small>piękno, równowaga, forma</small></div>
+<div class="grow" style="width:61%;--lvl:5">Potrzeby poznawcze<small>wiedza, znaczenie, samoświadomość</small></div>
+<div style="width:70%;--lvl:4">Szacunku (uznania)<small>osiągnięcia, status, reputacja, szacunek do siebie</small></div>
+<div style="width:79%;--lvl:3">Przynależności i miłości<small>rodzina, związek, akceptacja, grupa</small></div>
+<div style="width:88%;--lvl:2">Bezpieczeństwa<small>stabilność, porządek, prawo, brak lęku</small></div>
+<div style="width:97%;--lvl:1">Fizjologiczne<small>jedzenie, woda, sen, schronienie, seks</small></div>
+</div>
+<p class="pyramid-legend">Linia ciągła – <b>potrzeby braku</b> (redukcja napięcia, zależą od otoczenia) · przerywana – <b>potrzeby wzrostu</b> (pozytywne emocje, niezależne od otoczenia, bez ścisłej hierarchii). W wersji 5-stopniowej (wykład): fizjologiczne → bezpieczeństwa → przynależności → uznania → samorealizacji.</p>
 
 - Brak empirycznego potwierdzenia hierarchii. Maslow: osoby wychowane w **bezpieczeństwie i miłości** mogą jako dorośli **nie podlegać determinizmowi potrzeb podstawowych**; „szacunek do siebie wyżej niż pełny brzuch”.
 

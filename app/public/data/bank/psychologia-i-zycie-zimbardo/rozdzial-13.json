@@ -30,29 +30,6 @@
       "status": "ok"
     },
     {
-      "id": "psychologia-i-zycie-zimbardo-rozdzial-13-02",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "rozdzial-13",
-      "stems": [
-        "Biograf Freuda, Ernest Jones, nazwał go:"
-      ],
-      "correct": [
-        "„Karolem Darwinem psychiki”"
-      ],
-      "distractors": [
-        "„Kopernikiem umysłu”",
-        "„Newtonem nieświadomości”",
-        "„Kolumbem ludzkiej duszy”",
-        "„Galileuszem psychiatrii”",
-        "„Einsteinem psychologii”",
-        "„Ojcem psychologii eksperymentalnej”"
-      ],
-      "explanation": "Ernest Jones, biograf Freuda, nazwał go w 1953 r. „Karolem Darwinem psychiki”.",
-      "sourceExcerpt": "Twórca podejścia: Zygmunt Freud – biograf Ernest Jones nazwał go „Karolem Darwinem psychiki” (1953).",
-      "difficulty": 3,
-      "status": "ok"
-    },
-    {
       "id": "psychologia-i-zycie-zimbardo-rozdzial-13-03",
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "rozdzial-13",

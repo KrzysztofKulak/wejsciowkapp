@@ -1046,32 +1046,6 @@
       "status": "ok"
     },
     {
-      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-41",
-      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
-      "chapterId": "slajdy-1-32",
-      "stems": [
-        "Iwan Pawłow odkrył warunkowanie klasyczne, prowadząc badania nad:"
-      ],
-      "correct": [
-        "trawieniem u psów"
-      ],
-      "distractors": [
-        "uczeniem się kotów w skrzynkach",
-        "lękiem u niemowląt",
-        "naciskaniem dźwigni przez szczury",
-        "agresją u dzieci",
-        "pamięcią u gołębi",
-        "wzrokiem u małp"
-      ],
-      "explanation": "Pawłow – rosyjski fizjolog – badając trawienie psów, zaobserwował ślinienie na bodźce zapowiadające pokarm.",
-      "sourceExcerpt": "Slajd 2: Iwan Pawłow … rosyjski fizjolog, przeprowadzając badania nad trawieniem u psów zaobserwował zjawisko nazywane od tej pory warunkowaniem klasycznym",
-      "difficulty": 1,
-      "tags": [
-        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
-      ],
-      "status": "ok"
-    },
-    {
       "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-42",
       "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
       "chapterId": "slajdy-1-32",
@@ -1720,6 +1694,322 @@
         "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
       ],
       "status": "ok"
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-67",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Nastolatek uczy się wiązać krawat, oglądając krótki film instruktażowy. To przykład:"
+      ],
+      "correct": [
+        "uczenia się przez modelowanie"
+      ],
+      "distractors": [
+        "warunkowania klasycznego",
+        "warunkowania sprawczego",
+        "wzmocnienia pozytywnego",
+        "generalizacji bodźca",
+        "wygaszania reakcji",
+        "kary negatywnej"
+      ],
+      "explanation": "Uczenie się przez obserwację modela (także na filmie, w instrukcji) – modelowanie; nie wymaga wzmocnień.",
+      "sourceExcerpt": "Slajd 29: Modelowanie może zachodzić gdy: … widzimy na filmie … korzystamy z instrukcji obsługi",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-68",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Nastolatka zaczyna malować się tak samo jak podziwiana influencerka, którą ogląda w internecie. To przykład:"
+      ],
+      "correct": [
+        "uczenia się przez modelowanie"
+      ],
+      "distractors": [
+        "warunkowania klasycznego",
+        "warunkowania sprawczego",
+        "wzmocnienia pozytywnego",
+        "generalizacji bodźca",
+        "wygaszania reakcji",
+        "kary negatywnej"
+      ],
+      "explanation": "Naśladowanie atrakcyjnego modela – modelowanie (uwagę przykuwają modele atrakcyjne, znajome i dziwne).",
+      "sourceExcerpt": "Slajd 29–30: Modelowanie … widzimy na filmie; uwagę przykuwają: atrakcyjne, znajome i dziwne",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-69",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Młodszy brat widzi, że starszy został ukarany za kłamstwo, i sam przestaje kłamać, choć jego nikt nie ukarał. Behawioryści nazwą to:"
+      ],
+      "correct": [
+        "warunkowaniem zastępczym"
+      ],
+      "distractors": [
+        "karą pozytywną",
+        "karą negatywną",
+        "wygaszaniem reakcji",
+        "warunkowaniem klasycznym",
+        "generalizacją bodźca",
+        "wzmocnieniem negatywnym"
+      ],
+      "explanation": "Uczenie się na podstawie obserwacji konsekwencji u innych (bez własnej kary) – modelowanie, które behawioryści nazywają warunkowaniem zastępczym.",
+      "sourceExcerpt": "Slajd 28: Modelowanie, czyli właśnie uczenie się przez obserwację, behawioryści nazywają warunkowaniem zastępczym",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-70",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Czym uczenie się przez modelowanie różni się od warunkowania sprawczego?"
+      ],
+      "correct": [
+        "obserwator uczy się, choć sam nie otrzymuje wzmocnienia"
+      ],
+      "distractors": [
+        "obserwator uczy się wyłącznie dzięki własnym karom",
+        "zachowanie zawsze wywołuje bodziec bezwarunkowy",
+        "dotyczy wyłącznie reakcji mimowolnych",
+        "wymaga, by zachowanie było od razu nagrodzone",
+        "nie wymaga udziału świadomości",
+        "działa tylko u zwierząt laboratoryjnych"
+      ],
+      "explanation": "Modelowanie = uczenie się bez wzmocnień i kar; regulacja działa przed zachowaniem (nie następczo), potrzebna jest świadomość.",
+      "sourceExcerpt": "Slajd 28, 32: Jak to się dzieje, że człowiek może się czegoś nauczyć bez wzmocnień i kar? … W uczeniu się obserwacyjnym wzmocnienie/regulacja zachowania jest oddziaływaniem poprzedzającym, a nie następczym",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-71",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Kot przybiega na dźwięk otwieranej puszki, dziecko odrabia lekcje dla pochwały, a nastolatek uczy się tańca z teledysku. Ten ostatni przykład to:"
+      ],
+      "correct": [
+        "uczenia się przez modelowanie"
+      ],
+      "distractors": [
+        "warunkowania klasycznego",
+        "warunkowania sprawczego",
+        "wzmocnienia pozytywnego",
+        "generalizacji bodźca",
+        "wygaszania reakcji",
+        "kary negatywnej"
+      ],
+      "explanation": "Puszka – warunkowanie klasyczne; pochwała – sprawcze (wzmocnienie pozytywne); teledysk – modelowanie.",
+      "sourceExcerpt": "Slajd 29: Modelowanie może zachodzić gdy: … widzimy na filmie",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-72",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Czy według Bandury można nauczyć się zachowania od postaci fikcyjnej, np. bohatera książki?"
+      ],
+      "correct": [
+        "tak – uczymy się od postaci rzeczywistych i fikcyjnych"
+      ],
+      "distractors": [
+        "nie – tylko od osób widzianych na żywo",
+        "nie – tylko od osób z rodziny",
+        "tak, ale tylko gdy postać zostanie nagrodzona",
+        "nie – fikcja nie wpływa na zachowanie",
+        "tak, ale tylko u dzieci poniżej 5 lat",
+        "tylko wtedy, gdy obserwator dostaje karę"
+      ],
+      "explanation": "Ludzie aktywnie obserwują świat; uczymy się od postaci rzeczywistych i fikcyjnych – w rzeczywistości i w wyobrażeniach.",
+      "sourceExcerpt": "Slajd 29: Możemy zatem uczyć się zarówno od postaci rzeczywistych, jak i fikcyjnych – w rzeczywistości, jak i w wyobrażeniach",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-73",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Student patrzy, jak kolega rozwiązuje zadanie przy tablicy, ale przez cały czas pisze wiadomości na telefonie i niczego się nie uczy. Według Bandury zabrakło przede wszystkim:"
+      ],
+      "correct": [
+        "uwagi"
+      ],
+      "distractors": [
+        "pamięci",
+        "sprawności",
+        "motywacji",
+        "wzmocnienia",
+        "bodźca",
+        "kary",
+        "nagrody"
+      ],
+      "explanation": "Pierwszy etap uczenia się przez obserwację to zaobserwowanie wzorca – bez uwagi nie ma uczenia się.",
+      "sourceExcerpt": "Slajd 30: zaobserwowanie wzorca (uwagę przykuwają: atrakcyjne, znajome i dziwne); pamięć – przechowywanie (ważne rozumienie jego sensu); motoryczna zdolność do odtworzenia czynności; motywacja (chęć powtórzeń…)",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-74",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Dziecko uważnie oglądało, jak mama robi naleśniki, ale nie zrozumiało, po co są kolejne kroki, i następnego dnia nie pamiętało ich kolejności. Według Bandury zawiódł etap:"
+      ],
+      "correct": [
+        "pamięci"
+      ],
+      "distractors": [
+        "uwagi",
+        "sprawności",
+        "motywacji",
+        "wzmocnienia",
+        "bodźca",
+        "kary",
+        "nagrody"
+      ],
+      "explanation": "Drugi etap – przechowanie w pamięci; ważne jest rozumienie sensu zachowania modela.",
+      "sourceExcerpt": "Slajd 30: zaobserwowanie wzorca (uwagę przykuwają: atrakcyjne, znajome i dziwne); pamięć – przechowywanie (ważne rozumienie jego sensu); motoryczna zdolność do odtworzenia czynności; motywacja (chęć powtórzeń…)",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-75",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Chłopiec dobrze widział i pamięta, jak tata żongluje trzema piłkami, i bardzo chce to powtórzyć, ale piłki ciągle mu spadają. Według Bandury brakuje mu przede wszystkim:"
+      ],
+      "correct": [
+        "sprawności"
+      ],
+      "distractors": [
+        "uwagi",
+        "pamięci",
+        "motywacji",
+        "wzmocnienia",
+        "bodźca",
+        "kary",
+        "nagrody"
+      ],
+      "explanation": "Trzeci etap – motoryczna zdolność do odtworzenia czynności; samo zapamiętanie nie wystarcza.",
+      "sourceExcerpt": "Slajd 30: zaobserwowanie wzorca (uwagę przykuwają: atrakcyjne, znajome i dziwne); pamięć – przechowywanie (ważne rozumienie jego sensu); motoryczna zdolność do odtworzenia czynności; motywacja (chęć powtórzeń…)",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-76",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Dziecko zna na pamięć przekleństwo, którego używa starszy brat, i umiałoby je powtórzyć, ale tego nie robi, bo nie ma żadnego powodu. Według Bandury brakuje:"
+      ],
+      "correct": [
+        "motywacji"
+      ],
+      "distractors": [
+        "uwagi",
+        "pamięci",
+        "sprawności",
+        "wzmocnienia",
+        "bodźca",
+        "kary",
+        "nagrody"
+      ],
+      "explanation": "Czwarty etap – motywacja: obserwator musi mieć powód, by odtworzyć zachowanie modela.",
+      "sourceExcerpt": "Slajd 30: zaobserwowanie wzorca (uwagę przykuwają: atrakcyjne, znajome i dziwne); pamięć – przechowywanie (ważne rozumienie jego sensu); motoryczna zdolność do odtworzenia czynności; motywacja (chęć powtórzeń…)",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-77",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Bandura wyjaśniłby wzrost agresji u dzieci, które często oglądają przemoc w telewizji, tym, że:"
+      ],
+      "correct": [
+        "uczą się agresji, obserwując modele"
+      ],
+      "distractors": [
+        "ich agresja jest wzmacniana nagrodami",
+        "agresja jest wrodzonym popędem",
+        "przemoc w TV działa jak kara pozytywna",
+        "uwarunkowano je klasycznie na ekran",
+        "rozładowują w ten sposób frustrację",
+        "telewizja wygasza ich empatię"
+      ],
+      "explanation": "Teoria społecznego uczenia się: agresja przejmowana przez obserwację modeli (także filmowych), a nie wskutek wzmocnień – badania nad społecznym modelowaniem agresji.",
+      "sourceExcerpt": "Slajd 26–31: Czy oglądanie przemocy w telewizji powoduje wzrost poziomu agresji u widzów? … Moje wstępne badania nad społecznym uczeniem się koncentrowały się na społecznym modelowaniu agresji",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-78",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Rodzic, który krzyczy na dziecko za to, że krzyczy na rodzeństwo, według Bandury ryzykuje, że dziecko:"
+      ],
+      "correct": [
+        "przejmie krzyk jako wzorzec zachowania"
+      ],
+      "distractors": [
+        "przestanie krzyczeć dzięki karze pozytywnej",
+        "nauczy się wyłącznie unikać rodzica",
+        "stanie się bardziej uległe wobec rodzeństwa",
+        "zapomni o swoim zachowaniu",
+        "zacznie krzyczeć tylko w szkole",
+        "przestanie odczuwać złość"
+      ],
+      "explanation": "Według Bandury centralną rolę w agresji dzieci odgrywają wzorce rodzinne – dziecko uczy się przez obserwację zachowania rodzica.",
+      "sourceExcerpt": "Slajd 27: centralną rolę odgrywają tu nie wzmocnienia … a wzorce rodzinne",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     }
   ],
   "bookTitle": "Prezentacja: Behawioryzm i uczenie się"

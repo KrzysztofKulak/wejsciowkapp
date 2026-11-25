@@ -254,30 +254,6 @@
       "status": "ok"
     },
     {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-11",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "W sprawie George’a Franklina skazanie opierało się głównie na:",
-        "Na jakiej podstawie skazano George’a Franklina za zabójstwo Susan Nason?"
-      ],
-      "correct": [
-        "wspomnieniu córki odzyskanym w terapii"
-      ],
-      "distractors": [
-        "odciskach palców znalezionych na miejscu zbrodni",
-        "przyznaniu się oskarżonego do winy",
-        "zeznaniach kilku niezależnych świadków",
-        "dowodach z badań DNA",
-        "nagraniu z kamery w osiedlu",
-        "opinii biegłego psychiatry o oskarżonym"
-      ],
-      "explanation": "Eileen Franklin-Lipsker po 20 latach „przypomniała sobie” w psychoterapii wyparte wspomnienie o tym, że ojciec zabił Susan. Ława przysięgłych uznała je za wiarygodne.",
-      "sourceExcerpt": "Eileen powiedziała im, że dzięki psychoterapii przypomniała sobie dawno wyparte, przerażające wspomnienie o tym, co spotkało Susan",
-      "difficulty": 2,
-      "status": "ok"
-    },
-    {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-12",
       "bookId": "psychologia-i-zycie-zimbardo",
       "chapterId": "behawioryzm-notatki-ai",
@@ -1553,7 +1529,10 @@
       "explanation": "Terapia oparta na teorii społecznego uczenia się: forma leczenia, w której klienci obserwują wzmacnianie pożądanych zachowań u osób odgrywających rolę modeli.",
       "sourceExcerpt": "Terapia oparta na teorii społecznego uczenia się (social-learning therapy): Forma leczenia, w której klienci obserwują wzmacnianie pożądanych zachowań u osób odgrywających rolę modeli.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-66",
@@ -1576,7 +1555,10 @@
       "explanation": "Proces zastępczego uczenia się jest szczególnie wartościowy w przezwyciężaniu fobii i kształtowaniu umiejętności społecznych.",
       "sourceExcerpt": "Ten proces zastępczego uczenia się jest szczególnie wartościowy w przezwyciężaniu fobii i kształtowaniu umiejętności społecznych.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-67",
@@ -1599,7 +1581,10 @@
       "explanation": "Ludzie uczą się przez obserwację zachowania innych; reguł uczymy się z pośrednictwem środków symbolicznych, takich jak obserwacja doświadczeń innych w życiu, w filmie lub w telewizji.",
       "sourceExcerpt": "Często uczysz się reguł i ich stosowania do nowych doświadczeń, korzystając z pośrednictwa środków symbolicznych, takich jak obserwacja doświadczeń innych ludzi w życiu, w filmie lub w telewizji.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-68",
@@ -1623,7 +1608,10 @@
       "explanation": "Terapeuta najpierw demonstruje bez lęku zachowanie zbliżania się do węża, zaczynając od łatwych zachowań (podejście do klatki, dotknięcie palcem); klient je naśladuje, a terapeuta zachęca i dodaje otuchy.",
       "sourceExcerpt": "terapeuta najpierw demonstruje zachowanie zbliżania się bez lęku do węża, rozpoczynając od stosunkowo łatwiejszych zachowań – np. podejścia do klatki z wężami lub dotknięcia węża palcem",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-69",
@@ -1646,7 +1634,10 @@
       "explanation": "Nigdy nie zmusza się klienta do jakiegoś zachowania. Opór na jakimkolwiek poziomie przezwycięża się, polecając wrócić do mniej zagrażającego, opanowanego wcześniej zachowania.",
       "sourceExcerpt": "Nigdy nie zmusza się klienta do jakiegoś zachowania. Opór pojawiający się na jakimkolwiek poziomie trudności zadania przezwycięża się, polecając klientowi powrócić do mniej zagrażającego, realizowanego uprzednio z powodzeniem zachowania zbliżającego.",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-70",
@@ -1670,7 +1661,10 @@
       "explanation": "Ryc. 15.1: modelowanie uczestniczące dało najwięcej reakcji zbliżania (ok. 27–28 wobec ok. 10 na początku); odwrażliwianie i modelowanie symboliczne mniej (ok. 18–20), grupa kontrolna praktycznie bez zmian.",
       "sourceExcerpt": "Wykres przedstawia porównanie liczby reakcji zbliżania się, wykonanych przez osoby badane przed (najbardziej skuteczną) terapią opartą na modelowaniu i po niej",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-72",
@@ -1694,7 +1688,10 @@
       "explanation": "W terapii opartej na modelowaniu symbolicznym osoby badane, wyszkolone w technikach relaksacji, oglądały film (z modelami).",
       "sourceExcerpt": "W terapii opartej na modelowaniu symbolicznym osoby badane, wyszkolone w posługiwaniu się technikami relaksacji, oglądały film",
       "difficulty": 3,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-73",
@@ -1717,30 +1714,10 @@
       "explanation": "Podpis ryc. 15.1: osoba badana najpierw obserwowała model wykonujący serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała; w końcu wzięła węża w ręce.",
       "sourceExcerpt": "Osoba badana widoczna na zdjęciu najpierw obserwowała modela wykonującego serię stopniowanych reakcji zbliżania do węża, a następnie sama je powtarzała.",
       "difficulty": 2,
-      "status": "ok"
-    },
-    {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-74",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Spośród porównywanych metod leczenia fobii węży (modelowanie uczestniczące, symboliczne, odwrażliwianie) najskuteczniejsze okazało się:"
-      ],
-      "correct": [
-        "modelowanie uczestniczące"
-      ],
-      "distractors": [
-        "modelowanie symboliczne",
-        "systematyczne odwrażliwianie",
-        "brak jakiejkolwiek terapii",
-        "zatapianie w wyobraźni",
-        "terapia awersyjna",
-        "trening relaksacji"
-      ],
-      "explanation": "Modelowanie uczestniczące (obserwacja modela + własne stopniowe działanie z nim) usunęło fobię u niemal wszystkich (11 z 12); dalej odwrażliwianie i modelowanie symboliczne.",
-      "sourceExcerpt": "W grupie poddanej tej procedurze wyeliminowano fobię przed wężami u 11 z 12 osób badanych",
-      "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-75",
@@ -1764,7 +1741,10 @@
       "explanation": "Badani, wyszkoleni w relaksacji, oglądali film, w którym modele bez lęku brali węże do rąk; gdy scena budziła lęk, mogli zatrzymać film i się zrelaksować.",
       "sourceExcerpt": "oglądały film, w którym kilku modeli bez lęku brało węże do rąk; kiedy oglądana scena wzbudzała w osobach badanych uczucie lęku, mogły zatrzymać film i zrelaksować się",
       "difficulty": 2,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-76",
@@ -1787,7 +1767,10 @@
       "explanation": "Modelowanie uczestniczące: terapeuta demonstruje pożądane zachowania i pomaga klientowi naśladować je, wspierając go i zachęcając.",
       "sourceExcerpt": "Modelowanie uczestniczące (participant modeling): Technika terapeutyczna, w której terapeuta demonstruje pożądane zachowania i pomaga klientowi naśladować je, wspierając go i zachęcając.",
       "difficulty": 1,
-      "status": "ok"
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     },
     {
       "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-77",
@@ -2640,59 +2623,6 @@
       ],
       "explanation": "Warunkowanie klasyczne: reakcja warunkowa jest wywoływana przez obojętny bodziec (warunkowy), który zyskuje tę zdolność przez skojarzenie z bodźcem istotnym biologicznie (bezwarunkowym).",
       "sourceExcerpt": "Warunkowanie klasyczne (classical conditioning) Typ uczenia się, w którym zachowanie (reakcja warunkowa) jest wywoływane przez obojętny bodziec (bodziec warunkowy), który zyskuje tę zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie (bodźcem bezwarunkowym).",
-      "difficulty": 1,
-      "status": "ok",
-      "tags": [
-        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
-      ]
-    },
-    {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-111",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Pawłow odkrył warunkowanie klasyczne, gdy:"
-      ],
-      "correct": [
-        "przypadkiem, badając trawienie u psów",
-        "prowadził badania nad trawieniem"
-      ],
-      "distractors": [
-        "celowo badał uczenie się psów",
-        "badał sen u psów",
-        "leczył fobie u dzieci",
-        "badał koty w skrzynkach problemowych",
-        "badał pamięć gołębi",
-        "testował leki na psach"
-      ],
-      "explanation": "Pawłow nie zamierzał badać warunkowania; odkrył je przypadkiem, prowadząc badania nad trawieniem (za które dostał Nagrodę Nobla w 1904 r.).",
-      "sourceExcerpt": "Warunkowanie klasyczne odkrył przypadkiem, prowadząc badania nad trawieniem, za które w 1904 r. dostał Nagrodę Nobla.",
-      "difficulty": 1,
-      "status": "ok",
-      "tags": [
-        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
-      ]
-    },
-    {
-      "id": "psychologia-i-zycie-zimbardo-behawioryzm-notatki-ai-112",
-      "bookId": "psychologia-i-zycie-zimbardo",
-      "chapterId": "behawioryzm-notatki-ai",
-      "stems": [
-        "Co zaskoczyło Pawłowa w zachowaniu psów?"
-      ],
-      "correct": [
-        "śliniły się przed podaniem pokarmu"
-      ],
-      "distractors": [
-        "przestały się ślinić na pokarm",
-        "bały się asystentów",
-        "śliniły się tylko w nocy",
-        "uczyły się otwierać klatki",
-        "nie reagowały na proszek mięsny",
-        "zasypiały po jedzeniu"
-      ],
-      "explanation": "Psy zaczynały wydzielać ślinę na widok pokarmu, asystenta przynoszącego pokarm, a nawet na odgłos jego kroków – każdy bodziec regularnie poprzedzający pokarm wywoływał ślinienie.",
-      "sourceExcerpt": "śliniły się, zanim umieszczono im proszek w pysku! Zaczynały wydzielać ślinę na sam widok pokarmu, a później na widok asystenta, który przynosił pokarm, lub nawet na odgłos jego kroków",
       "difficulty": 1,
       "status": "ok",
       "tags": [

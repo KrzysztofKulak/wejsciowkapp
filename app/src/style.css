@@ -206,3 +206,16 @@ footer { margin: 24px 0 8px; text-align: center; }
 .oral-badge { font-weight: 700; }
 .oral-thinking { text-align: center; animation: pulse 1.4s ease-in-out infinite; }
 @keyframes pulse { 50% { opacity: 0.4; } }
+
+/* Cheatsheet: pyramid figure (raw HTML in markdown, e.g. Maslow) */
+.cs-body .pyramid { display: flex; flex-direction: column; align-items: center; gap: 3px; margin: 12px 0 14px; }
+.cs-body .pyramid > div {
+  box-sizing: border-box; padding: 5px 8px; border-radius: 6px; text-align: center; line-height: 1.2;
+  min-width: min(9em, 100%); max-width: 100%; overflow-wrap: normal; word-break: normal; hyphens: manual;
+  background: color-mix(in srgb, var(--accent) calc(var(--lvl, 1) * 8%), var(--card));
+  color: var(--text); border: 1px solid var(--line); font-size: 0.92rem;
+}
+.cs-body .pyramid > div small { display: block; color: inherit; opacity: 0.78; font-size: 0.78rem; }
+.cs-body .pyramid .grow { border-style: dashed; }
+.cs-body .pyramid-legend { font-size: 0.82rem; color: var(--muted); text-align: center; margin-top: -6px; }
+@media print { .cs-body .pyramid > div { background: #fff; } }

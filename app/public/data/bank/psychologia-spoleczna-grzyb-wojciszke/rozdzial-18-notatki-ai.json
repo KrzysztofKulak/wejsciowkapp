@@ -1343,20 +1343,20 @@
       "bookId": "psychologia-spoleczna-grzyb-wojciszke",
       "chapterId": "rozdzial-18-notatki-ai",
       "stems": [
-        "Norman Triplett (1898) zaobserwował, że dzieci nawijające żyłkę na kołowrotek w obecności rówieśników:"
+        "Dzieci szybciej nawijają żyłkę na kołowrotek w obecności rówieśników niż w samotności. To przykład:"
       ],
       "correct": [
-        "nawijały szybciej niż pracujące samotnie"
+        "facylitacji społecznej"
       ],
       "distractors": [
-        "nawijały wolniej niż pracujące samotnie",
-        "nawijały tak samo jak pracujące samotnie",
-        "popełniały więcej błędów",
-        "szybciej się męczyły i przerywały",
-        "pracowały wolniej tylko przy trudnym zadaniu",
-        "unikały zadania"
+        "hamowania społecznego",
+        "próżniactwa społecznego",
+        "kompensacji społecznej",
+        "polaryzacji grupowej",
+        "konformizmu",
+        "modelowania"
       ],
-      "explanation": "Jedno z pierwszych badań psychologii społecznej – facylitacja społeczna (ułatwienie) przy łatwym zadaniu.",
+      "explanation": "Facylitacja społeczna – obecność innych podnosi wykonanie zadań łatwych (Triplett 1898; Zajonc).",
       "sourceExcerpt": "s. 463: Dzieci działające w obecności innych wykonujących to samo działanie rówieśników okazały się skuteczniejsze – w tym samym czasie nawinęły więcej żyłki od pracujących samotnie",
       "difficulty": 1,
       "status": "ok"

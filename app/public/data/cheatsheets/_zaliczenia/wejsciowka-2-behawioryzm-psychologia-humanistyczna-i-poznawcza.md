@@ -41,7 +41,6 @@
 | reakcje | **mimowolne** (ślinienie, strach, mdłości) | **dowolne** (operanty), podmiot **aktywny** |
 | przykład | ślinienie na dźwięk szafki z karmą, lęk na dźwięk wiertła | szczur naciska dźwignię dla pokarmu |
 
-- **Modelowanie** (Bandura) – uczenie się **przez obserwację**, bez wzmocnień (lalka Bobo); u behawiorystów **warunkowanie zastępcze**.
 
 ### Pojęcia warunkowania klasycznego (Mały Albert)
 
@@ -49,18 +48,60 @@
 - **Generalizacja** – boi się też królika · **różnicowanie** – reaguje na dzwonek, nie na brzęczyk · **wygaszanie** – sam dzwonek bez jedzenia → ślinienie zanika · **samoistne odnowienie** – po przerwie reakcja wraca · **wyższego rzędu** – światło łączone z dzwonkiem.
 - Najlepiej, gdy bodziec warunkowy **poprzedza** bezwarunkowy (u Pawłowa ok. 0,5 s).
 
+## Modelowanie – Bandura
+
+> **Modelowanie = uczenie się przez obserwację innych** – **bez własnych wzmocnień i kar**. Behawioryści nazywają je **warunkowaniem zastępczym**.
+
+- Skąd się wzięło: agresja dzieci wynika z **wzorców rodzinnych** (modeli), a **nie** ze wzmocnień; badania nad **społecznym modelowaniem agresji** (dorosły bije lalkę Bobo → dzieci robią to samo). Przemoc w TV → agresja widzów przez **obserwację modeli**.
+- **Gdzie może być model**: na żywo, na **filmie**, w **lekturze**, w **opowiadaniach** innych, w **instrukcji obsługi**; postać **rzeczywista lub fikcyjna**, w rzeczywistości lub w wyobraźni.
+
+### 4 warunki uczenia się przez obserwację
+
+| Etap | Na czym polega | Gdy go zabraknie |
+| --- | --- | --- |
+| **Uwaga** | trzeba zauważyć wzorzec; przykuwają ją modele **atrakcyjne, znajome i dziwne** | student patrzy w telefon zamiast na rozwiązanie przy tablicy |
+| **Pamięć (przechowanie)** | zapamiętanie i **zrozumienie sensu** zachowania | widziałam, jak mama robi naleśniki, ale nie pamiętam kolejności |
+| **Odtworzenie (sprawność ruchowa)** | trzeba **umieć** wykonać czynność | pamiętam, jak tata żongluje, ale piłki mi spadają |
+| **Motywacja** | musi być **powód**, by powtórzyć zachowanie | znam przekleństwo brata, ale go nie używam |
+
+### Modelowanie a behawioryzm
+
+| | Warunkowanie sprawcze | Modelowanie |
+| --- | --- | --- |
+| kto dostaje wzmocnienie | **sam uczący się** | **nikt nie musi** (wystarczy obserwacja) |
+| kiedy działa regulacja | **po** zachowaniu (następczo) | **przed** zachowaniem (poprzedzająco) |
+| świadomość | niepotrzebna | **potrzebna** |
+| termin Bandury | wzmacnianie | **regulacja zachowania** („uczenie się bez wzmocnień”) |
+
+- Rozpoznawanie: **kot biegnie na dźwięk puszki** → klasyczne · **dziecko odrabia lekcje dla pochwały** → sprawcze · **nastolatek uczy się tańca z teledysku** → **modelowanie** · **młodszy brat widzi karę starszego i sam przestaje kłamać** → **warunkowanie zastępcze**.
+- **W terapii**: **modelowanie uczestniczące** (obserwuje model i z jego pomocą krok po kroku sam działa – **najskuteczniejsze**, np. fobia węży) vs **modelowanie symboliczne** (ogląda film z modelami).
+
 ## Behawioryzm – skrót
 
 - **Watson** – zachowanie (S–R), **bez introspekcji**; „tuzin niemowląt” (środowisko > geny).
 - **Fundamenty**: fizykalizm (mierzalność), funkcjonalizm (po co), pragmatyzm (praktyczność), empiryzm (środowisko), pozytywizm (metodologia).
 - **Czarna skrzynka** – umysłu nie badamy. **Skinner**: środowisko aktywne, człowiek reaktywny; czynniki neutralne, wzmacniające i karzące.
 - **Tolman** – **S–O–R** (zmienne pośredniczące). Dziś – **CBT**.
-- **Bandura**: uwaga → pamięć → odtworzenie → motywacja; regulacja działa **przed** zachowaniem; potrzebna **świadomość**.
 
 ## Psychologia humanistyczna – skrót
 
 - **Trzecia siła**; bunt przeciw determinizmowi; wolna wola, potencjał, holizm; klient jako **podmiot**.
-- **Maslow**: potrzeby **braku** (redukcja napięcia, zależą od otoczenia) i **wzrostu** (pozytywne emocje, niezależne, **bez hierarchii**). Piramida: fizjologiczne → bezpieczeństwa → przynależności → szacunku → (poznawcze → estetyczne) → samorealizacja → (transcendencja = pomoc innym w samorealizacji).
+
+### Piramida potrzeb Maslowa
+
+<div class="pyramid">
+<div class="grow" style="width:34%;--lvl:8">Transcendencja<small>pomoc innym w samorealizacji</small></div>
+<div class="grow" style="width:43%;--lvl:7">Samorealizacja<small>osobisty rozwój, realizacja potencjału</small></div>
+<div class="grow" style="width:52%;--lvl:6">Potrzeby estetyczne<small>piękno, równowaga, forma</small></div>
+<div class="grow" style="width:61%;--lvl:5">Potrzeby poznawcze<small>wiedza, znaczenie, samoświadomość</small></div>
+<div style="width:70%;--lvl:4">Szacunku (uznania)<small>osiągnięcia, status, reputacja, szacunek do siebie</small></div>
+<div style="width:79%;--lvl:3">Przynależności i miłości<small>rodzina, związek, akceptacja, grupa</small></div>
+<div style="width:88%;--lvl:2">Bezpieczeństwa<small>stabilność, porządek, prawo, brak lęku</small></div>
+<div style="width:97%;--lvl:1">Fizjologiczne<small>jedzenie, woda, sen, schronienie, seks</small></div>
+</div>
+<p class="pyramid-legend">Linia ciągła – <b>potrzeby braku</b> (redukcja napięcia, zależą od otoczenia) · przerywana – <b>potrzeby wzrostu</b> (pozytywne emocje, niezależne od otoczenia, bez ścisłej hierarchii). W wersji 5-stopniowej (wykład): fizjologiczne → bezpieczeństwa → przynależności → uznania → samorealizacji.</p>
+
+- **Maslow**: potrzeby **braku** (redukcja napięcia, zależą od otoczenia) i **wzrostu** (pozytywne emocje, niezależne, **bez hierarchii**); **samorealizacja** = ciągłe dążenie do rozwinięcia potencjału. Osoby wychowane w bezpieczeństwie i miłości mogą nie podlegać determinizmowi potrzeb podstawowych.
 - **Rogers**: człowiek z natury dobry; **tendencja aktualizująca**; pole fenomenologiczne ≠ świadomość; **kongruencja**, **subcepcja**; ja realne vs idealne; terapia **niedyrektywna**; triada: **akceptacja, empatia, autentyczność**.
 - **Allport** – cechy dominujące, centralne (5–10), wtórne. **Bühler** – rozwój przez całe życie. **Frankl** – terapia egzystencjalna. **Rotter** – locus of control.
 

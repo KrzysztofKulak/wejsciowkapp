@@ -8,7 +8,16 @@
 ## Maslow
 
 - Współtwórca psychologii humanistycznej i (później) **transpersonalnej**.
-- Model 5-poziomowy (od dołu): **fizjologiczne → bezpieczeństwa → przynależności i miłości → uznania → samorealizacji**.
+- Hierarchiczny model potrzeb (5 poziomów):
+
+<div class="pyramid">
+<div class="grow" style="width:40%;--lvl:5">Samorealizacji</div>
+<div style="width:55%;--lvl:4">Uznania</div>
+<div style="width:70%;--lvl:3">Przynależności i miłości</div>
+<div style="width:85%;--lvl:2">Bezpieczeństwa</div>
+<div style="width:100%;--lvl:1">Fizjologiczne</div>
+</div>
+
 
 ## Rogers
 

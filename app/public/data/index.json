@@ -62,19 +62,19 @@
         {
           "id": "rozdzial-1",
           "title": "Rozdział 1, str. 12-19",
-          "questionCount": 25,
+          "questionCount": 21,
           "cheatsheet": true
         },
         {
           "id": "rozdzial-13",
           "title": "Rozdz. 13 – Teorie psychodynamiczne (Freud), s. 578–584",
-          "questionCount": 70,
+          "questionCount": 69,
           "cheatsheet": true
         },
         {
           "id": "behawioryzm-notatki-ai",
           "title": "Behawioryzm – notatki AI (Rozdz. 6, s. 226–244; Rozdz. 15, s. 677–688)",
-          "questionCount": 168,
+          "questionCount": 164,
           "cheatsheet": true
         }
       ]
@@ -98,7 +98,7 @@
         {
           "id": "slajdy-1-32",
           "title": "slajdy 1–32",
-          "questionCount": 66,
+          "questionCount": 77,
           "cheatsheet": true
         }
       ]
@@ -110,7 +110,7 @@
         {
           "id": "slajdy-1-34",
           "title": "slajdy 1–34",
-          "questionCount": 39,
+          "questionCount": 38,
           "cheatsheet": true
         },
         {
@@ -128,7 +128,7 @@
         {
           "id": "slajdy-1-24",
           "title": "slajdy 1–24",
-          "questionCount": 32,
+          "questionCount": 31,
           "cheatsheet": true
         }
       ]
@@ -164,13 +164,13 @@
         {
           "id": "wyklad-1",
           "title": "Wykład 1: Wprowadzenie do wprowadzenia",
-          "questionCount": 4,
+          "questionCount": 3,
           "cheatsheet": true
         },
         {
           "id": "wyklad-2",
           "title": "Wykład 2: Pytania, jakie stawia psychologia",
-          "questionCount": 10,
+          "questionCount": 8,
           "cheatsheet": true
         },
         {
@@ -188,13 +188,13 @@
         {
           "id": "wyklad-5",
           "title": "Wykład 5. Wielkie prądy - psychologia do starożytności do usamodzielnia się jako nauki",
-          "questionCount": 49,
+          "questionCount": 47,
           "cheatsheet": true
         },
         {
           "id": "wyklad-6",
           "title": "Wykład 6. Wielkie prądy - psychoanaliza",
-          "questionCount": 45,
+          "questionCount": 37,
           "cheatsheet": true
         },
         {
@@ -437,17 +437,17 @@
       "id": "wejsciowka-2-behawioryzm-psychologia-humanistyczna-i-poznawcza",
       "title": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
       "tag": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
-      "questionCount": 224,
+      "questionCount": 242,
       "sources": [
         {
           "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
           "chapterId": "slajdy-1-32",
-          "questionCount": 66
+          "questionCount": 77
         },
         {
           "bookId": "prezentacja-psychologia-humanistyczna",
           "chapterId": "slajdy-1-24",
-          "questionCount": 32
+          "questionCount": 31
         },
         {
           "bookId": "prezentacja-teoria-konstruktow-kelly",
@@ -457,7 +457,7 @@
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "behawioryzm-notatki-ai",
-          "questionCount": 77
+          "questionCount": 85
         },
         {
           "bookId": "wyklady-historia-i-wspolczesnosc",

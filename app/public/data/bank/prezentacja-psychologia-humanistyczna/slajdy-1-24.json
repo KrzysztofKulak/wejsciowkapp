@@ -87,7 +87,7 @@
       "bookId": "prezentacja-psychologia-humanistyczna",
       "chapterId": "slajdy-1-24",
       "stems": [
-        "Kurt Goldstein, badając następstwa uszkodzeń mózgu, zauważył, że ludzi zdrowych od zaburzonych odróżnia:"
+        "Według Kurta Goldsteina ludzi zdrowych od zaburzonych odróżnia:"
       ],
       "correct": [
         "mechanizmy samoregulacji i samorozwoju"
@@ -102,32 +102,6 @@
       ],
       "explanation": "Goldstein (inspiracja humanistów): zdrowy organizm ma mechanizmy samoregulacji i samorozwoju; tendencja do samorealizacji to cecha każdej zdrowej osoby.",
       "sourceExcerpt": "Slajd 3: zdrowy organizm jest wyposażony w mechanizmy samoregulacji i samorozwoju. Tendencja do samorealizacji jest właściwością każdej zdrowej osoby.",
-      "difficulty": 2,
-      "tags": [
-        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
-      ],
-      "status": "ok"
-    },
-    {
-      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-05",
-      "bookId": "prezentacja-psychologia-humanistyczna",
-      "chapterId": "slajdy-1-24",
-      "stems": [
-        "Maslow swoje dociekania nad samorealizacją rozpoczął od prób zrozumienia:"
-      ],
-      "correct": [
-        "podziwianych przez siebie nauczycieli"
-      ],
-      "distractors": [
-        "pacjentów z zaburzeniami psychicznymi",
-        "zachowań zwierząt w laboratorium",
-        "dzieci z rodzin dysfunkcyjnych",
-        "przestępców w więzieniach",
-        "żołnierzy po wojnie",
-        "studentów słabo się uczących"
-      ],
-      "explanation": "Maslow chciał zrozumieć swoich nauczycieli (Max Wertheimer, Ruth Benedict) – „najlepszych reprezentantów rodzaju ludzkiego”.",
-      "sourceExcerpt": "Slajd 6: Punktem wyjścia stały się usiłowania młodego intelektualisty, aby zrozumieć swych nauczycieli, których kochał, uwielbiał i podziwiał",
       "difficulty": 2,
       "tags": [
         "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
@@ -509,7 +483,7 @@
       "bookId": "prezentacja-psychologia-humanistyczna",
       "chapterId": "slajdy-1-24",
       "stems": [
-        "Carl Rogers doszedł do wniosku, że natura ludzka jest z gruntu dobra, obserwując, że jego pacjenci:"
+        "Rogers uznał naturę ludzką za z gruntu dobrą, ponieważ klienci w terapii:"
       ],
       "correct": [
         "zmieniali się na lepsze dzięki samej akceptującej atmosferze"
