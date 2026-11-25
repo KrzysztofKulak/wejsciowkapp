@@ -1,4 +1,4 @@
-> Zakres: behawioryzm, psychologia humanistyczna i poznawcza. **Na pewno** będą kary i wzmocnienia (pozytywne/negatywne) – rozpoznawanie na przykładach. Źródła: prezentacje (behawioryzm, humanistyczna, Kelly), wykłady 7–8, Zimbardo r. 6 (notatki AI).
+> Zakres wejściówki: **kary i wzmocnienia** (pozytywne/negatywne) – rozpoznawanie na przykładach; **warunkowanie klasyczne i instrumentalne** (mechanizmy); kilka pytań o **modelowanie**; z **psychologii humanistycznej** tylko najważniejsze. Bez dat i historii odkryć.
 
 ## Kary i wzmocnienia – jak rozpoznać w 2 krokach
 
@@ -46,7 +46,17 @@
 
 - **Bodziec bezwarunkowy** – hałas · **reakcja bezwarunkowa** – strach na hałas · **bodziec warunkowy** – szczur · **reakcja warunkowa** – strach na widok szczura.
 - **Generalizacja** – boi się też królika · **różnicowanie** – reaguje na dzwonek, nie na brzęczyk · **wygaszanie** – sam dzwonek bez jedzenia → ślinienie zanika · **samoistne odnowienie** – po przerwie reakcja wraca · **wyższego rzędu** – światło łączone z dzwonkiem.
-- Najlepiej, gdy bodziec warunkowy **poprzedza** bezwarunkowy (u Pawłowa ok. 0,5 s).
+- Najlepiej, gdy bodziec warunkowy **poprzedza** bezwarunkowy (krótki odstęp). Po wygaszeniu ponowne nabycie jest **szybsze** – reakcja nie znika całkiem.
+- Bodziec warunkowy musi **przewidywać** bezwarunkowy (Rescorla) – sama styczność w czasie nie wystarcza.
+- **Zastosowania**: reklama (produkt = bodziec warunkowy, łączony z czymś przyjemnym) · **tolerancja na narkotyk** (Siegel): znane otoczenie = bodziec warunkowy → **reakcja kompensacyjna**; w nowym miejscu jej brak → **przedawkowanie** zwykłej dawki · chemioterapia: ambulatorium = bodziec warunkowy nudności/zmęczenia.
+
+### Warunkowanie sprawcze – mechanizm
+
+- **Prawo efektu** (Thorndike): zadowolenie → zachowanie **częściej**, dyskomfort → **rzadziej**; zachowanie kontroluje jego **skutek**.
+- **Operanty** nie są wywoływane przez konkretny bodziec – działa **zbieżność** zachowania i wzmocnienia.
+- Skinner: po zachowaniu są czynniki **neutralne** (nic nie zmieniają), **wzmacniające** (częściej) i **karzące** (rzadziej). O tym, czy coś wzmacnia, decyduje **organizm** (truskawki, których ktoś nie znosi).
+- **Ucieczka** (parasol w ulewie) i **unikanie** (zapinam pas, zanim zabrzęczy) – oba to **wzmocnienie negatywne**.
+- Brak wzmocnienia → **wygaszanie**; po przerwie możliwe **samorzutne odnowienie** (jak w klasycznym).
 
 ## Modelowanie – Bandura
 
@@ -76,13 +86,6 @@
 - Rozpoznawanie: **kot biegnie na dźwięk puszki** → klasyczne · **dziecko odrabia lekcje dla pochwały** → sprawcze · **nastolatek uczy się tańca z teledysku** → **modelowanie** · **młodszy brat widzi karę starszego i sam przestaje kłamać** → **warunkowanie zastępcze**.
 - **W terapii**: **modelowanie uczestniczące** (obserwuje model i z jego pomocą krok po kroku sam działa – **najskuteczniejsze**, np. fobia węży) vs **modelowanie symboliczne** (ogląda film z modelami).
 
-## Behawioryzm – skrót
-
-- **Watson** – zachowanie (S–R), **bez introspekcji**; „tuzin niemowląt” (środowisko > geny).
-- **Fundamenty**: fizykalizm (mierzalność), funkcjonalizm (po co), pragmatyzm (praktyczność), empiryzm (środowisko), pozytywizm (metodologia).
-- **Czarna skrzynka** – umysłu nie badamy. **Skinner**: środowisko aktywne, człowiek reaktywny; czynniki neutralne, wzmacniające i karzące.
-- **Tolman** – **S–O–R** (zmienne pośredniczące). Dziś – **CBT**.
-
 ## Psychologia humanistyczna – skrót
 
 - **Trzecia siła**; bunt przeciw determinizmowi; wolna wola, potencjał, holizm; klient jako **podmiot**.
@@ -102,12 +105,4 @@
 <p class="pyramid-legend">Linia ciągła – <b>potrzeby braku</b> (redukcja napięcia, zależą od otoczenia) · przerywana – <b>potrzeby wzrostu</b> (pozytywne emocje, niezależne od otoczenia, bez ścisłej hierarchii). W wersji 5-stopniowej (wykład): fizjologiczne → bezpieczeństwa → przynależności → uznania → samorealizacji.</p>
 
 - **Maslow**: potrzeby **braku** (redukcja napięcia, zależą od otoczenia) i **wzrostu** (pozytywne emocje, niezależne, **bez hierarchii**); **samorealizacja** = ciągłe dążenie do rozwinięcia potencjału. Osoby wychowane w bezpieczeństwie i miłości mogą nie podlegać determinizmowi potrzeb podstawowych.
-- **Rogers**: człowiek z natury dobry; **tendencja aktualizująca**; pole fenomenologiczne ≠ świadomość; **kongruencja**, **subcepcja**; ja realne vs idealne; terapia **niedyrektywna**; triada: **akceptacja, empatia, autentyczność**.
-- **Allport** – cechy dominujące, centralne (5–10), wtórne. **Bühler** – rozwój przez całe życie. **Frankl** – terapia egzystencjalna. **Rotter** – locus of control.
-
-## Psychologia poznawcza – Kelly
-
-- **Pierwsza teoria kognitywna**; człowiek jako **naukowiec** testujący hipotezy.
-- **Konstrukt**: 2 elementy podobne vs trzeci; **dwubiegunowy** (poważny – zabawny).
-- **Centralne** (tożsamość) / **peryferyjne** (łatwo zmienić) / **przepuszczalne** (nowe dane) / **nieprzepuszczalne** (sztywne).
-- Terapia: pacjent jako badacz – zmienić **„okulary” lub zachowanie** (pesymista patrzy oczami optymisty).
+- **Rogers**: człowiek z natury dobry; **tendencja aktualizująca** (wrodzona dążność do rozwoju); **kongruencja** = spójność doświadczeń ze świadomością; duża rozbieżność **ja realnego i idealnego** → brak samoakceptacji; **bezwarunkowa akceptacja** (u dziecka samoocena = oceny innych); terapia **niedyrektywna**, warunki: **akceptacja, empatia, autentyczność**.

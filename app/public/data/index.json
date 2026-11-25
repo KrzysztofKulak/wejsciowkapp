@@ -475,37 +475,32 @@
       "id": "wejsciowka-2-behawioryzm-psychologia-humanistyczna-i-poznawcza",
       "title": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
       "tag": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
-      "questionCount": 242,
+      "questionCount": 87,
       "sources": [
         {
           "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
           "chapterId": "slajdy-1-32",
-          "questionCount": 77
+          "questionCount": 55
         },
         {
           "bookId": "prezentacja-psychologia-humanistyczna",
           "chapterId": "slajdy-1-24",
-          "questionCount": 31
-        },
-        {
-          "bookId": "prezentacja-teoria-konstruktow-kelly",
-          "chapterId": "slajdy-1-6",
-          "questionCount": 12
+          "questionCount": 11
         },
         {
           "bookId": "psychologia-i-zycie-zimbardo",
           "chapterId": "behawioryzm-notatki-ai",
-          "questionCount": 85
+          "questionCount": 17
         },
         {
           "bookId": "wyklady-historia-i-wspolczesnosc",
           "chapterId": "wyklad-7",
-          "questionCount": 18
+          "questionCount": 3
         },
         {
           "bookId": "wyklady-historia-i-wspolczesnosc",
           "chapterId": "wyklad-8",
-          "questionCount": 19
+          "questionCount": 1
         }
       ],
       "cheatsheet": true
