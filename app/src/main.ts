@@ -704,16 +704,33 @@ function questionImage(src: string, alt: string, cls = "q-img") {
 function gameOverView(questions: Question[], a: Answered, reached: number, fun: boolean) {
   const restart = () => { const { rng, seed } = makeRng(); quizView(sampleQuestions(questions, questions.length, rng), rng, seed, fun, true); };
   setKeys((e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); restart(); } });
+  // Enough tiles to cover the whole screen (the shuffled list repeats once every GIF has been used);
+  // a GIF that fails to load is swapped for the next one, so there are no gaps. Grows with the window.
   const pool = [...SAD_MEDIA].sort(() => Math.random() - 0.5);
-  const tiles = Array.from({ length: 30 }, (_, k) => {
-    const tile = h("div", { class: "go-tile" }, mediaEl(pool[k % pool.length]));
-    tile.firstElementChild!.addEventListener("error", () => tile.remove());
-    return tile;
-  });
+  const TILE = 150; // keep in sync with .go-grid in style.css
+  const grid = h("div", { class: "go-grid", "aria-hidden": "true" });
+  let next = 0;
+  const tile = () => {
+    const box = h("div", { class: "go-tile" });
+    let tries = 0;
+    const load = () => {
+      const el = mediaEl(pool[next++ % pool.length]);
+      el.addEventListener("error", () => { if (++tries < pool.length) load(); });
+      box.replaceChildren(el);
+    };
+    load();
+    return box;
+  };
+  const fill = () => {
+    if (!grid.isConnected) return window.removeEventListener("resize", fill);
+    const cols = Math.max(1, Math.floor((window.innerWidth + 2) / (TILE + 2)));
+    const rows = Math.ceil(window.innerHeight / (TILE + 2)) + 1;
+    while (grid.children.length < cols * rows) grid.append(tile());
+  };
   const btn = h("button", { class: "primary", onClick: restart }, "💀 Od początku");
   render(
     h("div", { class: "gameover", role: "alertdialog", "aria-label": "Koniec gry" },
-      h("div", { class: "go-grid", "aria-hidden": "true" }, ...tiles),
+      grid,
       h("div", { class: "card go-card" },
         h("p", { class: "go-title" }, "💀 GAME OVER"),
         h("p", { class: "muted", style: "margin-top:0" }, `Odpadasz na pytaniu ${reached} / ${questions.length}. Tryb HARDCORE nie wybacza – zaczynasz od nowa.`),
@@ -726,6 +743,8 @@ function gameOverView(questions: Question[], a: Answered, reached: number, fun: 
       ),
     ),
   );
+  fill();
+  window.addEventListener("resize", fill);
   btn.focus();
 }
 
