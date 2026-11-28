@@ -583,6 +583,64 @@
       "sourceExcerpt": "Ilustracja (Mięśnie twarzy): Platysma – na szyi.",
       "difficulty": 3,
       "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-26",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Schemat kontroli nerwowej skurczu: jaki receptor leży w brzuścu mięśnia (strzałki od „?”) i na co reaguje?"
+      ],
+      "correct": [
+        "wrzecionko nerwowo-mięśniowe – receptor długości, reaguje na rozciąganie"
+      ],
+      "distractors": [
+        "ciałko buławkowate – receptor napięcia, reaguje na skurcz",
+        "płytka nerwowo-mięśniowa – przekazuje rozkaz skurczu",
+        "sarkomer – najmniejsza jednostka kurczliwa",
+        "nocyceptor – receptor bólu, reaguje na uraz",
+        "zwój rdzeniowy – skupisko neuronów czuciowych",
+        "motoneuron alfa – nerw ruchowy mięśnia",
+        "miofibryla – włókienko z białek kurczliwych"
+      ],
+      "explanation": "W brzuścu mięśnia leży wrzecionko nerwowo-mięśniowe – receptor długości. Informuje, jak bardzo mięsień jest rozciągnięty i czy powinien zacząć się kurczyć.",
+      "sourceExcerpt": "Slajd „Kontrola nerwowa skurczu”: receptor długości – wrzecionko mięśniowe (w brzuścu mięśnia); receptor napięcia – narząd ścięgnowy (w ścięgnie); nerw alfa, gamma, włókna IA i II, płytka synaptyczna. Notatki: wrzecionko nerwowo-mięśniowe (receptor długości) – wrażliwe na rozciąganie; ciałka buławkowate w ścięgnach (receptor napięcia) – wrażliwe na kurczenie, blokują nadmiarowe kurczenie.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/kontrola-skurczu-wrzecionko.webp",
+        "alt": "Schemat mięśnia ze ścięgnem połączonego nerwami z rdzeniem kręgowym; nazwy dwóch receptorów zakryte, przy jednej znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/kontrola-skurczu-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-ruchu-i-fizjologia-miesni-27",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-ruchu-i-fizjologia-miesni",
+      "stems": [
+        "Schemat kontroli nerwowej skurczu: receptor w ścięgnie (strzałka od „?”) – na co reaguje i co robi?"
+      ],
+      "correct": [
+        "reaguje na napięcie (skurcz) i hamuje nadmierne kurczenie"
+      ],
+      "distractors": [
+        "reaguje na rozciąganie i pobudza mięsień do skurczu",
+        "przekazuje acetylocholinę z nerwu na mięsień",
+        "magazynuje wapń potrzebny do skurczu",
+        "przewodzi rozkaz ruchu z kory do rdzenia",
+        "reaguje na ból i wywołuje odruch cofania",
+        "wytwarza ATP potrzebne do skurczu",
+        "uwalnia noradrenalinę podczas wysiłku"
+      ],
+      "explanation": "W ścięgnie leży narząd ścięgnowy (ciałka buławkowate) – receptor napięcia. Gdy skurcz jest zbyt silny, hamuje dalsze kurczenie i chroni mięsień oraz ścięgno.",
+      "sourceExcerpt": "Slajd „Kontrola nerwowa skurczu”: receptor długości – wrzecionko mięśniowe (w brzuścu mięśnia); receptor napięcia – narząd ścięgnowy (w ścięgnie); nerw alfa, gamma, włókna IA i II, płytka synaptyczna. Notatki: wrzecionko nerwowo-mięśniowe (receptor długości) – wrażliwe na rozciąganie; ciałka buławkowate w ścięgnach (receptor napięcia) – wrażliwe na kurczenie, blokują nadmiarowe kurczenie.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/kontrola-skurczu-narzad.webp",
+        "alt": "Schemat mięśnia ze ścięgnem połączonego nerwami z rdzeniem kręgowym; nazwy dwóch receptorów zakryte, przy jednej znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/kontrola-skurczu-oryginal.webp"
+      }
     }
   ]
 }

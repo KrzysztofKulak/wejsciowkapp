@@ -1944,6 +1944,134 @@
       "sourceExcerpt": "Slajd 27: centralną rolę odgrywają tu nie wzmocnienia … a wzorce rodzinne",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-79",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Tabela z psem i właścicielem (podpisy wierszy i kolumn zakryte): co przedstawia scena w czerwonej ramce?"
+      ],
+      "correct": [
+        "wzmocnienie pozytywne"
+      ],
+      "distractors": [
+        "kara pozytywna",
+        "wzmocnienie negatywne",
+        "kara negatywna",
+        "wygaszanie reakcji",
+        "warunkowanie klasyczne",
+        "modelowanie",
+        "generalizacja bodźca"
+      ],
+      "explanation": "Pies dostaje smakołyk (dodano coś przyjemnego, „+”), a strzałka w górę – zachowanie ma być częstsze → wzmocnienie pozytywne.",
+      "sourceExcerpt": "Slajd 21: tabela z rysunkami psa i właściciela – kolumny reinforcement / punishment, wiersze positive / negative; strzałka w górę lub w dół i znak „+” lub „−” w każdej scenie. Slajd 20: pozytywne (+) dodanie, negatywne (−) usunięcie; wzmocnienie – zachowanie częściej, kara – rzadziej.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-wzm-poz.webp",
+        "alt": "Tabela 2×2 z rysunkami psa i właściciela, w każdej scenie strzałka w górę lub w dół i znak plus lub minus; podpisy wierszy i kolumn zakryte, jedna scena w czerwonej ramce",
+        "reveal": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-80",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Tabela z psem i właścicielem (podpisy wierszy i kolumn zakryte): co przedstawia scena w czerwonej ramce?"
+      ],
+      "correct": [
+        "kara pozytywna"
+      ],
+      "distractors": [
+        "wzmocnienie pozytywne",
+        "wzmocnienie negatywne",
+        "kara negatywna",
+        "wygaszanie reakcji",
+        "warunkowanie klasyczne",
+        "modelowanie",
+        "generalizacja bodźca"
+      ],
+      "explanation": "Właściciel krzyczy (dodano coś nieprzyjemnego, „+”), a strzałka w dół – zachowanie ma być rzadsze → kara pozytywna.",
+      "sourceExcerpt": "Slajd 21: tabela z rysunkami psa i właściciela – kolumny reinforcement / punishment, wiersze positive / negative; strzałka w górę lub w dół i znak „+” lub „−” w każdej scenie. Slajd 20: pozytywne (+) dodanie, negatywne (−) usunięcie; wzmocnienie – zachowanie częściej, kara – rzadziej.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-kara-poz.webp",
+        "alt": "Tabela 2×2 z rysunkami psa i właściciela, w każdej scenie strzałka w górę lub w dół i znak plus lub minus; podpisy wierszy i kolumn zakryte, jedna scena w czerwonej ramce",
+        "reveal": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-81",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Tabela z psem i właścicielem (podpisy wierszy i kolumn zakryte): co przedstawia scena w czerwonej ramce?"
+      ],
+      "correct": [
+        "wzmocnienie negatywne"
+      ],
+      "distractors": [
+        "wzmocnienie pozytywne",
+        "kara pozytywna",
+        "kara negatywna",
+        "wygaszanie reakcji",
+        "warunkowanie klasyczne",
+        "modelowanie",
+        "generalizacja bodźca"
+      ],
+      "explanation": "Ze sceny znika coś nieprzyjemnego – napięta smycz („−”), a strzałka w górę – zachowanie ma być częstsze → wzmocnienie negatywne (nie kara!).",
+      "sourceExcerpt": "Slajd 21: tabela z rysunkami psa i właściciela – kolumny reinforcement / punishment, wiersze positive / negative; strzałka w górę lub w dół i znak „+” lub „−” w każdej scenie. Slajd 20: pozytywne (+) dodanie, negatywne (−) usunięcie; wzmocnienie – zachowanie częściej, kara – rzadziej.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-wzm-neg.webp",
+        "alt": "Tabela 2×2 z rysunkami psa i właściciela, w każdej scenie strzałka w górę lub w dół i znak plus lub minus; podpisy wierszy i kolumn zakryte, jedna scena w czerwonej ramce",
+        "reveal": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-82",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Tabela z psem i właścicielem (podpisy wierszy i kolumn zakryte): co przedstawia scena w czerwonej ramce?"
+      ],
+      "correct": [
+        "kara negatywna"
+      ],
+      "distractors": [
+        "wzmocnienie pozytywne",
+        "kara pozytywna",
+        "wzmocnienie negatywne",
+        "wygaszanie reakcji",
+        "warunkowanie klasyczne",
+        "modelowanie",
+        "generalizacja bodźca"
+      ],
+      "explanation": "Właściciel zabiera psu dywanik (zabrano coś przyjemnego, „−”), a strzałka w dół – zachowanie ma być rzadsze → kara negatywna.",
+      "sourceExcerpt": "Slajd 21: tabela z rysunkami psa i właściciela – kolumny reinforcement / punishment, wiersze positive / negative; strzałka w górę lub w dół i znak „+” lub „−” w każdej scenie. Slajd 20: pozytywne (+) dodanie, negatywne (−) usunięcie; wzmocnienie – zachowanie częściej, kara – rzadziej.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-kara-neg.webp",
+        "alt": "Tabela 2×2 z rysunkami psa i właściciela, w każdej scenie strzałka w górę lub w dół i znak plus lub minus; podpisy wierszy i kolumn zakryte, jedna scena w czerwonej ramce",
+        "reveal": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-oryginal.webp"
+      }
     }
   ],
   "bookTitle": "Prezentacja: Behawioryzm i uczenie się"

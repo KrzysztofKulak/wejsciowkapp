@@ -755,6 +755,160 @@
       "sourceExcerpt": "Slajd 23: na jakiś czas odkładasz na bok swoje poglądy i wartości, aby bez uprzedzeń wejść w świat drugiego człowieka",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-33",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Rozszerzona piramida potrzeb Maslowa z zakrytymi podpisami: jakie potrzeby są na poziomie oznaczonym „?” (drugi od góry)?"
+      ],
+      "correct": [
+        "samorealizacji – osobisty rozwój, realizacja potencjału"
+      ],
+      "distractors": [
+        "szacunku (uznania) – osiągnięcia, status, reputacja",
+        "przynależności i miłości – rodzina, związek, grupa",
+        "bezpieczeństwa – porządek, stabilność, ochrona",
+        "fizjologiczne – jedzenie, sen, schronienie",
+        "poznawcze – wiedza, znaczenie, samoświadomość",
+        "estetyczne – piękno, równowaga, forma",
+        "transcendencji – pomoc innym w samorealizacji"
+      ],
+      "explanation": "Drugi od góry poziom rozszerzonej piramidy to samorealizacja – ciągłe dążenie do rozwinięcia własnego potencjału; wyżej jest już tylko transcendencja.",
+      "sourceExcerpt": "Slajd 12: piramida potrzeb (od dołu): biologiczne i fizjologiczne; bezpieczeństwa; przynależności i miłości; szacunku (uznania); poznawcze; estetyczne; samorealizacja; transcendencja – pomoc innym w samorealizacji.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-samorealizacja.webp",
+        "alt": "Ośmiopoziomowa piramida potrzeb Maslowa ze wszystkimi podpisami zakrytymi; w jednym poziomie znak zapytania",
+        "reveal": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-34",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Rozszerzona piramida potrzeb Maslowa z zakrytymi podpisami: jakie potrzeby są na poziomie oznaczonym „?” (czwarty od dołu)?"
+      ],
+      "correct": [
+        "szacunku (uznania) – osiągnięcia, status, reputacja"
+      ],
+      "distractors": [
+        "samorealizacji – osobisty rozwój, realizacja potencjału",
+        "przynależności i miłości – rodzina, związek, grupa",
+        "bezpieczeństwa – porządek, stabilność, ochrona",
+        "fizjologiczne – jedzenie, sen, schronienie",
+        "poznawcze – wiedza, znaczenie, samoświadomość",
+        "estetyczne – piękno, równowaga, forma",
+        "transcendencji – pomoc innym w samorealizacji"
+      ],
+      "explanation": "Od dołu: fizjologiczne, bezpieczeństwa, przynależności, a czwarty – szacunku (uznania). To ostatnia z potrzeb braku przed potrzebami wzrostu.",
+      "sourceExcerpt": "Slajd 12: piramida potrzeb (od dołu): biologiczne i fizjologiczne; bezpieczeństwa; przynależności i miłości; szacunku (uznania); poznawcze; estetyczne; samorealizacja; transcendencja – pomoc innym w samorealizacji.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-szacunku.webp",
+        "alt": "Ośmiopoziomowa piramida potrzeb Maslowa ze wszystkimi podpisami zakrytymi; w jednym poziomie znak zapytania",
+        "reveal": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-35",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Rozszerzona piramida potrzeb Maslowa z zakrytymi podpisami: jakie potrzeby są na poziomie oznaczonym „?” (trzeci od dołu)?"
+      ],
+      "correct": [
+        "przynależności i miłości – rodzina, związek, grupa"
+      ],
+      "distractors": [
+        "samorealizacji – osobisty rozwój, realizacja potencjału",
+        "szacunku (uznania) – osiągnięcia, status, reputacja",
+        "bezpieczeństwa – porządek, stabilność, ochrona",
+        "fizjologiczne – jedzenie, sen, schronienie",
+        "poznawcze – wiedza, znaczenie, samoświadomość",
+        "estetyczne – piękno, równowaga, forma",
+        "transcendencji – pomoc innym w samorealizacji"
+      ],
+      "explanation": "Od dołu: fizjologiczne, bezpieczeństwa, a trzeci – przynależności i miłości (rodzina, związek, grupa).",
+      "sourceExcerpt": "Slajd 12: piramida potrzeb (od dołu): biologiczne i fizjologiczne; bezpieczeństwa; przynależności i miłości; szacunku (uznania); poznawcze; estetyczne; samorealizacja; transcendencja – pomoc innym w samorealizacji.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-przynaleznosci.webp",
+        "alt": "Ośmiopoziomowa piramida potrzeb Maslowa ze wszystkimi podpisami zakrytymi; w jednym poziomie znak zapytania",
+        "reveal": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-36",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Rozszerzona piramida potrzeb Maslowa z zakrytymi podpisami: jakie potrzeby są na poziomie oznaczonym „?” (drugi od dołu)?"
+      ],
+      "correct": [
+        "bezpieczeństwa – porządek, stabilność, ochrona"
+      ],
+      "distractors": [
+        "samorealizacji – osobisty rozwój, realizacja potencjału",
+        "szacunku (uznania) – osiągnięcia, status, reputacja",
+        "przynależności i miłości – rodzina, związek, grupa",
+        "fizjologiczne – jedzenie, sen, schronienie",
+        "poznawcze – wiedza, znaczenie, samoświadomość",
+        "estetyczne – piękno, równowaga, forma",
+        "transcendencji – pomoc innym w samorealizacji"
+      ],
+      "explanation": "Tuż nad potrzebami fizjologicznymi leżą potrzeby bezpieczeństwa – porządek, stabilność, prawo, brak lęku.",
+      "sourceExcerpt": "Slajd 12: piramida potrzeb (od dołu): biologiczne i fizjologiczne; bezpieczeństwa; przynależności i miłości; szacunku (uznania); poznawcze; estetyczne; samorealizacja; transcendencja – pomoc innym w samorealizacji.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-bezpieczenstwa.webp",
+        "alt": "Ośmiopoziomowa piramida potrzeb Maslowa ze wszystkimi podpisami zakrytymi; w jednym poziomie znak zapytania",
+        "reveal": "images/prezentacja-psychologia-humanistyczna/piramida-maslowa-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-psychologia-humanistyczna-slajdy-1-24-37",
+      "bookId": "prezentacja-psychologia-humanistyczna",
+      "chapterId": "slajdy-1-24",
+      "stems": [
+        "Schemat: psychoanaliza – „?” – behawioryzm. Jaki nurt zakryto i jak go nazwano?"
+      ],
+      "correct": [
+        "psychologię humanistyczną – „trzecią siłę” psychologii"
+      ],
+      "distractors": [
+        "psychologię poznawczą – „rewolucję poznawczą”",
+        "psychologię postaci (Gestalt) – reakcję na strukturalizm",
+        "funkcjonalizm – psychologię przystosowania",
+        "neopsychoanalizę – odłam szkoły Freuda",
+        "psychologię ewolucyjną – nurt biologiczny",
+        "strukturalizm – psychologię elementów świadomości",
+        "teorię konstruktów osobistych – nurt Kelly'ego"
+      ],
+      "explanation": "Psychologia humanistyczna powstała jako „trzecia siła” – sprzeciw wobec determinizmu psychoanalizy i behawioryzmu; podkreśla wolną wolę, potencjał i holizm.",
+      "sourceExcerpt": "Slajd 2 „Trzecia siła”: psychoanaliza – psychologia humanistyczna – behawioryzm.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ],
+      "image": {
+        "src": "images/prezentacja-psychologia-humanistyczna/trzecia-sila-x.webp",
+        "alt": "Schemat trzech połączonych bloków: psychoanaliza, środkowy blok ze znakiem zapytania, behawioryzm; tytuł slajdu zakryty",
+        "reveal": "images/prezentacja-psychologia-humanistyczna/trzecia-sila-oryginal.webp"
+      }
     }
   ],
   "bookTitle": "Prezentacja: Psychologia humanistyczna"

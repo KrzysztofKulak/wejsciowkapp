@@ -10,19 +10,27 @@ const bankDir = resolve(root, "app/public/data/bank");
 // Cheatsheets: markdown notes per chapter (cheatsheets/<bookId>/<chapterId>.md) and per exam (cheatsheets/_zaliczenia/<examId>.md).
 const cheatDir = resolve(root, "app/public/data/cheatsheets");
 const hasCheat = (...parts: string[]) => existsSync(join(cheatDir, ...parts) + ".md");
-type Entry = { bookId: string; bookTitle?: string; chapterId: string; chapterTitle: string; count: number; tags: Map<string, number> };
+// imgTags / images: picture questions (q.image), which the app leaves out unless the user turns them on.
+type Entry = { bookId: string; bookTitle?: string; chapterId: string; chapterTitle: string; count: number; images: number; tags: Map<string, number>; imgTags: Map<string, number> };
 const entries: Entry[] = [];
 for (const bookId of readdirSync(bankDir))
   for (const f of readdirSync(join(bankDir, bookId)).filter((f) => f.endsWith(".json"))) {
     const file = JSON.parse(readFileSync(join(bankDir, bookId, f), "utf8"));
     const ok = file.questions.filter((q: any) => q.status === "ok");
     const tags = new Map<string, number>();
-    for (const q of ok) for (const t of q.tags ?? []) tags.set(t, (tags.get(t) ?? 0) + 1);
-    entries.push({ bookId, bookTitle: file.bookTitle, chapterId: file.chapterId, chapterTitle: file.chapterTitle, count: ok.length, tags });
+    const imgTags = new Map<string, number>();
+    for (const q of ok)
+      for (const t of q.tags ?? []) {
+        tags.set(t, (tags.get(t) ?? 0) + 1);
+        if (q.image) imgTags.set(t, (imgTags.get(t) ?? 0) + 1);
+      }
+    const images = ok.filter((q: any) => q.image).length;
+    entries.push({ bookId, bookTitle: file.bookTitle, chapterId: file.chapterId, chapterTitle: file.chapterTitle, count: ok.length, images, tags, imgTags });
   }
 
 const outline = splitAll(loadNotes());
-const books: { id: string; title: string; chapters: { id: string; title: string; questionCount: number; cheatsheet?: boolean }[] }[] = [];
+const books: { id: string; title: string; chapters: { id: string; title: string; questionCount: number; imageCount?: number; cheatsheet?: boolean }[] }[] = [];
+const imgCount = (e: Entry) => (e.images ? { imageCount: e.images } : {});
 const used = new Set<Entry>();
 for (const b of outline) {
   const chapters = [];
@@ -30,7 +38,7 @@ for (const b of outline) {
     const e = entries.find((x) => x.bookId === b.id && x.chapterId === c.id);
     if (!e || e.count === 0) continue;
     used.add(e);
-    chapters.push({ id: c.id, title: c.title, questionCount: e.count, ...(hasCheat(b.id, c.id) && { cheatsheet: true }) }); // outline title wins: it carries notes like "str. 12-19"
+    chapters.push({ id: c.id, title: c.title, questionCount: e.count, ...imgCount(e), ...(hasCheat(b.id, c.id) && { cheatsheet: true }) }); // outline title wins: it carries notes like "str. 12-19"
   }
   if (chapters.length) books.push({ id: b.id, title: b.title, chapters });
 }
@@ -38,7 +46,7 @@ for (const e of entries) {
   if (used.has(e) || e.count === 0) continue;
   let b = books.find((x) => x.id === e.bookId);
   if (!b) { b = { id: e.bookId, title: e.bookTitle ?? e.bookId, chapters: [] }; books.push(b); }
-  b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count, ...(hasCheat(e.bookId, e.chapterId) && { cheatsheet: true }) });
+  b.chapters.push({ id: e.chapterId, title: e.chapterTitle, questionCount: e.count, ...imgCount(e), ...(hasCheat(e.bookId, e.chapterId) && { cheatsheet: true }) });
 }
 // Display order: by subject (config order), then within a subject: books from notes, slide presentations, lectures.
 const group = (id: string) => (id.startsWith("wyklady") ? 2 : id.startsWith("prezentacja") ? 1 : 0);
@@ -62,15 +70,17 @@ const semesters = semestersCfg
 for (const s of subjects) if (!semOf.has(s.id)) console.warn(`WARN subject "${s.id}" has no semester in quiz.config.json → shown under „Inne”`);
 
 // "Zaliczenia": questions grouped by tag across all sources.
-const exams: { id: string; title: string; tag: string; questionCount: number; sources: { bookId: string; chapterId: string; questionCount: number }[]; cheatsheet?: boolean }[] = [];
+const exams: { id: string; title: string; tag: string; questionCount: number; imageCount?: number; sources: { bookId: string; chapterId: string; questionCount: number; imageCount?: number }[]; cheatsheet?: boolean }[] = [];
 for (const e of entries)
   for (const [tag, n] of e.tags) {
     let ex = exams.find((x) => x.tag === tag);
     if (!ex) { ex = { id: slugify(tag), title: tag, tag, questionCount: 0, sources: [] }; exams.push(ex); }
     ex.questionCount += n;
-    ex.sources.push({ bookId: e.bookId, chapterId: e.chapterId, questionCount: n });
+    const img = e.imgTags.get(tag) ?? 0;
+    if (img) ex.imageCount = (ex.imageCount ?? 0) + img;
+    ex.sources.push({ bookId: e.bookId, chapterId: e.chapterId, questionCount: n, ...(img && { imageCount: img }) });
   }
 exams.sort((a, b) => a.title.localeCompare(b.title, "pl"));
 for (const ex of exams) if (hasCheat("_zaliczenia", ex.id)) ex.cheatsheet = true;
 writeFileSync(resolve(root, "app/public/data/index.json"), JSON.stringify({ semesters, subjects, books, exams }, null, 2) + "\n");
-console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions, ${semesters.length} semester(s), ${subjects.length} subject(s), ${exams.length} exam tag(s), ${books.reduce((n, b) => n + b.chapters.filter((c) => c.cheatsheet).length, 0) + exams.filter((e) => e.cheatsheet).length} cheatsheet(s)`);
+console.log(`index.json: ${books.length} book(s), ${books.reduce((n, b) => n + b.chapters.length, 0)} chapter(s), ${books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.questionCount, 0), 0)} questions (${entries.reduce((n, e) => n + e.images, 0)} with pictures), ${semesters.length} semester(s), ${subjects.length} subject(s), ${exams.length} exam tag(s), ${books.reduce((n, b) => n + b.chapters.filter((c) => c.cheatsheet).length, 0) + exams.filter((e) => e.cheatsheet).length} cheatsheet(s)`);

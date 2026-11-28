@@ -11,6 +11,12 @@ export type Question = {
   status: "ok" | "flagged";
   /** Free-form tags, e.g. "wejściówka 1: historia i współczesność". Exams in index.json group by tag. */
   tags?: string[];
+  /**
+   * Picture question: a real diagram from the notes or slides with the asked-about labels masked
+   * (paths relative to data/). `reveal` is the unmasked original, shown after answering.
+   * Shown only when the user turns picture questions on.
+   */
+  image?: { src: string; alt: string; reveal?: string };
 };
 
 export type ChapterFile = {
@@ -22,11 +28,12 @@ export type ChapterFile = {
 };
 
 /** `cheatsheet`: a markdown note exists at data/cheatsheets/<bookId>/<chapterId>.md */
-export type IndexChapter = { id: string; title: string; questionCount: number; cheatsheet?: boolean };
+/** `imageCount`: how many of `questionCount` are picture questions (left out unless the user turns them on). */
+export type IndexChapter = { id: string; title: string; questionCount: number; imageCount?: number; cheatsheet?: boolean };
 export type IndexBook = { id: string; title: string; chapters: IndexChapter[] };
-export type IndexExamSource = { bookId: string; chapterId: string; questionCount: number };
+export type IndexExamSource = { bookId: string; chapterId: string; questionCount: number; imageCount?: number };
 /** `cheatsheet`: a markdown note exists at data/cheatsheets/_zaliczenia/<id>.md */
-export type IndexExam = { id: string; title: string; tag: string; questionCount: number; sources: IndexExamSource[]; cheatsheet?: boolean };
+export type IndexExam = { id: string; title: string; tag: string; questionCount: number; imageCount?: number; sources: IndexExamSource[]; cheatsheet?: boolean };
 export type IndexSubject = { id: string; title: string; books: string[] };
 export type IndexSemester = { id: string; title: string; subjects: string[] };
 export type Index = { books: IndexBook[]; exams?: IndexExam[]; subjects?: IndexSubject[]; semesters?: IndexSemester[] };

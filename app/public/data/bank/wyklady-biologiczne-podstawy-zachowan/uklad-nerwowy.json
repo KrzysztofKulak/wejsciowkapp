@@ -1664,6 +1664,669 @@
       "sourceExcerpt": "reguluje napięcie mięśni, zarządza automatyzmami ruchowymi, np. po nauczeniu się to: chodzenie, pływanie, jeżdżenie na łyżwach",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-73",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na przekroju rdzenia kręgowego czerwonym kółkiem zaznaczono numer 1. Co to za struktura?"
+      ],
+      "correct": [
+        "róg przedni istoty szarej"
+      ],
+      "distractors": [
+        "róg tylny istoty szarej",
+        "istota biała – sznur boczny",
+        "spoidło szare wokół kanału środkowego",
+        "korzeń przedni – włókna ruchowe",
+        "korzeń tylny – włókna czuciowe",
+        "zwój rdzeniowy (czuciowy)",
+        "kanał środkowy rdzenia"
+      ],
+      "explanation": "Szara „motylkowa” część w środku to istota szara; jej przednie (brzuszne) wypustki to rogi przednie – droga ruchowa: stąd wychodzi korzeń przedni (czerwony) do mięśni.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.”",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-1.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 1",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-74",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na przekroju rdzenia kręgowego czerwonym kółkiem zaznaczono numer 2. Co to za struktura?"
+      ],
+      "correct": [
+        "róg tylny istoty szarej"
+      ],
+      "distractors": [
+        "róg przedni istoty szarej",
+        "istota biała – sznur boczny",
+        "spoidło szare wokół kanału środkowego",
+        "korzeń przedni – włókna ruchowe",
+        "korzeń tylny – włókna czuciowe",
+        "zwój rdzeniowy (czuciowy)",
+        "kanał środkowy rdzenia"
+      ],
+      "explanation": "Tylne (grzbietowe) wypustki istoty szarej to rogi tylne – część czuciowa: do nich wchodzi korzeń tylny (niebieski) z informacją z receptorów.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.”",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-2.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 2",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-75",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na przekroju rdzenia kręgowego czerwonym kółkiem zaznaczono numer 5. Co to za struktura?"
+      ],
+      "correct": [
+        "istota biała – sznur boczny"
+      ],
+      "distractors": [
+        "róg przedni istoty szarej",
+        "róg tylny istoty szarej",
+        "spoidło szare wokół kanału środkowego",
+        "korzeń przedni – włókna ruchowe",
+        "korzeń tylny – włókna czuciowe",
+        "zwój rdzeniowy (czuciowy)",
+        "kanał środkowy rdzenia"
+      ],
+      "explanation": "Jasny obszar wokół istoty szarej to istota biała, czyli włókna nerwowe biegnące wzdłuż rdzenia (drogi wstępujące i zstępujące); numer 5 to sznur boczny, 4 – przedni, 6 – tylny.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.”",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-5.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 5",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-76",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Czerwony korzeń oznaczony na przekroju rdzenia numerem 11 (w kółku) to:"
+      ],
+      "correct": [
+        "korzeń przedni (brzuszny) – włókna ruchowe, eferentne"
+      ],
+      "distractors": [
+        "korzeń tylny (grzbietowy) – włókna czuciowe, aferentne",
+        "korzeń przedni (brzuszny) – włókna czuciowe, aferentne",
+        "korzeń tylny (grzbietowy) – włókna ruchowe, eferentne",
+        "zwój rdzeniowy – ciała neuronów czuciowych",
+        "sznur przedni – drogi wstępujące do mózgu",
+        "nerw czaszkowy – włókna ruchowe twarzy",
+        "pień współczulny – włókna autonomiczne"
+      ],
+      "explanation": "Od przedniej (brzusznej) strony rdzenia odchodzi korzeń przedni – wyprowadza sygnały ruchowe (eferentne) do mięśni. W notatkach: z przodu (czerwone) sygnały ruchowe; włókna eferentne opuszczają rdzeń w korzeniach brzusznych.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.” „Włókna eferentne opuszczają rdzeń kręgowy w korzeniach brzusznych.”",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-11.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 11",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-77",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Niebieski korzeń oznaczony na przekroju rdzenia numerem 12 (w kółku) to:"
+      ],
+      "correct": [
+        "korzeń tylny (grzbietowy) – włókna czuciowe, aferentne"
+      ],
+      "distractors": [
+        "korzeń przedni (brzuszny) – włókna ruchowe, eferentne",
+        "korzeń tylny (grzbietowy) – włókna ruchowe, eferentne",
+        "korzeń przedni (brzuszny) – włókna czuciowe, aferentne",
+        "sznur tylny – drogi zstępujące z kory",
+        "nerw rdzeniowy – wyłącznie włókna autonomiczne",
+        "spoidło białe – połączenie obu połówek rdzenia",
+        "droga piramidowa – z kory do rogów przednich"
+      ],
+      "explanation": "Do tylnej (grzbietowej) strony rdzenia wchodzi korzeń tylny – wnosi informację czuciową (aferentną) z receptorów. W notatkach: z tyłu (niebieskie) sygnały czuciowe; włókna aferentne wstępują do rdzenia w korzeniach grzbietowych.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.” „Włókna aferentne wstępują do rdzenia kręgowego w korzeniach grzbietowych.”",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-12.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 12",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-78",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na przekroju rdzenia kręgowego czerwonym kółkiem zaznaczono numer 13. Co to za struktura?"
+      ],
+      "correct": [
+        "zwój rdzeniowy (czuciowy)"
+      ],
+      "distractors": [
+        "róg przedni istoty szarej",
+        "róg tylny istoty szarej",
+        "istota biała – sznur boczny",
+        "spoidło szare wokół kanału środkowego",
+        "korzeń przedni – włókna ruchowe",
+        "korzeń tylny – włókna czuciowe",
+        "kanał środkowy rdzenia"
+      ],
+      "explanation": "Zgrubienie na korzeniu tylnym to zwój rdzeniowy – skupisko ciał neuronów czuciowych (w legendzie slajdu: ganglion sensorium nervi spinalis). Dlatego leży na drodze czuciowej, a nie ruchowej.",
+      "sourceExcerpt": "Przekrój rdzenia kręgowego (slajd z legendą): 1. róg przedni, 2. róg tylny, 3. spoidło szare (substancja szara); 4–6 sznury przedni, boczny, tylny (substancja biała); 11. korzeń przedni, 12. korzeń tylny, 13. zwój rdzeniowy czuciowy. Notatki: „Wewnątrz rdzenia jest substancja szara, dookoła jest substancja biała, czyli włókna nerwowe. Z przodu (od strony brzucha) (czerwone) sygnały ruchowe. Z tyłu (niebieskie) sygnały czuciowe.”",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-13.webp",
+        "alt": "Przekrój poprzeczny rdzenia kręgowego z ponumerowanymi strukturami (bez legendy); czerwone kółko wokół numeru 13",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/rdzen-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-79",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat łuku odruchowego: co oznaczono znakiem „?”?"
+      ],
+      "correct": [
+        "neuron czuciowy (aferentny) – wnosi impuls do rdzenia"
+      ],
+      "distractors": [
+        "neuron pośredniczący – łączy w rdzeniu czuciowy z ruchowym",
+        "neuron ruchowy (eferentny) – wyprowadza impuls do mięśnia",
+        "efektor – mięsień wykonujący odpowiedź",
+        "receptor czuciowy skóry – odbiera bodziec",
+        "zwój rdzeniowy – skupisko ciał neuronów czuciowych",
+        "istota biała – włókna biegnące wzdłuż rdzenia",
+        "korzeń przedni – wejście impulsu do rdzenia"
+      ],
+      "explanation": "Strzałka „?” wskazuje włókno biegnące od receptorów skóry do rdzenia – to neuron czuciowy (aferentny), druga część łuku po receptorze.",
+      "sourceExcerpt": "Slajd „Łuk odruchowy”: droga, jaką przebywa impuls nerwowy od receptora do efektora (podpisy: receptory czuciowe skóry, neuron czuciowy, istota biała, istota szara, neuron pośredniczący, neuron ruchowy, efektor – mięśnie). Notatki: łuk składa się z 5 części: receptora, aferentnego włókna nerwowego, ośrodka nerwowego, eferentnego włókna nerwowego, efektora.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-czuciowy.webp",
+        "alt": "Schemat łuku odruchowego w przekroju rdzenia; podpisy neuronów, receptora i efektora zakryte, jeden zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-80",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat łuku odruchowego: co oznaczono znakiem „?”?"
+      ],
+      "correct": [
+        "neuron pośredniczący – łączy w rdzeniu czuciowy z ruchowym"
+      ],
+      "distractors": [
+        "neuron czuciowy (aferentny) – wnosi impuls do rdzenia",
+        "neuron ruchowy (eferentny) – wyprowadza impuls do mięśnia",
+        "efektor – mięsień wykonujący odpowiedź",
+        "receptor czuciowy skóry – odbiera bodziec",
+        "zwój rdzeniowy – skupisko ciał neuronów czuciowych",
+        "istota biała – włókna biegnące wzdłuż rdzenia",
+        "korzeń przedni – wejście impulsu do rdzenia"
+      ],
+      "explanation": "„?” wskazuje komórkę leżącą w całości w istocie szarej, między neuronem czuciowym a ruchowym – to neuron pośredniczący; w nim leży ośrodek odruchu.",
+      "sourceExcerpt": "Slajd „Łuk odruchowy”: droga, jaką przebywa impuls nerwowy od receptora do efektora (podpisy: receptory czuciowe skóry, neuron czuciowy, istota biała, istota szara, neuron pośredniczący, neuron ruchowy, efektor – mięśnie). Notatki: łuk składa się z 5 części: receptora, aferentnego włókna nerwowego, ośrodka nerwowego, eferentnego włókna nerwowego, efektora.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-posredniczacy.webp",
+        "alt": "Schemat łuku odruchowego w przekroju rdzenia; podpisy neuronów, receptora i efektora zakryte, jeden zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-81",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat łuku odruchowego: co oznaczono znakiem „?”?"
+      ],
+      "correct": [
+        "neuron ruchowy (eferentny) – wyprowadza impuls do mięśnia"
+      ],
+      "distractors": [
+        "neuron czuciowy (aferentny) – wnosi impuls do rdzenia",
+        "neuron pośredniczący – łączy w rdzeniu czuciowy z ruchowym",
+        "efektor – mięsień wykonujący odpowiedź",
+        "receptor czuciowy skóry – odbiera bodziec",
+        "zwój rdzeniowy – skupisko ciał neuronów czuciowych",
+        "istota biała – włókna biegnące wzdłuż rdzenia",
+        "korzeń przedni – wejście impulsu do rdzenia"
+      ],
+      "explanation": "„?” wskazuje włókno wychodzące z rogu przedniego do mięśnia – to neuron ruchowy (eferentny), który przekazuje rozkaz do efektora.",
+      "sourceExcerpt": "Slajd „Łuk odruchowy”: droga, jaką przebywa impuls nerwowy od receptora do efektora (podpisy: receptory czuciowe skóry, neuron czuciowy, istota biała, istota szara, neuron pośredniczący, neuron ruchowy, efektor – mięśnie). Notatki: łuk składa się z 5 części: receptora, aferentnego włókna nerwowego, ośrodka nerwowego, eferentnego włókna nerwowego, efektora.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-ruchowy.webp",
+        "alt": "Schemat łuku odruchowego w przekroju rdzenia; podpisy neuronów, receptora i efektora zakryte, jeden zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-82",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat łuku odruchowego: co oznaczono znakiem „?”?"
+      ],
+      "correct": [
+        "efektor – mięsień wykonujący odpowiedź"
+      ],
+      "distractors": [
+        "neuron czuciowy (aferentny) – wnosi impuls do rdzenia",
+        "neuron pośredniczący – łączy w rdzeniu czuciowy z ruchowym",
+        "neuron ruchowy (eferentny) – wyprowadza impuls do mięśnia",
+        "receptor czuciowy skóry – odbiera bodziec",
+        "zwój rdzeniowy – skupisko ciał neuronów czuciowych",
+        "istota biała – włókna biegnące wzdłuż rdzenia",
+        "korzeń przedni – wejście impulsu do rdzenia"
+      ],
+      "explanation": "Na końcu łuku „?” wskazuje mięsień – efektor, który wykonuje odpowiedź (np. cofnięcie ręki). Łuk: receptor → włókno aferentne → ośrodek → włókno eferentne → efektor.",
+      "sourceExcerpt": "Slajd „Łuk odruchowy”: droga, jaką przebywa impuls nerwowy od receptora do efektora (podpisy: receptory czuciowe skóry, neuron czuciowy, istota biała, istota szara, neuron pośredniczący, neuron ruchowy, efektor – mięśnie). Notatki: łuk składa się z 5 części: receptora, aferentnego włókna nerwowego, ośrodka nerwowego, eferentnego włókna nerwowego, efektora.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-efektor.webp",
+        "alt": "Schemat łuku odruchowego w przekroju rdzenia; podpisy neuronów, receptora i efektora zakryte, jeden zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/luk-odruchowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-83",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "ciało modzelowate"
+      ],
+      "distractors": [
+        "rdzeń przedłużony",
+        "zakręt obręczy",
+        "płat skroniowy",
+        "układ limbiczny",
+        "sklepienie mózgu",
+        "komora boczna",
+        "pień mózgu"
+      ],
+      "explanation": "Łukowata struktura nad komorami, w głębi między półkulami, to ciało modzelowate (spoidło wielkie) – łączy lewą i prawą półkulę.",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-modzelowate.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-84",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "móżdżek"
+      ],
+      "distractors": [
+        "wzgórze",
+        "hipokamp",
+        "pień mózgu",
+        "podwzgórze",
+        "przysadka",
+        "most",
+        "płat potyliczny"
+      ],
+      "explanation": "Pofałdowana struktura pod płatem potylicznym, z tyłu pnia, to móżdżek – koordynuje ruchy dowolne (jego brak → ataksja).",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-mozdzek.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-85",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "pień mózgu"
+      ],
+      "distractors": [
+        "ciało modzelowate",
+        "móżdżek",
+        "układ limbiczny",
+        "wzgórze",
+        "podwzgórze",
+        "hipokamp",
+        "rdzeń kręgowy"
+      ],
+      "explanation": "Wąska część przechodząca w rdzeń kręgowy to pień mózgu (m.in. rdzeń przedłużony z ośrodkami oddechowym i naczynioruchowym).",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-pien.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-86",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "układ limbiczny"
+      ],
+      "distractors": [
+        "ciało modzelowate",
+        "móżdżek",
+        "pień mózgu",
+        "wzgórze",
+        "podwzgórze",
+        "hipokamp",
+        "rdzeń kręgowy"
+      ],
+      "explanation": "Na tym slajdzie linia „układ limbiczny” wskazuje struktury przyśrodkowej, dolnej części półkuli (fioletowy obszar) – układ związany z emocjami.",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-limbiczny.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-87",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: za co głównie odpowiada płat wskazany znakiem „?”?"
+      ],
+      "correct": [
+        "widzenie – pole wzrokowe"
+      ],
+      "distractors": [
+        "czucie skórne – dotyk, ból, temperatura",
+        "kora ruchowa, mowa i hamowanie popędów",
+        "słuch i węch",
+        "koordynacja ruchów dowolnych",
+        "łączenie obu półkul",
+        "ośrodki oddechowe i naczynioruchowe",
+        "regulacja głodu i temperatury"
+      ],
+      "explanation": "Zielony płat z tyłu półkuli to płat potyliczny – pole wzrokowe (jego uszkodzenie może dać np. zaburzenia rozpoznawania obrazów).",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-potyliczny.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-88",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: za co głównie odpowiada płat wskazany znakiem „?”?"
+      ],
+      "correct": [
+        "czucie skórne – dotyk, ból, temperatura"
+      ],
+      "distractors": [
+        "widzenie – pole wzrokowe",
+        "kora ruchowa, mowa i hamowanie popędów",
+        "słuch i węch",
+        "koordynacja ruchów dowolnych",
+        "łączenie obu półkul",
+        "ośrodki oddechowe i naczynioruchowe",
+        "regulacja głodu i temperatury"
+      ],
+      "explanation": "Fioletowy płat za bruzdą środkową to płat ciemieniowy – pola czuciowe skóry (dotyk, ból, temperatura), ocena kształtu i odległości.",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-ciemieniowy.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-89",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Przekrój strzałkowy mózgu: za co głównie odpowiada płat wskazany znakiem „?”?"
+      ],
+      "correct": [
+        "kora ruchowa, mowa i hamowanie popędów"
+      ],
+      "distractors": [
+        "widzenie – pole wzrokowe",
+        "czucie skórne – dotyk, ból, temperatura",
+        "słuch i węch",
+        "koordynacja ruchów dowolnych",
+        "łączenie obu półkul",
+        "ośrodki oddechowe i naczynioruchowe",
+        "regulacja głodu i temperatury"
+      ],
+      "explanation": "Żółty, przedni płat to płat czołowy – kora motoryczna, ośrodki mowy i pisania, zachowania złożone, np. hamowanie popędów.",
+      "sourceExcerpt": "Slajd: przekrój strzałkowy mózgu z podpisami: ciało modzelowate (spoidło wielkie), płat ciemieniowy, móżdżek, płat czołowy, układ limbiczny, pień mózgu, płat potyliczny. Notatki: półkule „w głębi połączone ciałem modzelowatym zwanym też spoidłem wielkim”; płaty: czołowy – kora motoryczna, ośrodki mowy, hamowanie popędów; ciemieniowy – pola czuciowe skóry; skroniowy – węch, słuch; potyliczny – pole wzrokowe; móżdżek – koordynacja ruchów dowolnych.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-czolowy.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowymi płatami; wszystkie podpisy zakryte, przy jednej linii wskaźnika znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/mozg-przekroj-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-90",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat dwóch pasów kory z mapą ciała. Czym jest lewy (czerwony) pas, oznaczony znakiem „?”?"
+      ],
+      "correct": [
+        "kora ruchowa – steruje ruchami przeciwnej strony ciała"
+      ],
+      "distractors": [
+        "kora czuciowa – odbiera czucie z przeciwnej strony ciała",
+        "kora ruchowa – steruje ruchami tej samej strony ciała",
+        "kora czuciowa – odbiera czucie z tej samej strony ciała",
+        "kora wzrokowa – analizuje obraz z siatkówki",
+        "móżdżek – koordynuje ruchy tej samej strony",
+        "kora przedczołowa – planuje działania",
+        "kora słuchowa – analizuje dźwięki z obu uszu"
+      ],
+      "explanation": "Strzałka wychodzi z mózgu („output”) – to kora ruchowa (w płacie czołowym). Każda półkula steruje mięśniami przeciwnej strony ciała, bo drogi piramidowe się krzyżują.",
+      "sourceExcerpt": "Slajd (układ ruchowy, drogi piramidowe): dwa pasy kory z mapą części ciała – „Output: Motor cortex (left hemisphere section controls the body's right side)” i „Input: Sensory cortex (left hemisphere section receives input from the body's right side)”. Notatki: płat czołowy – kora motoryczna; płat ciemieniowy – pola czuciowe skóry.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/homunkulus-ruchowa.webp",
+        "alt": "Przekrój dwóch pasów kory z rysunkiem części ciała przy każdym fragmencie (homunkulus); nagłówki obu pasów zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/homunkulus-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-91",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Schemat dwóch pasów kory z mapą ciała. Czym jest prawy (niebieski) pas, oznaczony znakiem „?”?"
+      ],
+      "correct": [
+        "kora czuciowa – odbiera czucie z przeciwnej strony ciała"
+      ],
+      "distractors": [
+        "kora ruchowa – steruje ruchami przeciwnej strony ciała",
+        "kora ruchowa – steruje ruchami tej samej strony ciała",
+        "kora czuciowa – odbiera czucie z tej samej strony ciała",
+        "kora wzrokowa – analizuje obraz z siatkówki",
+        "móżdżek – koordynuje ruchy tej samej strony",
+        "kora przedczołowa – planuje działania",
+        "kora słuchowa – analizuje dźwięki z obu uszu"
+      ],
+      "explanation": "Strzałka wchodzi do mózgu („input”) – to kora czuciowa (somatosensoryczna, w płacie ciemieniowym). Odbiera czucie z przeciwnej strony ciała.",
+      "sourceExcerpt": "Slajd (układ ruchowy, drogi piramidowe): dwa pasy kory z mapą części ciała – „Output: Motor cortex (left hemisphere section controls the body's right side)” i „Input: Sensory cortex (left hemisphere section receives input from the body's right side)”. Notatki: płat czołowy – kora motoryczna; płat ciemieniowy – pola czuciowe skóry.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/homunkulus-czuciowa.webp",
+        "alt": "Przekrój dwóch pasów kory z rysunkiem części ciała przy każdym fragmencie (homunkulus); nagłówki obu pasów zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/homunkulus-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-92",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Na mapie kory ruchowej i czuciowej dłoń, wargi i język zajmują ogromne obszary, a tułów i biodro – małe. Co z tego wynika?"
+      ],
+      "correct": [
+        "Wielkość obszaru kory zależy od precyzji ruchu i czucia danej części, nie od jej rozmiaru"
+      ],
+      "distractors": [
+        "Wielkość obszaru kory odpowiada wielkości danej części ciała i liczbie jej mięśni",
+        "Duże obszary dotyczą części ciała, które najczęściej ulegają urazom",
+        "Tułów jest sterowany wyłącznie przez rdzeń kręgowy, bez udziału kory mózgowej",
+        "Mapa pokazuje kolejność, w jakiej części ciała rozwijają się przed urodzeniem",
+        "Duże obszary mają części ciała sterowane przez obie półkule naraz",
+        "Wielkość obszarów kory jest u każdego człowieka przypadkowa i nie ma znaczenia"
+      ],
+      "explanation": "Dłoń, wargi i język wykonują najbardziej precyzyjne ruchy i mają najgęstsze czucie, więc dostają najwięcej kory – mapa jest zniekształcona według precyzji, a nie wielkości ciała.",
+      "sourceExcerpt": "Slajd (układ ruchowy, drogi piramidowe): dwa pasy kory z mapą części ciała – „Output: Motor cortex (left hemisphere section controls the body's right side)” i „Input: Sensory cortex (left hemisphere section receives input from the body's right side)”. Notatki: płat czołowy – kora motoryczna; płat ciemieniowy – pola czuciowe skóry.",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/homunkulus-oryginal.webp",
+        "alt": "Dwa pasy kory – ruchowa i czuciowa – z rysunkiem części ciała przy każdym fragmencie; dłoń, usta i język są narysowane bardzo duże"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-93",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Niebieski kolor to obszar porażenia. Jaki skutek ma uszkodzenie rdzenia na poziomie C6 (opis zastąpiony „?”)?"
+      ],
+      "correct": [
+        "tetraplegia – porażenie czterech kończyn i tułowia"
+      ],
+      "distractors": [
+        "paraplegia – porażenie kończyn dolnych i dolnej części tułowia",
+        "hemiplegia – porażenie jednej strony ciała",
+        "porażenie wyłącznie kończyn górnych",
+        "porażenie wyłącznie mięśni twarzy",
+        "brak porażenia – uszkodzenie dotyczy tylko czucia",
+        "porażenie tylko jednej, uszkodzonej kończyny"
+      ],
+      "explanation": "Uszkodzenie w odcinku szyjnym przerywa drogi do wszystkiego, co jest unerwiane poniżej – porażone są ręce, tułów i nogi: tetraplegia. Im wyżej uszkodzenie, tym większy obszar porażenia.",
+      "sourceExcerpt": "Slajd „Uszkodzenia a paraliż”: sylwetki z zaznaczonym na niebiesko obszarem porażenia – C4 injury (tetraplegia), C6 injury (tetraplegia), T6 injury (paraplegia), L1 injury (paraplegia); obok kręgosłup: cervical, thoracic, lumbar, sacral, coccygeal.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/uszkodzenia-rdzenia-c6.webp",
+        "alt": "Sylwetki z niebieskim obszarem porażenia przy różnych poziomach uszkodzenia rdzenia (C4, C6, T6, L1) i kręgosłup; nazwy skutków zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/uszkodzenia-rdzenia-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-94",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Niebieski kolor to obszar porażenia. Jaki skutek ma uszkodzenie rdzenia na poziomie T6 (opis zastąpiony „?”)?"
+      ],
+      "correct": [
+        "paraplegia – porażenie kończyn dolnych i dolnej części tułowia"
+      ],
+      "distractors": [
+        "tetraplegia – porażenie czterech kończyn i tułowia",
+        "hemiplegia – porażenie jednej strony ciała",
+        "porażenie wyłącznie kończyn górnych",
+        "porażenie wyłącznie mięśni twarzy",
+        "brak porażenia – uszkodzenie dotyczy tylko czucia",
+        "porażenie tylko jednej, uszkodzonej kończyny"
+      ],
+      "explanation": "T6 leży w odcinku piersiowym – poniżej ośrodków kończyn górnych (C5–Th1), więc ręce działają, a porażone są nogi i dolna część tułowia: paraplegia.",
+      "sourceExcerpt": "Slajd „Uszkodzenia a paraliż”: sylwetki z zaznaczonym na niebiesko obszarem porażenia – C4 injury (tetraplegia), C6 injury (tetraplegia), T6 injury (paraplegia), L1 injury (paraplegia); obok kręgosłup: cervical, thoracic, lumbar, sacral, coccygeal.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/uszkodzenia-rdzenia-t6.webp",
+        "alt": "Sylwetki z niebieskim obszarem porażenia przy różnych poziomach uszkodzenia rdzenia (C4, C6, T6, L1) i kręgosłup; nazwy skutków zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/uszkodzenia-rdzenia-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-uklad-nerwowy-95",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "uklad-nerwowy",
+      "stems": [
+        "Jaki odruch przedstawia schemat?"
+      ],
+      "correct": [
+        "odruch skrzyżowany wyprostny (polisynaptyczny)"
+      ],
+      "distractors": [
+        "odruch kolanowy (monosynaptyczny)",
+        "odruch rozciągania mięśnia (monosynaptyczny)",
+        "odruch źreniczny na światło",
+        "odruch Aschnera – zwolnienie serca",
+        "odruch połykania z rdzenia przedłużonego",
+        "warunkowy odruch ślinienia",
+        "odruch Goltza – zwolnienie serca"
+      ],
+      "explanation": "Bodziec bólowy pod jedną stopą → zginacze tej nogi się kurczą (noga ucieka), a w drugiej nodze kurczą się prostowniki, żeby utrzymać ciężar. Impuls przechodzi na drugą stronę rdzenia przez kilka synaps – odruch polisynaptyczny.",
+      "sourceExcerpt": "Notatki: „Odruch skrzyżowany wyprostny (polisynaptyczny) – reakcja na nadepnięcie na coś groźnego → uniesienie nogi doświadczającej bodźca i wyprostowanie nogi przeciwnej.”",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/odruch-skrzyzowany.webp",
+        "alt": "Schemat: noga nadeptuje na bolesny bodziec, przekrój rdzenia z neuronami, jedna noga zgina się, druga prostuje (tytuł slajdu odcięty)",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/odruch-skrzyzowany-oryginal.webp"
+      }
     }
   ]
 }

@@ -1410,6 +1410,267 @@
       "sourceExcerpt": "Ilustracja (schemat, slajd 43): Aktywacja współczulnego → hamowanie pracy żołądka → W przerwie między sytuacjami stresowymi aktywuje się przywspółczulny → żołądek wydziela więcej soków niż zwykle… Przy braku pokarmu wydzielina żołądka uszkadza jego własną błonę śluzową",
       "difficulty": 3,
       "status": "ok"
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-62",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaką rolę pełni struktura wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "rozpoznaje zagrożenie jako pierwsza"
+      ],
+      "distractors": [
+        "uruchamia reakcję hormonalną przez oś HPA",
+        "ocenia kontekst i przywołuje wspomnienia",
+        "ocenia sytuację i kontroluje reakcję",
+        "pozwala poczuć, co dzieje się w ciele",
+        "produkuje noradrenalinę w pniu mózgu",
+        "uwalnia ACTH pobudzający nadnercza",
+        "wydziela kortyzol bezpośrednio do krwi"
+      ],
+      "explanation": "Czerwona struktura w płacie skroniowym (rzut) to ciało migdałowate – jako pierwsze rozpoznaje zagrożenie i uruchamia dalszą reakcję.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-migdal.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-63",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "podwzgórze"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "miejsce sinawe",
+        "przysadka",
+        "móżdżek"
+      ],
+      "explanation": "Pomarańczowa struktura nad przysadką to podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA): podwzgórze → przysadka → nadnercza.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-podwzgorze.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-64",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "hipokamp"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "kora przedczołowa",
+        "wyspa",
+        "miejsce sinawe",
+        "przysadka",
+        "móżdżek"
+      ],
+      "explanation": "Zielony, wydłużony łuk w płacie skroniowym (rzut) to hipokamp – pomaga ocenić kontekst i przywołać podobne sytuacje z pamięci.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-hipokamp.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-65",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaką rolę pełni struktura wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "ocenia sytuację i kontroluje reakcję"
+      ],
+      "distractors": [
+        "rozpoznaje zagrożenie jako pierwsza",
+        "uruchamia reakcję hormonalną przez oś HPA",
+        "ocenia kontekst i przywołuje wspomnienia",
+        "pozwala poczuć, co dzieje się w ciele",
+        "produkuje noradrenalinę w pniu mózgu",
+        "uwalnia ACTH pobudzający nadnercza",
+        "wydziela kortyzol bezpośrednio do krwi"
+      ],
+      "explanation": "Niebieski obszar z przodu płata czołowego to kora przedczołowa – ocenia sytuację, analizuje konsekwencje i kontroluje reakcję stresową.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-pfc.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-66",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "wyspa"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "miejsce sinawe",
+        "przysadka",
+        "móżdżek"
+      ],
+      "explanation": "Fioletowy obszar ukryty w bruździe bocznej (rzut) to wyspa – pozwala poczuć, co dzieje się w ciele (np. bicie serca).",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-wyspa.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-67",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaka struktura jest wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "miejsce sinawe"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "podwzgórze",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "przysadka",
+        "móżdżek"
+      ],
+      "explanation": "Niebieski punkt w moście (pień mózgu) to miejsce sinawe – produkuje noradrenalinę i zwiększa czujność.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-sinawe.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-68",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Struktury reakcji stresowej: jaką rolę pełni struktura wskazana linią prowadzącą do znaku „?”?"
+      ],
+      "correct": [
+        "uwalnia ACTH pobudzający nadnercza"
+      ],
+      "distractors": [
+        "rozpoznaje zagrożenie jako pierwsza",
+        "uruchamia reakcję hormonalną przez oś HPA",
+        "ocenia kontekst i przywołuje wspomnienia",
+        "ocenia sytuację i kontroluje reakcję",
+        "pozwala poczuć, co dzieje się w ciele",
+        "produkuje noradrenalinę w pniu mózgu",
+        "wydziela kortyzol bezpośrednio do krwi"
+      ],
+      "explanation": "Żółta struktura pod podwzgórzem to przysadka – uwalnia ACTH, który pobudza nadnercza do wydzielania kortyzolu.",
+      "sourceExcerpt": "Slajd „Jakie struktury mózgowia są zaangażowane w reakcję stresu?”: 1. ciało migdałowate – rozpoznaje zagrożenie; 2. podwzgórze – uruchamia reakcję hormonalną przez oś stresu (HPA); 3. hipokamp – pomaga ocenić kontekst i przywołać coś z pamięci; 4. kora przedczołowa – ocena sytuacji, analiza konsekwencji, kontrola; 5. wyspa – pozwala poczuć, co dzieje się w ciele; 6. miejsce sinawe – produkuje noradrenalinę; 7. przysadka – uwalnia ACTH.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-przysadka.webp",
+        "alt": "Przekrój strzałkowy mózgu z kolorowo zaznaczonymi strukturami reakcji stresowej; wszystkie podpisy zakryte, przy jednej linii znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/struktury-stresu-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-69",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Czerwono wyróżniony układ (nazwa zastąpiona „?”) wykrywa, rozpoznaje i sygnalizuje zagrożenie. To:"
+      ],
+      "correct": [
+        "układ limbiczny z ciałem migdałowatym"
+      ],
+      "distractors": [
+        "ośrodkowy układ noradrenergiczny",
+        "oś podwzgórze–przysadka–nadnercza (HPA)",
+        "układ piramidowy",
+        "układ pozapiramidowy",
+        "obwodowy układ przywspółczulny",
+        "układ dopaminergiczny nagrody",
+        "kora przedczołowa z wyspą"
+      ],
+      "explanation": "Zaznaczono zakręt obręczy, hipokamp i ciało migdałowate – to układ limbiczny. W reakcji stresowej wykrywa i sygnalizuje zagrożenie.",
+      "sourceExcerpt": "Slajd „Jakie układy mózgowia są zaangażowane w reakcję stresu?”: 1. układ limbiczny z ciałem migdałowatym – wykrywa, rozpoznaje i sygnalizuje o zagrożeniu (zaznaczone: zakręt obręczy, hipokamp, ciało migdałowate).",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/uklad-limbiczny-x.webp",
+        "alt": "Przekrój strzałkowy mózgu z czerwono wyróżnionym pasem nad ciałem modzelowatym i strukturami płata skroniowego; nazwa układu i podpisy zakryte, w miejscu nazwy znak zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/uklad-limbiczny-oryginal.webp"
+      }
+    },
+    {
+      "id": "prezentacja-neuronalne-podloze-stresu-slajdy-1-44-70",
+      "bookId": "prezentacja-neuronalne-podloze-stresu",
+      "chapterId": "slajdy-1-44",
+      "stems": [
+        "Niebieskie strzałki wychodzą ze struktury „?” w pniu mózgu do kory przedczołowej, podwzgórza, ciała migdałowatego i hipokampa. Co przedstawia schemat?"
+      ],
+      "correct": [
+        "ośrodkowy układ noradrenergiczny z miejsca sinawego"
+      ],
+      "distractors": [
+        "układ dopaminergiczny z istoty czarnej",
+        "oś HPA – kortyzol z nadnerczy",
+        "układ limbiczny z ciała migdałowatego",
+        "drogi piramidowe z kory ruchowej",
+        "układ serotoninergiczny z hipokampa",
+        "projekcje przysadki – ACTH do kory",
+        "nerw błędny – układ przywspółczulny"
+      ],
+      "explanation": "Miejsce sinawe (w moście) produkuje noradrenalinę i rozsyła ją do wielu struktur – to ośrodkowy układ noradrenergiczny. Aktywizuje oś HPA i obwodowy układ współczulny.",
+      "sourceExcerpt": "Slajd: 2. ośrodkowy układ noradrenergiczny – aktywizuje oś HPA oraz obwodowy układ współczulny; strzałki z miejsca sinawego (most, pień mózgu) → kora przedczołowa, podwzgórze, ciało migdałowate, hipokamp.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/prezentacja-neuronalne-podloze-stresu/uklad-noradrenergiczny-x.webp",
+        "alt": "Przekrój strzałkowy mózgu z niebieskimi strzałkami biegnącymi z punktu w pniu mózgu do kory przedczołowej, podwzgórza, ciała migdałowatego i hipokampa; nazwa źródła zastąpiona znakiem zapytania",
+        "reveal": "images/prezentacja-neuronalne-podloze-stresu/uklad-noradrenergiczny-oryginal.webp"
+      }
     }
   ],
   "bookTitle": "Prezentacja: Neuronalne podłoże stresu"

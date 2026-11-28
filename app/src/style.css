@@ -219,3 +219,10 @@ footer { margin: 24px 0 8px; text-align: center; }
 .cs-body .pyramid .grow { border-style: dashed; }
 .cs-body .pyramid-legend { font-size: 0.82rem; color: var(--muted); text-align: center; margin-top: -6px; }
 @media print { .cs-body .pyramid > div { background: #fff; } }
+
+/* picture questions: masked diagram above the stem; the labelled original after answering */
+.img-badge { margin-left: 8px; padding: 1px 8px; border-radius: 999px; font-size: 0.78rem; background: color-mix(in srgb, var(--accent) 14%, var(--card)); color: var(--text); white-space: nowrap; }
+.q-img { display: block; margin: 4px 0 12px; border-radius: 8px; overflow: hidden; border: 1px solid var(--line); background: #fff; }
+.q-img img { display: block; width: 100%; height: auto; max-height: 60vh; object-fit: contain; }
+.q-img.thumb { max-width: 260px; margin-bottom: 6px; }
+.reveal .q-img { margin-top: 8px; }

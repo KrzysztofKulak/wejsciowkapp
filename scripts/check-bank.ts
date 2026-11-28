@@ -22,6 +22,7 @@ const Question = z.object({
   difficulty: z.union([z.literal(1), z.literal(2), z.literal(3)]),
   status: z.enum(["ok", "flagged"]),
   tags: z.array(z.string().min(1)).optional(),
+  image: z.object({ src: z.string().regex(/^images\/[a-z0-9/_-]+\.(webp|png|jpg)$/), alt: z.string().min(10), reveal: z.string().regex(/^images\/[a-z0-9/_-]+\.(webp|png|jpg)$/).optional() }).strict().optional(),
 });
 const ChapterFile = z.object({
   bookId: z.string(),
@@ -42,7 +43,8 @@ const Index = z.object({
         title: z.string(),
         tag: z.string(),
         questionCount: z.number().int(),
-        sources: z.array(z.object({ bookId: z.string(), chapterId: z.string(), questionCount: z.number().int() })),
+        imageCount: z.number().int().optional(),
+        sources: z.array(z.object({ bookId: z.string(), chapterId: z.string(), questionCount: z.number().int(), imageCount: z.number().int().optional() })),
         cheatsheet: z.boolean().optional(),
       }),
     )
@@ -51,7 +53,7 @@ const Index = z.object({
     z.object({
       id: z.string(),
       title: z.string(),
-      chapters: z.array(z.object({ id: z.string(), title: z.string(), questionCount: z.number().int(), cheatsheet: z.boolean().optional() })),
+      chapters: z.array(z.object({ id: z.string(), title: z.string(), questionCount: z.number().int(), imageCount: z.number().int().optional(), cheatsheet: z.boolean().optional() })),
     }),
   ),
 });
@@ -62,6 +64,10 @@ const norm = (s: string) => s.trim().toLowerCase().replace(/\s+/g, " ").replace(
 const seenIds = new Set<string>();
 const counts = new Map<string, number>(); // `${bookId}/${chapterId}` -> ok questions
 const tagCounts = new Map<string, number>(); // tag -> ok questions
+const imageCounts = new Map<string, number>(); // `${bookId}/${chapterId}` -> ok picture questions
+const usedImages = new Set<string>(); // data-relative paths referenced by questions
+// Text questions must stand on their own: only picture questions (q.image) may point at a figure.
+const figureRef = /\b(na (rysunku|obrazku|schemacie|wykresie|slajdzie|ilustracji|zdjęciu)|(rysun|ilustracj|wykres)\w* (przedstawia|pokazuje)|oznaczon\w* (znakiem|numerem|„\?”|\?))/i;
 
 if (!existsSync(bankDir)) {
   console.error("No bank directory:", bankDir);
@@ -107,6 +113,14 @@ for (const bookId of readdirSync(bankDir)) {
       // very short answers ("id", "ego") make the ratio meaningless, so skip them
       if (q.status === "ok" && avg(q.correct) >= 6 && (ratio > 1.6 || ratio < 0.6))
         warnings.push(`${w}: length tell (correct avg ${avg(q.correct).toFixed(0)} vs distractors ${avg(q.distractors).toFixed(0)})`);
+      if (q.image) {
+        for (const p of [q.image.src, q.image.reveal].filter((p): p is string => !!p)) {
+          usedImages.add(p);
+          if (!existsSync(join(dataDir, p))) errors.push(`${w}: image file missing: ${p}`);
+        }
+        if (q.status === "ok") imageCounts.set(`${bookId}/${file.chapterId}`, (imageCounts.get(`${bookId}/${file.chapterId}`) ?? 0) + 1);
+      } else if (q.stems.some((st) => figureRef.test(st)))
+        errors.push(`${w}: stem refers to a picture but the question has no image (only picture questions may)`);
       if (q.status === "ok") ok++;
       if (q.status === "ok") for (const t of q.tags ?? []) tagCounts.set(t, (tagCounts.get(t) ?? 0) + 1);
     }
@@ -127,6 +141,7 @@ else {
         listed.add(key);
         if (!counts.has(key)) errors.push(`index.json lists ${key} but no bank file exists`);
         else if (counts.get(key) !== c.questionCount) errors.push(`index.json ${key}: questionCount ${c.questionCount} != ${counts.get(key)} ok questions`);
+        if ((c.imageCount ?? 0) !== (imageCounts.get(key) ?? 0)) errors.push(`index.json ${key}: imageCount ${c.imageCount ?? 0} != ${imageCounts.get(key) ?? 0} picture questions (run build-index)`);
       }
     for (const key of counts.keys()) if (!listed.has(key)) errors.push(`bank file ${key} not listed in index.json`);
     const bookIds = new Set(parsed.data.books.map((b) => b.id));
@@ -153,6 +168,15 @@ else {
       if (tagCounts.get(e.tag) !== e.questionCount) errors.push(`index.json exam "${e.tag}": questionCount ${e.questionCount} != ${tagCounts.get(e.tag) ?? 0} tagged ok questions`);
     }
     for (const t of tagCounts.keys()) if (!listedTags.has(t)) errors.push(`tag "${t}" has questions but no exam entry in index.json (run build-index)`);
+
+    // Picture files: every file under data/images must be used by some question.
+    const imagesDir = join(dataDir, "images");
+    const walk = (d: string): string[] => readdirSync(d, { withFileTypes: true }).flatMap((e) => (e.isDirectory() ? walk(join(d, e.name)) : [join(d, e.name)]));
+    if (existsSync(imagesDir))
+      for (const f of walk(imagesDir)) {
+        const rel = f.slice(dataDir.length + 1).split("\\").join("/");
+        if (!usedImages.has(rel)) warnings.push(`${rel}: image not used by any question`);
+      }
 
     // Cheatsheets: every .md must belong to a listed chapter/exam, the index flags must match the files, and each must have content.
     const cheatDir = join(dataDir, "cheatsheets");

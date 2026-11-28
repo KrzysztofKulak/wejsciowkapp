@@ -1262,6 +1262,354 @@
       "sourceExcerpt": "Ilustracja (Figure 9.10): A diffuse pattern of synaptic contact is characteristic of early stages of development; a more focused pattern after synapse rearrangement – contacts focused on a smaller number of cells.",
       "difficulty": 2,
       "status": "ok"
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-55",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Wykres potencjału czynnościowego: jak nazywa się okres zaznaczony pomarańczowym pasem, nad którym stoi „?”?"
+      ],
+      "correct": [
+        "refrakcja bezwzględna – nie pobudzi go żaden bodziec"
+      ],
+      "distractors": [
+        "refrakcja względna – pobudzi go tylko silniejszy bodziec",
+        "potencjał progowy – po jego przekroczeniu powstaje iglica",
+        "potencjał spoczynkowy – stan błony bez pobudzenia",
+        "hiperpolaryzacja – wnętrze bardziej ujemne niż w spoczynku",
+        "depolaryzacja podprogowa – bez powstania iglicy",
+        "repolaryzacja – szybki wzrost do +35 mV",
+        "potencjał postsynaptyczny – suma wpływów z synaps"
+      ],
+      "explanation": "Pomarańczowy pas obejmuje iglicę – w tym czasie (ok. 1 ms) neuron jest niepobudliwy: refrakcja bezwzględna. Dzięki niej sygnał nie cofa się wzdłuż aksonu.",
+      "sourceExcerpt": "Wykres potencjału czynnościowego z podpisami: absolute refractory period, relative refractory period, threshold (−55 mV), resting membrane potential (−70 mV). Notatki: potencjał progowy – do −55 mV; refrakcja bezwzględna – niepobudliwość w trakcie potencjału iglicowego; refrakcja względna – można pobudzić, ale bodziec musi być silniejszy.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-bezwzgledna.webp",
+        "alt": "Wykres potencjału czynnościowego (mV w czasie) z pomarańczowym i żółtym pasem; podpisy pasów i linii przerywanych zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-56",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Wykres potencjału czynnościowego: jak nazywa się okres zaznaczony żółtym pasem, nad którym stoi „?”?"
+      ],
+      "correct": [
+        "refrakcja względna – pobudzi go tylko silniejszy bodziec"
+      ],
+      "distractors": [
+        "refrakcja bezwzględna – nie pobudzi go żaden bodziec",
+        "potencjał progowy – po jego przekroczeniu powstaje iglica",
+        "potencjał spoczynkowy – stan błony bez pobudzenia",
+        "hiperpolaryzacja – wnętrze bardziej ujemne niż w spoczynku",
+        "depolaryzacja podprogowa – bez powstania iglicy",
+        "repolaryzacja – szybki wzrost do +35 mV",
+        "potencjał postsynaptyczny – suma wpływów z synaps"
+      ],
+      "explanation": "Żółty pas to czas po iglicy, gdy błona wraca do spoczynku – pobudzenie jest możliwe, ale tylko silniejszym bodźcem: refrakcja względna.",
+      "sourceExcerpt": "Wykres potencjału czynnościowego z podpisami: absolute refractory period, relative refractory period, threshold (−55 mV), resting membrane potential (−70 mV). Notatki: potencjał progowy – do −55 mV; refrakcja bezwzględna – niepobudliwość w trakcie potencjału iglicowego; refrakcja względna – można pobudzić, ale bodziec musi być silniejszy.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-wzgledna.webp",
+        "alt": "Wykres potencjału czynnościowego (mV w czasie) z pomarańczowym i żółtym pasem; podpisy pasów i linii przerywanych zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-57",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Wykres potencjału czynnościowego: co oznacza linia przerywana przy −55 mV, opisana znakiem „?”?"
+      ],
+      "correct": [
+        "potencjał progowy – po jego przekroczeniu powstaje iglica"
+      ],
+      "distractors": [
+        "refrakcja bezwzględna – nie pobudzi go żaden bodziec",
+        "refrakcja względna – pobudzi go tylko silniejszy bodziec",
+        "potencjał spoczynkowy – stan błony bez pobudzenia",
+        "hiperpolaryzacja – wnętrze bardziej ujemne niż w spoczynku",
+        "depolaryzacja podprogowa – bez powstania iglicy",
+        "repolaryzacja – szybki wzrost do +35 mV",
+        "potencjał postsynaptyczny – suma wpływów z synaps"
+      ],
+      "explanation": "−55 mV to potencjał progowy: gdy depolaryzacja go osiągnie, powstaje iglica według zasady „wszystko albo nic”.",
+      "sourceExcerpt": "Wykres potencjału czynnościowego z podpisami: absolute refractory period, relative refractory period, threshold (−55 mV), resting membrane potential (−70 mV). Notatki: potencjał progowy – do −55 mV; refrakcja bezwzględna – niepobudliwość w trakcie potencjału iglicowego; refrakcja względna – można pobudzić, ale bodziec musi być silniejszy.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-prog.webp",
+        "alt": "Wykres potencjału czynnościowego (mV w czasie) z pomarańczowym i żółtym pasem; podpisy pasów i linii przerywanych zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-58",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Wykres potencjału czynnościowego: co oznacza linia przerywana przy −70 mV, opisana znakiem „?”?"
+      ],
+      "correct": [
+        "potencjał spoczynkowy – stan błony bez pobudzenia"
+      ],
+      "distractors": [
+        "refrakcja bezwzględna – nie pobudzi go żaden bodziec",
+        "refrakcja względna – pobudzi go tylko silniejszy bodziec",
+        "potencjał progowy – po jego przekroczeniu powstaje iglica",
+        "hiperpolaryzacja – wnętrze bardziej ujemne niż w spoczynku",
+        "depolaryzacja podprogowa – bez powstania iglicy",
+        "repolaryzacja – szybki wzrost do +35 mV",
+        "potencjał postsynaptyczny – suma wpływów z synaps"
+      ],
+      "explanation": "−70 mV to potencjał spoczynkowy – różnica potencjałów między wnętrzem neuronu a płynem zewnątrzkomórkowym w spoczynku (od −60 do −90 mV).",
+      "sourceExcerpt": "Wykres potencjału czynnościowego z podpisami: absolute refractory period, relative refractory period, threshold (−55 mV), resting membrane potential (−70 mV). Notatki: potencjał progowy – do −55 mV; refrakcja bezwzględna – niepobudliwość w trakcie potencjału iglicowego; refrakcja względna – można pobudzić, ale bodziec musi być silniejszy.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-spoczynkowy.webp",
+        "alt": "Wykres potencjału czynnościowego (mV w czasie) z pomarańczowym i żółtym pasem; podpisy pasów i linii przerywanych zakryte, przy jednym znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/potencjal-czynnosciowy-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-59",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Schemat B: czym są grube, zielone segmenty pokrywające akson, wskazane strzałką od „?”?"
+      ],
+      "correct": [
+        "otoczka mielinowa"
+      ],
+      "distractors": [
+        "przewężenia Ranviera",
+        "wzgórek aksonalny",
+        "kolbki synaptyczne",
+        "dendryty",
+        "pęcherzyki synaptyczne",
+        "komórki mikrogleju",
+        "błona postsynaptyczna"
+      ],
+      "explanation": "Segmenty pokrywające akson to otoczka mielinowa (w OUN tworzą ją oligodendrocyty, w obwodowym – komórki Schwanna). Izoluje akson i przyspiesza przewodzenie.",
+      "sourceExcerpt": "Schemat przewodzenia: A – akson bez osłonki (aktywny obszar przesuwa się ciągle), B – akson z osłonką mielinową (myelin sheath), aktywny obszar w przerwie między segmentami. Notatki: „Otoczka mielinowa – tłuszczowa powłoka segmentowa pokrywająca włókna wielu neuronów. Umożliwia dużą prędkość transmisji impulsu nerwowego. Między segmentami otoczki są odstępy (przewężenie Ranviera)”.",
+      "difficulty": 1,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/przewodzenie-mielina.webp",
+        "alt": "Dwa schematy przewodzenia w aksonie: A bez osłonki, B z grubymi segmentami osłonki; jeden podpis w B zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/przewodzenie-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-60",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Schemat B: aktywny obszar („?”) powstaje tylko w przerwach między segmentami osłonki. Jak nazywają się te przerwy i jakie jest przewodzenie?"
+      ],
+      "correct": [
+        "przewężenia Ranviera – przewodzenie skokowe, szybsze"
+      ],
+      "distractors": [
+        "przewężenia Ranviera – przewodzenie ciągłe, wolniejsze",
+        "segmenty mieliny – przewodzenie skokowe, szybsze",
+        "wzgórki aksonalne – przewodzenie antydromowe",
+        "synapsy elektryczne – przewodzenie dwukierunkowe",
+        "kolbki synaptyczne – przewodzenie ortodromowe",
+        "koneksyny – przewodzenie bez opóźnienia",
+        "kanały wapniowe – przewodzenie ciągłe, wolniejsze"
+      ],
+      "explanation": "Pod mieliną błona nie wymienia jonów, więc potencjał „przeskakuje” między przewężeniami Ranviera – to przewodzenie skokowe, dużo szybsze niż ciągłe w aksonie A bez osłonki.",
+      "sourceExcerpt": "Schemat przewodzenia: A – akson bez osłonki (aktywny obszar przesuwa się ciągle), B – akson z osłonką mielinową (myelin sheath), aktywny obszar w przerwie między segmentami. Notatki: „Otoczka mielinowa – tłuszczowa powłoka segmentowa pokrywająca włókna wielu neuronów. Umożliwia dużą prędkość transmisji impulsu nerwowego. Między segmentami otoczki są odstępy (przewężenie Ranviera)”.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/przewodzenie-ranvier.webp",
+        "alt": "Dwa schematy przewodzenia w aksonie: A bez osłonki, B z grubymi segmentami osłonki; jeden podpis w B zastąpiony znakiem zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/przewodzenie-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-61",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Jaki typ synapsy pokazuje kółko nr 1 (obwiedzione na czerwono)?"
+      ],
+      "correct": [
+        "aksonalno-wydzielnicza – zakończenie wydziela wprost do krwi"
+      ],
+      "distractors": [
+        "akso-aksonalna – zakończenie na innym aksonie",
+        "akso-dendrytyczna – zakończenie na kolcu dendrytu",
+        "akso-somatyczna – zakończenie na ciele komórki",
+        "akso-pozakomórkowa – wydzielanie do płynu pozakomórkowego",
+        "elektryczna – połączenie przez koneksyny",
+        "nerwowo-mięśniowa – zakończenie na włóknie mięśnia",
+        "akso-synaptyczna – zakończenie na innej kolbce"
+      ],
+      "explanation": "Kółko nr 1 leży przy naczyniu krwionośnym – zakończenie aksonu wydziela substancję wprost do krwi (synapsa aksonalno-wydzielnicza).",
+      "sourceExcerpt": "Slajd z typami synaps chemicznych: 1. axosecretory – zakończenie aksonu wydziela wprost do krwi; 2. axoaxonic – do innego aksonu; 3. axodendritic – zakończenie na kolcu dendrytu; 4. axoextracellular – do płynu pozakomórkowego; 5 i 6. axosomatic – na ciele komórki, axosynaptic – na innym zakończeniu aksonu.",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-1.webp",
+        "alt": "Rysunek neuronów i naczynia krwionośnego z ponumerowanymi kółkami wokół zakończeń aksonów (bez legendy); jedno kółko obwiedzione na czerwono",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-62",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Jaki typ synapsy pokazuje kółko nr 2 (obwiedzione na czerwono)?"
+      ],
+      "correct": [
+        "akso-aksonalna – zakończenie na innym aksonie"
+      ],
+      "distractors": [
+        "aksonalno-wydzielnicza – zakończenie wydziela wprost do krwi",
+        "akso-dendrytyczna – zakończenie na kolcu dendrytu",
+        "akso-somatyczna – zakończenie na ciele komórki",
+        "akso-pozakomórkowa – wydzielanie do płynu pozakomórkowego",
+        "elektryczna – połączenie przez koneksyny",
+        "nerwowo-mięśniowa – zakończenie na włóknie mięśnia",
+        "akso-synaptyczna – zakończenie na innej kolbce"
+      ],
+      "explanation": "Kółko nr 2 obejmuje zakończenie przylegające do innego aksonu – synapsa akso-aksonalna.",
+      "sourceExcerpt": "Slajd z typami synaps chemicznych: 1. axosecretory – zakończenie aksonu wydziela wprost do krwi; 2. axoaxonic – do innego aksonu; 3. axodendritic – zakończenie na kolcu dendrytu; 4. axoextracellular – do płynu pozakomórkowego; 5 i 6. axosomatic – na ciele komórki, axosynaptic – na innym zakończeniu aksonu.",
+      "difficulty": 3,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-2.webp",
+        "alt": "Rysunek neuronów i naczynia krwionośnego z ponumerowanymi kółkami wokół zakończeń aksonów (bez legendy); jedno kółko obwiedzione na czerwono",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-63",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Jaki typ synapsy pokazuje kółko nr 3 (obwiedzione na czerwono)?"
+      ],
+      "correct": [
+        "akso-dendrytyczna – zakończenie na kolcu dendrytu"
+      ],
+      "distractors": [
+        "aksonalno-wydzielnicza – zakończenie wydziela wprost do krwi",
+        "akso-aksonalna – zakończenie na innym aksonie",
+        "akso-somatyczna – zakończenie na ciele komórki",
+        "akso-pozakomórkowa – wydzielanie do płynu pozakomórkowego",
+        "elektryczna – połączenie przez koneksyny",
+        "nerwowo-mięśniowa – zakończenie na włóknie mięśnia",
+        "akso-synaptyczna – zakończenie na innej kolbce"
+      ],
+      "explanation": "Kółko nr 3 obejmuje zakończenie na kolcu dendrytu – najczęstsza synapsa akso-dendrytyczna.",
+      "sourceExcerpt": "Slajd z typami synaps chemicznych: 1. axosecretory – zakończenie aksonu wydziela wprost do krwi; 2. axoaxonic – do innego aksonu; 3. axodendritic – zakończenie na kolcu dendrytu; 4. axoextracellular – do płynu pozakomórkowego; 5 i 6. axosomatic – na ciele komórki, axosynaptic – na innym zakończeniu aksonu.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-3.webp",
+        "alt": "Rysunek neuronów i naczynia krwionośnego z ponumerowanymi kółkami wokół zakończeń aksonów (bez legendy); jedno kółko obwiedzione na czerwono",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-64",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "Jaki typ synapsy pokazuje kółko nr 5 (obwiedzione na czerwono)?"
+      ],
+      "correct": [
+        "akso-somatyczna – zakończenie na ciele komórki"
+      ],
+      "distractors": [
+        "aksonalno-wydzielnicza – zakończenie wydziela wprost do krwi",
+        "akso-aksonalna – zakończenie na innym aksonie",
+        "akso-dendrytyczna – zakończenie na kolcu dendrytu",
+        "akso-pozakomórkowa – wydzielanie do płynu pozakomórkowego",
+        "elektryczna – połączenie przez koneksyny",
+        "nerwowo-mięśniowa – zakończenie na włóknie mięśnia",
+        "akso-synaptyczna – zakończenie na innej kolbce"
+      ],
+      "explanation": "Kółko nr 5 i 6 leży na ciele (somie) drugiego neuronu – synapsa akso-somatyczna.",
+      "sourceExcerpt": "Slajd z typami synaps chemicznych: 1. axosecretory – zakończenie aksonu wydziela wprost do krwi; 2. axoaxonic – do innego aksonu; 3. axodendritic – zakończenie na kolcu dendrytu; 4. axoextracellular – do płynu pozakomórkowego; 5 i 6. axosomatic – na ciele komórki, axosynaptic – na innym zakończeniu aksonu.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-5.webp",
+        "alt": "Rysunek neuronów i naczynia krwionośnego z ponumerowanymi kółkami wokół zakończeń aksonów (bez legendy); jedno kółko obwiedzione na czerwono",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/typy-synaps-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-65",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "(a) to neuroprzekaźnik w receptorze. Czym jest cząsteczka (b), opisana znakiem „?”?"
+      ],
+      "correct": [
+        "agonista – łączy się z receptorem i wywołuje reakcję jak neuroprzekaźnik"
+      ],
+      "distractors": [
+        "antagonista – łączy się z receptorem, ale nie wywołuje reakcji, blokuje go",
+        "inhibitor wychwytu zwrotnego – zatrzymuje neuroprzekaźnik w szczelinie",
+        "enzym – rozkłada neuroprzekaźnik zalegający w szczelinie",
+        "toksyna botulinowa – blokuje uwalnianie neuroprzekaźnika",
+        "pęcherzyk synaptyczny – magazynuje neuroprzekaźnik w kolbce",
+        "astrocyt – przechwytuje neuroprzekaźnik ze szczeliny",
+        "koneksyna – białko tworzące synapsę elektryczną"
+      ],
+      "explanation": "Cząsteczka (b) pasuje do receptora jak neuroprzekaźnik i go pobudza – to agonista. Długie stosowanie agonisty zmniejsza liczbę receptorów.",
+      "sourceExcerpt": "Slajd „Agoniści (aktywują) i Antagoniści (blokują) Neurotransmiterów”: (a) cząsteczka neuroprzekaźnika w miejscu receptora, (b) „Agonist mimics neurotransmitter”, (c) „Antagonist blocks neurotransmitter”. Notatki: agonista ma dostatecznie podobną konformację, by się połączyć i wywołać reakcję; antagonista – by się połączyć, ale nie wywołać. Blokuje.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/agonista-antagonista-b.webp",
+        "alt": "Trzy rysunki cząsteczki dopasowanej do receptora: (a) neuroprzekaźnik, (b) i (c) inne cząsteczki; tytuł i podpisy (b), (c) zakryte, przy jednej znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/agonista-antagonista-oryginal.webp"
+      }
+    },
+    {
+      "id": "wyklady-biologiczne-podstawy-zachowan-pobudliwosc-66",
+      "bookId": "wyklady-biologiczne-podstawy-zachowan",
+      "chapterId": "pobudliwosc",
+      "stems": [
+        "(a) to neuroprzekaźnik w receptorze. Czym jest cząsteczka (c), opisana znakiem „?”?"
+      ],
+      "correct": [
+        "antagonista – łączy się z receptorem, ale nie wywołuje reakcji, blokuje go"
+      ],
+      "distractors": [
+        "agonista – łączy się z receptorem i wywołuje reakcję jak neuroprzekaźnik",
+        "inhibitor wychwytu zwrotnego – zatrzymuje neuroprzekaźnik w szczelinie",
+        "enzym – rozkłada neuroprzekaźnik zalegający w szczelinie",
+        "toksyna botulinowa – blokuje uwalnianie neuroprzekaźnika",
+        "pęcherzyk synaptyczny – magazynuje neuroprzekaźnik w kolbce",
+        "astrocyt – przechwytuje neuroprzekaźnik ze szczeliny",
+        "koneksyna – białko tworzące synapsę elektryczną"
+      ],
+      "explanation": "Cząsteczka (c) zajmuje receptor, ale go nie pobudza, więc neuroprzekaźnik nie może zadziałać – to antagonista (np. kurara blokuje receptory acetylocholiny). Długie stosowanie antagonisty zwiększa liczbę receptorów.",
+      "sourceExcerpt": "Slajd „Agoniści (aktywują) i Antagoniści (blokują) Neurotransmiterów”: (a) cząsteczka neuroprzekaźnika w miejscu receptora, (b) „Agonist mimics neurotransmitter”, (c) „Antagonist blocks neurotransmitter”. Notatki: agonista ma dostatecznie podobną konformację, by się połączyć i wywołać reakcję; antagonista – by się połączyć, ale nie wywołać. Blokuje.",
+      "difficulty": 2,
+      "status": "ok",
+      "image": {
+        "src": "images/wyklady-biologiczne-podstawy-zachowan/agonista-antagonista-c.webp",
+        "alt": "Trzy rysunki cząsteczki dopasowanej do receptora: (a) neuroprzekaźnik, (b) i (c) inne cząsteczki; tytuł i podpisy (b), (c) zakryte, przy jednej znak zapytania",
+        "reveal": "images/wyklady-biologiczne-podstawy-zachowan/agonista-antagonista-oryginal.webp"
+      }
     }
   ]
 }

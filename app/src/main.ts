@@ -13,7 +13,8 @@ const LS_MISS = "wejsciowka.misses";
 const LS_API_KEY = "wejsciowka.apiKey"; // only when the user ticks "remember the key on this device"
 const LS_ORAL_N = "wejsciowka.oralCount";
 const LS_ORAL_MODEL = "wejsciowka.oralModel";
-type Selection = { chapters: string[]; exams?: string[]; count: number; weak: boolean; fun?: boolean };
+/** `images`: include picture questions (masked diagrams); off unless the user ticks it. */
+type Selection = { chapters: string[]; exams?: string[]; count: number; weak: boolean; fun?: boolean; images?: boolean };
 
 // "Wzmocnione metody nauki": reaction media shown after each answer.
 const SAD_MEDIA = [
@@ -189,22 +190,34 @@ function setupView(error?: string) {
   const oralSlot = h("div", { class: "oral-slot" }, oralBtn);
   const weakChk = h("input", { type: "checkbox", checked: saved.weak && hasStats, disabled: !hasStats }) as HTMLInputElement;
   const funChk = h("input", { type: "checkbox", checked: saved.fun !== false }) as HTMLInputElement;
+  const imgChk = h("input", { type: "checkbox", checked: saved.images === true }) as HTMLInputElement;
+  // question counts shown next to chapters/exams follow the picture toggle
+  const countSpans: { el: HTMLElement; total: number; images: number }[] = [];
+  const countLabel = (total: number, images: number) =>
+    imgChk.checked && images ? `${total} pyt. · 🖼 ${images}` : `${total - (imgChk.checked ? 0 : images)} pyt.`;
+  const countSpan = (total: number, images = 0) => {
+    const el = h("span", { class: "count" }, countLabel(total, images));
+    countSpans.push({ el, total, images });
+    return el;
+  };
 
   const chapterInputs = new Map<string, HTMLInputElement>();
   const bookInputs = new Map<string, HTMLInputElement>();
 
   function availableCount() {
     let n = 0;
-    for (const b of index.books) for (const c of b.chapters) if (selected.has(`${b.id}/${c.id}`)) n += c.questionCount;
+    const img = imgChk.checked;
+    for (const b of index.books) for (const c of b.chapters) if (selected.has(`${b.id}/${c.id}`)) n += c.questionCount - (img ? 0 : c.imageCount ?? 0);
     // exam questions that live in an already selected chapter are the same questions: count them once
     for (const e of exams)
       if (selectedExams.has(e.id))
-        for (const src of e.sources) if (!selected.has(`${src.bookId}/${src.chapterId}`)) n += src.questionCount;
+        for (const src of e.sources) if (!selected.has(`${src.bookId}/${src.chapterId}`)) n += src.questionCount - (img ? 0 : src.imageCount ?? 0);
     return n;
   }
   const maxLabel = h("p", { class: "muted max-label" });
   function refresh() {
     const max = availableCount();
+    for (const c of countSpans) c.el.textContent = countLabel(c.total, c.images);
     range.max = String(Math.max(max, 1));
     range.disabled = max === 0;
     const want = Number(range.value) || saved.count;
@@ -247,10 +260,11 @@ function setupView(error?: string) {
   let lastCount = saved.count;
   function persist() {
     if (userTouchedRange && !range.disabled) lastCount = Number(range.value);
-    lsSet(LS_SEL, { chapters: [...selected], exams: [...selectedExams], count: lastCount, weak: weakChk.checked, fun: funChk.checked });
+    lsSet(LS_SEL, { chapters: [...selected], exams: [...selectedExams], count: lastCount, weak: weakChk.checked, fun: funChk.checked, images: imgChk.checked });
   }
   weakChk.addEventListener("change", persist);
   funChk.addEventListener("change", persist);
+  imgChk.addEventListener("change", () => refresh());
 
   // Subject search: every typed word must be the beginning of some word in the subject title
   // (case- and diacritics-insensitive), so "b" → "Biologiczne…", "spol" → "…społecznej".
@@ -375,7 +389,7 @@ function setupView(error?: string) {
         refresh();
       });
       chapterInputs.set(k, inp);
-      return h("label", { class: "chk" }, inp, h("span", {}, c.title), h("span", { class: "count" }, `${c.questionCount} pyt.`));
+      return h("label", { class: "chk" }, inp, h("span", {}, c.title), countSpan(c.questionCount, c.imageCount));
     });
     const open = b.chapters.some((c) => selected.has(`${b.id}/${c.id}`)) || index.books.length === 1;
     return h(
@@ -456,18 +470,19 @@ function setupView(error?: string) {
   async function start() {
     const chapters = [...selected];
     const chosenExams = exams.filter((e) => selectedExams.has(e.id));
-    const sel: Selection = { chapters, exams: chosenExams.map((e) => e.id), count: Number(range.value), weak: weakChk.checked, fun: funChk.checked };
+    const sel: Selection = { chapters, exams: chosenExams.map((e) => e.id), count: Number(range.value), weak: weakChk.checked, fun: funChk.checked, images: imgChk.checked };
+    const wanted = (q: Question) => q.status === "ok" && (sel.images || !q.image);
     lsSet(LS_SEL, sel);
     startBtn.disabled = true;
     startBtn.textContent = "Ładowanie…";
     try {
       const files = await Promise.all(chapters.map((k) => loadChapter(...(k.split("/") as [string, string]))));
       const poolMap = new Map<string, Question>();
-      for (const q of files.flatMap((f) => f.questions)) if (q.status === "ok") poolMap.set(q.id, q);
+      for (const q of files.flatMap((f) => f.questions)) if (wanted(q)) poolMap.set(q.id, q);
       // "Zaliczenia": questions grouped by tag across sources
       for (const e of chosenExams) {
         const srcFiles = await Promise.all(e.sources.map((src) => loadChapter(src.bookId, src.chapterId)));
-        for (const q of srcFiles.flatMap((f) => f.questions)) if (q.status === "ok" && q.tags?.includes(e.tag)) poolMap.set(q.id, q);
+        for (const q of srcFiles.flatMap((f) => f.questions)) if (wanted(q) && q.tags?.includes(e.tag)) poolMap.set(q.id, q);
       }
       const pool = [...poolMap.values()];
       const { seed, rng } = makeRng();
@@ -486,7 +501,7 @@ function setupView(error?: string) {
       else selectedExams.delete(e.id);
       refresh();
     });
-    return h("label", { class: "chk" }, inp, h("span", {}, e.title), h("span", { class: "count" }, `${e.questionCount} pyt.`));
+    return h("label", { class: "chk" }, inp, h("span", {}, e.title), countSpan(e.questionCount, e.imageCount));
   }
 
   render(
@@ -505,6 +520,7 @@ function setupView(error?: string) {
       h("div", { class: "count-picker" }, range, countOut),
       h("label", { class: "chk", style: "margin-top:8px" }, weakChk, h("span", {}, "Skup się na słabych", h("span", { class: "muted" }, hasStats ? " (częściej pytania, które mylisz)" : " (brak statystyk, zagraj najpierw)"))),
       h("label", { class: "chk" }, funChk, h("span", {}, "Enhanced learning techniques", h("span", { class: "muted" }, " (koty reagują na odpowiedzi)"))),
+      h("label", { class: "chk" }, imgChk, h("span", {}, "🖼 Pytania z obrazkami", h("span", { class: "muted" }, " (schematy z notatek i slajdów z zakrytymi podpisami)"))),
     ),
     startBtn,
     cheatBtn,
@@ -673,6 +689,12 @@ async function oralView(apiKey: string, total: number, model: OralModel, items: 
   }
 }
 
+/** A picture question's diagram (path relative to data/); click opens it full size. */
+function questionImage(src: string, alt: string, cls = "q-img") {
+  const url = `${BASE}data/${src}`;
+  return h("a", { class: cls, href: url, target: "_blank", rel: "noopener" }, h("img", { src: url, alt, loading: "lazy", decoding: "async" }));
+}
+
 function quizView(questions: Question[], rng: () => number, seed: number, fun = true) {
   const answers: Answered[] = [];
   let i = 0;
@@ -712,6 +734,9 @@ function quizView(questions: Question[], rng: () => number, seed: number, fun = 
           ),
           fun ? reactionMedia(ok) : "",
         ),
+        q.image?.reveal
+          ? h("details", { class: "source reveal" }, h("summary", {}, "🖼 Schemat z podpisami"), questionImage(q.image.reveal, `${q.image.alt} – z podpisami`))
+          : "",
         h(
           "details",
           { class: "source" },
@@ -744,7 +769,10 @@ function quizView(questions: Question[], rng: () => number, seed: number, fun = 
     render(
       h("div", { class: "topbar" }, h("span", { class: "muted" }, `Pytanie ${i + 1} / ${questions.length}`), h("span", { class: "muted" }, `${answers.filter((a) => a.correctAnswer).length} ✓`)),
       h("div", { class: "progress" }, h("div", { style: `width:${(i / questions.length) * 100}%` })),
-      h("div", { class: "card" }, h("p", { class: "muted", style: "margin-top:0" }, t ? `${t.book} · ${t.chapter}` : q.chapterId), h("p", { class: "stem" }, r.stem), h("div", { class: "options" }, ...buttons), feedback, nextBtn),
+      h("div", { class: "card" },
+        h("p", { class: "muted", style: "margin-top:0" }, t ? `${t.book} · ${t.chapter}` : q.chapterId, q.image ? h("span", { class: "img-badge" }, "🖼 pytanie z obrazkiem") : ""),
+        q.image ? questionImage(q.image.src, q.image.alt) : "",
+        h("p", { class: "stem" }, r.stem), h("div", { class: "options" }, ...buttons), feedback, nextBtn),
       h("footer", {}, h("button", { class: "ghost muted", onClick: () => { if (confirm("Przerwać quiz?")) setupView(); } }, "Przerwij")),
     );
   }
@@ -781,6 +809,7 @@ function summaryView(questions: Question[], answers: Answered[], seed: number, f
           h("h2", { style: "margin-top:0" }, `Pomyłki (${missed.length})`),
           ...missed.map((a) =>
             h("div", { class: "miss" },
+              a.question.image ? questionImage(a.question.image.src, a.question.image.alt, "q-img thumb") : "",
               h("p", { class: "q" }, a.stem),
               h("p", { class: "a" }, h("span", { class: "badtxt" }, a.options[a.chosen].text), " → ", h("span", { class: "good" }, a.options[a.correctIndex].text)),
               h("p", { class: "muted", style: "font-size:0.88rem" }, a.question.explanation),

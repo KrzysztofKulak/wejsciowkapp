@@ -106,7 +106,8 @@
         {
           "id": "slajdy-1-32",
           "title": "slajdy 1–32",
-          "questionCount": 77,
+          "questionCount": 81,
+          "imageCount": 4,
           "cheatsheet": true
         }
       ]
@@ -136,7 +137,8 @@
         {
           "id": "slajdy-1-24",
           "title": "slajdy 1–24",
-          "questionCount": 31,
+          "questionCount": 36,
+          "imageCount": 5,
           "cheatsheet": true
         }
       ]
@@ -370,7 +372,8 @@
         {
           "id": "slajdy-1-44",
           "title": "slajdy 1–44",
-          "questionCount": 61,
+          "questionCount": 70,
+          "imageCount": 9,
           "cheatsheet": true
         }
       ]
@@ -388,19 +391,22 @@
         {
           "id": "pobudliwosc",
           "title": "Pobudliwość",
-          "questionCount": 54,
+          "questionCount": 66,
+          "imageCount": 12,
           "cheatsheet": true
         },
         {
           "id": "uklad-ruchu-i-fizjologia-miesni",
           "title": "Układ ruchu i fizjologia mięśni",
-          "questionCount": 25,
+          "questionCount": 27,
+          "imageCount": 2,
           "cheatsheet": true
         },
         {
           "id": "uklad-nerwowy",
           "title": "Układ nerwowy",
-          "questionCount": 72,
+          "questionCount": 95,
+          "imageCount": 23,
           "cheatsheet": true
         }
       ]
@@ -475,17 +481,19 @@
       "id": "wejsciowka-2-behawioryzm-psychologia-humanistyczna-i-poznawcza",
       "title": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
       "tag": "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza",
-      "questionCount": 87,
+      "questionCount": 94,
       "sources": [
         {
           "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
           "chapterId": "slajdy-1-32",
-          "questionCount": 55
+          "questionCount": 59,
+          "imageCount": 4
         },
         {
           "bookId": "prezentacja-psychologia-humanistyczna",
           "chapterId": "slajdy-1-24",
-          "questionCount": 11
+          "questionCount": 14,
+          "imageCount": 3
         },
         {
           "bookId": "psychologia-i-zycie-zimbardo",
@@ -503,6 +511,7 @@
           "questionCount": 1
         }
       ],
+      "imageCount": 7,
       "cheatsheet": true
     }
   ]
