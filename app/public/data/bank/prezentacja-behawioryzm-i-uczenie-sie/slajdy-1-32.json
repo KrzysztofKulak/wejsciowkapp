@@ -2072,6 +2072,422 @@
         "alt": "Tabela 2×2 z rysunkami psa i właściciela, w każdej scenie strzałka w górę lub w dół i znak plus lub minus; podpisy wierszy i kolumn zakryte, jedna scena w czerwonej ramce",
         "reveal": "images/prezentacja-behawioryzm-i-uczenie-sie/wzmocnienia-kary-oryginal.webp"
       }
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-83",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Zgodnie z prawem efektu zachowanie, które w danej sytuacji wywołało dyskomfort:"
+      ],
+      "correct": [
+        "rzadziej powtórzy się w podobnej sytuacji"
+      ],
+      "distractors": [
+        "częściej powtórzy się w podobnej sytuacji",
+        "zostanie wygaszone dopiero po przerwie",
+        "przeniesie się na podobne sytuacje",
+        "nie zmieni częstości – liczy się tylko zadowolenie",
+        "zostanie zastąpione odruchem bezwarunkowym",
+        "będzie powtarzane, aż przyniesie zadowolenie"
+      ],
+      "explanation": "Prawo efektu działa w obie strony: zadowolenie → zachowanie częściej, dyskomfort → rzadziej. Zachowanie jest kontrolowane przez swój skutek.",
+      "sourceExcerpt": "Slajd „Warunkowanie instrumentalne” – Prawo Efektu: zachowanie, które w danej sytuacji wywołuje odczucie zadowolenia, zostaje skojarzone z tą sytuacją i jeśli w przyszłości się ona powtórzy, to wzrasta prawdopodobieństwo, iż powtórzone zostanie także to zachowanie. Jeżeli natomiast zachowanie wywoła odczucie dyskomfortu, to spada prawdopodobieństwo powtórzenia się tego zachowania w podobnej sytuacji. Zachowanie jest kontrolowane przez jego efekt.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-84",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Według prawa efektu zachowanie jest kontrolowane przede wszystkim przez:"
+      ],
+      "correct": [
+        "jego skutek – to, co następuje po zachowaniu"
+      ],
+      "distractors": [
+        "bodziec, który poprzedza zachowanie",
+        "wrodzony odruch bezwarunkowy",
+        "obserwację zachowania innych osób",
+        "nieświadome popędy i konflikty",
+        "wolną wolę i świadomy wybór",
+        "sam upływ czasu od ostatniej próby"
+      ],
+      "explanation": "Prawo efektu: o tym, czy zachowanie się powtórzy, decyduje jego efekt (zadowolenie albo dyskomfort). To podstawa warunkowania instrumentalnego (sprawczego).",
+      "sourceExcerpt": "Slajd „Warunkowanie instrumentalne” – Prawo Efektu: zachowanie, które w danej sytuacji wywołuje odczucie zadowolenia, zostaje skojarzone z tą sytuacją i jeśli w przyszłości się ona powtórzy, to wzrasta prawdopodobieństwo, iż powtórzone zostanie także to zachowanie. Jeżeli natomiast zachowanie wywoła odczucie dyskomfortu, to spada prawdopodobieństwo powtórzenia się tego zachowania w podobnej sytuacji. Zachowanie jest kontrolowane przez jego efekt.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-85",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Zasada „zachowanie, które przynosi zadowolenie, zostaje skojarzone z sytuacją i chętniej się w niej powtarza; zachowanie przynoszące dyskomfort – rzadziej” to:"
+      ],
+      "correct": [
+        "prawo efektu"
+      ],
+      "distractors": [
+        "prawo ćwiczenia",
+        "wygaszanie",
+        "generalizacja",
+        "habituacja",
+        "modelowanie",
+        "różnicowanie"
+      ],
+      "explanation": "To prawo efektu Thorndike'a – fundament warunkowania instrumentalnego: zachowaniem rządzi jego skutek.",
+      "sourceExcerpt": "Slajd „Warunkowanie instrumentalne” – Prawo Efektu: zachowanie, które w danej sytuacji wywołuje odczucie zadowolenia, zostaje skojarzone z tą sytuacją i jeśli w przyszłości się ona powtórzy, to wzrasta prawdopodobieństwo, iż powtórzone zostanie także to zachowanie. Jeżeli natomiast zachowanie wywoła odczucie dyskomfortu, to spada prawdopodobieństwo powtórzenia się tego zachowania w podobnej sytuacji. Zachowanie jest kontrolowane przez jego efekt.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-86",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Uczenie się, w którym bodziec początkowo obojętny zaczyna wywoływać reakcję, bo został skojarzony z bodźcem istotnym biologicznie, to:"
+      ],
+      "correct": [
+        "warunkowanie klasyczne"
+      ],
+      "distractors": [
+        "warunkowanie sprawcze",
+        "prawo efektu",
+        "modelowanie",
+        "wzmocnienie negatywne",
+        "habituacja",
+        "uczenie się przez wgląd"
+      ],
+      "explanation": "Skojarzenie bodźca obojętnego z bodźcem bezwarunkowym (np. dzwonek + jedzenie) to warunkowanie klasyczne – reakcja jest wywoływana przez bodziec.",
+      "sourceExcerpt": "Slajd „Warunkowanie klasyczne”: rodzaj uczenia się, w którym zachowanie jest wywoływane przez bodziec (początkowo) obojętny, który nabiera taką zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie; warunkowaniu klasycznemu podlegają reakcje mimowolne – ślinienie się, zwężanie źrenic, mruganie, ciśnienie krwi, skurcze żołądka, bicie serca.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-87",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Uczenie się, w którym częstość zachowania zmienia się pod wpływem jego konsekwencji (wzmocnień i kar), to:"
+      ],
+      "correct": [
+        "warunkowanie sprawcze (instrumentalne)"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne (pawłowowskie)",
+        "generalizacja bodźca warunkowego",
+        "modelowanie (uczenie przez obserwację)",
+        "habituacja (oswojenie z bodźcem)",
+        "wdrukowanie (wczesne przywiązanie)",
+        "warunkowanie wyższego rzędu"
+      ],
+      "explanation": "O częstości zachowania decyduje to, co następuje po nim – to warunkowanie sprawcze (instrumentalne), oparte na prawie efektu.",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-88",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Czym zachowania sprawcze (operanty) różnią się od reakcji uwarunkowanych klasycznie?"
+      ],
+      "correct": [
+        "nie są wywoływane przez określony bodziec – zależą od skutków"
+      ],
+      "distractors": [
+        "są zawsze reakcjami mimowolnymi, np. ślinieniem",
+        "są wywoływane przez bodziec warunkowy, np. dzwonek",
+        "powstają wyłącznie przez obserwację innych osób",
+        "nie podlegają wygaszaniu ani karze",
+        "są wrodzone i nie wymagają uczenia się",
+        "zależą tylko od bodźca bezwarunkowego"
+      ],
+      "explanation": "Reakcja klasyczna jest wywoływana przez bodziec (bodziec → reakcja), zwykle mimowolna. Operant to zachowanie dowolne, którego częstość zależy od konsekwencji (reakcja → wzmocnienie).",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-89",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Jak najprościej odróżnić warunkowanie klasyczne od sprawczego?"
+      ],
+      "correct": [
+        "klasyczne: reakcję wywołuje bodziec przed nią; sprawcze: liczy się skutek po zachowaniu"
+      ],
+      "distractors": [
+        "klasyczne: liczy się skutek po zachowaniu; sprawcze: reakcję wywołuje bodziec przed nią",
+        "klasyczne dotyczy tylko zwierząt, a sprawcze tylko ludzi",
+        "klasyczne wymaga nagrody, a sprawcze kary",
+        "klasyczne dotyczy zachowań dowolnych, a sprawcze odruchów",
+        "w klasycznym uczymy się przez obserwację, w sprawczym przez skojarzenie",
+        "oba różnią się tylko liczbą powtórzeń potrzebnych do nauki"
+      ],
+      "explanation": "Pytaj: co kontroluje zachowanie? Bodziec poprzedzający i reakcja mimowolna → klasyczne (bodziec–reakcja). Konsekwencja po dowolnym zachowaniu → sprawcze (reakcja–wzmocnienie).",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja. Slajd „Warunkowanie klasyczne”: rodzaj uczenia się, w którym zachowanie jest wywoływane przez bodziec (początkowo) obojętny, który nabiera taką zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie; warunkowaniu klasycznemu podlegają reakcje mimowolne – ślinienie się, zwężanie źrenic, mruganie, ciśnienie krwi, skurcze żołądka, bicie serca.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-90",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Kot zamknięty w skrzynce przypadkiem naciska zapadkę, wychodzi i dostaje jedzenie; w kolejnych próbach wydostaje się coraz szybciej. Jaką zasadę to ilustruje?"
+      ],
+      "correct": [
+        "prawo efektu – zachowanie dające zadowolenie się utrwala"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców",
+        "modelowanie – naśladowanie innego kota",
+        "wygaszanie – brak wzmocnienia osłabia reakcję",
+        "generalizację – reakcja na podobne bodźce",
+        "habituację – oswojenie z bodźcem",
+        "karę negatywną – zabranie czegoś przyjemnego"
+      ],
+      "explanation": "Zachowanie (naciśnięcie zapadki) przyniosło zadowolenie (wolność, jedzenie), więc w tej sytuacji powtarza się coraz szybciej – to prawo efektu, czyli mechanizm warunkowania instrumentalnego.",
+      "sourceExcerpt": "Slajd „Warunkowanie instrumentalne” – Prawo Efektu: zachowanie, które w danej sytuacji wywołuje odczucie zadowolenia, zostaje skojarzone z tą sytuacją i jeśli w przyszłości się ona powtórzy, to wzrasta prawdopodobieństwo, iż powtórzone zostanie także to zachowanie. Jeżeli natomiast zachowanie wywoła odczucie dyskomfortu, to spada prawdopodobieństwo powtórzenia się tego zachowania w podobnej sytuacji. Zachowanie jest kontrolowane przez jego efekt. Edward Thorndike – badania nad kotami.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-91",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Który przykład najlepiej ilustruje prawo efektu?"
+      ],
+      "correct": [
+        "po pochwale za aktywność student częściej zgłasza się na zajęciach"
+      ],
+      "distractors": [
+        "pies ślini się na dźwięk otwieranej szafki z karmą",
+        "dziecko boi się wszystkich białych, puszystych zwierząt",
+        "nastolatek uczy się tańca, oglądając teledyski",
+        "mieszkaniec przestaje słyszeć szum ulicy za oknem",
+        "pacjentce robi się niedobrze na widok szpitala",
+        "pisklę idzie za pierwszym poruszającym się obiektem"
+      ],
+      "explanation": "Prawo efektu: zachowanie, po którym przychodzi zadowolenie (pochwała), staje się częstsze. Pozostałe przykłady to warunkowanie klasyczne, generalizacja, modelowanie, habituacja i wdrukowanie.",
+      "sourceExcerpt": "Slajd „Warunkowanie instrumentalne” – Prawo Efektu: zachowanie, które w danej sytuacji wywołuje odczucie zadowolenia, zostaje skojarzone z tą sytuacją i jeśli w przyszłości się ona powtórzy, to wzrasta prawdopodobieństwo, iż powtórzone zostanie także to zachowanie. Jeżeli natomiast zachowanie wywoła odczucie dyskomfortu, to spada prawdopodobieństwo powtórzenia się tego zachowania w podobnej sytuacji. Zachowanie jest kontrolowane przez jego efekt.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-92",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Pies zaczyna się ślinić na sam dźwięk otwieranej szafki, w której trzymana jest karma. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców"
+      ],
+      "distractors": [
+        "warunkowanie sprawcze – skutki własnego zachowania",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Dźwięk szafki (początkowo obojętny) został skojarzony z jedzeniem i teraz sam wywołuje mimowolną reakcję – ślinienie. To warunkowanie klasyczne.",
+      "sourceExcerpt": "Slajd „Warunkowanie klasyczne”: rodzaj uczenia się, w którym zachowanie jest wywoływane przez bodziec (początkowo) obojętny, który nabiera taką zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie; warunkowaniu klasycznemu podlegają reakcje mimowolne – ślinienie się, zwężanie źrenic, mruganie, ciśnienie krwi, skurcze żołądka, bicie serca.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-93",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Pacjentce robi się niedobrze już na widok szpitala, w którym przechodziła chemioterapię. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców"
+      ],
+      "distractors": [
+        "warunkowanie sprawcze – skutki własnego zachowania",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Szpital (bodziec obojętny) był wielokrotnie kojarzony z nudnościami po leku (bodziec bezwarunkowy), więc teraz sam wywołuje mimowolne nudności – warunkowanie klasyczne.",
+      "sourceExcerpt": "Slajd „Warunkowanie klasyczne”: rodzaj uczenia się, w którym zachowanie jest wywoływane przez bodziec (początkowo) obojętny, który nabiera taką zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie; warunkowaniu klasycznemu podlegają reakcje mimowolne – ślinienie się, zwężanie źrenic, mruganie, ciśnienie krwi, skurcze żołądka, bicie serca.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-94",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Student czuje ścisk w żołądku na dźwięk powiadomienia z uczelnianej poczty, bo zwykle przynosiło ono złe wieści. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców"
+      ],
+      "distractors": [
+        "warunkowanie sprawcze – skutki własnego zachowania",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Dźwięk powiadomienia skojarzył się z nieprzyjemnymi wiadomościami i sam wywołuje mimowolną reakcję lękową – warunkowanie klasyczne.",
+      "sourceExcerpt": "Slajd „Warunkowanie klasyczne”: rodzaj uczenia się, w którym zachowanie jest wywoływane przez bodziec (początkowo) obojętny, który nabiera taką zdolność poprzez skojarzenie go z bodźcem istotnym biologicznie; warunkowaniu klasycznemu podlegają reakcje mimowolne – ślinienie się, zwężanie źrenic, mruganie, ciśnienie krwi, skurcze żołądka, bicie serca.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-95",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Dziecko coraz częściej sprząta pokój, bo za każdym razem dostaje za to kieszonkowe. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie sprawcze – skutki własnego zachowania"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Dowolne zachowanie (sprzątanie) staje się częstsze, bo następuje po nim nagroda – to warunkowanie sprawcze (wzmocnienie pozytywne).",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-96",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Pracownik przestaje się spóźniać, odkąd za każde spóźnienie traci część premii. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie sprawcze – skutki własnego zachowania"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Zachowanie zmienia częstość pod wpływem konsekwencji (zabranie premii = kara negatywna) – to warunkowanie sprawcze.",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja.",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-97",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Szczur w skrzynce coraz częściej naciska dźwignię, bo po naciśnięciu wypada pokarm. To przykład:"
+      ],
+      "correct": [
+        "warunkowanie sprawcze – skutki własnego zachowania"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców",
+        "modelowanie – obserwacja zachowania innych",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Naciskanie dźwigni to operant – nie wywołuje go żaden bodziec, a jego częstość rośnie, bo po nim pojawia się wzmocnienie. To warunkowanie sprawcze.",
+      "sourceExcerpt": "Slajdy „Warunkowanie sprawcze”: efektem warunkowania instrumentalnego są zachowania sprawcze (operant) – w odróżnieniu od zachowań uwarunkowanych klasycznie nie są wywoływane przez określone bodźce. Warunkowanie sprawcze polega na relacji reakcja–wzmocnienie, a klasyczne na relacji bodziec–reakcja.",
+      "difficulty": 1,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
+    },
+    {
+      "id": "prezentacja-behawioryzm-i-uczenie-sie-slajdy-1-32-98",
+      "bookId": "prezentacja-behawioryzm-i-uczenie-sie",
+      "chapterId": "slajdy-1-32",
+      "stems": [
+        "Młodszy brat widzi, że starszy dostaje szlaban za kłamstwo, i sam przestaje kłamać, choć nigdy nie został ukarany. To przykład:"
+      ],
+      "correct": [
+        "modelowanie – obserwacja zachowania innych"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne – skojarzenie dwóch bodźców",
+        "warunkowanie sprawcze – skutki własnego zachowania",
+        "habituacja – oswojenie się z bodźcem",
+        "wdrukowanie – wczesne przywiązanie do obiektu",
+        "wgląd – nagłe zrozumienie zadania",
+        "odruch bezwarunkowy – wrodzona reakcja"
+      ],
+      "explanation": "Brat uczy się bez własnej kary – z obserwacji konsekwencji u kogoś innego. To modelowanie (warunkowanie zastępcze), a nie warunkowanie sprawcze, które wymaga własnych wzmocnień lub kar.",
+      "sourceExcerpt": "Slajd „Modelowanie”: uczenie się przez obserwację innych, bez własnych wzmocnień i kar (warunkowanie zastępcze).",
+      "difficulty": 2,
+      "status": "ok",
+      "tags": [
+        "wejściówka 2: behawioryzm, psychologia humanistyczna i poznawcza"
+      ]
     }
   ],
   "bookTitle": "Prezentacja: Behawioryzm i uczenie się"

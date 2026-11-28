@@ -41,6 +41,10 @@
 | reakcje | **mimowolne** (ślinienie, strach, mdłości) | **dowolne** (operanty), podmiot **aktywny** |
 | przykład | ślinienie na dźwięk szafki z karmą, lęk na dźwięk wiertła | szczur naciska dźwignię dla pokarmu |
 
+> **Jak rozpoznać w przykładzie?** Zapytaj, **co steruje zachowaniem**. **Bodziec przed** reakcją i reakcja **mimowolna** (ślinienie, mdłości, lęk, ścisk w żołądku) → **klasyczne**. **Skutek po** zachowaniu **dowolnym** (sprząta, bo dostaje kieszonkowe; nie spóźnia się, bo traci premię) → **sprawcze**. Uczy się, **patrząc na innych**, bez własnej nagrody czy kary → **modelowanie**.
+>
+> **Prawo efektu** (Thorndike, koty w skrzynce): zachowanie, które daje **zadowolenie**, wiąże się z sytuacją i **częściej się powtarza**; dające **dyskomfort** – **rzadziej**. Zachowanie kontroluje **jego skutek** → to fundament warunkowania **sprawczego**.
+
 
 ### Pojęcia warunkowania klasycznego (Mały Albert)
 
