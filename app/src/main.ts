@@ -700,7 +700,15 @@ function questionImage(src: string, alt: string, cls = "q-img") {
   return h("a", { class: cls, href: url, target: "_blank", rel: "noopener" }, h("img", { src: url, alt, loading: "lazy", decoding: "async" }));
 }
 
-/** HARDCORE: a wall of fail GIFs, the correct answer, and a restart of the same set from question 1. */
+const GAME_OVER_THREATS = [
+  "NIE RUSZAJ SIĘ, DRON ZOSTAŁ WYSŁANY NA TWOJĄ POZYCJĘ",
+  "ZAWIODŁEŚ MNIE PO RAZ OSTATNI",
+  "AGENCI MOSSADU ZOSTALI POINFORMOWANI O TWOJEJ AKTYWNOŚCI NA FACEBOOKU",
+  "MUSISZ PONIEŚĆ KARĘ...",
+  "NIE AKCEPTUJĘ POMYŁEK...",
+];
+
+/** HARDCORE: a wall of fail GIFs, a random threat, the correct answer, and a restart of the same set from question 1. */
 function gameOverView(questions: Question[], a: Answered, reached: number, fun: boolean) {
   const restart = () => { const { rng, seed } = makeRng(); quizView(sampleQuestions(questions, questions.length, rng), rng, seed, fun, true); };
   setKeys((e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); restart(); } });
@@ -731,6 +739,7 @@ function gameOverView(questions: Question[], a: Answered, reached: number, fun: 
   render(
     h("div", { class: "gameover", role: "alertdialog", "aria-label": "Koniec gry" },
       grid,
+      h("p", { class: "go-threat" }, GAME_OVER_THREATS[Math.floor(Math.random() * GAME_OVER_THREATS.length)]),
       h("div", { class: "card go-card" },
         h("p", { class: "go-title" }, "💀 GAME OVER"),
         h("p", { class: "muted", style: "margin-top:0" }, `Odpadasz na pytaniu ${reached} / ${questions.length}. Tryb HARDCORE nie wybacza – zaczynasz od nowa.`),
