@@ -246,3 +246,16 @@ footer { margin: 24px 0 8px; text-align: center; }
 @keyframes go-shake { from { transform: rotate(-1.5deg) scale(1.02); } to { transform: rotate(1.5deg) scale(1.06); } }
 @keyframes go-pulse { from { transform: scale(1); } to { transform: scale(1.06); } }
 @media (prefers-reduced-motion: reduce) { .go-tile img, .go-tile video, .go-title, .go-threat { animation: none; } }
+
+/* HARDCORE: the page goes dark and a barely visible figure appears before game over */
+.screamer { position: fixed; inset: 0; z-index: 60; background: #000; display: flex; align-items: center; justify-content: center; animation: screamer-dark 0.35s ease-in both; cursor: none; }
+.screamer-img { width: min(70vmin, 560px); height: auto; opacity: 0; filter: grayscale(1) contrast(1.15); animation: screamer-show 1.8s ease-in-out both; }
+@keyframes screamer-dark { from { opacity: 0; } to { opacity: 1; } }
+@keyframes screamer-show {
+  0%, 20% { opacity: 0; transform: scale(0.97); }
+  45% { opacity: 0.16; }
+  52% { opacity: 0.06; }
+  58% { opacity: 0.22; }
+  85% { opacity: 0.18; transform: scale(1.02); }
+  100% { opacity: 0; transform: scale(1.03); }
+}

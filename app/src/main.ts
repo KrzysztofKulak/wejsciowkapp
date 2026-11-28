@@ -708,6 +708,20 @@ const GAME_OVER_THREATS = [
   "NIE AKCEPTUJĘ POMYŁEK...",
 ];
 
+// HARDCORE: before the game over screen the page goes dark and one of these is barely visible for a moment.
+const SCREAMERS = ["hardcore/cien-1.webp", "hardcore/cien-2.webp", "hardcore/cien-3.webp"];
+const SCREAMER_MS = 1800;
+function preloadScreamers() {
+  for (const src of SCREAMERS) new Image().src = `${BASE}${src}`;
+}
+function screamerThen(done: () => void) {
+  setKeys(null);
+  const img = h("img", { src: `${BASE}${SCREAMERS[Math.floor(Math.random() * SCREAMERS.length)]}`, alt: "", class: "screamer-img" });
+  const el = h("div", { class: "screamer", "aria-hidden": "true" }, img);
+  document.body.append(el);
+  setTimeout(() => { el.remove(); done(); }, SCREAMER_MS);
+}
+
 /** HARDCORE: a wall of fail GIFs, a random threat, the correct answer, and a restart of the same set from question 1. */
 function gameOverView(questions: Question[], a: Answered, reached: number, fun: boolean) {
   const restart = () => { const { rng, seed } = makeRng(); quizView(sampleQuestions(questions, questions.length, rng), rng, seed, fun, true); };
@@ -758,6 +772,7 @@ function gameOverView(questions: Question[], a: Answered, reached: number, fun: 
 }
 
 function quizView(questions: Question[], rng: () => number, seed: number, fun = true, hardcore = false) {
+  if (hardcore) preloadScreamers();
   const answers: Answered[] = [];
   let i = 0;
 
@@ -810,7 +825,8 @@ function quizView(questions: Question[], rng: () => number, seed: number, fun = 
       if (hardcore && !ok) {
         // let the red/green highlight register for a moment, then the wall of shame
         setKeys(null);
-        setTimeout(() => gameOverView(questions, answers[answers.length - 1], i + 1, fun), 700);
+        const last = answers[answers.length - 1];
+        setTimeout(() => screamerThen(() => gameOverView(questions, last, i + 1, fun)), 700);
         return;
       }
       nextBtn.style.display = "";
