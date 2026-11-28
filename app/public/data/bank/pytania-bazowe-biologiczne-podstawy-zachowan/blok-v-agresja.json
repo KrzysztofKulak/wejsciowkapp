@@ -1,0 +1,653 @@
+{
+  "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+  "bookTitle": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+  "chapterId": "blok-v-agresja",
+  "chapterTitle": "Blok V – agresja",
+  "sourceHash": "44eb2c512f275e0ce4e715794be080bd35a897cd",
+  "questions": [
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-01",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Agresja drapieżna („racjonalna”) i emocjonalna („obronna wściekłość”) mają różne podłoże. Która struktura wiąże się z agresją drapieżną?"
+      ],
+      "correct": [
+        "boczne podwzgórze"
+      ],
+      "distractors": [
+        "przyśrodkowe podwzgórze",
+        "grzbietowa część istoty szarej okołowodociągowej",
+        "jądro boczne przegrody",
+        "jądro prążka krańcowego",
+        "móżdżek",
+        "kora wzrokowa"
+      ],
+      "explanation": "Drapieżna: boczne podwzgórze, brzuszna PAG, VTA i kora (planowanie); emocjonalna: przyśrodkowe podwzgórze i grzbietowa PAG.",
+      "sourceExcerpt": "Vetulani 2013: agresja drapieżna … boczne podwzgórze … brzuszna część PAG.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-02",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Kot po drażnieniu określonej struktury syczy, jeży sierść i atakuje w „obronnej wściekłości”. Która struktura najpewniej była drażniona?"
+      ],
+      "correct": [
+        "przyśrodkowe podwzgórze"
+      ],
+      "distractors": [
+        "boczne podwzgórze",
+        "brzuszna część istoty szarej okołowodociągowej",
+        "jądro boczne przegrody",
+        "kora wzrokowa",
+        "móżdżek",
+        "opuszka węchowa"
+      ],
+      "explanation": "Agresja emocjonalna: przyśrodkowe podwzgórze i grzbietowa PAG (glutaminian, receptory NMDA). Oba typy agresji wzajemnie się hamują.",
+      "sourceExcerpt": "Vetulani 2013: agresja emocjonalna (obronna wściekłość) … przyśrodkowe podwzgórze i grzbietowa PAG.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-03",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak agresja drapieżna i emocjonalna wpływają na siebie nawzajem?"
+      ],
+      "correct": [
+        "wzajemnie się hamują"
+      ],
+      "distractors": [
+        "wzajemnie się wzmacniają",
+        "zawsze występują razem",
+        "nie mają żadnego związku",
+        "drapieżna zawsze przechodzi w emocjonalną",
+        "emocjonalna jest warunkiem drapieżnej",
+        "obie zależą wyłącznie od móżdżku"
+      ],
+      "explanation": "Mają odrębne obwody nerwowe, które się nawzajem hamują.",
+      "sourceExcerpt": "Vetulani 2013: oba rodzaje agresji … wzajemnie się hamują.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-04",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Pacjent po uszkodzeniu kory przedczołowej wdaje się w bójki i grozi innym z błahych powodów. Jak to wyjaśnić?"
+      ],
+      "correct": [
+        "osłabieniem hamowania zachowań impulsywnych"
+      ],
+      "distractors": [
+        "wzrostem obrotu serotoniny",
+        "nadmierną aktywnością bocznego podwzgórza wywołaną przez kortyzol",
+        "zwiększeniem wydzielania oksytocyny",
+        "uszkodzeniem kory wzrokowej",
+        "brakiem testosteronu",
+        "nadmierną aktywnością jądra bocznego przegrody"
+      ],
+      "explanation": "Kora przedczołowa hamuje impulsy; jej uszkodzenie zwiększa ogólnie impulsywność.",
+      "sourceExcerpt": "Kalat s. 375: uszkodzenia kory przedczołowej … bójki i groźby z błahych powodów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-05",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Które schorzenie szczególnie często łączy się z napadami agresji?"
+      ],
+      "correct": [
+        "padaczka płata skroniowego"
+      ],
+      "distractors": [
+        "padaczka nieświadomości u dzieci",
+        "choroba Parkinsona",
+        "uszkodzenie móżdżku",
+        "miastenia",
+        "zespół Korsakowa",
+        "uszkodzenie kory wzrokowej"
+      ],
+      "explanation": "Agresji sprzyjają też guzy płata skroniowego, układu limbicznego i podwzgórza.",
+      "sourceExcerpt": "Vetulani 2013; Sadowski s. 435: agresja towarzyszy padaczce płata skroniowego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-06",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Uszkodzenie której struktury u zwierząt daje „zespół przegrodowy” z nasiloną agresją obronną?"
+      ],
+      "correct": [
+        "jądra bocznego przegrody"
+      ],
+      "distractors": [
+        "bocznego podwzgórza",
+        "jądra przyśrodkowego ciała migdałowatego",
+        "brzusznej części PAG",
+        "pola brzusznego nakrywki",
+        "móżdżku",
+        "przyśrodkowego pola przedwzrokowego"
+      ],
+      "explanation": "Jądro boczne przegrody i jądro prążka krańcowego należą do systemu hamującego agresję.",
+      "sourceExcerpt": "Sadowski s. 435–436: uszkodzenie przegrody … zespół przegrodowy – nasilona agresja obronna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-07",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Która struktura należy do systemu hamującego agresję?"
+      ],
+      "correct": [
+        "jądro boczne przegrody"
+      ],
+      "distractors": [
+        "boczne podwzgórze",
+        "jądro przyśrodkowe ciała migdałowatego",
+        "przyśrodkowe pole przedwzrokowe",
+        "brzuszno-przyśrodkowa nakrywka śródmózgowia",
+        "grzbietowa część PAG",
+        "przyśrodkowe podwzgórze"
+      ],
+      "explanation": "Hamują też jądro prążka krańcowego i (u psów) jądro środkowe ciała migdałowatego.",
+      "sourceExcerpt": "Sadowski s. 432–437: system hamujący … jądro boczne przegrody, jądro prążka krańcowego.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-08",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jaką rolę w agresji odgrywa ciało migdałowate?"
+      ],
+      "correct": [
+        "ocenia zagrożenie i uruchamia obronę"
+      ],
+      "distractors": [
+        "wytwarza testosteron",
+        "steruje wyłącznie agresją drapieżną",
+        "hamuje wszystkie zachowania agresywne",
+        "odpowiada za koordynację ruchów ataku",
+        "przechowuje pamięć proceduralną walki",
+        "wydziela serotoninę do kory"
+      ],
+      "explanation": "Drażnienie wywołuje ucieczkę lub atak (u ludzi lęk albo wrogość i agresję słowną).",
+      "sourceExcerpt": "Sadowski s. 390–392: ciało migdałowate … analizuje i integruje informację o zagrożeniu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-09",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak zmienia się zachowanie rezusów po obustronnym usunięciu płatów skroniowych z ciałami migdałowatymi?"
+      ],
+      "correct": [
+        "stają się łagodniejsze i mniej się boją"
+      ],
+      "distractors": [
+        "stają się bardziej agresywne i lękliwe",
+        "tracą zdolność widzenia",
+        "przestają się poruszać",
+        "zaczynają atakować wyłącznie samice",
+        "nie wykazują żadnych zmian",
+        "stają się bardziej impulsywne i bardziej się boją"
+      ],
+      "explanation": "To zespół Klüvera–Bucy'ego; obrona nie znika całkiem.",
+      "sourceExcerpt": "Sadowski s. 434: usunięcie ciał migdałowatych … łagodzi zwierzęta.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-10",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Zniszczenie jądra środkowego ciała migdałowatego u psów nasilało agresję, a jądra przyśrodkowego ją łagodziło. Co z tego wynika?"
+      ],
+      "correct": [
+        "że różne jego jądra pobudzają lub hamują agresję"
+      ],
+      "distractors": [
+        "że ciało migdałowate nie ma związku z agresją",
+        "że ciało migdałowate działa jako jednolita całość",
+        "że agresja psów zależy tylko od móżdżku",
+        "że każde uszkodzenie ciała migdałowatego nasila agresję",
+        "że każde uszkodzenie ciała migdałowatego ją łagodzi",
+        "że agresja psów zależy wyłącznie od testosteronu"
+      ],
+      "explanation": "Ciało migdałowate nie jest jednolite.",
+      "sourceExcerpt": "Sadowski s. 436: zniszczenie jądra środkowego … nasilało agresję; zniszczenie jądra przyśrodkowego … łagodziło.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-11",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Dlaczego niski obrót serotoniny sprzyja agresji?"
+      ],
+      "correct": [
+        "bo osłabia hamowanie zachowań impulsywnych"
+      ],
+      "distractors": [
+        "bo bezpośrednio wywołuje chęć ataku",
+        "bo zwiększa wydzielanie testosteronu",
+        "bo pobudza układ nagrody",
+        "bo zwiększa aktywność kory przedczołowej",
+        "bo uszkadza ciało migdałowate",
+        "bo nasila wychwyt tryptofanu do mózgu"
+      ],
+      "explanation": "Serotonina działa jak hamulec impulsów; deficyt łączy się też z samobójstwami, hazardem i alkoholizmem.",
+      "sourceExcerpt": "Kalat s. 375–376: ludzie częściej agresywni mają po prostu słabsze mechanizmy hamujące.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-12",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak ocenia się obrót serotoniny w mózgu u człowieka?"
+      ],
+      "correct": [
+        "mierząc 5-HIAA w płynie mózgowo-rdzeniowym"
+      ],
+      "distractors": [
+        "mierząc stężenie kortyzolu w ślinie",
+        "mierząc stężenie tryptofanu w mięśniach",
+        "rejestrując EEG w czasie snu",
+        "mierząc testosteron we krwi",
+        "badając odruchy ścięgniste",
+        "mierząc stężenie dopaminy w moczu"
+      ],
+      "explanation": "Im więcej 5-HIAA, tym szybszy obrót (więcej wydzielanej i rozkładanej serotoniny).",
+      "sourceExcerpt": "Kalat s. 376: 5-HIAA … w płynie mózgowo-rdzeniowym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-13",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Myszy samce trzymane kilka tygodni w izolacji stają się bardziej agresywne. Jaki mechanizm za tym stoi?"
+      ],
+      "correct": [
+        "spada u nich obrót serotoniny"
+      ],
+      "distractors": [
+        "rośnie u nich obrót serotoniny",
+        "spada u nich poziom testosteronu",
+        "zanika u nich ciało migdałowate",
+        "rośnie u nich neurogeneza w hipokampie",
+        "zwiększa się liczba receptorów 5-HT1B",
+        "zwiększa się aktywność jądra bocznego przegrody"
+      ],
+      "explanation": "U samic izolacja nie dawała tego efektu.",
+      "sourceExcerpt": "Kalat s. 375: izolacja … obniżała obrót serotoniny u samców i zwiększała agresję.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-14",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Myszy pozbawione receptora serotoninowego 5-HT1B są:"
+      ],
+      "correct": [
+        "bardziej agresywne i impulsywne"
+      ],
+      "distractors": [
+        "łagodniejsze i mniej impulsywne",
+        "całkowicie bierne",
+        "niezdolne do uczenia się",
+        "odporne na kokainę",
+        "bardziej lękliwe i mniej agresywne",
+        "pozbawione węchu"
+      ],
+      "explanation": "Szybciej uzależniają się od kokainy i wybierają mniejszą, ale szybszą nagrodę.",
+      "sourceExcerpt": "Kalat s. 375–376: myszy bez receptora 5-HT1B … bardziej agresywne i impulsywne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-15",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Młode samce rezusów z najniższym poziomem 5-HIAA najczęściej atakowały większe osobniki i ryzykowały skoki z wysokości. Co najlepiej opisuje ich zachowanie?"
+      ],
+      "correct": [
+        "impulsywne podejmowanie ryzyka"
+      ],
+      "distractors": [
+        "ostrożna, zaplanowana dominacja",
+        "unikanie konfliktów",
+        "zwiększona opiekuńczość",
+        "bierność społeczna",
+        "lękowe wycofanie",
+        "agresja wyłącznie drapieżna"
+      ],
+      "explanation": "Niski obrót serotoniny osłabia hamowanie – wiele z tych małp ginęło młodo.",
+      "sourceExcerpt": "Kalat s. 376: samce z najniższym 5-HIAA … atakowały większe osobniki … ryzykowne skoki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-16",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Co przewiduje niski poziom 5-HIAA u ludzi skazanych za przemoc lub po gwałtownej próbie samobójczej?"
+      ],
+      "correct": [
+        "większe ryzyko recydywy lub kolejnej próby"
+      ],
+      "distractors": [
+        "mniejsze ryzyko recydywy",
+        "lepsze wyniki terapii bez leków",
+        "brak związku z dalszym zachowaniem",
+        "wysoki poziom testosteronu",
+        "zwiększoną neurogenezę",
+        "skłonność do depresji bez agresji"
+      ],
+      "explanation": "Efekty są jednak za słabe, by diagnozować pojedyncze osoby.",
+      "sourceExcerpt": "Kalat s. 376: niski 5-HIAA … przewiduje recydywę i kolejne próby samobójcze.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-17",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Badani piją napój aminokwasowy bez tryptofanu. Co się dzieje w ciągu kilku godzin?"
+      ],
+      "correct": [
+        "rośnie ich agresja, bo spada synteza serotoniny"
+      ],
+      "distractors": [
+        "spada ich agresja, bo rośnie synteza serotoniny",
+        "rośnie poziom dopaminy i stają się spokojniejsi",
+        "nie zachodzą żadne zmiany",
+        "zasypiają, bo rośnie melatonina",
+        "zwiększa się ich tolerancja na niesprawiedliwość",
+        "wzrasta ich testosteron i maleje impulsywność"
+      ],
+      "explanation": "Tryptofan to prekursor serotoniny; w grze Ultimatum częściej odrzucają niesprawiedliwe oferty.",
+      "sourceExcerpt": "Kalat s. 376–377: obniżenie tryptofanu … w ciągu kilku godzin rośnie agresja.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-18",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Które leki zmniejszają impulsywną agresję?"
+      ],
+      "correct": [
+        "leki zwiększające aktywność serotoniny"
+      ],
+      "distractors": [
+        "leki obniżające stężenie tryptofanu",
+        "zastrzyki z testosteronu",
+        "amfetamina w dużych dawkach",
+        "antagoniści receptorów serotoninowych",
+        "napój aminokwasowy bez tryptofanu",
+        "alkohol w umiarkowanej dawce"
+      ],
+      "explanation": "Citalopram zwiększał akceptację niesprawiedliwych ofert; fluoksetyna zmniejszała agresję impulsywną w zaburzeniach osobowości.",
+      "sourceExcerpt": "Vetulani 2013: leki zwiększające aktywność 5-HT … zmniejszają agresję.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-19",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Dlaczego dieta bogata w inne duże aminokwasy (np. fenyloalaninę) może sprzyjać agresji?"
+      ],
+      "correct": [
+        "bo utrudniają transport tryptofanu do mózgu"
+      ],
+      "distractors": [
+        "bo zamieniają się w testosteron",
+        "bo zwiększają syntezę serotoniny",
+        "bo pobudzają receptory 5-HT1B",
+        "bo blokują receptory dopaminowe",
+        "bo uszkadzają jądro boczne przegrody",
+        "bo przyspieszają rozkład kortyzolu"
+      ],
+      "explanation": "Duże aminokwasy konkurują z tryptofanem o ten sam transporter.",
+      "sourceExcerpt": "Kalat s. 376–377: inne duże aminokwasy … konkurują z tryptofanem.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-20",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Kastracja samców zwierząt łagodzi je, a iniekcja testosteronu przywraca agresję. Gdzie działa testosteron?"
+      ],
+      "correct": [
+        "w podwzgórzu i polu przedwzrokowym"
+      ],
+      "distractors": [
+        "wyłącznie w mięśniach szkieletowych",
+        "tylko w móżdżku i jego jądrach",
+        "w pierwszorzędowej korze wzrokowej",
+        "wyłącznie w gonadach",
+        "w siatkówce i nerwie wzrokowym",
+        "w rdzeniu przedłużonym"
+      ],
+      "explanation": "Wychwytują go też jądro prążka krańcowego, jądro boczne przegrody i PAG.",
+      "sourceExcerpt": "Sadowski s. 437: testosteron … wychwytywany przez struktury systemu obronnego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-21",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak zmienia się poziom testosteronu u małp walczących o pozycję w grupie?"
+      ],
+      "correct": [
+        "rośnie u zwycięzcy i spada u pokonanego"
+      ],
+      "distractors": [
+        "spada u zwycięzcy i rośnie u pokonanego",
+        "nie zmienia się wcale",
+        "rośnie u obu tak samo",
+        "spada u obu po walce",
+        "zależy wyłącznie od wieku małpy",
+        "rośnie tylko u samic obserwujących walkę"
+      ],
+      "explanation": "Testosteron wiąże się bardziej ze zdobywaniem dominacji niż z samym jej posiadaniem; wyrównuje się przy stabilnej hierarchii.",
+      "sourceExcerpt": "Sadowski s. 437–438: rośnie u zwycięzcy, spada u pokonanego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-22",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Z czym u ludzi testosteron wiąże się najwyraźniej?"
+      ],
+      "correct": [
+        "z dominacją i rywalizacją"
+      ],
+      "distractors": [
+        "z impulsywną agresją wywołaną niskim 5-HT",
+        "z lękiem i unikaniem",
+        "z opiekuńczością wobec potomstwa",
+        "z pamięcią przestrzenną",
+        "z wycofaniem społecznym",
+        "z obniżoną aktywnością fizyczną"
+      ],
+      "explanation": "T rośnie też po zwycięstwie i sukcesie (sport, dyplom); Vetulani pisze o „agresji przemyślanej, dominacyjnej”.",
+      "sourceExcerpt": "Sadowski s. 438–439: testosteron … bardziej z dominacją i rywalizacją.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-23",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "W jakiej postaci testosteron wywołuje większość swoich proagresywnych efektów w mózgu?"
+      ],
+      "correct": [
+        "po aromatyzacji do estradiolu"
+      ],
+      "distractors": [
+        "po przemianie w kortyzol",
+        "po przemianie w serotoninę",
+        "po przemianie w progesteron",
+        "w postaci dopaminy",
+        "po przemianie w tryptofan",
+        "wyłącznie w postaci niezmienionej"
+      ],
+      "explanation": "Testosteron może przejść 5α-reduktazą w dihydrotestosteron lub aromatazą w estradiol (receptory estrogenowe w mózgu).",
+      "sourceExcerpt": "Vetulani 2013: większość proagresywnych efektów testosteronu zachodzi po aromatyzacji.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-24",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak hormony płciowe wpływają na zachowania agresywne?"
+      ],
+      "correct": [
+        "zmieniają prawdopodobieństwo zachowania"
+      ],
+      "distractors": [
+        "wywołują agresję wprost, niezależnie od sytuacji",
+        "działają wyłącznie na mięśnie",
+        "całkowicie blokują serotoninę",
+        "działają tylko u samic",
+        "działają wyłącznie przez korę wzrokową",
+        "nie przenikają do mózgu"
+      ],
+      "explanation": "Hormony nie są przełącznikiem zachowania – modulują je.",
+      "sourceExcerpt": "Vetulani 2013: hormony nie wywołują zachowania wprost … zmieniają prawdopodobieństwo.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-25",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Jak wysoki testosteron i niski 5-HIAA działają razem?"
+      ],
+      "correct": [
+        "T napędza agresję rywalizacyjną, niski 5-HT – impulsywną"
+      ],
+      "distractors": [
+        "znoszą się wzajemnie, więc agresja znika",
+        "oba czynniki zmniejszają skłonność do agresji",
+        "testosteron hamuje impulsywność wywołaną niskim 5-HT",
+        "niski 5-HT obniża testosteron niemal do zera",
+        "oba działają wyłącznie na agresję drapieżną",
+        "oba czynniki wpływają tylko na poziom lęku"
+      ],
+      "explanation": "Kombinacja wysokiego T i niskiego 5-HIAA wiąże się z najcięższą agresją.",
+      "sourceExcerpt": "Vetulani 2013: wysoki testosteron i niski 5-HIAA … działają razem.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-26",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Który hormon wiąże się z agresją ciężarnych samic myszy wobec obcego samca?"
+      ],
+      "correct": [
+        "progesteron"
+      ],
+      "distractors": [
+        "testosteron",
+        "kortyzol",
+        "serotonina",
+        "melatonina",
+        "tyroksyna",
+        "insulina"
+      ],
+      "explanation": "Agresywne są też samice karmiące – obrona potomstwa.",
+      "sourceExcerpt": "Sadowski s. 437: progesteron … agresja ciężarnych samic.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-27",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Dlaczego przed miesiączką może rosnąć drażliwość i skłonność do agresji?"
+      ],
+      "correct": [
+        "z powodu zaburzonej relacji progesteronu i estradiolu"
+      ],
+      "distractors": [
+        "z powodu wzrostu testosteronu do poziomu męskiego",
+        "z powodu braku serotoniny w jelitach",
+        "z powodu wzrostu neurogenezy",
+        "z powodu nadmiaru oksytocyny",
+        "z powodu odwodnienia mózgu",
+        "z powodu uszkodzenia ciała migdałowatego"
+      ],
+      "explanation": "W przypadkach patologicznych opisywano wtedy więcej aktów agresji.",
+      "sourceExcerpt": "Sadowski s. 439: zaburzona relacja progesteronu i estradiolu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-v-agresja-28",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-v-agresja",
+      "stems": [
+        "Dlaczego alkohol może nasilać agresję?"
+      ],
+      "correct": [
+        "bo obniża tryptofan, a więc i serotoninę"
+      ],
+      "distractors": [
+        "bo zwiększa obrót serotoniny",
+        "bo pobudza jądro boczne przegrody",
+        "bo obniża testosteron",
+        "bo pobudza neurogenezę w ciele migdałowatym",
+        "bo blokuje receptory dopaminowe",
+        "bo zwiększa aktywność kory przedczołowej"
+      ],
+      "explanation": "Mniej serotoniny → słabsze hamowanie impulsów.",
+      "sourceExcerpt": "Kalat s. 377: alkohol obniża poziom tryptofanu we krwi.",
+      "difficulty": 2,
+      "status": "ok"
+    }
+  ]
+}

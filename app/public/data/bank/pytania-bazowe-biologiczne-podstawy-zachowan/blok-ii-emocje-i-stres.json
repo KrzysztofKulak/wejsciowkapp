@@ -1,0 +1,822 @@
+{
+  "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+  "bookTitle": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+  "chapterId": "blok-ii-emocje-i-stres",
+  "chapterTitle": "Blok II – emocje i stres",
+  "sourceHash": "10ef0d399909d2d8164f092703493641041f90e1",
+  "questions": [
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-01",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Struktury układu limbicznego tworzące klasyczny „krąg emocjonalny” Papeza to:"
+      ],
+      "correct": [
+        "zakręt obręczy, hipokamp, ciała suteczkowate i jądra przednie wzgórza"
+      ],
+      "distractors": [
+        "ciało migdałowate, wyspa, móżdżek i jądro półleżące",
+        "podwzgórze, przysadka, nadnercza i hipokamp",
+        "kora wzrokowa, wzgórze, ciało kolankowate i hipokamp",
+        "jądra szwu, miejsce sinawe, pole brzuszne nakrywki i prążkowie",
+        "przegroda, zakręty oczodołowe, jądro ogoniaste i skorupa",
+        "móżdżek, most, rdzeń przedłużony i podwzgórze"
+      ],
+      "explanation": "Papez (1937): zakręt obręczy, hipokamp, ciała suteczkowate, jądra przednie wzgórza; MacLean rozszerzył krąg o przegrodę i podwzgórze (układ limbiczny).",
+      "sourceExcerpt": "Sadowski s. 387: Papez zaliczył zakręt obręczy kory mózgu, hipokamp, ciała suteczkowate i jądra przednie wzgórza do tzw. kręgu emocjonalnego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-02",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Pacjent z obustronnym uszkodzeniem tej struktury odczuwa ból, ale bez nieprzyjemnego, awersyjnego charakteru; operacje obejmujące ją zmniejszały lęk. O jaką strukturę chodzi?"
+      ],
+      "correct": [
+        "zakręt obręczy"
+      ],
+      "distractors": [
+        "zakręty oczodołowe",
+        "ciało migdałowate",
+        "podwzgórze",
+        "jądro półleżące",
+        "przegroda przezroczysta",
+        "istota szara okołowodociągowa",
+        "hipokamp",
+        "wyspa"
+      ],
+      "explanation": "Zakręt obręczy steruje reakcjami emocjonalnymi z silnym komponentem lękowym.",
+      "sourceExcerpt": "Sadowski s. 388–389: chorzy … odczuwają bodźce bólowe, lecz pozbawione nieprzyjemnego, awersyjnego charakteru; po operacjach obejmujących zakręt obręczy obserwowano zmniejszenie lęku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-03",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Małpy po uszkodzeniu tej struktury mają odruchy warunkowe wyjątkowo odporne na wygaszanie, a chorzy mają kłopot z przestawieniem się na nową zasadę w Teście Sortowania Kart z Wisconsin. Która to struktura?"
+      ],
+      "correct": [
+        "zakręty oczodołowe"
+      ],
+      "distractors": [
+        "zakręt obręczy",
+        "ciało migdałowate",
+        "podwzgórze",
+        "jądro półleżące",
+        "przegroda przezroczysta",
+        "istota szara okołowodociągowa",
+        "hipokamp",
+        "wyspa"
+      ],
+      "explanation": "Zakręty oczodołowe wygaszają skojarzenia, które utraciły znaczenie biologiczne – dostosowują zachowanie do zmiany wartości bodźców.",
+      "sourceExcerpt": "Sadowski s. 389: rola zakrętów polega nie na tworzeniu nowych asocjacji, lecz na wygaszaniu tych, które nie mają znaczenia biologicznego.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-04",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Obustronne uszkodzenie tej struktury u małp daje łagodność, osłabienie strachu, badanie przedmiotów wargami i jedzenie niejadalnych pokarmów (jak w zespole Klüvera–Bucy'ego). Która to struktura?"
+      ],
+      "correct": [
+        "ciało migdałowate"
+      ],
+      "distractors": [
+        "zakręt obręczy",
+        "podwzgórze",
+        "jądro półleżące",
+        "przegroda przezroczysta",
+        "istota szara okołowodociągowa",
+        "wyspa",
+        "móżdżek",
+        "kora wzrokowa"
+      ],
+      "explanation": "Ciało migdałowate (biegun płata skroniowego) analizuje znaczenie emocjonalne bodźców, zwłaszcza zagrożenie.",
+      "sourceExcerpt": "Sadowski s. 392: obustronne uszkodzenie ciała migdałowatego u małp przypomina zespół, jaki opisali Klüver i Bucy … zwierzęta stają się łagodne.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-05",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Która część istoty szarej okołowodociągowej po pobudzeniu wywołuje znieruchomienie (strach bierny) ze spadkiem ciśnienia i tętna?"
+      ],
+      "correct": [
+        "część brzuszno-boczna"
+      ],
+      "distractors": [
+        "część grzbietowo-boczna",
+        "część przednia grzbietowa",
+        "część środkowa grzbietowa",
+        "jądro przyśrodkowe",
+        "część przyśrodkowa przednia",
+        "część boczna tylna"
+      ],
+      "explanation": "Grzbietowo-boczna: ucieczka lub samoobrona ze wzrostem ciśnienia; brzuszno-boczna: znieruchomienie, spadek ciśnienia i tętna, analgezja opioidowa.",
+      "sourceExcerpt": "Sadowski s. 399: podrażnienie części brzuszno-bocznej powodowało znieruchomienie, obniżenie ciśnienia krwi i zwolnienie częstości skurczów serca.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-06",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Uszkodzenie tej struktury u szczurów nasila pobudliwość emocjonalną i agresję obronną (tzw. zespół przegrodowy). O jaką strukturę chodzi?"
+      ],
+      "correct": [
+        "przegroda przezroczysta"
+      ],
+      "distractors": [
+        "zakręt obręczy",
+        "zakręty oczodołowe",
+        "ciało migdałowate",
+        "podwzgórze",
+        "jądro półleżące",
+        "istota szara okołowodociągowa",
+        "hipokamp",
+        "wyspa"
+      ],
+      "explanation": "Jądra przegrody łączą twór siatkowaty z hipokampem i hamują reakcje obronne.",
+      "sourceExcerpt": "Sadowski s. 395: wykazano, że u szczurów jej uszkodzenie nasila pobudliwość emocjonalną.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-07",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Szlak dopaminergiczny mezolimbiczny biegnie:"
+      ],
+      "correct": [
+        "z pola brzusznego nakrywki do jądra półleżącego"
+      ],
+      "distractors": [
+        "z istoty czarnej do jądra ogoniastego i skorupy",
+        "z miejsca sinawego do kory przedczołowej",
+        "z jąder szwu do hipokampa",
+        "z podwzgórza do przysadki",
+        "z jądra podstawnego Meynerta do kory",
+        "z ciała migdałowatego do podwzgórza"
+      ],
+      "explanation": "Mezolimbiczny (A10 → NAc) – motywacja; mezokortykalny (A10 → kora przedczołowa) – stres, plany; nigrostriatalny (A9 → prążkowie) – ruch.",
+      "sourceExcerpt": "Sadowski s. 397: układ mezolimbiczny rozpoczyna się w jądrze A10, tj. w polu brzusznym nakrywki … jego celem jest jądro półleżące.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-08",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Neurony noradrenergiczne pęczka grzbietowego, unerwiające rozległe obszary mózgu, mają swój początek w:"
+      ],
+      "correct": [
+        "miejscu sinawym"
+      ],
+      "distractors": [
+        "jądrach szwu",
+        "istocie czarnej",
+        "polu brzusznym nakrywki",
+        "jądrze podstawnym Meynerta",
+        "jądrze przykomorowym podwzgórza",
+        "ciele migdałowatym"
+      ],
+      "explanation": "Miejsce sinawe (A6) – główne źródło noradrenaliny w mózgu; jądra szwu – serotonina; VTA i istota czarna – dopamina; jądro Meynerta – acetylocholina.",
+      "sourceExcerpt": "Sadowski s. 397: pęczek noradrenergiczny grzbietowy rozpoczyna się w moście, w jądrze A6, czyli w miejscu sinawym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-09",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Które struktury są aktywniejsze, gdy ktoś rozważa osobisty dylemat moralny (np. czy zepchnąć człowieka z kładki, by uratować pięć osób)?"
+      ],
+      "correct": [
+        "część kory przedczołowej, zakręt obręczy i zakręt kątowy"
+      ],
+      "distractors": [
+        "kora wzrokowa, móżdżek i jądra szwu",
+        "rdzeń przedłużony, most i móżdżek",
+        "kora słuchowa i jądra przedsionkowe",
+        "kora ruchowa, rdzeń i jądra podstawy",
+        "istota czarna, skorupa i gałka blada",
+        "jądra szwu, opuszka węchowa i przysadka"
+      ],
+      "explanation": "Osobiste dylematy angażują obszary emocjonalne; „czujemy” rozstrzygnięcie, a uzasadnienie dorabiamy potem.",
+      "sourceExcerpt": "Kalat s. 357: rozważanie dylematu z kładką lub łodzią ratunkową zwiększa aktywność … części kory przedczołowej, fragmentu zakrętu obręczy i zakrętu kątowego.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-10",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "W zadaniu hazardowym zdrowi badani zaczynają się denerwować przed sięgnięciem do ryzykownej talii i ją porzucają, a osoby z uszkodzeniem kory przedczołowej lub ciała migdałowatego – nie. Dlaczego te osoby podejmują złe decyzje?"
+      ],
+      "correct": [
+        "bo nie potrafią przewidzieć emocjonalnych skutków swoich wyborów"
+      ],
+      "distractors": [
+        "bo nie rozumieją zasad gry i nie umieją liczyć",
+        "bo mają zbyt silny lęk przed każdą stratą",
+        "bo nie pamiętają, z której talii ciągnęły kartę",
+        "bo nie widzą różnicy między taliami",
+        "bo celowo wybierają przegrywanie",
+        "bo mają zaburzenia ruchowe utrudniające wybór"
+      ],
+      "explanation": "Bez sygnału emocjonalnego z ciała („czucia trzewnego”) wiedza o konsekwencjach nie przekłada się na wybór.",
+      "sourceExcerpt": "Kalat s. 358: osoby, które nie są w stanie przewidzieć przyjemności związanych z prawdopodobnym rezultatem ich działań, mają tendencję do podejmowania złych decyzji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-11",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Według teorii Jamesa–Langego:"
+      ],
+      "correct": [
+        "najpierw zachodzi reakcja ciała, a emocja jest spostrzeżeniem tej reakcji"
+      ],
+      "distractors": [
+        "najpierw odczuwamy emocję, która potem wywołuje reakcję ciała",
+        "reakcja ciała i emocja powstają równocześnie i niezależnie",
+        "emocja to nieswoiste pobudzenie plus jego poznawcza etykieta",
+        "emocje powstają wyłącznie w korze, bez udziału ciała",
+        "reakcja ciała nie ma żadnego wpływu na przeżycie emocji",
+        "emocja jest wyuczoną reakcją warunkową na bodziec"
+      ],
+      "explanation": "„Boję się, bo uciekam” – pobudzenie fizjologiczne jest konieczne i wystarczające do emocji.",
+      "sourceExcerpt": "Kalat s. 359: zgodnie z teorią Jamesa-Langego pobudzenie autonomiczne oraz mięśni szkieletowych następuje jako pierwsze; to co odczuwamy jako emocje, jest etykietą, jaką nadajemy naszym reakcjom.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-12",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Która teoria zakłada, że emocja to nieswoiste pobudzenie fizjologiczne plus jego poznawcza interpretacja zależna od sytuacji?"
+      ],
+      "correct": [
+        "dwuczynnikowa teoria Schachtera–Singera"
+      ],
+      "distractors": [
+        "teoria Jamesa–Langego",
+        "teoria Cannona–Barda",
+        "teoria markerów somatycznych Damasia",
+        "teoria kręgu emocjonalnego Papeza",
+        "teoria redukcji popędu Hulla",
+        "teoria wyuczonej bezradności"
+      ],
+      "explanation": "Schachter–Singer: pobudzenie + etykieta poznawcza; Cannon–Bard: reakcja ciała i emocja równocześnie; James–Lange: najpierw ciało.",
+      "sourceExcerpt": "Wiedza ogólna (pytanie z listy: inne hipotezy relacji układu autonomicznego i emocji).",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-13",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Osoby z hipotonią ortostatyczną (brak autonomicznych reakcji narządów) przeżywają emocje słabiej, choć je rozpoznają. Co to pokazuje?"
+      ],
+      "correct": [
+        "że informacja z ciała wzmacnia emocje, ale nie jest ich jedynym źródłem"
+      ],
+      "distractors": [
+        "że emocje w ogóle nie zależą od układu autonomicznego",
+        "że bez reakcji autonomicznych emocje całkowicie znikają",
+        "że emocje powstają tylko w mięśniach szkieletowych",
+        "że hipotonia nasila wszystkie emocje negatywne",
+        "że układ autonomiczny odpowiada za rozpoznawanie twarzy",
+        "że emocje zależą wyłącznie od poziomu kortyzolu"
+      ],
+      "explanation": "To częściowo potwierdza teorię Jamesa–Langego: bez odczuć z ciała zostaje aspekt poznawczy emocji, a słabnie aspekt odczuciowy.",
+      "sourceExcerpt": "Kalat s. 359: odczuwają one takie same emocje, jak każdy inny, jednakże znacznie mniej intensywnie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-14",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Ktoś ma nagłe napady bardzo szybkiego bicia serca i oddechu bez wyraźnej przyczyny i odczuwa je jako skrajny lęk. To przykład:"
+      ],
+      "correct": [
+        "zespołu lęku napadowego – silne pobudzenie współczulne odczytane jako lęk"
+      ],
+      "distractors": [
+        "hipotonii ortostatycznej – brak reakcji autonomicznych",
+        "zespołu zatrzaśnięcia – paraliż przy zachowanej świadomości",
+        "nagłej śmierci voodoo – przywspółczulne zatrzymanie serca",
+        "wyuczonej bezradności – brak kontroli nad stresorem",
+        "napadu absencyjnego – utrata świadomości",
+        "zespołu Klüvera–Bucy'ego – utrata strachu"
+      ],
+      "explanation": "Skrajne pobudzenie autonomiczne jest rozpoznawane jako silny lęk; lęk przed kolejnym napadem i warunkowanie miejscem nasilają zaburzenie.",
+      "sourceExcerpt": "Kalat s. 360: zespół lęku napadowego, którego cechą charakterystyczną jest występowanie stanów skrajnie silnego pobudzenia układu współczulnego, interpretowanego przez daną osobę jako lęk.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-15",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Badani trzymający długopis w zębach (co wymusza uśmiech) oceniają dowcipy jako śmieszniejsze. Który pogląd to wspiera?"
+      ],
+      "correct": [
+        "że reakcja ciała może wpływać na przeżywaną emocję"
+      ],
+      "distractors": [
+        "że emocja zawsze poprzedza reakcję mimiczną",
+        "że ocena humoru zależy wyłącznie od inteligencji",
+        "że mięśnie twarzy nie mają związku z emocjami",
+        "że uśmiech wywołuje głównie emocje negatywne",
+        "że prawa półkula nie bierze udziału w emocjach",
+        "że emocje powstają tylko w podwzgórzu"
+      ],
+      "explanation": "Wymuszony uśmiech zwiększa wesołość – zgodnie z teorią Jamesa–Langego reakcja organizmu wpływa na emocję.",
+      "sourceExcerpt": "Kalat s. 361: doznanie uśmiechu zwiększa wesołość, przynajmniej w tej konkretnej sytuacji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-16",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Obrzydzenie aktywuje głównie:"
+      ],
+      "correct": [
+        "korę wyspy"
+      ],
+      "distractors": [
+        "ciało migdałowate",
+        "zakręt kątowy",
+        "jądro półleżące",
+        "korę wzrokową",
+        "móżdżek",
+        "przegrodę przezroczystą"
+      ],
+      "explanation": "Wyspa to także pierwszorzędowa kora smakowa – obrzydzenie wiąże się ze smakiem; uszkodzenie wyspy upośledza odczuwanie i rozpoznawanie obrzydzenia.",
+      "sourceExcerpt": "Kalat s. 361: przeżycie emocjonalne, które nazywamy obrzydzeniem, aktywuje głównie korę wyspy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-17",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Która półkula silniej reaguje na bodźce emocjonalne i lepiej wyraża oraz rozpoznaje emocje?"
+      ],
+      "correct": [
+        "prawa"
+      ],
+      "distractors": [
+        "lewa",
+        "obie jednakowo",
+        "ta, która jest dominująca dla mowy",
+        "lewa u kobiet, prawa u mężczyzn",
+        "prawa tylko w emocjach pozytywnych",
+        "żadna – emocje powstają tylko w pniu"
+      ],
+      "explanation": "Po inaktywacji prawej półkuli pacjenci pamiętali fakty, ale nie emocje; szczególnie emocje negatywne aktywują prawą półkulę.",
+      "sourceExcerpt": "Kalat s. 362: najwyraźniej prawa półkula jest lepsza nie tylko w wyrażaniu emocji, ale również w rozpoznawaniu emocji u innych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-18",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Które dwa układy aktywuje stres, jeden szybko, drugi wolniej?"
+      ],
+      "correct": [
+        "układ współczulno-nadnerczowy (szybko) i oś podwzgórze–przysadka–nadnercza (wolniej)"
+      ],
+      "distractors": [
+        "oś podwzgórze–przysadka–nadnercza (szybko) i układ współczulny (wolniej)",
+        "układ przywspółczulny (szybko) i tarczycę (wolniej)",
+        "układ piramidowy (szybko) i pozapiramidowy (wolniej)",
+        "układ odpornościowy (szybko) i rdzeń nadnerczy (wolniej)",
+        "układ dopaminergiczny (szybko) i serotoninergiczny (wolniej)",
+        "móżdżek (szybko) i jądra podstawy (wolniej)"
+      ],
+      "explanation": "SAM działa w pierwszej minucie (katecholaminy), HPA po ok. 30 min (kortyzol) i utrzymuje się dłużej.",
+      "sourceExcerpt": "Landowski: układ sympatyczno-nadnerczowy zostaje uruchomiony już w pierwszej minucie reakcji stresowej … układ HPA działa z pewnym opóźnieniem – po ok. 30 min.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-19",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jaka jest właściwa kolejność hormonów w osi stresu (HPA)?"
+      ],
+      "correct": [
+        "CRH z podwzgórza → ACTH z przysadki → kortyzol z kory nadnerczy"
+      ],
+      "distractors": [
+        "ACTH z podwzgórza → CRH z przysadki → kortyzol z kory nadnerczy",
+        "CRH z podwzgórza → kortyzol z przysadki → ACTH z nadnerczy",
+        "adrenalina z podwzgórza → ACTH z przysadki → CRH z nadnerczy",
+        "kortyzol z podwzgórza → ACTH z przysadki → CRH z nadnerczy",
+        "CRH z przysadki → ACTH z podwzgórza → adrenalina z rdzenia nadnerczy",
+        "ACTH z kory nadnerczy → CRH z przysadki → kortyzol z podwzgórza"
+      ],
+      "explanation": "Jądro przykomorowe podwzgórza (CRH, AVP) → przedni płat przysadki (ACTH) → kora nadnerczy (glukokortykoidy, u ludzi kortyzol).",
+      "sourceExcerpt": "Landowski: kaskadę … rozpoczynają kortykoliberyna (CRH) i arginino-wazopresyna … stymulują przysadkę do sekrecji ACTH, który pobudza korę nadnerczy do wydzielania glukokortykoidów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-20",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Adrenalina w reakcji walki lub ucieczki pochodzi głównie z:"
+      ],
+      "correct": [
+        "rdzenia nadnerczy"
+      ],
+      "distractors": [
+        "kory nadnerczy",
+        "przedniego płata przysadki",
+        "jądra przykomorowego podwzgórza",
+        "miejsca sinawego",
+        "tarczycy",
+        "trzustki"
+      ],
+      "explanation": "Neurony współczulne pobudzają komórki chromochłonne rdzenia nadnerczy (acetylocholina, receptory nikotynowe), które wyrzucają adrenalinę do krwi.",
+      "sourceExcerpt": "Landowski: aktywacja układu SAM prowadzi do wzmożonego wydzielania katecholamin (głównie adrenaliny) przez komórki chromafinowe rdzenia nadnerczy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-21",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Który zestaw objawów wywołuje pobudzenie układu współczulno-nadnerczowego w stresie?"
+      ],
+      "correct": [
+        "szybsze tętno, szerokie źrenice, więcej krwi w mięśniach"
+      ],
+      "distractors": [
+        "zwolnienie tętna, zwężenie źrenic, nasilenie trawienia",
+        "spadek glukozy, rozszerzenie naczyń skóry, senność",
+        "wzmożone wydzielanie śliny i soku żołądkowego",
+        "spadek ciśnienia krwi i spowolnienie oddechu",
+        "zwiększenie ukrwienia przewodu pokarmowego i skóry",
+        "obniżenie metabolizmu i magazynowanie energii"
+      ],
+      "explanation": "Organizm szykuje się do walki lub ucieczki; trawienie zostaje zahamowane.",
+      "sourceExcerpt": "Sowa, Tokarski: przyśpieszenie tętna i oddechu, rozszerzają się oskrzela i źrenice … poprawia ukrwienie mięśni szkieletowych, serca i mózgu; spowolnieniu ulega trawienie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-22",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jak kończy się (wygasa) prawidłowa reakcja stresowa osi HPA?"
+      ],
+      "correct": [
+        "kortyzol hamuje podwzgórze i przysadkę (ujemne sprzężenie zwrotne)"
+      ],
+      "distractors": [
+        "adrenalina hamuje wydzielanie kortyzolu w korze nadnerczy",
+        "ACTH przestaje działać, bo wyczerpują się jego zapasy",
+        "układ współczulny wyłącza się po 2 godzinach",
+        "kortyzol pobudza podwzgórze do wydzielania kolejnych porcji CRH",
+        "hipokamp nasila wydzielanie CRH, aż reakcja wygaśnie",
+        "cytokiny wyłączają przysadkę"
+      ],
+      "explanation": "Glukokortykoidy przez receptory GR hamują wyższe piętra osi; prawidłowa wrażliwość GR i proporcja MR/GR warunkują dobre radzenie sobie ze stresem.",
+      "sourceExcerpt": "Landowski: kontrola własnej aktywności osi HPA odbywa się poprzez mechanizm sprzężenia zwrotnego, w którym glukokortykoid poprzez GR hamuje aktywność … przysadki, podwzgórza, czy pośrednio … hipokampie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-23",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Która struktura, przez projekcje do podwzgórza, aktywizuje oś HPA i obwodowy układ współczulny oraz produkuje noradrenalinę w mózgu?"
+      ],
+      "correct": [
+        "miejsce sinawe"
+      ],
+      "distractors": [
+        "jądra szwu",
+        "pole brzuszne nakrywki",
+        "hipokamp",
+        "kora przedczołowa",
+        "wyspa",
+        "istota czarna"
+      ],
+      "explanation": "Ośrodkowy układ noradrenergiczny (miejsce sinawe) i oś HPA wzajemnie się pobudzają; umiarkowana aktywacja poprawia czujność.",
+      "sourceExcerpt": "Landowski: miejsce sinawe … poprzez projekcje do podwzgórza aktywizuje oś HPA oraz pośrednio obwodowy układ sympatyczny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-24",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jaką rolę w reakcji stresowej pełni hipokamp?"
+      ],
+      "correct": [
+        "ocenia kontekst i hamuje oś HPA przez receptory GR"
+      ],
+      "distractors": [
+        "wydziela kortykoliberynę do krwi wrotnej przysadki",
+        "produkuje adrenalinę w rdzeniu nadnerczy",
+        "jako pierwszy rozpoznaje zagrożenie i uruchamia ucieczkę",
+        "produkuje noradrenalinę w pniu mózgu",
+        "uwalnia ACTH do krwiobiegu",
+        "odpowiada za odczuwanie stanu ciała"
+      ],
+      "explanation": "Hipokamp (pamięć) pozwala rozpoznać stresor; jego receptory GR pośrednio hamują sekrecję CRH. Ciało migdałowate rozpoznaje zagrożenie, przysadka uwalnia ACTH.",
+      "sourceExcerpt": "Landowski: hipokamp odgrywa istotną rolę w regulacji czynności osi HPA. Zlokalizowane w nim receptory GR poprzez pośrednie szlaki hamują sekrecję CRH.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-25",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Chorobę nazywamy psychosomatyczną, gdy:"
+      ],
+      "correct": [
+        "wpływają na nią emocje, przeżycia lub osobowość"
+      ],
+      "distractors": [
+        "jej objawy są wymyślone przez chorego",
+        "nie da się znaleźć żadnych zmian w narządach",
+        "wywołuje ją wyłącznie infekcja bakteryjna",
+        "dotyczy tylko układu nerwowego",
+        "leczy się ją wyłącznie psychoterapią",
+        "występuje tylko u osób z zaburzeniami psychicznymi"
+      ],
+      "explanation": "To prawdziwa choroba, nie wyimaginowana; według tej definicji większość chorób ma składnik psychosomatyczny.",
+      "sourceExcerpt": "Kalat s. 364: chorobę nazywamy psychosomatyczną, jeśli na jej wystąpienie mają wpływ osobiste przeżycia, emocje bądź też osobowość.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-26",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jaki mechanizm wiąże stres z owrzodzeniami żołądka u zwierząt?"
+      ],
+      "correct": [
+        "w przerwach po stresie układ przywspółczulny nasila wydzielanie i skurcze żołądka"
+      ],
+      "distractors": [
+        "w czasie stresu układ współczulny nasila wydzielanie soku żołądkowego",
+        "kortyzol bezpośrednio rozpuszcza śluzówkę żołądka",
+        "adrenalina pobudza wzrost bakterii w żołądku",
+        "stres zatrzymuje całkowicie przepływ krwi w żołądku",
+        "układ współczulny nasila skurcze żołądka w czasie stresu",
+        "przywspółczulny hamuje trawienie w czasie stresu"
+      ],
+      "explanation": "Podczas stresu współczulny hamuje żołądek; w przerwie przywspółczulny „odbija” ze zdwojoną siłą – bez pokarmu wydzielina atakuje śluzówkę.",
+      "sourceExcerpt": "Kalat s. 364–365: w czasie przerwy, poprzednio tłumiony wpływ przywspółczulnego układu nerwowego na żołądek, powraca ze zdwojoną siłą.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-27",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Szczur, który może unikać wstrząsów, ma mniej owrzodzeń niż jego partner otrzymujący te same wstrząsy bez możliwości ich kontrolowania. Co to pokazuje?"
+      ],
+      "correct": [
+        "że brak kontroli nad stresorem szkodzi bardziej niż sam stresor"
+      ],
+      "distractors": [
+        "że sama liczba wstrząsów decyduje o owrzodzeniach",
+        "że unikanie wstrząsów zawsze powoduje więcej owrzodzeń",
+        "że owrzodzenia zależą wyłącznie od bakterii",
+        "że stres nie ma wpływu na układ pokarmowy",
+        "że kontrola nad stresorem zwiększa wydzielanie kortyzolu",
+        "że owrzodzenia powstają tylko w czasie trwania wstrząsów"
+      ],
+      "explanation": "Oba szczury dostają wstrząsy w tym samym czasie i z tą samą siłą; różni je tylko kontrola.",
+      "sourceExcerpt": "Kalat s. 364: u szczurów pozbawionych kontroli nad wstrząsami rozwinęło się więcej owrzodzeń … niż u tych, które mogły kontrolować wstrząsy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-28",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Odkrycie Helicobacter pylori zmieniło pogląd na wrzody. Jak dziś tłumaczy się ich powstawanie?"
+      ],
+      "correct": [
+        "jako łączny skutek H. pylori, stresu i drażniących leków"
+      ],
+      "distractors": [
+        "wyłącznie jako skutek zakażenia bakterią",
+        "wyłącznie jako skutek przewlekłego stresu",
+        "jako skutek nadmiernej aktywności współczulnej w czasie stresu",
+        "jako chorobę dziedziczną niezależną od środowiska",
+        "jako skutek niedoboru kortyzolu",
+        "jako skutek zbyt małego wydzielania soku żołądkowego"
+      ],
+      "explanation": "Bakteria jest warunkiem (prawie) koniecznym, ale nie wystarczającym.",
+      "sourceExcerpt": "Kalat s. 365: wrzody powstają na skutek połączonego wpływu Helicobacter pylori, ostatnio przebytego stresu, historii przebytych sytuacji stresowych oraz używania leków drażniących.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-29",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jak krótkotrwały i długotrwały stres wpływają na odporność?"
+      ],
+      "correct": [
+        "krótkotrwały chwilowo ją wzmacnia, długotrwały ją osłabia"
+      ],
+      "distractors": [
+        "krótkotrwały ją osłabia, długotrwały wzmacnia",
+        "oba zawsze ją wzmacniają",
+        "oba zawsze ją osłabiają w tym samym stopniu",
+        "żaden nie ma wpływu na odporność",
+        "krótkotrwały nie działa, długotrwały ją wzmacnia",
+        "krótkotrwały powoduje choroby autoimmunologiczne, długotrwały nie"
+      ],
+      "explanation": "Krótkie pobudzenie SAM i HPA wzmacnia odporność; przewlekły kortyzol kieruje energię od syntezy białek (także odpornościowych) – spada liczba limfocytów i NK.",
+      "sourceExcerpt": "Kalat s. 369: krótkotrwałe pobudzenie któregokolwiek z tych systemów wzmacnia odpowiedź immunologiczną … szkodliwy jest długotrwały lęk, gniew lub stres.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-30",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Dlaczego przewlekły stres sprzyja jednocześnie infekcjom i alergiom (chorobom autoimmunologicznym)?"
+      ],
+      "correct": [
+        "bo wysoki kortyzol przesuwa odpowiedź odpornościową z typu Th1 na Th2"
+      ],
+      "distractors": [
+        "bo kortyzol pobudza wszystkie typy limfocytów naraz",
+        "bo adrenalina niszczy przeciwciała we krwi",
+        "bo stres całkowicie wyłącza układ odpornościowy",
+        "bo przewlekły stres obniża poziom kortyzolu do zera",
+        "bo cytokiny przestają być wydzielane w czasie stresu",
+        "bo stres przesuwa odpowiedź z typu Th2 na Th1"
+      ],
+      "explanation": "Th1 – obrona przeciwwirusowa i przeciwbakteryjna (słabnie → infekcje); Th2 – odpowiedź humoralna, alergie (rośnie).",
+      "sourceExcerpt": "Sowa, Tokarski: wywołane chronicznym stresem duże stężenie glukokortykoidów nasila odpowiedź typu Th2 … równocześnie wyciszają reakcje z udziałem limfocytów Th1.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-31",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Gorączka, senność, brak apetytu i spadek popędu seksualnego w czasie choroby to tzw. zachowanie chorobowe. Co je wywołuje?"
+      ],
+      "correct": [
+        "cytokiny działające na mózg przez nerw błędny"
+      ],
+      "distractors": [
+        "adrenalina wydzielana przez rdzeń nadnerczy",
+        "bezpośrednie działanie wirusów na korę mózgu",
+        "brak kortyzolu we krwi chorego",
+        "nadmiar noradrenaliny z miejsca sinawego",
+        "serotonina wydzielana przez jądra szwu",
+        "dopamina uwalniana w jądrze półleżącym"
+      ],
+      "explanation": "Cytokiny układu odpornościowego informują mózg o chorobie; te zachowania pomagają walczyć z infekcją i oszczędzać energię.",
+      "sourceExcerpt": "Kalat s. 367–368: cytokiny działające na obwodzie pobudzają nerw błędny, który przekazuje informację do komórek w podwzgórzu i hipokampie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-32",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Jak przewlekle podwyższony kortyzol wpływa na pamięć?"
+      ],
+      "correct": [
+        "uwrażliwia hipokamp na uszkodzenie i osłabia pamięć"
+      ],
+      "distractors": [
+        "trwale poprawia pamięć długotrwałą",
+        "nie ma żadnego wpływu na hipokamp",
+        "zwiększa liczbę neuronów w hipokampie",
+        "działa wyłącznie na pamięć proceduralną",
+        "wzmacnia pamięć roboczą w korze przedczołowej",
+        "chroni hipokamp przed nadmiernym pobudzeniem"
+      ],
+      "explanation": "Błędne koło: uszkodzony hipokamp słabiej hamuje oś HPA → więcej kortyzolu → dalsze uszkodzenie; stres hamuje też neurogenezę.",
+      "sourceExcerpt": "Kalat s. 369: utrzymujący się długo podwyższony poziom kortyzolu powoduje wzrost wrażliwości neuronów hipokampa tak, że mogą one ulec zniszczeniu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-33",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Czym poziom kortyzolu u osób z zespołem stresu pourazowego (PTSD) różni się od typowej reakcji stresowej?"
+      ],
+      "correct": [
+        "jest niższy niż w normie"
+      ],
+      "distractors": [
+        "jest stale bardzo wysoki",
+        "jest taki sam jak u osób zdrowych",
+        "rośnie dopiero po kilku latach",
+        "zmienia się wyłącznie w nocy",
+        "jest wysoki tylko u kobiet",
+        "zanika całkowicie po urazie"
+      ],
+      "explanation": "Zwykły stres podnosi kortyzol; w PTSD jest on obniżony – być może osoby z niskim kortyzolem gorzej radzą sobie ze stresem.",
+      "sourceExcerpt": "Kalat s. 370: osoby z PTSD mają niższy niż w normie poziom kortyzolu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-34",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Większość zawałów serca wywołanych silnymi emocjami wiąże się z:"
+      ],
+      "correct": [
+        "nadmierną aktywnością układu współczulnego zaburzającą rytm serca"
+      ],
+      "distractors": [
+        "nadmierną aktywnością układu przywspółczulnego zatrzymującą serce",
+        "niedoborem kortyzolu we krwi w czasie stresu",
+        "spadkiem ciśnienia krwi podczas stresu",
+        "zbyt niskim poziomem adrenaliny we krwi",
+        "zahamowaniem osi podwzgórze–przysadka–nadnercza",
+        "nadmiarem cytokin prozapalnych w mózgu"
+      ],
+      "explanation": "Przywspółczulne hamowanie serca (jak w „śmierci voodoo” u szczurów Richtera) odpowiada za niewielki odsetek nagłych zgonów.",
+      "sourceExcerpt": "Kalat s. 366: większość zawałów serca następuje wtedy, gdy nadmierna aktywność układu współczulnego zaburza prawidłową rytmiczną czynność serca.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-ii-emocje-i-stres-35",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-ii-emocje-i-stres",
+      "stems": [
+        "Który czynnik według badań wiąże się z niższym ciśnieniem i rzadszą chorobą serca?"
+      ],
+      "correct": [
+        "silne wsparcie społeczne"
+      ],
+      "distractors": [
+        "wrogie usposobienie",
+        "częste mimiczne wyrazy złości",
+        "samotność",
+        "przewlekle wysoki kortyzol",
+        "nieudane małżeństwo",
+        "brak kontroli nad stresorem"
+      ],
+      "explanation": "Wsparcie społeczne prawdopodobnie łagodzi nadmierne pobudzenie współczulne; wrogość wiąże się z chorobą wieńcową (dane korelacyjne).",
+      "sourceExcerpt": "Kalat s. 365–366: osoby mające silne wsparcie społeczne … z reguły mają niskie ciśnienie i małą częstość bicia serca.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

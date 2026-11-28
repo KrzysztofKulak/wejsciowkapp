@@ -1,0 +1,1251 @@
+{
+  "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+  "bookTitle": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+  "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+  "chapterTitle": "Blok IV – neuroplastyczność i pamięć",
+  "sourceHash": "4c486e64d9179e8f5075ed5169b77e772774de93",
+  "questions": [
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-01",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Jaki mechanizm uszkadza mózg przy zamkniętym urazie głowy (bez przebicia czaszki)?"
+      ],
+      "correct": [
+        "siły skrętne dociskające mózg do czaszki oraz zakrzepy"
+      ],
+      "distractors": [
+        "wyłącznie zatkanie tętnicy przez zakrzep",
+        "zniszczenie mieliny przez układ odpornościowy",
+        "niedobór tiaminy w diecie",
+        "zwyrodnienie neuronów dopaminergicznych",
+        "nadmiar kortyzolu w przewlekłym stresie",
+        "wzrost guza w płacie czołowym"
+      ],
+      "explanation": "Zamknięty uraz głowy to najczęstsza przyczyna uszkodzeń mózgu u młodych ludzi (wypadki, sport, upadki).",
+      "sourceExcerpt": "Kalat s. 125–126: siły skrętne … dociskają mózg do kości czaszki; zakrzepy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-02",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Czym różni się udar niedokrwienny od krwotocznego?"
+      ],
+      "correct": [
+        "niedokrwienny to zatkanie tętnicy, krwotoczny to pęknięcie naczynia"
+      ],
+      "distractors": [
+        "niedokrwienny to pęknięcie naczynia, krwotoczny to zatkanie tętnicy",
+        "niedokrwienny dotyczy tylko rdzenia, krwotoczny tylko mózgu",
+        "niedokrwienny wywołują bakterie, krwotoczny wirusy",
+        "niedokrwienny jest rzadszy i występuje głównie u dzieci",
+        "oba polegają na pęknięciu naczynia w różnych płatach",
+        "niedokrwienny to wstrząśnienie mózgu po upadku"
+      ],
+      "explanation": "Częstszy jest niedokrwienny; tPA (rozpuszcza zakrzep) można podać tylko w nim.",
+      "sourceExcerpt": "Kalat s. 126: udar niedokrwienny … zatkanie tętnicy; udar krwotoczny … pęknięcie tętnicy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-03",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Które komórki w udarze można jeszcze uratować?"
+      ],
+      "correct": [
+        "komórki półcienia (penumbry)"
+      ],
+      "distractors": [
+        "komórki w samym ognisku udaru",
+        "wyłącznie neurony móżdżku",
+        "komórki glejowe usuwające martwe neurony",
+        "neurony, które już przeszły apoptozę",
+        "komórki z drugiej półkuli mózgu",
+        "tylko komórki rdzenia kręgowego"
+      ],
+      "explanation": "Komórki ogniska giną szybko; ochrona penumbry to cel leczenia.",
+      "sourceExcerpt": "Kalat s. 126: komórki w obszarze półcienia … giną w ciągu kilku dni lub tygodni.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-04",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego w udarze nadmiar glutaminianu zabija neurony?"
+      ],
+      "correct": [
+        "bo napływ Ca²⁺ do przestymulowanych neuronów niszczy je"
+      ],
+      "distractors": [
+        "bo blokuje wszystkie receptory i neurony przestają działać",
+        "bo obniża stężenie potasu poza komórką",
+        "bo hamuje wydzielanie dopaminy",
+        "bo zamienia się w GABA i hamuje oddychanie",
+        "bo zwiększa wytwarzanie mieliny",
+        "bo pobudza wyłącznie komórki glejowe"
+      ],
+      "explanation": "To ekscytotoksyczność. Utrata energii pompy Na⁺/K⁺ → potas na zewnątrz → odwrócenie transporterów glutaminianu.",
+      "sourceExcerpt": "Kalat s. 126–127: nadmiar glutaminianu nadmiernie pobudza neurony … wapń … blokują mitochondria.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-05",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego w udarze rośnie stężenie glutaminianu poza neuronami?"
+      ],
+      "correct": [
+        "bo brak energii odwraca transportery glutaminianu"
+      ],
+      "distractors": [
+        "bo neurony wytwarzają więcej glutaminianu z glukozy",
+        "bo glej przestaje rozkładać dopaminę",
+        "bo krew zawiera duże ilości glutaminianu",
+        "bo receptory NMDA zamieniają się w transportery",
+        "bo tPA uwalnia glutaminian z zakrzepu",
+        "bo spada stężenie potasu na zewnątrz komórek"
+      ],
+      "explanation": "Na zewnątrz gromadzi się potas; transportery zamiast wychwytywać – wypompowują glutaminian.",
+      "sourceExcerpt": "Kalat s. 126: gromadzenie się potasu … odwraca kierunek działania transporterów … uwalniając glutaminian.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-06",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Która z metod jest skuteczna w ograniczaniu skutków udaru niedokrwiennego?"
+      ],
+      "correct": [
+        "jak najszybsze podanie tPA"
+      ],
+      "distractors": [
+        "okrycie chorego ciepłym kocem",
+        "podanie haloperydolu w pierwszej dobie",
+        "podanie leków uspokajających",
+        "podanie tPA w udarze krwotocznym",
+        "podawanie MK-801 kilka tygodni po udarze",
+        "ogrzewanie mózgu do 39°C"
+      ],
+      "explanation": "Skuteczne jest też schłodzenie mózgu; ogrzewanie i leki uspokajające szkodzą; tPA w krwotocznym pogorszyłoby krwawienie.",
+      "sourceExcerpt": "Kalat s. 127: tkankowy aktywator plazminogenu (tPA) … jak najszybciej; schłodzenie mózgu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-07",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pacjent po udarze leży na ostrym dyżurze. Które działanie, wbrew intuicji, może mu pomóc?"
+      ],
+      "correct": [
+        "schłodzenie mózgu zamiast okrywania kocem"
+      ],
+      "distractors": [
+        "ogrzewanie ciała, by przyspieszyć krążenie",
+        "podanie środków uspokajających",
+        "podanie haloperydolu",
+        "długie unieruchomienie bez rehabilitacji",
+        "nawadnianie roztworem glutaminianu",
+        "zablokowanie kanałów potasowych"
+      ],
+      "explanation": "Obniżenie temperatury mózgu zmniejsza metabolizm i chroni neurony – to jedna z najskuteczniejszych metod.",
+      "sourceExcerpt": "Kalat s. 127: schłodzenie mózgu … do 33–36°C przez pierwsze 3 dni.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-08",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego bloker receptorów NMDA (MK-801) po udarze pomaga tylko, gdy zostanie podany wcześnie?"
+      ],
+      "correct": [
+        "bo później neurony giną z braku stymulacji"
+      ],
+      "distractors": [
+        "bo później MK-801 zamienia się w glutaminian",
+        "bo receptory NMDA znikają w ciągu godziny",
+        "bo później zakrzep się powiększa",
+        "bo MK-801 działa tylko u dzieci",
+        "bo później w mózgu brakuje wapnia",
+        "bo MK-801 rozpuszcza zakrzep tylko na początku"
+      ],
+      "explanation": "Na początku zagrożeniem jest nadmiar glutaminianu, później apoptoza z braku stymulacji.",
+      "sourceExcerpt": "Kalat s. 127: w późniejszej fazie neurony giną także w wyniku niedostatecznej stymulacji.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-09",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pacjent z zachowanym tylko centralnym polem widzenia uczy się częściej poruszać głową i radzi sobie lepiej. To przykład:"
+      ],
+      "correct": [
+        "wyuczonego mechanizmu kompensacyjnego"
+      ],
+      "distractors": [
+        "regeneracji uszkodzonych neuronów kory",
+        "nadwrażliwości odnerwieniowej",
+        "pączkowania kolaterali",
+        "diaschizy w korze wzrokowej",
+        "neurogenezy w siatkówce",
+        "ekscytotoksyczności"
+      ],
+      "explanation": "Większość poprawy po urazie to lepsze wykorzystanie zachowanych zdolności, a nie odbudowa uszkodzonego obszaru.",
+      "sourceExcerpt": "Kalat s. 128: większość z odzyskanych zachowań to wynik nauczenia się lepszego wykorzystania zachowanych zdolności.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-10",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Małpa z odciętym czuciem w jednej kończynie przedniej przestaje jej używać, a po odcięciu czucia w obu zaczyna używać obu. Co to pokazuje?"
+      ],
+      "correct": [
+        "że funkcja była upośledzona, a nie utracona"
+      ],
+      "distractors": [
+        "że czucie w kończynach odrosło po drugiej operacji",
+        "że deaferentacja wywołuje paraliż mięśni",
+        "że druga kończyna przejęła reprezentację pierwszej",
+        "że ruch wymaga zawsze informacji czuciowej",
+        "że uszkodzenie wywołało diaschizę",
+        "że małpa nauczyła się chodzić na tylnych łapach"
+      ],
+      "explanation": "Dlatego rehabilitacja zmusza do używania upośledzonej funkcji (np. unieruchomienie zdrowej ręki).",
+      "sourceExcerpt": "Kalat s. 128–129: po deaferentacji obu kończyn … zaczęła używać obu – chodziła, wspinała się, chwytała rodzynki.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-11",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Po co w rehabilitacji po udarze unieruchamia się zdrową rękę?"
+      ],
+      "correct": [
+        "żeby zmusić chorego do ćwiczenia upośledzonej funkcji"
+      ],
+      "distractors": [
+        "żeby zapobiec diaschizie w zdrowej półkuli",
+        "żeby spowolnić neurogenezę",
+        "żeby zmniejszyć ekscytotoksyczność",
+        "żeby zdrowa ręka odpoczęła przed ćwiczeniami",
+        "żeby wywołać nadwrażliwość odnerwieniową",
+        "żeby zatrzymać pączkowanie kolaterali"
+      ],
+      "explanation": "Chory często nie używa upośledzonej ręki, bo tak łatwiej; wymuszone ćwiczenie poprawia jej sprawność.",
+      "sourceExcerpt": "Kalat s. 129: zmuszanie do ćwiczenia upośledzonych funkcji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-12",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Diaschiza to:"
+      ],
+      "correct": [
+        "spadek aktywności zdrowych obszarów połączonych z uszkodzonym"
+      ],
+      "distractors": [
+        "odrastanie aksonu wzdłuż osłonki mielinowej",
+        "wytwarzanie dodatkowych receptorów przez odnerwioną komórkę",
+        "powstawanie nowych neuronów w hipokampie",
+        "zajmowanie wolnych synaps przez sąsiednie aksony",
+        "obumieranie komórek w ognisku udaru",
+        "przesunięcie map korowych po amputacji"
+      ],
+      "explanation": "Część objawów po urazie wynika z „wyłączenia” obszarów odległych od ogniska.",
+      "sourceExcerpt": "Kalat s. 129: diaschiza – zmniejszenie aktywności nieuszkodzonych obszarów mózgu w wyniku utraty stymulacji z obszaru uszkodzonego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-13",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego amfetamina połączona z ćwiczeniami może przyspieszać powrót do zdrowia po uszkodzeniu mózgu?"
+      ],
+      "correct": [
+        "bo pobudza obszary osłabione przez diaschizę"
+      ],
+      "distractors": [
+        "bo odbudowuje zniszczone ciała neuronów",
+        "bo uspokaja chorego i zmniejsza stres",
+        "bo blokuje wydzielanie dopaminy",
+        "bo rozpuszcza zakrzepy",
+        "bo hamuje pączkowanie kolaterali",
+        "bo zwiększa ekscytotoksyczność w ognisku"
+      ],
+      "explanation": "Leki uspokajające i haloperydol działają odwrotnie i utrudniają poprawę.",
+      "sourceExcerpt": "Kalat s. 129: amfetamina … wraz z ćwiczeniem … przyspiesza powrót do zdrowia; haloperydol … opóźnia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-14",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Co dzieje się po zniszczeniu ciała komórki neuronu u dorosłego ssaka?"
+      ],
+      "correct": [
+        "nie zostaje ono zastąpione nowym neuronem"
+      ],
+      "distractors": [
+        "zostaje zastąpione nowym neuronem z tej samej okolicy",
+        "zastępuje je komórka glejowa, która przejmuje funkcję neuronu",
+        "odrasta w ciągu kilku tygodni",
+        "dzieli się na dwa mniejsze neurony",
+        "zamienia się w neuron hamujący",
+        "odtwarza się z osłonki mielinowej"
+      ],
+      "explanation": "Regenerować się może tylko akson (zwłaszcza w PNS).",
+      "sourceExcerpt": "Kalat s. 130: zniszczone ciało komórki nie zostaje zastąpione.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-15",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego uszkodzone aksony w obwodowym układzie nerwowym odrastają, a w ośrodkowym (u ssaków) – prawie wcale?"
+      ],
+      "correct": [
+        "bo w OUN mielina i blizna glejowa hamują wzrost aksonów"
+      ],
+      "distractors": [
+        "bo w OUN aksony są krótsze i nie potrzebują odrastania",
+        "bo w PNS nie ma osłonek mielinowych",
+        "bo w OUN neurony dzielą się zamiast odrastać",
+        "bo w PNS aksony odrastają tylko po przecięciu, nie po zmiażdżeniu",
+        "bo w OUN nie ma komórek glejowych",
+        "bo aksony w PNS nie mają synaps"
+      ],
+      "explanation": "Blizna glejowa to bariera mechaniczna i źródło proteoglikanów hamujących wzrost; u ryb OUN się regeneruje.",
+      "sourceExcerpt": "Kalat s. 131–132: mielina w OUN zawiera białka hamujące wzrost aksonów; blizna … proteoglikany siarczanu chondroityny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-16",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Po przecięciu nerwu twarzowego powieka pacjenta otwiera się, gdy patrzy on w dół. Co się stało?"
+      ],
+      "correct": [
+        "odrastające aksony trafiły do niewłaściwego mięśnia"
+      ],
+      "distractors": [
+        "doszło do diaschizy w korze ruchowej",
+        "w mózgu powstały nowe neurony ruchowe",
+        "receptory w mięśniu stały się nadwrażliwe",
+        "nastąpiła reorganizacja mapy w korze wzrokowej",
+        "akson nie odrósł i mięsień zanikł",
+        "w mięśniu wytworzyła się blizna glejowa"
+      ],
+      "explanation": "Po przecięciu (nie zmiażdżeniu) osłonka może się zrosnąć nieprawidłowo i akson trafia do złego celu.",
+      "sourceExcerpt": "Kalat s. 131: jeśli nerw zostanie przecięty … aksony mogą dotrzeć do niewłaściwego mięśnia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-17",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pączkowanie kolaterali polega na tym, że:"
+      ],
+      "correct": [
+        "zdrowe aksony obok zajmują synapsy uszkodzonego aksonu"
+      ],
+      "distractors": [
+        "odnerwiona komórka wytwarza więcej receptorów",
+        "uszkodzony akson odrasta wzdłuż osłonki mielinowej",
+        "z komórek macierzystych powstają nowe neurony",
+        "zdrowe obszary mózgu tracą aktywność po uszkodzeniu",
+        "neuron zamienia się w komórkę glejową",
+        "akson ulega mielinizacji po raz drugi"
+      ],
+      "explanation": "Sygnałem są neurotrofiny wydzielane przez odnerwioną komórkę; skutek bywa korzystny lub szkodliwy.",
+      "sourceExcerpt": "Kalat s. 132: aksony sąsiednich neuronów wypuszczają odgałęzienia (kolaterale) i zajmują wolne miejsca synaptyczne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-18",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Po zniszczeniu aksonów dopaminowych (6-OHDA) neuron docelowy zaczyna silniej reagować na resztki dopaminy, bo wytwarza więcej receptorów D2. To:"
+      ],
+      "correct": [
+        "nadwrażliwość odnerwieniowa"
+      ],
+      "distractors": [
+        "pączkowanie kolaterali",
+        "diaschiza",
+        "ekscytotoksyczność",
+        "długotrwałe wzmocnienie synaptyczne",
+        "neurogeneza",
+        "habituacja"
+      ],
+      "explanation": "Nadwrażliwość odnerwieniowa to zmiana w receptorach, pączkowanie kolaterali – w aksonach.",
+      "sourceExcerpt": "Kalat s. 133: nadwrażliwość odnerwieniowa … komórka … zwiększa liczbę receptorów.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-19",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Czym różni się pączkowanie kolaterali od nadwrażliwości odnerwieniowej?"
+      ],
+      "correct": [
+        "pierwsze zmienia aksony, drugie – receptory"
+      ],
+      "distractors": [
+        "pierwsze to zmiana w receptorach, drugie – w aksonach",
+        "pierwsze zachodzi tylko w PNS, drugie tylko w OUN",
+        "pierwsze to powstawanie nowych neuronów, drugie – ich śmierć",
+        "pierwsze dotyczy tylko kory, drugie tylko móżdżku",
+        "obydwa polegają na odrastaniu tego samego aksonu",
+        "pierwsze to obrzęk, drugie to blizna glejowa"
+      ],
+      "explanation": "W obu przypadkach odnerwiona komórka odzyskuje pobudzenie, ale różnymi drogami.",
+      "sourceExcerpt": "Kalat s. 132–133: pączkowanie kolaterali … nadwrażliwość odnerwieniowa.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-20",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "U skrzypków reprezentacja palców lewej ręki w korze somatosensorycznej jest większa niż u osób niegrających. Co to pokazuje?"
+      ],
+      "correct": [
+        "że mapy korowe zmieniają się pod wpływem doświadczenia"
+      ],
+      "distractors": [
+        "że mapy korowe są ustalone od urodzenia",
+        "że gra na instrumencie wywołuje neurogenezę w móżdżku",
+        "że prawa ręka traci reprezentację",
+        "że muzycy mają uszkodzoną korę ruchową",
+        "że reprezentacja zależy tylko od wielkości dłoni",
+        "że doświadczenie zmienia tylko korę wzrokową"
+      ],
+      "explanation": "Podobnie korektorzy Braille'a mają powiększoną reprezentację palca wskazującego.",
+      "sourceExcerpt": "Kalat s. 134: … muzyków grających na instrumentach smyczkowych – większa reprezentacja palców lewej dłoni.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-21",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Po deaferentacji całej kończyny przedniej u małpy obszar kory „ręki” po latach reagował na dotyk:"
+      ],
+      "correct": [
+        "twarzy"
+      ],
+      "distractors": [
+        "stopy",
+        "pleców",
+        "drugiej ręki",
+        "brzucha",
+        "uda",
+        "pośladka"
+      ],
+      "explanation": "Reprezentacja twarzy sąsiaduje z reprezentacją ręki; aksony z twarzy wypuściły odgałęzienia, a słabe synapsy się wzmocniły.",
+      "sourceExcerpt": "Kalat s. 135: obszar odpowiadający ręce … reagował na dotyk twarzy.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-22",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dotyk twarzy osoby po amputacji ręki wywołuje u niej czucie w nieistniejącej dłoni. Jak to wyjaśnić?"
+      ],
+      "correct": [
+        "obszar ręki w korze zajęła reprezentacja twarzy"
+      ],
+      "distractors": [
+        "w kikucie odrosły receptory dotyku",
+        "nerwy twarzy wrosły do kikuta",
+        "pacjent wyobraża sobie dotyk z powodu stresu",
+        "kora wzrokowa przejęła funkcję kory czuciowej",
+        "reprezentacja ręki przeniosła się do móżdżku",
+        "nerw twarzowy połączył się z rdzeniem szyjnym"
+      ],
+      "explanation": "Im większa reorganizacja kory, tym silniejsze doznania fantomowe.",
+      "sourceExcerpt": "Kalat s. 135–136: dotyk twarzy wywoływał wrażenia w fantomowej dłoni.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-23",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Jak zmniejsza się nasilenie doznań w kończynie fantomowej?"
+      ],
+      "correct": [
+        "używanie protezy lub przeszczep dłoni"
+      ],
+      "distractors": [
+        "długie unieruchomienie kikuta",
+        "podanie haloperydolu",
+        "usunięcie reprezentacji twarzy z kory",
+        "ograniczenie dotyku twarzy",
+        "zwiększenie reorganizacji kory",
+        "wywołanie diaschizy w korze ruchowej"
+      ],
+      "explanation": "Pomaga też terapia lustrem – odbicie zdrowej ręki „rozluźnia” fantomową pięść.",
+      "sourceExcerpt": "Kalat s. 136: osoby używające protezy … doznania fantomowe słabną.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-24",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "W których strukturach dorosłego mózgu ssaków dobrze udokumentowano neurogenezę?"
+      ],
+      "correct": [
+        "w zakręcie zębatym i opuszkach węchowych"
+      ],
+      "distractors": [
+        "w móżdżku i rdzeniu przedłużonym",
+        "w korze wzrokowej i ruchowej",
+        "w jądrze półleżącym i istocie czarnej",
+        "w ciele modzelowatym i torebce wewnętrznej",
+        "w przysadce i szyszynce",
+        "w siatkówce i nerwie wzrokowym"
+      ],
+      "explanation": "Nowe komórki powstają w warstwie podziarnistej zakrętu zębatego (SGZ) i w strefie podkomorowej (SVZ), skąd wędrują do opuszek węchowych.",
+      "sourceExcerpt": "Latacz 2014: neurogeneza … w zakręcie zębatym hipokampa oraz w opuszkach węchowych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-25",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Skąd biorą się nowe neurony opuszek węchowych dorosłego ssaka?"
+      ],
+      "correct": [
+        "ze strefy podkomorowej komór bocznych"
+      ],
+      "distractors": [
+        "z warstwy podziarnistej zakrętu zębatego",
+        "z komórek glejowych samych opuszek",
+        "z rdzenia kręgowego",
+        "z kory przedczołowej",
+        "z nabłonka węchowego w nosie, przez blaszkę sitową",
+        "z podziału dojrzałych neuronów opuszki"
+      ],
+      "explanation": "SVZ → opuszki węchowe; SGZ → warstwa ziarnista zakrętu zębatego.",
+      "sourceExcerpt": "Latacz 2014: strefa podkomorowa (SVZ) … donosowy strumień migracji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-26",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Który czynnik stymuluje neurogenezę w dorosłym mózgu?"
+      ],
+      "correct": [
+        "umiarkowana aktywność fizyczna"
+      ],
+      "distractors": [
+        "przewlekły stres",
+        "przewlekły brak snu",
+        "wysoki poziom glukokortykoidów",
+        "starzenie się organizmu",
+        "niedobór cynku w diecie",
+        "przewlekle wysokie dawki kofeiny"
+      ],
+      "explanation": "Stymulują też wzbogacone środowisko, ograniczenie kalorii, BDNF, estrogeny i leki przeciwdepresyjne.",
+      "sourceExcerpt": "Latacz 2014: aktywność fizyczna (bieganie) … stymuluje neurogenezę.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-27",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Który czynnik hamuje neurogenezę w dorosłym mózgu?"
+      ],
+      "correct": [
+        "stres i glukokortykoidy"
+      ],
+      "distractors": [
+        "wzbogacone środowisko",
+        "leki przeciwdepresyjne z grupy SSRI",
+        "czynnik BDNF",
+        "ograniczenie kalorii",
+        "kwasy omega-3",
+        "estradiol"
+      ],
+      "explanation": "Hamują też brak snu, starzenie się, testosteron i niektóre leki (np. inhibitory COX-2).",
+      "sourceExcerpt": "Latacz 2014: stres i glukokortykoidy … hamują neurogenezę.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-28",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Która pamięć ma małą pojemność, zanika bez powtarzania, a zapomnianej informacji nie przywrócą żadne wskazówki?"
+      ],
+      "correct": [
+        "krótkotrwała"
+      ],
+      "distractors": [
+        "długotrwała",
+        "deklaratywna",
+        "proceduralna",
+        "epizodyczna",
+        "semantyczna",
+        "niejawna"
+      ],
+      "explanation": "Długotrwała ma ogromną pojemność, a wskazówki pomagają ją przywołać.",
+      "sourceExcerpt": "Kalat s. 391–392: pamięć krótkotrwała … zapomnianych informacji nie przywrócą żadne wskazówki.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-29",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pamięć operacyjna (robocza) to:"
+      ],
+      "correct": [
+        "chwilowe przechowywanie i obróbka bieżących danych"
+      ],
+      "distractors": [
+        "trwałe przechowywanie faktów przez wiele lat",
+        "pamięć umiejętności ruchowych i nawyków",
+        "ślad bodźca w narządzie zmysłu",
+        "pamięć zdarzeń z własnego życia",
+        "pamięć wyuczonych odruchów warunkowych",
+        "ogólna wiedza o świecie i znaczeniach słów"
+      ],
+      "explanation": "Składowe: pętla fonologiczna, notes wzrokowo-przestrzenny, centralny system wykonawczy; zależy od grzbietowo-bocznej kory przedczołowej.",
+      "sourceExcerpt": "Kalat s. 394–395: pamięć operacyjna … czasowe przechowywanie informacji, z których aktualnie korzystamy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-30",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Która struktura jest szczególnie ważna dla pamięci operacyjnej?"
+      ],
+      "correct": [
+        "grzbietowo-boczna kora przedczołowa"
+      ],
+      "distractors": [
+        "kora wzrokowa pierwszorzędowa",
+        "jądro półleżące w prążkowiu",
+        "rdzeń przedłużony w pniu",
+        "przedni płat przysadki",
+        "istota czarna śródmózgowia",
+        "móżdżek i jego jądra"
+      ],
+      "explanation": "Pacjenci z uszkodzeniem kory przedczołowej mają trudność z zadaniami opóźnionej odpowiedzi.",
+      "sourceExcerpt": "Kalat s. 395: zadania pamięci operacyjnej … aktywność grzbietowo-bocznej kory przedczołowej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-31",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pamięć deklaratywna to:"
+      ],
+      "correct": [
+        "świadoma pamięć faktów i zdarzeń, którą można wypowiedzieć"
+      ],
+      "distractors": [
+        "pamięć umiejętności, np. jazdy na rowerze",
+        "nieświadome efekty torowania",
+        "pamięć wyuczonych odruchów warunkowych w móżdżku",
+        "ślad bodźca w układzie zmysłowym",
+        "pamięć utrzymywana przez powtarzanie przez kilka sekund",
+        "zmiany wrażliwości na powtarzany bodziec"
+      ],
+      "explanation": "Dzieli się na epizodyczną (zdarzenia) i semantyczną (wiedza); zależy od hipokampa. Przeciwieństwo: proceduralna / niejawna.",
+      "sourceExcerpt": "Kalat s. 397–398: pamięć deklaratywna – świadome przypominanie faktów i zdarzeń, które można wyrazić słowami.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-32",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Konsolidacja pamięci to:"
+      ],
+      "correct": [
+        "stopniowe utrwalanie śladu w pamięci długotrwałej"
+      ],
+      "distractors": [
+        "natychmiastowe zapominanie informacji",
+        "przywoływanie wspomnień przy pomocy wskazówek",
+        "spadek aktywności obszarów odległych od uszkodzenia",
+        "powtarzanie informacji w pętli fonologicznej",
+        "wygaszanie reakcji warunkowej",
+        "zamiana pamięci długotrwałej w krótkotrwałą"
+      ],
+      "explanation": "Konsolidacja może trwać długo (nawet lata); elektrowstrząs tuż po treningu ją zakłóca.",
+      "sourceExcerpt": "Kalat s. 393: konsolidacja – przekształcanie pamięci krótkotrwałej w pamięć długotrwałą.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-33",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego silne emocje sprzyjają zapamiętywaniu?"
+      ],
+      "correct": [
+        "bo adrenalina i umiarkowany kortyzol przyspieszają konsolidację"
+      ],
+      "distractors": [
+        "bo emocje blokują fosfatazę białkową w móżdżku",
+        "bo emocje wyłączają korę przedczołową",
+        "bo przewlekle wysoki kortyzol wzmacnia hipokamp",
+        "bo emocje zwiększają pojemność pamięci krótkotrwałej do kilkudziesięciu elementów",
+        "bo adrenalina bezpośrednio przechodzi do hipokampa",
+        "bo emocje hamują syntezę białek"
+      ],
+      "explanation": "Adrenalina działa przez nerw błędny na ciało migdałowate; przewlekle wysoki kortyzol szkodzi.",
+      "sourceExcerpt": "Kalat s. 393–394: adrenalina … pobudza nerw błędny … ciało migdałowate; umiarkowany kortyzol.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-34",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego nauka rozłożona w czasie daje lepsze efekty niż zakuwanie w jeden wieczór?"
+      ],
+      "correct": [
+        "bo fosfataza białkowa 1 sprzyja zapominaniu"
+      ],
+      "distractors": [
+        "bo pamięć krótkotrwała ma nieograniczoną pojemność",
+        "bo konsolidacja trwa tylko kilka sekund",
+        "bo hipokamp pracuje tylko w nocy",
+        "bo kortyzol jest wydzielany tylko rano",
+        "bo pamięć długotrwała nie wymaga syntezy białek",
+        "bo zakuwanie wywołuje diaschizę"
+      ],
+      "explanation": "Fosfataza białkowa 1 hamuje utrwalanie; przerwy pozwalają na lepszą konsolidację.",
+      "sourceExcerpt": "Kalat s. 394: fosfataza białkowa 1 … sprzyja zapominaniu … sesje rozłożone w czasie.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-35",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Lashley usuwał u szczurów różne fragmenty kory, szukając śladu pamięciowego, i nie znalazł jednego miejsca. Co zaproponował na tej podstawie?"
+      ],
+      "correct": [
+        "że różne części kory równorzędnie służą pamięci"
+      ],
+      "distractors": [
+        "że ślad pamięciowy leży w móżdżku",
+        "że pamięć zależy wyłącznie od hipokampa",
+        "że pamięć nie ma podłoża biologicznego",
+        "że każdy ślad pamięciowy jest w jednym neuronie",
+        "że pamięć przechowuje rdzeń kręgowy",
+        "że uczenie się nie zmienia mózgu"
+      ],
+      "explanation": "Zasady ekwipotencjalności i całościowego działania kory; później Thompson zlokalizował engram warunkowego mrugania w móżdżku.",
+      "sourceExcerpt": "Kalat s. 389–390: ekwipotencjalność … całościowe działanie.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-36",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Gdzie zlokalizowano ślad pamięciowy warunkowego odruchu mrugania u królika?"
+      ],
+      "correct": [
+        "w jądrze móżdżku"
+      ],
+      "distractors": [
+        "w hipokampie",
+        "w korze wzrokowej",
+        "w ciele migdałowatym",
+        "w jądrze półleżącym",
+        "w korze przedczołowej",
+        "w opuszce węchowej"
+      ],
+      "explanation": "Inaktywacja tego jądra znosiła uczenie się odruchu.",
+      "sourceExcerpt": "Kalat s. 390–391: jądro wsunięte boczne móżdżku.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-37",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Szczury, które wcześniej swobodnie zwiedzały labirynt bez nagrody, później szybciej uczą się w nim drogi do pokarmu. To przykład:"
+      ],
+      "correct": [
+        "uczenia się utajonego"
+      ],
+      "distractors": [
+        "wpajania",
+        "warunkowania klasycznego",
+        "habituacji",
+        "warunkowania z unikaniem",
+        "uczenia się przez wgląd",
+        "sensytyzacji"
+      ],
+      "explanation": "Uczenie się utajone to rodzaj uczenia percepcyjnego – bez wzmocnienia; powstaje mapa otoczenia (hipokamp).",
+      "sourceExcerpt": "Sadowski s. 468: uczenie się utajone … szczury, które wcześniej zwiedzały labirynt.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-38",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pisklę po krótkim kontakcie w okresie krytycznym trwale podąża za pierwszym widzianym ruchomym obiektem. To:"
+      ],
+      "correct": [
+        "wpajanie"
+      ],
+      "distractors": [
+        "uczenie utajone",
+        "warunkowanie",
+        "habituacja",
+        "wygaszanie",
+        "generalizacja",
+        "naśladowanie"
+      ],
+      "explanation": "Wpajanie: okres krytyczny, brak wzmocnienia, krótki kontakt, trwały i nieodwracalny skutek.",
+      "sourceExcerpt": "Sadowski s. 469: wpajanie … w okresie krytycznym … nieodwracalne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-39",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Czym uczenie percepcyjne różni się od asocjacyjnego?"
+      ],
+      "correct": [
+        "percepcyjne obywa się bez wzmocnienia, asocjacyjne tworzy skojarzenia"
+      ],
+      "distractors": [
+        "percepcyjne wymaga nagrody, a asocjacyjne nie",
+        "percepcyjne dotyczy tylko ruchów, a asocjacyjne tylko mowy",
+        "percepcyjne to warunkowanie klasyczne, a asocjacyjne to habituacja",
+        "percepcyjne zachodzi tylko u ludzi, a asocjacyjne tylko u zwierząt",
+        "percepcyjne trwa krócej niż sekundę, asocjacyjne – latami",
+        "percepcyjne nie daje żadnej pamięci"
+      ],
+      "explanation": "Efekt uczenia percepcyjnego to pamięć rozpoznawcza; asocjacyjne obejmuje warunkowanie klasyczne i instrumentalne.",
+      "sourceExcerpt": "Sadowski s. 467–470: uczenie się percepcyjne … wyłącznie na podstawie informacji zmysłowej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-40",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Zwierzę przestaje reagować na powtarzany, nieważny dźwięk. Jaki to rodzaj uczenia się?"
+      ],
+      "correct": [
+        "habituacja (nieasocjacyjne)"
+      ],
+      "distractors": [
+        "warunkowanie klasyczne",
+        "warunkowanie instrumentalne",
+        "wpajanie w okresie krytycznym",
+        "uczenie się przez wgląd",
+        "uczenie się utajone",
+        "warunkowanie z unikaniem"
+      ],
+      "explanation": "Habituacja nie łączy dwóch bodźców ani bodźca z reakcją.",
+      "sourceExcerpt": "Sadowski: habituacja – wygasanie reakcji na powtarzany bodziec.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-41",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Jaka jest główna różnica między warunkowaniem klasycznym a instrumentalnym?"
+      ],
+      "correct": [
+        "w klasycznym wzmacnia się bodziec, w instrumentalnym – reakcję"
+      ],
+      "distractors": [
+        "w klasycznym wzmacnia się reakcję, w instrumentalnym – bodziec",
+        "klasyczne wymaga kary, instrumentalne nagrody",
+        "klasyczne zachodzi tylko u ludzi",
+        "w klasycznym zachowanie osobnika decyduje o bodźcach",
+        "instrumentalne nie wymaga żadnego wzmocnienia",
+        "klasyczne to inaczej uczenie się przez wgląd"
+      ],
+      "explanation": "W klasycznym zachowanie osobnika nie wpływa na pojawianie się bodźców; w instrumentalnym reakcja wpływa na skutek.",
+      "sourceExcerpt": "Sadowski s. 483: w warunkowaniu instrumentalnym … reakcja osobnika wpływa na skutek.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-42",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Jaki układ czasowy bodźców sprzyja wytworzeniu odruchu warunkowego klasycznego?"
+      ],
+      "correct": [
+        "bodziec warunkowy krótko wyprzedza bezwarunkowy"
+      ],
+      "distractors": [
+        "bodziec bezwarunkowy wyprzedza warunkowy",
+        "bodźce są rozdzielone kilkoma godzinami",
+        "bodziec warunkowy pojawia się zawsze po reakcji",
+        "bodźce pojawiają się losowo, bez związku",
+        "bodziec warunkowy podaje się dopiero następnego dnia",
+        "kolejność bodźców nie ma znaczenia"
+      ],
+      "explanation": "Bodźce muszą działać razem, a wzmacnianie musi być regularne.",
+      "sourceExcerpt": "Sadowski s. 472: bodziec warunkowy powinien wyprzedzać bezwarunkowy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-43",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Szczur w klatce wahadłowej przechodzi na drugą stronę po sygnale świetlnym, zanim zostanie włączony prąd. To:"
+      ],
+      "correct": [
+        "warunkowanie z unikaniem"
+      ],
+      "distractors": [
+        "warunkowanie z ucieczką",
+        "kara prowadząca do biernego unikania",
+        "wzmocnienie pozytywne",
+        "habituacja",
+        "wygaszanie",
+        "uczenie się utajone"
+      ],
+      "explanation": "Ucieczka – wyłączenie działającego bodźca; unikanie – zapobieżenie mu.",
+      "sourceExcerpt": "Sadowski s. 485: unikanie … klatka wahadłowa.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-44",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Synapsa hebbowska to synapsa, której efektywność rośnie, gdy:"
+      ],
+      "correct": [
+        "neuron pre- i postsynaptyczny są aktywne jednocześnie"
+      ],
+      "distractors": [
+        "neuron presynaptyczny jest aktywny, a postsynaptyczny milczy",
+        "synapsa przez długi czas nie jest używana",
+        "neuron postsynaptyczny traci receptory",
+        "w synapsie brakuje wapnia",
+        "neuron presynaptyczny zostaje zniszczony",
+        "aktywny jest wyłącznie neuron hamujący"
+      ],
+      "explanation": "„Co razem się pobudza, to się łączy”; wyjaśnia warunkowanie klasyczne.",
+      "sourceExcerpt": "Kalat s. 408: synapsa hebbowska … zwiększa efektywność w wyniku jednoczesnej aktywności neuronów pre- i postsynaptycznych.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-45",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Jak synapsa hebbowska wyjaśnia warunkowanie klasyczne?"
+      ],
+      "correct": [
+        "słaby akson aktywny razem z silnym potem sam działa skuteczniej"
+      ],
+      "distractors": [
+        "silny akson przestaje działać po wielokrotnym pobudzeniu",
+        "słaby akson zostaje wyeliminowany przez silny",
+        "komórka uczy się reagować tylko na silny akson",
+        "oba aksony tracą zdolność pobudzania komórki",
+        "słaby akson wzmacnia się tylko wtedy, gdy jest aktywny sam",
+        "komórka wytwarza nowe neurony"
+      ],
+      "explanation": "To jest też właściwość asocjacyjności LTP.",
+      "sourceExcerpt": "Kalat s. 408–409: akson A (słaby) … akson C (silny) … później A sam pobudza B skuteczniej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-46",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Która właściwość LTP oznacza, że słaby sygnał podany razem z silnym również zostaje wzmocniony?"
+      ],
+      "correct": [
+        "asocjacyjność"
+      ],
+      "distractors": [
+        "specyficzność",
+        "współdziałanie",
+        "habituacja",
+        "diaschiza",
+        "ekwipotencjalność",
+        "nadwrażliwość odnerwieniowa"
+      ],
+      "explanation": "Specyficzność – wzmacniają się tylko aktywne synapsy; współdziałanie – lepiej działa jednoczesna stymulacja kilku aksonów.",
+      "sourceExcerpt": "Kalat s. 410: asocjacyjność – połączenie słabego bodźca z silnym wzmacnia odpowiedź na słaby.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-47",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Dlaczego do aktywacji receptora NMDA w LTP potrzebna jest depolaryzacja dendrytu?"
+      ],
+      "correct": [
+        "bo depolaryzacja usuwa jon magnezu blokujący kanał receptora NMDA"
+      ],
+      "distractors": [
+        "bo depolaryzacja wytwarza glutaminian w dendrycie",
+        "bo depolaryzacja zamyka receptory AMPA",
+        "bo depolaryzacja wpuszcza magnez do komórki",
+        "bo receptory NMDA reagują wyłącznie na napięcie, nie na glutaminian",
+        "bo depolaryzacja rozkłada CaMKII",
+        "bo depolaryzacja otwiera kanały potasowe"
+      ],
+      "explanation": "Receptor NMDA wymaga jednocześnie glutaminianu i depolaryzacji – to „detektor koincydencji”.",
+      "sourceExcerpt": "Kalat s. 411: jon magnezu blokuje receptor NMDA … depolaryzacja usuwa magnez.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-48",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Który jon wpływający przez receptory NMDA uruchamia zmiany prowadzące do LTP?"
+      ],
+      "correct": [
+        "wapń"
+      ],
+      "distractors": [
+        "magnez",
+        "chlor",
+        "potas",
+        "cynk",
+        "lit",
+        "żelazo"
+      ],
+      "explanation": "Ca²⁺ aktywuje CaMKII → fosforylacja i przybywanie receptorów AMPA.",
+      "sourceExcerpt": "Kalat s. 411: jony wapnia … aktywują kinazę CaMKII.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-49",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pacjent po obustronnym usunięciu przyśrodkowych płatów skroniowych z hipokampem zachował pamięć krótkotrwałą i umiejętność uczenia się nowych umiejętności. Czego nie mógł?"
+      ],
+      "correct": [
+        "zapamiętywać nowych faktów i zdarzeń"
+      ],
+      "distractors": [
+        "powtarzać liczby, którą przed chwilą usłyszał",
+        "nauczyć się nowej umiejętności ruchowej",
+        "mówić i rozumieć mowy",
+        "rozwiązywać prostych zadań intelektualnych",
+        "przypomnieć sobie czegokolwiek z dzieciństwa",
+        "rozpoznawać kolorów"
+      ],
+      "explanation": "Hipokamp jest potrzebny do tworzenia i konsolidacji nowych wspomnień deklaratywnych, a nie do ich przechowywania.",
+      "sourceExcerpt": "Kalat s. 395–397: głęboka amnezja następcza … zachowana pamięć proceduralna.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-50",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Co pokazuje przypadek pacjenta H.M. o roli hipokampa?"
+      ],
+      "correct": [
+        "że tworzy nowe wspomnienia, ale ich nie przechowuje"
+      ],
+      "distractors": [
+        "że przechowuje na stałe wszystkie dawne wspomnienia",
+        "że odpowiada za pamięć proceduralną i nawyki",
+        "że odpowiada za pamięć krótkotrwałą",
+        "że jest głównym ośrodkiem mowy",
+        "że jest konieczny do uczenia się umiejętności",
+        "że kontroluje inteligencję ogólną"
+      ],
+      "explanation": "Amnezja wsteczna była umiarkowana – dawne wspomnienia przetrwały.",
+      "sourceExcerpt": "Kalat s. 397: hipokamp … ważny dla tworzenia nowych wspomnień deklaratywnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-51",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Szczur z uszkodzonym hipokampem w labiryncie promienistym wielokrotnie wchodzi do ramion, z których już zjadł pokarm. Który rodzaj pamięci zawodzi?"
+      ],
+      "correct": [
+        "pamięć operacyjna"
+      ],
+      "distractors": [
+        "pamięć proceduralna",
+        "pamięć sensoryczna",
+        "pamięć semantyczna",
+        "odruch warunkowy mrugania",
+        "pamięć ruchowa w móżdżku",
+        "wpajanie"
+      ],
+      "explanation": "Hipokamp tworzy mapę otoczenia (komórki miejsca); zawodzi też w labiryncie wodnym Morrisa.",
+      "sourceExcerpt": "Kalat s. 399: w labiryncie promienistym … wchodzą ponownie do opróżnionych ramion – problem z pamięcią operacyjną.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-52",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Komórki miejsca w hipokampie to neurony, które:"
+      ],
+      "correct": [
+        "reagują w określonym miejscu otoczenia"
+      ],
+      "distractors": [
+        "reagują na określony kolor bodźca",
+        "wytwarzają nowe neurony w hipokampie",
+        "kontrolują ruchy kończyn",
+        "reagują na smak pokarmu",
+        "wydzielają kortyzol w stresie",
+        "hamują pamięć operacyjną"
+      ],
+      "explanation": "Tworzą mapę przestrzeni; u londyńskich taksówkarzy hipokamp jest powiększony.",
+      "sourceExcerpt": "Kalat s. 399: komórki miejsca … reagują w konkretnym miejscu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-53",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Zespół Korsakowa jest wywołany przez:"
+      ],
+      "correct": [
+        "długotrwały niedobór tiaminy (wit. B1)"
+      ],
+      "distractors": [
+        "usunięcie hipokampa w leczeniu padaczki",
+        "udar w móżdżku",
+        "niedobór dopaminy w istocie czarnej",
+        "zatrucie MDMA",
+        "nadmiar kortyzolu w przewlekłym stresie",
+        "uraz głowy u boksera"
+      ],
+      "explanation": "Objawy: apatia, majaczenie, amnezja wsteczna i następcza, konfabulacje; przypominają uszkodzenie okolic przedczołowych.",
+      "sourceExcerpt": "Kalat s. 402: zespół Korsakowa … przedłużony niedobór tiaminy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iv-neuroplastycznosc-i-pamiec-54",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iv-neuroplastycznosc-i-pamiec",
+      "stems": [
+        "Pacjent z zespołem Korsakowa zapytany, co robił wczoraj, z przekonaniem podaje zmyślone zdarzenia. To:"
+      ],
+      "correct": [
+        "konfabulacja"
+      ],
+      "distractors": [
+        "amnezja następcza",
+        "torowanie",
+        "diaschiza",
+        "wpajanie",
+        "habituacja",
+        "dysocjacja"
+      ],
+      "explanation": "Konfabulacje to wypełnianie luk w pamięci zmyślonymi informacjami.",
+      "sourceExcerpt": "Kalat s. 403: konfabulacje … wymyślają odpowiedzi.",
+      "difficulty": 1,
+      "status": "ok"
+    }
+  ]
+}

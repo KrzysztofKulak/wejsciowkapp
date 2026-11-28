@@ -1,0 +1,952 @@
+{
+  "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+  "bookTitle": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+  "chapterId": "blok-i-metody-badan",
+  "chapterTitle": "Blok I – metody badania układu nerwowego",
+  "sourceHash": "4f0315ebf6772f5b1f4819ae5a064fd4cec9ef13",
+  "questions": [
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-01",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Eksperyment wykonywany jednorazowo na zwierzęciu utrzymywanym w narkozie przez cały czas doświadczenia to eksperyment:"
+      ],
+      "correct": [
+        "ostry"
+      ],
+      "distractors": [
+        "chroniczny",
+        "behawioralny",
+        "terenowy",
+        "naturalny",
+        "quasi-eksperyment",
+        "podłużny"
+      ],
+      "explanation": "W eksperymencie ostrym zwierzę jest w narkozie przez cały czas – nadaje się do badania narządów i pojedynczych neuronów, ale nie zachowania.",
+      "sourceExcerpt": "Sadowski s. 30: eksperyment ostry przeprowadza się jednorazowo na zwierzęciu w stanie narkozy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-02",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Dlaczego podstawą badań nad zachowaniem jest eksperyment chroniczny, a nie ostry?"
+      ],
+      "correct": [
+        "bo narkoza w eksperymencie ostrym wyłącza wszelkie zachowanie"
+      ],
+      "distractors": [
+        "bo eksperyment ostry nie wymaga zgody komisji bioetycznej",
+        "bo w eksperymencie chronicznym nie wykonuje się żadnych zabiegów",
+        "bo eksperyment ostry nadaje się tylko do badań na bezkręgowcach",
+        "bo w eksperymencie chronicznym zwierzę jest przez cały czas w narkozie",
+        "bo eksperyment ostry nie pozwala rejestrować aktywności neuronów",
+        "bo w eksperymencie ostrym nie można wszczepiać elektrod"
+      ],
+      "explanation": "Chroniczny wykonuje się na przytomnym zwierzęciu (zabiegi wcześniej, w narkozie), więc można badać uczenie się, pamięć, motywację.",
+      "sourceExcerpt": "Sadowski s. 31: eksperyment ostry jest mało przydatny w badaniach nad zachowaniem, ponieważ stan narkozy wyłącza wszelkie zachowanie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-03",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Do czego służy aparat stereotaktyczny w badaniach na zwierzętach?"
+      ],
+      "correct": [
+        "do precyzyjnego wprowadzenia elektrody w wybrany ośrodek w głębi mózgu"
+      ],
+      "distractors": [
+        "do rejestrowania pola magnetycznego mózgu z powierzchni głowy",
+        "do pomiaru przepływu krwi w naczyniach mózgowych",
+        "do uśredniania potencjałów wywołanych bodźcami",
+        "do barwienia skrawków mózgu w autoradiografii",
+        "do drażnienia nerwów obwodowych w badaniu przewodnictwa",
+        "do usuwania całej kory mózgowej, czyli dekortykacji"
+      ],
+      "explanation": "Unieruchamia głowę, a ramię z podziałką milimetrową prowadzi elektrodę w punkt wskazany przez atlas stereotaktyczny.",
+      "sourceExcerpt": "Sadowski s. 31: stereotaksja – metoda ułatwiająca trafienie w wybrany ośrodek; położenie elektrody wskazują atlasy stereotaktyczne.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-04",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Wprowadzenie do mózgu hipertonicznego roztworu chlorku sodu (drażnienie osmotyczne) posłużyło głównie do zbadania:"
+      ],
+      "correct": [
+        "ośrodka pragnienia w podwzgórzu"
+      ],
+      "distractors": [
+        "ośrodków termoregulacji",
+        "ośrodka głodu w bocznym podwzgórzu",
+        "ośrodków snu w pniu mózgu",
+        "ośrodka mowy w płacie czołowym",
+        "kory ruchowej",
+        "układu nagrody w jądrze półleżącym"
+      ],
+      "explanation": "Drażnienie osmotyczne naśladuje odwodnienie, więc pobudza ośrodki regulujące gospodarkę wodno-elektrolitową.",
+      "sourceExcerpt": "Sadowski s. 32: drażnienie osmotyczne … służyło do pobudzania struktur podwzgórza regulujących gospodarkę wodno-elektrolitową; zbadano lokalizację ośrodka pragnienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-05",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Termody (rurki z wodą o ustalonej temperaturze) wprowadzane do mózgu służą głównie do badania:"
+      ],
+      "correct": [
+        "ośrodków regulujących ciepłotę ciała"
+      ],
+      "distractors": [
+        "ośrodka pragnienia",
+        "ośrodków czucia bólu w rdzeniu",
+        "przepływu krwi w korze",
+        "aktywności metabolicznej neuronów",
+        "kory wzrokowej",
+        "ośrodków oddechowych pnia mózgu"
+      ],
+      "explanation": "Drażnienie termiczne pozwala zbadać czynność ośrodków termoregulacji.",
+      "sourceExcerpt": "Sadowski s. 32: do drażnienia termicznego używa się termod … procedurę stosuje się do badania czynności ośrodków regulujących ciepłotę ciała.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-06",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Dlaczego do uszkadzania ośrodków w głębi mózgu stosuje się dziś związki ekscytotoksyczne (np. kwas kainowy) zamiast prądu?"
+      ],
+      "correct": [
+        "bo niszczą neurony ośrodka, a oszczędzają przechodzące przez niego włókna"
+      ],
+      "distractors": [
+        "bo uszkadzają wyłącznie włókna przechodzące przez ośrodek",
+        "bo ich działanie jest zawsze odwracalne po kilku godzinach",
+        "bo nie wymagają wprowadzania niczego do mózgu",
+        "bo niszczą tylko zakończenia katecholaminergiczne",
+        "bo działają wyłącznie na komórki glejowe",
+        "bo blokują transport aksonalny w całym mózgu"
+      ],
+      "explanation": "Lezja prądem jest nieswoista – niszczy wszystko w polu elektrycznym, także włókna przechodzące. Ekscytotoksyny (silne pobudzenie NMDA → napływ Ca²⁺ → śmierć komórki) nie działają na włókna.",
+      "sourceExcerpt": "Sadowski s. 33: kwas kainowy i podobne związki nie mają wpływu na włókna nerwowe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-07",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Jak działa kwas kainowy, którym wyłącza się ośrodki mózgowe?"
+      ],
+      "correct": [
+        "nadmiernie pobudza receptory glutaminianowe, aż neuron ginie"
+      ],
+      "distractors": [
+        "blokuje syntezę dopaminy w zakończeniach aksonów",
+        "niszczy mikrotubule i przerywa transport aksonalny",
+        "hamuje pompę sodowo-potasową w osłonce mielinowej",
+        "blokuje kanały wapniowe i wycisza neuron",
+        "wiąże się z receptorami GABA i hamuje neuron",
+        "rozpuszcza osłonki mielinowe włókien"
+      ],
+      "explanation": "Działa jak kwas glutaminowy: silne pobudzenie NMDA, niekontrolowany napływ wapnia i śmierć komórki – jak w zaburzeniach ukrwienia.",
+      "sourceExcerpt": "Sadowski s. 33: działanie … podobne do kwasu glutaminowego, polega na silnym pobudzeniu receptorów NMDA, co prowadzi do niekontrolowanej inwazji jonów wapnia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-08",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "6-hydroksydopamina (6-OHDA) wprowadzona do mózgu:"
+      ],
+      "correct": [
+        "niszczy zakończenia aksonów uwalniających aminy katecholowe"
+      ],
+      "distractors": [
+        "niszczy wybiórczo neurony serotoninergiczne",
+        "blokuje receptory NMDA w hipokampie",
+        "niszczy mikrotubule wszystkich neuronów",
+        "pobudza receptory dopaminowe po stronie wstrzyknięcia",
+        "uszkadza wyłącznie włókna przechodzące przez ośrodek",
+        "znakuje aktywne neurony do autoradiografii"
+      ],
+      "explanation": "6-OHDA jest wychwytywana przez neurony dopaminergiczne i noradrenergiczne i je niszczy – służy do wyłączania tych układów.",
+      "sourceExcerpt": "Sadowski s. 33: 6-hydroksydopamina, uszkadzająca zakończenia synaptyczne, które uwalniają aminy katecholowe.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-09",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym polega metoda radioaktywnej 2-deoksyglukozy?"
+      ],
+      "correct": [
+        "aktywne neurony gromadzą znakowaną 2-DG, więc na autoradiogramie są zaczernione"
+      ],
+      "distractors": [
+        "2-DG blokuje aktywne neurony, więc po zabiegu widać, czego brakuje w zachowaniu",
+        "2-DG wiąże się z receptorami dopaminowymi i pokazuje ich gęstość",
+        "2-DG wywołuje potencjały, które uśrednia się z zapisu EEG",
+        "2-DG emituje pole magnetyczne mierzone nad głową",
+        "2-DG niszczy aktywne ośrodki, oszczędzając włókna przechodzące",
+        "2-DG barwi osłonki mielinowe na skrawkach mózgu"
+      ],
+      "explanation": "Aktywne komórki pobierają więcej glukozy; 2-DG zostaje w nich jako 2-DG-6-fosforan, więc po uśmierceniu zwierzęcia skrawki pokazują, które ośrodki pracowały.",
+      "sourceExcerpt": "Sadowski s. 33–34: ośrodki mózgu, które były aktywne przed śmiercią zwierzęcia, są uwidocznione jako miejsca intensywnie zaczernione.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-10",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym polegała lobotomia przedczołowa?"
+      ],
+      "correct": [
+        "na przecięciu połączeń kory przedczołowej"
+      ],
+      "distractors": [
+        "na usunięciu obu hipokampów",
+        "na przecięciu ciała modzelowatego",
+        "na zniszczeniu ciała migdałowatego",
+        "na wszczepieniu elektrod do podwzgórza",
+        "na usunięciu płatów skroniowych",
+        "na przecięciu pnia mózgu na poziomie mostu"
+      ],
+      "explanation": "Celem nie było niszczenie płatów czołowych, lecz odłączenie nieprawidłowo działającej okolicy przedczołowej od reszty mózgu.",
+      "sourceExcerpt": "Sadowski s. 561: operacja polegała na przecięciu połączeń okolicy przedczołowej z resztą mózgu.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-11",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Które skutki były najczęstsze po lobotomii przedczołowej?"
+      ],
+      "correct": [
+        "apatia, brak inicjatywy i planowania, spłycenie emocji"
+      ],
+      "distractors": [
+        "głęboka amnezja następcza przy zachowanej inicjatywie",
+        "niedowład połowiczy i zaburzenia mowy",
+        "ślepota korowa i zaburzenia równowagi",
+        "napady padaczkowe i nadmierna pobudliwość",
+        "utrata czucia skórnego po stronie przeciwnej",
+        "wzmożony lęk i natrętne myśli"
+      ],
+      "explanation": "Najczęściej: apatia, brak planowania i inicjatywy, zaburzenia pamięci roboczej, rozproszenie uwagi, utrata ekspresji emocji i hamulców społecznych.",
+      "sourceExcerpt": "Kalat s. 99: najczęstszymi skutkami były apatia, brak zdolności do planowania i podejmowania inicjatywy, zaburzenia pamięci, podatność na rozproszenie uwagi i utrata zdolności do wyrażania emocji.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-12",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Lobotomię zarzucono w połowie lat 50., ponieważ:"
+      ],
+      "correct": [
+        "pojawiły się skuteczne leki przeciwpsychotyczne"
+      ],
+      "distractors": [
+        "wykazano, że uszkadza wyłącznie hipokamp",
+        "wprowadzono do leczenia elektrowstrząsy",
+        "zastąpiła ją przezczaszkowa stymulacja magnetyczna",
+        "zakazała jej komisja bioetyczna ds. zwierząt",
+        "wykazano, że całkowicie leczy schizofrenię",
+        "zastąpiły ją operacje stereotaktyczne na ciele migdałowatym"
+      ],
+      "explanation": "Po wprowadzeniu leków przeciwpsychotycznych lekarze prawie całkowicie zrezygnowali z lobotomii.",
+      "sourceExcerpt": "Kalat s. 99: po pojawieniu się skutecznych leków przeciwpsychotycznych w połowie lat pięćdziesiątych lekarze prawie całkowicie zarzucili lobotomię.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-13",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Czego dowiedziano się o korze przedczołowej z badań pacjentów po lobotomii i z uszkodzeniami płatów czołowych?"
+      ],
+      "correct": [
+        "że odpowiada za pamięć roboczą i planowanie"
+      ],
+      "distractors": [
+        "że jest głównym ośrodkiem widzenia barwnego",
+        "że odpowiada za odruchy rdzeniowe i napięcie mięśni",
+        "że magazynuje trwale wszystkie wspomnienia z dzieciństwa",
+        "że steruje wydzielaniem hormonów przysadki",
+        "że jest pierwszorzędową korą słuchową",
+        "że odpowiada za rytm dobowy snu i czuwania"
+      ],
+      "explanation": "Kora przedczołowa: pamięć robocza, planowanie, decyzje, działania ukierunkowane na cel, dopasowanie zachowania do kontekstu, hamowanie nieistotnych bodźców.",
+      "sourceExcerpt": "Kalat s. 99; Sadowski s. 562: płaty czołowe odgrywają rolę w podejmowaniu decyzji, w działaniach ukierunkowanych na cel i kontroli aktualnych form zachowania.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-14",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Preparat pretrygeminalny powstaje przez:"
+      ],
+      "correct": [
+        "przecięcie pnia mózgu na wysokości mostu, tuż przed nerwami trójdzielnymi"
+      ],
+      "distractors": [
+        "przecięcie rdzenia kręgowego w odcinku szyjnym",
+        "przecięcie ciała modzelowatego między półkulami",
+        "usunięcie kory przedczołowej obu półkul",
+        "przecięcie śródmózgowia tuż za skrzyżowaniem wzrokowym",
+        "przecięcie nerwów wzrokowych przed skrzyżowaniem",
+        "przecięcie rdzenia przedłużonego poniżej nerwu błędnego"
+      ],
+      "explanation": "Mózg zostaje podzielony na część przednią (przodomózgowie, śródmózgowie, przód mostu) i tylną, połączoną z resztą ciała.",
+      "sourceExcerpt": "Notatki z ćwiczeń: całkowite przecięcie pnia mózgu na poziomie przedniej części mostu, przed korzeniami nerwów trójdzielnych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-15",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Jaki jest najważniejszy wynik badań na preparacie pretrygeminalnym?"
+      ],
+      "correct": [
+        "izolowana przednia część mózgu czuwa – ma EEG czuwania i wodzi oczami"
+      ],
+      "distractors": [
+        "izolowana przednia część mózgu stale śpi głębokim snem",
+        "zwierzę porusza się normalnie, ale przestaje widzieć",
+        "zapis EEG w części przedniej całkowicie zanika",
+        "przednia część mózgu odbiera wyłącznie bodźce słuchowe",
+        "zwierzę przechodzi w stan ciągłych napadów padaczkowych",
+        "przednia część mózgu reaguje tylko na bodźce bólowe z ciała"
+      ],
+      "explanation": "Część przednia czuwa, więc struktury synchronizujące (usypiające) muszą leżeć niżej w pniu, a ośrodki czuwania zostają z przodu – stąd „czuwający mózg izolowany” (wiedza ogólna, Batini, Moruzzi).",
+      "sourceExcerpt": "Notatki z ćwiczeń + wiedza ogólna (Żernicki, „Czuwający mózg izolowany”).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-16",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Jakie informacje zmysłowe docierają do przedniej części preparatu pretrygeminalnego?"
+      ],
+      "correct": [
+        "wzrokowe i węchowe"
+      ],
+      "distractors": [
+        "słuchowe i smakowe",
+        "somatyczne z całego ciała",
+        "czuciowe z twarzy przez nerwy trójdzielne",
+        "wyłącznie słuchowe",
+        "bólowe i temperaturowe z kończyn",
+        "przedsionkowe o położeniu ciała"
+      ],
+      "explanation": "Docierają tylko informacje z nerwów wchodzących przed miejscem przecięcia: wzrok (II), węch (I) i propriocepcja mięśni oka (III, IV). Brak czucia z twarzy (V), słuchu (VIII) i ciała.",
+      "sourceExcerpt": "Notatki z ćwiczeń: mózg nie ma dopływu bodźców sensorycznych, ale ma wciąż bodźce wzrokowe (+ wiedza ogólna).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-17",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Co rejestruje elektroencefalografia (EEG)?"
+      ],
+      "correct": [
+        "zsumowaną aktywność elektryczną dużych populacji neuronów"
+      ],
+      "distractors": [
+        "aktywność pojedynczego neuronu przez mikroelektrodę",
+        "pole magnetyczne wytwarzane przez włókna nerwowe",
+        "przepływ krwi utlenowanej w aktywnych obszarach",
+        "rozkład radioznacznika w tkance mózgowej",
+        "czynność elektryczną mięśni szkieletowych",
+        "pochłanianie promieni rentgenowskich przez tkanki"
+      ],
+      "explanation": "Makroelektrody na skórze głowy (system 10–20) odbierają sumaryczną aktywność dużych populacji, głównie korowych.",
+      "sourceExcerpt": "Sadowski s. 35: zapis … przedstawia zsumowaną aktywność dużych populacji neuronów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-18",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Jaka jest główna zaleta, a jaka główna wada EEG?"
+      ],
+      "correct": [
+        "bardzo dobra rozdzielczość czasowa, ale trudno ustalić źródło sygnału"
+      ],
+      "distractors": [
+        "dokładna lokalizacja źródła, ale słaba rozdzielczość czasowa",
+        "brak zakłóceń ruchowych, ale bardzo wysoki koszt",
+        "obraz struktur głębokich, ale konieczność radioznacznika",
+        "obraz budowy mózgu, ale promieniowanie jonizujące",
+        "rejestracja pojedynczych neuronów, ale konieczność narkozy",
+        "niski koszt, ale rozdzielczość czasowa rzędu minut"
+      ],
+      "explanation": "EEG mierzy z dokładnością do milisekund, jest tanie, ale sygnał trudno zlokalizować i widać głównie korę.",
+      "sourceExcerpt": "Notatki z ćwiczeń: plusy – b. dobra dokładność czasowa, niski koszt; minus – trudność lokalizacji źródła sygnału.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-19",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Do czego EEG stosuje się w praktyce klinicznej przede wszystkim?"
+      ],
+      "correct": [
+        "do diagnostyki padaczki"
+      ],
+      "distractors": [
+        "do wykrywania złamań kości czaszki",
+        "do oceny stężenia hormonów stresu",
+        "do badania przewodnictwa w nerwach kończyn",
+        "do obrazowania guzów w tkankach miękkich",
+        "do oceny gęstości receptorów dopaminowych",
+        "do pomiaru przepływu krwi w mózgu"
+      ],
+      "explanation": "Wyładowania napadowe pozwalają odróżnić napady padaczkowe od innych i ustalić typ napadów (np. iglica–fala 3 Hz w napadach nieświadomości).",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: obecnie EEG stosuje się głównie w diagnostyce padaczki.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-20",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "W rutynowym EEG stosuje się hiperwentylację i fotostymulację lampą stroboskopową. Po co?"
+      ],
+      "correct": [
+        "żeby zwiększyć czułość badania"
+      ],
+      "distractors": [
+        "żeby wywołać potencjały wywołane słuchowe",
+        "żeby zmierzyć przepływ krwi w korze",
+        "żeby uśpić pacjenta przed badaniem",
+        "żeby wyeliminować zakłócenia mięśniowe z zapisu",
+        "żeby zmierzyć szybkość przewodzenia w nerwach",
+        "żeby wyznaczyć rytm alfa u każdego pacjenta"
+      ],
+      "explanation": "To próby aktywacyjne (także zapis po nieprzespanej nocy) – prowokują ukryte zjawiska patologiczne.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: próby aktywacyjne … służą zwiększeniu czułości badania i ujawnieniu nieprawidłowych zjawisk bioelektrycznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-21",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Polisomnografia to:"
+      ],
+      "correct": [
+        "zapis EEG, EKG, napięcia mięśni i ruchów oczu we śnie"
+      ],
+      "distractors": [
+        "zapis EEG po zastosowaniu bodźców wzrokowych i słuchowych",
+        "obrazowanie mózgu w czasie snu za pomocą fMRI",
+        "badanie przewodnictwa nerwowego podczas snu",
+        "pomiar kortyzolu we krwi w ciągu doby",
+        "całodobowy zapis rytmu serca bez EEG",
+        "rejestracja pola magnetycznego mózgu we śnie"
+      ],
+      "explanation": "Ocenia architekturę snu (hipnogram) i zaburzenia: bezdech śródsenny, narkolepsję, zespół niespokojnych nóg, napady w czasie snu.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: polisomnografia … polega na równoczesnej rejestracji EEG, EKG, napięcia mięśni, ruchów gałek ocznych i pulsoksymetrii.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-22",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Który rytm EEG dominuje w głębokim śnie NREM?"
+      ],
+      "correct": [
+        "delta (0,5–4 Hz)"
+      ],
+      "distractors": [
+        "alfa (8–12 Hz)",
+        "beta (13–30 Hz)",
+        "gamma (30–80 Hz)",
+        "theta (4–7 Hz)",
+        "wrzeciona snu (12–14 Hz)",
+        "mu (8–13 Hz)"
+      ],
+      "explanation": "Delta to najwolniejsze fale, typowe dla głębokiego snu.",
+      "sourceExcerpt": "Slajd z ćwiczeń: delta 0,5–4 Hz – najwolniejsze fale, charakterystyczne dla głębokiego snu NREM.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-23",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Osoba siedzi spokojnie, odprężona, z zamkniętymi oczami. Jaki rytm EEG jest typowy dla tego stanu?"
+      ],
+      "correct": [
+        "alfa (8–12 Hz)"
+      ],
+      "distractors": [
+        "delta (0,5–4 Hz)",
+        "beta (13–30 Hz)",
+        "gamma (30–80 Hz)",
+        "theta (4–7 Hz)",
+        "iglica–fala (3 Hz)",
+        "wrzeciona snu (12–14 Hz)"
+      ],
+      "explanation": "Alfa – spokojne czuwanie z zamkniętymi oczami; po otwarciu oczu i skupieniu przechodzi w betę.",
+      "sourceExcerpt": "Slajd z ćwiczeń: alfa 8–12 Hz – spokojne czuwanie, zwłaszcza przy zamkniętych oczach.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-24",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Student rozwiązuje trudne zadanie matematyczne wymagające skupienia. Jaki rytm EEG dominuje?"
+      ],
+      "correct": [
+        "beta (13–30 Hz)"
+      ],
+      "distractors": [
+        "alfa (8–12 Hz)",
+        "delta (0,5–4 Hz)",
+        "theta (4–7 Hz)",
+        "iglica–fala (3 Hz)",
+        "wrzeciona snu (12–14 Hz)",
+        "fale wolne poniżej 0,5 Hz"
+      ],
+      "explanation": "Beta wiąże się z aktywnym czuwaniem i przetwarzaniem informacji.",
+      "sourceExcerpt": "Slajd z ćwiczeń: beta 13–30 Hz – aktywne czuwanie, przetwarzanie informacji (np. zadanie matematyczne).",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-25",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Czym są potencjały wywołane?"
+      ],
+      "correct": [
+        "zmianami czynności bioelektrycznej po konkretnym bodźcu"
+      ],
+      "distractors": [
+        "spontaniczną aktywnością EEG bez żadnych bodźców",
+        "potencjałami czynnościowymi pojedynczego neuronu",
+        "zmianami przepływu krwi po bodźcu",
+        "wyładowaniami padaczkowymi w zapisie EEG",
+        "polem magnetycznym rejestrowanym nad głową",
+        "potencjałami spoczynkowymi błony neuronu"
+      ],
+      "explanation": "Odpowiedź na bodziec (wzrokowy, słuchowy, czuciowy); w odróżnieniu od aktywności spontanicznej.",
+      "sourceExcerpt": "Sadowski s. 36: potencjałem wywołanym jest zjawisko bioelektryczne pojawiające się w odpowiedzi na zastosowany konkretny bodziec.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-26",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Dlaczego przy rejestracji potencjałów wywołanych bodziec powtarza się wiele razy i uśrednia odpowiedzi?"
+      ],
+      "correct": [
+        "bo mają małą amplitudę, a uśrednianie znosi szum tła"
+      ],
+      "distractors": [
+        "bo pojedynczy bodziec nie wywołuje żadnej odpowiedzi w korze",
+        "bo uśrednianie zwiększa amplitudę każdego bodźca",
+        "bo tak mierzy się przepływ krwi w korze",
+        "bo pozwala to uniknąć użycia elektrod",
+        "bo potencjały wywołane pojawiają się dopiero po minucie",
+        "bo uśrednianie zamienia zapis EEG w obraz MRI"
+      ],
+      "explanation": "Przypadkowa aktywność (raz dodatnia, raz ujemna) się znosi, a stała odpowiedź na bodziec się sumuje – zostaje „czysty” potencjał.",
+      "sourceExcerpt": "Sadowski s. 36: stosuje się metodę ekstrakcji potencjału, polegającą na wielokrotnym powtarzaniu bodźca i uśrednianiu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-27",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Czym różnią się endogenne potencjały wywołane (ERP, np. P300) od egzogennych (np. VEP)?"
+      ],
+      "correct": [
+        "wymagają świadomego udziału badanego w zadaniu"
+      ],
+      "distractors": [
+        "zależą wyłącznie od rodzaju bodźca, a nie od zadania",
+        "powstają tylko w rdzeniu kręgowym",
+        "pojawiają się w ciągu kilku milisekund po bodźcu",
+        "rejestruje się je wyłącznie z mięśni kończyn",
+        "nie wymagają powtarzania bodźca",
+        "mierzą przewodnictwo w nerwach obwodowych"
+      ],
+      "explanation": "ERP odzwierciedlają poznawczą i emocjonalną reakcję na zadanie; latencja od ok. 140 ms do sekund; służą do oceny funkcji poznawczych.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: endogenne (sytuacyjne) potencjały … nie są zależne od modalności bodźca i wymagają świadomego i aktywnego udziału osoby badanej.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-28",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Potencjał N400 jest szczególnie wrażliwy na:"
+      ],
+      "correct": [
+        "niedopasowanie znaczenia słowa do kontekstu zdania"
+      ],
+      "distractors": [
+        "pojawienie się rzadkiego, istotnego bodźca",
+        "jasność błysku światła w polu widzenia",
+        "głośność dźwięku podawanego w słuchawkach",
+        "siłę skurczu mięśnia kończyny górnej",
+        "przygotowanie do wykonania ruchu ręką",
+        "zmianę temperatury skóry pod elektrodą"
+      ],
+      "explanation": "N400 – semantyka; P300 – uwaga i rozpoznanie istotnego bodźca.",
+      "sourceExcerpt": "Notatki z ćwiczeń: N400 – odpowiedź wrażliwa na dopasowanie znaczenia słowa do kontekstu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-29",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Wzrokowe potencjały wywołane (VEP, fala P100) są szczególnie przydatne w diagnostyce:"
+      ],
+      "correct": [
+        "stwardnienia rozsianego"
+      ],
+      "distractors": [
+        "miastenii z blokiem nerwowo-mięśniowym",
+        "nerwiaka nerwu słuchowego",
+        "zespołu cieśni nadgarstka",
+        "tężyczki z niedoboru wapnia",
+        "zespołu bezdechu śródsennego",
+        "choroby Parkinsona"
+      ],
+      "explanation": "Wydłużona latencja lub zniekształcenie P100 świadczy o uszkodzeniu drogi wzrokowej – typowe w chorobach demielinizacyjnych.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: VEP stosuje się przede wszystkim w diagnozowaniu schorzeń demielinizacyjnych (stwardnienia rozsianego).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-30",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Które badanie elektrofizjologiczne nadaje się do przesiewowej oceny słuchu u noworodków, bo nie wymaga współpracy?"
+      ],
+      "correct": [
+        "pniowe potencjały słuchowe (BAEP)"
+      ],
+      "distractors": [
+        "wzrokowe potencjały wywołane (VEP)",
+        "elektromiografia igłowa mięśni",
+        "potencjał endogenny P300",
+        "polisomnografia nocna",
+        "ruchowe potencjały wywołane (MEP)",
+        "neurografia nerwów obwodowych"
+      ],
+      "explanation": "BAEP: kliknięcia w słuchawkach, 5 fal w ciągu ok. 8 ms; badanie nieinwazyjne i bez współpracy.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: BAEP są powszechnie wykorzystywane do przesiewowej oceny funkcji dróg słuchowych u noworodków.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-31",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym polega elektromiografia (EMG)?"
+      ],
+      "correct": [
+        "na rejestracji czynności elektrycznej mięśni"
+      ],
+      "distractors": [
+        "na rejestracji pola magnetycznego mięśni",
+        "na pomiarze siły mięśnia dynamometrem",
+        "na obrazowaniu mięśni rezonansem",
+        "na drażnieniu kory ruchowej polem magnetycznym",
+        "na pomiarze przepływu krwi w mięśniu",
+        "na rejestracji fal mózgowych podczas ruchu"
+      ],
+      "explanation": "Ocenia się m.in. zapis spoczynkowy (normalnie cisza bioelektryczna), potencjały jednostek ruchowych i zapis wysiłkowy; wymaga współpracy pacjenta.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan; notatki z ćwiczeń: EMG rejestruje aktywność elektryczną mięśni.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-32",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Do czego przede wszystkim służy elektromiografia?"
+      ],
+      "correct": [
+        "do odróżnienia miopatii od uszkodzeń neurogennych"
+      ],
+      "distractors": [
+        "do rozpoznania konkretnej jednostki chorobowej bez innych badań",
+        "do lokalizacji ogniska padaczkowego w korze",
+        "do oceny architektury snu nocnego",
+        "do pomiaru gęstości receptorów w mózgu",
+        "do oceny funkcji poznawczych pacjenta",
+        "do badania przewodnictwa drogi wzrokowej"
+      ],
+      "explanation": "EMG różnicuje miopatię i uszkodzenie neurogenne i pomaga ustalić poziom uszkodzenia, ale nie daje rozpoznania konkretnej choroby.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: EMG przede wszystkim umożliwia różnicowanie między uszkodzeniem pierwotnie mięśniowym i neurogennym.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-33",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Próba tężyczkowa w EMG polega na:"
+      ],
+      "correct": [
+        "rejestracji wyładowań po niedokrwieniu mięśnia i hiperwentylacji"
+      ],
+      "distractors": [
+        "rejestracji fal mózgowych po fotostymulacji",
+        "drażnieniu nerwu seriami bodźców o wysokiej częstotliwości",
+        "pomiarze szybkości przewodzenia w nerwie",
+        "rejestracji potencjałów po kliknięciach w słuchawkach",
+        "obrazowaniu mięśnia po podaniu kontrastu",
+        "pomiarze zmienności rytmu serca"
+      ],
+      "explanation": "Spontaniczne wyładowania w seriach (dublety, triplety) świadczą o niedoborze wapnia i magnezu.",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: wyładowania tężyczkowe … są prowokowane niedokrwieniem mięśnia oraz hiperwentylacją.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-34",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Podczas stymulacji nerwu seriami bodźców amplituda kolejnych odpowiedzi mięśnia spada o ponad 10%. Na co to wskazuje?"
+      ],
+      "correct": [
+        "na miastenię (blok postsynaptyczny)"
+      ],
+      "distractors": [
+        "na zespół Lamberta-Eatona (blok presynaptyczny)",
+        "na tężyczkę",
+        "na zapalenie nerwu wzrokowego",
+        "na padaczkę lekooporną",
+        "na demielinizację nerwu słuchowego",
+        "na neuropatię cukrzycową włókien cienkich"
+      ],
+      "explanation": "Dekrement >10% = blok postsynaptyczny (miastenia); wzrost >50% = blok presynaptyczny (Lambert-Eaton, jad kiełbasiany).",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: spadek (dekrement) amplitudy kolejnych potencjałów o ponad 10% … charakterystyczny dla bloku postsynaptycznego (miastenia).",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-35",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym polega tomografia komputerowa (CT)?"
+      ],
+      "correct": [
+        "na pomiarze osłabienia promieni rentgenowskich"
+      ],
+      "distractors": [
+        "na pomiarze sygnału jąder wodoru w silnym polu magnetycznym",
+        "na wykrywaniu promieniowania gamma z anihilacji pozytonów",
+        "na rejestracji pola magnetycznego mózgu",
+        "na pomiarze różnic między oksy- i deoksyhemoglobiną",
+        "na odbiorze fal ultradźwiękowych odbitych od tkanek",
+        "na rejestracji zsumowanej aktywności neuronów"
+      ],
+      "explanation": "Źródło RTG krąży wokół głowy, czujniki mierzą osłabienie wiązki, komputer składa obrazy kolejnych przekrojów.",
+      "sourceExcerpt": "Sadowski s. 37: tomografia komputerowa … za pomocą zmodyfikowanej techniki radiologicznej (rentgenowskiej) i komputerowego opracowania pomiarów.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-36",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Pacjent trafia na SOR po wypadku; trzeba szybko sprawdzić, czy nie ma krwawienia do mózgu. Które badanie obrazowe jest tu typowe?"
+      ],
+      "correct": [
+        "tomografia komputerowa"
+      ],
+      "distractors": [
+        "rezonans magnetyczny czynnościowy",
+        "emisyjna tomografia pozytonowa",
+        "magnetoencefalografia",
+        "polisomnografia",
+        "potencjały wywołane P300",
+        "elektromiografia"
+      ],
+      "explanation": "CT jest szybka (kilka minut) i dobrze pokazuje kości, krwawienia i nagłe urazy.",
+      "sourceExcerpt": "Slajd z ćwiczeń: TK – bardzo krótki czas badania; zastosowanie: kości, płuca, krwawienia, nagłe urazy.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-37",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Która metoda obrazowania daje szczegółowy obraz tkanek miękkich mózgu bez promieniowania jonizującego?"
+      ],
+      "correct": [
+        "rezonans magnetyczny (MRI)"
+      ],
+      "distractors": [
+        "tomografia komputerowa (CT)",
+        "emisyjna tomografia pozytonowa (PET)",
+        "tomografia emisyjna pojedynczego fotonu (SPECT)",
+        "zdjęcie rentgenowskie czaszki",
+        "autoradiografia z 2-deoksyglukozą",
+        "elektroencefalografia"
+      ],
+      "explanation": "MRI: pole magnetyczne + fale radiowe, bez promieniowania jonizującego; dłuższe (15–60 min), widać bardzo małe ogniska.",
+      "sourceExcerpt": "Sadowski s. 38; slajd z ćwiczeń: MRI – silne pole magnetyczne i fale radiowe; brak promieniowania.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-38",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym polega emisyjna tomografia pozytonowa (PET)?"
+      ],
+      "correct": [
+        "na wykrywaniu kwantów gamma z anihilacji pozytonów"
+      ],
+      "distractors": [
+        "na pomiarze osłabienia promieni rentgenowskich przez kości",
+        "na pomiarze sygnału jąder wodoru w polu magnetycznym",
+        "na rejestracji pola magnetycznego włókien nerwowych",
+        "na pomiarze zsumowanych potencjałów z powierzchni głowy",
+        "na odbiorze ultradźwięków odbitych od naczyń",
+        "na rejestracji czynności elektrycznej mięśni głowy"
+      ],
+      "explanation": "Znacznik (np. 2-deoksyglukoza z ¹⁸F) gromadzi się w aktywnych komórkach; pozyton + elektron → dwa kwanty γ w przeciwnych kierunkach → czujniki wokół głowy.",
+      "sourceExcerpt": "Sadowski s. 38: PET wykorzystuje zjawiska promieniowania anihilacyjnego wskutek połączenia się pozytonu z elektronem.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-39",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Które metody pozwalają na funkcjonalne obrazowanie mózgu (czynności, a nie tylko budowy)?"
+      ],
+      "correct": [
+        "PET i fMRI"
+      ],
+      "distractors": [
+        "CT i MRI",
+        "CT i zdjęcie rentgenowskie",
+        "MRI i EMG",
+        "EMG i neurografia",
+        "CT i polisomnografia",
+        "MRI i stereotaksja"
+      ],
+      "explanation": "PET i fMRI pokazują czynność przez metabolizm i przepływ krwi; CT i MRI pokazują budowę.",
+      "sourceExcerpt": "Notatki z ćwiczeń: budowa mózgu – TK, MRI; funkcjonowanie mózgu – PET, fMRI.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-40",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Na czym opiera się czynnościowy rezonans magnetyczny (fMRI)?"
+      ],
+      "correct": [
+        "na zmianach przepływu krwi utlenowanej w aktywnych obszarach (sygnał BOLD)"
+      ],
+      "distractors": [
+        "na wykrywaniu pozytonów z radioaktywnej glukozy",
+        "na pomiarze osłabienia promieni rentgenowskich",
+        "na rejestracji potencjałów elektrycznych kory",
+        "na pomiarze pola magnetycznego wytwarzanego przez neurony",
+        "na drażnieniu kory przezczaszkowym polem magnetycznym",
+        "na autoradiografii skrawków mózgu"
+      ],
+      "explanation": "Aktywny obszar dostaje więcej krwi utlenowanej; oksy- i deoksyhemoglobina różnią się właściwościami magnetycznymi (wiedza ogólna).",
+      "sourceExcerpt": "Notatki z ćwiczeń (obrazowanie metabolizmu i odpowiedzi naczyniowej) + wiedza ogólna.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-i-metody-badan-41",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-i-metody-badan",
+      "stems": [
+        "Ruchowe potencjały wywołane (MEP) uzyskuje się dzięki:"
+      ],
+      "correct": [
+        "przezczaszkowej stymulacji magnetycznej kory ruchowej"
+      ],
+      "distractors": [
+        "drażnieniu nerwu pośrodkowego prądem",
+        "błyskom światła przed oczami badanego",
+        "kliknięciom podawanym w słuchawkach",
+        "wstrzyknięciu radioznacznika do żyły",
+        "hiperwentylacji i fotostymulacji",
+        "elektrodzie igłowej wkłutej w korę"
+      ],
+      "explanation": "TMS indukuje bodźce w korze ruchowej, a odpowiedź rejestruje się z mięśni; pozwala też mapować korę ruchową (np. reorganizację po uszkodzeniu).",
+      "sourceExcerpt": "Koszewicz, Pokryszko-Dragan: MEP można uzyskać dzięki zastosowaniu przezczaszkowej stymulacji magnetycznej (TMS).",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ]
+}

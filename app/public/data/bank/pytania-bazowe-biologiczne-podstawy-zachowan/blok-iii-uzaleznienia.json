@@ -1,0 +1,820 @@
+{
+  "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+  "bookTitle": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+  "chapterId": "blok-iii-uzaleznienia",
+  "chapterTitle": "Blok III – uzależnienia",
+  "sourceHash": "18c67b588fdf9375ae9e125c747194f81f34f946",
+  "questions": [
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-01",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Kluczowy odcinek układu nagrody, nazywany szlakiem mezolimbicznym, to droga dopaminergiczna:"
+      ],
+      "correct": [
+        "z pola brzusznego nakrywki do jądra półleżącego"
+      ],
+      "distractors": [
+        "z istoty czarnej do prążkowia",
+        "z miejsca sinawego do hipokampa",
+        "z jąder szwu do kory przedczołowej",
+        "z jądra półleżącego do pola brzusznego nakrywki",
+        "z podwzgórza do przysadki",
+        "z ciała migdałowatego do móżdżku"
+      ],
+      "explanation": "Neurony VTA uwalniają dopaminę w jądrze półleżącym, wywołując euforię i satysfakcję.",
+      "sourceExcerpt": "Szukalski: szczególną rolę … odgrywa odcinek drogi dopaminergicznej z pola brzusznego nakrywki do jądra półleżącego, zwany szlakiem mezolimbicznym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-02",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Która struktura układu nagrody odpowiada za planowanie i samokontrolę, a w prawidłowych warunkach hamuje dążenie do natychmiastowej nagrody?"
+      ],
+      "correct": [
+        "kora przedczołowa"
+      ],
+      "distractors": [
+        "pole brzuszne nakrywki",
+        "jądro półleżące",
+        "ciało migdałowate",
+        "hipokamp",
+        "prążkowie",
+        "móżdżek",
+        "miejsce sinawe",
+        "jądra szwu"
+      ],
+      "explanation": "Kora przedczołowa wysyła hamujące sygnały do VTA; u uzależnionych ta kontrola jest zaburzona, więc przymus wygrywa.",
+      "sourceExcerpt": "Szukalski: opanowanie impulsów … następuje w wyniku wysyłania przez korę przedczołową hamujących sygnałów do dopaminergicznych neuronów VTA.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-03",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Która struktura układu nagrody kojarzy bodźce ze wzmocnieniem i odpowiada za pamięć emocji?"
+      ],
+      "correct": [
+        "ciało migdałowate"
+      ],
+      "distractors": [
+        "pole brzuszne nakrywki",
+        "jądro półleżące",
+        "kora przedczołowa",
+        "hipokamp",
+        "prążkowie",
+        "móżdżek",
+        "miejsce sinawe",
+        "jądra szwu"
+      ],
+      "explanation": "Ciało migdałowate łączy bodźce (np. miejsce, przedmioty) z nagrodą narkotyku.",
+      "sourceExcerpt": "Szukalski: ciało migdałowate … odgrywa ważną rolę w kojarzeniu bodźców ze wzmocnieniem oraz w rozwoju pamięci emocji.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-04",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Która struktura zawiera neurony dopaminergiczne układu nagrody i ma dużo receptorów opioidowych, przez co spotykają się w niej układ opioidowy i dopaminowy?"
+      ],
+      "correct": [
+        "pole brzuszne nakrywki"
+      ],
+      "distractors": [
+        "jądro półleżące",
+        "kora przedczołowa",
+        "ciało migdałowate",
+        "zakręt zębaty hipokampa",
+        "grzbietowa część prążkowia",
+        "miejsce sinawe w moście",
+        "jądra szwu w pniu mózgu",
+        "móżdżek"
+      ],
+      "explanation": "VTA to główny ośrodek układu nagrody; szczury uczą się reakcji wywołujących mikroiniekcje morfiny do VTA.",
+      "sourceExcerpt": "Sadowski s. 405: w polu brzusznym nakrywki występują w znacznej liczbie receptory opioidowe … miejsce interakcji neuronów opioidergicznych i dopaminergicznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-05",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Szczur w klatce Skinnera sam naciska dźwignię, która drażni prądem określony obszar jego mózgu, i robi to wielokrotnie. Co to zjawisko pokazuje?"
+      ],
+      "correct": [
+        "że w mózgu istnieją obszary, których pobudzenie działa jak nagroda"
+      ],
+      "distractors": [
+        "że prąd elektryczny zawsze wywołuje ból i unikanie",
+        "że szczury nie potrafią nauczyć się reakcji instrumentalnej",
+        "że drażnienie mózgu wywołuje wyłącznie ruchy mimowolne",
+        "że nagroda działa tylko wtedy, gdy jest pokarmem",
+        "że pobudzenie każdego obszaru mózgu jest przyjemne",
+        "że samodrażnienie zależy od serotoniny, a nie od dopaminy"
+      ],
+      "explanation": "To samodrażnienie (Olds i Milner); zablokowanie synaps dopaminergicznych je znosi. Są też obszary, których drażnienia zwierzę unika (układ kary).",
+      "sourceExcerpt": "Sadowski s. 403–404: zwierzęta łatwo nauczyły się same aplikować sobie drażnienie mózgu … stanami przyjemności i przykrości kierują dwa zespoły ośrodków – układ nagrody i układ kary.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-06",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Która obserwacja najmocniej wskazuje, że samodrażnienie mózgu zależy od dopaminy?"
+      ],
+      "correct": [
+        "po zablokowaniu synaps dopaminergicznych szczury przestają się drażnić"
+      ],
+      "distractors": [
+        "po zablokowaniu synaps serotoninergicznych szczury drażnią się częściej",
+        "samodrażnienie występuje tylko u szczurów, nie u ludzi",
+        "elektroda musi być umieszczona w móżdżku",
+        "szczury drażnią się tylko wtedy, gdy są głodne",
+        "drażnienie przyśrodkowego podwzgórza jest najbardziej nagradzające",
+        "morfina całkowicie znosi samodrażnienie"
+      ],
+      "explanation": "Najłatwiej uzyskać samodrażnienie z pęczka przyśrodkowego przodomózgowia (aksony dopaminergiczne); blokada DA je znosi. Morfina natomiast obniża próg samodrażnienia.",
+      "sourceExcerpt": "Sadowski s. 404: po zablokowaniu synaps dopaminergicznych szczury zaprzestają samodrażnienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-07",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Po iniekcji morfiny szczur zaczyna „pracować” na samodrażnienie przy słabszym prądzie niż wcześniej. Co z tego wynika?"
+      ],
+      "correct": [
+        "że morfina zwiększa wrażliwość układu nagrody"
+      ],
+      "distractors": [
+        "że morfina blokuje układ nagrody",
+        "że morfina działa tylko w rdzeniu kręgowym",
+        "że morfina zmniejsza zdolność uczenia się",
+        "że morfina pobudza układ kary",
+        "że morfina wyłącza receptory dopaminowe",
+        "że morfina działa wyłącznie przeciwbólowo"
+      ],
+      "explanation": "Obniżenie progu samodrażnienia jest dowodem pobudzenia układu nagrody przez substancję – uzależniające substancje obniżają próg ICSS.",
+      "sourceExcerpt": "Sadowski s. 405: pod wpływem morfiny neurony układu nagrody stają się bardziej wrażliwe na prąd elektryczny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-08",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Co mają wspólnego narkotyki o tak różnym działaniu jak kokaina i heroina?"
+      ],
+      "correct": [
+        "gwałtownie zwiększają stężenie dopaminy w jądrze półleżącym"
+      ],
+      "distractors": [
+        "blokują receptory opioidowe w rdzeniu",
+        "obniżają stężenie dopaminy w układzie nagrody",
+        "działają wyłącznie na receptory serotoninowe",
+        "pobudzają receptory GABA-A w korze",
+        "hamują wydzielanie glutaminianu w hipokampie",
+        "niszczą neurony dopaminergiczne pola brzusznego nakrywki"
+      ],
+      "explanation": "Docelowe receptory i mechanizmy są różne, ale końcowy efekt w układzie nagrody jest ten sam.",
+      "sourceExcerpt": "Szukalski: substancje uzależniające o zupełnie różnej strukturze … wywołują identyczne zmiany w układzie nagrody: gwałtowny wzrost stężenia dopaminy w neuronach i synapsach jądra półleżącego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-09",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Według Kalata dopamina w jądrze półleżącym wydziela się najsilniej, gdy nagroda jest:"
+      ],
+      "correct": [
+        "niespodziewana"
+      ],
+      "distractors": [
+        "w pełni przewidywalna",
+        "zapowiedziana stałym sygnałem",
+        "bardzo mała",
+        "odroczona o kilka dni",
+        "zawsze taka sama",
+        "otrzymana bez wysiłku"
+      ],
+      "explanation": "Przewidziane jedzenie nie zwiększa wydzielania DA; dopamina sygnalizuje istotność i przyciąga uwagę, a nie tylko przyjemność.",
+      "sourceExcerpt": "Kalat s. 452–453: spożycie posiłku zwiększa wydzielanie dopaminy tylko wtedy, gdy jest niespodziewane.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-10",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Narkoman musi brać coraz większe dawki, żeby uzyskać ten sam efekt. Jaki mechanizm molekularny to tłumaczy?"
+      ],
+      "correct": [
+        "CREB nasila syntezę dynorfiny, która hamuje uwalnianie dopaminy"
+      ],
+      "distractors": [
+        "ΔFosB zwiększa wrażliwość na narkotyk",
+        "dynorfina zwiększa uwalnianie dopaminy w jądrze półleżącym",
+        "narkotyk niszczy wszystkie receptory dopaminowe",
+        "kora przedczołowa przestaje wydzielać glutaminian",
+        "w synapsie gromadzi się monoaminooksydaza",
+        "serotonina zastępuje dopaminę w układzie nagrody"
+      ],
+      "explanation": "Tolerancja: długo wysoka dopamina → cAMP → CREB → dynorfina → receptory κ → mniej DA (dysforia). ΔFosB działa odwrotnie – uwrażliwia.",
+      "sourceExcerpt": "Szukalski: dynorfina aktywuje receptory κ w dopaminergicznych neuronach VTA, hamuje … uwalnianie dopaminy … dłużej trwająca aktywacja CREB zmusza przewlekłych narkomanów do brania większych dawek.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-11",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Dlaczego narkoman może wrócić do nałogu nawet po latach abstynencji?"
+      ],
+      "correct": [
+        "bo trwałe zmiany (np. ΔFosB) uwrażliwiają na narkotyk"
+      ],
+      "distractors": [
+        "bo dopamina przestaje być wydzielana na zawsze",
+        "bo tolerancja na narkotyk utrzymuje się do końca życia",
+        "bo receptory opioidowe znikają z mózgu",
+        "bo kora przedczołowa całkowicie zanika",
+        "bo narkotyk zostaje w mózgu przez wiele lat",
+        "bo wszystkie neurony jądra półleżącego obumierają"
+      ],
+      "explanation": "Uwrażliwienie na miejsca, przedmioty i sytuacje przypominające euforię wywołuje głód narkotyku, zwłaszcza w stresie.",
+      "sourceExcerpt": "Szukalski: ∆FosB … uwrażliwienie na miejsce, przedmioty i sytuacje przypominające dawną euforię, które naraża narkomana na nawroty uzależnienia pod wpływem stresu.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-12",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jaką rolę w uzależnieniu odgrywa hipokamp?"
+      ],
+      "correct": [
+        "zapamiętuje kontekst brania, który potem wywołuje głód"
+      ],
+      "distractors": [
+        "wytwarza dopaminę w układzie nagrody",
+        "rozkłada narkotyki w mózgu",
+        "odpowiada za objawy odstawienne z rdzenia kręgowego",
+        "hamuje działanie wszystkich narkotyków",
+        "uwalnia endorfiny podczas brania narkotyku",
+        "jest jedynym miejscem działania kokainy"
+      ],
+      "explanation": "Hipokamp (pamięć deklaratywna i przestrzenna) przez glutaminian wpływa na jądro półleżące; wspomnienie okoliczności wywołuje głód narkotyku.",
+      "sourceExcerpt": "Szukalski: zwiększony dopływ sygnałów pamięciowych z hipokampa i jąder migdałowatych mógłby tłumaczyć intensywne pragnienie przyjęcia narkotyków na wspomnienie okoliczności.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-13",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Szczurom pokazuje się bodziec wcześniej skojarzony z kokainą. Co się dzieje?"
+      ],
+      "correct": [
+        "bardziej starają się zdobyć narkotyk"
+      ],
+      "distractors": [
+        "przestają się interesować kokainą",
+        "zasypiają",
+        "stają się agresywne wobec innych szczurów",
+        "unikają miejsca, gdzie widziały bodziec",
+        "przestają jeść na kilka dni",
+        "zapominają wyuczoną reakcję"
+      ],
+      "explanation": "Bodźce przypominające o narkotyku wywołują głód – to jeden z głównych problemów leczenia uzależnień.",
+      "sourceExcerpt": "Kalat s. 454: szczury, którym zaprezentuje się bodziec uprzednio skojarzony z kokainą, demonstrują zwiększony wysiłek, aby zdobyć ponownie ten narkotyk.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-14",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak działa amfetamina na synapsy dopaminergiczne?"
+      ],
+      "correct": [
+        "odwraca transporter, więc komórka wyrzuca dopaminę"
+      ],
+      "distractors": [
+        "blokuje receptory dopaminowe na neuronie postsynaptycznym",
+        "hamuje syntezę dopaminy z tyrozyny",
+        "pobudza receptory opioidowe na neuronach GABA",
+        "pobudza nikotynowe receptory acetylocholiny",
+        "rozkłada dopaminę w szczelinie synaptycznej",
+        "pobudza receptory serotoninowe 5-HT2A"
+      ],
+      "explanation": "Amfetamina zwiększa wydzielanie DA (odwraca transporter, blokuje wychwyt, hamuje MAO); kokaina głównie blokuje wychwyt zwrotny.",
+      "sourceExcerpt": "Kalat s. 454: amfetamina odwraca działanie transportera, sprawiając, że komórka wydziela dopaminę, zamiast ją wychwytywać.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-15",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak działa kokaina?"
+      ],
+      "correct": [
+        "blokuje wychwyt zwrotny DA, NA i serotoniny"
+      ],
+      "distractors": [
+        "odwraca działanie transportera dopaminowego",
+        "pobudza receptory opioidowe μ",
+        "pobudza receptory kannabinoidowe CB1",
+        "pobudza receptory GABA-A",
+        "naśladuje serotoninę na receptorach 5-HT2A",
+        "blokuje receptory glutaminianowe NMDA"
+      ],
+      "explanation": "Przedłuża działanie przekaźników w szczelinie; efekt silny, ale krótki – potem „zjazd”.",
+      "sourceExcerpt": "Kalat s. 454: kokaina blokuje wychwyt zwrotny dopaminy, noradrenaliny i serotoniny, przedłużając w ten sposób ich działanie.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-16",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Dlaczego po kilku godzinach od zażycia kokainy lub amfetaminy pojawia się „zjazd” (stan depresyjny)?"
+      ],
+      "correct": [
+        "bo wyczerpują się zapasy dopaminy"
+      ],
+      "distractors": [
+        "bo narkotyk zaczyna blokować receptory opioidowe",
+        "bo w mózgu gromadzi się nadmiar serotoniny",
+        "bo kora przedczołowa wydziela dynorfinę",
+        "bo narkotyk niszczy neurony jądra półleżącego",
+        "bo wzrasta synteza dopaminy w istocie czarnej",
+        "bo receptory dopaminowe stają się nadwrażliwe"
+      ],
+      "explanation": "Zapasy dopaminy się wyczerpują, a nadmiar DA w szczelinie pobudza autoreceptory (ujemne sprzężenie zwrotne).",
+      "sourceExcerpt": "Kalat s. 454: wydzielana w nadmiarze dopamina dyfunduje z synapsy szybciej niż komórka presynaptyczna jest w stanie ją wytworzyć … pobudza autoreceptory.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-17",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Metylofenidat blokuje wychwyt dopaminy podobnie jak kokaina. Dlaczego w tabletkach nie wywołuje „haju” ani uzależnienia?"
+      ],
+      "correct": [
+        "bo jego stężenie w mózgu rośnie i spada powoli"
+      ],
+      "distractors": [
+        "bo działa wyłącznie na serotoninę",
+        "bo nie przenika do mózgu",
+        "bo pobudza receptory opioidowe",
+        "bo blokuje receptory dopaminowe",
+        "bo działa tylko u dzieci",
+        "bo jest szybko rozkładany w żołądku"
+      ],
+      "explanation": "Różnica to dawka i dynamika: tabletka – szczyt po godzinie; kokaina wdychana lub wstrzykiwana – zmiany 4–5 razy szybsze.",
+      "sourceExcerpt": "Kalat s. 454: metylofenidat nie wywołuje nagłego wzrostu pobudzenia, silnych objawów odstawienia, głodu narkotycznego ani uzależnienia.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-18",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "W jaki sposób opiaty zwiększają wydzielanie dopaminy w układzie nagrody?"
+      ],
+      "correct": [
+        "hamują neurony GABA w VTA, odhamowując neurony dopaminowe"
+      ],
+      "distractors": [
+        "bezpośrednio pobudzają receptory dopaminowe w jądrze półleżącym",
+        "blokują wychwyt zwrotny dopaminy",
+        "odwracają działanie transportera dopaminowego",
+        "pobudzają nikotynowe receptory na zakończeniach dopaminergicznych",
+        "naśladują serotoninę na receptorach 5-HT2A",
+        "zwiększają wydzielanie glutaminianu w korze"
+      ],
+      "explanation": "Receptory μ na neuronach GABA w VTA → mniej GABA → odhamowanie neuronów dopaminergicznych → więcej DA.",
+      "sourceExcerpt": "Kalat s. 457; Szukalski: opioidy działają na receptory opioidowe μ … na neuronach VTA, hamując GABA-ergiczną neurotransmisję, a to powoduje odhamowanie neuronów dopaminergicznych.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-19",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Endorfiny to:"
+      ],
+      "correct": [
+        "peptydy mózgu działające na receptory opioidowe"
+      ],
+      "distractors": [
+        "syntetyczne pochodne morfiny stosowane w szpitalach",
+        "enzymy rozkładające dopaminę",
+        "receptory, z którymi wiąże się marihuana",
+        "hormony kory nadnerczy wydzielane w stresie",
+        "neurony dopaminergiczne pola brzusznego nakrywki",
+        "przekaźniki wsteczne hamujące wydzielanie GABA"
+      ],
+      "explanation": "Nazwa = endogenne + morfiny. Odkrycie receptorów opioidowych wskazało, że mózg sam musi wytwarzać substancje, które się z nimi wiążą.",
+      "sourceExcerpt": "Kalat s. 456: syntetyzowanych w układzie nerwowym peptydów … dzisiaj znamy je pod nazwą endorfin.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-20",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak nikotyna zwiększa wydzielanie dopaminy w jądrze półleżącym?"
+      ],
+      "correct": [
+        "pobudza nikotynowe receptory acetylocholiny"
+      ],
+      "distractors": [
+        "blokuje wychwyt zwrotny dopaminy",
+        "pobudza receptory opioidowe μ",
+        "pobudza receptory kannabinoidowe CB1",
+        "hamuje receptory GABA-A",
+        "naśladuje dopaminę na receptorach D2",
+        "blokuje receptory glutaminianowe NMDA"
+      ],
+      "explanation": "Nikotyna to agonista receptorów nikotynowych; zwiększa DA w tych samych komórkach jądra półleżącego co kokaina.",
+      "sourceExcerpt": "Kalat s. 456: receptory nikotynowe występują w dużym zagęszczeniu w zakończeniach presynaptycznych wydzielających dopaminę w jądrze półleżącym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-21",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Receptory kannabinoidowe występują w hipokampie, jądrach podstawy i móżdżku, a prawie wcale w rdzeniu przedłużonym. Jaki ma to skutek?"
+      ],
+      "correct": [
+        "marihuana słabo wpływa na oddech i serce, trudno ją przedawkować"
+      ],
+      "distractors": [
+        "marihuana silnie hamuje ośrodek oddechowy",
+        "marihuana nie wpływa na pamięć",
+        "marihuana działa tylko na mięśnie szkieletowe",
+        "marihuana działa wyłącznie przeciwbólowo w rdzeniu",
+        "marihuana nie ma żadnych efektów psychicznych",
+        "marihuana wywołuje bardzo silne objawy odstawienne"
+      ],
+      "explanation": "W rdzeniu przedłużonym leżą ośrodki oddechowe i sercowe; mało receptorów CB1 – mały wpływ na te funkcje.",
+      "sourceExcerpt": "Kalat s. 457: jest ich bardzo niewiele w rdzeniu przedłużonym … z tego powodu marihuana ma niewielki wpływ na ten aspekt funkcjonowania organizmu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-22",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak działają endogenne kannabinoidy (anandamid, 2-AG) w synapsie?"
+      ],
+      "correct": [
+        "wracają do neuronu presynaptycznego i hamują jego wydzielanie"
+      ],
+      "distractors": [
+        "wydzielane przez neuron presynaptyczny pobudzają receptory postsynaptyczne",
+        "rozkładają glutaminian w szczelinie synaptycznej",
+        "blokują wychwyt zwrotny dopaminy",
+        "pobudzają nikotynowe receptory acetylocholiny",
+        "otwierają kanały wapniowe w neuronie postsynaptycznym",
+        "zwiększają wydzielanie GABA i glutaminianu"
+      ],
+      "explanation": "To przekaźniki wsteczne: hamują wydzielanie zarówno glutaminianu, jak i GABA, więc THC nie jest ani stymulantem, ani depresantem.",
+      "sourceExcerpt": "Kalat s. 457–458: przemieszcza się wstecz – retrogradnie – do neuronu presynaptycznego i przejściowo hamuje wydzielanie przez niego neuroprzekaźnika.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-23",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Dlaczego marihuana pogarsza pamięć?"
+      ],
+      "correct": [
+        "bo sztucznie wywołują LTD w hipokampie"
+      ],
+      "distractors": [
+        "bo niszczą neurony hipokampa na stałe",
+        "bo blokują syntezę dopaminy w korze",
+        "bo pobudzają receptory 5-HT2A",
+        "bo nasilają wydzielanie kortyzolu",
+        "bo hamują receptory opioidowe w hipokampie",
+        "bo uszkadzają osłonki mielinowe w korze"
+      ],
+      "explanation": "Kannabinoidy są przekaźnikami wstecznymi przy LTD; marihuana osłabia połączenia, które powinny zachować siłę. Pamięć wraca ok. 4 tygodnie po odstawieniu.",
+      "sourceExcerpt": "Kalat s. 458: marihuana może w sztuczny sposób wywoływać LTD i osłabiać połączenia nerwowe, które powinny zachować swoją siłę.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-24",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak działa LSD?"
+      ],
+      "correct": [
+        "pobudza receptory serotoninowe 5-HT2A"
+      ],
+      "distractors": [
+        "blokuje wychwyt zwrotny dopaminy",
+        "pobudza receptory opioidowe μ",
+        "pobudza receptory GABA-A",
+        "blokuje receptory glutaminianowe NMDA",
+        "pobudza receptory kannabinoidowe CB1",
+        "pobudza nikotynowe receptory acetylocholiny"
+      ],
+      "explanation": "LSD chemicznie przypomina serotoninę i pobudza 5-HT2A niezależnie od naturalnej stymulacji.",
+      "sourceExcerpt": "Kalat s. 458: LSD pod względem chemicznym przypomina serotoninę i pobudza receptory serotoninergiczne typu 2A.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-25",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Dlaczego LSD działa nawet po zniszczeniu u szczurów neuronów wydzielających serotoninę, a amfetamina bez zapasów przekaźnika przestaje działać?"
+      ],
+      "correct": [
+        "bo LSD działa na receptory, a amfetamina przez uwalnianie"
+      ],
+      "distractors": [
+        "bo LSD samo wytwarza serotoninę w neuronach",
+        "bo LSD działa na receptory dopaminowe, a nie serotoninowe",
+        "bo amfetamina działa tylko na neurony glejowe",
+        "bo LSD regeneruje zniszczone neurony",
+        "bo amfetamina działa wyłącznie przez receptory opioidowe",
+        "bo LSD jest rozkładane wolniej niż amfetamina"
+      ],
+      "explanation": "Po utracie neuronów presynaptycznych neuron postsynaptyczny wytwarza więcej receptorów, więc LSD może działać nawet silniej.",
+      "sourceExcerpt": "Kalat s. 458: LSD może oddziaływać na mózg nawet wtedy, gdy uszkodzimy szczurom neurony wydzielające serotoninę.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-26",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Fencyklidyna (PCP) i ketamina wywołują objawy podobne do psychozy, ponieważ:"
+      ],
+      "correct": [
+        "blokują receptory glutaminianowe typu NMDA"
+      ],
+      "distractors": [
+        "pobudzają receptory dopaminowe D2",
+        "pobudzają receptory opioidowe",
+        "blokują wychwyt zwrotny serotoniny",
+        "pobudzają receptory GABA-A",
+        "pobudzają receptory kannabinoidowe",
+        "zwiększają wydzielanie acetylocholiny"
+      ],
+      "explanation": "PCP hamuje receptory NMDA; wywołuje zarówno pozytywne, jak i negatywne objawy schizofrenii.",
+      "sourceExcerpt": "Kalat s. 486: fencyklidyna (PCP) to substancja, która hamuje receptory glutaminergiczne typu NMDA.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-27",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Które działanie alkoholu tłumaczy jego efekt uspokajający?"
+      ],
+      "correct": [
+        "pobudzanie receptorów GABA-A"
+      ],
+      "distractors": [
+        "blokowanie wychwytu zwrotnego dopaminy",
+        "pobudzanie receptorów 5-HT2A",
+        "pobudzanie receptorów nikotynowych",
+        "pobudzanie receptorów opioidowych μ",
+        "zwiększanie aktywności receptorów NMDA",
+        "odwracanie działania transportera dopaminowego"
+      ],
+      "explanation": "Alkohol pobudza GABA-A, blokuje receptory glutaminianowe, obniża aktywność serotoninową i zwiększa aktywność dopaminową.",
+      "sourceExcerpt": "Kalat s. 459: alkohol … stymuluje receptory GABAA, blokuje receptory glutaminergiczne i zwiększa aktywność układu dopaminergicznego.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-28",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Alkoholizm typu II (B) charakteryzuje się:"
+      ],
+      "correct": [
+        "wczesnym początkiem i silnym podłożem genetycznym"
+      ],
+      "distractors": [
+        "późnym początkiem i stopniowym rozwojem nałogu",
+        "słabszym podłożem genetycznym niż typ I",
+        "występowaniem głównie u kobiet",
+        "wysokim obrotem serotoniny",
+        "brakiem związku z impulsywnością",
+        "początkiem zwykle po 40. roku życia"
+      ],
+      "explanation": "Typ II: wcześnie (przed 25 r.ż.), szybko, więcej krewnych-alkoholików, prawie wyłącznie mężczyźni, mały obrót serotoniny, impulsywność.",
+      "sourceExcerpt": "Kalat s. 459–460: alkoholizm typu II – wcześniejszy początek, szybszy rozwój nałogu, więcej krewnych uzależnionych; mały obrót serotoniny.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-29",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Ktoś wolno przekształca aldehyd octowy w kwas octowy (mutacja dehydrogenazy aldehydowej). Jak to wpływa na ryzyko alkoholizmu?"
+      ],
+      "correct": [
+        "zmniejsza je, bo alkohol wywołuje przykre objawy"
+      ],
+      "distractors": [
+        "zwiększa je, bo alkohol dłużej działa euforyzująco",
+        "nie ma żadnego wpływu",
+        "zwiększa je, bo alkohol szybciej pobudza dopaminę",
+        "zmniejsza je, bo alkohol nie przenika do mózgu",
+        "zwiększa je, bo zmniejsza objawy kaca",
+        "zmniejsza je, bo przyspiesza rozkład alkoholu"
+      ],
+      "explanation": "Zaczerwienienie, nudności, ból głowy zniechęcają do picia; na tym samym działa disulfiram (blokuje ten enzym).",
+      "sourceExcerpt": "Kalat s. 460: ludzie, którzy nie mogą metabolizować aldehydu octowego, raczej nie mają skłonności do picia dużych ilości alkoholu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-30",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Jak działa disulfiram stosowany w leczeniu alkoholizmu?"
+      ],
+      "correct": [
+        "blokuje dehydrogenazę aldehydową"
+      ],
+      "distractors": [
+        "blokuje receptory GABA-A, więc alkohol przestaje uspokajać",
+        "przyspiesza rozkład alkoholu w wątrobie",
+        "blokuje receptory opioidowe",
+        "zwiększa wydzielanie dopaminy po alkoholu",
+        "zmniejsza wchłanianie alkoholu z jelit",
+        "zastępuje alkohol na receptorach w mózgu"
+      ],
+      "explanation": "Alkoholik ma skojarzyć alkohol z nieprzyjemnymi doznaniami; skuteczność umiarkowana, lepsza przy nadzorze bliskich.",
+      "sourceExcerpt": "Kalat s. 460: disulfiram … blokuje działanie dehydrogenazy aldehydowej … osoby stosujące disulfiram ciężko odchorowują każdą ilość wypitego alkoholu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-31",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Czym synowie alkoholików (jeszcze nieuzależnieni) różnią się średnio od rówieśników?"
+      ],
+      "correct": [
+        "słabiej się upijają i silniej odprężają po alkoholu"
+      ],
+      "distractors": [
+        "silniej odczuwają upojenie i nie lubią alkoholu",
+        "nie odczuwają żadnego odprężenia po alkoholu",
+        "szybciej metabolizują aldehyd octowy",
+        "mają większe ciało migdałowate",
+        "mają wyższy obrót serotoniny",
+        "piją mniej, bo szybko się upijają"
+      ],
+      "explanation": "Ktoś z „mocną głową” pije dalej; połączenie słabego upojenia, silnego odprężenia i poszukiwania wrażeń to największe ryzyko.",
+      "sourceExcerpt": "Kalat s. 462: synowie alkoholików wykazują słabsze objawy upojenia … odczuwają również większe niż inni uwolnienie od napięcia po wypiciu alkoholu.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-32",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "MDMA (ecstasy) w badaniach na małpach:"
+      ],
+      "correct": [
+        "uszkadzało aksony serotoninergiczne"
+      ],
+      "distractors": [
+        "zwiększało liczbę neuronów w hipokampie",
+        "nie wpływało na żadne neurony",
+        "niszczyło wyłącznie neurony ruchowe",
+        "pobudzało wyłącznie receptory opioidowe",
+        "zwiększało gęstość aksonów serotoninergicznych",
+        "uszkadzało tylko komórki glejowe"
+      ],
+      "explanation": "W małych dawkach MDMA zwiększa DA, w większych także 5-HT (działanie halucynogenne) i może niszczyć aksony 5-HT.",
+      "sourceExcerpt": "Kalat s. 455: MDMA nie tylko stymuluje aksony, które wydzielają dopaminę i serotoninę, ale również niszczy je.",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-33",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Który neuroprzekaźnik jest wspólnym mianownikiem działania nagradzającego większości narkotyków?"
+      ],
+      "correct": [
+        "dopamina"
+      ],
+      "distractors": [
+        "serotonina",
+        "acetylocholina",
+        "glicyna",
+        "histamina",
+        "noradrenalina",
+        "kortyzol"
+      ],
+      "explanation": "Prawie wszystkie substancje uzależniające zwiększają DA w jądrze półleżącym (choć benzodiazepiny i inhalanty nagradzają bez pobudzania DA).",
+      "sourceExcerpt": "Kalat s. 453: prawie wszystkie substancje uzależniające powodują zwiększenie wydzielania dopaminy w jądrze półleżącym.",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-34",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Które substancje mają działanie nagradzające i są nadużywane, mimo że nie pobudzają układu dopaminergicznego?"
+      ],
+      "correct": [
+        "benzodiazepiny i barbiturany"
+      ],
+      "distractors": [
+        "kokaina i amfetamina",
+        "nikotyna i kofeina",
+        "morfina i heroina",
+        "metylofenidat i MDMA",
+        "marihuana i nikotyna",
+        "amfetamina i metamfetamina"
+      ],
+      "explanation": "To pokazuje, że dopamina nie jest jedynym, uniwersalnym markerem nagrody.",
+      "sourceExcerpt": "Szukalski: wziewne środki odurzające (inhalanty) oraz barbiturany i benzodiazepiny nie wywołują stymulacji układu dopaminergicznego, a mimo to mają właściwości nagradzające.",
+      "difficulty": 3,
+      "status": "ok"
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan-blok-iii-uzaleznienia-35",
+      "bookId": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "chapterId": "blok-iii-uzaleznienia",
+      "stems": [
+        "Kokaina obniża całkowitą aktywność mózgu widoczną w PET. Jak to wyjaśnić?"
+      ],
+      "correct": [
+        "bo dopamina jest w większości przekaźnikiem hamującym"
+      ],
+      "distractors": [
+        "bo kokaina niszczy neurony w całym mózgu",
+        "bo kokaina blokuje przepływ krwi do mózgu",
+        "bo kokaina pobudza wyłącznie receptory GABA",
+        "bo kokaina obniża stężenie glukozy we krwi",
+        "bo kokaina zmniejsza wydzielanie dopaminy",
+        "bo PET nie wykrywa aktywności przy kokainie"
+      ],
+      "explanation": "Zwiększona aktywność dopaminergiczna obniża aktywność dużej części mózgu – według jednej hipotezy zmniejsza „szum tła”.",
+      "sourceExcerpt": "Kalat s. 455: ponieważ dopamina jest przede wszystkim przekaźnikiem hamującym, substancje, które zwiększają aktywność w synapsach dopaminergicznych, obniżają aktywność w znacznej części mózgu.",
+      "difficulty": 3,
+      "status": "ok"
+    }
+  ]
+}

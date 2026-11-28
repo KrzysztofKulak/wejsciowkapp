@@ -50,6 +50,7 @@
       "title": "Biologiczne podstawy zachowań",
       "books": [
         "cwiczenia-biologiczne-podstawy-zachowan",
+        "pytania-bazowe-biologiczne-podstawy-zachowan",
         "prezentacja-neuronalne-podloze-stresu",
         "wyklady-biologiczne-podstawy-zachowan"
       ]
@@ -361,6 +362,42 @@
           "id": "metody-inwazyjne-i-bezinwazyjne",
           "title": "Metody inwazyjne i bezinwazyjne",
           "questionCount": 38,
+          "cheatsheet": true
+        }
+      ]
+    },
+    {
+      "id": "pytania-bazowe-biologiczne-podstawy-zachowan",
+      "title": "Pytania bazowe – Biologiczne podstawy zachowań (notatki AI)",
+      "chapters": [
+        {
+          "id": "blok-i-metody-badan",
+          "title": "Blok I – metody badania układu nerwowego",
+          "questionCount": 41,
+          "cheatsheet": true
+        },
+        {
+          "id": "blok-ii-emocje-i-stres",
+          "title": "Blok II – emocje i stres",
+          "questionCount": 35,
+          "cheatsheet": true
+        },
+        {
+          "id": "blok-iii-uzaleznienia",
+          "title": "Blok III – uzależnienia",
+          "questionCount": 35,
+          "cheatsheet": true
+        },
+        {
+          "id": "blok-iv-neuroplastycznosc-i-pamiec",
+          "title": "Blok IV – neuroplastyczność i pamięć",
+          "questionCount": 54,
+          "cheatsheet": true
+        },
+        {
+          "id": "blok-v-agresja",
+          "title": "Blok V – agresja",
+          "questionCount": 28,
           "cheatsheet": true
         }
       ]
