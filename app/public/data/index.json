@@ -513,6 +513,20 @@
       ],
       "imageCount": 7,
       "cheatsheet": true
+    },
+    {
+      "id": "wejsciowka-3-psychologia-spoleczna-stereotypy-i-relacje-miedzygrupowe",
+      "title": "wejściówka 3: psychologia społeczna – stereotypy i relacje międzygrupowe",
+      "tag": "wejściówka 3: psychologia społeczna – stereotypy i relacje międzygrupowe",
+      "questionCount": 23,
+      "sources": [
+        {
+          "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+          "chapterId": "rozdzial-19-notatki-ai",
+          "questionCount": 23
+        }
+      ],
+      "cheatsheet": true
     }
   ]
 }
