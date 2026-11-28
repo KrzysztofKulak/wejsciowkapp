@@ -3178,6 +3178,121 @@
       "sourceExcerpt": "s. 482: choć korelacja ta wynosi średnio tylko −0,29, a więc jest zacznie niższa od korelacji status–sprawczość",
       "difficulty": 3,
       "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-143",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Jak Jost i in. nazywają zjawisko, w którym członkowie grup położonych niżej w hierarchii sami akceptują swoją gorszą pozycję i przypisują sobie mniejsze uprawnienia (np. kobiety oczekujące niższych płac niż mężczyźni)?"
+      ],
+      "correct": [
+        "samoupośledzenie"
+      ],
+      "distractors": [
+        "konflikt symboliczny",
+        "dehumanizacja",
+        "zagrożenie stereotypem",
+        "piętnowanie (stygmatyzacja)",
+        "infrahumanizacja",
+        "faworyzacja grupy własnej"
+      ],
+      "explanation": "Grupy niżej w hierarchii same uznają, że należy im się mniej – to samoupośledzenie (samoupośledzanie). Utrwala status quo, bo usprawiedliwia system także w oczach pokrzywdzonych.",
+      "sourceExcerpt": "s. 477: Innym mechanizmem podtrzymującym hierarchię jest samoupośledzanie przejawiane przez grupy położone niżej w hierarchii. Kobiety na przykład uważają, że zasługują na niższą płacę niż mężczyźni",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-144",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Zgodnie z modelem treści stereotypów (MTS), jak nazywa się stereotyp grupy uznawanej za mało kompetentną, ale ciepłą?"
+      ],
+      "correct": [
+        "stereotyp paternalistyczny"
+      ],
+      "distractors": [
+        "stereotyp jednorodnie pozytywny",
+        "stereotyp jednorodnie negatywny",
+        "stereotyp zawistny",
+        "stereotyp spiskowy",
+        "stereotyp merytokratyczny",
+        "stereotyp egalitarny"
+      ],
+      "explanation": "Ciepło bez kompetencji (np. osoby starsze, gospodynie domowe) daje stereotyp paternalistyczny, a emocją wobec takiej grupy jest litość. Kompetencja bez ciepła – zawistny; oba są ambiwalentne.",
+      "sourceExcerpt": "Tabela 19.3 (s. 480): stereotypy paternalistyczne – ciepło, brak kompetencji: gospodynie domowe, osoby starsze, inwalidzi",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-145",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Co wykazały klasyczne badania Tajfela prowadzone w paradygmacie grup minimalnych?"
+      ],
+      "correct": [
+        "Do faworyzacji grupy własnej wystarczy podział osób na dwie arbitralne kategorie"
+      ],
+      "distractors": [
+        "W warunkach anonimowości ludzie traktują członków grupy własnej surowiej niż grupy obcej",
+        "Rezultatem podziału na grupy minimalne jest zawsze konflikt międzygrupowy",
+        "Uprzedzenia wobec grupy obcej pojawiają się tylko w przypadku rywalizacji o zasoby",
+        "Faworyzacja grupy własnej pojawia się dopiero po dłuższej znajomości członków",
+        "Podział na grupy minimalne nie wpływa na to, jak badani dzielą nagrody",
+        "Badani dzielili nagrody tak, by przede wszystkim zmaksymalizować wspólny zysk"
+      ],
+      "explanation": "Nawet podział według błahego, przypadkowego kryterium – bez rywalizacji, historii ani kontaktu – wystarcza, by ludzie faworyzowali „swoich”. Sama kategoryzacja „my–oni” uruchamia faworyzację.",
+      "sourceExcerpt": "s. 488: Okazało się, że ta sama w sobie pozbawiona znaczenia (arbitralna) różnica między uczestnikami eksperymentu wystarczała do pojawienia się podziału na grupę własną (my) i grupę obcą (oni)",
+      "difficulty": 2,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-146",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "Na czym polega zjawisko zagrożenia stereotypem opisane przez Claude'a Steele'a (np. przy rozwiązywaniu trudnych zadań matematycznych)?"
+      ],
+      "correct": [
+        "Na obniżeniu sprawności w dziedzinie objętej stereotypem"
+      ],
+      "distractors": [
+        "Na stałym poczuciu zagrożenia ze strony grupy obcej",
+        "Na wykluczeniu członków grupy własnej pod wpływem stereotypu",
+        "Na zawyżaniu ocen członków grupy własnej w reakcji na stereotyp",
+        "Na unikaniu kontaktu z członkami grupy obcej",
+        "Na przypisywaniu grupie obcej cech zagrażających",
+        "Na wzroście motywacji do obalenia stereotypu"
+      ],
+      "explanation": "Sama świadomość, że jest się członkiem grupy objętej negatywnym stereotypem (np. „kobiety słabo liczą”), obniża wyniki w tej dziedzinie – m.in. przez stres, śledzenie oznak porażki i tłumienie myśli, które zabierają pamięć operacyjną.",
+      "sourceExcerpt": "s. 493: zagrożenie stereotypem, czyli spadek sprawności działania w dziedzinach nim objętych pod wpływem samej świadomości, że oto jest się członkiem stereotypizowanej grupy, który może okazać się (raz jeszcze) gorszy w danej dziedzinie",
+      "difficulty": 1,
+      "status": "ok"
+    },
+    {
+      "id": "psychologia-spoleczna-grzyb-wojciszke-rozdzial-19-notatki-ai-147",
+      "bookId": "psychologia-spoleczna-grzyb-wojciszke",
+      "chapterId": "rozdzial-19-notatki-ai",
+      "stems": [
+        "W jaki sposób efekt jednorodności grupy obcej wpływa na postrzeganie ludzi należących do innych grup niż nasza własna?"
+      ],
+      "correct": [
+        "Dostrzegamy mniej różnic między członkami grupy obcej"
+      ],
+      "distractors": [
+        "Dostrzegamy więcej różnic między członkami grupy obcej",
+        "Członkowie grupy obcej wydają się bardziej podobni do nas niż swoi",
+        "Członkowie grupy obcej są oceniani jako bardziej kompetentni",
+        "Członkowie grupy obcej wydają się bardziej zróżnicowani niż swoi",
+        "Lepiej rozpoznajemy twarze członków grupy obcej niż własnej",
+        "Członkowie grupy obcej są oceniani jako cieplejsi od swoich"
+      ],
+      "explanation": "„Oni są wszyscy tacy sami”: członków grupy obcej widzimy jako bardziej do siebie podobnych (i częściej ich mylimy) niż członków grupy własnej, bo informacje o nich kodujemy jako informacje o grupie, a nie o osobach.",
+      "sourceExcerpt": "s. 487: Ten efekt jednorodności grupy obcej wyraża się nie tylko w przekonaniu, że „oni (Chińczycy, ginekolodzy, mężczyźni) są wszyscy tacy sami”, lecz także w faktycznie częstszym myleniu członków grupy obcej niż własnej",
+      "difficulty": 1,
+      "status": "ok"
     }
   ],
   "bookTitle": "“Psychologia Społeczna” Grzyb, Wojciszke"

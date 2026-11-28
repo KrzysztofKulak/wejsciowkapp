@@ -75,3 +75,41 @@ B) Osoba musi mieć motywację do świadomego przetwarzania informacji
 C) Schemat musi być aktywizowany (charakter percepcyjny, lub przedpercepcyjny)
 D) Sytuacja musi być dla osoby nowa, nietypowa
 Answer: C
+
+## Rozdział 19
+Przepisane ze zdjęć slajdów (przykładowe pytania prowadzącego, 2026-11-28). Rok przy Steele'u na slajdzie (1971) jest błędny – w bazie pominięty.
+
+Q: Jak Jost i in. (2004) określają zjawisko polegające na tym, że członkowie grup położonych niżej w hierarchii sami akceptują swoją gorszą pozycję i przypisują sobie mniejsze uprawnienia (np. kobiety oczekujące niższych płac niż mężczyźni)?
+A) Konflikt symboliczny
+B) Dehumanizacja
+C) Samoupośledzenie
+D) Zagrożenie stereotypem
+Answer: C
+
+Q: Zgodnie z Modelem Treści Stereotypów (MTS), jaką nazwę ma rodzaj stereotypu dotyczący grupy uznawanej za mało kompetentną, ale ciepłą?
+A) Stereotyp jednorodnie pozytywny
+B) Stereotyp jednorodnie negatywny
+C) Stereotyp paternalistyczny
+D) Stereotyp zawistny
+Answer: C
+
+Q: Co wykazały klasyczne badania Henriego Tajfela (1969) prowadzone w paradygmacie grup minimalnych?
+A) W warunkach anonimowości ludzie traktują członków grupy własnej surowiej, niż grupy obcej
+B) Rezultatem podziału na grupy minimalne jest zawsze konflikt międzygrupowy
+C) Uprzedzenia wobec grupy obcej pojawiają się tylko w przypadku rywalizacji o zasoby
+D) Do pojawienia się faworyzacji grupy własnej wystarczy podział osób na dwie arbitralne kategorie
+Answer: D
+
+Q: Na czym polega zjawisko zagrożenia stereotypem, opisane przez Claude Steele (eksperyment polegający na rozwiązywaniu trudnych zadań matematycznych)?
+A) Na stałym poczuciu zagrożenia ze strony grupy obcej
+B) Na wykluczeniu członków grupy własnej pod wpływem stereotypu
+C) Na obniżeniu sprawności w dziedzinie objętej stereotypem
+D) Na zawyżaniu ocen członków grupy własnej, w reakcji na stereotyp
+Answer: C
+
+Q: W jaki sposób efekt jednorodności grupy obcej wpływa na postrzeganie ludzi należących do innych grup niż nasza własna?
+A) Osoba dostrzega mniej różnic między członkami grupy obcej
+B) Osoba dostrzega więcej różnic między członkami grupy obcej
+C) Członkowie grupy obcej są oceniani jako bardziej podobni do nas niż grupy własnej
+D) Członkowie grupy obcej są oceniani jako bardziej kompetentni
+Answer: A

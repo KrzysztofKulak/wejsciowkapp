@@ -22,7 +22,7 @@
 - **Mity legitymizujące** – podzielane przekonania dowartościowujące grupy wyżej położone (stereotypy, ideologie), np. **ideologia merytokratyczna**.
   - Polacy: nierówności „za duże”, ale rzeczywiste i pożądane zarobki korelują **r = 0,99**; przedsiębiorca/sprzątaczka: myślą 21×, chcieliby 8×.
 - W silnie ustabilizowanych hierarchiach grupy upośledzone mają **słabą preferencję swoich** i **pozytywne postawy wobec uprzywilejowanych** (zwł. w miarach ukrytych; lalki – czarnoskóre dziewczynki też wolały białe); USA tak, Polska nie.
-- **Samoupośledzanie** – kobiety „zasługują” na mniej, nisko opłacani mniej wymagają → status quo.
+- **Samoupośledzenie (samoupośledzanie)** – kobiety „zasługują” na mniej, nisko opłacani mniej wymagają → status quo.
 - **Piętnowanie (stygmatyzacja)** – silna dewaluacja za cechę (otyłość), czyn (zdrada) lub przynależność (bezdomni); budzi **lęk i pogardę**; piętno to **wytwór społeczności**, zmienia się z normami.
 
 ### Antagonizmy – 5 źródeł
